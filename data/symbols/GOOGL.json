@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 361.92,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 62,
-    "label": "中等風險：需要跨市場確認"
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -17,6 +17,11 @@
     "dealer_delta_hedge_shares": 0,
     "label": "尚未接入 options flow API"
   },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
+  },
   "price_series": [
     {
       "timestamp": "2026-07-09T11:55:59.827419+00:00",
@@ -25,9 +30,45 @@
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 361.92
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
+      "close": 361.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T11:36:00+00:00",
+      "title": "Tech Stock Sell-Off: 1 ETF to Load Up On Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T11:00:00+00:00",
+      "title": "Keeper Security surpasses $225M in ARR with transformative growth and is emerging as the market standard for AI-native identity security",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T10:40:00+00:00",
+      "title": "Greg Abel's Alphabet Bet Topped Berkshire's Coca-Cola Stake",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T10:35:27+00:00",
+      "title": "Google appeals Indian ruling over its ads platform, citing consumer harm",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T09:50:00+00:00",
       "title": "If the \"Magnificent Seven\" Were Recreated, Here's What Stocks I'd Include (Hint: Not SpaceX)",
@@ -59,38 +100,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T07:15:00+00:00",
-      "title": "Best Buy: Better Q1 Than Expected Leaves Little Upside, But Near 5% Yield Attractive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T06:38:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T06:00:00+00:00",
-      "title": "Keeper Security surpasses $225M in ARR with transformative growth and is emerging as the market standard for AI-native identity security",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T06:00:00+00:00",
-      "title": "This Earnings Season Is the Stock Market’s Biggest Test",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -104,5 +113,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "GOOGL quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "GOOGL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

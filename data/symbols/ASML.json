@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1768.65,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 60,
-    "label": "中等風險：需要跨市場確認"
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -17,6 +17,11 @@
     "dealer_delta_hedge_shares": 0,
     "label": "尚未接入 options flow API"
   },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
+  },
   "price_series": [
     {
       "timestamp": "2026-07-09T11:55:59.827419+00:00",
@@ -24,6 +29,10 @@
     },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
+      "close": 1768.65
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 1768.65
     }
   ],
@@ -104,5 +113,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "ASML quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "ASML quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

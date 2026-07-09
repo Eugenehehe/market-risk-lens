@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 383.34,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 62,
-    "label": "中等風險：需要跨市場確認"
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -17,6 +17,11 @@
     "dealer_delta_hedge_shares": 0,
     "label": "尚未接入 options flow API"
   },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
+  },
   "price_series": [
     {
       "timestamp": "2026-07-09T11:55:59.827419+00:00",
@@ -25,68 +30,72 @@
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 383.34
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
+      "close": 383.34
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-09T11:44:22+00:00",
+      "title": "Software stocks slide as Starbucks builds AI tools to replace vendor software",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T11:36:00+00:00",
+      "title": "Tech Stock Sell-Off: 1 ETF to Load Up On Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T11:16:51+00:00",
+      "title": "Three Enticing Clues Put This Broadcom Partner, Nvidia Rival In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T11:00:00+00:00",
+      "title": "Copilot and AI Agents Do Real Work Inside Custom Power Apps",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T10:59:54+00:00",
+      "title": "Starbucks working on AI tools to replace Microsoft and IBM software - report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T10:46:00+00:00",
+      "title": "SpaceX Stock Has Sky-High Bull Targets—How It Can Hit $900",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T10:33:20+00:00",
+      "title": "AI Weekly: Samsung's massive profits, Microsoft's big layoffs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-09T09:50:00+00:00",
       "title": "If the \"Magnificent Seven\" Were Recreated, Here's What Stocks I'd Include (Hint: Not SpaceX)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T08:46:43+00:00",
-      "title": "PlayStation says it will stop making physical games – and that should worry us all",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T08:05:00+00:00",
-      "title": "New Report: 'Generative AI in Material Science Market Report 2026' Profiles Microsoft, NVIDIA, IBM, Siemens, and 29 Other Key Players",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T07:25:00+00:00",
-      "title": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T07:20:37+00:00",
-      "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T05:33:49+00:00",
-      "title": "The Case For Buying Smaller Dividends That Grow Faster",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T01:14:34+00:00",
-      "title": "Commvault (CVLT) Stock Has Cheap Cash Flow But Expensive Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T00:01:08+00:00",
-      "title": "Trump Announced His AI Action Plan Declaring  ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -104,5 +113,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MSFT quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "MSFT quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

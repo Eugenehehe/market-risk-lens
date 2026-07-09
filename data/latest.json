@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 204.12,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 76,
-    "label": "高風險：價格波動或事件密度偏高"
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 72,
@@ -16,6 +16,11 @@
   "options_pressure": {
     "dealer_delta_hedge_shares": 1524000,
     "label": "近月 call gamma 可能放大現股買盤"
+  },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
     {
@@ -53,68 +58,72 @@
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 204.12
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
+      "close": 204.12
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-09T09:45:38+00:00",
-      "title": "Cerebras targets Europe with multibillion-dollar AI expansion, challenging Nvidia",
+      "timestamp": "2026-07-09T11:47:54+00:00",
+      "title": "Dow Jones Futures Fall Amid Iran News But Nasdaq Eyes Key Levels; Nvidia, Valero, Dell, SpaceX In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:34:00+00:00",
-      "title": "A Downgrade Wave Says Bank Stocks Are Priced for Perfection Ahead of Q2 Earnings. Here's the Bear Case.",
+      "timestamp": "2026-07-09T11:36:11+00:00",
+      "title": "Meta Plans to Sell AI Compute — So Why Spend $10 Billion to Build Even More Data Centers?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:31:00+00:00",
-      "title": "Cathie Wood's Ark Invest Has Bought $9.1 Million of Kratos Defense Stock So Far in July",
+      "timestamp": "2026-07-09T11:36:00+00:00",
+      "title": "Tech Stock Sell-Off: 1 ETF to Load Up On Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:26:47+00:00",
-      "title": "French competition authority's Nvidia probe nearing end",
+      "timestamp": "2026-07-09T11:35:00+00:00",
+      "title": "Soaring Defense Spending Means Great News for These 2 Defense Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:26:00+00:00",
-      "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
+      "timestamp": "2026-07-09T11:33:05+00:00",
+      "title": "Why ServiceNow Stock Plunged 36% in the First Half of the Year",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:20:00+00:00",
-      "title": "President Donald Trump Is Buying Dell. Should You?",
+      "timestamp": "2026-07-09T11:31:04+00:00",
+      "title": "Pepsi Cut Doritos Prices to Win Back America, Then Americans Bought Gas Instead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:12:00+00:00",
-      "title": "Sandisk's Memory Prices Could Double Again in Fiscal 2027, but Has the Market Already Priced That Into the Stock?",
+      "timestamp": "2026-07-09T11:25:00+00:00",
+      "title": "1 Incredible Quantum Computing Stock That Could Make Investors a Fortune",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T09:06:00+00:00",
-      "title": "UnitedHealth Is Emerging From Its Worst Crisis in Decades. Here's What History Says Is Coming Next.",
+      "timestamp": "2026-07-09T11:20:00+00:00",
+      "title": "How Likely Is a Recession in 2026? Experts Say There's Good and Bad News for Investors.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -157,5 +166,5 @@
     "prob_down_gt_1pct": 0.22,
     "prob_up_gt_1pct": 0.28
   },
-  "narrative": "NVDA quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "NVDA quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

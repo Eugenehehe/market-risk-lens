@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 431.97,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 76,
-    "label": "高風險：價格波動或事件密度偏高"
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -17,6 +17,11 @@
     "dealer_delta_hedge_shares": 0,
     "label": "尚未接入 options flow API"
   },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
+  },
   "price_series": [
     {
       "timestamp": "2026-07-09T11:55:59.827419+00:00",
@@ -25,9 +30,21 @@
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 431.97
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
+      "close": 431.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T11:47:54+00:00",
+      "title": "Dow Jones Futures Fall Amid Iran News But Nasdaq Eyes Key Levels; Nvidia, Valero, Dell, SpaceX In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T09:20:00+00:00",
       "title": "President Donald Trump Is Buying Dell. Should You?",
@@ -83,14 +100,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-08T20:31:19+00:00",
-      "title": "Nancy Pelosi Stock Tracker Says 'Stop Overthinking What Stocks to Buy' After Trump's Dell Endorsement",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -104,5 +113,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "DELL quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "DELL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

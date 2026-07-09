@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 745.4,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 53,
-    "label": "中等風險：需要跨市場確認"
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -17,6 +17,11 @@
     "dealer_delta_hedge_shares": 0,
     "label": "尚未接入 options flow API"
   },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
+  },
   "price_series": [
     {
       "timestamp": "2026-07-09T11:55:59.827419+00:00",
@@ -25,9 +30,29 @@
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 745.4
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
+      "close": 745.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T11:15:24+00:00",
+      "title": "Coca-Cola vs Exxon: Which Blue Chip Won the Decade?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T11:03:13+00:00",
+      "title": "Wall Street Is Warning of a Market Snapback. For a 73-Year-Old, an RMD Locked to Last Year’s Balance Could Force a Sale at the Bottom.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T10:47:28+00:00",
       "title": "Breadth Rolls Over as Indexes Hold Their Ground",
@@ -75,22 +100,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T02:50:00+00:00",
-      "title": "Summer Rally Signals: Why NDX Outperformance Points To Options Opportunities",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T01:38:03+00:00",
-      "title": "Dow, Nasdaq, S&P 500 Futures Climb Amid US-Iran Tensions, Fed Inflation Worries: WULF, CMPS, ANET, PENG Stocks In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -104,5 +113,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "SPY quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "SPY quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

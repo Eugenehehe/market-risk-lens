@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T12:10:48.963875+00:00",
+  "generated_at": "2026-07-09T12:23:36.009467+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 948.8,
@@ -7,7 +7,7 @@
   },
   "risk": {
     "score": 59,
-    "label": "中等風險：需要跨市場確認"
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -17,6 +17,11 @@
     "dealer_delta_hedge_shares": 0,
     "label": "尚未接入 options flow API"
   },
+  "options_summary": {
+    "source": "Yahoo Finance public options chain",
+    "status": "failed",
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
+  },
   "price_series": [
     {
       "timestamp": "2026-07-09T11:55:59.827419+00:00",
@@ -25,68 +30,72 @@
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 948.8
+    },
+    {
+      "timestamp": "2026-07-09T12:23:36.009467+00:00",
+      "close": 948.8
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-09T08:00:00+00:00",
-      "title": "Micron Stock Steadies After Memory Selloff, BofA Says It’s Time to Buy",
+      "timestamp": "2026-07-09T11:37:18+00:00",
+      "title": "Chip stocks rise as Trump says Iran called for a deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T07:20:37+00:00",
-      "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
+      "timestamp": "2026-07-09T11:36:00+00:00",
+      "title": "Tech Stock Sell-Off: 1 ETF to Load Up On Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T06:53:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Micron Technology and Qualcomm",
+      "timestamp": "2026-07-09T10:32:00+00:00",
+      "title": "The U.S. Tech Selloff Is Over and an Unlikely Hero Can Kickstart the Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T06:30:23+00:00",
-      "title": "Micron vs. SK Hynix: Futurum's Shay Boloor Picks MU Over Nvidia's 'Biggest' Provider, Citing 'Wonky' Korean Markets",
+      "timestamp": "2026-07-09T10:31:00+00:00",
+      "title": "SK Hynix Stock Is Rising Ahead of Pricing for Oversubscribed U.S. Listing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T06:00:00+00:00",
-      "title": "This Earnings Season Is the Stock Market’s Biggest Test",
+      "timestamp": "2026-07-09T10:26:00+00:00",
+      "title": "Broadcom, Intel, Corning, Salesforce, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T05:35:00+00:00",
-      "title": "Micron Raised Its Guidance on Surging Memory Prices. Here's What It Means for the Stock.",
+      "timestamp": "2026-07-09T10:25:26+00:00",
+      "title": "Memory monthly sales hit record $74.6B as analysts see price surge ahead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T02:50:00+00:00",
-      "title": "Summer Rally Signals: Why NDX Outperformance Points To Options Opportunities",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-09T10:17:14+00:00",
+      "title": "U.S. chip stocks rebound, tracking China semiconductor rally",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-09T01:38:43+00:00",
-      "title": "SK Hynix US listing more than seven times oversubscribed, source says",
+      "timestamp": "2026-07-09T10:02:00+00:00",
+      "title": "Wall Street's next AI trade is smaller than a grain of rice: One Big Idea",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -104,5 +113,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MU quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+  "narrative": "MU quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }
