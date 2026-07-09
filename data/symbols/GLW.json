@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T12:23:36.009467+00:00",
+  "generated_at": "2026-07-09T14:12:17.524639+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 184.03,
-    "change_pct": -0.7282338979393677
+    "price": 199.93,
+    "change_pct": 8.639895669184373
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -34,9 +34,21 @@
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 184.03
+    },
+    {
+      "timestamp": "2026-07-09T14:12:17.524639+00:00",
+      "close": 199.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T12:35:00+00:00",
+      "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T10:26:00+00:00",
       "title": "Broadcom, Intel, Corning, Salesforce, and More Stocks That Explain Today’s Market",
@@ -88,14 +100,6 @@
     {
       "timestamp": "2026-07-08T13:01:00+00:00",
       "title": "Micron, Occidental, Delta, SpaceX, Alibaba, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-08T13:00:05+00:00",
-      "title": "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T12:23:36.009467+00:00",
+  "generated_at": "2026-07-09T14:12:17.524639+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 948.8,
-    "change_pct": 1.1104243483450071
+    "price": 1025.8,
+    "change_pct": 8.115514333895458
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -34,9 +34,21 @@
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 948.8
+    },
+    {
+      "timestamp": "2026-07-09T14:12:17.524639+00:00",
+      "close": 1025.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T12:35:00+00:00",
+      "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T11:37:18+00:00",
       "title": "Chip stocks rise as Trump says Iran called for a deal",
@@ -88,14 +100,6 @@
     {
       "timestamp": "2026-07-09T10:17:14+00:00",
       "title": "U.S. chip stocks rebound, tracking China semiconductor rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T10:02:00+00:00",
-      "title": "Wall Street's next AI trade is smaller than a grain of rice: One Big Idea",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
