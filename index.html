@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Market Risk Lens</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Market Risk Lens</h1>
+      <p>事件風險 / 是否提前反應 / 選擇權壓力 / 跨市場確認 / 近即時更新</p>
+    </div>
+    <div class="status">
+      <span id="refreshStatus">loading...</span>
+      <button id="refreshBtn">手動刷新</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="grid kpis">
+      <article class="card"><div class="label">風險分數</div><div id="riskScore" class="big">--</div><div id="riskLabel" class="muted">--</div></article>
+      <article class="card"><div class="label">主標的</div><div id="symbol" class="big">--</div><div id="price" class="muted">--</div></article>
+      <article class="card"><div class="label">提前反應</div><div id="prepricing" class="big">--</div><div id="prepricingLabel" class="muted">--</div></article>
+      <article class="card"><div class="label">Options Hedge Pressure</div><div id="hedgePressure" class="big">--</div><div id="hedgeLabel" class="muted">--</div></article>
+    </section>
+
+    <section class="grid two">
+      <article class="card"><h2>價格與事件時間線</h2><div id="priceChart" class="chart"></div></article>
+      <article class="card"><h2>機率分布</h2><div id="distChart" class="chart"></div></article>
+    </section>
+
+    <section class="grid two">
+      <article class="card"><h2>事件拆解</h2><div id="eventList" class="list"></div></article>
+      <article class="card"><h2>跨市場確認</h2><div id="crossMarket" class="list"></div></article>
+    </section>
+
+    <section class="card"><h2>系統判讀</h2><pre id="narrative"></pre></section>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
