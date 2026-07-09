@@ -37,7 +37,12 @@
     <section class="card notice">
       <strong>更新說明：</strong>「刷新畫面」只會重新讀取 GitHub Pages 上的 JSON，不會觸發抓資料。
       真正抓資料由 GitHub Actions 每 5 分鐘更新一次；秒級 real-time 需要後端 worker + market data API。
-      搜尋目前支援 watchlist 內已產生 JSON 的 ticker。
+      免費期權層使用 Yahoo options chain 估算 gamma wall / pin risk，沒有 MLFT 和主動買賣方向。
+    </section>
+
+    <section class="card">
+      <h2>免費期權結構地圖</h2>
+      <div id="optionsSummary" class="mini-grid"></div>
     </section>
 
     <section class="grid two">
