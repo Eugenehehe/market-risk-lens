@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T14:12:17.524639+00:00",
+  "generated_at": "2026-07-09T16:43:15.798077+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 391.54,
-    "change_pct": 0.7332321387223839
+    "price": 402.23,
+    "change_pct": 3.483495845017881
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -38,68 +38,72 @@
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 391.54
+    },
+    {
+      "timestamp": "2026-07-09T16:43:15.798077+00:00",
+      "close": 402.23
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-09T15:41:00+00:00",
+      "title": "Stocks making big moves yesterday: Penguin Solutions, Kirby, Dell, Broadcom, and Halliburton",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T14:57:51+00:00",
+      "title": "Meta Reportedly Takes Big Step Toward AI Chip. But The Stock Is Falling.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T14:54:01+00:00",
+      "title": "Stock Market Today: Dow Builds Gains Amid U.S.-Iran News; Arm, Dell Lead Upside (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T14:22:00+00:00",
+      "title": "Why AMD’s Stock Rise Is Worrying This Analyst",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T14:21:00+00:00",
+      "title": "Credo Climbs 165% in a Year: Is the Stock Still Worth Buying?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T14:11:34+00:00",
+      "title": "Meta Shares Slip as Heavy AI Infrastructure Spending Weighs on Investor Sentiment (META)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T14:04:48+00:00",
+      "title": "AMD Jumps 7%, Intel Climbs 5%, Broadcom Rises 2% as Tom Lee Calls the Chip Selloff a Buying Opportunity",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-09T13:54:33+00:00",
       "title": "Micron, Sandisk, Marvell stocks jump, leading chip sector gains",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T13:29:23+00:00",
-      "title": "The Line In The Sand For AVGO Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T13:24:33+00:00",
-      "title": "What Owning Intel Stock Means In A Market Crash",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T13:19:09+00:00",
-      "title": "After The Tumble, Is Marvell Technology Stock A Trap Or A Treasure?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:52:24+00:00",
-      "title": "Apple Signs Broadcom Chip Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:50:32+00:00",
-      "title": "Broadcom (NASDAQ:AVGO) Combines Perfect Growth Rating with Strong Technical Setup",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:21:41+00:00",
-      "title": "Meta to start production of Iris AI chip in September 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:18:34+00:00",
-      "title": "Meta falls as massive AI infrastructure spending plans overshadow chip progress",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
