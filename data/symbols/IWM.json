@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T18:30:20.696140+00:00",
+  "generated_at": "2026-07-09T20:25:20.556667+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 297.5,
-    "change_pct": 1.3697696606242316
+    "price": 297.24,
+    "change_pct": 1.2811775930216651
   },
   "risk": {
     "score": 61,
@@ -46,9 +46,21 @@
     {
       "timestamp": "2026-07-09T18:30:20.696140+00:00",
       "close": 297.5
+    },
+    {
+      "timestamp": "2026-07-09T20:25:20.556667+00:00",
+      "close": 297.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T14:22:11+00:00",
+      "title": "AAII Sentiment Survey: Pessimism Drops",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T11:30:01+00:00",
       "title": "5 Eerie Signs Of A 1999-Like Market Top",
@@ -100,14 +112,6 @@
     {
       "timestamp": "2026-07-09T09:55:00+00:00",
       "title": "The Fed Minutes Reinforce A Hawkish Outlook",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T08:56:43+00:00",
-      "title": "Wading Through The Geopolitical Headwinds To Better Days Ahead",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
