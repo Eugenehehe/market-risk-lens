@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-07-08T20:55:00-04:00",
+  "snapshot": {"symbol": "NVDA", "price": 204.12, "change_pct": 1.86},
+  "risk": {"score": 78, "label": "高風險：事件 + options + pin risk 同時存在"},
+  "prepricing": {"score": 72, "label": "高度疑似已提前反應"},
+  "options_pressure": {"dealer_delta_hedge_shares": 1524000, "label": "近月 call gamma 可能放大現股買盤"},
+  "price_series": [
+    {"timestamp": "2026-07-08 09:30", "close": 193.2},
+    {"timestamp": "2026-07-08 10:00", "close": 195.1},
+    {"timestamp": "2026-07-08 10:53", "close": 196.8},
+    {"timestamp": "2026-07-08 12:00", "close": 200.7},
+    {"timestamp": "2026-07-08 14:30", "close": 203.8},
+    {"timestamp": "2026-07-08 15:40", "close": 204.9},
+    {"timestamp": "2026-07-08 16:00", "close": 204.12}
+  ],
+  "events": [
+    {"timestamp": "2026-07-08 04:10", "title": "Geopolitical headline hits risk assets", "source": "manual", "event_type": "geopolitical", "severity": 5, "sentiment": -1},
+    {"timestamp": "2026-07-08 10:53", "title": "Large 195C MLFT package", "source": "options flow", "event_type": "options_flow", "severity": 5, "sentiment": 1},
+    {"timestamp": "2026-07-08 15:40", "title": "0DTE 205C pin risk", "source": "options flow", "event_type": "pin_risk", "severity": 4, "sentiment": -1}
+  ],
+  "cross_market": [
+    {"symbol": "NQ", "name": "Nasdaq futures", "change_pct": 0.15, "interpretation": "大盤未確認崩盤"},
+    {"symbol": "WTI", "name": "Crude oil", "change_pct": 2.1, "interpretation": "地緣風險仍在"},
+    {"symbol": "US2Y", "name": "2Y yield", "change_pct": 0.8, "interpretation": "利率壓力偏高"},
+    {"symbol": "VIX", "name": "VIX", "change_pct": -3.4, "interpretation": "恐慌沒有跟上"}
+  ],
+  "probability_distribution": {"p10": -1.8, "p25": -0.7, "median": 0.25, "p75": 1.1, "p90": 2.4, "prob_up": 0.58, "prob_down_gt_1pct": 0.22, "prob_up_gt_1pct": 0.28},
+  "narrative": "目前判讀：利空事件先造成風險定價，但現股沒有跌破核心位，之後 options flow 成為加速器。205C 附近存在 0DTE pin risk，收盤低於 205 對追 call 買方極不友善。"
+}
