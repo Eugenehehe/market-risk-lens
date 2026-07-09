@@ -1,6 +1,10 @@
 {
   "primary_symbol": "NVDA",
-  "watchlist": ["NVDA", "QQQ", "SMH", "MU", "MRVL"],
+  "watchlist": [
+    "NVDA", "MU", "MRVL", "AVGO", "AMD", "INTC", "TSM", "ASML", "SMH", "SOXX",
+    "QQQ", "SPY", "IWM", "AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "ORCL",
+    "GLW", "HPE", "DELL", "FUTU", "UVXY", "VIXY"
+  ],
   "cross_market": ["NQ", "WTI", "US2Y", "VIX"],
-  "notes": "GitHub Pages version. For true real-time options flow, add a backend/worker and a paid options data API."
+  "notes": "GitHub Pages version. Search supports symbols listed in watchlist. For arbitrary real-time search, add a backend worker and a market data API."
 }
