@@ -13,9 +13,16 @@
       <h1>Market Risk Lens</h1>
       <p>事件風險 / 是否提前反應 / 選擇權壓力 / 跨市場確認 / 近即時更新</p>
     </div>
-    <div class="status">
-      <span id="refreshStatus">loading...</span>
-      <button id="refreshBtn">手動刷新</button>
+    <div class="toolbar">
+      <form id="symbolForm" class="symbol-search">
+        <input id="symbolInput" autocomplete="off" placeholder="搜尋 ticker: NVDA / MU / MSFT" />
+        <button type="submit">搜尋</button>
+      </form>
+      <select id="watchlistSelect" title="watchlist"></select>
+      <div class="status">
+        <span id="refreshStatus">loading...</span>
+        <button id="refreshBtn">刷新畫面</button>
+      </div>
     </div>
   </header>
 
@@ -25,6 +32,12 @@
       <article class="card"><div class="label">主標的</div><div id="symbol" class="big">--</div><div id="price" class="muted">--</div></article>
       <article class="card"><div class="label">提前反應</div><div id="prepricing" class="big">--</div><div id="prepricingLabel" class="muted">--</div></article>
       <article class="card"><div class="label">Options Hedge Pressure</div><div id="hedgePressure" class="big">--</div><div id="hedgeLabel" class="muted">--</div></article>
+    </section>
+
+    <section class="card notice">
+      <strong>更新說明：</strong>「刷新畫面」只會重新讀取 GitHub Pages 上的 JSON，不會觸發抓資料。
+      真正抓資料由 GitHub Actions 每 5 分鐘更新一次；秒級 real-time 需要後端 worker + market data API。
+      搜尋目前支援 watchlist 內已產生 JSON 的 ticker。
     </section>
 
     <section class="grid two">
