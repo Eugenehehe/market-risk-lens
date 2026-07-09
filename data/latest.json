@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T11:34:33.168258+00:00",
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 204.12,
-    "change_pct": 1.86
+    "change_pct": 3.651043518001318
   },
   "risk": {
-    "score": 0,
-    "label": "尚未設定 FINNHUB_API_KEY；顯示靜態資料"
+    "score": 76,
+    "label": "高風險：價格波動或事件密度偏高"
   },
   "prepricing": {
     "score": 72,
@@ -45,32 +45,76 @@
     {
       "timestamp": "2026-07-08 16:00",
       "close": 204.12
+    },
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 204.12
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-08 04:10",
-      "title": "Geopolitical headline hits risk assets",
-      "source": "manual",
-      "event_type": "geopolitical",
-      "severity": 5,
-      "sentiment": -1
+      "timestamp": "2026-07-09T09:45:38+00:00",
+      "title": "Cerebras targets Europe with multibillion-dollar AI expansion, challenging Nvidia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
     },
     {
-      "timestamp": "2026-07-08 10:53",
-      "title": "Large 195C MLFT package",
-      "source": "options flow",
-      "event_type": "options_flow",
-      "severity": 5,
-      "sentiment": 1
+      "timestamp": "2026-07-09T09:34:00+00:00",
+      "title": "A Downgrade Wave Says Bank Stocks Are Priced for Perfection Ahead of Q2 Earnings. Here's the Bear Case.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
     },
     {
-      "timestamp": "2026-07-08 15:40",
-      "title": "0DTE 205C pin risk",
-      "source": "options flow",
-      "event_type": "pin_risk",
-      "severity": 4,
-      "sentiment": -1
+      "timestamp": "2026-07-09T09:31:00+00:00",
+      "title": "Cathie Wood's Ark Invest Has Bought $9.1 Million of Kratos Defense Stock So Far in July",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:26:47+00:00",
+      "title": "French competition authority's Nvidia probe nearing end",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:26:00+00:00",
+      "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:20:00+00:00",
+      "title": "President Donald Trump Is Buying Dell. Should You?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:12:00+00:00",
+      "title": "Sandisk's Memory Prices Could Double Again in Fiscal 2027, but Has the Market Already Priced That Into the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:06:00+00:00",
+      "title": "UnitedHealth Is Emerging From Its Worst Crisis in Decades. Here's What History Says Is Coming Next.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
     }
   ],
   "cross_market": [
@@ -109,5 +153,5 @@
     "prob_down_gt_1pct": 0.22,
     "prob_up_gt_1pct": 0.28
   },
-  "narrative": "尚未設定 FINNHUB_API_KEY。Settings → Secrets and variables → Actions 加入 FINNHUB_API_KEY 後，GitHub Actions 會每 5 分鐘更新 watchlist。"
+  "narrative": "NVDA quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
 }

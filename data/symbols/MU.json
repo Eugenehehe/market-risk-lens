@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "MU",
+    "price": 948.8,
+    "change_pct": 1.1104243483450071
+  },
+  "risk": {
+    "score": 59,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 948.8
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T08:00:00+00:00",
+      "title": "Micron Stock Steadies After Memory Selloff, BofA Says It’s Time to Buy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:20:37+00:00",
+      "title": "Is This The Big Tech Resurgence Investors Have Been Waiting For? AI Chip Stocks Step Back, Mag 7 Steps Up In July",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:53:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Micron Technology and Qualcomm",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:30:23+00:00",
+      "title": "Micron vs. SK Hynix: Futurum's Shay Boloor Picks MU Over Nvidia's 'Biggest' Provider, Citing 'Wonky' Korean Markets",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:00:00+00:00",
+      "title": "This Earnings Season Is the Stock Market’s Biggest Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T05:35:00+00:00",
+      "title": "Micron Raised Its Guidance on Surging Memory Prices. Here's What It Means for the Stock.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T02:50:00+00:00",
+      "title": "Summer Rally Signals: Why NDX Outperformance Points To Options Opportunities",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T01:38:43+00:00",
+      "title": "SK Hynix US listing more than seven times oversubscribed, source says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "MU quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

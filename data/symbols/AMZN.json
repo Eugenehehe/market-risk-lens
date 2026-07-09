@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "AMZN",
+    "price": 243.62,
+    "change_pct": -0.9594275957394816
+  },
+  "risk": {
+    "score": 58,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 243.62
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T09:26:00+00:00",
+      "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:20:00+00:00",
+      "title": "53% of Employers Can't Find AI-Ready Grads. New Study Maps Six Ways Forward for Indonesia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:27:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Amazon.com, Walmart, American Express, Vitamin Cottage and Ampco-Pittsburgh",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:25:00+00:00",
+      "title": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:08:00+00:00",
+      "title": "How global energy markets built the ‘Amazon of oil’ logistics to keep prices from spiraling",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:38:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:35:00+00:00",
+      "title": "Billionaire Steve Cohen Sold Amazon and Nvidia but Loaded Up on This Beaten-Down Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T05:54:51+00:00",
+      "title": "Apple Hands Broadcom a $30 Billion Lifeline as Trump Declares the Iran Ceasefire Dead",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "AMZN quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "MRVL",
+    "price": 231.71,
+    "change_pct": 0.4377980060684905
+  },
+  "risk": {
+    "score": 54,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 231.71
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T06:38:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T21:33:00+00:00",
+      "title": "Top financial expert declares Marvell 'no longer a marvelous buy'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T19:36:29+00:00",
+      "title": "The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T17:11:16+00:00",
+      "title": "Marvell (MRVL) Is Down 22.6% After NVIDIA’s $2 Billion AI Bet And Index Exit - What's Changed",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T16:26:00+00:00",
+      "title": "Micron, Broadcom, Valero Energy, Delta, SpaceX, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T16:14:00+00:00",
+      "title": "Marvell: The Next Trillion Dollar AI Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T13:58:00+00:00",
+      "title": "SpaceX Stock Slides to its Lowest Levels Since IPO: Buy the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T13:21:26+00:00",
+      "title": "Nvidia, Micron, AMD Lead Chip Stock Selloff After Trump Said U.S.-Iran 'Truce Is Over'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "MRVL quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

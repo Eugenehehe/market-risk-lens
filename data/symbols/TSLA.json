@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "TSLA",
+    "price": 394.06,
+    "change_pct": -2.1940928270042126
+  },
+  "risk": {
+    "score": 68,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 394.06
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T09:03:00+00:00",
+      "title": "Tesla stock gets a surprising SpaceX reset",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T08:35:00+00:00",
+      "title": "Some Good and Bad News for Tesla Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T08:05:00+00:00",
+      "title": "$1,000 Invested in Tesla 10 Years Ago Is Worth Over $27,000 Today. Can SpaceX Follow That Same Path Over the Next Decade?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:25:00+00:00",
+      "title": "SpaceX Stock Has Some Sky-High Bull Targets—How It Can Hit $900",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T03:31:14+00:00",
+      "title": "Elon Musk Says Optimus, AI Will Enable 'Excellent' Healthcare—Cathie Wood Sees $50 Billion AI Compute Need",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T02:51:20+00:00",
+      "title": "SPCX Stock Records 3-Day Slide: Elon Musk Admits Anthropic’s Fable Is 'Definitely Better' Than Grok 4.5",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T01:17:00+00:00",
+      "title": "Tesla’s Model Y just got a sharper Rivian threat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T22:00:20+00:00",
+      "title": "Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices — TSLA, NVDA, BE, AAPL, WBD  In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "TSLA quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

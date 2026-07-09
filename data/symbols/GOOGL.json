@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "GOOGL",
+    "price": 361.92,
+    "change_pct": -1.3922567637522754
+  },
+  "risk": {
+    "score": 62,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 361.92
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T09:50:00+00:00",
+      "title": "If the \"Magnificent Seven\" Were Recreated, Here's What Stocks I'd Include (Hint: Not SpaceX)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:26:00+00:00",
+      "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T08:30:36+00:00",
+      "title": "GOOGL (Alphabet Inc.) Rides Strong Growth and a Tight Technical Setup for a Potential Breakout",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T08:05:00+00:00",
+      "title": "3 Market-Beating Stocks for Long-Term Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:15:00+00:00",
+      "title": "Best Buy: Better Q1 Than Expected Leaves Little Upside, But Near 5% Yield Attractive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:38:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Marvell Technology, Amazon, Alphabet and NVIDIA",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:00:00+00:00",
+      "title": "Keeper Security surpasses $225M in ARR with transformative growth and is emerging as the market standard for AI-native identity security",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:00:00+00:00",
+      "title": "This Earnings Season Is the Stock Market’s Biggest Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "GOOGL quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

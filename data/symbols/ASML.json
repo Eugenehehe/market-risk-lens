@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "ASML",
+    "price": 1768.65,
+    "change_pct": 1.2230438166750623
+  },
+  "risk": {
+    "score": 60,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 1768.65
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T08:21:03+00:00",
+      "title": "European Stocks Rise at Open as Tech, Banks Recover",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T21:50:03+00:00",
+      "title": "ASML (ASML) Gains As Market Dips: What You Should Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T20:29:50+00:00",
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T19:36:00+00:00",
+      "title": "Here Are Investment Pros’ Favorite Funds for Today’s Choppy Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T19:12:34+00:00",
+      "title": "ASML Holding (ENXTAM:ASML) Swings On Analyst Sentiment, Is It 17% Overvalued?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T15:38:17+00:00",
+      "title": "ASML Holding N.V. (ASML) Price Target Raised by Jefferies on Strong Semiconductor Outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T13:49:00+00:00",
+      "title": "Should You Buy ASML Holding Stock Before July 15?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T13:30:26+00:00",
+      "title": "Stock Split Watch: Are These 4 Mega-Cap Stocks Any Closer to Splitting?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "ASML quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

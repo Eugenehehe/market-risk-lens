@@ -1,29 +1,157 @@
 {
-  "generated_at": "2026-07-08T20:55:00-04:00",
-  "snapshot": {"symbol": "NVDA", "price": 204.12, "change_pct": 1.86},
-  "risk": {"score": 78, "label": "高風險：事件 + options + pin risk 同時存在"},
-  "prepricing": {"score": 72, "label": "高度疑似已提前反應"},
-  "options_pressure": {"dealer_delta_hedge_shares": 1524000, "label": "近月 call gamma 可能放大現股買盤"},
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "NVDA",
+    "price": 204.12,
+    "change_pct": 3.651043518001318
+  },
+  "risk": {
+    "score": 76,
+    "label": "高風險：價格波動或事件密度偏高"
+  },
+  "prepricing": {
+    "score": 72,
+    "label": "高度疑似已提前反應"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 1524000,
+    "label": "近月 call gamma 可能放大現股買盤"
+  },
   "price_series": [
-    {"timestamp": "2026-07-08 09:30", "close": 193.2},
-    {"timestamp": "2026-07-08 10:00", "close": 195.1},
-    {"timestamp": "2026-07-08 10:53", "close": 196.8},
-    {"timestamp": "2026-07-08 12:00", "close": 200.7},
-    {"timestamp": "2026-07-08 14:30", "close": 203.8},
-    {"timestamp": "2026-07-08 15:40", "close": 204.9},
-    {"timestamp": "2026-07-08 16:00", "close": 204.12}
+    {
+      "timestamp": "2026-07-08 09:30",
+      "close": 193.2
+    },
+    {
+      "timestamp": "2026-07-08 10:00",
+      "close": 195.1
+    },
+    {
+      "timestamp": "2026-07-08 10:53",
+      "close": 196.8
+    },
+    {
+      "timestamp": "2026-07-08 12:00",
+      "close": 200.7
+    },
+    {
+      "timestamp": "2026-07-08 14:30",
+      "close": 203.8
+    },
+    {
+      "timestamp": "2026-07-08 15:40",
+      "close": 204.9
+    },
+    {
+      "timestamp": "2026-07-08 16:00",
+      "close": 204.12
+    },
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 204.12
+    }
   ],
   "events": [
-    {"timestamp": "2026-07-08 04:10", "title": "Geopolitical headline hits risk assets", "source": "manual", "event_type": "geopolitical", "severity": 5, "sentiment": -1},
-    {"timestamp": "2026-07-08 10:53", "title": "Large 195C MLFT package", "source": "options flow", "event_type": "options_flow", "severity": 5, "sentiment": 1},
-    {"timestamp": "2026-07-08 15:40", "title": "0DTE 205C pin risk", "source": "options flow", "event_type": "pin_risk", "severity": 4, "sentiment": -1}
+    {
+      "timestamp": "2026-07-09T09:45:38+00:00",
+      "title": "Cerebras targets Europe with multibillion-dollar AI expansion, challenging Nvidia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:34:00+00:00",
+      "title": "A Downgrade Wave Says Bank Stocks Are Priced for Perfection Ahead of Q2 Earnings. Here's the Bear Case.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:31:00+00:00",
+      "title": "Cathie Wood's Ark Invest Has Bought $9.1 Million of Kratos Defense Stock So Far in July",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:26:47+00:00",
+      "title": "French competition authority's Nvidia probe nearing end",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:26:00+00:00",
+      "title": "Anthropic's IPO Will Lead to Windfall Profits for These 3 Early Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:20:00+00:00",
+      "title": "President Donald Trump Is Buying Dell. Should You?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:12:00+00:00",
+      "title": "Sandisk's Memory Prices Could Double Again in Fiscal 2027, but Has the Market Already Priced That Into the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T09:06:00+00:00",
+      "title": "UnitedHealth Is Emerging From Its Worst Crisis in Decades. Here's What History Says Is Coming Next.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
   ],
   "cross_market": [
-    {"symbol": "NQ", "name": "Nasdaq futures", "change_pct": 0.15, "interpretation": "大盤未確認崩盤"},
-    {"symbol": "WTI", "name": "Crude oil", "change_pct": 2.1, "interpretation": "地緣風險仍在"},
-    {"symbol": "US2Y", "name": "2Y yield", "change_pct": 0.8, "interpretation": "利率壓力偏高"},
-    {"symbol": "VIX", "name": "VIX", "change_pct": -3.4, "interpretation": "恐慌沒有跟上"}
+    {
+      "symbol": "NQ",
+      "name": "Nasdaq futures",
+      "change_pct": 0.15,
+      "interpretation": "大盤未確認崩盤"
+    },
+    {
+      "symbol": "WTI",
+      "name": "Crude oil",
+      "change_pct": 2.1,
+      "interpretation": "地緣風險仍在"
+    },
+    {
+      "symbol": "US2Y",
+      "name": "2Y yield",
+      "change_pct": 0.8,
+      "interpretation": "利率壓力偏高"
+    },
+    {
+      "symbol": "VIX",
+      "name": "VIX",
+      "change_pct": -3.4,
+      "interpretation": "恐慌沒有跟上"
+    }
   ],
-  "probability_distribution": {"p10": -1.8, "p25": -0.7, "median": 0.25, "p75": 1.1, "p90": 2.4, "prob_up": 0.58, "prob_down_gt_1pct": 0.22, "prob_up_gt_1pct": 0.28},
-  "narrative": "目前判讀：利空事件先造成風險定價，但現股沒有跌破核心位，之後 options flow 成為加速器。205C 附近存在 0DTE pin risk，收盤低於 205 對追 call 買方極不友善。"
+  "probability_distribution": {
+    "p10": -1.8,
+    "p25": -0.7,
+    "median": 0.25,
+    "p75": 1.1,
+    "p90": 2.4,
+    "prob_up": 0.58,
+    "prob_down_gt_1pct": 0.22,
+    "prob_up_gt_1pct": 0.28
+  },
+  "narrative": "NVDA quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
 }

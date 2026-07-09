@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "AMD",
+    "price": 517.405,
+    "change_pct": 0.2509155025091525
+  },
+  "risk": {
+    "score": 53,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 517.405
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T02:50:00+00:00",
+      "title": "Summer Rally Signals: Why NDX Outperformance Points To Options Opportunities",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T02:20:00+00:00",
+      "title": "Cathie Wood Sold $8 Million of AMD Stock in a Single Day",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T20:15:00+00:00",
+      "title": "AMD to Report Fiscal Second Quarter 2026 Financial Results",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T20:12:33+00:00",
+      "title": "AMD (AMD) Stock Looks Fully Valued Despite Strong AI Growth Hopes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T19:32:52+00:00",
+      "title": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T18:48:27+00:00",
+      "title": "Bull vs Bear case of Advanced Micro Devices, Inc. (AMD)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T18:44:00+00:00",
+      "title": "Cerebras Stock: Wafer-Scale AI Offers Big Potential, Big Risks?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-08T18:15:34+00:00",
+      "title": "Broadcom Spikes 5% on Expanded Apple Chip Deal; Intel and AMD Drift Lower",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "AMD quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}

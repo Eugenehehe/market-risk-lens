@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-09T11:55:59.827419+00:00",
+  "snapshot": {
+    "symbol": "IWM",
+    "price": 293.48,
+    "change_pct": -0.9149532394746585
+  },
+  "risk": {
+    "score": 58,
+    "label": "中等風險：需要跨市場確認"
+  },
+  "prepricing": {
+    "score": 0,
+    "label": "需要事件前後價格序列"
+  },
+  "options_pressure": {
+    "dealer_delta_hedge_shares": 0,
+    "label": "尚未接入 options flow API"
+  },
+  "price_series": [
+    {
+      "timestamp": "2026-07-09T11:55:59.827419+00:00",
+      "close": 293.48
+    }
+  ],
+  "events": [
+    {
+      "timestamp": "2026-07-09T10:47:28+00:00",
+      "title": "Breadth Rolls Over as Indexes Hold Their Ground",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T07:30:00+00:00",
+      "title": "Inflation Is Persistent And The Fed Should Be Worried: The June CPI Preview",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T06:37:36+00:00",
+      "title": "Agentic AI Has Triggered The Hyperscaler Hardware Killer Spiral",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T05:30:00+00:00",
+      "title": "Market Signals: The Case For Active Small Caps",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T04:05:00+00:00",
+      "title": "Global Employment Falls For Second Month In June Amid Subdued Growth Expectations",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T03:25:00+00:00",
+      "title": "The Impact Of Tariff Refunds On Business Activity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T03:20:00+00:00",
+      "title": "Global PMI Shows Inflation Rates Peaking Amid Lower Oil Prices",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T02:50:00+00:00",
+      "title": "Summer Rally Signals: Why NDX Outperformance Points To Options Opportunities",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
+  "cross_market": [],
+  "probability_distribution": {
+    "p10": null,
+    "p25": null,
+    "median": null,
+    "p75": null,
+    "p90": null,
+    "prob_up": null,
+    "prob_down_gt_1pct": null,
+    "prob_up_gt_1pct": null
+  },
+  "narrative": "IWM quote/news refreshed. 目前是近即時股票/新聞層；options flow、gamma wall、pin risk 需要接入付費選擇權資料源。"
+}
