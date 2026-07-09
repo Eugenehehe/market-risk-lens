@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T16:43:15.798077+00:00",
+  "generated_at": "2026-07-09T18:30:20.696140+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 400.15,
-    "change_pct": 1.545449931482512
+    "price": 407.55,
+    "change_pct": 3.4233365477338573
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -42,9 +42,61 @@
     {
       "timestamp": "2026-07-09T16:43:15.798077+00:00",
       "close": 400.15
+    },
+    {
+      "timestamp": "2026-07-09T18:30:20.696140+00:00",
+      "close": 407.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T17:32:02+00:00",
+      "title": "Nio Follows Tesla Playbook — Launches New Seating Configuration For Best-Selling SUV",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T17:20:49+00:00",
+      "title": "Citizens says Tesla near-term optimism is too high",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T16:45:18+00:00",
+      "title": "RBC Capital Raises its Price Target on Tesla (TSLA)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T16:31:02+00:00",
+      "title": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T15:52:00+00:00",
+      "title": "CME Group Is Launching Elon Musk's Tesla and SpaceX Futures Contracts on July 27. Here's the Investment Case.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T15:50:00+00:00",
+      "title": "Global Battery Electric Vehicle Market Report Now Available; Profiles Tesla, BYD, and 33 Other Key Players",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T15:35:00+00:00",
       "title": "Elon Musk Lost His Trillionaire Status as SpaceX Shares Dropped 26%. Are Tesla and SpaceX Stock Still a Buy?",
@@ -56,54 +108,6 @@
     {
       "timestamp": "2026-07-09T14:31:36+00:00",
       "title": "Forget Tesla: If You Dislike That Tesla Remains Long on Promises and Short on Delivery, Play This Inverse ETF",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T13:47:11+00:00",
-      "title": "Micron downgraded, Five Below upgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T13:33:54+00:00",
-      "title": "Why Tesla's \"Immense\" Opportunity In AI Will Disappoint Investors … For Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:38:03+00:00",
-      "title": "Musk Wins Approval for SEC Settlement",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:29:00+00:00",
-      "title": "Don’t Buy Tesla Stock, Analyst Says, Despite ‘Immense’ Potential",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T12:11:00+00:00",
-      "title": "How SpaceX Stock Can Hit $900",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T11:52:34+00:00",
-      "title": "Here Are Thursday’s Best Wall Street Analyst Research Calls: Align Technology, American Tower, Caesars Entertainment, Cohu, Five Below, Intuitive Surgical, Salesforce, Toast, and More",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

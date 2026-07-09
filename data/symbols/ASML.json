@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-09T16:43:15.798077+00:00",
+  "generated_at": "2026-07-09T18:30:20.696140+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1827.25,
-    "change_pct": 3.313261527153477
+    "price": 1820.21,
+    "change_pct": 2.9152178215022806
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -42,9 +42,29 @@
     {
       "timestamp": "2026-07-09T16:43:15.798077+00:00",
       "close": 1827.25
+    },
+    {
+      "timestamp": "2026-07-09T18:30:20.696140+00:00",
+      "close": 1820.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-09T17:10:42+00:00",
+      "title": "Stock Market Today: S&P 500 Gains Traction Amid Iran News; Arm, Dell Lead Upside (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-09T16:45:06+00:00",
+      "title": "Bernstein Raises its Price Target on ASML Holding (ASML)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-09T08:21:03+00:00",
       "title": "European Stocks Rise at Open as Tech, Banks Recover",
@@ -86,24 +106,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-08T15:38:17+00:00",
-      "title": "ASML Holding N.V. (ASML) Price Target Raised by Jefferies on Strong Semiconductor Outlook",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-08T13:49:00+00:00",
-      "title": "Should You Buy ASML Holding Stock Before July 15?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-08T13:30:26+00:00",
-      "title": "Stock Split Watch: Are These 4 Mega-Cap Stocks Any Closer to Splitting?",
+      "timestamp": "2026-07-08T18:00:00+00:00",
+      "title": "A Market Panic Just Discounted the AI Highway's Tollbooth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
