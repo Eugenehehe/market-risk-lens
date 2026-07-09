@@ -14,7 +14,7 @@ function clsFor(n) {
 }
 function dataUrlFor(symbol) {
   const clean = (symbol || "NVDA").toUpperCase().replace(/[^A-Z0-9.\-]/g, "");
-  return clean === "NVDA" ? "data/symbols/NVDA.json" : `data/symbols/${clean}.json`;
+  return `data/symbols/${clean}.json`;
 }
 async function loadManifest() {
   try {
@@ -41,15 +41,15 @@ async function loadData(symbol = currentSymbol) {
   if (select && [...select.options].some(o => o.value === currentSymbol)) select.value = currentSymbol;
   status.textContent = `loading ${currentSymbol}...`;
 
-  let res = await fetch(`${dataUrlFor(currentSymbol)}?t=${Date.now()}`, { cache: "no-store" });
+  const res = await fetch(`${dataUrlFor(currentSymbol)}?t=${Date.now()}`, { cache: "no-store" });
   if (!res.ok) {
-    status.textContent = `${currentSymbol} 尚未產生資料；請把它加入 config/watchlist.json，等 GitHub Actions 更新。`;
+    status.textContent = `${currentSymbol} 尚未產生資料；請先跑 Actions → Update Market Data。`;
     renderEmpty(currentSymbol);
     return;
   }
   const data = await res.json();
   render(data);
-  status.textContent = `last: ${data.generated_at || "unknown"}`;
+  status.textContent = `data: ${data.generated_at || "unknown"} | view refreshed: ${new Date().toLocaleTimeString()}`;
 }
 function renderEmpty(symbol) {
   render({
@@ -58,11 +58,12 @@ function renderEmpty(symbol) {
     risk: { score: "--", label: "此 ticker 尚未在 watchlist 產生資料" },
     prepricing: { score: "--", label: "N/A" },
     options_pressure: { dealer_delta_hedge_shares: 0, label: "N/A" },
+    options_summary: null,
     price_series: [],
     events: [],
     cross_market: [],
     probability_distribution: {},
-    narrative: `目前 GitHub Pages 版不能直接用前端 API key 即時查任意股票。請把 ${symbol} 加進 config/watchlist.json 的 watchlist，下一次 GitHub Actions 更新後就能搜尋。`
+    narrative: `${symbol} 尚未有資料檔。下拉選單有 ticker 不代表已經產生 data/symbols/${symbol}.json；先跑一次 Update Market Data。`
   });
 }
 function render(data) {
@@ -78,11 +79,38 @@ function render(data) {
   document.getElementById("prepricingLabel").textContent = pre.label || "--";
   document.getElementById("hedgePressure").textContent = opt.dealer_delta_hedge_shares !== undefined ? `${fmt(opt.dealer_delta_hedge_shares, 0)} 股` : "--";
   document.getElementById("hedgeLabel").textContent = opt.label || "--";
+  renderOptionsSummary(data);
   renderPriceChart(data);
   renderDistribution(data);
   renderEvents(data);
   renderCrossMarket(data);
   document.getElementById("narrative").textContent = data.narrative || "";
+}
+function renderOptionsSummary(data) {
+  const el = document.getElementById("optionsSummary");
+  const o = data.options_summary;
+  if (!el) return;
+  if (!o || o.status !== "ok") {
+    el.innerHTML = `<div class="wide-note">尚無免費期權鏈資料。可能是 Yahoo 暫時沒有該標的 options chain、非美股/ETF、或資料抓取失敗。</div>`;
+    return;
+  }
+  const cards = [
+    ["到期日", `${o.expiration || "--"}`],
+    ["DTE", `${fmt(o.days_to_expiration, 1)} 天`],
+    ["Call Wall", fmt(o.call_wall, 2)],
+    ["Put Wall", fmt(o.put_wall, 2)],
+    ["Gamma Wall", fmt(o.gamma_wall, 2)],
+    ["Max Pain", fmt(o.max_pain, 2)],
+    ["Pin Strike", fmt(o.pin_strike, 2)],
+    ["Pin Risk", `${o.pin_risk_score ?? "--"}/100`],
+    ["Put/Call OI", fmt(o.put_call_oi_ratio, 2)],
+    ["Call OI", fmt(o.total_call_oi, 0)],
+    ["Put OI", fmt(o.total_put_oi, 0)],
+    ["Net GEX", fmt(o.net_gex_dollars_per_1pct, 0)]
+  ];
+  const html = cards.map(([label, value]) => `<div class="mini-card"><div class="label">${label}</div><div class="value">${value}</div></div>`).join("");
+  const top = (o.top_strikes || []).map(r => `${fmt(r.strike, 2)} C:${fmt(r.call_oi,0)} P:${fmt(r.put_oi,0)}`).join(" | ");
+  el.innerHTML = html + `<div class="wide-note">資料源：${o.source || "Yahoo options chain"}。限制：沒有主動買賣方向、沒有 MLFT、多腿、真實 dealer book。OI 熱門 strike：${top || "--"}</div>`;
 }
 function renderPriceChart(data) {
   const prices = data.price_series || [];
