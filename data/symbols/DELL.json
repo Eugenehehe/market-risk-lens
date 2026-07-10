@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T19:27:07.362096+00:00",
+  "generated_at": "2026-07-10T20:51:00.807433+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 438.75,
-    "change_pct": -2.547643374350328
+    "price": 434.97,
+    "change_pct": -3.3872329083559194
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -90,9 +90,21 @@
     {
       "timestamp": "2026-07-10T19:27:07.362096+00:00",
       "close": 438.75
+    },
+    {
+      "timestamp": "2026-07-10T20:51:00.807433+00:00",
+      "close": 434.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-10T17:35:00+00:00",
+      "title": "Do Diversification and AI Strategy Power Lenovo's Long-Term Growth?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-10T16:28:52+00:00",
       "title": "Dell Stock Gets Trump Bump. But Here Are The Real Reasons It Is Strong As It Eyes New Entry.",
@@ -144,14 +156,6 @@
     {
       "timestamp": "2026-07-09T21:31:15+00:00",
       "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T20:36:08+00:00",
-      "title": "Stock Market Today: Nasdaq Leads Rally As Chip, AI Stocks Shine; SpaceX Halts 3-Day Drop",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

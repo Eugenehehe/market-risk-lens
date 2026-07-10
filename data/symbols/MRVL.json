@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T19:27:07.362096+00:00",
+  "generated_at": "2026-07-10T20:51:00.807433+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 236.21,
-    "change_pct": -2.902125210671269
+    "price": 235.81,
+    "change_pct": -3.0665515682163913
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -90,9 +90,37 @@
     {
       "timestamp": "2026-07-10T19:27:07.362096+00:00",
       "close": 236.21
+    },
+    {
+      "timestamp": "2026-07-10T20:51:00.807433+00:00",
+      "close": 235.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-10T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-10T18:42:32+00:00",
+      "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-10T18:23:53+00:00",
+      "title": "Why I Can’t Stop Buying This “Boring” Chipmaker With Game Changing Upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-10T16:44:26+00:00",
       "title": "XSD vs. SMH: Should Your Semiconductor ETF Be Equal-Weight or Cap-Weight?",
@@ -128,30 +156,6 @@
     {
       "timestamp": "2026-07-10T14:59:19+00:00",
       "title": "What Is The Market Really Expecting From AVGO Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T14:35:00+00:00",
-      "title": "Which S&P500 stocks are gapping on Friday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T12:59:00+00:00",
-      "title": "Micron, Delta, Strategy, Circle Internet, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T12:51:20+00:00",
-      "title": "Marvell Stock And The Multi-Year Bet Management Made",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
