@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T11:31:18.953687+00:00",
+  "generated_at": "2026-07-10T13:30:41.822037+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 450.22,
-    "change_pct": 4.224830428038984
+    "price": 447.23,
+    "change_pct": -0.6641197636711005
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -74,9 +74,21 @@
     {
       "timestamp": "2026-07-10T11:31:18.953687+00:00",
       "close": 450.22
+    },
+    {
+      "timestamp": "2026-07-10T13:30:41.822037+00:00",
+      "close": 447.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-10T11:48:44+00:00",
+      "title": "Dow Jones Futures Rise, Delta Falls On Earnings; Micron, Sandisk Slide As SK Hynix Raises $26.5 Billion",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-10T07:35:00+00:00",
       "title": "The Zacks Analyst Blog Highlights Lenovo, HP, Dell and Apple",
@@ -128,14 +140,6 @@
     {
       "timestamp": "2026-07-09T18:20:10+00:00",
       "title": "Dell Stock Nears Buy Point As Investors Heed Trump's Call",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T17:10:42+00:00",
-      "title": "Stock Market Today: S&P 500 Gains Traction Amid Iran News; Arm, Dell Lead Upside (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

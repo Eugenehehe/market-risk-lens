@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T11:31:18.953687+00:00",
+  "generated_at": "2026-07-10T13:30:41.822037+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 546.72,
-    "change_pct": 5.665774393366907
+    "price": 544.13,
+    "change_pct": -0.4737342698273417
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -74,9 +74,21 @@
     {
       "timestamp": "2026-07-10T11:31:18.953687+00:00",
       "close": 546.72
+    },
+    {
+      "timestamp": "2026-07-10T13:30:41.822037+00:00",
+      "close": 544.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-10T10:01:00+00:00",
+      "title": "AMD Just Out-Earned Intel in the Data Center. Here's What That Means for Both Stocks.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-10T09:11:24+00:00",
       "title": "AMD (AMD) Partners With 5C To Build Gigascale AI Campuses",
@@ -128,14 +140,6 @@
     {
       "timestamp": "2026-07-09T21:59:42+00:00",
       "title": "Why Is AMD (AMD) Stock Rocketing Higher Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-09T20:42:34+00:00",
-      "title": "Update: US Equities Rise, Oil Prices Fall as Traders Look Past Middle East Tensions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
