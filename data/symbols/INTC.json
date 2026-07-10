@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T15:59:50.211621+00:00",
+  "generated_at": "2026-07-10T17:54:59.209391+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 109.08,
-    "change_pct": -3.074462413364143
+    "price": 110.2,
+    "change_pct": -2.079260707304076
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -82,13 +82,49 @@
     {
       "timestamp": "2026-07-10T15:59:50.211621+00:00",
       "close": 109.08
+    },
+    {
+      "timestamp": "2026-07-10T17:54:59.209391+00:00",
+      "close": 110.2
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-10T15:19:26+00:00",
+      "title": "Intel’s $200 Billion Turnaround Plan Is Under the Microscope",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-10T15:00:05+00:00",
+      "title": "Price Prediction: Can Intel Double by 2030?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-10T14:35:00+00:00",
       "title": "Which S&P500 stocks are gapping on Friday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-10T14:02:00+00:00",
+      "title": "Intel's Operating Margins Are Improving: Is More Upside Ahead?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-10T12:59:00+00:00",
+      "title": "Micron, Delta, Strategy, Circle Internet, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -112,38 +148,6 @@
     {
       "timestamp": "2026-07-10T12:43:52+00:00",
       "title": "AMD Stock Looks Strong. One Supply Chain Bottleneck Could Change That",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T12:30:30+00:00",
-      "title": "Taiwan Semiconductor Is a No-Brainer Buy Before July 16 Earnings. Here’s Why",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T12:12:00+00:00",
-      "title": "ASYS Stock is Trading at a Discount: Should You Buy, Sell or Hold?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T12:00:36+00:00",
-      "title": "Chips Made In The USA Are Making A Comeback. What Investors Should Know.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-10T11:59:50+00:00",
-      "title": "US Equity Futures Mixed Ahead of South Korean Chipmaker SK Hynix's Trading Debut",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
