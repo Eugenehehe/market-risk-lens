@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T07:56:21.284107+00:00",
+  "generated_at": "2026-07-13T11:15:54.270865+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 434.97,
     "change_pct": -3.3872329083559194
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -258,9 +258,29 @@
     {
       "timestamp": "2026-07-13T07:56:21.284107+00:00",
       "close": 434.97
+    },
+    {
+      "timestamp": "2026-07-13T11:15:54.270865+00:00",
+      "close": 434.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-13T08:08:00+00:00",
+      "title": "Italy Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities Featuring AWS, Google, Oracle, OVHcloud, Atos, Cisco, Dell Technologies, NVIDIA and More",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T08:05:00+00:00",
+      "title": "Bahrain Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-12T16:47:00+00:00",
       "title": "Goldman Sachs sets jaw-dropping SanDisk stock price target for 2026",
