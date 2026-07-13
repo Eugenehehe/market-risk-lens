@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T16:08:11.483223+00:00",
+  "generated_at": "2026-07-13T18:05:21.912998+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 542.39,
-    "change_pct": -2.7783254763483867
+    "price": 538,
+    "change_pct": -3.5652189499722153
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -270,9 +270,53 @@
     {
       "timestamp": "2026-07-13T16:08:11.483223+00:00",
       "close": 542.39
+    },
+    {
+      "timestamp": "2026-07-13T18:05:21.912998+00:00",
+      "close": 538
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-13T15:00:29+00:00",
+      "title": "The 1 Reason Jim Cramer Won’t Stop Buying Nvidia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T14:48:21+00:00",
+      "title": "Cathie Wood Bought $54 Million Worth Of SpaceX Stock Last Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T14:26:00+00:00",
+      "title": "SK Hynix, Sandisk, Apple, Meta, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T14:22:17+00:00",
+      "title": "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T14:08:07+00:00",
+      "title": "How Investors Are Reacting To Advanced Micro Devices (AMD) Sector-Wide AI Chip Pullback And Valuation Jitters",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-13T13:12:50+00:00",
       "title": "What Investors Keep Asking About NVDA",
@@ -292,46 +336,6 @@
     {
       "timestamp": "2026-07-13T12:49:23+00:00",
       "title": "Update: US Equity Futures Drop Pre-Bell as Iran Says Strait of Hormuz Closed Once Again, Oil Prices Jump",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T12:32:33+00:00",
-      "title": "QCOM Keeps Climbing. Should You Climb On?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T12:32:26+00:00",
-      "title": "What Intel Stock Was Telling You About The Coming AI-CPU Revival",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T12:32:25+00:00",
-      "title": "AMD Stock: Collect 14% While Setting A 50%-Off Buy Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T12:30:33+00:00",
-      "title": "Advanced Micro Devices (NASDAQ:AMD): A Quality Growth Stock with a Strong Technical Breakout Setup",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T12:27:00+00:00",
-      "title": "Micron Offers a Lucrative Investment Opportunity at Current Valuation",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
