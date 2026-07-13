@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T11:15:54.270865+00:00",
+  "generated_at": "2026-07-13T13:32:55.056902+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 109.84,
-    "change_pct": -2.399146969966237
+    "price": 104.8,
+    "change_pct": -4.588492352512752
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -262,9 +262,37 @@
     {
       "timestamp": "2026-07-13T11:15:54.270865+00:00",
       "close": 109.84
+    },
+    {
+      "timestamp": "2026-07-13T13:32:55.056902+00:00",
+      "close": 104.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-13T11:42:00+00:00",
+      "title": "Why TSMC’s Record Revenue Isn’t Reviving the AI Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T11:34:10+00:00",
+      "title": "Kospi falls 9%, SK Hynix stock dives as Iran closes Hormuz Strait",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-13T11:17:00+00:00",
+      "title": "Intel, AMD, Sandisk, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-13T04:58:19+00:00",
       "title": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
@@ -300,30 +328,6 @@
     {
       "timestamp": "2026-07-12T04:15:47+00:00",
       "title": "Intel (INTC) Raises Server Chip Prices As AI Demand Pushes Supply Limits",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-11T21:31:14+00:00",
-      "title": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks – Some Might Surprise You (CORRECTED)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-11T19:30:02+00:00",
-      "title": "Intel Future Price Hikes Send Huge Demand Signal to Wall Street",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-11T18:20:00+00:00",
-      "title": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

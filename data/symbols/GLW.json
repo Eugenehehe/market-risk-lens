@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T11:15:54.270865+00:00",
+  "generated_at": "2026-07-13T13:32:55.056902+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 190.89,
-    "change_pct": -0.7745087846969589
+    "price": 183.06,
+    "change_pct": -4.101838755304099
   },
   "risk": {
-    "score": 43,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -262,9 +262,21 @@
     {
       "timestamp": "2026-07-13T11:15:54.270865+00:00",
       "close": 190.89
+    },
+    {
+      "timestamp": "2026-07-13T13:32:55.056902+00:00",
+      "close": 183.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-13T12:35:00+00:00",
+      "title": "Get insights into the top movers in the S&P500 index of Monday's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-11T06:33:09+00:00",
       "title": "Corning: Double Downgrading To Sell, It's Time To Take A Breather",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-13T11:15:54.270865+00:00",
+  "generated_at": "2026-07-13T13:32:55.056902+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 434.97,
-    "change_pct": -3.3872329083559194
+    "price": 433.76,
+    "change_pct": -0.2781801043750254
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -262,9 +262,21 @@
     {
       "timestamp": "2026-07-13T11:15:54.270865+00:00",
       "close": 434.97
+    },
+    {
+      "timestamp": "2026-07-13T13:32:55.056902+00:00",
+      "close": 433.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-13T11:34:39+00:00",
+      "title": "1 Unpopular Stock That Deserves Some Love and 2 We Find Risky",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-13T08:08:00+00:00",
       "title": "Italy Data Center Market Report 2026-2031: Investment Analysis & Growth Opportunities Featuring AWS, Google, Oracle, OVHcloud, Atos, Cisco, Dell Technologies, NVIDIA and More",
@@ -316,14 +328,6 @@
     {
       "timestamp": "2026-07-11T10:01:02+00:00",
       "title": "Trump Accounts May Boost Kids' Savings— but Experts Say it Could Cost Families Thousands in College Aid",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-11T04:16:04+00:00",
-      "title": "Dell (DELL) Says XPS Eyesafe Study Improved Sleep Eye Comfort And Productivity",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
