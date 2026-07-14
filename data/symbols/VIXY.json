@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T17:45:19.407007+00:00",
+  "generated_at": "2026-07-14T18:51:49.709503+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 20.67,
-    "change_pct": -1.6650808753567947
+    "price": 20.65,
+    "change_pct": -1.760228353948623
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -334,9 +334,22 @@
     {
       "timestamp": "2026-07-14T17:45:19.407007+00:00",
       "close": 20.67
+    },
+    {
+      "timestamp": "2026-07-14T18:51:49.709503+00:00",
+      "close": 20.65
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-14T13:51:00+00:00",
+      "title": "DSPX Index Jumps To 6-Year High Ahead Of Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
