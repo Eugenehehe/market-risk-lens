@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T13:13:52.773546+00:00",
+  "generated_at": "2026-07-14T15:04:10.651001+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.24,
-    "change_pct": -2.678203543469293
+    "price": 49.63,
+    "change_pct": 5.05927180355632
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -322,13 +322,41 @@
     {
       "timestamp": "2026-07-14T13:13:52.773546+00:00",
       "close": 47.24
+    },
+    {
+      "timestamp": "2026-07-14T15:04:10.651001+00:00",
+      "close": 49.63
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-14T12:52:42+00:00",
+      "title": "What Is The Market Really Expecting From ANET Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T12:00:00+00:00",
+      "title": "4 Best-Performing Leveraged ETFs of Last Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-14T10:16:38+00:00",
       "title": "HPE (HPE) Details AI And Data Center Energy Progress In New Sustainability Report",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T09:32:23+00:00",
+      "title": "Super Micro: A Value Trap",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -360,30 +388,6 @@
     {
       "timestamp": "2026-07-13T22:16:00+00:00",
       "title": "SanDisk Stock's Run Hides Its Real Portfolio Job",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T22:04:44+00:00",
-      "title": "The Overlooked Growth Engine Powering Cisco Systems Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T14:42:00+00:00",
-      "title": "ANET's Robust Portfolio Fuels Revenue Growth: More Upside Ahead?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T14:00:00+00:00",
-      "title": "HPE Releases Annual Living Progress Report as AI Uptake Makes Efficient, Secure, and Responsible Digital Infrastructure Even More Critical",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

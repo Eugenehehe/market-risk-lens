@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T13:13:52.773546+00:00",
+  "generated_at": "2026-07-14T15:04:10.651001+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 217.53,
-    "change_pct": -7.752003731817991
+    "price": 222.91,
+    "change_pct": 2.4732220843102004
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -322,9 +322,21 @@
     {
       "timestamp": "2026-07-14T13:13:52.773546+00:00",
       "close": 217.53
+    },
+    {
+      "timestamp": "2026-07-14T15:04:10.651001+00:00",
+      "close": 222.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T10:29:25+00:00",
+      "title": "Reported Earlier: 'New York Becomes First State To Impose Data Center Moratorium; Gov. Kathy Hochul (D) Signed An Order To Block New Facilities For A Year' - Washington Post",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T08:53:00+00:00",
       "title": "Carillon Eagle Mid Cap Growth Fund Q2 2026 Portfolio Review",
@@ -377,14 +389,6 @@
       "timestamp": "2026-07-13T17:51:00+00:00",
       "title": "Tech View: Record Profits, Insider buying, & Cheap Valuations",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T16:35:01+00:00",
-      "title": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

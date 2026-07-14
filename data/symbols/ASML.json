@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T13:13:52.773546+00:00",
+  "generated_at": "2026-07-14T15:04:10.651001+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1726.04,
-    "change_pct": -3.9659047915785672
+    "price": 1765.53,
+    "change_pct": 2.2878959931403653
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 69,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -322,9 +322,29 @@
     {
       "timestamp": "2026-07-14T13:13:52.773546+00:00",
       "close": 1726.04
+    },
+    {
+      "timestamp": "2026-07-14T15:04:10.651001+00:00",
+      "close": 1765.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T12:48:16+00:00",
+      "title": "Update: US Equity Futures Mixed Pre-Bell as Middle East Tensions Intensify, Major US Banks Post Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T12:19:00+00:00",
+      "title": "ASML Poised to Benefit From Strong EUV Momentum, RBC Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T11:55:17+00:00",
       "title": "Why these two earnings reports could be \"tone-setting\" for the chip sector",
@@ -368,22 +388,6 @@
     {
       "timestamp": "2026-07-13T15:15:48+00:00",
       "title": "ASML Holding's Next Earnings Report on July 15 Could Send the Stock Soaring. Here's Why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T14:04:00+00:00",
-      "title": "Week ahead: Earnings season shifts into high gear as inflation looms",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T13:21:52+00:00",
-      "title": "Here’s How Much Traders Expect ASML Stock to Move After Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

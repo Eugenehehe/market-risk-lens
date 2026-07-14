@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T13:13:52.773546+00:00",
+  "generated_at": "2026-07-14T15:04:10.651001+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 103.12,
-    "change_pct": -6.117989803350321
+    "price": 105.27,
+    "change_pct": 2.0849495733126444
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -322,9 +322,45 @@
     {
       "timestamp": "2026-07-14T13:13:52.773546+00:00",
       "close": 103.12
+    },
+    {
+      "timestamp": "2026-07-14T15:04:10.651001+00:00",
+      "close": 105.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T13:42:38+00:00",
+      "title": "AMD Rallies 5%, Intel Rises 4% as Cooling Inflation Sparks a Chip Rebound",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T13:07:00+00:00",
+      "title": "ThoughtLab Collaborates with Urban Leaders to Provide Cities with an Evidence-Based AI Playbook and Benchmarking Model",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T12:24:00+00:00",
+      "title": "IBM, JPMorgan, SK Hynix, AMD, Intel, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T10:29:25+00:00",
+      "title": "Reported Earlier: 'New York Becomes First State To Impose Data Center Moratorium; Gov. Kathy Hochul (D) Signed An Order To Block New Facilities For A Year' - Washington Post",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T08:49:05+00:00",
       "title": "Intel commits $5.7bn to expand Leixlip manufacturing site",
@@ -352,38 +388,6 @@
     {
       "timestamp": "2026-07-14T05:04:23+00:00",
       "title": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T03:30:00+00:00",
-      "title": "Why We Still Like ASML At Current Levels",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T00:35:00+00:00",
-      "title": "ValuEngine Weekly Market Summary And Commentary",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T00:16:38+00:00",
-      "title": "Trump Reinstates the Iran Blockade and Demands a 20% Toll as America Becomes Hormuz’s “Guardian”",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T22:36:49+00:00",
-      "title": "S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
