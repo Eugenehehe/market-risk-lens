@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T16:35:22.276288+00:00",
+  "generated_at": "2026-07-14T17:45:19.407007+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 569.01,
-    "change_pct": 2.7817416592908373
+    "price": 571.88,
+    "change_pct": 3.300157150340488
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -330,9 +330,21 @@
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 569.01
+    },
+    {
+      "timestamp": "2026-07-14T17:45:19.407007+00:00",
+      "close": 571.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T13:05:44+00:00",
+      "title": "The Top Is In For Micron",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T11:35:00+00:00",
       "title": "It's Not All About AI: Where To Find Other Potential Market Opportunities",
@@ -385,14 +397,6 @@
       "timestamp": "2026-07-13T17:12:21+00:00",
       "title": "Back To Square One: Strait Of Hormuz Closes Again",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T12:50:48+00:00",
-      "title": "Marvell Stock Drops 6%: Why Wall Street is Dumping High-Flying Chip Names for Energy",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

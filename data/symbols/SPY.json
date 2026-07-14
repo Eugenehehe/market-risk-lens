@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-14T16:35:22.276288+00:00",
+  "generated_at": "2026-07-14T17:45:19.407007+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 751.09,
-    "change_pct": 0.25628362054006537
+    "price": 752.06,
+    "change_pct": 0.38576024133374354
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -330,6 +330,10 @@
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 751.09
+    },
+    {
+      "timestamp": "2026-07-14T17:45:19.407007+00:00",
+      "close": 752.06
     }
   ],
   "events": [
@@ -345,6 +349,22 @@
       "timestamp": "2026-07-14T13:46:22+00:00",
       "title": "Stock Market Today: Dow Rises Amid Surprise CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T13:20:55+00:00",
+      "title": "June CPI Was Deflationary",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T13:20:00+00:00",
+      "title": "CPI Headline Inflation Drops To 3.5% To Help Move Stocks Higher",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -376,22 +396,6 @@
     {
       "timestamp": "2026-07-14T12:38:59+00:00",
       "title": "Is This Dip In ARKQ A Gift Or A Trap?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T12:04:46+00:00",
-      "title": "Can You Still Retire On $2 Million? Maybe If You Do This",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T11:59:56+00:00",
-      "title": "Stock Market Today: Dow Falls Ahead Of CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
