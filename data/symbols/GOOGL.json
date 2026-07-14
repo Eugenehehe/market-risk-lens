@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-14T18:51:49.709503+00:00",
+  "generated_at": "2026-07-14T20:05:27.722229+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 358.36,
-    "change_pct": 1.6595273892939355
+    "price": 359.51,
+    "change_pct": 1.9857592692405834
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -338,9 +338,21 @@
     {
       "timestamp": "2026-07-14T18:51:49.709503+00:00",
       "close": 358.36
+    },
+    {
+      "timestamp": "2026-07-14T20:05:27.722229+00:00",
+      "close": 359.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T19:10:04+00:00",
+      "title": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T17:11:18+00:00",
       "title": "Google Faces Swiss Search Probe",
@@ -361,14 +373,6 @@
       "timestamp": "2026-07-14T16:50:00+00:00",
       "title": "The Most Obvious AI Company Nobody's Talking About",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T16:40:04+00:00",
-      "title": "Top dow jones movers in Tuesday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

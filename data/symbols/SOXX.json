@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T18:51:49.709503+00:00",
+  "generated_at": "2026-07-14T20:05:27.722229+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 570.97,
-    "change_pct": 3.1357815068369543
+    "price": 567.92,
+    "change_pct": 2.584852152237116
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -338,9 +338,21 @@
     {
       "timestamp": "2026-07-14T18:51:49.709503+00:00",
       "close": 570.97
+    },
+    {
+      "timestamp": "2026-07-14T20:05:27.722229+00:00",
+      "close": 567.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T14:01:58+00:00",
+      "title": "The Secret Behind 2026's Biggest ETF Launches Isn't What You Think",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T13:51:00+00:00",
       "title": "DSPX Index Jumps To 6-Year High Ahead Of Earnings",
@@ -392,14 +404,6 @@
     {
       "timestamp": "2026-07-14T01:15:00+00:00",
       "title": "The Global Race For AI Dominance: How It's Reshaping Markets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T00:05:00+00:00",
-      "title": "Know What You Own: Joe Amato On The AI Rally, Mega-Cap IPOs, And The Hidden Risk In Passive",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

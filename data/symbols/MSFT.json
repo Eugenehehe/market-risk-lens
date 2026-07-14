@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-14T18:51:49.709503+00:00",
+  "generated_at": "2026-07-14T20:05:27.722229+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 385.92,
-    "change_pct": -1.296708355712417
+    "price": 384.93,
+    "change_pct": -1.5499117624491632
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -338,9 +338,21 @@
     {
       "timestamp": "2026-07-14T18:51:49.709503+00:00",
       "close": 385.92
+    },
+    {
+      "timestamp": "2026-07-14T20:05:27.722229+00:00",
+      "close": 384.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T19:10:04+00:00",
+      "title": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T17:09:20+00:00",
       "title": "Is CRM Stock Really Broken Or Just On Sale?",
@@ -361,14 +373,6 @@
       "timestamp": "2026-07-14T16:45:25+00:00",
       "title": "Update: Market Chatter: Oaktree-Backed Pure DC Builds Finland AI data Center, Microsoft to Be Customer",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T16:40:04+00:00",
-      "title": "Top dow jones movers in Tuesday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
