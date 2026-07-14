@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T04:10:40.653564+00:00",
+  "generated_at": "2026-07-14T06:25:18.746012+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 585.62,
     "change_pct": -4.1585519532592485
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -302,9 +302,29 @@
     {
       "timestamp": "2026-07-14T04:10:40.653564+00:00",
       "close": 585.62
+    },
+    {
+      "timestamp": "2026-07-14T06:25:18.746012+00:00",
+      "close": 585.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-14T01:15:00+00:00",
+      "title": "The Global Race For AI Dominance: How It's Reshaping Markets",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-14T00:05:00+00:00",
+      "title": "Know What You Own: Joe Amato On The AI Rally, Mega-Cap IPOs, And The Hidden Risk In Passive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-13T17:00:19+00:00",
       "title": "The Best AI Opportunities For The Second Half Of 2026",
@@ -349,14 +369,6 @@
       "timestamp": "2026-07-13T02:20:48+00:00",
       "title": "CHPX: Why I Expect Continued Outperformance",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-13T02:09:27+00:00",
-      "title": "Nvidia, Micron, Broadcom, Applied Materials Set to Generate $430 Billion in Free Cash Flow as Tech Giants Bleed Cash",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
