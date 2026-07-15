@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T15:09:33.562161+00:00",
+  "generated_at": "2026-07-15T16:44:58.095392+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 587.4,
-    "change_pct": -2.1505555463010695
+    "price": 575.67,
+    "change_pct": -4.104545984574637
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -386,9 +386,21 @@
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 587.4
+    },
+    {
+      "timestamp": "2026-07-15T16:44:58.095392+00:00",
+      "close": 575.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-15T10:33:46+00:00",
+      "title": "What Is Going on With Intel Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-15T04:25:20+00:00",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
@@ -440,14 +452,6 @@
     {
       "timestamp": "2026-07-14T13:05:44+00:00",
       "title": "The Top Is In For Micron",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T12:46:43+00:00",
-      "title": "My Portfolio Is Outperforming This Market - Here's Why",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

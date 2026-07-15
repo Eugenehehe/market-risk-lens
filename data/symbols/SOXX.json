@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T15:09:33.562161+00:00",
+  "generated_at": "2026-07-15T16:44:58.095392+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 552.46,
-    "change_pct": -2.7222143963938406
+    "price": 540.63,
+    "change_pct": -4.8052542611635385
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -386,9 +386,21 @@
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 552.46
+    },
+    {
+      "timestamp": "2026-07-15T16:44:58.095392+00:00",
+      "close": 540.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-15T06:32:22+00:00",
+      "title": "What's Going on With Micron Technology Stock Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-14T23:45:00+00:00",
       "title": "Equity Outlook Q3 2026: Broadening Earnings Growth Meets Elevated Volatility",
@@ -440,14 +452,6 @@
     {
       "timestamp": "2026-07-14T11:35:00+00:00",
       "title": "It's Not All About AI: Where To Find Other Potential Market Opportunities",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T09:08:52+00:00",
-      "title": "The Tectonic AI Shift Is Here",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
