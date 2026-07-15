@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T16:44:58.095392+00:00",
+  "generated_at": "2026-07-15T17:58:11.168719+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 255.64,
-    "change_pct": 3.293062345953368
+    "price": 254.9,
+    "change_pct": 2.9940603660753906
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -390,9 +390,21 @@
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 255.64
+    },
+    {
+      "timestamp": "2026-07-15T17:58:11.168719+00:00",
+      "close": 254.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-15T16:40:03+00:00",
+      "title": "Stay informed with the top movers within the dow jones index on Wednesday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-15T15:54:35+00:00",
       "title": "Oracle Leads Japan Secure Cloud Talks",
@@ -444,14 +456,6 @@
     {
       "timestamp": "2026-07-15T14:03:00+00:00",
       "title": "Greece Data Center Market Trends & Investment Analysis, 2026-2031 | Amazon Boosts Greece's Renewable Energy Initiative with New Wind Farm PPAs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T13:54:37+00:00",
-      "title": "Bernstein’s mid-year CIO survey calls for strong IT budget growth in 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

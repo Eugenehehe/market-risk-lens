@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T16:44:58.095392+00:00",
+  "generated_at": "2026-07-15T17:58:11.168719+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 540.63,
-    "change_pct": -4.8052542611635385
+    "price": 553.64,
+    "change_pct": -2.5144386533314522
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -390,9 +390,21 @@
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 540.63
+    },
+    {
+      "timestamp": "2026-07-15T17:58:11.168719+00:00",
+      "close": 553.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-15T13:01:58+00:00",
+      "title": "Memory-Chip Selloff Drags Nasdaq 100 Lower, SanDisk Sinks 13%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-15T06:32:22+00:00",
       "title": "What's Going on With Micron Technology Stock Wednesday?",
@@ -444,14 +456,6 @@
     {
       "timestamp": "2026-07-14T13:05:44+00:00",
       "title": "The Top Is In For Micron",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T11:35:00+00:00",
-      "title": "It's Not All About AI: Where To Find Other Potential Market Opportunities",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

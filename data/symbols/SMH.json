@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-15T16:44:58.095392+00:00",
+  "generated_at": "2026-07-15T17:58:11.168719+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 575.67,
-    "change_pct": -4.104545984574637
+    "price": 587.75,
+    "change_pct": -2.09225233629291
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -390,9 +390,29 @@
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 575.67
+    },
+    {
+      "timestamp": "2026-07-15T17:58:11.168719+00:00",
+      "close": 587.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-15T13:01:58+00:00",
+      "title": "Memory-Chip Selloff Drags Nasdaq 100 Lower, SanDisk Sinks 13%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-15T12:32:00+00:00",
+      "title": "Wall Street Lunch: Dan Ives Teams Up With Yorkville Securities To Launch Merchant Bank",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-15T10:33:46+00:00",
       "title": "What Is Going on With Intel Stock on Wednesday?",
@@ -437,22 +457,6 @@
       "timestamp": "2026-07-14T14:01:58+00:00",
       "title": "The Secret Behind 2026's Biggest ETF Launches Isn't What You Think",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T13:51:00+00:00",
-      "title": "DSPX Index Jumps To 6-Year High Ahead Of Earnings",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T13:05:44+00:00",
-      "title": "The Top Is In For Micron",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
