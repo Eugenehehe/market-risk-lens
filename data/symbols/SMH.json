@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T14:50:51.166457+00:00",
+  "generated_at": "2026-07-16T16:08:46.654683+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 574.74,
-    "change_pct": -2.7134079252500887
+    "price": 570.5,
+    "change_pct": -3.43111532406859
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -438,9 +438,21 @@
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 574.74
+    },
+    {
+      "timestamp": "2026-07-16T16:08:46.654683+00:00",
+      "close": 570.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T08:56:46+00:00",
+      "title": "What's Going on With Intel Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T07:18:00+00:00",
       "title": "More U.S. Stocks Are Marching To A Different Beat",
@@ -493,14 +505,6 @@
       "timestamp": "2026-07-15T04:25:20+00:00",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T23:45:00+00:00",
-      "title": "Equity Outlook Q3 2026: Broadening Earnings Growth Meets Elevated Volatility",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
