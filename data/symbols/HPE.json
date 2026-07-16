@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.39,
-    "change_pct": -4.378531073446334
+    "price": 46.2,
+    "change_pct": -2.5110782865583436
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -434,6 +434,10 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 47.39
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 46.2
     }
   ],
   "events": [
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "HPE live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=HPE&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "HPE quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

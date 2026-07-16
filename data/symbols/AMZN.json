@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 254.96,
-    "change_pct": 3.0183037698492843
+    "price": 256.15,
+    "change_pct": 0.4667398807655987
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -434,68 +434,72 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 254.96
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 256.15
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T08:40:00+00:00",
-      "title": "Investors Are Growing Wary of AI-Related Debt",
+      "timestamp": "2026-07-16T13:20:59+00:00",
+      "title": "The Biggest Reason I’m Buying Nvidia Over and Over Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:30:00+00:00",
-      "title": "Global Full-Stack Observability Services Market Size/Share Worth USD 35 Billion by 2034 at a 22.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "timestamp": "2026-07-16T13:01:05+00:00",
+      "title": "AI startup taps former Grammarly CTO for next growth phase",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:02:34+00:00",
-      "title": "Taiwan Semiconductor Manufacturing Q2 Earnings Call Highlights",
+      "timestamp": "2026-07-16T13:00:00+00:00",
+      "title": "The Trade Desk Appoints Vinny Rinaldi as Vice President of Client Strategy & Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:24:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Tesla, Space Exploration Technologies, Amazon.com and Microsoft",
+      "timestamp": "2026-07-16T12:54:31+00:00",
+      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:20:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, Apple and Amazon",
+      "timestamp": "2026-07-16T12:50:00+00:00",
+      "title": "Retail Sales Rise Just 0.2% in June",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:12:00+00:00",
-      "title": "Electrovaya Inc. (ELVA) Stock Jumps 49.1%: Will It Continue to Soar?",
+      "timestamp": "2026-07-16T12:49:34+00:00",
+      "title": "Market Chatter: Amazon.com-Backed Anthropic in Talks for Billions in New Credit Lines Ahead of Potential IPO",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:00:00+00:00",
-      "title": "CoStar Data Shows Amazon, Defence and Chinese Firms Drive UK Warehouse Demand Recovery",
+      "timestamp": "2026-07-16T12:44:51+00:00",
+      "title": "Retail sales up just 0.2% in June, but excluding business at the gas pump, shoppers are resilient",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T06:52:00+00:00",
-      "title": "The MacKenzie Scott paradox: How a bull market lets billionaires give away tens of billions without getting poorer",
+      "timestamp": "2026-07-16T12:38:04+00:00",
+      "title": "E-Commerce Update - AI Transforming Digital Retail Through Innovation and Connectivity",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AMZN live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=AMZN&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "AMZN quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 394.46,
-    "change_pct": -0.4341460952092535
+    "price": 394.16,
+    "change_pct": -0.07605333874155518
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -434,68 +434,72 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 394.46
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 394.16
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T08:30:21+00:00",
-      "title": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings",
+      "timestamp": "2026-07-16T13:43:44+00:00",
+      "title": "Tesla Stock: Here's What Retail Investors Want To Know Ahead Of Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:33:59+00:00",
-      "title": "Tesla Q2 Earnings: Elon Musk's Pay Package, Cybercab and Optimus Lead Top Investor Questions",
+      "timestamp": "2026-07-16T13:06:20+00:00",
+      "title": "Does LIT's History Justify Buying This Dip?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:24:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Tesla, Space Exploration Technologies, Amazon.com and Microsoft",
+      "timestamp": "2026-07-16T12:54:00+00:00",
+      "title": "Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:30:00+00:00",
-      "title": "Consumer-Discretionary Stocks Are ‘Coiled’ for a Rebound. But Which Ones?",
+      "timestamp": "2026-07-16T12:31:05+00:00",
+      "title": "Chamath Palihapitiya Sees ‘Very Obvious Industrial Logic’ in SpaceX Acquiring Tesla to Fund Elon Musk’s Broad Swath Of Projects",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:20:00+00:00",
-      "title": "30% of Cathie Wood's Portfolio Is Invested in These 5 Artificial Intelligence (AI) Stocks",
+      "timestamp": "2026-07-16T12:21:07+00:00",
+      "title": "Morgan Stanley Resets Tesla Stock Price Target for 2027",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T01:55:00+00:00",
-      "title": "Are Hyperscalers Still Magnificent?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T00:13:55+00:00",
-      "title": "The Top Mag 7 Stock Headed Into Q2 Earnings: Jefferies Says Buy Amazon Over Tesla or Apple",
+      "timestamp": "2026-07-16T11:37:13+00:00",
+      "title": "Energy Transition Today - Climate Tech Boom Powered By Policy Innovation And Investment",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-15T23:23:00+00:00",
-      "title": "GPU.ai Named Official Title Sponsor of AGI Summit SF 2026",
+      "timestamp": "2026-07-16T11:32:00+00:00",
+      "title": "Cathie Wood’s ARK Buys SpaceX Stock Ahead of Starship Test 13",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T11:15:51+00:00",
+      "title": "8 Small Stocks Soar So Explosively You'll Forget About The 'Mag 7'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "TSLA live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=TSLA&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "TSLA quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

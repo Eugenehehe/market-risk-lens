@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 394.28,
-    "change_pct": 1.3286731258512985
+    "price": 382.7,
+    "change_pct": -2.9369990869432816
   },
   "risk": {
-    "score": 61,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -434,9 +434,29 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 394.28
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 382.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T10:56:13+00:00",
+      "title": "US probes Samsung for alleged infringement of Netlist's memory-chip patents",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T10:30:27+00:00",
+      "title": "Broadcom's AI Moat Keeps Expanding",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T09:00:51+00:00",
       "title": "The $1 Million Portfolio With Two Very Different Futures",
@@ -484,22 +504,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T00:12:43+00:00",
-      "title": "The Real Risk Inside Marvell Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T23:56:19+00:00",
-      "title": "XNTK vs. QQQ: Does a 35-Stock Tech ETF Beat Just Buying the Nasdaq-100?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AVGO live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=AVGO&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "AVGO quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

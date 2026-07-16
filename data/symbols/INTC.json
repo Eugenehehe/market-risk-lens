@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 102.99,
-    "change_pct": -4.4265033407572485
+    "price": 99.39,
+    "change_pct": -3.495484998543541
   },
   "risk": {
     "score": 76,
@@ -434,9 +434,53 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 102.99
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 99.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T12:51:10+00:00",
+      "title": "UnitedHealth rallies premarket while chip stocks retreat; TSMC’s record earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:38:00+00:00",
+      "title": "Taiwan Semi Plans Extra $100 Billion in U.S. Investment as It Fights Intel Challenge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:19:00+00:00",
+      "title": "Sandisk, UnitedHealth, J.B. Hunt, TSMC, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T11:35:24+00:00",
+      "title": "Intel Sinks Hours After Cramer Names It His Favorite Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T09:32:59+00:00",
+      "title": "ASML Mulls Price Hike for Chipmaking Tools, Information Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T09:25:48+00:00",
       "title": "TSMC and AI stocks fall despite upbeat earnings. Here’s what’s worrying investors",
@@ -460,46 +504,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T20:11:09+00:00",
-      "title": "Intel Begins Using ASML's Most Advanced Chipmaking Machine",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T18:18:31+00:00",
-      "title": "Applied Optoelectronics Falls 12%, Coherent and Lumentum Slide as AI Optics Trade Cools",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T18:18:08+00:00",
-      "title": "Stock Market Today: Nasdaq Gains Steam; PayPal Surges, But Sandisk, Chip Stocks Tumble (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T18:05:00+00:00",
-      "title": "Most active S&P500 stocks in Wednesday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T18:00:00+00:00",
-      "title": "Most active stocks in Wednesday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "INTC live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=INTC&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "INTC quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

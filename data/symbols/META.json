@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 681.31,
-    "change_pct": 3.0663802493041237
+    "price": 679.41,
+    "change_pct": -0.27887452114309097
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -434,69 +434,73 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 681.31
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 679.41
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T09:15:35+00:00",
-      "title": "Sodexo (ENXTPA:SW) Stock Looks Overvalued On Cash Flow Yet Undervalued On Earnings",
+      "timestamp": "2026-07-16T13:43:00+00:00",
+      "title": "These 3 Social Media Stocks Are Among the Best Bargains in the Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:40:00+00:00",
-      "title": "Investors Are Growing Wary of AI-Related Debt",
+      "timestamp": "2026-07-16T13:37:32+00:00",
+      "title": "What Makes Meta Platforms (META) a Compelling Long-Term Opportunity?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:04:00+00:00",
-      "title": "CoreWeave Has Fallen 49% From Its 52-Week High. Is the Beaten-Down AI Stock a Bargain or a Value Trap?",
+      "timestamp": "2026-07-16T13:20:59+00:00",
+      "title": "The Biggest Reason I’m Buying Nvidia Over and Over Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:54:19+00:00",
-      "title": "Meta: My Concerns Have Finally Alleviated (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T05:21:37+00:00",
-      "title": "Michael Burry Mocks Data Center 'Fantasy’ In ORCL, NVDA, AMZN — But Trump Sees ‘Big, Strong, Bold’ Money Machines",
+      "timestamp": "2026-07-16T13:13:01+00:00",
+      "title": "EU orders Google to open Android, search data to OpenAI and AI rivals",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:01:00+00:00",
-      "title": "Sodexo secures a major food services contract with Meta",
+      "timestamp": "2026-07-16T13:00:36+00:00",
+      "title": "META Price Prediction: The Stock Will Hit $700 on This Date",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T04:20:00+00:00",
-      "title": "Is the AI Infrastructure Build-Out a Bubble? Here's What the Data Actually Shows.",
+      "timestamp": "2026-07-16T12:54:31+00:00",
+      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T03:41:00+00:00",
-      "title": "SaaSpocalypse Part II? IBM's Preliminary Earnings Report Rattles Software",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-16T12:36:42+00:00",
+      "title": "At 23x Earnings, Is Meta Stock a Steal or a Trap?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:24:00+00:00",
+      "title": "Williams Is No AI Pipe Dream. The Stock Is a Winner.",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "META live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=META&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "META quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

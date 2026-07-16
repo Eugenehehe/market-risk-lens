@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 419.48,
-    "change_pct": -0.2164656628368844
+    "price": 413.61,
+    "change_pct": -1.39935157814437
   },
   "risk": {
-    "score": 52,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -434,9 +434,45 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 419.48
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 413.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T10:11:50+00:00",
+      "title": "Nvidia: The TSMC Earnings Release Was A Warning Shot",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T08:27:04+00:00",
+      "title": "TSMC Q2 Earnings Review: There's No Stopping The Juggernaut",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T08:15:20+00:00",
+      "title": "The AI Supply Chain Just Confirmed Nvidia's Future",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T07:16:58+00:00",
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Q2 2026 Earnings Call Transcript",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T06:35:00+00:00",
       "title": "Wall Street Breakfast Podcast: TSMC Chips In $100B More",
@@ -468,38 +504,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T05:05:00+00:00",
-      "title": "The Ithaka Group Q2 2026 Portfolio Review",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T16:50:00+00:00",
-      "title": "SK Hynix ADR Explodes, Leaving Seoul Listing in the Dust",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T12:31:25+00:00",
-      "title": "Taiwan Semiconductor: Prepare For A Big Surprise",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T11:54:56+00:00",
-      "title": "TSMC's 68% Sales Surge Just Validated This Billionaire's $9.5 Billion Bet",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "TSM live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=TSM&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "TSM quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

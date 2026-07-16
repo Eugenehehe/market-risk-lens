@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 754.81,
-    "change_pct": 0.3963661998057866
+    "price": 754.23,
+    "change_pct": -0.07684052940474251
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -434,69 +434,73 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 754.81
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 754.23
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T09:00:51+00:00",
-      "title": "The $1 Million Portfolio With Two Very Different Futures",
+      "timestamp": "2026-07-16T13:38:50+00:00",
+      "title": "Stock Market Today: Nasdaq Slides As Sandisk, SK Hynix Plunge; Nvidia Chipmaker TSMC Tumbles (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T06:05:00+00:00",
-      "title": "The Screw Tightens, The Wheel Turns",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T05:20:00+00:00",
-      "title": "Fed Policymaker Comments Raise The Stakes For Inflation Data",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T01:29:39+00:00",
-      "title": "Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus",
+      "timestamp": "2026-07-16T13:17:15+00:00",
+      "title": "BlackRock, Vanguard and JPMorgan Join DTCC's Tokenization Pilot: Which Crypto Could Benefit?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T01:00:00+00:00",
-      "title": "Country Risk: Drivers, Measures And Investment Implications - The 2026 Edition",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T23:55:00+00:00",
-      "title": "Review & Preview: Losing Momentum",
+      "timestamp": "2026-07-16T13:14:05+00:00",
+      "title": "SpaceX Falls Back to $135 IPO Price But Raymond James Thinks The Stock Is Going To The Moon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-15T23:40:00+00:00",
-      "title": "AIER Everyday Price Index Down Slightly After Spring Cost Surge",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-16T13:06:20+00:00",
+      "title": "Does LIT's History Justify Buying This Dip?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-15T22:40:00+00:00",
-      "title": "Correlated Market Psychology: PMI And Retail Money Funds",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-16T12:57:00+00:00",
+      "title": "Can You Build a Retirement Portfolio Using Only ETFs?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:56:42+00:00",
+      "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Semiconductor Stock Weakness",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:48:50+00:00",
+      "title": "What Should You Do With Your DYNF Gains Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T11:15:51+00:00",
+      "title": "8 Small Stocks Soar So Explosively You'll Forget About The 'Mag 7'",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "SPY live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=SPY&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "SPY quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

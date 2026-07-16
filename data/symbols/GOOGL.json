@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 370.92,
-    "change_pct": 3.173764290283998
+    "price": 372.71,
+    "change_pct": 0.48258384557315903
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -434,68 +434,72 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 370.92
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 372.71
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T09:26:00+00:00",
-      "title": "Warren Buffett's Successor, Greg Abel, Scooped Up Shares of These 4 Powerhouse Stocks in the Second Quarter",
+      "timestamp": "2026-07-16T13:22:23+00:00",
+      "title": "Alphabet's Google Receives EU Binding Specifications on AI Interoperability, Search Data",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T09:05:00+00:00",
-      "title": "The 1 AI Stock I'd Buy With $500 Right Now. And It's Not Even Close",
+      "timestamp": "2026-07-16T13:20:59+00:00",
+      "title": "The Biggest Reason I’m Buying Nvidia Over and Over Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:40:00+00:00",
-      "title": "Investors Are Growing Wary of AI-Related Debt",
+      "timestamp": "2026-07-16T13:17:31+00:00",
+      "title": "Alphabet (GOOGL) Price Prediction: How Much a $7,500 Investment Could Be Worth by 2027",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:37:43+00:00",
-      "title": "Google loses court fight against $854,250 Italian fine over gambling advertising",
+      "timestamp": "2026-07-16T13:13:01+00:00",
+      "title": "EU orders Google to open Android, search data to OpenAI and AI rivals",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:30:00+00:00",
-      "title": "Global Full-Stack Observability Services Market Size/Share Worth USD 35 Billion by 2034 at a 22.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "timestamp": "2026-07-16T13:00:00+00:00",
+      "title": "The Trade Desk Appoints Vinny Rinaldi as Vice President of Client Strategy & Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:20:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, Apple and Amazon",
+      "timestamp": "2026-07-16T12:54:31+00:00",
+      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T06:28:00+00:00",
-      "title": "If I Could Own Only 1 Stock, This Would Be My Choice",
+      "timestamp": "2026-07-16T12:42:12+00:00",
+      "title": "Why ZM Stock Hands You So Much Cash Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:32:36+00:00",
-      "title": "ORCL Stock Snaps 3-Day Losing Streak: What’s Making Retail Traders ‘Extremely Bullish’?",
+      "timestamp": "2026-07-16T12:36:42+00:00",
+      "title": "At 23x Earnings, Is Meta Stock a Steal or a Trap?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "GOOGL live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=GOOGL&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "GOOGL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

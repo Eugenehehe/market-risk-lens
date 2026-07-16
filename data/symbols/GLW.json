@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 174.41,
-    "change_pct": -7.050735450863355
+    "price": 160.33,
+    "change_pct": -8.07293159795882
   },
   "risk": {
     "score": 76,
@@ -434,9 +434,29 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 174.41
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 160.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T13:13:29+00:00",
+      "title": "Who Is Positioned to Buy Universal Display?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:35:00+00:00",
+      "title": "What's going on in today's pre-market session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-15T19:00:31+00:00",
       "title": "Corning Stock Signal Hints at Upside Potential Amid Breather",
@@ -484,22 +504,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T16:48:01+00:00",
-      "title": "Applied Optoelectronics Bets Big on AI With Nearly 400,000-Square-Foot Texas Expansion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T14:48:00+00:00",
-      "title": "3 Communication Stocks Set to Soar on Inherent Sector Strength",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "GLW live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=GLW&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "GLW quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 99.37,
-    "change_pct": 1.2636298787322975
+    "price": 98.67,
+    "change_pct": -0.7044379591426009
   },
   "risk": {
-    "score": 47,
+    "score": 42,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -434,6 +434,10 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 99.37
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 98.67
     }
   ],
   "events": [
@@ -457,5 +461,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "FUTU live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=FUTU&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "FUTU quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

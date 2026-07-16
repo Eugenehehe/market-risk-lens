@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 412.68,
-    "change_pct": -9.804607247453777
+    "price": 405.63,
+    "change_pct": -1.7083454492585082
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -434,9 +434,45 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 412.68
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 405.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T13:19:54+00:00",
+      "title": "The Real Engine Behind Johnson & Johnson Stock's Next Climb",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T12:19:00+00:00",
+      "title": "Sandisk, UnitedHealth, J.B. Hunt, TSMC, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T11:48:02+00:00",
+      "title": "Dow Jones Futures Rise But AI Woes Continue; Taiwan Semi, GE, UnitedHealth Are Key Earnings Movers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T11:00:00+00:00",
+      "title": "illumynt Appoints Anthony Giannetti as Senior Vice President of Global Operations",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T08:13:36+00:00",
       "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Worries Ease",
@@ -468,38 +504,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T21:39:55+00:00",
-      "title": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T19:10:09+00:00",
-      "title": "Dell (NYSE:DELL) Joins Global AI Coalition To Help Shape How Cities Deploy AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T19:10:00+00:00",
-      "title": "Chip Stocks Are Giving Wall Street Whiplash, and Earnings Have Barely Started",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T19:05:01+00:00",
-      "title": "Which S&P500 stocks are moving on Wednesday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "DELL live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=DELL&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "DELL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

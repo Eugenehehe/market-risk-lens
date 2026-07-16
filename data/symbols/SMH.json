@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 590.77,
-    "change_pct": -1.5891789242224785
+    "price": 574.74,
+    "change_pct": -2.7134079252500887
   },
   "risk": {
-    "score": 63,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -434,9 +434,21 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 590.77
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 574.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-16T07:18:00+00:00",
+      "title": "More U.S. Stocks Are Marching To A Different Beat",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T00:40:00+00:00",
       "title": "Waiting For AI Winners To Emerge",
@@ -492,14 +504,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-14T16:58:54+00:00",
-      "title": "The Big Picture (Video): Inflation And AI Infrastructure Buildout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "SMH live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=SMH&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "SMH quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

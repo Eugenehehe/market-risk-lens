@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 327.5,
-    "change_pct": 4.014482627199389
+    "price": 330.37,
+    "change_pct": 0.8763358778625996
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -434,68 +434,72 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 327.5
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 330.37
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T08:31:08+00:00",
-      "title": "TSMC scores record profit, eyes on retail sales, earnings - What’s moving markets",
+      "timestamp": "2026-07-16T11:48:02+00:00",
+      "title": "Dow Jones Futures Rise But AI Woes Continue; Taiwan Semi, GE, UnitedHealth Are Key Earnings Movers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:31:26+00:00",
-      "title": "Taiwan chipmaker TSMC to invest another US$100 bn in Arizona fabs",
+      "timestamp": "2026-07-16T11:05:00+00:00",
+      "title": "Why the Mag 7 Stocks Can Save the Stock Market Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:22:01+00:00",
-      "title": "Prediction: Apple Will Soon Surpass Nvidia's $5 Trillion Market Cap to Become the World's Most Valuable Company. The Reason Is Hiding in Plain Sight.",
+      "timestamp": "2026-07-16T11:00:00+00:00",
+      "title": "illumynt Appoints Anthony Giannetti as Senior Vice President of Global Operations",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:20:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, Apple and Amazon",
+      "timestamp": "2026-07-16T10:40:27+00:00",
+      "title": "AI Weekly: SK Hynix shares jump up and down, Apple sues OpenAI",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T06:50:00+00:00",
-      "title": "Apple CEO Tim Cook Just Announced Great News for Broadcom Stock Investors",
+      "timestamp": "2026-07-16T10:31:16+00:00",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as chip stocks slide after TSMC earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T06:27:56+00:00",
-      "title": "Taiwan chipmaker TSMC reports record quarterly profit",
+      "timestamp": "2026-07-16T10:30:27+00:00",
+      "title": "Broadcom's AI Moat Keeps Expanding",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T10:00:06+00:00",
+      "title": "US lawmakers urge Trump administration to ban Chinese memory chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T04:17:52+00:00",
-      "title": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T03:32:16+00:00",
-      "title": "AAPL Stock Tops Nasdaq’s Modest Gains: Analyst Says Siri Finally Shows ‘AI Chops’ In iOS 27 Beta",
+      "timestamp": "2026-07-16T10:00:00+00:00",
+      "title": "$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AAPL live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=AAPL&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "AAPL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

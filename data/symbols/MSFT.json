@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T12:49:55.346843+00:00",
+  "generated_at": "2026-07-16T14:50:51.166457+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 395.63,
-    "change_pct": 2.7797261839815013
+    "price": 397.65,
+    "change_pct": 0.5105780653640979
   },
   "risk": {
-    "score": 73,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -434,68 +434,72 @@
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 395.63
+    },
+    {
+      "timestamp": "2026-07-16T14:50:51.166457+00:00",
+      "close": 397.65
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-16T09:00:51+00:00",
-      "title": "The $1 Million Portfolio With Two Very Different Futures",
+      "timestamp": "2026-07-16T13:32:53+00:00",
+      "title": "National Grid plc (NGG) Targets Soaring US Power Demand with $1.75B Joulent Investment",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:40:00+00:00",
-      "title": "Investors Are Growing Wary of AI-Related Debt",
+      "timestamp": "2026-07-16T13:17:15+00:00",
+      "title": "BlackRock, Vanguard and JPMorgan Join DTCC's Tokenization Pilot: Which Crypto Could Benefit?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:30:00+00:00",
-      "title": "Global Full-Stack Observability Services Market Size/Share Worth USD 35 Billion by 2034 at a 22.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "timestamp": "2026-07-16T13:06:19+00:00",
+      "title": "INTU: Priced Like A Decline, Paying Like A Machine",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T08:15:00+00:00",
-      "title": "Prediction: Microsoft Stock Is Going to Soar After July 29",
+      "timestamp": "2026-07-16T13:01:05+00:00",
+      "title": "AI startup taps former Grammarly CTO for next growth phase",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:24:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Tesla, Space Exploration Technologies, Amazon.com and Microsoft",
+      "timestamp": "2026-07-16T12:42:12+00:00",
+      "title": "Why ZM Stock Hands You So Much Cash Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T07:20:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Alphabet, Microsoft, Apple and Amazon",
+      "timestamp": "2026-07-16T12:39:43+00:00",
+      "title": "Morgan Stanley’s Q2 CIO survey shows these names are winning the race",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:54:19+00:00",
-      "title": "Meta: My Concerns Have Finally Alleviated (Rating Upgrade)",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-16T12:36:42+00:00",
+      "title": "At 23x Earnings, Is Meta Stock a Steal or a Trap?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-16T05:32:36+00:00",
-      "title": "ORCL Stock Snaps 3-Day Losing Streak: What’s Making Retail Traders ‘Extremely Bullish’?",
+      "timestamp": "2026-07-16T12:36:41+00:00",
+      "title": "Is Oracle Stock's Large AI Backlog Worth the Execution Risk?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -513,5 +517,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MSFT live fetch failed: 502 Server Error: Bad Gateway for url: https://finnhub.io/api/v1/quote?symbol=MSFT&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "MSFT quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }
