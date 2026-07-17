@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 745.64,
-    "change_pct": -0.6766837169650541
+    "price": 743.32,
+    "change_pct": -0.985720375106558
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 745.4
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 747.51
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 745.64
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 743.32
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-17T16:10:54+00:00",
       "title": "SPYI Investors: Watch These 2 Macro Factors Before the Next Distribution",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T15:56:00+00:00",
+      "title": "The Tech Shakeout: Market Extremes & Gavin Baker's Bold Call",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T13:59:00+00:00",
+      "title": "Mid-Year Scorecard: Assessing Our Solving For 2026 Calls",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T13:41:11+00:00",
       "title": "Stock Market Today: Nasdaq Leads Indexes Down; SpaceX Slides As Flight Canceled (Live Coverage)",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-17T13:09:00+00:00",
       "title": "AI Is In A State Of Panic: Start Buying It",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T13:00:30+00:00",
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Investors Retreat From Chipmaker Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T12:40:32+00:00",
-      "title": "A $10,000 Investment in Cisco When Chuck Robbins Became CEO Is Worth This Much Today",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

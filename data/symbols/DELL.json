@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 404.22,
-    "change_pct": 3.28069906484747
+    "price": 400.5,
+    "change_pct": 2.3302161582094083
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 69,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 431.97
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 445.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 404.22
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 400.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T16:04:00+00:00",
+      "title": "TDC Launches Autonomous Knowledge Platform for Enterprise AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:45:00+00:00",
       "title": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today’s Market",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-16T18:08:38+00:00",
       "title": "IBD Live Q&A Summary, Stock Lists For Thursday, July 16, 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T17:24:33+00:00",
-      "title": "The Debates That Matter For AAPL Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

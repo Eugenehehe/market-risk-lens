@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 192.19,
-    "change_pct": 2.0658523632501202
+    "price": 188.9,
+    "change_pct": 0.31864046733935947
   },
   "risk": {
-    "score": 67,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 231.71
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 246.5
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 192.19
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 188.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T17:27:00+00:00",
+      "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T16:39:41+00:00",
+      "title": "The 'Invisible Speculative Bear Market' Is Coming Out of Hiding",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T15:50:00+00:00",
+      "title": "2 Stocks to Buy in the Chip Stock Sell-Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:06:39+00:00",
       "title": "AMD Stock Is On Sale, But Is It A Bargain?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-17T13:00:08+00:00",
       "title": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in July",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T11:42:19+00:00",
-      "title": "Chip Stocks Are Having Their Worst Month Since 2008: This Analyst Says Buy the Reset",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T11:07:00+00:00",
-      "title": "The Tech Selloff Is Turning Into a Rout",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T09:17:11+00:00",
-      "title": "Chip Stocks' Worst Month Ever Versus Software: Is the AI Trade Cracking?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

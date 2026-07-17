@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 699.97,
-    "change_pct": -0.8456809360568918
+    "price": 696.41,
+    "change_pct": -1.349973085531364
   },
   "risk": {
-    "score": 57,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 711.44
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 720.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 699.97
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 696.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T13:59:00+00:00",
+      "title": "Mid-Year Scorecard: Assessing Our Solving For 2026 Calls",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T13:09:00+00:00",
       "title": "AI Is In A State Of Panic: Start Buying It",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T11:27:55+00:00",
       "title": "Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T10:49:58+00:00",
-      "title": "Inflation Is Still A Major Problem, Ignore The June Data",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

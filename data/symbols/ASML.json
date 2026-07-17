@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1777.7,
-    "change_pct": -0.40170992845416365
+    "price": 1760.11,
+    "change_pct": -1.3872158756660147
   },
   "risk": {
-    "score": 54,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 1768.65
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 1841.5
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 1777.7
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 1760.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T17:24:59+00:00",
+      "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T17:02:58+00:00",
+      "title": "Stock Market Losses Led By Nasdaq, AI Stocks; Goldman, GE, Taiwan Semi, IBM In Focus: Weekly Review",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:50:17+00:00",
       "title": "European Equities Mixed in Friday Trading; ASML to Give Staff One-Time Bonus",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-17T09:15:00+00:00",
       "title": "ASML: Runaway AI Train - Industry Tailwinds Meet Momentum Risks",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:53:33+00:00",
-      "title": "ASML And TSMC: The AI Buildout Is Getting More Expensive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:22:22+00:00",
-      "title": "Ex-Intel CEO Warns China-Induced Taiwan Blackout Could Trigger a Crisis Worse Than the Great Depression: 'When You Turn Off a Fab...'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

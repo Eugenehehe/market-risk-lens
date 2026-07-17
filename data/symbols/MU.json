@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 889.54,
-    "change_pct": 4.2592592592592515
+    "price": 870.12,
+    "change_pct": 1.983122362869194
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 948.8
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 1025.8
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 889.54
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 870.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T18:05:02+00:00",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T17:52:11+00:00",
+      "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T17:40:42+00:00",
+      "title": "The Chip Selloff Has 'Gone Too Far.' The SOX Index Turns Positive.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T17:27:00+00:00",
+      "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T16:43:00+00:00",
+      "title": "Micron Is Quietly Becoming a More Reliable Long-Term Growth Play",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T16:35:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-17T15:33:06+00:00",
       "title": "Can You Stomach A Real Micron Stock Crash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T15:15:54+00:00",
-      "title": "Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:53:23+00:00",
-      "title": "What Intel Stock Was Signaling About The AI Data Center's Real Engine",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:44:41+00:00",
-      "title": "Micron Technology: Record DRAM Pricing Meets A Stock In Retreat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:30:21+00:00",
-      "title": "AMD Falls 5%, Intel Drops 4%, NVIDIA Slides 3% Before Recovering as Rotation Hits Semiconductor Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:23:00+00:00",
-      "title": "SK Hynix Is Today’s Standout Chip Stock for an Unusual Reason",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

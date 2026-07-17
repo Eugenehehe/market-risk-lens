@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T17:45:59.745103+00:00",
+  "generated_at": "2026-07-17T18:43:53.821771+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 401.19,
-    "change_pct": -2.086689119929719
+    "price": 396.43,
+    "change_pct": -3.2484014252940896
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:23:36.009467+00:00",
-      "close": 436.98
-    },
     {
       "timestamp": "2026-07-09T14:12:17.524639+00:00",
       "close": 442.2
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T17:45:59.745103+00:00",
       "close": 401.19
+    },
+    {
+      "timestamp": "2026-07-17T18:43:53.821771+00:00",
+      "close": 396.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T13:35:19+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T13:22:59+00:00",
       "title": "Astera Labs Is One Misstep Away From A Sharp Re-Rating",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T06:50:14+00:00",
       "title": "What's Going on With Sandisk Stock Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T06:37:43+00:00",
-      "title": "Why Navitas Semiconductor Shares Are Sliding On Friday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
