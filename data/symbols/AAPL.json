@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T18:43:53.821771+00:00",
+  "generated_at": "2026-07-17T19:51:14.413733+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 333.08,
-    "change_pct": -0.054011882614179996
+    "price": 333.92,
+    "change_pct": 0.19804356958532665
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T14:12:17.524639+00:00",
-      "close": 311.68
-    },
     {
       "timestamp": "2026-07-09T16:43:15.798077+00:00",
       "close": 315.21
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T18:43:53.821771+00:00",
       "close": 333.08
+    },
+    {
+      "timestamp": "2026-07-17T19:51:14.413733+00:00",
+      "close": 333.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T19:10:04+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T16:51:40+00:00",
       "title": "Apple in Early Settlement Talks With DOJ Over Antitrust Case",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T16:14:19+00:00",
-      "title": "Mag 7: Buy Amazon’s AI Maximalist Investment or Apple’s Minimalist Approach Right Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

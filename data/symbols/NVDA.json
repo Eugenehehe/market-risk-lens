@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T18:43:53.821771+00:00",
+  "generated_at": "2026-07-17T19:51:14.413733+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 202.96,
-    "change_pct": -2.1407907425265216
+    "price": 203.47,
+    "change_pct": -1.8948891031822623
   },
   "risk": {
-    "score": 68,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T14:12:17.524639+00:00",
-      "close": 200.2
-    },
     {
       "timestamp": "2026-07-09T16:43:15.798077+00:00",
       "close": 202.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T18:43:53.821771+00:00",
       "close": 202.96
+    },
+    {
+      "timestamp": "2026-07-17T19:51:14.413733+00:00",
+      "close": 203.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T19:10:04+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T17:32:27+00:00",
       "title": "SpaceX Stock Drops on Friday. Should Investors Cheer?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T17:29:00+00:00",
-      "title": "Warren Buffett Just Gave Away $6 Billion of Berkshire Stock. He Plans to Give Away $138 Billion More by 2034.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
