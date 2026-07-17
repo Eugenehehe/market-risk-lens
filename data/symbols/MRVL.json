@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:42:25.416603+00:00",
+  "generated_at": "2026-07-17T21:36:06.881953+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 188.68,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T18:30:20.696140+00:00",
-      "close": 246.74
-    },
     {
       "timestamp": "2026-07-09T20:25:20.556667+00:00",
       "close": 243.27
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-17T20:42:25.416603+00:00",
       "close": 188.68
+    },
+    {
+      "timestamp": "2026-07-17T21:36:06.881953+00:00",
+      "close": 188.68
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-17T17:27:00+00:00",
       "title": "Chip Stocks, Tech IPOs, and Wildfire Smoke Are All Clouding the Outlook",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T16:50:45+00:00",
+      "title": "Nvidia, CXL, And The Battle To Improve AI Inference Economics",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T14:36:26+00:00",
       "title": "The Two Radically Different Paths Priced Into NVIDIA Stock",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T13:22:59+00:00",
-      "title": "Astera Labs Is One Misstep Away From A Sharp Re-Rating",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
