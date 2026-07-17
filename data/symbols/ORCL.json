@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 124.21,
-    "change_pct": -6.249528266284255
+    "price": 125.72,
+    "change_pct": 1.2156831173013583
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,45 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 124.21
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 125.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T10:33:46+00:00",
+      "title": "3 of Wall Street’s Favorite Stocks We Find Risky",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:25:46+00:00",
+      "title": "2 Large-Cap Stocks to Target This Week and 1 We Question",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:17:18+00:00",
+      "title": "‘Lehman Brothers of AI’: Why One Critic Thinks OpenAI Will Crash the Entire AI Industry",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T09:30:00+00:00",
+      "title": "Oracle: Attractive Valuation, But The Dividend Needs Monitoring",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T07:38:14+00:00",
       "title": "The Oracle Paradox: Record AI Demand, Mounting Debt, And A Stock Wall Street Still Loves",
@@ -524,38 +560,6 @@
     {
       "timestamp": "2026-07-16T21:45:03+00:00",
       "title": "Oracle (ORCL) Suffers a Larger Drop Than the General Market: Key Insights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T18:05:01+00:00",
-      "title": "Explore the S&P500 index on Thursday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T17:13:21+00:00",
-      "title": "Arm (ARM) CEO Flags China Export Hurdles As AGI CPU Demand Builds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T17:04:06+00:00",
-      "title": "Oracle Just Cratered 33% in a Month. Is It Time to Switch to Cloudflare or CoreWeave?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T17:03:31+00:00",
-      "title": "Oracle Stock Slides To 52-Week Low Amid AI Spending Fears",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

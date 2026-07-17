@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 853.2,
-    "change_pct": -5.648692882735428
+    "price": 858.22,
+    "change_pct": 0.5883731833098871
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,61 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 853.2
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 858.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T11:44:57+00:00",
+      "title": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; Sandisk, AI Stocks Try To Halt Sell-Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T11:42:02+00:00",
+      "title": "Micron signs memory deals with seven Tier 1 automotive suppliers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T11:36:33+00:00",
+      "title": "Chip stocks fall globally, pulling U.S. stock futures lower",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:41:41+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Friday; Netflix, SpaceX to Decline",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:12:36+00:00",
+      "title": "‘You Might Lose Your Shirt By Monday’: Jim Cramer’s Blunt Warning to Investors Buying Micron on Margin",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:03:38+00:00",
+      "title": "Stock Futures Drop as Tech Selloff Gathers Pace",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T09:44:53+00:00",
       "title": "Dow Jones Futures Fall As AI Sell-Off Continues; Netflix Dives, SpaceX Scrubs Launch",
@@ -509,54 +561,6 @@
       "timestamp": "2026-07-17T08:56:27+00:00",
       "title": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T05:30:00+00:00",
-      "title": "Stop Worrying About AI and Focus on the Rest of the Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T03:21:59+00:00",
-      "title": "PDO: Dynamic (But Steady) Income In An Uncertain World",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T03:07:48+00:00",
-      "title": "Dow Jones Futures Fall, Netflix Dives, SpaceX Scrubs Launch After Latest AI Sell-Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T02:50:00+00:00",
-      "title": "Blind Spots In The NDX Boom: When Market Concentration Meets Attention Deficit",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T02:34:30+00:00",
-      "title": "ACV: Better Than A Bond Fund, But Tech Exposure Is A Risk",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T01:40:00+00:00",
-      "title": "China Semiconductor ETF: Are Investors Overlooking A Key Component In The Global AI Supply Chain?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

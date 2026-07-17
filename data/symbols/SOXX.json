@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 530.5,
-    "change_pct": -4.460892898950053
+    "price": 517.58,
+    "change_pct": -2.435438265786982
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,37 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 530.5
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 517.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T09:25:00+00:00",
+      "title": "Nasdaq 100 At Risk Of Triggering A Multi-Week Corrective Decline Leg",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T09:14:37+00:00",
+      "title": "Don't Waste This AI Meltdown",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T08:35:00+00:00",
+      "title": "Chart Of The Day: Chip Stocks Headed Down And To The Right",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T02:50:00+00:00",
       "title": "Blind Spots In The NDX Boom: When Market Concentration Meets Attention Deficit",
@@ -532,30 +560,6 @@
     {
       "timestamp": "2026-07-16T07:18:00+00:00",
       "title": "More U.S. Stocks Are Marching To A Different Beat",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T05:37:06+00:00",
-      "title": "One AI Stock To Buy Right Now? This Fund Manager Picks Micron",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T00:40:00+00:00",
-      "title": "Waiting For AI Winners To Emerge",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T22:40:00+00:00",
-      "title": "Correlated Market Psychology: PMI And Retail Money Funds",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

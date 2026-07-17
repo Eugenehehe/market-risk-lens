@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 391.38,
-    "change_pct": -5.161384123291657
+    "price": 385.67,
+    "change_pct": -1.4589401604578667
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,21 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 391.38
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 385.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T12:35:00+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T18:08:38+00:00",
       "title": "IBD Live Q&A Summary, Stock Lists For Thursday, July 16, 2026",
@@ -548,14 +560,6 @@
     {
       "timestamp": "2026-07-16T13:38:00+00:00",
       "title": "Can Super Micro Computer's RDHx Expansion Fuel AI Data Center Demand?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T13:19:54+00:00",
-      "title": "The Real Engine Behind Johnson & Johnson Stock's Next Climb",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

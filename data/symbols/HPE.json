@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 45.13,
-    "change_pct": -4.768938594640215
+    "price": 45.09,
+    "change_pct": -0.08863283846665126
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,21 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 45.13
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 45.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T10:09:46+00:00",
+      "title": "2 Large-Cap Stocks with Exciting Potential and 1 We Brush Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T18:28:01+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Deepens ScanSource Partnership With Juniper Portfolio",
@@ -548,14 +560,6 @@
     {
       "timestamp": "2026-07-15T17:33:17+00:00",
       "title": "Q1 Earnings Outperformers: Hewlett Packard Enterprise (NYSE:HPE) And The Rest Of The Hardware & Infrastructure Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T16:42:51+00:00",
-      "title": "Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 374.45,
-    "change_pct": -5.029420716242261
+    "price": 366.7,
+    "change_pct": -2.0697022299372425
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,21 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 374.45
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 366.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T10:03:38+00:00",
+      "title": "Stock Futures Drop as Tech Selloff Gathers Pace",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-16T22:57:22+00:00",
       "title": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
@@ -548,14 +560,6 @@
     {
       "timestamp": "2026-07-16T18:00:42+00:00",
       "title": "Bank of America Sees Nvidia’s Next $20 Billion Business. Here’s Where NVDA Stock Could Go",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T17:00:20+00:00",
-      "title": "Price Prediction: Nvidia, AMD & Broadcom-Our Bold Price Predictions for 2029",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

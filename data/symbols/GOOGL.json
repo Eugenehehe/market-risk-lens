@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 354.46,
-    "change_pct": -4.437614579963345
+    "price": 347.42,
+    "change_pct": -1.986119731422431
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,37 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 354.46
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 347.42
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T11:44:57+00:00",
+      "title": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; Sandisk, AI Stocks Try To Halt Sell-Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:21:31+00:00",
+      "title": "Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:05:00+00:00",
+      "title": "These 2 Industrial Stocks Will Benefit From the Trillion-Dollar AI Spending Boom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T09:44:53+00:00",
       "title": "Dow Jones Futures Fall As AI Sell-Off Continues; Netflix Dives, SpaceX Scrubs Launch",
@@ -532,30 +560,6 @@
     {
       "timestamp": "2026-07-17T05:31:19+00:00",
       "title": "MSFT Stock Dips Overnight: Satya Nadella Calls Anthropic’s Fable 5 ‘Editorially Controlled’ Amid Backlash Over Safeguards",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T05:30:00+00:00",
-      "title": "North Sea gas to power offshore AI data centre",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T04:45:00+00:00",
-      "title": "SpaceX, Alphabet, and SK Hynix Are Quietly Flashing a Bullish Signal Investors Should Not Ignore",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T03:31:23+00:00",
-      "title": "'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

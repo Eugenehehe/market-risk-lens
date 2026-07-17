@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T12:09:52.686090+00:00",
+  "generated_at": "2026-07-17T14:03:15.601906+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 188.3,
-    "change_pct": -8.707456608164444
+    "price": 185.56,
+    "change_pct": -1.4551248008497164
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -494,9 +494,21 @@
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 188.3
+    },
+    {
+      "timestamp": "2026-07-17T14:03:15.601906+00:00",
+      "close": 185.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T09:00:49+00:00",
+      "title": "Marvell: The Smartest Investors Aren't Buying Here",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T01:36:42+00:00",
       "title": "Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season: NFLX, SNDK, SPCX, MRVL Stocks In Focus",
@@ -549,14 +561,6 @@
       "timestamp": "2026-07-16T17:04:00+00:00",
       "title": "U.S. Futures Fall as Chip Stocks Come Under Pressure",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T16:35:00+00:00",
-      "title": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
