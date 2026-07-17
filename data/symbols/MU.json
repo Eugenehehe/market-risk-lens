@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 852.65,
-    "change_pct": -0.06446319737459794
+    "price": 886.73,
+    "change_pct": 3.929910923581814
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 948.8
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 948.8
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 852.65
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 886.73
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-17T13:09:59+00:00",
-      "title": "Seagate Stock And The Bet On A Denser Future",
+      "timestamp": "2026-07-17T15:45:00+00:00",
+      "title": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T13:00:08+00:00",
-      "title": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in July",
+      "timestamp": "2026-07-17T15:33:06+00:00",
+      "title": "Can You Stomach A Real Micron Stock Crash?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:53:14+00:00",
-      "title": "Stocks Fall Pre-Bell as Chip Sell-Off Continues",
+      "timestamp": "2026-07-17T15:15:54+00:00",
+      "title": "Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:44:57+00:00",
-      "title": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; Sandisk, AI Stocks Try To Halt Sell-Off",
+      "timestamp": "2026-07-17T14:53:23+00:00",
+      "title": "What Intel Stock Was Signaling About The AI Data Center's Real Engine",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:42:02+00:00",
-      "title": "Micron signs memory deals with seven Tier 1 automotive suppliers",
+      "timestamp": "2026-07-17T14:44:41+00:00",
+      "title": "Micron Technology: Record DRAM Pricing Meets A Stock In Retreat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:39:49+00:00",
-      "title": "Latest News In AI Chips - Palomino Expands AI Market Reach with Vega Links Acquisition",
+      "timestamp": "2026-07-17T14:30:21+00:00",
+      "title": "AMD Falls 5%, Intel Drops 4%, NVIDIA Slides 3% Before Recovering as Rotation Hits Semiconductor Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:36:33+00:00",
-      "title": "Chip stocks fall globally, pulling U.S. stock futures lower",
+      "timestamp": "2026-07-17T14:23:00+00:00",
+      "title": "SK Hynix Is Today’s Standout Chip Stock for an Unusual Reason",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:32:00+00:00",
-      "title": "Surprise Reason Why SK Hynix Is Today’s Standout Chip Stock",
+      "timestamp": "2026-07-17T14:11:11+00:00",
+      "title": "Chips Stocks Enter a Bear Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

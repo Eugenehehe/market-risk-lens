@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 125.27,
-    "change_pct": 0.8533934465823956
+    "price": 127.25,
+    "change_pct": 2.447467997745756
   },
   "risk": {
-    "score": 57,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 140.49
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 140.49
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 125.27
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 127.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T15:00:54+00:00",
+      "title": "Oracle is Falling Fast. Here’s Why This Wall Street Firm Believes The Stock Will Triple in 12 Months",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T14:32:25+00:00",
+      "title": "Is Oracle's debt becoming a bigger risk for investors?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T14:30:54+00:00",
+      "title": "Price Prediction: Two Big Reasons Oracle Stock Could Surge 60% This Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T13:18:09+00:00",
+      "title": "Oracle's stock crash looks embarrassing for billionaire founder Larry Ellison",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T12:07:21+00:00",
       "title": "The Real Risk Inside Oracle Stock",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-17T10:38:59+00:00",
       "title": "IGLB: Still A Sell",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T10:33:46+00:00",
-      "title": "3 of Wall Street’s Favorite Stocks We Find Risky",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T10:25:46+00:00",
-      "title": "2 Large-Cap Stocks to Target This Week and 1 We Question",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T10:17:18+00:00",
-      "title": "‘Lehman Brothers of AI’: Why One Critic Thinks OpenAI Will Crash the Entire AI Industry",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T09:30:00+00:00",
-      "title": "Oracle: Attractive Valuation, But The Dividend Needs Monitoring",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

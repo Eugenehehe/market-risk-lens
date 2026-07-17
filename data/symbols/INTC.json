@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 93.26,
-    "change_pct": -3.8358424417405668
+    "price": 95.6,
+    "change_pct": -1.4229738090328015
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 110.24
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 110.24
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 93.26
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 95.6
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-17T12:52:22+00:00",
-      "title": "Update: US Equity Futures Drop as AI Concerns Weigh on Tech Stocks, Middle East Conflict Continues",
+      "timestamp": "2026-07-17T15:45:00+00:00",
+      "title": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T12:00:00+00:00",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "timestamp": "2026-07-17T15:33:06+00:00",
+      "title": "Can You Stomach A Real Micron Stock Crash?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:53:14+00:00",
-      "title": "Stocks Fall Pre-Bell as Chip Sell-Off Continues",
+      "timestamp": "2026-07-17T15:06:39+00:00",
+      "title": "AMD Stock Is On Sale, But Is It A Bargain?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T11:36:33+00:00",
-      "title": "Chip stocks fall globally, pulling U.S. stock futures lower",
+      "timestamp": "2026-07-17T14:53:23+00:00",
+      "title": "What Intel Stock Was Signaling About The AI Data Center's Real Engine",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T10:41:00+00:00",
-      "title": "AMD, Dell, Intel, Netflix, SpaceX, and More Stocks That Explain Today’s Market",
+      "timestamp": "2026-07-17T14:36:26+00:00",
+      "title": "The Two Radically Different Paths Priced Into NVIDIA Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "title": "TSMC: Ignore The Noise; Time To Back Up The Truck",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:56:27+00:00",
-      "title": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "timestamp": "2026-07-17T14:30:21+00:00",
+      "title": "AMD Falls 5%, Intel Drops 4%, NVIDIA Slides 3% Before Recovering as Rotation Hits Semiconductor Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T08:35:00+00:00",
-      "title": "Chart Of The Day: Chip Stocks Headed Down And To The Right",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-17T14:20:00+00:00",
+      "title": "TXN Likely to Beat Q2 Earnings Estimates: How to Play the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T13:51:52+00:00",
+      "title": "Chip Stocks Are Sliding Despite 'Absolutely Rock Solid' Earnings Power — JPMorgan Strategist Warns AI Rally Now Hinges On Hyperscalers",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

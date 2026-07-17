@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 293.54,
-    "change_pct": -0.6935281978415864
+    "price": 294.18,
+    "change_pct": -0.477012077539829
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 293.48
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 293.48
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 293.54
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 294.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T12:10:00+00:00",
+      "title": "Tech Sector Pullback Gains Momentum",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T12:02:43+00:00",
+      "title": "No Sign Yet This Correction Is Over",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T10:49:58+00:00",
       "title": "Inflation Is Still A Major Problem, Ignore The June Data",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-17T08:25:00+00:00",
       "title": "Government Spending Has Increased 89% Since 2016 To $7.2T",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:15:29+00:00",
-      "title": "The Market Is Already Crashing - The Indexes Are Hiding It",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T06:05:00+00:00",
-      "title": "Market Sells AI Trade, Scarcity Trade Still On",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 693.66,
-    "change_pct": -1.739524605490561
+    "price": 699.34,
+    "change_pct": -0.9349236479020862
   },
   "risk": {
-    "score": 64,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 711.44
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 711.44
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 693.66
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 699.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T12:10:00+00:00",
+      "title": "Tech Sector Pullback Gains Momentum",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T12:02:43+00:00",
+      "title": "No Sign Yet This Correction Is Over",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T11:27:55+00:00",
+      "title": "Jim Cramer May Like Applied Digital, But Stock Still Plummets 6% on Friday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T10:49:58+00:00",
       "title": "Inflation Is Still A Major Problem, Ignore The June Data",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-17T09:14:37+00:00",
       "title": "Don't Waste This AI Meltdown",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "title": "U.S. Q2 GDP Growth Expected Near Q1's Increase",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:54:57+00:00",
-      "title": "The Fallacy Of Bear Market Forecasting",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:49:03+00:00",
-      "title": "Stock Market Today: Dow, Nasdaq, S&P 500 Futures Slump as Trump Says U.S. Is Going 'Great'— Netflix, Coca-Cola, Nebius in Focus (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

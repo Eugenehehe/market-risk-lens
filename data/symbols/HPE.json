@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 45.29,
-    "change_pct": 0.35453135386660506
+    "price": 45.92,
+    "change_pct": 1.7504985597163625
   },
   "risk": {
-    "score": 53,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 44.67
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 44.67
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 45.29
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 45.92
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-16T18:28:01+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Deepens ScanSource Partnership With Juniper Portfolio",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-16T17:00:24+00:00",
+      "title": "Here's How Much $1000 Invested In Hewlett Packard 10 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-15T23:56:17+00:00",
       "title": "Cisco Stock's Independent Streak Is Its Edge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T17:33:39+00:00",
-      "title": "Dell leads broader AI hardware selloff as shares tumble 14%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

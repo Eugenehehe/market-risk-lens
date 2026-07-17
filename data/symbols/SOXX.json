@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 514.95,
-    "change_pct": -2.931196983977369
+    "price": 527.23,
+    "change_pct": -0.6163996229971658
   },
   "risk": {
-    "score": 74,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 562.03
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 562.03
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 514.95
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 527.23
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-17T11:42:19+00:00",
+      "title": "Chip Stocks Are Having Their Worst Month Since 2008: This Analyst Says Buy the Reset",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T09:25:00+00:00",
       "title": "Nasdaq 100 At Risk Of Triggering A Multi-Week Corrective Decline Leg",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T09:17:11+00:00",
+      "title": "Chip Stocks' Worst Month Ever Versus Software: Is the AI Trade Cracking?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T06:37:48+00:00",
+      "title": "What's Going on With Micron Technology Stock Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T02:50:00+00:00",
       "title": "Blind Spots In The NDX Boom: When Market Concentration Meets Attention Deficit",
       "source": "SeekingAlpha",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-17T02:15:00+00:00",
       "title": "Market Outlook: Getting Serious In Summer Markets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T10:01:27+00:00",
-      "title": "Semiconductor Stocks’ Worst Slump in Over a Year — Are Chips Now Cheap Enough?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T08:35:46+00:00",
-      "title": "Why Is AMD Stock Falling Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T07:18:00+00:00",
-      "title": "More U.S. Stocks Are Marching To A Different Beat",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

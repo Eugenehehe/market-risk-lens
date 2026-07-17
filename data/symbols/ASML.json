@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T15:24:34.006388+00:00",
+  "generated_at": "2026-07-17T16:40:04.976602+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1746.68,
-    "change_pct": -2.139651627289374
+    "price": 1774.13,
+    "change_pct": -0.6017244953413825
   },
   "risk": {
-    "score": 68,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T11:55:59.827419+00:00",
-      "close": 1768.65
-    },
     {
       "timestamp": "2026-07-09T12:10:48.963875+00:00",
       "close": 1768.65
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 1746.68
+    },
+    {
+      "timestamp": "2026-07-17T16:40:04.976602+00:00",
+      "close": 1774.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T15:50:17+00:00",
+      "title": "European Equities Mixed in Friday Trading; ASML to Give Staff One-Time Bonus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T14:57:57+00:00",
+      "title": "European Equities Traded in the US as American Depositary Receipts Decline Friday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T11:12:20+00:00",
       "title": "ASML (ENXTAM:ASML) Stock Sees Fair Value Lift As Analysts Raise EUV Outlook",
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-17T08:00:11+00:00",
-      "title": "ASML Q2 2026: Sales Growth Flattens, China Risks Intensify",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T23:55:00+00:00",
-      "title": "Review & Preview: No More Easy Money in AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T23:05:22+00:00",
-      "title": "Nova and Microchip Technology Shares Are Falling, What You Need To Know",
-      "source": "Yahoo",
+      "timestamp": "2026-07-17T08:22:22+00:00",
+      "title": "Ex-Intel CEO Warns China-Induced Taiwan Blackout Could Trigger a Crisis Worse Than the Great Depression: 'When You Turn Off a Fab...'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
