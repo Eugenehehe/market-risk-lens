@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T16:40:04.976602+00:00",
+  "generated_at": "2026-07-17T17:45:59.745103+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 562,
-    "change_pct": -1.2163397314209345
+    "price": 562.71,
+    "change_pct": -1.0915418688040357
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:10:48.963875+00:00",
-      "close": 593
-    },
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 593
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T16:40:04.976602+00:00",
       "close": 562
+    },
+    {
+      "timestamp": "2026-07-17T17:45:59.745103+00:00",
+      "close": 562.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T13:09:00+00:00",
+      "title": "AI Is In A State Of Panic: Start Buying It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T12:34:51+00:00",
+      "title": "Tech Rout Deepens on China's AI Shock, Crude Rises to $81: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T07:15:00+00:00",
       "title": "An Emerging Black Swan That Could Crush Tech Stocks And Boost Real Assets",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-16T00:40:00+00:00",
       "title": "Waiting For AI Winners To Emerge",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T22:40:00+00:00",
-      "title": "Correlated Market Psychology: PMI And Retail Money Funds",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-15T19:00:46+00:00",
-      "title": "If You Invested $1000 In VanEck Semiconductor ETF Stock 15 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

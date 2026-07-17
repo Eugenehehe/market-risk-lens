@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T16:40:04.976602+00:00",
+  "generated_at": "2026-07-17T17:45:59.745103+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 745.91,
-    "change_pct": -0.6407182438192716
+    "price": 745.64,
+    "change_pct": -0.6766837169650541
   },
   "risk": {
     "score": 56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:10:48.963875+00:00",
-      "close": 745.4
-    },
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 745.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-17T16:40:04.976602+00:00",
       "close": 745.91
+    },
+    {
+      "timestamp": "2026-07-17T17:45:59.745103+00:00",
+      "close": 745.64
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T13:09:00+00:00",
+      "title": "AI Is In A State Of Panic: Start Buying It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T13:00:30+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Investors Retreat From Chipmaker Stocks",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T12:40:32+00:00",
       "title": "A $10,000 Investment in Cisco When Chuck Robbins Became CEO Is Worth This Much Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T12:27:43+00:00",
-      "title": "What Is Kimi K3? The Chinese AI Model That Has Wall Street Talking",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

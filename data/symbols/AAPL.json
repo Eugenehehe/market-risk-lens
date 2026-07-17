@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T16:40:04.976602+00:00",
+  "generated_at": "2026-07-17T17:45:59.745103+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 331.9,
-    "change_pct": -0.4080897797515526
+    "price": 330.93,
+    "change_pct": -0.6991538138390374
   },
   "risk": {
-    "score": 54,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:10:48.963875+00:00",
-      "close": 313.39
-    },
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 313.39
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T16:40:04.976602+00:00",
       "close": 331.9
+    },
+    {
+      "timestamp": "2026-07-17T17:45:59.745103+00:00",
+      "close": 330.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T16:00:41+00:00",
+      "title": "Alphabet Could Become Warren Buffett’s Smartest Long‑Term Pick Yet",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T15:51:00+00:00",
+      "title": "Apple set to report in-line quarter as iPhone gains share, Services tracks estimates",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:45:00+00:00",
       "title": "Apple’s ‘Wait and See’ AI Strategy Just Earned the Stock an Upgrade",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-17T14:53:00+00:00",
       "title": "Should Alphabet Stock Be in Your Portfolio Pre-Q2 Earnings?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:37:56+00:00",
-      "title": "Buffett’s Biggest Bet Just Dethroned Nvidia As the Largest Company In the World",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:36:06+00:00",
-      "title": "Nvidia holds crown against Apple: Shrugs off dip to maintain $4.9T tech lead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T16:40:04.976602+00:00",
+  "generated_at": "2026-07-17T17:45:59.745103+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 346.64,
-    "change_pct": -2.2061727698470923
+    "price": 344.36,
+    "change_pct": -2.849404728319127
   },
   "risk": {
-    "score": 68,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:10:48.963875+00:00",
-      "close": 361.92
-    },
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 361.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T16:40:04.976602+00:00",
       "close": 346.64
+    },
+    {
+      "timestamp": "2026-07-17T17:45:59.745103+00:00",
+      "close": 344.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T16:40:04+00:00",
+      "title": "Top dow jones movers in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:45:00+00:00",
       "title": "Apple’s ‘Wait and See’ AI Strategy Just Earned the Stock an Upgrade",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T15:11:00+00:00",
       "title": "Broadcom Legal Chief Sold Nearly $20 Million of Stock After Apple Partnership Boosted Shares",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T15:00:21+00:00",
-      "title": "Over 60 Analysts Say Buy Microsoft. Here’s Our Price Target",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

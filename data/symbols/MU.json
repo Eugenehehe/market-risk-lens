@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T16:40:04.976602+00:00",
+  "generated_at": "2026-07-17T17:45:59.745103+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 886.73,
-    "change_pct": 3.929910923581814
+    "price": 889.54,
+    "change_pct": 4.2592592592592515
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:10:48.963875+00:00",
-      "close": 948.8
-    },
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 948.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T16:40:04.976602+00:00",
       "close": 886.73
+    },
+    {
+      "timestamp": "2026-07-17T17:45:59.745103+00:00",
+      "close": 889.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:45:00+00:00",
       "title": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today’s Market",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T14:23:00+00:00",
       "title": "SK Hynix Is Today’s Standout Chip Stock for an Unusual Reason",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:11:11+00:00",
-      "title": "Chips Stocks Enter a Bear Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

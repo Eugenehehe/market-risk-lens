@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T16:40:04.976602+00:00",
+  "generated_at": "2026-07-17T17:45:59.745103+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 393.18,
-    "change_pct": -1.9745699326851218
+    "price": 395.01,
+    "change_pct": -1.5183246073298462
   },
   "risk": {
-    "score": 66,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T12:10:48.963875+00:00",
-      "close": 383.34
-    },
     {
       "timestamp": "2026-07-09T12:23:36.009467+00:00",
       "close": 383.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T16:40:04.976602+00:00",
       "close": 393.18
+    },
+    {
+      "timestamp": "2026-07-17T17:45:59.745103+00:00",
+      "close": 395.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T16:40:04+00:00",
+      "title": "Top dow jones movers in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:30:47+00:00",
       "title": "Bank of America Says Alphabet’s Q2 Will Deliver. Here’s The Price Target",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T14:53:00+00:00",
       "title": "Should Alphabet Stock Be in Your Portfolio Pre-Q2 Earnings?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:38:00+00:00",
-      "title": "Microsoft CEO Nadella criticizes Anthropic's Fable AI over refusals in internal Copilot meeting",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
