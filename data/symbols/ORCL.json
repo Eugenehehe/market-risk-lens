@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T19:51:14.413733+00:00",
+  "generated_at": "2026-07-17T20:42:25.416603+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 126.32,
-    "change_pct": 1.6987360115932715
+    "price": 126.41,
+    "change_pct": 1.7711939457370596
   },
   "risk": {
-    "score": 64,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T16:43:15.798077+00:00",
-      "close": 145.38
-    },
     {
       "timestamp": "2026-07-09T18:30:20.696140+00:00",
       "close": 144.26
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T19:51:14.413733+00:00",
       "close": 126.32
+    },
+    {
+      "timestamp": "2026-07-17T20:42:25.416603+00:00",
+      "close": 126.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T20:00:32+00:00",
+      "title": "Oracle Data Center Plan Hits New Setback",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T20:00:23+00:00",
+      "title": "Oracle Data Center Project Hits New Mexico Roadblock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T15:57:04+00:00",
+      "title": "The AI boom is increasingly built on debt, but investor demand is plunging just as hyperscalers ramp up their bond blitz",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T15:19:00+00:00",
       "title": "ServiceNow Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
       "source": "Yahoo",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-17T15:00:54+00:00",
       "title": "Oracle is Falling Fast. Here’s Why This Wall Street Firm Believes The Stock Will Triple in 12 Months",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:32:25+00:00",
-      "title": "Is Oracle's debt becoming a bigger risk for investors?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T14:30:54+00:00",
-      "title": "Price Prediction: Two Big Reasons Oracle Stock Could Surge 60% This Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T13:57:44+00:00",
-      "title": "Oracle: Endure The Pain Before The Turnaround Begins",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

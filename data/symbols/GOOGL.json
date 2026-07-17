@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T19:51:14.413733+00:00",
+  "generated_at": "2026-07-17T20:42:25.416603+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 345.68,
-    "change_pct": -2.477007278677412
+    "price": 346.77,
+    "change_pct": -2.1694972634429877
   },
   "risk": {
-    "score": 70,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T16:43:15.798077+00:00",
-      "close": 355.22
-    },
     {
       "timestamp": "2026-07-09T18:30:20.696140+00:00",
       "close": 356.84
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-17T19:51:14.413733+00:00",
       "close": 345.68
+    },
+    {
+      "timestamp": "2026-07-17T20:42:25.416603+00:00",
+      "close": 346.77
     }
   ],
   "events": [
@@ -509,6 +509,38 @@
       "timestamp": "2026-07-17T19:10:04+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T18:57:29+00:00",
+      "title": "Markets are Missing This: Apple Stock Offers a Different Way to Bet on the Future of AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T18:34:14+00:00",
+      "title": "Intel Stock Back In Growth Mode, But Sellers Still Smack Shares Ahead Of Q2 Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T18:05:00+00:00",
+      "title": "What Lucid, SpaceX, and Amazon All Have In Common. (Hint: Think Cash.)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T18:01:56+00:00",
+      "title": "The Race to Beat Nvidia: Does Google or Amazon Have the Better In-House Silicon",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-17T16:51:40+00:00",
       "title": "Apple in Early Settlement Talks With DOJ Over Antitrust Case",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T16:47:00+00:00",
-      "title": "Alphabet Stock Is Being Hit by 2 Big AI Fears",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T16:40:04+00:00",
-      "title": "Top dow jones movers in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T16:11:00+00:00",
-      "title": "Reddit's AI Initiative Gains Momentum: A Sign for More Upside?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T16:10:15+00:00",
-      "title": "Nebius’ $775 Million Debt Deal Changes Everything About Its AI Growth Story",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

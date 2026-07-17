@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T19:51:14.413733+00:00",
+  "generated_at": "2026-07-17T20:42:25.416603+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 95.81,
-    "change_pct": -1.2064343163538882
+    "price": 95.04,
+    "change_pct": -2.0004124561765257
   },
   "risk": {
-    "score": 60,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T16:43:15.798077+00:00",
-      "close": 112.73
-    },
     {
       "timestamp": "2026-07-09T18:30:20.696140+00:00",
       "close": 112.41
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T19:51:14.413733+00:00",
       "close": 95.81
+    },
+    {
+      "timestamp": "2026-07-17T20:42:25.416603+00:00",
+      "close": 95.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T18:34:14+00:00",
+      "title": "Intel Stock Back In Growth Mode, But Sellers Still Smack Shares Ahead Of Q2 Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T16:09:59+00:00",
+      "title": "Earnings Calendar and Analysis for This Week (June 8-12)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T16:05:00+00:00",
       "title": "Can INTC's Google Cloud AI Deal Expansion Boost its Enterprise Growth?",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-17T15:45:00+00:00",
       "title": "Micron, Nvidia, Netflix, SK Hynix, Intuitive Surgical, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T15:33:06+00:00",
-      "title": "Can You Stomach A Real Micron Stock Crash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T15:09:22+00:00",
-      "title": "Intel's Q2 Earnings Will Impress (Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

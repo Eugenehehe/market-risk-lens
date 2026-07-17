@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-17T19:51:14.413733+00:00",
+  "generated_at": "2026-07-17T20:42:25.416603+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1757.52,
-    "change_pct": -1.532324483015568
+    "price": 1747.58,
+    "change_pct": -2.0892277868976405
   },
   "risk": {
-    "score": 63,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T16:43:15.798077+00:00",
-      "close": 1827.25
-    },
     {
       "timestamp": "2026-07-09T18:30:20.696140+00:00",
       "close": 1820.21
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T19:51:14.413733+00:00",
       "close": 1757.52
+    },
+    {
+      "timestamp": "2026-07-17T20:42:25.416603+00:00",
+      "close": 1747.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T20:01:09+00:00",
+      "title": "Nvidia and AMD Hit by AI Selloff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T17:24:59+00:00",
       "title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T14:16:59+00:00",
+      "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T11:12:20+00:00",
       "title": "ASML (ENXTAM:ASML) Stock Sees Fair Value Lift As Analysts Raise EUV Outlook",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-17T11:03:00+00:00",
       "title": "TSMC hikes 2026 guidance as AI demand outpaces capacity",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T09:46:37+00:00",
-      "title": "European chip stocks fall after sharp U.S. peers’ selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T09:15:00+00:00",
-      "title": "ASML: Runaway AI Train - Industry Tailwinds Meet Momentum Risks",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
