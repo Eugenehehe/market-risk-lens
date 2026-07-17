@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:29:04.915623+00:00",
+  "generated_at": "2026-07-17T23:28:51.607352+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 398.37,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T21:58:02.309195+00:00",
-      "close": 436.96
-    },
     {
       "timestamp": "2026-07-09T23:19:36.076645+00:00",
       "close": 436.96
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-17T22:29:04.915623+00:00",
       "close": 398.37
+    },
+    {
+      "timestamp": "2026-07-17T23:28:51.607352+00:00",
+      "close": 398.37
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-17T15:36:15+00:00",
       "title": "President Trump Posts On Truth Social \"... Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars... \"",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T15:10:08+00:00",
+      "title": "DA Davidson Maintains Buy on Taiwan Semiconductor, Raises Price Target to $500",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -538,33 +546,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T11:38:55+00:00",
+      "title": "Taiwan Semiconductor Posts 34% Q2 Revenue Growth; Analyst Raises Price Target On ‘Highly Bullish’ Investment Outlook",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T10:33:51+00:00",
+      "title": "TD Cowen Maintains Hold on Taiwan Semiconductor, Raises Price Target to $440",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T09:00:00+00:00",
       "title": "TSMC: Ignore The Noise; Time To Back Up The Truck",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:53:33+00:00",
-      "title": "ASML And TSMC: The AI Buildout Is Getting More Expensive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:41:06+00:00",
-      "title": "TSMC: AI Capex Fatigue Meets Foundry Competition And Margin Fears - Reiterate Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T08:22:22+00:00",
-      "title": "Ex-Intel CEO Warns China-Induced Taiwan Blackout Could Trigger a Crisis Worse Than the Great Depression: 'When You Turn Off a Fab...'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
