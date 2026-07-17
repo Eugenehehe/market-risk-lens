@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-17T14:03:15.601906+00:00",
+  "generated_at": "2026-07-17T15:24:34.006388+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 397.54,
-    "change_pct": -2.977497925513739
+    "price": 396.72,
+    "change_pct": -3.1776248352613834
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -498,6 +498,10 @@
     {
       "timestamp": "2026-07-17T14:03:15.601906+00:00",
       "close": 397.54
+    },
+    {
+      "timestamp": "2026-07-17T15:24:34.006388+00:00",
+      "close": 396.72
     }
   ],
   "events": [
@@ -521,6 +525,14 @@
       "timestamp": "2026-07-17T08:41:06+00:00",
       "title": "TSMC: AI Capex Fatigue Meets Foundry Competition And Margin Fears - Reiterate Buy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T06:50:14+00:00",
+      "title": "What's Going on With Sandisk Stock Friday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -553,14 +565,6 @@
       "timestamp": "2026-07-16T14:17:33+00:00",
       "title": "FRDM: All You Need To Know About This Niche EM ETF",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T13:06:05+00:00",
-      "title": "Chip Selloff Drags Nasdaq 100, Gold Sinks Below $4,000: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
