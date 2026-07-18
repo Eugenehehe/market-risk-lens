@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T16:13:07.045713+00:00",
+  "generated_at": "2026-07-18T17:16:43.345069+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 848.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T22:48:15.443245+00:00",
-      "close": 979.3
-    },
     {
       "timestamp": "2026-07-10T23:43:30.106463+00:00",
       "close": 979.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-18T16:13:07.045713+00:00",
       "close": 848.95
+    },
+    {
+      "timestamp": "2026-07-18T17:16:43.345069+00:00",
+      "close": 848.95
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-07-18T13:40:00+00:00",
       "title": "Better Buy: SK Hynix vs. Micron",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-18T12:00:00+00:00",
+      "title": "Micron: This Is A Golden Opportunity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-18T09:00:43+00:00",
+      "title": "SK Hynix, AST SpaceMobile, SpaceX: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-18T05:30:00+00:00",
       "title": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T03:50:00+00:00",
-      "title": "A Pause And Some Jitters",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T01:20:00+00:00",
-      "title": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
