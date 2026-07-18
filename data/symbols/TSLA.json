@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T00:59:36.102313+00:00",
+  "generated_at": "2026-07-18T04:07:50.937158+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 380.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T01:04:30.653292+00:00",
-      "close": 406.55
-    },
     {
       "timestamp": "2026-07-10T05:05:00.743772+00:00",
       "close": 406.55
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T00:59:36.102313+00:00",
       "close": 380.84
+    },
+    {
+      "timestamp": "2026-07-18T04:07:50.937158+00:00",
+      "close": 380.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T23:07:00+00:00",
+      "title": "How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T22:07:00+00:00",
       "title": "Waymo wears out its welcome in major U.S. city as mayor responds",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T20:00:42+00:00",
       "title": "SpaceX Investors Face Harsh Reality Check",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T19:16:52+00:00",
-      "title": "TSLA Stock Slips — Investors Await Tesla’s Q2 Earnings And Semi Progress",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
