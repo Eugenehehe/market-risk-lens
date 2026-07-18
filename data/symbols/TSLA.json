@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:46:10.131352+00:00",
+  "generated_at": "2026-07-18T12:40:13.579407+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 380.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T17:54:59.209391+00:00",
-      "close": 408.95
-    },
     {
       "timestamp": "2026-07-10T19:27:07.362096+00:00",
       "close": 409.53
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-18T11:46:10.131352+00:00",
       "close": 380.84
+    },
+    {
+      "timestamp": "2026-07-18T12:40:13.579407+00:00",
+      "close": 380.84
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-18T11:45:00+00:00",
+      "title": "With SpaceX Falling Below Its IPO Opening Price, Is Tesla a Better Buy for the Second Half of 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-18T08:33:00+00:00",
       "title": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-18T08:00:00+00:00",
+      "title": "Tesla Q2 Earnings Preview: The Numbers Will Beat, The Narrative May Not",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-17T21:01:14+00:00",
       "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:39:49+00:00",
-      "title": "Yahoo Finance test drives Mercedes-Benz's new luxury EV, the CLA 250+",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:19:49+00:00",
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

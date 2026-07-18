@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:46:10.131352+00:00",
+  "generated_at": "2026-07-18T12:40:13.579407+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 126.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T17:54:59.209391+00:00",
-      "close": 141.47
-    },
     {
       "timestamp": "2026-07-10T19:27:07.362096+00:00",
       "close": 140.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T11:46:10.131352+00:00",
       "close": 126.41
+    },
+    {
+      "timestamp": "2026-07-18T12:40:13.579407+00:00",
+      "close": 126.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T10:01:23+00:00",
+      "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T23:12:40+00:00",
       "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of July 19",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T20:00:32+00:00",
       "title": "Oracle Data Center Plan Hits New Setback",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:00:23+00:00",
-      "title": "Oracle Data Center Project Hits New Mexico Roadblock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
