@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:12:41.184755+00:00",
+  "generated_at": "2026-07-18T09:47:19.992346+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 294.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T11:31:18.953687+00:00",
-      "close": 297.24
-    },
     {
       "timestamp": "2026-07-10T13:30:41.822037+00:00",
       "close": 297.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T08:12:41.184755+00:00",
       "close": 294.04
+    },
+    {
+      "timestamp": "2026-07-18T09:47:19.992346+00:00",
+      "close": 294.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T04:00:13+00:00",
+      "title": "Weekly Commentary: Sloppy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-18T03:50:00+00:00",
       "title": "A Pause And Some Jitters",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T12:35:00+00:00",
       "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T12:34:51+00:00",
-      "title": "Tech Rout Deepens on China's AI Shock, Crude Rises to $81: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
