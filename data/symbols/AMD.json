@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:28:51.607352+00:00",
+  "generated_at": "2026-07-18T00:59:36.102313+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 495.76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T23:19:36.076645+00:00",
-      "close": 546.72
-    },
     {
       "timestamp": "2026-07-10T01:04:30.653292+00:00",
       "close": 546.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T23:28:51.607352+00:00",
       "close": 495.76
+    },
+    {
+      "timestamp": "2026-07-18T00:59:36.102313+00:00",
+      "close": 495.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T22:57:28+00:00",
+      "title": "China’s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T21:33:59+00:00",
       "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T18:42:58+00:00",
       "title": "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T17:52:11+00:00",
-      "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

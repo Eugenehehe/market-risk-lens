@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:28:51.607352+00:00",
+  "generated_at": "2026-07-18T00:59:36.102313+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 380.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T23:19:36.076645+00:00",
-      "close": 406.55
-    },
     {
       "timestamp": "2026-07-10T01:04:30.653292+00:00",
       "close": 406.55
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-17T23:28:51.607352+00:00",
       "close": 380.84
+    },
+    {
+      "timestamp": "2026-07-18T00:59:36.102313+00:00",
+      "close": 380.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T22:07:00+00:00",
+      "title": "Waymo wears out its welcome in major U.S. city as mayor responds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T21:29:00+00:00",
+      "title": "Tesla and Alphabet Earnings: The Metrics That Matter Most",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T21:01:14+00:00",
       "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T20:08:00+00:00",
+      "title": "China AI Fears, Netflix Earnings Sink Stocks: Stock Market Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T20:00:42+00:00",
       "title": "SpaceX Investors Face Harsh Reality Check",
       "source": "Yahoo",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-17T19:16:52+00:00",
       "title": "TSLA Stock Slips — Investors Await Tesla’s Q2 Earnings And Semi Progress",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T18:34:14+00:00",
-      "title": "Intel Stock Back In Growth Mode, But Sellers Still Smack Shares Ahead Of Q2 Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T18:18:21+00:00",
-      "title": "Lucid Rallies 10% for a Third Straight Up Day, Leaving Tesla, Rivian Behind",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T18:17:00+00:00",
-      "title": "Tesla now has a serious software rival",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

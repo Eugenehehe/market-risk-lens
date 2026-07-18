@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:28:51.607352+00:00",
+  "generated_at": "2026-07-18T00:59:36.102313+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 95.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T23:19:36.076645+00:00",
-      "close": 112.54
-    },
     {
       "timestamp": "2026-07-10T01:04:30.653292+00:00",
       "close": 112.54
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-17T23:28:51.607352+00:00",
       "close": 95.04
+    },
+    {
+      "timestamp": "2026-07-18T00:59:36.102313+00:00",
+      "close": 95.04
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-07-17T21:01:14+00:00",
       "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T20:08:00+00:00",
+      "title": "China AI Fears, Netflix Earnings Sink Stocks: Stock Market Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T18:00:00+00:00",
       "title": "Curious about the most active stocks on Friday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T16:51:50+00:00",
-      "title": "SK Hynix Jumps 8% on Bargain-Hunting Rebound as HSBC Reaffirms SKHY as a Top Chip Pick",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

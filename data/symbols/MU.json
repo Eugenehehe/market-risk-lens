@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:28:51.607352+00:00",
+  "generated_at": "2026-07-18T00:59:36.102313+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 848.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-09T23:19:36.076645+00:00",
-      "close": 991.64
-    },
     {
       "timestamp": "2026-07-10T01:04:30.653292+00:00",
       "close": 991.64
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-17T23:28:51.607352+00:00",
       "close": 848.95
+    },
+    {
+      "timestamp": "2026-07-18T00:59:36.102313+00:00",
+      "close": 848.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-17T22:31:16+00:00",
+      "title": "'Wrong Picks or Just Bad Timing?' A Newbie Investor Wonders Why Their Stock Portfolio Fell 9%. Here Are the Stocks They Bought",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T20:30:00+00:00",
       "title": "Long-Term Investors Should Listen Up",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T17:58:23+00:00",
       "title": "SOX Index Mounts Massive Intraday Comeback",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T17:52:11+00:00",
-      "title": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
