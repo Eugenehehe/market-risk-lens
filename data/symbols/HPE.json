@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T15:14:25.438729+00:00",
+  "generated_at": "2026-07-18T16:13:07.045713+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 45.82,
     "change_pct": 1.5289164635497343
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T21:50:45.229871+00:00",
-      "close": 48.54
-    },
     {
       "timestamp": "2026-07-10T22:48:15.443245+00:00",
       "close": 48.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T15:14:25.438729+00:00",
       "close": 45.82
+    },
+    {
+      "timestamp": "2026-07-18T16:13:07.045713+00:00",
+      "close": 45.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T14:09:17+00:00",
+      "title": "What You Actually Pay To Join The CSCO Run",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T13:09:59+00:00",
       "title": "Seagate Stock And The Bet On A Denser Future",
