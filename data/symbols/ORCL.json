@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:11:56.454135+00:00",
+  "generated_at": "2026-07-18T23:12:17.234709+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 126.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T10:01:21.268118+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-11T11:15:23.041279+00:00",
       "close": 140.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-18T22:11:56.454135+00:00",
       "close": 126.41
+    },
+    {
+      "timestamp": "2026-07-18T23:12:17.234709+00:00",
+      "close": 126.41
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-18T09:50:00+00:00",
       "title": "Osterweis Capital Management Q3 2026 Equity Outlook",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-18T01:37:33+00:00",
+      "title": "TikTok Back on Government Devices as Trump Administration Reverses Ban Over Security Risks",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-17T20:22:22+00:00",
       "title": "Did AI Just Cannibalize Microsoft’s Greatest Narrative?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:16:18+00:00",
-      "title": "Michael Burry Is Skeptical Of NVDA, ORCL And NFLX — But Bullish On This Sports Betting Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
