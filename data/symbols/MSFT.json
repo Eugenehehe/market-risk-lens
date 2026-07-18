@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:22:25.844187+00:00",
+  "generated_at": "2026-07-18T22:11:56.454135+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 393.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T08:27:39.210166+00:00",
-      "close": 385.1
-    },
     {
       "timestamp": "2026-07-11T10:01:21.268118+00:00",
       "close": 385.1
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 393.82
+    },
+    {
+      "timestamp": "2026-07-18T22:11:56.454135+00:00",
+      "close": 393.82
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-07-18T16:11:00+00:00",
       "title": "The AI Capex Question Every QQQ Holder Should Be Asking Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-18T15:45:02+00:00",
+      "title": "Multiple Compression Is a Real Threat to Microsoft Stock, But Its Core Story Isn’t Broken",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T09:50:00+00:00",
       "title": "Osterweis Capital Management Q3 2026 Equity Outlook",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T02:31:23+00:00",
-      "title": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
