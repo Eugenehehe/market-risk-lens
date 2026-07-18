@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:33:34.003691+00:00",
+  "generated_at": "2026-07-18T20:24:26.953907+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 380.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T04:29:29.156765+00:00",
-      "close": 407.76
-    },
     {
       "timestamp": "2026-07-11T06:38:45.942587+00:00",
       "close": 407.76
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T19:33:34.003691+00:00",
       "close": 380.84
+    },
+    {
+      "timestamp": "2026-07-18T20:24:26.953907+00:00",
+      "close": 380.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T19:41:18+00:00",
+      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-18T15:17:00+00:00",
       "title": "Tesla face 3 major headwinds heading into earnings report",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T08:00:00+00:00",
       "title": "Tesla Q2 Earnings Preview: The Numbers Will Beat, The Narrative May Not",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T01:31:11+00:00",
-      "title": "Elon Musk Reacts to Jamie Dimon's ‘Einstein’ Praise With Two-Word Reply as Viral Post Hails His SpaceX and Tesla Legacy",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
