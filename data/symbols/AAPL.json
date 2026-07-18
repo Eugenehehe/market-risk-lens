@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:07:50.937158+00:00",
+  "generated_at": "2026-07-18T06:17:00.201380+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.74,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T05:05:00.743772+00:00",
-      "close": 316.22
-    },
     {
       "timestamp": "2026-07-10T08:35:19.353547+00:00",
       "close": 316.22
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-18T04:07:50.937158+00:00",
       "close": 333.74
+    },
+    {
+      "timestamp": "2026-07-18T06:17:00.201380+00:00",
+      "close": 333.74
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-07-18T01:32:45+00:00",
       "title": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-18T01:20:00+00:00",
+      "title": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-17T23:50:00+00:00",
+      "title": "Welcome To Trillionistan. Don't Get Comfortable",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-17T21:03:34+00:00",
+      "title": "Apple’s Core Business Cash Flow Machine Will Support Innovation and Diversification",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-17T20:50:47+00:00",
       "title": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:50:00+00:00",
-      "title": "Top Stock Reports for Apple, JPMorgan & ExxonMobil",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:45:00+00:00",
-      "title": "Nvidia Narrowly Holds Off Apple to Keep World’s Most Valuable Company Title",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T20:43:04+00:00",
-      "title": "Stocks slide, oil prices jump as tech, Mideast war in focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

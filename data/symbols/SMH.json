@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:07:50.937158+00:00",
+  "generated_at": "2026-07-18T06:17:00.201380+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 556.53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T05:05:00.743772+00:00",
-      "close": 607.73
-    },
     {
       "timestamp": "2026-07-10T08:35:19.353547+00:00",
       "close": 607.73
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T04:07:50.937158+00:00",
       "close": 556.53
+    },
+    {
+      "timestamp": "2026-07-18T06:17:00.201380+00:00",
+      "close": 556.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T01:20:00+00:00",
+      "title": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T19:15:54+00:00",
       "title": "DGRO: A Buy As Capital Rotates Out Of Chips",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T02:15:00+00:00",
       "title": "Market Outlook: Getting Serious In Summer Markets",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T08:56:46+00:00",
-      "title": "What's Going on With Intel Stock Thursday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

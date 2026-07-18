@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:07:50.937158+00:00",
+  "generated_at": "2026-07-18T06:17:00.201380+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 398.37,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T05:05:00.743772+00:00",
-      "close": 436.96
-    },
     {
       "timestamp": "2026-07-10T08:35:19.353547+00:00",
       "close": 436.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T04:07:50.937158+00:00",
       "close": 398.37
+    },
+    {
+      "timestamp": "2026-07-18T06:17:00.201380+00:00",
+      "close": 398.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T01:20:00+00:00",
+      "title": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T15:36:15+00:00",
       "title": "President Trump Posts On Truth Social \"... Now, TSMC, the largest Leading Edge Semiconductor Chip Manufacturer in the World, has announced an additional 100 Billion Dollar Investment in their Semiconductor Fabrication Factories in Arizona. That brings their total commitment to build Chips in America to a record 265 Billion Dollars... \"",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T10:33:51+00:00",
       "title": "TD Cowen Maintains Hold on Taiwan Semiconductor, Raises Price Target to $440",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "title": "TSMC: Ignore The Noise; Time To Back Up The Truck",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

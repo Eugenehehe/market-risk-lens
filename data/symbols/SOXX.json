@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:07:50.937158+00:00",
+  "generated_at": "2026-07-18T06:17:00.201380+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 521.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-10T05:05:00.743772+00:00",
-      "close": 581.7
-    },
     {
       "timestamp": "2026-07-10T08:35:19.353547+00:00",
       "close": 581.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-18T04:07:50.937158+00:00",
       "close": 521.81
+    },
+    {
+      "timestamp": "2026-07-18T06:17:00.201380+00:00",
+      "close": 521.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T01:20:00+00:00",
+      "title": "This Week's Market Wrap: AI Shakeup, Earnings, And Renewed Oil Shock",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-17T16:51:32+00:00",
       "title": "SOXX: This May Be More Than Just A Correction",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T08:35:00+00:00",
       "title": "Chart Of The Day: Chip Stocks Headed Down And To The Right",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T06:37:48+00:00",
-      "title": "What's Going on With Micron Technology Stock Friday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
