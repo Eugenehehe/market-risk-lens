@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T18:28:34.465179+00:00",
+  "generated_at": "2026-07-19T19:44:07.766813+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 495.76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T23:30:16.274410+00:00",
-      "close": 557.89
-    },
     {
       "timestamp": "2026-07-12T01:08:16.742922+00:00",
       "close": 557.89
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-19T18:28:34.465179+00:00",
       "close": 495.76
+    },
+    {
+      "timestamp": "2026-07-19T19:44:07.766813+00:00",
+      "close": 495.76
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-19T16:31:05+00:00",
       "title": "Why the SOXS Semiconductor Bear ETF Is Surging as Chip Stocks Sell Off",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-19T14:23:00+00:00",
+      "title": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-18T19:41:18+00:00",
       "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T19:07:03+00:00",
-      "title": "AMD (AMD) Stock Faces Fresh AI Pressure After China Unveils Kimi K3",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

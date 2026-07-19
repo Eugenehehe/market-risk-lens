@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T18:28:34.465179+00:00",
+  "generated_at": "2026-07-19T19:44:07.766813+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 95.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T23:30:16.274410+00:00",
-      "close": 109.84
-    },
     {
       "timestamp": "2026-07-12T01:08:16.742922+00:00",
       "close": 109.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T18:28:34.465179+00:00",
       "close": 95.04
+    },
+    {
+      "timestamp": "2026-07-19T19:44:07.766813+00:00",
+      "close": 95.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T14:23:00+00:00",
+      "title": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T12:23:59+00:00",
       "title": "Big Tech earnings test tech's big rotation: What to watch this week",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T17:05:22+00:00",
       "title": "Top S&P 500 Stocks to Watch Next Week: Tesla, Google, Intel, GE Vernova",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T16:21:00+00:00",
-      "title": "AMD vs. Arm vs. Intel: The Best Stock to Play the Rise of Agentic AI",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
