@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:15:28.362088+00:00",
+  "generated_at": "2026-07-19T16:14:07.948913+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 370.825,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T20:34:50.570542+00:00",
-      "close": 399.97
-    },
     {
       "timestamp": "2026-07-11T21:30:15.928617+00:00",
       "close": 399.97
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T15:15:28.362088+00:00",
       "close": 370.825
+    },
+    {
+      "timestamp": "2026-07-19T16:14:07.948913+00:00",
+      "close": 370.825
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T15:07:53+00:00",
+      "title": "Take a $15,000 Income Cut Today. Gain a $55,000 Raise Tomorrow.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T13:01:00+00:00",
       "title": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T16:30:21+00:00",
       "title": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T13:03:19+00:00",
-      "title": "AI Bubble Risks Make Dividend Stocks Attractive Again",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
