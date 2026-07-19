@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T14:11:19.316292+00:00",
+  "generated_at": "2026-07-19T15:15:28.362088+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 743.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T19:49:48.985661+00:00",
-      "close": 754.95
-    },
     {
       "timestamp": "2026-07-11T20:34:50.570542+00:00",
       "close": 754.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T14:11:19.316292+00:00",
       "close": 743.29
+    },
+    {
+      "timestamp": "2026-07-19T15:15:28.362088+00:00",
+      "close": 743.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T09:55:00+00:00",
+      "title": "A $90 Billion Liquidity Storm May Hit Markets This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T09:30:00+00:00",
       "title": "The AI Bubble Looks A Lot Like Dot-Com Bust",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-18T21:11:03+00:00",
       "title": "Equal-Weight Strategy RSP Could Outrun SPY if This Macro Shift Continues",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T17:30:00+00:00",
-      "title": "Buy, Sell, or Hold: Ken Griffin’s 3 Mega-Cap Picks at Current Valuations",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
