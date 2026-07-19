@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:40:55.465145+00:00",
+  "generated_at": "2026-07-19T12:37:18.785410+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 95.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T17:38:39.003080+00:00",
-      "close": 109.84
-    },
     {
       "timestamp": "2026-07-11T18:35:47.103065+00:00",
       "close": 109.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T11:40:55.465145+00:00",
       "close": 95.04
+    },
+    {
+      "timestamp": "2026-07-19T12:37:18.785410+00:00",
+      "close": 95.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T11:31:02+00:00",
+      "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T08:22:00+00:00",
       "title": "Intel Stock Soared About 278% in the First Half of 2026, Then Fell 10% in a Single Day. Buy the Dip or Run for the Hills?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T13:10:14+00:00",
       "title": "I Keep Buying Nvidia Because Bears Keep Shouting This False Narrative",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T11:00:00+00:00",
-      "title": "Google, Tesla, Intel To Headline Earnings Next Week",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

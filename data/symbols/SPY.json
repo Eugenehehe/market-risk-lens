@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:40:55.465145+00:00",
+  "generated_at": "2026-07-19T12:37:18.785410+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 743.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T17:38:39.003080+00:00",
-      "close": 754.95
-    },
     {
       "timestamp": "2026-07-11T18:35:47.103065+00:00",
       "close": 754.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T11:40:55.465145+00:00",
       "close": 743.29
+    },
+    {
+      "timestamp": "2026-07-19T12:37:18.785410+00:00",
+      "close": 743.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T08:10:00+00:00",
+      "title": "Momentum Meltdown Catches Traders By Surprise",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-18T23:38:36+00:00",
       "title": "DIA’s 10-Year Shortfall: How a 186.7% Return Masks a $128K Hidden Cost",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T14:32:32+00:00",
       "title": "Buy Any Month, Always Hedged: The ETF Built for Investors Who Bail at Every Dip",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T14:12:35+00:00",
-      "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
