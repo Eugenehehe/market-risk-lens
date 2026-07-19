@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:28:51.389814+00:00",
+  "generated_at": "2026-07-19T22:28:12.797537+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1747.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T07:15:27.843513+00:00",
-      "close": 1797.32
-    },
     {
       "timestamp": "2026-07-12T09:20:20.803080+00:00",
       "close": 1797.32
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 1747.58
+    },
+    {
+      "timestamp": "2026-07-19T22:28:12.797537+00:00",
+      "close": 1747.58
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-19T13:40:00+00:00",
       "title": "TSMC vs. ASML: Which Is the Better AI Semiconductor Ecosystem Stock to Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-19T13:00:00+00:00",
+      "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-19T08:00:00+00:00",
       "title": "Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T21:11:03+00:00",
-      "title": "Equal-Weight Strategy RSP Could Outrun SPY if This Macro Shift Continues",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

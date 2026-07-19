@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:28:51.389814+00:00",
+  "generated_at": "2026-07-19T22:28:12.797537+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 743.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T07:15:27.843513+00:00",
-      "close": 754.95
-    },
     {
       "timestamp": "2026-07-12T09:20:20.803080+00:00",
       "close": 754.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 743.29
+    },
+    {
+      "timestamp": "2026-07-19T22:28:12.797537+00:00",
+      "close": 743.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T20:31:19+00:00",
+      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T16:36:43+00:00",
       "title": "Active Funds Can’t Beat the S&P 500? This One Didn’t Get the Memo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-18T23:38:36+00:00",
       "title": "DIA’s 10-Year Shortfall: How a 186.7% Return Masks a $128K Hidden Cost",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T21:45:00+00:00",
-      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

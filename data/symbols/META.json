@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:28:51.389814+00:00",
+  "generated_at": "2026-07-19T22:28:12.797537+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 646.01,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T07:15:27.843513+00:00",
-      "close": 669.21
-    },
     {
       "timestamp": "2026-07-12T09:20:20.803080+00:00",
       "close": 669.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 646.01
+    },
+    {
+      "timestamp": "2026-07-19T22:28:12.797537+00:00",
+      "close": 646.01
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-07-19T13:55:00+00:00",
       "title": "Meta Platforms: Is This the Most Undervalued Stock in Big Tech? (NASDAQ: META)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-19T13:00:00+00:00",
+      "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-19T01:35:00+00:00",
       "title": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T23:31:11+00:00",
-      "title": "Marco Rubio Says President Lula 'Put His Ego Ahead of Making a Deal' as Trump Slaps Brazil With 25% Tariffs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
