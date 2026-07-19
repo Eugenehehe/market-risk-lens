@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T23:12:17.234709+00:00",
+  "generated_at": "2026-07-19T00:11:11.749383+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 154.61,
     "change_pct": -2.3865143001451927
   },
   "risk": {
-    "score": 70,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T11:15:23.041279+00:00",
-      "close": 190.89
-    },
     {
       "timestamp": "2026-07-11T12:08:18.937353+00:00",
       "close": 190.89
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-18T23:12:17.234709+00:00",
       "close": 154.61
+    },
+    {
+      "timestamp": "2026-07-19T00:11:11.749383+00:00",
+      "close": 154.61
     }
   ],
   "events": [
@@ -541,30 +541,6 @@
       "timestamp": "2026-07-17T10:12:36+00:00",
       "title": "‘You Might Lose Your Shirt By Monday’: Jim Cramer’s Blunt Warning to Investors Buying Micron on Margin",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T19:05:01+00:00",
-      "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T16:35:00+00:00",
-      "title": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-16T14:35:00+00:00",
-      "title": "Which S&P500 stocks are gapping on Thursday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
