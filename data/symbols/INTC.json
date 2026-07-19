@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:44:07.766813+00:00",
+  "generated_at": "2026-07-19T20:31:42.175454+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 95.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T01:08:16.742922+00:00",
-      "close": 109.84
-    },
     {
       "timestamp": "2026-07-12T04:37:34.116480+00:00",
       "close": 109.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T19:44:07.766813+00:00",
       "close": 95.04
+    },
+    {
+      "timestamp": "2026-07-19T20:31:42.175454+00:00",
+      "close": 95.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T18:00:00+00:00",
+      "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T14:23:00+00:00",
       "title": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T18:33:00+00:00",
       "title": "Intel and Google deepen AI ties for chip design",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T17:05:22+00:00",
-      "title": "Top S&P 500 Stocks to Watch Next Week: Tesla, Google, Intel, GE Vernova",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

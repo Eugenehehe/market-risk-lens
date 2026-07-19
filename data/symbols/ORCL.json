@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:44:07.766813+00:00",
+  "generated_at": "2026-07-19T20:31:42.175454+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 126.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T01:08:16.742922+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-12T04:37:34.116480+00:00",
       "close": 140.64
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T19:44:07.766813+00:00",
       "close": 126.41
+    },
+    {
+      "timestamp": "2026-07-19T20:31:42.175454+00:00",
+      "close": 126.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-19T19:07:05+00:00",
+      "title": "Oracle (ORCL) Partners With IMSA Labs To Launch Cloud And AI Studio",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T17:07:00+00:00",
       "title": "Oracle Just Hit a Fresh 52-Week Low and Had Its Credit Cut Toward Junk. Has the AI-Capex Panic Overshot?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-17T23:12:40+00:00",
       "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of July 19",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-17T21:13:20+00:00",
-      "title": "Jim Cramer Says Oracle Is “Going Down” and Avoid Every Liquor Stock. Here’s What He’d Buy Instead",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
