@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T00:11:11.749383+00:00",
+  "generated_at": "2026-07-19T03:55:45.102160+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 743.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-11T12:08:18.937353+00:00",
-      "close": 754.95
-    },
     {
       "timestamp": "2026-07-11T13:52:46.414141+00:00",
       "close": 754.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-19T00:11:11.749383+00:00",
       "close": 743.29
+    },
+    {
+      "timestamp": "2026-07-19T03:55:45.102160+00:00",
+      "close": 743.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-18T23:38:36+00:00",
+      "title": "DIA’s 10-Year Shortfall: How a 186.7% Return Masks a $128K Hidden Cost",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-18T21:45:00+00:00",
       "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-18T14:12:35+00:00",
       "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T14:03:09+00:00",
-      "title": "Down 7% While the S&P Sank 19%: Inside INCM's Defense",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
