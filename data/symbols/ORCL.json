@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T01:08:51.264593+00:00",
+  "generated_at": "2026-07-20T04:51:30.086059+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 126.41,
     "change_pct": 1.7711939457370596
   },
   "risk": {
-    "score": 63,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T11:48:16.321211+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-12T12:43:27.827760+00:00",
       "close": 140.64
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 126.41
+    },
+    {
+      "timestamp": "2026-07-20T04:51:30.086059+00:00",
+      "close": 126.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T03:30:31+00:00",
+      "title": "Why Did NFLX, ORCL, SPCX Stocks Slump To 52-Week Lows Last Week?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T19:07:05+00:00",
       "title": "Oracle (ORCL) Partners With IMSA Labs To Launch Cloud And AI Studio",

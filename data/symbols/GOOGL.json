@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T01:08:51.264593+00:00",
+  "generated_at": "2026-07-20T04:51:30.086059+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 346.77,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T11:48:16.321211+00:00",
-      "close": 357.18
-    },
     {
       "timestamp": "2026-07-12T12:43:27.827760+00:00",
       "close": 357.18
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 346.77
+    },
+    {
+      "timestamp": "2026-07-20T04:51:30.086059+00:00",
+      "close": 346.77
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T01:51:22+00:00",
+      "title": "Dow Jones Futures: Oil Prices Rise Amid Iran News; Google, Tesla Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T00:00:00+00:00",
+      "title": "Tesla, Alphabet, Intel, GM: Earnings to watch this week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-19T23:54:53+00:00",
       "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-19T22:57:01+00:00",
+      "title": "Nvidia: AI Infrastructure Hitting Physical And Financial Limits",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-19T22:51:51+00:00",
+      "title": "Stay Bullish Despite The Rough Week: Aerospace, Finance, Biotech, And AI",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-19T18:00:53+00:00",
       "title": "Warren Buffett Takes Credit for Berkshire’s Alphabet Stock Buy: ‘I Initiated It’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T18:00:00+00:00",
-      "title": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T17:40:15+00:00",
-      "title": "Bank of America doubles down on Google stock ahead of earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T17:00:02+00:00",
-      "title": "AI Bubble Fears, Earnings and Other Can't Miss Items this Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T16:35:00+00:00",
-      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
