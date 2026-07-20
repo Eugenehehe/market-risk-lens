@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:34:47.768431+00:00",
+  "generated_at": "2026-07-20T22:34:28.398154+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 402.29,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "502 Server Error: Malformed Server Response Status for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T21:27:48.446509+00:00",
-      "close": 385.1
-    },
     {
       "timestamp": "2026-07-12T22:26:41.480773+00:00",
       "close": 385.1
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 402.29
+    },
+    {
+      "timestamp": "2026-07-20T22:34:28.398154+00:00",
+      "close": 402.29
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T21:33:00+00:00",
+      "title": "Bank of America doubles down on Microsoft stock ahead of earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T21:26:41+00:00",
+      "title": "I’m Buying Apple’s AI Advantage That Keeps It Ahead of the Mag 7 At Least Until This Point",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T21:10:43+00:00",
+      "title": "UBS Trading Desk Says Buy Momentum Stocks as Selloff Nears End",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T21:08:17+00:00",
+      "title": "Nebius Group (NBIS) Secures $775 Million In Debt To Expand Its AI Cloud",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:34:02+00:00",
+      "title": "CrowdStrike Stock Has Its Own Story",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:28:33+00:00",
+      "title": "Who is the tenant for Hut 8’s 1 GW Beacon Point data center?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:58:50+00:00",
+      "title": "AMD sets sights on Nvidia with Helios AI racks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T19:41:19+00:00",
       "title": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:28:29+00:00",
-      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:22:39+00:00",
-      "title": "Claude AI Says Zeta Global (ZETA) Is a Better Buy Than Microsoft (MSFT)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:10:04+00:00",
-      "title": "Stay informed with the top movers within the dow jones index on Monday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:02:00+00:00",
-      "title": "Microsoft earnings to spotlight Azure growth, AI spending",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:00:18+00:00",
-      "title": "IREN Ltd (IREN) Ends 7-Day Losing Streak as Firm Hikes ARR Target to $4B",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:30:35+00:00",
-      "title": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:14:29+00:00",
-      "title": "AMD Stock Pops After Landing Expanded Microsoft AI Deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

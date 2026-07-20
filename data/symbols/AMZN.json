@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:34:47.768431+00:00",
+  "generated_at": "2026-07-20T22:34:28.398154+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 249.99,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "502 Server Error: Connection reset by peer for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T21:27:48.446509+00:00",
-      "close": 245.34
-    },
     {
       "timestamp": "2026-07-12T22:26:41.480773+00:00",
       "close": 245.34
@@ -502,12 +498,48 @@
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 249.99
+    },
+    {
+      "timestamp": "2026-07-20T22:34:28.398154+00:00",
+      "close": 249.99
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T21:27:00+00:00",
+      "title": "3 Reasons I’m Buying Amazon Over and Over Until Late 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:48:51+00:00",
+      "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:28:33+00:00",
+      "title": "Who is the tenant for Hut 8’s 1 GW Beacon Point data center?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T19:43:53+00:00",
       "title": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:34:00+00:00",
+      "title": "Will Alphabet's Q2 Earnings Reignite the Tech Rally?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-20T18:09:00+00:00",
       "title": "5 Founder-Led Companies Built to Innovate and Outperform",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:00:06+00:00",
-      "title": "Raymond Dalio’s 3 Favorite Stocks: Buy, Sell or Hold?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:55:22+00:00",
-      "title": "I Keep Buying Amazon Because AI Capex Fears Were Never Real From The Start",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:35:17+00:00",
-      "title": "Breakout Watch: Twilio Stock Rides AI Cloud Toward Buy Point",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:12:52+00:00",
-      "title": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

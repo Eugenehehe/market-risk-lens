@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:34:47.768431+00:00",
+  "generated_at": "2026-07-20T22:34:28.398154+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 865.46,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "502 Server Error: Connection reset by peer for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T21:27:48.446509+00:00",
-      "close": 979.3
-    },
     {
       "timestamp": "2026-07-12T22:26:41.480773+00:00",
       "close": 979.3
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 865.46
+    },
+    {
+      "timestamp": "2026-07-20T22:34:28.398154+00:00",
+      "close": 865.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T21:14:02+00:00",
+      "title": "Micron and Sandisk Shares Are Crashing. Is It Time to Buy the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:55:33+00:00",
+      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX, Tesla Tumble",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:32:33+00:00",
+      "title": "AI capex to Pass $1 trillion by 2027: Strategist",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:31:57+00:00",
+      "title": "Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After Trump's Iran Comments; Sandisk Rises (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T19:41:19+00:00",
       "title": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
@@ -530,41 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T18:38:04+00:00",
-      "title": "Why Micron Stock Bounced Back Today",
+      "timestamp": "2026-07-20T19:00:00+00:00",
+      "title": "NVIDIA & Micron: 2 Profitable AI Stocks With Strong Growth Potential",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:27:56+00:00",
-      "title": "Equities Mostly Rise Intraday as Chip Stocks Advance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:17:00+00:00",
-      "title": "Jim Cramer says it may be time to trim comeback stock after 441% surge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:07:17+00:00",
-      "title": "Micron Jumps 5%, SanDisk Rises 6%, Western Digital Climbs 4% as Memory Stocks Rebound With Chips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:05:00+00:00",
-      "title": "Looking for the most active stocks in the S&P500 index on Monday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:34:47.768431+00:00",
+  "generated_at": "2026-07-20T22:34:28.398154+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 194.94,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T21:27:48.446509+00:00",
-      "close": 235.81
-    },
     {
       "timestamp": "2026-07-12T22:26:41.480773+00:00",
       "close": 235.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 194.94
+    },
+    {
+      "timestamp": "2026-07-20T22:34:28.398154+00:00",
+      "close": 194.94
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-20T19:05:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T17:30:00+00:00",
+      "title": "Sorting Out Semiconductor Valuations",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T14:39:00+00:00",
       "title": "Micron, AMD, Alibaba, AMC, Domino’s, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:47:40+00:00",
-      "title": "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

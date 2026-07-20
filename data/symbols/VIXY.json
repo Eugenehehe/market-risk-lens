@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:34:47.768431+00:00",
+  "generated_at": "2026-07-20T22:34:28.398154+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 21.23,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "502 Server Error: Connection reset by peer for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T21:27:48.446509+00:00",
-      "close": 20.34
-    },
     {
       "timestamp": "2026-07-12T22:26:41.480773+00:00",
       "close": 20.34
@@ -501,6 +497,10 @@
     },
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
+      "close": 21.23
+    },
+    {
+      "timestamp": "2026-07-20T22:34:28.398154+00:00",
       "close": 21.23
     }
   ],
