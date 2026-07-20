@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:13:28.626381+00:00",
+  "generated_at": "2026-07-20T21:34:47.768431+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 369.57,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
+    "error": "502 Server Error: Connection reset by peer for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T20:31:42.238336+00:00",
-      "close": 407.76
-    },
     {
       "timestamp": "2026-07-12T21:27:48.446509+00:00",
       "close": 407.76
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 369.57
+    },
+    {
+      "timestamp": "2026-07-20T21:34:47.768431+00:00",
+      "close": 369.57
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T19:15:15+00:00",
+      "title": "Tesla Is Still Down 17% in 2026. Can Wednesday’s Earnings Event Get TSLA Stock Back on Track?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:53:22+00:00",
+      "title": "Dow Drops 300 Points, S&P 500 Reverses Gains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:38:00+00:00",
+      "title": "Tech Faces a Moment of Truth as Earnings Test the Rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:30:35+00:00",
+      "title": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:27:56+00:00",
+      "title": "Equities Mostly Rise Intraday as Chip Stocks Advance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:09:11+00:00",
+      "title": "Options Traders Bet $550M Against Tesla Ahead of Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:09:00+00:00",
+      "title": "5 Founder-Led Companies Built to Innovate and Outperform",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T18:05:00+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Monday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:12:52+00:00",
-      "title": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:09:00+00:00",
-      "title": "DATAMYTE Achieves ISO/IEC 27001:2022 Certification for Digital Clipboard, Its No-Code Manufacturing Workflow Platform",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:55:52+00:00",
-      "title": "Why it's time to retire the 'Magnificent 7' name: Strategist",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:50:26+00:00",
-      "title": "Wall Street Eager For Robotaxi, Optimus News During Tesla Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:27:53+00:00",
-      "title": "Musk Denies Report of $52 Billion AI Server Order",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:26:34+00:00",
-      "title": "This Analyst Bets On Tesla’s Robotaxi And Cybercab Businesses Ahead Of Q2 Results – Retail Sees Stock Climbing To $450",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:21:51+00:00",
-      "title": "Early S&P 500 Results Smash Profit Growth Estimates, Oppenheimer Says",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

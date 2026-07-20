@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:13:28.626381+00:00",
+  "generated_at": "2026-07-20T21:34:47.768431+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 865.46,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
+    "error": "502 Server Error: Connection reset by peer for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T20:31:42.238336+00:00",
-      "close": 979.3
-    },
     {
       "timestamp": "2026-07-12T21:27:48.446509+00:00",
       "close": 979.3
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 865.46
+    },
+    {
+      "timestamp": "2026-07-20T21:34:47.768431+00:00",
+      "close": 865.46
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T19:41:19+00:00",
+      "title": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:39:13+00:00",
+      "title": "Micron Stock Jumps as SK Hynix Warns AI Memory Boom Won't Last Forever",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:25:26+00:00",
+      "title": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:38:04+00:00",
+      "title": "Why Micron Stock Bounced Back Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:27:56+00:00",
+      "title": "Equities Mostly Rise Intraday as Chip Stocks Advance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:17:00+00:00",
+      "title": "Jim Cramer says it may be time to trim comeback stock after 441% surge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:07:17+00:00",
+      "title": "Micron Jumps 5%, SanDisk Rises 6%, Western Digital Climbs 4% as Memory Stocks Rebound With Chips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T18:05:00+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Monday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:45:43+00:00",
-      "title": "If Micron’s CEO Is Right, These 3 Memory Stock ETFs Can Rally Through 2027",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:27:00+00:00",
-      "title": "Micron, Lumentum, Sweetgreen, AMC, Domino’s, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:15:00+00:00",
-      "title": "Got $1,000 to Invest? Here Are 2 Magnificent Artificial Intelligence (AI) Stocks Down 12% to 30% to Buy Hand Over Fist Before July Is Over",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:12:52+00:00",
-      "title": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:11:33+00:00",
-      "title": "Why Micron (MU) Stock Is Up Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:35:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:30:14+00:00",
-      "title": "Billionaire Investor David Tepper’s Top 5 Stocks",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

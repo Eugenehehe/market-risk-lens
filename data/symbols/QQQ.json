@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:13:28.626381+00:00",
+  "generated_at": "2026-07-20T21:34:47.768431+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 696.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T20:31:42.238336+00:00",
-      "close": 725.51
-    },
     {
       "timestamp": "2026-07-12T21:27:48.446509+00:00",
       "close": 725.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 696.06
+    },
+    {
+      "timestamp": "2026-07-20T21:34:47.768431+00:00",
+      "close": 696.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T16:00:00+00:00",
+      "title": "Spike In Margin Debt And Leverage Increases Market Risk",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T15:39:24+00:00",
       "title": "QQQJ: Accessing Innovation At Smaller Market Cap Size",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T12:35:30+00:00",
       "title": "Tech Selloff: Expert Says ‘Get Your Shopping List Ready' – Stocks ‘Took the Elevator Up and the Elevator Shaft Down’",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:33:51+00:00",
-      "title": "Iran And Energy Markets: Here We Go Again",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

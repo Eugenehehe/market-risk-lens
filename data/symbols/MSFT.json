@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:13:28.626381+00:00",
+  "generated_at": "2026-07-20T21:34:47.768431+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 402.29,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
+    "error": "502 Server Error: Malformed Server Response Status for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T20:31:42.238336+00:00",
-      "close": 385.1
-    },
     {
       "timestamp": "2026-07-12T21:27:48.446509+00:00",
       "close": 385.1
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 402.29
+    },
+    {
+      "timestamp": "2026-07-20T21:34:47.768431+00:00",
+      "close": 402.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T19:41:19+00:00",
+      "title": "Markets may get 'increasingly nervous' if hyperscalers raise AI capex further",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:28:29+00:00",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:22:39+00:00",
+      "title": "Claude AI Says Zeta Global (ZETA) Is a Better Buy Than Microsoft (MSFT)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T19:10:04+00:00",
       "title": "Stay informed with the top movers within the dow jones index on Monday.",
@@ -514,56 +538,32 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T17:50:42+00:00",
-      "title": "Kimi K3 Hit a GPU Wall. Why Nvidia and Microsoft May Be the Real Winners",
+      "timestamp": "2026-07-20T19:02:00+00:00",
+      "title": "Microsoft earnings to spotlight Azure growth, AI spending",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T17:35:17+00:00",
-      "title": "Breakout Watch: Twilio Stock Rides AI Cloud Toward Buy Point",
+      "timestamp": "2026-07-20T19:00:18+00:00",
+      "title": "IREN Ltd (IREN) Ends 7-Day Losing Streak as Firm Hikes ARR Target to $4B",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T17:12:52+00:00",
-      "title": "Magnificent Seven Dominate S&P 500 Earnings, But That's Changing Dramatically",
+      "timestamp": "2026-07-20T18:30:35+00:00",
+      "title": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T17:09:44+00:00",
-      "title": "Iren Stock Soars 15% After Landing $2.8 Billion in AI Cloud Contracts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:06:55+00:00",
-      "title": "Is Intel (INTC) Stock a Buy Before Q2 Earnings?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:03:33+00:00",
-      "title": "Why AMD (AMD) Stock Is Up Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:01:06+00:00",
-      "title": "AMD stock rises on price target bumps, Microsoft deal",
+      "timestamp": "2026-07-20T18:14:29+00:00",
+      "title": "AMD Stock Pops After Landing Expanded Microsoft AI Deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

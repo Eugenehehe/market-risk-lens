@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:13:28.626381+00:00",
+  "generated_at": "2026-07-20T21:34:47.768431+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 249.99,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
+    "error": "502 Server Error: Connection reset by peer for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T20:31:42.238336+00:00",
-      "close": 245.34
-    },
     {
       "timestamp": "2026-07-12T21:27:48.446509+00:00",
       "close": 245.34
@@ -501,6 +497,10 @@
     },
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
+      "close": 249.99
+    },
+    {
+      "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 249.99
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:13:28.626381+00:00",
+  "generated_at": "2026-07-20T21:34:47.768431+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 402.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T20:31:42.238336+00:00",
-      "close": 434.11
-    },
     {
       "timestamp": "2026-07-12T21:27:48.446509+00:00",
       "close": 434.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 402.3
+    },
+    {
+      "timestamp": "2026-07-20T21:34:47.768431+00:00",
+      "close": 402.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T16:00:50+00:00",
+      "title": "TSMC Beat, The Stock Fell Anyway: Here's What Got Priced In",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T13:35:12+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T05:46:00+00:00",
       "title": "What's Going on With Taiwan Semiconductor Stock Monday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T22:30:21+00:00",
-      "title": "Taiwan Semiconductor: The Buildout Is Still Accelerating",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
