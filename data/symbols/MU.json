@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T04:51:30.086059+00:00",
+  "generated_at": "2026-07-20T07:51:42.011429+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 848.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T12:43:27.827760+00:00",
-      "close": 979.3
-    },
     {
       "timestamp": "2026-07-12T14:17:31.691543+00:00",
       "close": 979.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T04:51:30.086059+00:00",
       "close": 848.95
+    },
+    {
+      "timestamp": "2026-07-20T07:51:42.011429+00:00",
+      "close": 848.95
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-20T01:47:33+00:00",
       "title": "MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebound",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T00:50:08+00:00",
+      "title": "Micron: It Does Not Need To Beat SK hynix At Nvidia",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-19T17:35:00+00:00",
       "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T16:35:00+00:00",
-      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

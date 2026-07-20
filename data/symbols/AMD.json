@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T04:51:30.086059+00:00",
+  "generated_at": "2026-07-20T07:51:42.011429+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 495.76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T12:43:27.827760+00:00",
-      "close": 557.89
-    },
     {
       "timestamp": "2026-07-12T14:17:31.691543+00:00",
       "close": 557.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-20T04:51:30.086059+00:00",
       "close": 495.76
+    },
+    {
+      "timestamp": "2026-07-20T07:51:42.011429+00:00",
+      "close": 495.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T03:53:53+00:00",
+      "title": "AMD Stock Rises Overnight: Is Anthropic A New Customer? What A GitHub Code File Reportedly Reveals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T02:33:00+00:00",
       "title": "Cathie Wood sells $11.7 million of tumbling semiconductor stock",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-19T14:23:00+00:00",
       "title": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T13:01:00+00:00",
-      "title": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
