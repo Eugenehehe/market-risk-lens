@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T12:56:18.913926+00:00",
+  "generated_at": "2026-07-20T15:13:29.370703+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 126.41,
-    "change_pct": 1.7711939457370596
+    "price": 121.36,
+    "change_pct": -3.994937109405894
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T16:30:44.354527+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-12T17:37:16.079908+00:00",
       "close": 140.64
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-20T12:56:18.913926+00:00",
       "close": 126.41
+    },
+    {
+      "timestamp": "2026-07-20T15:13:29.370703+00:00",
+      "close": 121.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T14:35:01+00:00",
+      "title": "These S&P500 stocks are gapping in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T13:51:00+00:00",
+      "title": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T13:39:11+00:00",
+      "title": "Netflix upgraded, Carvana downgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T13:30:35+00:00",
+      "title": "AMD Just Got a Potential AI Heavyweight Customer. Here’s The New Price Target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T12:15:51+00:00",
+      "title": "CLSA Starts Oracle With Hold on AI Debt Concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T11:52:28+00:00",
       "title": "Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-20T03:30:31+00:00",
       "title": "Why Did NFLX, ORCL, SPCX Stocks Slump To 52-Week Lows Last Week?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T19:07:05+00:00",
-      "title": "Oracle (ORCL) Partners With IMSA Labs To Launch Cloud And AI Studio",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T17:07:00+00:00",
-      "title": "Oracle Just Hit a Fresh 52-Week Low and Had Its Credit Cut Toward Junk. Has the AI-Capex Panic Overshot?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T11:41:00+00:00",
-      "title": "Oracle Crashed 65% From Its Peak. I Just Bought It Anyway. Here's Why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T12:14:08+00:00",
-      "title": "Bloom Energy’s AI Data Center Growth Story Is Starting to Crack",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T10:01:23+00:00",
-      "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

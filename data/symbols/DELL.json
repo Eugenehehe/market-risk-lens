@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T12:56:18.913926+00:00",
+  "generated_at": "2026-07-20T15:13:29.370703+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 396.34,
-    "change_pct": 1.2673105421840525
+    "price": 386.24,
+    "change_pct": -2.5483171014785255
   },
   "risk": {
-    "score": 55,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T16:30:44.354527+00:00",
-      "close": 434.97
-    },
     {
       "timestamp": "2026-07-12T17:37:16.079908+00:00",
       "close": 434.97
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-20T12:56:18.913926+00:00",
       "close": 396.34
+    },
+    {
+      "timestamp": "2026-07-20T15:13:29.370703+00:00",
+      "close": 386.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T12:21:50+00:00",
+      "title": "The Cost Pressure Apple Stock Stopped Flagging, And The New One That Should Worry You",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T12:00:57+00:00",
+      "title": "3 Not-So-Obvious AI Stocks to Buy in July",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T08:35:46+00:00",
       "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn",

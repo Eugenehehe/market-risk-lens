@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T12:56:18.913926+00:00",
+  "generated_at": "2026-07-20T15:13:29.370703+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 294.04,
-    "change_pct": -0.524374978855835
+    "price": 293.57,
+    "change_pct": -0.15984219834037638
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T16:30:44.354527+00:00",
-      "close": 295.99
-    },
     {
       "timestamp": "2026-07-12T17:37:16.079908+00:00",
       "close": 295.99
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-20T12:56:18.913926+00:00",
       "close": 294.04
+    },
+    {
+      "timestamp": "2026-07-20T15:13:29.370703+00:00",
+      "close": 293.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T10:20:00+00:00",
+      "title": "An Extreme Energy Crack Spread And Two Warning Signs In Technology",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T08:59:16+00:00",
+      "title": "Tariffs And Inflation Are Pushing The Economy Toward A Recession",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T08:30:00+00:00",
       "title": "Improving Rates Of Change Support The Bull Market",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-19T09:30:00+00:00",
       "title": "The AI Bubble Looks A Lot Like Dot-Com Bust",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T09:00:00+00:00",
-      "title": "AI CapEx, Hyperscalers, And The Next Earnings Wave",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T08:10:00+00:00",
-      "title": "Momentum Meltdown Catches Traders By Surprise",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

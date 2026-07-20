@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T12:56:18.913926+00:00",
+  "generated_at": "2026-07-20T15:13:29.370703+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 398.37,
-    "change_pct": -2.774930443696
+    "price": 402.63,
+    "change_pct": 1.0693576323518306
   },
   "risk": {
-    "score": 73,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T16:30:44.354527+00:00",
-      "close": 434.11
-    },
     {
       "timestamp": "2026-07-12T17:37:16.079908+00:00",
       "close": 434.11
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T12:56:18.913926+00:00",
       "close": 398.37
+    },
+    {
+      "timestamp": "2026-07-20T15:13:29.370703+00:00",
+      "close": 402.63
     }
   ],
   "events": [
@@ -514,9 +514,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-20T09:57:23+00:00",
+      "title": "Intel's Most Overlooked Edge Over TSMC Starts With Pat Gelsinger's 'Great Depression' Warning",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T06:56:33+00:00",
       "title": "TSMC: Unfolding CapEx Boom",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T05:46:00+00:00",
+      "title": "What's Going on With Taiwan Semiconductor Stock Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-19T03:10:21+00:00",
       "title": "Tracking Stanley Druckenmiller's Duquesne Family Office Portfolio - Q1 2026 Update",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T09:00:43+00:00",
-      "title": "SK Hynix, AST SpaceMobile, SpaceX: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T08:01:12+00:00",
-      "title": "Benzinga Bulls and Bears: PayPal, UnitedHealth, Netflix — And Stocks End Wild Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

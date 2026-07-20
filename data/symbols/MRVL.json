@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T12:56:18.913926+00:00",
+  "generated_at": "2026-07-20T15:13:29.370703+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 188.68,
-    "change_pct": 0.20180562931491064
+    "price": 197.21,
+    "change_pct": 4.52088191647233
   },
   "risk": {
-    "score": 50,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T16:30:44.354527+00:00",
-      "close": 235.81
-    },
     {
       "timestamp": "2026-07-12T17:37:16.079908+00:00",
       "close": 235.81
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-20T12:56:18.913926+00:00",
       "close": 188.68
+    },
+    {
+      "timestamp": "2026-07-20T15:13:29.370703+00:00",
+      "close": 197.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T13:47:40+00:00",
+      "title": "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T12:30:48+00:00",
+      "title": "Why I Can’t Stop Buying Credo Technology Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T12:21:51+00:00",
+      "title": "The Divergent Paths Ahead For NVIDIA Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:32:00+00:00",
+      "title": "Sandisk, Alibaba, AMC, Domino’s, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-19T17:30:26+00:00",
       "title": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target",
@@ -533,30 +565,6 @@
       "timestamp": "2026-07-19T08:15:00+00:00",
       "title": "Our Top 10 High Growth Dividend Stocks - July 2026",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T17:30:01+00:00",
-      "title": "AI Investors Are Becoming Pickier. 2 Stocks Still Stand Out.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T15:15:50+00:00",
-      "title": "Stock Market Week Ahead: Navigating Uncertainty",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T13:00:52+00:00",
-      "title": "Rambus Gains Momentum on Rising AI Memory Bandwidth Needs",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
