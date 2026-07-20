@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:45:17.378805+00:00",
+  "generated_at": "2026-07-20T18:45:00.838716+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 122.71,
-    "change_pct": -2.926983624713242
+    "price": 123.17,
+    "change_pct": -2.5630883632624
   },
   "risk": {
-    "score": 74,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T18:35:26.135582+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-12T19:47:19.720749+00:00",
       "close": 140.64
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-20T16:45:17.378805+00:00",
       "close": 122.71
+    },
+    {
+      "timestamp": "2026-07-20T18:45:00.838716+00:00",
+      "close": 123.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T18:05:00+00:00",
+      "title": "Looking for the most active stocks in the S&P500 index on Monday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T17:07:00+00:00",
+      "title": "Arm receives higher price target from Jefferies on stronger AI-driven demand outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T17:01:06+00:00",
+      "title": "AMD stock rises on price target bumps, Microsoft deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T16:38:01+00:00",
+      "title": "FuelCell Energy Rallies 6% While Bloom Energy Slides 6%, Splitting the Fuel-Cell Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T16:35:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T16:03:38+00:00",
+      "title": "Why Are ORCL, BE Stocks Falling Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T15:24:43+00:00",
       "title": "Why Dan Ives Maintains His Sky High Target on IBM After Its Largest Crash Ever",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-07-20T15:18:27+00:00",
       "title": "CRM Stock: A Cash Gusher At A Marked-Down Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T14:36:50+00:00",
-      "title": "Down More Than 60% From Its High, Has Oracle Stock Become a Bargain Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T14:35:01+00:00",
-      "title": "These S&P500 stocks are gapping in today's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T14:04:10+00:00",
-      "title": "Burry covers half of his Oracle short bet",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:51:00+00:00",
-      "title": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:39:11+00:00",
-      "title": "Netflix upgraded, Carvana downgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:30:35+00:00",
-      "title": "AMD Just Got a Potential AI Heavyweight Customer. Here’s The New Price Target",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

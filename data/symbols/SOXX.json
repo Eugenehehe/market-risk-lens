@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:45:17.378805+00:00",
+  "generated_at": "2026-07-20T18:45:00.838716+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 531.21,
-    "change_pct": 1.8014219735152714
+    "price": 528.48,
+    "change_pct": 1.2782430386539367
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T18:35:26.135582+00:00",
-      "close": 581.34
-    },
     {
       "timestamp": "2026-07-12T19:47:19.720749+00:00",
       "close": 581.34
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-20T16:45:17.378805+00:00",
       "close": 531.21
+    },
+    {
+      "timestamp": "2026-07-20T18:45:00.838716+00:00",
+      "close": 528.48
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T13:37:00+00:00",
+      "title": "Tech Staying In Neutral",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T12:45:00+00:00",
+      "title": "Staying Risk-On In A More Fragile World",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T12:06:37+00:00",
       "title": "Buy Hyperscalers, Sell Semiconductors - The Rotation Has Already Started",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T09:21:53+00:00",
+      "title": "AI Trade’s Favorite Chip ETF Sees Record Inflows Despite Worst Month Since 2008",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-19T23:58:00+00:00",
-      "title": "2026 Midyear Outlook: Scarcity Vs. Abundance In The Age Of AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T16:08:08+00:00",
-      "title": "Intel Stock Forms an Alarming Pattern as Earnings Loom",
+      "timestamp": "2026-07-20T04:02:01+00:00",
+      "title": "SOXX Enters Bear Market: Why Ed Yardeni Says Semiconductor Stocks Could Fall Another 12%",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-18T14:12:35+00:00",
-      "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T09:04:35+00:00",
-      "title": "The Capex Ex-Suppliers Trade: Earnings Season Is The Referee",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T07:55:29+00:00",
-      "title": "Amazing Chance To Double Down On The AI Market Panic",
+      "timestamp": "2026-07-19T23:58:00+00:00",
+      "title": "2026 Midyear Outlook: Scarcity Vs. Abundance In The Age Of AI",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

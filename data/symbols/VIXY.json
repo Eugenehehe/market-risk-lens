@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:45:17.378805+00:00",
+  "generated_at": "2026-07-20T18:45:00.838716+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 20.91,
-    "change_pct": -3.4180138568129292
+    "price": 21.17,
+    "change_pct": -2.2170900692840556
   },
   "risk": {
-    "score": 60,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T18:35:26.135582+00:00",
-      "close": 20.34
-    },
     {
       "timestamp": "2026-07-12T19:47:19.720749+00:00",
       "close": 20.34
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-07-20T16:45:17.378805+00:00",
       "close": 20.91
+    },
+    {
+      "timestamp": "2026-07-20T18:45:00.838716+00:00",
+      "close": 21.17
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-20T13:13:00+00:00",
+      "title": "Hedging Demand Spikes Amid AI-Driven Market Rotation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:45:17.378805+00:00",
+  "generated_at": "2026-07-20T18:45:00.838716+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 154.87,
-    "change_pct": 0.16816506047474533
+    "price": 153.98,
+    "change_pct": -0.40747687730420257
   },
   "risk": {
-    "score": 36,
+    "score": 42,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T18:35:26.135582+00:00",
-      "close": 190.89
-    },
     {
       "timestamp": "2026-07-12T19:47:19.720749+00:00",
       "close": 190.89
@@ -502,9 +498,30 @@
     {
       "timestamp": "2026-07-20T16:45:17.378805+00:00",
       "close": 154.87
+    },
+    {
+      "timestamp": "2026-07-20T18:45:00.838716+00:00",
+      "close": 153.98
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-20T11:59:25+00:00",
+      "title": "Winners And Losers From Moonshot—Wall Street Fears Overblown—US May Ban Chinese Models",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T11:30:27+00:00",
+      "title": "Here’s How Much You Would Have Made Owning Corning Stock In The Last 10 Years",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

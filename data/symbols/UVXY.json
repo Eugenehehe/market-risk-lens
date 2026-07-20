@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T16:45:17.378805+00:00",
+  "generated_at": "2026-07-20T18:45:00.838716+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 24.08,
-    "change_pct": -5.3459119496855445
+    "price": 24.55,
+    "change_pct": -3.4984276729559727
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T18:35:26.135582+00:00",
-      "close": 23.18
-    },
     {
       "timestamp": "2026-07-12T19:47:19.720749+00:00",
       "close": 23.18
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-07-20T16:45:17.378805+00:00",
       "close": 24.08
+    },
+    {
+      "timestamp": "2026-07-20T18:45:00.838716+00:00",
+      "close": 24.55
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-20T13:13:00+00:00",
+      "title": "Hedging Demand Spikes Amid AI-Driven Market Rotation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
