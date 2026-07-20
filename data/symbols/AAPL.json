@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:51:42.011429+00:00",
+  "generated_at": "2026-07-20T10:42:12.102222+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.74,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T14:17:31.691543+00:00",
-      "close": 315.32
-    },
     {
       "timestamp": "2026-07-12T15:29:05.288678+00:00",
       "close": 315.32
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-20T07:51:42.011429+00:00",
       "close": 333.74
+    },
+    {
+      "timestamp": "2026-07-20T10:42:12.102222+00:00",
+      "close": 333.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T05:00:20+00:00",
+      "title": "Bezos Backs AI Startup to Discover New Materials for Chipmaking",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T02:03:00+00:00",
       "title": "Apple’s stunning Nvidia flip reveals where AI money is moving",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-19T18:00:53+00:00",
       "title": "Warren Buffett Takes Credit for Berkshire’s Alphabet Stock Buy: ‘I Initiated It’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T17:35:00+00:00",
-      "title": "A Hidden Threat for Micron? Apple Is Eyeing a Fix for AI Memory Demands",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
