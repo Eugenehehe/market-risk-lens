@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:42:12.102222+00:00",
+  "generated_at": "2026-07-20T12:56:18.913926+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.74,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T15:29:05.288678+00:00",
-      "close": 315.32
-    },
     {
       "timestamp": "2026-07-12T16:30:44.354527+00:00",
       "close": 315.32
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-20T10:42:12.102222+00:00",
       "close": 333.74
+    },
+    {
+      "timestamp": "2026-07-20T12:56:18.913926+00:00",
+      "close": 333.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T10:41:00+00:00",
+      "title": "Here's How Much Apple Stock Has to Gain to Overtake Nvidia as the Most Valuable Company in the World. Hint: It Could Happen by the Time You Read This.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T07:00:00+00:00",
+      "title": "Wall Street Breakfast Podcast: FDA's Lettuce U-Turn",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T05:00:20+00:00",
       "title": "Bezos Backs AI Startup to Discover New Materials for Chipmaking",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-19T18:44:00+00:00",
       "title": "Is Apple Still a Buy at Its All-Time High?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T18:05:00+00:00",
-      "title": "68% of Greg Abel's Berkshire Hathaway Portfolio Is Invested in Just 5 Stocks. Here's My Favorite of the Bunch.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-19T18:00:53+00:00",
-      "title": "Warren Buffett Takes Credit for Berkshire’s Alphabet Stock Buy: ‘I Initiated It’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
