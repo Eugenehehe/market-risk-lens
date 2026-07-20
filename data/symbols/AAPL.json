@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T15:13:29.370703+00:00",
+  "generated_at": "2026-07-20T16:45:17.378805+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 325.43,
-    "change_pct": -2.489962246059807
+    "price": 324.38,
+    "change_pct": -2.804578414334513
   },
   "risk": {
-    "score": 70,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T17:37:16.079908+00:00",
-      "close": 315.32
-    },
     {
       "timestamp": "2026-07-12T18:35:26.135582+00:00",
       "close": 315.32
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-20T15:13:29.370703+00:00",
       "close": 325.43
+    },
+    {
+      "timestamp": "2026-07-20T16:45:17.378805+00:00",
+      "close": 324.38
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T15:33:00+00:00",
+      "title": "Nvidia Stock Steadies, But It Needs Help for Real Gains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T15:19:02+00:00",
+      "title": "Apple Sidesteps AI Spend Bubble So I Keep Buying",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T15:07:03+00:00",
+      "title": "Fidelity’s FDVV Charges 0.15% but Delivers Tech Upside Most Dividend Funds Skip",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:43:49+00:00",
+      "title": "China vs. US AI: Moonshot's Kimi K3 may not be a total game changer quite yet",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:37:00+00:00",
+      "title": "Apple’s iPhone 18 AI bet hides a pricing trap",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:15:19+00:00",
+      "title": "Wife, 36, Says Husband's 'Free' Trading App Quietly Cost Them $3,800 In Hidden Fees — He Calls Her 'Dramatic' For Wanting To Switch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T13:24:02+00:00",
       "title": "BofA expects Apple to top analyst expectations on July 30",
@@ -517,54 +565,6 @@
       "timestamp": "2026-07-20T13:17:15+00:00",
       "title": "Samsung Shifts Jobs as AI Focus Grows",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:12:37+00:00",
-      "title": "TSMC Expands Arizona AI Chip Bet",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:57:00+00:00",
-      "title": "Nvidia Stock Is Steadying. Now It Needs Big Tech to Spend Big on Artificial Intelligence.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:21:50+00:00",
-      "title": "The Cost Pressure Apple Stock Stopped Flagging, And The New One That Should Worry You",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:07:00+00:00",
-      "title": "Small-Cap Index Funds Have Delivered Surprisingly Strong 12-Month Returns. Here's What That Means for Investors.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T10:41:00+00:00",
-      "title": "Here's How Much Apple Stock Has to Gain to Overtake Nvidia as the Most Valuable Company in the World. Hint: It Could Happen by the Time You Read This.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T09:57:23+00:00",
-      "title": "Intel's Most Overlooked Edge Over TSMC Starts With Pat Gelsinger's 'Great Depression' Warning",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

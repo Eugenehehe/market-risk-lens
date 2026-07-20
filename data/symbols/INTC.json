@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T15:13:29.370703+00:00",
+  "generated_at": "2026-07-20T16:45:17.378805+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 97.68,
-    "change_pct": 2.777777777777768
+    "price": 98.53,
+    "change_pct": 3.6721380471380405
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T17:37:16.079908+00:00",
-      "close": 109.84
-    },
     {
       "timestamp": "2026-07-12T18:35:26.135582+00:00",
       "close": 109.84
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-20T15:13:29.370703+00:00",
       "close": 97.68
+    },
+    {
+      "timestamp": "2026-07-20T16:45:17.378805+00:00",
+      "close": 98.53
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T15:33:53+00:00",
+      "title": "Why Intel Vs. Taiwan Semiconductor Isn’t a Real Competition Through The End of 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:58:06+00:00",
+      "title": "Intel Seen Beating Q2 Expectations Despite Sentiment Risks, Wedbush Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:46:00+00:00",
+      "title": "Week ahead: Wall Street gears up for volatility as Big Tech earnings kick into high gear",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:39:00+00:00",
+      "title": "Micron, AMD, Alibaba, AMC, Domino’s, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:30:00+00:00",
+      "title": "Why Intel Stock Soared 278% In the First Half of 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:25:00+00:00",
+      "title": "Intel set to beat but valuation leaves it exposed to sentiment swings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:09:40+00:00",
+      "title": "The Real Engine Driving Qualcomm Stock Isn't A Smartphone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T13:36:40+00:00",
       "title": "What it will take for Big Tech to wow investors this earnings season",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:31:28+00:00",
-      "title": "Stocks Bounce Back to Kick Off a Big Tech Earnings-Heavy Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:30:35+00:00",
-      "title": "AMD Just Got a Potential AI Heavyweight Customer. Here’s The New Price Target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:21:00+00:00",
-      "title": "Why the Next Two Weeks Will Make or Break the Stock Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:59:03+00:00",
-      "title": "SK Hynix Jumps 5%, AMD Rises 4% as Korea Becomes the New Catalyst for Global Chip Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:55:34+00:00",
-      "title": "How Much Track Is Left For INTC Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:54:58+00:00",
-      "title": "The One Deal That Could End Micron Stock's Old Boom-and-Bust Cycle",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:50:57+00:00",
-      "title": "Update: US Equity Futures Edge Higher Pre-Bell as Traders Monitor Middle East Situation, Anticipate Week's Tech Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

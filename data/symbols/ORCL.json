@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T15:13:29.370703+00:00",
+  "generated_at": "2026-07-20T16:45:17.378805+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 121.36,
-    "change_pct": -3.994937109405894
+    "price": 122.71,
+    "change_pct": -2.926983624713242
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T17:37:16.079908+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-12T18:35:26.135582+00:00",
       "close": 140.64
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-07-20T15:13:29.370703+00:00",
       "close": 121.36
+    },
+    {
+      "timestamp": "2026-07-20T16:45:17.378805+00:00",
+      "close": 122.71
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-20T15:24:43+00:00",
+      "title": "Why Dan Ives Maintains His Sky High Target on IBM After Its Largest Crash Ever",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T15:18:27+00:00",
+      "title": "CRM Stock: A Cash Gusher At A Marked-Down Price",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:36:50+00:00",
+      "title": "Down More Than 60% From Its High, Has Oracle Stock Become a Bargain Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-20T14:35:01+00:00",
       "title": "These S&P500 stocks are gapping in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T14:04:10+00:00",
+      "title": "Burry covers half of his Oracle short bet",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-20T13:30:35+00:00",
       "title": "AMD Just Got a Potential AI Heavyweight Customer. Here’s The New Price Target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:15:51+00:00",
-      "title": "CLSA Starts Oracle With Hold on AI Debt Concerns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T11:52:28+00:00",
-      "title": "Here Are Monday’s Top Wall Street Analyst Research Calls: BP, Charles Schwab, Fervo Energy, HubSpot, Lumentum, Microsoft, Netflix, Oracle, ServiceNow, Yeti Holdings, and More",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T11:27:00+00:00",
-      "title": "Leading investment bank lifts Arm target to $320 as AI drives surge in CPU demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T03:30:31+00:00",
-      "title": "Why Did NFLX, ORCL, SPCX Stocks Slump To 52-Week Lows Last Week?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
