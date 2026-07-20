@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T18:45:00.838716+00:00",
+  "generated_at": "2026-07-20T20:13:28.626381+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 98.16,
-    "change_pct": 3.282828282828265
+    "price": 97.06,
+    "change_pct": 2.125420875420869
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T19:47:19.720749+00:00",
-      "close": 109.84
-    },
     {
       "timestamp": "2026-07-12T20:31:42.238336+00:00",
       "close": 109.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-20T18:45:00.838716+00:00",
       "close": 98.16
+    },
+    {
+      "timestamp": "2026-07-20T20:13:28.626381+00:00",
+      "close": 97.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T18:05:00+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Monday?",
@@ -549,14 +557,6 @@
       "timestamp": "2026-07-20T16:37:00+00:00",
       "title": "Intel positioned for earnings upside as Wedbush highlights server demand and margin recovery",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:35:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T18:45:00.838716+00:00",
+  "generated_at": "2026-07-20T20:13:28.626381+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 123.17,
-    "change_pct": -2.5630883632624
+    "price": 121.38,
+    "change_pct": -3.9791155762993413
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T19:47:19.720749+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-12T20:31:42.238336+00:00",
       "close": 140.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T18:45:00.838716+00:00",
       "close": 123.17
+    },
+    {
+      "timestamp": "2026-07-20T20:13:28.626381+00:00",
+      "close": 121.38
     }
   ],
   "events": [

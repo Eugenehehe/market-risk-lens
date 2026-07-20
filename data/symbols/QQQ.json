@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T18:45:00.838716+00:00",
+  "generated_at": "2026-07-20T20:13:28.626381+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 698.26,
-    "change_pct": 0.42138265284108467
+    "price": 696.06,
+    "change_pct": 0.10498612169760335
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T19:47:19.720749+00:00",
-      "close": 725.51
-    },
     {
       "timestamp": "2026-07-12T20:31:42.238336+00:00",
       "close": 725.51
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-20T18:45:00.838716+00:00",
       "close": 698.26
+    },
+    {
+      "timestamp": "2026-07-20T20:13:28.626381+00:00",
+      "close": 696.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T15:39:24+00:00",
+      "title": "QQQJ: Accessing Innovation At Smaller Market Cap Size",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T15:33:13+00:00",
+      "title": "China's AI Boom: The Market Got It Wrong",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T13:42:00+00:00",
       "title": "Chip Rebound Lifts Nasdaq 100, Micron Rallies 5%: Stock Market Today",
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T12:33:51+00:00",
-      "title": "Iran And Energy Markets: Here We Go Again",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:15:00+00:00",
-      "title": "Bull Market Check-In: Key Signals To Watch",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T11:59:25+00:00",
-      "title": "Winners And Losers From Moonshot—Wall Street Fears Overblown—US May Ban Chinese Models",
+      "timestamp": "2026-07-20T12:35:30+00:00",
+      "title": "Tech Selloff: Expert Says ‘Get Your Shopping List Ready' – Stocks ‘Took the Elevator Up and the Elevator Shaft Down’",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T10:20:00+00:00",
-      "title": "An Extreme Energy Crack Spread And Two Warning Signs In Technology",
+      "timestamp": "2026-07-20T12:33:51+00:00",
+      "title": "Iran And Energy Markets: Here We Go Again",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

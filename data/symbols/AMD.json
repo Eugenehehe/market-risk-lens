@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T18:45:00.838716+00:00",
+  "generated_at": "2026-07-20T20:13:28.626381+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 514.9,
-    "change_pct": 3.8607390672906305
+    "price": 503.57,
+    "change_pct": 1.575359044699054
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 63,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T19:47:19.720749+00:00",
-      "close": 557.89
-    },
     {
       "timestamp": "2026-07-12T20:31:42.238336+00:00",
       "close": 557.89
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-20T18:45:00.838716+00:00",
       "close": 514.9
+    },
+    {
+      "timestamp": "2026-07-20T20:13:28.626381+00:00",
+      "close": 503.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T19:28:29+00:00",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:25:26+00:00",
+      "title": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:27:56+00:00",
+      "title": "Equities Mostly Rise Intraday as Chip Stocks Advance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:17:00+00:00",
+      "title": "AMD: Hyperscaler Deals Drive Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T18:14:29+00:00",
+      "title": "AMD Stock Pops After Landing Expanded Microsoft AI Deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T17:30:39+00:00",
       "title": "Price Prediction: Will Nvidia Hit $300 This Year?",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-07-20T17:27:00+00:00",
       "title": "Micron, Lumentum, Sweetgreen, AMC, Domino’s, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:03:33+00:00",
-      "title": "Why AMD (AMD) Stock Is Up Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:01:06+00:00",
-      "title": "AMD stock rises on price target bumps, Microsoft deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:43:34+00:00",
-      "title": "Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:38:02+00:00",
-      "title": "AMD Gains a Major Customer for Its Latest Tech Ahead of Its ‘Advancing AI’ Event—Here’s What You Need to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:35:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:25:23+00:00",
-      "title": "AMD Adds Microsoft to Helios as Nvidia Fight Begins",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
