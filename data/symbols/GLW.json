@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T11:30:01.998048+00:00",
+  "generated_at": "2026-07-21T12:58:54.193015+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 153.1,
     "change_pct": -0.9766509281417868
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T13:32:55.056902+00:00",
-      "close": 183.06
-    },
     {
       "timestamp": "2026-07-13T16:08:11.483223+00:00",
       "close": 186.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T11:30:01.998048+00:00",
       "close": 153.1
+    },
+    {
+      "timestamp": "2026-07-21T12:58:54.193015+00:00",
+      "close": 153.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T11:29:00+00:00",
+      "title": "The Stock Market’s AI Trade Is Back With a Bang",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T04:08:33+00:00",
       "title": "Undercovered Dozen: ServiceNow, Kraft Heinz, Infleqtion, And More",

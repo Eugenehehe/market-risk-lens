@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:30:01.998048+00:00",
+  "generated_at": "2026-07-21T12:58:54.193015+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 381.88,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T13:32:55.056902+00:00",
-      "close": 433.76
-    },
     {
       "timestamp": "2026-07-13T16:08:11.483223+00:00",
       "close": 430.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T11:30:01.998048+00:00",
       "close": 381.88
+    },
+    {
+      "timestamp": "2026-07-21T12:58:54.193015+00:00",
+      "close": 381.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T11:13:06+00:00",
+      "title": "$170,660 Invested In This Stock In January Is Now Worth $1 Million",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T08:30:29+00:00",
       "title": "DELL Technologies (NYSE:DELL): A High Growth Stock Passing the Minervini Trend Template",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T18:05:00+00:00",
       "title": "Lenovo vs. Dell: Which AI PC Stock Is the Better Buy Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:20:00+00:00",
-      "title": "DASH Drives Growth Through Broader Commerce Platform Offerings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
