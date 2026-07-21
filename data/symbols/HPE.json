@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:57:40.582035+00:00",
+  "generated_at": "2026-07-21T23:04:08.734613+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 46.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T23:33:57.279767+00:00",
-      "close": 47.24
-    },
     {
       "timestamp": "2026-07-14T00:59:41.886000+00:00",
       "close": 47.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 46.72
+    },
+    {
+      "timestamp": "2026-07-21T23:04:08.734613+00:00",
+      "close": 46.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T20:08:56+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Expands GTT Partnership To Launch New Secure Networking Services",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T16:55:12+00:00",
       "title": "Super Micro Jumps 6%, Dell Climbs 7%, HPE Rises 5% as AI Hardware Rebounds With the NASDAQ",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T13:47:00+00:00",
       "title": "Can Private Cloud AI Business Sustain HPE's Enterprise Growth?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:30:00+00:00",
-      "title": "Bank Earnings Are Roaring, But Wall Street Isn't Ready to Celebrate",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
