@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:41:54.878884+00:00",
+  "generated_at": "2026-07-21T11:30:01.998048+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 121.38,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T11:15:54.270865+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-13T13:32:55.056902+00:00",
       "close": 138.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-21T09:41:54.878884+00:00",
       "close": 121.38
+    },
+    {
+      "timestamp": "2026-07-21T11:30:01.998048+00:00",
+      "close": 121.38
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-07-21T01:51:57+00:00",
       "title": "PSKY, ORCL, TLRY Stocks Hit 52-Week Lows Today: What's Driving The Selloff?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T00:34:38+00:00",
+      "title": "Paramount-Warner Deal at Risk of Delays That Would Cost Billions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T18:05:00+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Monday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T17:07:00+00:00",
-      "title": "Arm receives higher price target from Jefferies on stronger AI-driven demand outlook",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

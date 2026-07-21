@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:41:54.878884+00:00",
+  "generated_at": "2026-07-21T11:30:01.998048+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 645.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T11:15:54.270865+00:00",
-      "close": 669.21
-    },
     {
       "timestamp": "2026-07-13T13:32:55.056902+00:00",
       "close": 662.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T09:41:54.878884+00:00",
       "close": 645.85
+    },
+    {
+      "timestamp": "2026-07-21T11:30:01.998048+00:00",
+      "close": 645.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T07:29:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: AMD, Taiwan Semiconductor, NVIDIA, Meta Platforms and Microsoft",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T04:07:16+00:00",
       "title": "Meta Platforms: Vertical Integration Is The Play - Reiterating Strong Buy (Earnings Preview)",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T19:43:53+00:00",
       "title": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:34:00+00:00",
-      "title": "Will Alphabet's Q2 Earnings Reignite the Tech Rally?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
