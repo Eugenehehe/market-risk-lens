@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:52:07.335212+00:00",
+  "generated_at": "2026-07-21T21:57:40.582035+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 748.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T22:37:35.942367+00:00",
-      "close": 749.17
-    },
     {
       "timestamp": "2026-07-13T23:33:57.279767+00:00",
       "close": 749.17
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-21T20:52:07.335212+00:00",
       "close": 748.28
+    },
+    {
+      "timestamp": "2026-07-21T21:57:40.582035+00:00",
+      "close": 748.28
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-21T18:34:16+00:00",
       "title": "VEA Is Crushing SPY This Year, but the Decade-Long Scorecard Tells a Different Story",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T17:00:45+00:00",
+      "title": "Trump's 50% Tariff On Canada: Trade Escalation Under Section 338",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T15:29:09+00:00",
       "title": "President Trump, On Social Media, Says After Meeting With The President Of Lebanon, Joseph Aoun, Who Has Done A Remarkable Job Working To Transform His Country, I Am Hereby Directing My Administration To Allow All U.S. Airline Carriers To Fly Directly To Lebanon",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:06:33+00:00",
-      "title": "'Burnham Approves Use of UK Bases for Some US Strikes on Iran' - Bloomberg",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
