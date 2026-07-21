@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T19:45:11.009287+00:00",
+  "generated_at": "2026-07-21T20:52:07.335212+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 542.04,
-    "change_pct": 7.639454296324244
+    "price": 544.43,
+    "change_pct": 8.11406557181722
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T21:38:18.791637+00:00",
-      "close": 534.39
-    },
     {
       "timestamp": "2026-07-13T22:37:35.942367+00:00",
       "close": 534.39
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-21T19:45:11.009287+00:00",
       "close": 542.04
+    },
+    {
+      "timestamp": "2026-07-21T20:52:07.335212+00:00",
+      "close": 544.43
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-07-21T19:05:00+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T18:27:00+00:00",
+      "title": "TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T18:03:00+00:00",
+      "title": "AMD just landed its biggest AI deal yet",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-21T17:13:23+00:00",
-      "title": "What You Actually Pay To Join The MU Run",
+      "timestamp": "2026-07-21T17:21:00+00:00",
+      "title": "VCF is Becoming Broadcom's Growth Engine: More Upside Ahead?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-21T16:31:17+00:00",
-      "title": "Nvidia Reveals New Vera CPU Details As AI CPU Race Heats Up With AMD, Intel",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T16:02:24+00:00",
-      "title": "The $43 Billion Consolation Prize For QCOM Shareholders",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:39:50+00:00",
-      "title": "Intel Stock's AI-Fueled Rally Meets Its Turnaround Reality",
+      "timestamp": "2026-07-21T17:14:00+00:00",
+      "title": "AMD's Microsoft Alliance Expands AI Prospects: More Upside Ahead?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

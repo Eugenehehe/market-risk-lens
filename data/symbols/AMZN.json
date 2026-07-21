@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T19:45:11.009287+00:00",
+  "generated_at": "2026-07-21T20:52:07.335212+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 247.45,
-    "change_pct": -1.0160406416256706
+    "price": 247.55,
+    "change_pct": -0.9760390415616604
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T21:38:18.791637+00:00",
-      "close": 247.31
-    },
     {
       "timestamp": "2026-07-13T22:37:35.942367+00:00",
       "close": 247.31
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-07-21T19:45:11.009287+00:00",
       "close": 247.45
+    },
+    {
+      "timestamp": "2026-07-21T20:52:07.335212+00:00",
+      "close": 247.55
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-21T19:36:32+00:00",
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T19:36:18+00:00",
+      "title": "Why AMZN Costs More Than Its Peer Group",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T19:20:51+00:00",
+      "title": "Oil Jumps Amid Growing Middle East Tensions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-21T19:10:05+00:00",
       "title": "Stay informed with the top movers within the dow jones index on Tuesday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T18:02:40+00:00",
+      "title": "Amazon Prime FTC settlement claims deadline July 27, 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T17:51:23+00:00",
+      "title": "Collect 10% On META Stock Now, Own It 30% Cheaper If It Dips",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-21T17:30:48+00:00",
       "title": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:02:26+00:00",
-      "title": "2 Reasons to Like AMZN (and 1 Not So Much)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T16:40:03+00:00",
-      "title": "Which dow jones stocks are moving on Tuesday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T16:20:13+00:00",
-      "title": "Amazon Business Hits $60 Billion in Second-Quarter Annualized Sales",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:30:00+00:00",
-      "title": "Amazon's $595 titanium luxury watch is a Seiko on the inside",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:01:44+00:00",
-      "title": "Amazon Business Hits $60 Billion in Annualized Sales",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T19:45:11.009287+00:00",
+  "generated_at": "2026-07-21T20:52:07.335212+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 327.83,
-    "change_pct": 0.379680945528027
+    "price": 327.74,
+    "change_pct": 0.3521234575461607
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T21:38:18.791637+00:00",
-      "close": 317.31
-    },
     {
       "timestamp": "2026-07-13T22:37:35.942367+00:00",
       "close": 317.31
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-07-21T19:45:11.009287+00:00",
       "close": 327.83
+    },
+    {
+      "timestamp": "2026-07-21T20:52:07.335212+00:00",
+      "close": 327.74
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-21T19:36:32+00:00",
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T19:34:35+00:00",
+      "title": "MAGS Delivered 181% Since Launch, But Equal-Weighted Tech Concentration Is Now a Liability",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-21T19:10:05+00:00",
       "title": "Stay informed with the top movers within the dow jones index on Tuesday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T18:27:00+00:00",
+      "title": "TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T18:18:43+00:00",
+      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T18:13:24+00:00",
+      "title": "Apple (AAPL) Faces Fresh EU Pressure As U.S. Lawmakers Target DMA",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-21T17:47:37+00:00",
       "title": "Samsung Unveils AI Health Assistant Ahead of New Galaxy Device Launch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:36:40+00:00",
-      "title": "TSMC to Raise Chip Prices by Up to 10% in 2027: Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:34:49+00:00",
-      "title": "Is Netflix Asking Investors To Trust A Story It Will No Longer Tell?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:05:22+00:00",
-      "title": "BofA Backs Apple Before Q3 Results",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:02:26+00:00",
-      "title": "2 Reasons to Like AMZN (and 1 Not So Much)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T16:46:31+00:00",
-      "title": "KLAR Stock Climbs After Apple Reportedly Picks Klarna To Power Its New Device Leasing Service",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
