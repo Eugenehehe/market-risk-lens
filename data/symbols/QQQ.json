@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T15:10:52.987713+00:00",
+  "generated_at": "2026-07-21T16:42:21.235263+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 708,
-    "change_pct": 1.715369364709951
+    "price": 709.26,
+    "change_pct": 1.8963882423929102
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T18:05:21.912998+00:00",
-      "close": 712.61
-    },
     {
       "timestamp": "2026-07-13T19:45:11.019556+00:00",
       "close": 711.4
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-21T15:10:52.987713+00:00",
       "close": 708
+    },
+    {
+      "timestamp": "2026-07-21T16:42:21.235263+00:00",
+      "close": 709.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T11:43:00+00:00",
+      "title": "Markets Shrug Off Conflict As Investors Look To Earnings Results",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T10:56:13+00:00",
+      "title": "The $1.65 Trillion AI Debt Trap",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T10:45:00+00:00",
       "title": "Inflation Fog Thickens: War, Data Changes, And Diverging Indicators Test The Fed's Nerve",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-21T08:30:00+00:00",
       "title": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T08:30:00+00:00",
-      "title": "1999.AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T08:28:13+00:00",
-      "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally—Nebius, Archer, IREN in Focus (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T15:10:52.987713+00:00",
+  "generated_at": "2026-07-21T16:42:21.235263+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 382.62,
-    "change_pct": 3.531130773601765
+    "price": 381.02,
+    "change_pct": 3.0981951998268142
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T18:05:21.912998+00:00",
-      "close": 393.07
-    },
     {
       "timestamp": "2026-07-13T19:45:11.019556+00:00",
       "close": 392.81
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-21T15:10:52.987713+00:00",
       "close": 382.62
+    },
+    {
+      "timestamp": "2026-07-21T16:42:21.235263+00:00",
+      "close": 381.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T15:43:07+00:00",
+      "title": "Tesla Widens Robotaxi Rollout Ahead of Q2 Results",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T14:47:00+00:00",
+      "title": "A Tesla-SpaceX Merger Brewing? Here's What Investors Need to Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T14:36:55+00:00",
+      "title": "Tesla Expands Robotaxi Service To Orlando, Tampa A Day Before Earnings Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T14:30:47+00:00",
+      "title": "This Is the Mag 7’s Worst Performer Right Now. Can Q2 Change the Story?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T14:14:08+00:00",
+      "title": "SpaceX to report first earnings on Aug. 4: What to expect",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T13:57:52+00:00",
+      "title": "What Construction Of Elon Musk's Terafab Would Mean For Tesla, SpaceX",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T13:47:16+00:00",
       "title": "GM earnings & outlook impressed, thanks to lower tariffs. But don't get too comfortable.",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-07-21T13:40:56+00:00",
       "title": "Cadillac Is America’s Worst Luxury Brand, By Far",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:37:53+00:00",
-      "title": "Tesla expands robotaxi service to Orlando, Tampa ahead of earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T12:40:43+00:00",
-      "title": "Tesla Cash Burn Puts AI Spending in Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T12:00:00+00:00",
-      "title": "Here’s the Smartest S&P 500 ETF to Buy Before July Ends",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T11:37:18+00:00",
-      "title": "This Week In Energy Transition - SunPower Leads Renewable Shift With Major Solar Project",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T11:27:00+00:00",
-      "title": "Tesla Needs More Than an Earnings Beat on Wednesday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T11:03:00+00:00",
-      "title": "Tesla's jump in sales comes as Optimus, Robotaxi bets require more cash: Q2 earnings preview",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

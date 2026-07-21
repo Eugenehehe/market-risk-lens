@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T15:10:52.987713+00:00",
+  "generated_at": "2026-07-21T16:42:21.235263+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 294.87,
-    "change_pct": 0.8757825596113822
+    "price": 295.92,
+    "change_pct": 1.2349902500769838
   },
   "risk": {
-    "score": 58,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T18:05:21.912998+00:00",
-      "close": 293.4
-    },
     {
       "timestamp": "2026-07-13T19:45:11.019556+00:00",
       "close": 293.19
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-21T15:10:52.987713+00:00",
       "close": 294.87
+    },
+    {
+      "timestamp": "2026-07-21T16:42:21.235263+00:00",
+      "close": 295.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T11:43:00+00:00",
+      "title": "Markets Shrug Off Conflict As Investors Look To Earnings Results",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T11:24:43+00:00",
+      "title": "nLIGHT: A Largely Compelling Laser-Tech Specialist Whose Valuations Look Exorbitant",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T10:45:00+00:00",
       "title": "Inflation Fog Thickens: War, Data Changes, And Diverging Indicators Test The Fed's Nerve",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-21T05:00:00+00:00",
       "title": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T23:50:00+00:00",
-      "title": "The Phillips Curve And Kevin Warsh's Task Forces",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:00:00+00:00",
-      "title": "The $1.5 Trillion Warning Signal: Leverage Is Peaking, And History Is Unforgiving",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
