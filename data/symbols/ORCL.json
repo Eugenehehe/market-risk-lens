@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:36:06.056348+00:00",
+  "generated_at": "2026-07-21T01:05:08.817435+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 121.38,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T23:28:19.356801+00:00",
-      "close": 140.64
-    },
     {
       "timestamp": "2026-07-13T01:07:19.724284+00:00",
       "close": 140.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 121.38
+    },
+    {
+      "timestamp": "2026-07-21T01:05:08.817435+00:00",
+      "close": 121.38
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-20T21:10:43+00:00",
       "title": "UBS Trading Desk Says Buy Momentum Stocks as Selloff Nears End",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:10:00+00:00",
+      "title": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T16:35:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:03:38+00:00",
-      "title": "Why Are ORCL, BE Stocks Falling Today?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

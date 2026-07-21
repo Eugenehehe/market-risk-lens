@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:36:06.056348+00:00",
+  "generated_at": "2026-07-21T01:05:08.817435+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1739.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T23:28:19.356801+00:00",
-      "close": 1797.32
-    },
     {
       "timestamp": "2026-07-13T01:07:19.724284+00:00",
       "close": 1797.32
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 1739.02
+    },
+    {
+      "timestamp": "2026-07-21T01:05:08.817435+00:00",
+      "close": 1739.02
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-20T17:30:00+00:00",
       "title": "Sorting Out Semiconductor Valuations",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T16:06:20+00:00",
+      "title": "Jim Cramer Says Intel Is His No. 1 Stock. Here’s Why.",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T13:31:10+00:00",
       "title": "AMD, Micron, SK Hynix lead chip stock recovery",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T12:00:00+00:00",
-      "title": "ASML reports transactions under its current share buyback program",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

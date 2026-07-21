@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T23:36:06.056348+00:00",
+  "generated_at": "2026-07-21T01:05:08.817435+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 44.56,
     "change_pct": -2.7498908773461284
   },
   "risk": {
-    "score": 66,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T23:28:19.356801+00:00",
-      "close": 48.54
-    },
     {
       "timestamp": "2026-07-13T01:07:19.724284+00:00",
       "close": 48.54
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 44.56
+    },
+    {
+      "timestamp": "2026-07-21T01:05:08.817435+00:00",
+      "close": 44.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-20T23:37:00+00:00",
+      "title": "How Much Upside Can ANET Stock's Growth Deliver?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:10:00+00:00",
+      "title": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T15:24:43+00:00",
       "title": "Why Dan Ives Maintains His Sky High Target on IBM After Its Largest Crash Ever",
@@ -533,14 +549,6 @@
       "timestamp": "2026-07-19T05:25:44+00:00",
       "title": "Hewlett Packard Enterprise - Demand Is Not The Question, Timing Is (Rating Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-18T14:09:17+00:00",
-      "title": "What You Actually Pay To Join The CSCO Run",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

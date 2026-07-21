@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:36:06.056348+00:00",
+  "generated_at": "2026-07-21T01:05:08.817435+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 645.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-12T23:28:19.356801+00:00",
-      "close": 669.21
-    },
     {
       "timestamp": "2026-07-13T01:07:19.724284+00:00",
       "close": 669.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 645.85
+    },
+    {
+      "timestamp": "2026-07-21T01:05:08.817435+00:00",
+      "close": 645.85
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-20T20:28:33+00:00",
       "title": "Who is the tenant for Hut 8’s 1 GW Beacon Point data center?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T20:10:00+00:00",
+      "title": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T18:30:35+00:00",
       "title": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T18:09:00+00:00",
-      "title": "5 Founder-Led Companies Built to Innovate and Outperform",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
