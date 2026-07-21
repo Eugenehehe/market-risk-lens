@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T16:42:21.235263+00:00",
+  "generated_at": "2026-07-21T18:00:24.852311+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 422.26,
-    "change_pct": 4.96147153865274
+    "price": 423.8,
+    "change_pct": 5.34427044494159
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T19:45:11.019556+00:00",
-      "close": 422.37
-    },
     {
       "timestamp": "2026-07-13T20:44:14.036158+00:00",
       "close": 421.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-21T16:42:21.235263+00:00",
       "close": 422.26
+    },
+    {
+      "timestamp": "2026-07-21T18:00:24.852311+00:00",
+      "close": 423.8
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-21T11:35:00+00:00",
       "title": "AI's Biggest Gainers",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T11:00:43+00:00",
+      "title": "Positive Signal: ShyueShyh Lin Shows Faith, Buying $215K In Taiwan Semiconductor Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-21T05:00:52+00:00",
+      "title": "Nikkei Reported Earlier, TSMC To Raise Chipmaking Prices By Up To 10% From 2027",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-21T05:00:00+00:00",
       "title": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
       "source": "SeekingAlpha",
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-20T17:30:00+00:00",
-      "title": "Sorting Out Semiconductor Valuations",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T16:00:50+00:00",
-      "title": "TSMC Beat, The Stock Fell Anyway: Here's What Got Priced In",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T13:35:12+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "timestamp": "2026-07-21T04:46:21+00:00",
+      "title": "Alibaba, ByteDance Join Regulatory Talks As Beijing Tightens Grip With Sweeping AI, Chip Export Curbs: Report",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

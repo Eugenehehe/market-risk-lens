@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T16:42:21.235263+00:00",
+  "generated_at": "2026-07-21T18:00:24.852311+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 976.42,
-    "change_pct": 12.820927599195798
+    "price": 972.63,
+    "change_pct": 12.38301019111223
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T19:45:11.019556+00:00",
-      "close": 933.72
-    },
     {
       "timestamp": "2026-07-13T20:44:14.036158+00:00",
       "close": 937
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T16:42:21.235263+00:00",
       "close": 976.42
+    },
+    {
+      "timestamp": "2026-07-21T18:00:24.852311+00:00",
+      "close": 972.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T16:35:01+00:00",
+      "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T15:53:44+00:00",
       "title": "Chinese Open LLMs are no threat to memory demand, BofA says",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T13:43:15+00:00",
       "title": "Stock Market Today: Dow Jones Index Rises As Memory Stocks Marvell, Micron, Sandisk Rally (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:20:00+00:00",
-      "title": "Micron Technology, Sandisk, and Western Digital Are Down Big in the Past Month. Is Now the Time to Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

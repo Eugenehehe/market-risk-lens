@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-21T16:42:21.235263+00:00",
+  "generated_at": "2026-07-21T18:00:24.852311+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 381.02,
-    "change_pct": 3.0981951998268142
+    "price": 379.53,
+    "change_pct": 2.69502394674892
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T19:45:11.019556+00:00",
-      "close": 392.81
-    },
     {
       "timestamp": "2026-07-13T20:44:14.036158+00:00",
       "close": 394.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-21T16:42:21.235263+00:00",
       "close": 381.02
+    },
+    {
+      "timestamp": "2026-07-21T18:00:24.852311+00:00",
+      "close": 379.53
     }
   ],
   "events": [

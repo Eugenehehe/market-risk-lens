@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T16:42:21.235263+00:00",
+  "generated_at": "2026-07-21T18:00:24.852311+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 398.53,
-    "change_pct": -0.9346491337095197
+    "price": 399.24,
+    "change_pct": -0.7581595366526694
   },
   "risk": {
-    "score": 58,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T19:45:11.019556+00:00",
-      "close": 390.48
-    },
     {
       "timestamp": "2026-07-13T20:44:14.036158+00:00",
       "close": 390.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T16:42:21.235263+00:00",
       "close": 398.53
+    },
+    {
+      "timestamp": "2026-07-21T18:00:24.852311+00:00",
+      "close": 399.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T16:40:03+00:00",
+      "title": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T15:12:54+00:00",
       "title": "3M investors are still waiting for a more 'consistent' growth story",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T14:34:30+00:00",
       "title": "History Has An Opinion On This INTU Price Level",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T14:21:28+00:00",
-      "title": "OpenAI Is on Pace to Miss Its Own Ad Revenue Forecast by 90%. Here’s What It Means For The AI Trade",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
