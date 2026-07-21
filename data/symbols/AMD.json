@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-21T12:58:54.193015+00:00",
+  "generated_at": "2026-07-21T15:10:52.987713+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 503.57,
-    "change_pct": 1.575359044699054
+    "price": 533.31,
+    "change_pct": 5.905832356971219
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T16:08:11.483223+00:00",
-      "close": 542.39
-    },
     {
       "timestamp": "2026-07-13T18:05:21.912998+00:00",
       "close": 538
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-21T12:58:54.193015+00:00",
       "close": 503.57
+    },
+    {
+      "timestamp": "2026-07-21T15:10:52.987713+00:00",
+      "close": 533.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T13:21:49+00:00",
+      "title": "Intel Jumps 6% on RBC’s Q2 Beat Call, AMD Rises 4%, Broadcom Climbs 3% as Chip Rally Resumes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:47:52+00:00",
+      "title": "TSMC Customers Face Bigger Chip Costs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:45:01+00:00",
+      "title": "Advanced Micro Devices vs. Intel: What the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:42:28+00:00",
+      "title": "This Week In Cloud AI - AMD and Microsoft Partner to Boost AI Infrastructure on Azure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:35:30+00:00",
+      "title": "Forget Picking the Next AI Winner: TSM Lets You Profit From Every Wave of the Revolution",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T11:50:26+00:00",
       "title": "2 Profitable Stocks for Long-Term Investors and 1 Facing Headwinds",
@@ -522,49 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-21T07:29:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: AMD, Taiwan Semiconductor, NVIDIA, Meta Platforms and Microsoft",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T05:00:00+00:00",
-      "title": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+      "timestamp": "2026-07-21T10:53:31+00:00",
+      "title": "AMD: Get Out While You Still Can",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T01:08:46+00:00",
-      "title": "Nvidia (NVDA) Faces Fresh Rack Server Pressure As AMD Launches Helios",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T23:53:19+00:00",
-      "title": "After A Steep Run And A Sharp Drop, Is Marvell Technology Stock A Bet On The AI Buildout?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T22:17:56+00:00",
-      "title": "Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T21:45:03+00:00",
-      "title": "Advanced Micro Devices (AMD) Increases Despite Market Slip: Here's What You Need to Know",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

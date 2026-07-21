@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-21T12:58:54.193015+00:00",
+  "generated_at": "2026-07-21T15:10:52.987713+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 402.3,
-    "change_pct": 0.9865200692823262
+    "price": 419.7,
+    "change_pct": 4.325130499627128
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T16:08:11.483223+00:00",
-      "close": 428.83
-    },
     {
       "timestamp": "2026-07-13T18:05:21.912998+00:00",
       "close": 423.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-21T12:58:54.193015+00:00",
       "close": 402.3
+    },
+    {
+      "timestamp": "2026-07-21T15:10:52.987713+00:00",
+      "close": 419.7
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-21T08:39:14+00:00",
       "title": "ASML's €13 Billion Memory Bet Isn't A Cycle - It's A Ratchet",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T06:46:42+00:00",
+      "title": "Brace for Pricier Chips: Taiwan Semiconductor Reportedly Plans up to 10% Price Hike",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-20T09:57:23+00:00",
       "title": "Intel's Most Overlooked Edge Over TSMC Starts With Pat Gelsinger's 'Great Depression' Warning",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T09:21:43+00:00",
-      "title": "Investors Pour Record $46 Billion Into Semiconductor ETFs. What the Technicals Say Next",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

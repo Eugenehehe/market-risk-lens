@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T12:58:54.193015+00:00",
+  "generated_at": "2026-07-21T15:10:52.987713+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 326.59,
-    "change_pct": -2.14238628872776
+    "price": 326.61,
+    "change_pct": 0.006123886218212249
   },
   "risk": {
-    "score": 68,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T16:08:11.483223+00:00",
-      "close": 317.56
-    },
     {
       "timestamp": "2026-07-13T18:05:21.912998+00:00",
       "close": 316.43
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-21T12:58:54.193015+00:00",
       "close": 326.59
+    },
+    {
+      "timestamp": "2026-07-21T15:10:52.987713+00:00",
+      "close": 326.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T13:21:49+00:00",
+      "title": "Intel Jumps 6% on RBC’s Q2 Beat Call, AMD Rises 4%, Broadcom Climbs 3% as Chip Rally Resumes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T13:11:21+00:00",
+      "title": "Royal Caribbean (RCL) Appoints Former Airbnb Executive Tara Bunch To Its Board",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T13:07:55+00:00",
+      "title": "Oppenheimer Picks Apple, Amazon, Alphabet as Top Stock Buys",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:54:29+00:00",
+      "title": "TSMC Reportedly Plans Up to 10% Price Rise for 2027",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:47:52+00:00",
+      "title": "TSMC Customers Face Bigger Chip Costs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T12:35:30+00:00",
+      "title": "Forget Picking the Next AI Winner: TSM Lets You Profit From Every Wave of the Revolution",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T11:30:00+00:00",
       "title": "Apple and Nvidia Vie for the Position as the World's Biggest Company: Which Is the Better Buy Now?",
@@ -517,54 +565,6 @@
       "timestamp": "2026-07-21T10:26:29+00:00",
       "title": "AAPL Stock Hits Historic 11x Sales Valuation Ahead of Tim Cook's Final Earnings Call as Apple CEO",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T10:10:20+00:00",
-      "title": "China’s New AI Breakthrough Shows Tim Cook’s Risky Final Bet Might Actually Be Genius",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T10:01:00+00:00",
-      "title": "Prediction markets favour Nvidia to stay on top despite Apple's charge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T10:00:00+00:00",
-      "title": "Alibaba's Apple tie-up adds fuel to China's hottest ETF: Chart of the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T08:50:00+00:00",
-      "title": "Prediction: Broadcom Stock Will Be Worth More Than Apple and Microsoft 10 Years From Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T08:30:00+00:00",
-      "title": "Earnings Season May Be Last Hurrah For Hyperscalers And A Turning Point In The Market Cycle",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T07:30:00+00:00",
-      "title": "4 Wall Street Darlings I Wouldn't Touch With A Ten-Foot Pole",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
