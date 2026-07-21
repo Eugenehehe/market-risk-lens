@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:05:08.817435+00:00",
+  "generated_at": "2026-07-21T04:27:57.115367+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 249.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T01:07:19.724284+00:00",
-      "close": 245.34
-    },
     {
       "timestamp": "2026-07-13T04:44:18.482348+00:00",
       "close": 245.34
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-21T01:05:08.817435+00:00",
       "close": 249.99
+    },
+    {
+      "timestamp": "2026-07-21T04:27:57.115367+00:00",
+      "close": 249.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T00:03:00+00:00",
+      "title": "Amazon may be losing its biggest competitive edge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-20T23:55:00+00:00",
+      "title": "Review & Preview: Rough Start",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T23:03:03+00:00",
       "title": "Behind the Ticker: RISE Ditches the Usual EM Playbook",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-20T20:11:14+00:00",
       "title": "Dow Drops 305 Points as Apple Falls From Highs: Stock Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:43:53+00:00",
-      "title": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T19:34:00+00:00",
-      "title": "Will Alphabet's Q2 Earnings Reignite the Tech Rally?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
