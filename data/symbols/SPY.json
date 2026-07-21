@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T18:00:24.852311+00:00",
+  "generated_at": "2026-07-21T19:45:11.009287+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 748.62,
-    "change_pct": 0.8799471762185096
+    "price": 748.5,
+    "change_pct": 0.8637766308668748
   },
   "risk": {
-    "score": 58,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T20:44:14.036158+00:00",
-      "close": 749.17
-    },
     {
       "timestamp": "2026-07-13T21:38:18.791637+00:00",
       "close": 749.17
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T18:00:24.852311+00:00",
       "close": 748.62
+    },
+    {
+      "timestamp": "2026-07-21T19:45:11.009287+00:00",
+      "close": 748.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T16:47:24+00:00",
+      "title": "Buy Alphabet at $350 Because Wall Street’s Former Fear is Now Officially Dead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T16:02:57+00:00",
       "title": "Industrials Are Up 17% and Still Catching the Next Wave of AI Money",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-21T13:50:00+00:00",
+      "title": "Buying In Semiconductors On Iran Ceasefire Soap Opera, Earnings Hopium, And Korea",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-21T13:03:38+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Semiconductor Recovery Supports Markets",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-21T12:38:19+00:00",
       "title": "SPHQ: Quality Wins Even After A Riskier June Rebalance",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T12:26:08+00:00",
-      "title": "'Carney, Trump Agree to Speed Up Trade Talks Before 50% Tariffs Hit' - Bloomberg",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T12:25:05+00:00",
-      "title": "White House Announces Royal Jordanian Airlines Acquires Six Boeing 787-9 Jets For $1.4B; Hikma Pharmaceuticals Intends To Invest $1B In U.S.",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

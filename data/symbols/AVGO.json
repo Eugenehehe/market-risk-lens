@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21T18:00:24.852311+00:00",
+  "generated_at": "2026-07-21T19:45:11.009287+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 386.17,
-    "change_pct": 2.118151047175787
+    "price": 386.64,
+    "change_pct": 2.24243706367675
   },
   "risk": {
-    "score": 67,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T20:44:14.036158+00:00",
-      "close": 384.05
-    },
     {
       "timestamp": "2026-07-13T21:38:18.791637+00:00",
       "close": 384.05
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-21T18:00:24.852311+00:00",
       "close": 386.17
+    },
+    {
+      "timestamp": "2026-07-21T19:45:11.009287+00:00",
+      "close": 386.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T16:23:00+00:00",
+      "title": "TSMC Is Set to Ratchet AI Costs Even Higher. What It Means for Intel.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T16:02:24+00:00",
+      "title": "The $43 Billion Consolation Prize For QCOM Shareholders",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T15:39:50+00:00",
       "title": "Intel Stock's AI-Fueled Rally Meets Its Turnaround Reality",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-21T14:25:27+00:00",
       "title": "How a $10,000 Investment in Broadcom Under Hock Tan Grew to $3.2M",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:21:49+00:00",
-      "title": "Intel Jumps 6% on RBC’s Q2 Beat Call, AMD Rises 4%, Broadcom Climbs 3% as Chip Rally Resumes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T12:35:30+00:00",
-      "title": "Forget Picking the Next AI Winner: TSM Lets You Profit From Every Wave of the Revolution",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

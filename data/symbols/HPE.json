@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-21T18:00:24.852311+00:00",
+  "generated_at": "2026-07-21T19:45:11.009287+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 46.7,
-    "change_pct": 4.802513464991032
+    "price": 46.59,
+    "change_pct": 4.55565529622981
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T20:44:14.036158+00:00",
-      "close": 47.24
-    },
     {
       "timestamp": "2026-07-13T21:38:18.791637+00:00",
       "close": 47.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T18:00:24.852311+00:00",
       "close": 46.7
+    },
+    {
+      "timestamp": "2026-07-21T19:45:11.009287+00:00",
+      "close": 46.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T16:55:12+00:00",
+      "title": "Super Micro Jumps 6%, Dell Climbs 7%, HPE Rises 5% as AI Hardware Rebounds With the NASDAQ",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T12:23:06+00:00",
       "title": "Hewlett Packard Enterprise: Networking Is Now The Profit Engine, And Nobody Repriced It",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T12:30:00+00:00",
       "title": "Bank Earnings Are Roaring, But Wall Street Isn't Ready to Celebrate",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T04:26:29+00:00",
-      "title": "Hewlett Packard: A Record $6.3 Billion AI Backlog And A Cheap Valuation",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
