@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:13:19.512691+00:00",
+  "generated_at": "2026-07-21T09:41:54.878884+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 503.57,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T07:56:21.284107+00:00",
-      "close": 557.89
-    },
     {
       "timestamp": "2026-07-13T11:15:54.270865+00:00",
       "close": 557.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 503.57
+    },
+    {
+      "timestamp": "2026-07-21T09:41:54.878884+00:00",
+      "close": 503.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T05:00:00+00:00",
+      "title": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T01:08:46+00:00",
       "title": "Nvidia (NVDA) Faces Fresh Rack Server Pressure As AMD Launches Helios",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T20:31:57+00:00",
       "title": "Stock Market Today: Dow Sinks, Nasdaq Gives Up Gains After Trump's Iran Comments; Sandisk Rises (Live Coverage)",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T20:10:00+00:00",
-      "title": "Celestica: The Cheapest Way To Invest In Growth In AI Trends",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

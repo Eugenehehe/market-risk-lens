@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:13:19.512691+00:00",
+  "generated_at": "2026-07-21T09:41:54.878884+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 402.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T07:56:21.284107+00:00",
-      "close": 434.11
-    },
     {
       "timestamp": "2026-07-13T11:15:54.270865+00:00",
       "close": 434.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 402.3
+    },
+    {
+      "timestamp": "2026-07-21T09:41:54.878884+00:00",
+      "close": 402.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T05:00:00+00:00",
+      "title": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-20T17:30:00+00:00",
       "title": "Sorting Out Semiconductor Valuations",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-20T07:20:25+00:00",
       "title": "What's Going on With AMD Stock Monday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T06:56:33+00:00",
-      "title": "TSMC: Unfolding CapEx Boom",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:13:19.512691+00:00",
+  "generated_at": "2026-07-21T09:41:54.878884+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 249.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-13T07:56:21.284107+00:00",
-      "close": 245.34
-    },
     {
       "timestamp": "2026-07-13T11:15:54.270865+00:00",
       "close": 245.34
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 249.99
+    },
+    {
+      "timestamp": "2026-07-21T09:41:54.878884+00:00",
+      "close": 249.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T07:09:42+00:00",
+      "title": "Is Amazon.com (AMZN) Undervalued Following Its $200b AI Infrastructure Push?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T05:00:00+00:00",
+      "title": "Ahead Of Earnings (Video): Compute, Memory And The AI Infrastructure Buildout",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T00:03:00+00:00",
       "title": "Amazon may be losing its biggest competitive edge",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-20T20:48:51+00:00",
       "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T20:28:33+00:00",
-      "title": "Who is the tenant for Hut 8’s 1 GW Beacon Point data center?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-20T20:11:14+00:00",
-      "title": "Dow Drops 305 Points as Apple Falls From Highs: Stock Market Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
