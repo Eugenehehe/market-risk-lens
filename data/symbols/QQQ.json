@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T16:05:21.576333+00:00",
+  "generated_at": "2026-07-22T17:38:34.812284+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 709.14,
-    "change_pct": 0.023978447607087006
+    "price": 708.84,
+    "change_pct": -0.01833645993483124
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T16:35:22.276288+00:00",
-      "close": 719.67
-    },
     {
       "timestamp": "2026-07-14T17:45:19.407007+00:00",
       "close": 721.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T16:05:21.576333+00:00",
       "close": 709.14
+    },
+    {
+      "timestamp": "2026-07-22T17:38:34.812284+00:00",
+      "close": 708.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T12:20:36+00:00",
+      "title": "The Credit Cycle Is Flashing Yellow",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T10:50:00+00:00",
       "title": "Earnings, Earnings, Earnings Are What Matter Most",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T04:56:52+00:00",
       "title": "GPU Depreciation May Crush The Software Sector Margins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T04:30:00+00:00",
-      "title": "Yields Rise, Markets Pricing In A Longer Energy Shock",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
