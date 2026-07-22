@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:13:57.946480+00:00",
+  "generated_at": "2026-07-22T08:47:03.428499+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 127.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T08:36:05.328071+00:00",
-      "close": 131.54
-    },
     {
       "timestamp": "2026-07-14T10:22:42.125563+00:00",
       "close": 131.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T06:13:57.946480+00:00",
       "close": 127.05
+    },
+    {
+      "timestamp": "2026-07-22T08:47:03.428499+00:00",
+      "close": 127.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T04:01:00+00:00",
+      "title": "The Nightview Fund Q2 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T02:17:00+00:00",
       "title": "AMD stock gets a new reason to watch from Bank of America",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T18:59:00+00:00",
       "title": "AI Spending, Inflation, and 3 More Reasons Why Tech Is Hurting",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T18:53:28+00:00",
-      "title": "Nebius Explodes 16% Higher on NVIDIA Stake Stunner; CoreWeave Surges 8%, Oracle Adds 5% as AI Cloud Plays Pay Off",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

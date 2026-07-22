@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:13:57.946480+00:00",
+  "generated_at": "2026-07-22T08:47:03.428499+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 105.45,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T08:36:05.328071+00:00",
-      "close": 103.12
-    },
     {
       "timestamp": "2026-07-14T10:22:42.125563+00:00",
       "close": 103.12
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T06:13:57.946480+00:00",
       "close": 105.45
+    },
+    {
+      "timestamp": "2026-07-22T08:47:03.428499+00:00",
+      "close": 105.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T07:00:00+00:00",
+      "title": "Adam Smith’s ‘Wealth of Nations’ Helped Create the World’s Wealthiest Nation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T04:29:31+00:00",
       "title": "ASML Lifts 2026 Outlook As High NA EUV Enters Intel Production Might Change The Case For Investing In ASML Holding (ENXTAM:ASML)",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T21:11:03+00:00",
       "title": "Update: US Equity Indexes Advance as Big Tech Helps Outweigh Worsening Iran Geopolitics",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T21:03:00+00:00",
-      "title": "Intel makes another painful move in one of its key businesses",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
