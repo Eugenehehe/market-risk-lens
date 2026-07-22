@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T14:33:16.767136+00:00",
+  "generated_at": "2026-07-22T16:05:21.576333+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 707.06,
-    "change_pct": -0.26940491135027944
+    "price": 709.14,
+    "change_pct": 0.023978447607087006
   },
   "risk": {
-    "score": 53,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T15:04:10.651001+00:00",
-      "close": 719.15
-    },
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 719.67
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T14:33:16.767136+00:00",
       "close": 707.06
+    },
+    {
+      "timestamp": "2026-07-22T16:05:21.576333+00:00",
+      "close": 709.14
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T10:50:00+00:00",
+      "title": "Earnings, Earnings, Earnings Are What Matter Most",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:36:41+00:00",
+      "title": "Hyperscalers Can Make/Break This Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T09:05:00+00:00",
       "title": "Why Markets Won't Fall: Resilience In The Face Of The U.S.-Iran War",
@@ -517,6 +533,14 @@
       "timestamp": "2026-07-22T08:52:41+00:00",
       "title": "Did You Listen When I Shared These Powerfully Bullish Precedents?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T08:30:00+00:00",
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings— Super Micro, Capital One in Focus (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-22T04:30:00+00:00",
       "title": "Yields Rise, Markets Pricing In A Longer Energy Shock",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T04:00:00+00:00",
-      "title": "Flash PMI Surveys To Help Assess Ongoing War Impact",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:40:00+00:00",
-      "title": "Demand For Consumer Services Has Been Volatile So Far In 2026 Due To Middle East War",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:30:00+00:00",
-      "title": "Economies Central To AI Development Drive Global Manufacturing Growth",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

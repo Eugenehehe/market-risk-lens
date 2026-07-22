@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T14:33:16.767136+00:00",
+  "generated_at": "2026-07-22T16:05:21.576333+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 420.89,
-    "change_pct": -0.8760980664609952
+    "price": 423.33,
+    "change_pct": -0.3014530981371166
   },
   "risk": {
-    "score": 58,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T15:04:10.651001+00:00",
-      "close": 423.79
-    },
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 419.8
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-22T14:33:16.767136+00:00",
       "close": 420.89
+    },
+    {
+      "timestamp": "2026-07-22T16:05:21.576333+00:00",
+      "close": 423.33
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-22T09:03:44+00:00",
+      "title": "The Nvidia-Led AI Supercycle Is Accelerating — and Taiwan Just Confirmed It",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-22T08:46:35+00:00",
       "title": "TSMC Is Up 78%, And Wall Street Still Isn't Buying",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T05:30:55+00:00",
+      "title": "What's Going on With Taiwan Semiconductor Stock Wednesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-21T11:35:00+00:00",
       "title": "AI's Biggest Gainers",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T11:00:43+00:00",
-      "title": "Positive Signal: ShyueShyh Lin Shows Faith, Buying $215K In Taiwan Semiconductor Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T08:39:14+00:00",
-      "title": "ASML's €13 Billion Memory Bet Isn't A Cycle - It's A Ratchet",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

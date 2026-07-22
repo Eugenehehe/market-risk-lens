@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T14:33:16.767136+00:00",
+  "generated_at": "2026-07-22T16:05:21.576333+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 747.47,
-    "change_pct": -0.10824824931843224
+    "price": 749.73,
+    "change_pct": 0.19377773026141298
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T15:04:10.651001+00:00",
-      "close": 751.51
-    },
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 751.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-22T14:33:16.767136+00:00",
       "close": 747.47
+    },
+    {
+      "timestamp": "2026-07-22T16:05:21.576333+00:00",
+      "close": 749.73
     }
   ],
   "events": [
@@ -517,6 +517,30 @@
       "timestamp": "2026-07-22T12:55:58+00:00",
       "title": "XLK ETF Is A Sharper Bet Than Its Name Suggests",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T11:00:58+00:00",
+      "title": "The REIT Recovery Broadens Beyond Rates",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:50:00+00:00",
+      "title": "Earnings, Earnings, Earnings Are What Matter Most",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:36:41+00:00",
+      "title": "Hyperscalers Can Make/Break This Market",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-22T07:59:39+00:00",
-      "title": "Ross Gerber Renews Call For Disney Shake-Up After Stock Trails S&P 500 For 11 Years: 'Break Up The Mouse House Or Sell It'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T04:56:52+00:00",
-      "title": "GPU Depreciation May Crush The Software Sector Margins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T04:30:00+00:00",
-      "title": "Yields Rise, Markets Pricing In A Longer Energy Shock",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T04:00:00+00:00",
-      "title": "Flash PMI Surveys To Help Assess Ongoing War Impact",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-22T08:30:00+00:00",
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings— Super Micro, Capital One in Focus (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

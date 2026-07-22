@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T14:33:16.767136+00:00",
+  "generated_at": "2026-07-22T16:05:21.576333+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 584.14,
-    "change_pct": 0.010272565401980849
+    "price": 590.92,
+    "change_pct": 1.1710724558279484
   },
   "risk": {
-    "score": 51,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T15:04:10.651001+00:00",
-      "close": 598.8
-    },
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 599.66
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T14:33:16.767136+00:00",
       "close": 584.14
+    },
+    {
+      "timestamp": "2026-07-22T16:05:21.576333+00:00",
+      "close": 590.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T10:50:00+00:00",
+      "title": "Earnings, Earnings, Earnings Are What Matter Most",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:36:41+00:00",
+      "title": "Hyperscalers Can Make/Break This Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T10:13:05+00:00",
       "title": "Marvell: Time To Double Down On The AI Panic (Upgrade)",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-21T13:40:08+00:00",
       "title": "Micron Leads Memory-Stock Rally, Nasdaq 100 Tops 29,000: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:23:00+00:00",
-      "title": "Why Market Momentum May Tell What's Next For The AI Trade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:11:00+00:00",
-      "title": "Markets Rattled By New Chinese AI Model: What Investors Need To Know",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T14:33:16.767136+00:00",
+  "generated_at": "2026-07-22T16:05:21.576333+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 554.17,
-    "change_pct": 0.2677812155095882
+    "price": 559.21,
+    "change_pct": 1.1796848142720195
   },
   "risk": {
-    "score": 53,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T15:04:10.651001+00:00",
-      "close": 568.23
-    },
     {
       "timestamp": "2026-07-14T16:35:22.276288+00:00",
       "close": 569.01
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-22T14:33:16.767136+00:00",
       "close": 554.17
+    },
+    {
+      "timestamp": "2026-07-22T16:05:21.576333+00:00",
+      "close": 559.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T10:50:00+00:00",
+      "title": "Earnings, Earnings, Earnings Are What Matter Most",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:36:41+00:00",
+      "title": "Hyperscalers Can Make/Break This Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T07:15:23+00:00",
+      "title": "What's Going on With Micron Technology Stock Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T04:56:52+00:00",
       "title": "GPU Depreciation May Crush The Software Sector Margins",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-21T10:56:13+00:00",
       "title": "The $1.65 Trillion AI Debt Trap",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T10:53:31+00:00",
-      "title": "AMD: Get Out While You Still Can",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T10:37:00+00:00",
-      "title": "Q3 2026 Equity Perspectives - Navigating Hype, Concentration, And Hidden Risk",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T10:02:59+00:00",
-      "title": "Nvidia Stock Hasn't Been This Cheap In 10 Years: Is This A Screaming Buy?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
