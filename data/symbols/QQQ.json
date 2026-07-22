@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:23:24.984729+00:00",
+  "generated_at": "2026-07-22T22:29:13.242898+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 705.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T21:12:30.207692+00:00",
-      "close": 719.69
-    },
     {
       "timestamp": "2026-07-14T22:14:15.651332+00:00",
       "close": 719.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 705.35
+    },
+    {
+      "timestamp": "2026-07-22T22:29:13.242898+00:00",
+      "close": 705.35
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-22T16:05:02+00:00",
       "title": "OpenAI's Rogue AI Threatens The Whole Market",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T15:52:19+00:00",
+      "title": "Chip Stocks Retreat As Yemen’s Houthis Enter The War; Alphabet, Tesla Earnings Ahead",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T09:05:00+00:00",
       "title": "Why Markets Won't Fall: Resilience In The Face Of The U.S.-Iran War",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T08:52:41+00:00",
-      "title": "Did You Listen When I Shared These Powerfully Bullish Precedents?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

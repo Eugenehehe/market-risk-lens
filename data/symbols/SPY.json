@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:23:24.984729+00:00",
+  "generated_at": "2026-07-22T22:29:13.242898+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 747.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T21:12:30.207692+00:00",
-      "close": 751.83
-    },
     {
       "timestamp": "2026-07-14T22:14:15.651332+00:00",
       "close": 751.83
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 747.41
+    },
+    {
+      "timestamp": "2026-07-22T22:29:13.242898+00:00",
+      "close": 747.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T21:02:59+00:00",
+      "title": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T20:24:41+00:00",
+      "title": "Everyone’s Launching an ETF… But Should They?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T19:20:40+00:00",
       "title": "Stock Market Today: Nasdaq Weak As Oil Rises; GE Vernova Slides, SMCI Spikes (Live Coverage)",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-22T17:36:37+00:00",
+      "title": "CDL: The Dividend ETF For Investors Seeking Safety",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-22T17:19:48+00:00",
       "title": "SPHD’s 4.4% Yield Grows While Market Swings Slow to Half Speed",
       "source": "Yahoo",
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-22T16:09:50+00:00",
-      "title": "Stock Market Today: Dow Wavers As Oil Jumps; SMCI Surges With Alphabet, Tesla Earnings Next (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T16:05:02+00:00",
-      "title": "OpenAI's Rogue AI Threatens The Whole Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T15:20:55+00:00",
-      "title": "Vanguard’s VIG Dividend ETF’s Top Stock Is… Broadcom? Here’s Why",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T15:20:20+00:00",
-      "title": "What An INTC Pullback Costs Your ETFs",
-      "source": "Yahoo",
+      "timestamp": "2026-07-22T17:06:03+00:00",
+      "title": "Senator Backs Berkshire Stock In Post-Buffett Era as Other Congress Members Bail",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
