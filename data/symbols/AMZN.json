@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T00:02:22.614028+00:00",
+  "generated_at": "2026-07-22T03:37:16.918695+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 247.55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T04:10:40.653564+00:00",
-      "close": 247.31
-    },
     {
       "timestamp": "2026-07-14T06:25:18.746012+00:00",
       "close": 247.31
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T00:02:22.614028+00:00",
       "close": 247.55
+    },
+    {
+      "timestamp": "2026-07-22T03:37:16.918695+00:00",
+      "close": 247.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T23:55:00+00:00",
+      "title": "Review & Preview: Bounce",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-21T23:15:00+00:00",
+      "title": "Single Stock Futures: Back To The Future (And This Time It Might Actually Stick)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T20:43:10+00:00",
       "title": "Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-21T20:09:09+00:00",
+      "title": "Nasdaq Rallies Ahead of Magnificent 7 Earnings: Stock Market Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-21T19:46:25+00:00",
       "title": "“We Must Act Now”: 16 Nobel Laureates Issue Stark Warning About AI Job Threats",
       "source": "Yahoo",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-21T19:45:16+00:00",
       "title": "The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T19:36:32+00:00",
-      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T19:36:18+00:00",
-      "title": "Why AMZN Costs More Than Its Peer Group",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T19:20:51+00:00",
-      "title": "Oil Jumps Amid Growing Middle East Tensions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

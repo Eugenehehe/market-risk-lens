@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T00:02:22.614028+00:00",
+  "generated_at": "2026-07-22T03:37:16.918695+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 105.45,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T04:10:40.653564+00:00",
-      "close": 103.12
-    },
     {
       "timestamp": "2026-07-14T06:25:18.746012+00:00",
       "close": 103.12
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T00:02:22.614028+00:00",
       "close": 105.45
+    },
+    {
+      "timestamp": "2026-07-22T03:37:16.918695+00:00",
+      "close": 105.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-21T22:30:37+00:00",
+      "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T21:11:03+00:00",
       "title": "Update: US Equity Indexes Advance as Big Tech Helps Outweigh Worsening Iran Geopolitics",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T19:21:43+00:00",
       "title": "Nasdaq, Dow and S&P 500 Jumps as Chip Stocks Power Wall Street Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T19:12:00+00:00",
-      "title": "Chip Stocks Are Rebounding - Should Investors Buy Intel (INTC) Before Q2 Earnings?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
