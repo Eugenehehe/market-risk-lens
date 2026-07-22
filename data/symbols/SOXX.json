@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T18:47:18.659895+00:00",
+  "generated_at": "2026-07-22T20:02:26.583569+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 558.31,
-    "change_pct": 1.0168448859215529
+    "price": 555.52,
+    "change_pct": 0.5120411080352216
   },
   "risk": {
-    "score": 59,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T18:51:49.709503+00:00",
-      "close": 570.97
-    },
     {
       "timestamp": "2026-07-14T20:05:27.722229+00:00",
       "close": 567.92
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T18:47:18.659895+00:00",
       "close": 558.31
+    },
+    {
+      "timestamp": "2026-07-22T20:02:26.583569+00:00",
+      "close": 555.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T12:33:15+00:00",
+      "title": "Intel Q2 Preview: Stock Hammers Nvidia with 7x Returns Since Dow Swap — Will Earnings Fuel Further Gains?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:30:41+00:00",
+      "title": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T10:50:00+00:00",
       "title": "Earnings, Earnings, Earnings Are What Matter Most",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-22T03:20:00+00:00",
       "title": "At AI's Edge: Precision Hardware Is Moving From Data Centers To Devices",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:23:00+00:00",
-      "title": "Why Market Momentum May Tell What's Next For The AI Trade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:11:00+00:00",
-      "title": "Markets Rattled By New Chinese AI Model: What Investors Need To Know",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

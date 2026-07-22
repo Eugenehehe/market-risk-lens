@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T18:47:18.659895+00:00",
+  "generated_at": "2026-07-22T20:02:26.583569+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 125,
-    "change_pct": -1.6135379771743397
+    "price": 125.86,
+    "change_pct": -0.9366391184572942
   },
   "risk": {
-    "score": 63,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T18:51:49.709503+00:00",
-      "close": 129.65
-    },
     {
       "timestamp": "2026-07-14T20:05:27.722229+00:00",
       "close": 127.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-22T18:47:18.659895+00:00",
       "close": 125
+    },
+    {
+      "timestamp": "2026-07-22T20:02:26.583569+00:00",
+      "close": 125.86
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-22T15:28:42+00:00",
       "title": "Big Tech Is Hiding $1.65 Trillion in Debt. How Worried Should Investors Be?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T15:19:42+00:00",
+      "title": "Oracle: Cheap Enough (Rating Upgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T14:49:17+00:00",
       "title": "OpenAI lifts planned compute spending to $750 billion through 2030: WSJ",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T13:50:20+00:00",
-      "title": "OpenAI plans $30B Georgia data center mega-project",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

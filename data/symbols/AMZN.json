@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T18:47:18.659895+00:00",
+  "generated_at": "2026-07-22T20:02:26.583569+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 242.99,
-    "change_pct": -1.842052110684711
+    "price": 244.85,
+    "change_pct": -1.090688749747537
   },
   "risk": {
-    "score": 65,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T18:51:49.709503+00:00",
-      "close": 246.46
-    },
     {
       "timestamp": "2026-07-14T20:05:27.722229+00:00",
       "close": 247.49
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T18:47:18.659895+00:00",
       "close": 242.99
+    },
+    {
+      "timestamp": "2026-07-22T20:02:26.583569+00:00",
+      "close": 244.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T19:10:03+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T17:31:55+00:00",
       "title": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
@@ -533,14 +541,6 @@
       "timestamp": "2026-07-22T16:41:14+00:00",
       "title": "Amazon Second-Quarter Revenue to Exceed Expectations on AWS Upside Potential, BofA Says",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T16:40:03+00:00",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

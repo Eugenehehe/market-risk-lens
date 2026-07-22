@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T18:47:18.659895+00:00",
+  "generated_at": "2026-07-22T20:02:26.583569+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 213.77,
-    "change_pct": 3.1260552848666245
+    "price": 212.039,
+    "change_pct": 2.290993294418442
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 69,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T18:51:49.709503+00:00",
-      "close": 212.12
-    },
     {
       "timestamp": "2026-07-14T20:05:27.722229+00:00",
       "close": 211.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T18:47:18.659895+00:00",
       "close": 213.77
+    },
+    {
+      "timestamp": "2026-07-22T20:02:26.583569+00:00",
+      "close": 212.039
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T19:10:03+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T18:05:01+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T17:19:31+00:00",
       "title": "INFQ Stock Surges After Three DOE Awards In $5B Genesis Mission – HPE, WLY Also Gain On Joining Federal AI Initiative",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T17:12:19+00:00",
-      "title": "Dow Jones Shrugs Off Oil Shock While Nasdaq Takes a Breather",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

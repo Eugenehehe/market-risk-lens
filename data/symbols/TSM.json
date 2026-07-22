@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T18:47:18.659895+00:00",
+  "generated_at": "2026-07-22T20:02:26.583569+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 421.98,
-    "change_pct": -0.619391912578604
+    "price": 421.21,
+    "change_pct": -0.800734791926716
   },
   "risk": {
-    "score": 55,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T18:51:49.709503+00:00",
-      "close": 422.62
-    },
     {
       "timestamp": "2026-07-14T20:05:27.722229+00:00",
       "close": 420.39
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T18:47:18.659895+00:00",
       "close": 421.98
+    },
+    {
+      "timestamp": "2026-07-22T20:02:26.583569+00:00",
+      "close": 421.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T14:36:37+00:00",
+      "title": "TSMC Q2: Compounding AI Spending Concerns Hit Stock Valuation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T13:00:00+00:00",
       "title": "TSMC Q2 Earnings Call: What It Means For SMH",
@@ -517,6 +525,14 @@
       "timestamp": "2026-07-22T12:35:00+00:00",
       "title": "Nomura Core Equity Fund Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:30:41+00:00",
+      "title": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-21T17:48:16+00:00",
       "title": "Intel: Insane Valuation Going Into Earnings",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T14:46:21+00:00",
-      "title": "Why Is Western Digital Stock Surging on Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T13:35:12+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

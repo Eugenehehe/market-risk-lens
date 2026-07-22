@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T18:47:18.659895+00:00",
+  "generated_at": "2026-07-22T20:02:26.583569+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 388.79,
-    "change_pct": -2.2526712759270873
+    "price": 390.34,
+    "change_pct": -1.8629792583281013
   },
   "risk": {
-    "score": 69,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T18:51:49.709503+00:00",
-      "close": 385.92
-    },
     {
       "timestamp": "2026-07-14T20:05:27.722229+00:00",
       "close": 384.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T18:47:18.659895+00:00",
       "close": 388.79
+    },
+    {
+      "timestamp": "2026-07-22T20:02:26.583569+00:00",
+      "close": 390.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T19:10:03+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T17:50:00+00:00",
       "title": "Weak Microsoft 365 Governance Raises Data and Access Risk as AI and Collaboration Expand, Says Info-Tech Research Group",
@@ -549,14 +557,6 @@
       "timestamp": "2026-07-22T16:46:16+00:00",
       "title": "Microsoft Stock Rides a Familiar Current",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T16:40:03+00:00",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
