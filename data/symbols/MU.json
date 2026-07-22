@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 970.82,
-    "change_pct": 12.173872853742518
+    "price": 974.07,
+    "change_pct": 0.3347685461774663
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 937
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 963.76
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 970.82
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 974.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T13:42:00+00:00",
+      "title": "If You'd Invested $5,000 in Micron Stock 5 Years Ago, Here's How Much You'd Have Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T13:03:40+00:00",
+      "title": "Has Micron Stock Finally Broken Its Boom-and-Bust Cycle?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:35:01+00:00",
+      "title": "Discover the top S&P500 movers in Wednesday's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:32:00+00:00",
+      "title": "Why Alphabet, Tesla, and IBM Earnings Will Decide Micron’s Fate",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:10:45+00:00",
+      "title": "Wall Street Loves SanDisk, but Retail Is Strangely Silent",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T11:58:27+00:00",
+      "title": "2 Cash-Producing Stocks with Promising Prospects and 1 We Question",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T11:45:40+00:00",
       "title": "Dow Jones Futures Fall As Oil Prices Jump; Two Big AI Earnings Movers With Google, Tesla Earnings Due",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-07-22T11:40:23+00:00",
       "title": "AI Chips Update - NVIDIA and Wowza Tackle Synthetic Video Threats Globally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T11:18:20+00:00",
-      "title": "Earnings Season Totally Hinges On Great Results From 5 Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T11:05:00+00:00",
-      "title": "Prediction: Micron and Sandisk Stocks Will Both Plummet After July 30",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T10:35:46+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Wednesday; Super Micro Computer to Advance, Micron Technology to Decline",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T10:26:00+00:00",
-      "title": "Super Micro, HPE, Intel, Marvell, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T10:22:12+00:00",
-      "title": "“If You Own Too Much Tech, You’re Going To Be Slaughtered.” Cramer Urges Investors To Take Profits",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T10:03:03+00:00",
-      "title": "INTC, AMD, MU, NVDA: Chip Stocks Tumble Again, Stalling A Nascent Rebound",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

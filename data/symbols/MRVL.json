@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 207.96,
-    "change_pct": 6.678978147122194
+    "price": 210.73,
+    "change_pct": 1.3319869205616452
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 217.53
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 222.91
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 207.96
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 210.73
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-22T13:26:46+00:00",
+      "title": "Marvell Already Crashed 40% — It May Be the Best Deal to Buy on the Semi Stock Meltdown",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:39:03+00:00",
+      "title": "What the Options Market Is Signaling About Marvell Technology Stock's Next Big Swing",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-22T10:26:00+00:00",
       "title": "Super Micro, HPE, Intel, Marvell, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:13:05+00:00",
+      "title": "Marvell: Time To Double Down On The AI Panic (Upgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-21T18:05:00+00:00",
       "title": "Why Marvell Jumped 251% in the First Half of the Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:13:00+00:00",
-      "title": "Buy, Sell or Hold MaxLinear Stock? Key Tips Ahead of Q2 Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:26:59+00:00",
-      "title": "The Two Radically Different Futures Priced Into NVIDIA Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:16:00+00:00",
-      "title": "SpaceX, Micron, Western Digital, Coinbase, Danaher, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

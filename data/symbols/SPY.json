@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 748.28,
-    "change_pct": 0.8341306310555296
+    "price": 747.47,
+    "change_pct": -0.10824824931843224
   },
   "risk": {
-    "score": 57,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 749.17
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 751.51
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 748.28
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 747.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T13:01:02+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Ahead of Major Tech Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:55:58+00:00",
+      "title": "XLK ETF Is A Sharper Bet Than Its Name Suggests",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T09:05:00+00:00",
+      "title": "Why Markets Won't Fall: Resilience In The Face Of The U.S.-Iran War",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T08:52:41+00:00",
+      "title": "Did You Listen When I Shared These Powerfully Bullish Precedents?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T07:59:39+00:00",
       "title": "Ross Gerber Renews Call For Disney Shake-Up After Stock Trails S&P 500 For 11 Years: 'Break Up The Mouse House Or Sell It'",
@@ -533,38 +565,6 @@
       "timestamp": "2026-07-22T04:00:00+00:00",
       "title": "Flash PMI Surveys To Help Assess Ongoing War Impact",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:40:00+00:00",
-      "title": "Demand For Consumer Services Has Been Volatile So Far In 2026 Due To Middle East War",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:30:00+00:00",
-      "title": "Economies Central To AI Development Drive Global Manufacturing Growth",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T00:30:00+00:00",
-      "title": "Credit And Business Applications Sit Strong",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T00:01:12+00:00",
-      "title": "Your SPLG Position Is Stretched, What's Next?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

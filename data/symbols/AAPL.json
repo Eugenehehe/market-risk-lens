@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 327.74,
-    "change_pct": 0.3521234575461607
+    "price": 324.52,
+    "change_pct": -0.9824861170440014
   },
   "risk": {
-    "score": 53,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 317.31
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 315.22
@@ -502,12 +498,56 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 327.74
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 324.52
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-22T13:11:51+00:00",
+      "title": "Apple Stumbles in Court as $634 Million Apple Watch Judgment Survives",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T13:01:56+00:00",
+      "title": "Samsung unveils wider foldable phone, hikes prices as chip costs rise",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T13:00:00+00:00",
+      "title": "Samsung debuts 3 new foldable phones as Apple readies its own",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T12:15:14+00:00",
+      "title": "Alphabet earnings offer a moment of truth in this tech stock battle",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-22T11:00:00+00:00",
       "title": "OpenAI IPO delayed by Apple threat?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T10:58:00+00:00",
+      "title": "Stocks Are Facing a Summer Storm. Don’t Bank on Help From Google Earnings.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -522,48 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-22T09:22:00+00:00",
-      "title": "STARTRADER Introduces 24/7 US Stock CFDs Across NVIDIA, Apple, Meta, and Leading Global Equities",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T08:22:00+00:00",
-      "title": "Apple vs. Nvidia: Which Is the Better Megacap Stock to Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T07:23:07+00:00",
-      "title": "Jim Cramer vs. The AI Bears: Why Apple’s Consumer Ecosystem Remains Unbreakable",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T06:00:00+00:00",
-      "title": "Alphabet Kicks Off Mag 7 Earnings, and It’s Going to Be an AI Spending Palooza",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:20:00+00:00",
-      "title": "At AI's Edge: Precision Hardware Is Moving From Data Centers To Devices",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T01:30:54+00:00",
-      "title": "The Challenges of the China Market",
+      "timestamp": "2026-07-22T10:10:28+00:00",
+      "title": "Stumbling Stock Rally Looks to Earnings for Second Half Boost",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 544.43,
-    "change_pct": 8.11406557181722
+    "price": 550.48,
+    "change_pct": 1.1112539720441683
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 534.39
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 556.81
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 544.43
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 550.48
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-22T10:03:03+00:00",
-      "title": "INTC, AMD, MU, NVDA: Chip Stocks Tumble Again, Stalling A Nascent Rebound",
+      "timestamp": "2026-07-22T13:19:43+00:00",
+      "title": "Super Micro Jumps 13% on Record $60B Order Backlog; Dell, HPE Rally on AI Server Read-Through",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-22T09:22:00+00:00",
-      "title": "STARTRADER Introduces 24/7 US Stock CFDs Across NVIDIA, Apple, Meta, and Leading Global Equities",
+      "timestamp": "2026-07-22T13:17:15+00:00",
+      "title": "What Qualcomm Stock Does When The Market Panics",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-22T04:01:00+00:00",
-      "title": "The Nightview Fund Q2 2026 Portfolio Review",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:25:17+00:00",
-      "title": "Why AMD Stock Jumped Today",
+      "timestamp": "2026-07-22T13:12:25+00:00",
+      "title": "AMD challenges Nvidia with massive Anthropic deal, though shares dip pre-market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-22T02:17:00+00:00",
-      "title": "AMD stock gets a new reason to watch from Bank of America",
+      "timestamp": "2026-07-22T13:10:11+00:00",
+      "title": "A $10,000 Investment in AMD When Lisa Su Became CEO Is Worth This Much Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-21T22:30:37+00:00",
-      "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
+      "timestamp": "2026-07-22T13:09:53+00:00",
+      "title": "AMD and Anthropic sign chip deal worth up to $5 billion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-21T22:02:41+00:00",
-      "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage — GOOGL, AAPL, AMD, TSLA, DIS In Focus",
+      "timestamp": "2026-07-22T13:03:40+00:00",
+      "title": "Has Micron Stock Finally Broken Its Boom-and-Bust Cycle?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-21T21:23:44+00:00",
-      "title": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
+      "timestamp": "2026-07-22T13:00:00+00:00",
+      "title": "Vultr and AMD Support the University of Cambridge's TESSERA AI Project to Accelerate Global Environmental Monitoring",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T13:00:00+00:00",
+      "title": "AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

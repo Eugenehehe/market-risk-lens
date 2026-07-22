@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 296.54,
-    "change_pct": 1.4470938387328491
+    "price": 295.2,
+    "change_pct": -0.4518783300735296
   },
   "risk": {
-    "score": 62,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 293.48
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 294.28
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 296.54
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 295.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T09:05:00+00:00",
+      "title": "Why Markets Won't Fall: Resilience In The Face Of The U.S.-Iran War",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T08:52:41+00:00",
+      "title": "Did You Listen When I Shared These Powerfully Bullish Precedents?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T04:30:00+00:00",
       "title": "Yields Rise, Markets Pricing In A Longer Energy Shock",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-21T18:03:23+00:00",
       "title": "The Leverage Everyone Fears Is Purging",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:50:49+00:00",
-      "title": "If There Really Is A Bubble, This Is The Cheapest Bubble In History",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T17:00:45+00:00",
-      "title": "Trump's 50% Tariff On Canada: Trade Escalation Under Section 338",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

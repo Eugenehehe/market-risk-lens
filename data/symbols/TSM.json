@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T12:24:02.849601+00:00",
+  "generated_at": "2026-07-22T14:33:16.767136+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 424.61,
-    "change_pct": 5.54561272682077
+    "price": 420.89,
+    "change_pct": -0.8760980664609952
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T13:13:52.773546+00:00",
-      "close": 421.58
-    },
     {
       "timestamp": "2026-07-14T15:04:10.651001+00:00",
       "close": 423.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 424.61
+    },
+    {
+      "timestamp": "2026-07-22T14:33:16.767136+00:00",
+      "close": 420.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T08:46:35+00:00",
+      "title": "TSMC Is Up 78%, And Wall Street Still Isn't Buying",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T17:48:16+00:00",
       "title": "Intel: Insane Valuation Going Into Earnings",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-21T08:39:14+00:00",
       "title": "ASML's €13 Billion Memory Bet Isn't A Cycle - It's A Ratchet",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T06:46:42+00:00",
-      "title": "Brace for Pricier Chips: Taiwan Semiconductor Reportedly Plans up to 10% Price Hike",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
