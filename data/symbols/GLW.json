@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T03:37:16.918695+00:00",
+  "generated_at": "2026-07-22T06:13:57.946480+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 162.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T06:25:18.746012+00:00",
-      "close": 183.11
-    },
     {
       "timestamp": "2026-07-14T08:36:05.328071+00:00",
       "close": 183.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T03:37:16.918695+00:00",
       "close": 162.41
+    },
+    {
+      "timestamp": "2026-07-22T06:13:57.946480+00:00",
+      "close": 162.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T03:20:16+00:00",
+      "title": "Could Corning (GLW) Be 17% Overvalued Following Mixed Views Ahead Of Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-21T22:04:33+00:00",
       "title": "Jim Cramer Says Stop Betting on Volatile Tech Stocks and Buy These “Boring” Sectors Instead",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-21T12:35:00+00:00",
       "title": "Get insights into the top movers in the S&P500 index of Tuesday's pre-market session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T12:20:00+00:00",
-      "title": "Calix's Q2 Earnings Beat Estimates on Healthy Revenue Growth",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

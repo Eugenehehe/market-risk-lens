@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T03:37:16.918695+00:00",
+  "generated_at": "2026-07-22T06:13:57.946480+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 970.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T06:25:18.746012+00:00",
-      "close": 937
-    },
     {
       "timestamp": "2026-07-14T08:36:05.328071+00:00",
       "close": 937
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-22T03:37:16.918695+00:00",
       "close": 970.82
+    },
+    {
+      "timestamp": "2026-07-22T06:13:57.946480+00:00",
+      "close": 970.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T05:30:00+00:00",
+      "title": "Trade Options When Others Are Fearful",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T02:19:14+00:00",
+      "title": "MU, SNDK, WDC Socks Rise Sharply For Second Day: Retail Feels Memory Pullback Is Over",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T01:04:07+00:00",
       "title": "The Real Signal In SanDisk Stock Was How Bad It Looked",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-21T21:05:00+00:00",
       "title": "Micron's 29% Drop Has Nothing to Do With Fundamentals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T20:54:26+00:00",
-      "title": "Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T20:30:14+00:00",
-      "title": "Update: Wall Street Snaps 3-Day Losing Streak in Tech-Led Bounce",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
