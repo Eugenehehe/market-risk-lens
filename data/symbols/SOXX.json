@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:02:26.583569+00:00",
+  "generated_at": "2026-07-22T21:23:24.984729+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 555.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T20:05:27.722229+00:00",
-      "close": 567.92
-    },
     {
       "timestamp": "2026-07-14T21:12:30.207692+00:00",
       "close": 567.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T20:02:26.583569+00:00",
       "close": 555.52
+    },
+    {
+      "timestamp": "2026-07-22T21:23:24.984729+00:00",
+      "close": 555.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T16:18:06+00:00",
+      "title": "Time to Buy SanDisk, Micron? BlackRock Says Chip Stock Rout Is Overdone",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T12:33:15+00:00",
       "title": "Intel Q2 Preview: Stock Hammers Nvidia with 7x Returns Since Dow Swap — Will Earnings Fuel Further Gains?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T04:56:52+00:00",
       "title": "GPU Depreciation May Crush The Software Sector Margins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T03:20:00+00:00",
-      "title": "At AI's Edge: Precision Hardware Is Moving From Data Centers To Devices",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
