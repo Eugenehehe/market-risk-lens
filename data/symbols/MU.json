@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:47:03.428499+00:00",
+  "generated_at": "2026-07-22T10:54:15.977513+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 970.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T10:22:42.125563+00:00",
-      "close": 937
-    },
     {
       "timestamp": "2026-07-14T11:52:04.976992+00:00",
       "close": 937
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-22T08:47:03.428499+00:00",
       "close": 970.82
+    },
+    {
+      "timestamp": "2026-07-22T10:54:15.977513+00:00",
+      "close": 970.82
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-22T05:30:00+00:00",
       "title": "Trade Options When Others Are Fearful",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T05:01:18+00:00",
+      "title": "Readers Flag 11 Ideal 'Safer' Dividend Buys In June",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T21:47:00+00:00",
       "title": "Nvidia, Micron just got hit by an AI model from Beijing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T21:23:44+00:00",
-      "title": "Stock Market Today, July 21: Micron Surges 12% as Semiconductor Strength Lifts Nasdaq",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:47:03.428499+00:00",
+  "generated_at": "2026-07-22T10:54:15.977513+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 552.69,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-14T10:22:42.125563+00:00",
-      "close": 553.61
-    },
     {
       "timestamp": "2026-07-14T11:52:04.976992+00:00",
       "close": 553.61
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-22T08:47:03.428499+00:00",
       "close": 552.69
+    },
+    {
+      "timestamp": "2026-07-22T10:54:15.977513+00:00",
+      "close": 552.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T04:56:52+00:00",
+      "title": "GPU Depreciation May Crush The Software Sector Margins",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T03:20:00+00:00",
       "title": "At AI's Edge: Precision Hardware Is Moving From Data Centers To Devices",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-21T10:02:59+00:00",
       "title": "Nvidia Stock Hasn't Been This Cheap In 10 Years: Is This A Screaming Buy?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T09:13:13+00:00",
-      "title": "QUICK SPARK: Semiconductor ETFs Dominate Inflows As SOXX, SOXL Pull In Over $2.1 Billion in One Day",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
