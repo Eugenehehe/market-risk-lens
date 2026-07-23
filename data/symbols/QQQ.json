@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:42:49.482948+00:00",
+  "generated_at": "2026-07-23T23:42:30.596371+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 691.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T21:33:34.325212+00:00",
-      "close": 717.74
-    },
     {
       "timestamp": "2026-07-15T22:36:06.968593+00:00",
       "close": 717.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-23T22:42:49.482948+00:00",
       "close": 691.96
+    },
+    {
+      "timestamp": "2026-07-23T23:42:30.596371+00:00",
+      "close": 691.96
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-23T16:00:00+00:00",
       "title": "The Fed To Signal The September Hike, With More To Come - The FOMC Preview",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T15:46:47+00:00",
+      "title": "Trump Official Buys ETF Version of 'Keep Your Enemies Closer'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-23T13:16:10+00:00",
       "title": "Brent Tops $100, Alphabet, Tesla Sink Nasdaq 100: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:39:00+00:00",
-      "title": "Markets Track Lower As AI Spending Soars",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
