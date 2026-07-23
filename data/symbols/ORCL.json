@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:11:37.025764+00:00",
+  "generated_at": "2026-07-23T09:37:26.299049+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 125.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T05:56:17.871416+00:00",
-      "close": 127.94
-    },
     {
       "timestamp": "2026-07-15T08:20:00.239845+00:00",
       "close": 127.94
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T07:11:37.025764+00:00",
       "close": 125.84
+    },
+    {
+      "timestamp": "2026-07-23T09:37:26.299049+00:00",
+      "close": 125.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T03:05:00+00:00",
+      "title": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T23:40:53+00:00",
       "title": "Uber Cuts 10% of Customer Service Jobs, Citing ‘Embrace’ of AI",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T18:34:45+00:00",
       "title": "CRM Paid Holders $63 Billion While The Stock Went Nowhere",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T18:03:00+00:00",
-      "title": "Analyst sends chilling Oracle stock verdict",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

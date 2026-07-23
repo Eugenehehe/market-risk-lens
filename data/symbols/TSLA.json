@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:11:37.025764+00:00",
+  "generated_at": "2026-07-23T09:37:26.299049+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 374.01,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T05:56:17.871416+00:00",
-      "close": 396.18
-    },
     {
       "timestamp": "2026-07-15T08:20:00.239845+00:00",
       "close": 396.18
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-23T07:11:37.025764+00:00",
       "close": 374.01
+    },
+    {
+      "timestamp": "2026-07-23T09:37:26.299049+00:00",
+      "close": 374.01
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-23T07:08:00+00:00",
+      "title": "Tesla's record quarter costs $71bn after Musk spending spree. Is there a silver lining?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T05:16:43+00:00",
+      "title": "TSLA Stock Extends Tumble Overnight: Munster Sees Capex Blowing Past Street Estimates Next Year Too",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T05:01:38+00:00",
       "title": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T03:05:00+00:00",
+      "title": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T01:13:28+00:00",
       "title": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T00:10:09+00:00",
-      "title": "SPCX Gains After Hours Ahead Of Upcoming Starship Test Flight— Tesla Books $1B SpaceX Gain",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T00:01:48+00:00",
-      "title": "Tesla touts 380,000 unsupervised robotaxi miles with ‘zero notable incidents’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T23:55:00+00:00",
-      "title": "Review & Preview: Showtime",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:11:37.025764+00:00",
+  "generated_at": "2026-07-23T09:37:26.299049+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 325.89,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T05:56:17.871416+00:00",
-      "close": 314.86
-    },
     {
       "timestamp": "2026-07-15T08:20:00.239845+00:00",
       "close": 314.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T07:11:37.025764+00:00",
       "close": 325.89
+    },
+    {
+      "timestamp": "2026-07-23T09:37:26.299049+00:00",
+      "close": 325.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T05:15:00+00:00",
+      "title": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T01:34:00+00:00",
       "title": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T21:04:27+00:00",
       "title": "Apple Eyes AI Demand With Mac Updates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:04:00+00:00",
-      "title": "The Risk in Apple's Stock That Nobody Is Talking About",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
