@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T19:50:09.543663+00:00",
+  "generated_at": "2026-07-23T20:47:24.658693+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.56,
-    "change_pct": -1.1842925410346927
+    "price": 47.64,
+    "change_pct": -1.018076044047378
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T17:58:11.168719+00:00",
-      "close": 46.84
-    },
     {
       "timestamp": "2026-07-15T19:24:32.798961+00:00",
       "close": 47.45
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 47.56
+    },
+    {
+      "timestamp": "2026-07-23T20:47:24.658693+00:00",
+      "close": 47.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T19:16:23+00:00",
+      "title": "Arista Networks Stock Runs On A Different Fuel",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T14:55:00+00:00",
+      "title": "Penguin's ClusterWareAI Expands: Is the Platform Strategy Paying Off?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T14:31:00+00:00",
       "title": "SMCI vs. HPE: Which AI Infrastructure Stock Has More Upside Now?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-22T19:26:17+00:00",
       "title": "What HPE Stock’s AI Order Book Was Saying Before The Surge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T17:23:00+00:00",
-      "title": "The AI Bull Case Lives On: What You Need to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T17:19:31+00:00",
-      "title": "INFQ Stock Surges After Three DOE Awards In $5B Genesis Mission – HPE, WLY Also Gain On Joining Federal AI Initiative",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

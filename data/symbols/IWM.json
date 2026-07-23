@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T19:50:09.543663+00:00",
+  "generated_at": "2026-07-23T20:47:24.658693+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 291.37,
-    "change_pct": -0.8237176214302755
+    "price": 292.09,
+    "change_pct": -0.5786446100956577
   },
   "risk": {
-    "score": 57,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T17:58:11.168719+00:00",
-      "close": 296.22
-    },
     {
       "timestamp": "2026-07-15T19:24:32.798961+00:00",
       "close": 295.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 291.37
+    },
+    {
+      "timestamp": "2026-07-23T20:47:24.658693+00:00",
+      "close": 292.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T16:00:00+00:00",
+      "title": "The Fed To Signal The September Hike, With More To Come - The FOMC Preview",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T14:51:00+00:00",
       "title": "Global Wealth Research - July 2026",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T10:40:00+00:00",
       "title": "Treasury Yields Push Higher, Testing Wall Street's Nerve",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T10:29:11+00:00",
-      "title": "My Three Most Reliable Market Indicators Are Still Flashing Green",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

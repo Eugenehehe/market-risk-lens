@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T19:50:09.543663+00:00",
+  "generated_at": "2026-07-23T20:47:24.658693+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 437.1,
-    "change_pct": -1.0638297872340385
+    "price": 439.34,
+    "change_pct": -0.5568130375735669
   },
   "risk": {
-    "score": 59,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T17:58:11.168719+00:00",
-      "close": 404.34
-    },
     {
       "timestamp": "2026-07-15T19:24:32.798961+00:00",
       "close": 406.94
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 437.1
+    },
+    {
+      "timestamp": "2026-07-23T20:47:24.658693+00:00",
+      "close": 439.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T19:16:23+00:00",
+      "title": "Arista Networks Stock Runs On A Different Fuel",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T18:30:00+00:00",
+      "title": "Tensormesh and AMD Collaborate to Empower Fewer GPUs to Serve More Models",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T16:00:59+00:00",
+      "title": "Prediction: Dell Technologies Stock Could Be 30% Higher by This Time Next Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T14:37:00+00:00",
       "title": "Zacks Investment Ideas feature highlights: NVIDIA, Google, Palantir, ServiceNow and Super Micro Computer",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-23T13:16:07+00:00",
       "title": "An Agentic AI Tide Lifting All Boats",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:13:13+00:00",
-      "title": "What Could Keep Apple Stock Climbing?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:27:07+00:00",
-      "title": "Super Micro Just Doubled Its Margins — and That Could Rewrite the AI Infrastructure Playbook",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T07:12:35+00:00",
-      "title": "Is Axon (AXON) Quietly Recasting Its AI Governance To Reshape Its Public Safety Platform?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

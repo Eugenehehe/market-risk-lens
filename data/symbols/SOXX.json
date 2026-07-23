@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T19:50:09.543663+00:00",
+  "generated_at": "2026-07-23T20:47:24.658693+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 546.87,
-    "change_pct": -1.5570996543778803
+    "price": 551.24,
+    "change_pct": -0.7704493087557607
   },
   "risk": {
-    "score": 63,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T17:58:11.168719+00:00",
-      "close": 553.64
-    },
     {
       "timestamp": "2026-07-15T19:24:32.798961+00:00",
       "close": 550.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 546.87
+    },
+    {
+      "timestamp": "2026-07-23T20:47:24.658693+00:00",
+      "close": 551.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T14:46:09+00:00",
+      "title": "Bitcoin Outpaces Semiconductor Stocks by 25% as VanEck's Matthew Sigel Sees Path Back to $100,000",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T13:16:07+00:00",
       "title": "An Agentic AI Tide Lifting All Boats",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-22T12:30:41+00:00",
       "title": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T10:50:00+00:00",
-      "title": "Earnings, Earnings, Earnings Are What Matter Most",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

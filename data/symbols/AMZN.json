@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T19:50:09.543663+00:00",
+  "generated_at": "2026-07-23T20:47:24.658693+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 233.05,
-    "change_pct": -4.819277108433728
+    "price": 233.66,
+    "change_pct": -4.570144986726565
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T17:58:11.168719+00:00",
-      "close": 254.9
-    },
     {
       "timestamp": "2026-07-15T19:24:32.798961+00:00",
       "close": 254.49
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 233.05
+    },
+    {
+      "timestamp": "2026-07-23T20:47:24.658693+00:00",
+      "close": 233.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T19:28:59+00:00",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T19:24:57+00:00",
+      "title": "Amazon Stock Slips Below Key Level As Google Sets Tone For Hefty AI Spending",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T19:10:03+00:00",
       "title": "These dow jones stocks are moving in today's session",
@@ -514,57 +530,41 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-23T18:39:23+00:00",
+      "title": "SpaceX Leads Race To Dodge Orbital Debris As Risk Outpaces Regulation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T17:56:15+00:00",
+      "title": "Alphabet Just Tied Amazon’s $200 Billion Capex Guidance. Could Amazon Raise the Bar Even Higher on July 30?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T17:12:08+00:00",
+      "title": "Amazon Faces Senate Probe Over Alleged China Influence",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T16:53:22+00:00",
+      "title": "Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T16:40:04+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:07:00+00:00",
-      "title": "The Best Stocks to Invest $500 in Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:00:00+00:00",
-      "title": "IBM may be caught up in latest bout of AI volatility: 'Don't concentrate in any one theme'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:44:00+00:00",
-      "title": "Alphabet Stock Is Falling as AI Spending Continues to Mount",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:36:00+00:00",
-      "title": "ControlMonkey Signs Strategic Collaboration Agreement with AWS to Advance Cyber Resilience and Cloud Disaster Recovery Readiness",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:29:01+00:00",
-      "title": "MercadoLibre is Down 10% This Year But Its Relentless Growth Has One Analyst Predicting 55% Gains",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:24:29+00:00",
-      "title": "Weak housing market hurts big and bulky last-mile delivery",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
