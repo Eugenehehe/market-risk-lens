@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:06:53.678409+00:00",
+  "generated_at": "2026-07-23T04:30:39.800826+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 555.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T00:07:26.582028+00:00",
-      "close": 567.92
-    },
     {
       "timestamp": "2026-07-15T03:31:01.025472+00:00",
       "close": 567.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T01:06:53.678409+00:00",
       "close": 555.52
+    },
+    {
+      "timestamp": "2026-07-23T04:30:39.800826+00:00",
+      "close": 555.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-22T23:35:00+00:00",
+      "title": "Is AI Making Inflation Better Or Worse?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T16:18:06+00:00",
       "title": "Time to Buy SanDisk, Micron? BlackRock Says Chip Stock Rout Is Overdone",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-22T06:21:49+00:00",
       "title": "What's Going on With AMD Stock Wednesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T04:56:52+00:00",
-      "title": "GPU Depreciation May Crush The Software Sector Margins",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

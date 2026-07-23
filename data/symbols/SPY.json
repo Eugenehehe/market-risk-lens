@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:06:53.678409+00:00",
+  "generated_at": "2026-07-23T04:30:39.800826+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 747.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T00:07:26.582028+00:00",
-      "close": 751.83
-    },
     {
       "timestamp": "2026-07-15T03:31:01.025472+00:00",
       "close": 751.83
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-23T01:06:53.678409+00:00",
       "close": 747.41
+    },
+    {
+      "timestamp": "2026-07-23T04:30:39.800826+00:00",
+      "close": 747.41
     }
   ],
   "events": [
@@ -522,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-22T23:35:00+00:00",
+      "title": "Is AI Making Inflation Better Or Worse?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-22T22:53:31+00:00",
       "title": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics —  TSLA, GOOGL, PSKY, RDDT, AMZN In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-22T21:05:00+00:00",
+      "title": "Market Valuation: Is The Market Still Overvalued?",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-22T19:20:40+00:00",
       "title": "Stock Market Today: Nasdaq Weak As Oil Rises; GE Vernova Slides, SMCI Spikes (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T19:11:19+00:00",
-      "title": "VIG’s 1.5% yield masks a 20-year streak of uncut dividend growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T18:20:35+00:00",
-      "title": "Want an Extra $100 Per Month? Put This Much Into the SPYI ETF",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
