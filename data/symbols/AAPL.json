@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 321.7,
-    "change_pct": -1.285709902114207
+    "price": 320.51,
+    "change_pct": -1.6508637883948518
   },
   "risk": {
-    "score": 61,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 314.86
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 324.08
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 321.7
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 320.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T15:00:25+00:00",
+      "title": "Forget the Other Five: These 2 Mag7 Stocks Deserve Your Attention",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T15:00:00+00:00",
+      "title": "OpenSearchCon North America 2026 to Showcase Five Years of Innovation Powering Enterprise Search, Observability and Analytics",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T14:00:23+00:00",
+      "title": "Apple (AAPL) Earnings Expected to Grow: Should You Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:55:35+00:00",
+      "title": "Goldman Sachs Trust’s $2.4 Billion Portfolio: What 724 Positions Tell Us About Where Wall Street Is Betting",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T13:23:21+00:00",
       "title": "The Big Question Hanging Over Netflix Stock",
@@ -522,48 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-23T12:25:48+00:00",
+      "title": "Apple: The Smart Money Is Buying Ahead Of Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T12:13:31+00:00",
       "title": "Verizon Was Booted From the Dow – 5 Dividend Giants Got the Same Treatment and Eventually Soared",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:13:13+00:00",
-      "title": "What Could Keep Apple Stock Climbing?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:00:00+00:00",
-      "title": "Apple is 'standing out' from the pack: Does it represent the anti-AI trade?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T11:50:00+00:00",
-      "title": "Is Apple Stock a Buy Right Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T11:18:24+00:00",
-      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Is Raising Prices Up to 10%. Can Customers Push Back?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:35:56+00:00",
-      "title": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 100.59,
-    "change_pct": -1.9781718963165051
+    "price": 101.2,
+    "change_pct": -1.3837458585071127
   },
   "risk": {
-    "score": 66,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 107.76
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 102.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 100.59
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 101.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T15:19:06+00:00",
+      "title": "Intel’s 85% Foundry Yield Could Ignite a Second-Half Rebound",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T13:06:00+00:00",
       "title": "Nvidia vs. Intel: Which is the Better AI Chip Stock to Own for the Next 3 Years?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T12:30:45+00:00",
       "title": "Intel and AMD Seek Longer China CPU Deals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:24:12+00:00",
-      "title": "Intel and AMD Lock In China Demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

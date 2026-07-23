@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 736.43,
-    "change_pct": -1.4690731994487671
+    "price": 738.31,
+    "change_pct": -1.2175378975395112
   },
   "risk": {
-    "score": 62,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 751.87
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 754.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 736.43
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 738.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T14:33:17+00:00",
+      "title": "How Much Micron (MU) Do You Unknowingly Own?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T13:06:26+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Major Tech Stocks Sell-Off",
@@ -517,6 +525,22 @@
       "timestamp": "2026-07-23T12:38:53+00:00",
       "title": "DGRO Is Near A High, Resist The Urge To Act",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:12:01+00:00",
+      "title": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T11:49:47+00:00",
+      "title": "The Credit Market's Warning On Big Tech Spending Grows Louder",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-23T10:29:11+00:00",
       "title": "My Three Most Reliable Market Indicators Are Still Flashing Green",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T10:13:24+00:00",
-      "title": "Nancy Pelosi’s Family Turned $30 Million Into $278 Million Trading Stocks. Congress Just Voted to Ban It During Her Final Term.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T09:40:01+00:00",
-      "title": "Iran's Revolutionary Guards Say They Targeted Al-Adiri Base In Kuwait; Warn Britain Over Allowing U.S. Bombers To Fly From Its Bases",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T09:18:09+00:00",
-      "title": "'Justice Department to Speed Up Merger Reviews by Asking Less of Companies' - WSJ Exclusive",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

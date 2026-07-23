@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 689.19,
-    "change_pct": -2.291061175303033
+    "price": 692.38,
+    "change_pct": -1.8388034309208212
   },
   "risk": {
-    "score": 69,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 719.69
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 716.35
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 689.19
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 692.38
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T12:12:01+00:00",
+      "title": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T11:49:47+00:00",
+      "title": "The Credit Market's Warning On Big Tech Spending Grows Louder",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T10:54:22+00:00",
       "title": "Corporate Insiders Selling As Retail Investors Buy Stock Hand Over Fist",
@@ -517,6 +533,14 @@
       "timestamp": "2026-07-23T10:40:00+00:00",
       "title": "Treasury Yields Push Higher, Testing Wall Street's Nerve",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T10:37:29+00:00",
+      "title": "Tesla's AI Bet Flounders As Alphabet's Gemini Shines — What It Means For AI ETFs",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T08:47:25+00:00",
       "title": "A Checkup On The Economic Screws Holding The Economy Together",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:42:19+00:00",
-      "title": "Stock Market Today: Dow, Nasdaq 100, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings—Intel, ServiceNow, Quantumscape in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:40:42+00:00",
-      "title": "Mohamed El-Erian Warns Higher Oil, 'Massive Bond Issuance' Are Driving Global Yield Surge Ahead Of Fed Meeting",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:15:00+00:00",
-      "title": "7 Things To Watch For After The Fed Announces July Interest Rate Decision",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

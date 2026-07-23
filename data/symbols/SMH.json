@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 576.22,
-    "change_pct": -1.821403622361173
+    "price": 579.46,
+    "change_pct": -1.269359867782105
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 600.31
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 587.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 576.22
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 579.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T10:37:29+00:00",
+      "title": "Tesla's AI Bet Flounders As Alphabet's Gemini Shines — What It Means For AI ETFs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T07:30:00+00:00",
       "title": "CHPY: A Risky Dip That Could Be Worth Buying For Weekly Cash Flow",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-22T10:13:05+00:00",
       "title": "Marvell: Time To Double Down On The AI Panic (Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T10:01:49+00:00",
-      "title": "What's Going on With Intel Stock Wednesday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

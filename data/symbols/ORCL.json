@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 120.16,
-    "change_pct": -4.513668150031791
+    "price": 121,
+    "change_pct": -3.8461538461538436
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 127.94
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 131.38
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 120.16
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 121
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T15:28:05+00:00",
+      "title": "History Has An Opinion On This INTU Price Level",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T14:26:00+00:00",
+      "title": "Global Healthcare IT Market to Reach $961.26 Billion by 2030, Driven by AI, EHR and Telehealth Adoption",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T14:00:30+00:00",
+      "title": "Prediction: Oracle Stock Could Reach a New High by 2027",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T12:40:00+00:00",
       "title": "Oracle's Stock Crash Has Cost Larry Ellison $213 Billion in 10 Months. Should Investors Buy the Dip?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-23T03:05:00+00:00",
       "title": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T23:40:53+00:00",
-      "title": "Uber Cuts 10% of Customer Service Jobs, Citing ‘Embrace’ of AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:03:28+00:00",
-      "title": "Here’s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T20:22:40+00:00",
-      "title": "Data Center Costs Are Racking Up. What That Means for Oracle Stock Here.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

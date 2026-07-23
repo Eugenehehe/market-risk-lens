@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 155.07,
-    "change_pct": 0.6555887316629816
+    "price": 157.34,
+    "change_pct": 2.129040633519419
   },
   "risk": {
-    "score": 56,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 187.64
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 173.47
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 155.07
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 157.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T14:18:00+00:00",
+      "title": "Cell Culture Market Analysis by Consumables, Vessels, Equipment, Application, and Competition - Global Forecast to 2031",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:15:06+00:00",
+      "title": "Countdown to Corning (GLW) Q2 Earnings: A Look at Estimates Beyond Revenue and EPS",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T04:16:35+00:00",
       "title": "NVIDIA is Acquiring ‘Dark Fiber’ Across the United States. Here’s Why That’s a Big Deal.",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-21T22:04:33+00:00",
       "title": "Jim Cramer Says Stop Betting on Volatile Tech Stocks and Buy These “Boring” Sectors Instead",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T16:46:40+00:00",
-      "title": "This Analyst Says Corning’s Q2 Earnings Might Not Be A ‘Large Catalyst’ – Sees ‘Modest’ Revenue Upside Opportunity",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-21T15:31:14+00:00",
-      "title": "Tesla Earnings Could Move $83 Billion in Market Value",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T15:23:47.039417+00:00",
+  "generated_at": "2026-07-23T16:56:28.742376+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 290.52,
-    "change_pct": -1.11303992647811
+    "price": 291.53,
+    "change_pct": -0.7692569522448123
   },
   "risk": {
-    "score": 59,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T13:29:13.249906+00:00",
-      "close": 294.51
-    },
     {
       "timestamp": "2026-07-15T15:09:33.562161+00:00",
       "close": 297
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 290.52
+    },
+    {
+      "timestamp": "2026-07-23T16:56:28.742376+00:00",
+      "close": 291.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T11:49:47+00:00",
+      "title": "The Credit Market's Warning On Big Tech Spending Grows Louder",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T10:54:22+00:00",
       "title": "Corporate Insiders Selling As Retail Investors Buy Stock Hand Over Fist",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T01:40:00+00:00",
       "title": "When Monetary Policy Surprises Stop Translating",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:05:00+00:00",
-      "title": "Market Valuation: Is The Market Still Overvalued?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
