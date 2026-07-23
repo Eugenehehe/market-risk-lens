@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T13:08:25.586533+00:00",
+  "generated_at": "2026-07-23T15:23:47.039417+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 374.01,
-    "change_pct": -1.2983928430053138
+    "price": 319.94,
+    "change_pct": -14.456832705007884
   },
   "risk": {
-    "score": 61,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T11:53:44.201983+00:00",
-      "close": 396.18
-    },
     {
       "timestamp": "2026-07-15T13:29:13.249906+00:00",
       "close": 396.22
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-23T13:08:25.586533+00:00",
       "close": 374.01
+    },
+    {
+      "timestamp": "2026-07-23T15:23:47.039417+00:00",
+      "close": 319.94
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-23T12:35:01+00:00",
-      "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
+      "timestamp": "2026-07-23T14:35:01+00:00",
+      "title": "Which S&P500 stocks are gapping on Thursday?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:59:33+00:00",
-      "title": "Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",
+      "timestamp": "2026-07-23T13:49:29+00:00",
+      "title": "Tesla Should Break Itself Into Two Companies",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:43:00+00:00",
-      "title": "Wall Street set to extend losses after mixed earnings from Alphabet and Tesla",
+      "timestamp": "2026-07-23T13:48:11+00:00",
+      "title": "Stock Market Today: Dow Jones Index Falls 400 Points As Alphabet, Tesla Dive On Earnings News (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:42:51+00:00",
-      "title": "Stocks Fall Pre-Bell Amid Rising Middle East Tensions; Traders Parse Alphabet, Tesla Results",
+      "timestamp": "2026-07-23T13:42:29+00:00",
+      "title": "Update: Tesla Shares Fall After Q2 Adjusted Earnings Decline, Truist Cuts Price Target",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:39:40+00:00",
-      "title": "Dan Ives Says AI Capex Boom Continues 'Full Steam Ahead' After TSLA, GOOGL Earnings — Gene Munster Notes Tech Industry Still In '3rd Inning'",
+      "timestamp": "2026-07-23T13:21:23+00:00",
+      "title": "Wall Street set for lower open as Alphabet and Tesla disappoint while oil prices climb: Dow Jones, S&P, Nasdaq, Futures",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:38:25+00:00",
-      "title": "Energy Transition Today - Idaho's Energy Future Brightens With Major Solar Projects",
+      "timestamp": "2026-07-23T13:15:18+00:00",
+      "title": "Tesla Slides 10% on Earnings Miss Despite Record Deliveries; Rivian, Lucid Slip",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:06:07+00:00",
-      "title": "Heavy AI Expenses Weigh on Wall Street Pre-Bell; Asia Up, Europe Off",
+      "timestamp": "2026-07-23T13:06:26+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Major Tech Stocks Sell-Off",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T10:59:24+00:00",
-      "title": "Tesla Second-Quarter Earnings Unexpectedly Decline Amid Higher R&D, AI Costs",
+      "timestamp": "2026-07-23T12:51:49+00:00",
+      "title": "Update: US Equity Futures Drop Pre-Bell as Mid-East Conflict Expands to Potentially Include Red Sea",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

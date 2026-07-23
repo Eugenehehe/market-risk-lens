@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T13:08:25.586533+00:00",
+  "generated_at": "2026-07-23T15:23:47.039417+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 396.81,
-    "change_pct": 2.667529107373867
+    "price": 388.48,
+    "change_pct": -2.099241450568279
   },
   "risk": {
-    "score": 72,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T11:53:44.201983+00:00",
-      "close": 389.11
-    },
     {
       "timestamp": "2026-07-15T13:29:13.249906+00:00",
       "close": 389.11
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-23T13:08:25.586533+00:00",
       "close": 396.81
+    },
+    {
+      "timestamp": "2026-07-23T15:23:47.039417+00:00",
+      "close": 388.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T12:38:10+00:00",
+      "title": "TXN Keeps Climbing. Should You Climb On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:38:04+00:00",
+      "title": "Qualcomm's AI Story Is Hot. Why Is First Solar's Future Clearer?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:13:11+00:00",
+      "title": "Does AMD Stock Amplify Your Portfolio Or Balance It?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T11:18:24+00:00",
       "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Is Raising Prices Up to 10%. Can Customers Push Back?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-23T09:58:48+00:00",
       "title": "2 Semiconductor Stocks with Impressive Fundamentals and 1 Facing Challenges",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:35:56+00:00",
-      "title": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T04:22:29+00:00",
-      "title": "Broadcom: The Dip Won't Last Long, Great Opportunity To Own The AI Leader",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T03:58:09+00:00",
-      "title": "Broadcom Might Be Flying Too Close To The Sun",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

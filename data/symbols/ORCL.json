@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T13:08:25.586533+00:00",
+  "generated_at": "2026-07-23T15:23:47.039417+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 125.84,
-    "change_pct": -0.952380952380949
+    "price": 120.16,
+    "change_pct": -4.513668150031791
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T11:53:44.201983+00:00",
-      "close": 127.94
-    },
     {
       "timestamp": "2026-07-15T13:29:13.249906+00:00",
       "close": 127.94
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-23T13:08:25.586533+00:00",
       "close": 125.84
+    },
+    {
+      "timestamp": "2026-07-23T15:23:47.039417+00:00",
+      "close": 120.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T12:40:00+00:00",
+      "title": "Oracle's Stock Crash Has Cost Larry Ellison $213 Billion in 10 Months. Should Investors Buy the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T10:54:22+00:00",
+      "title": "Corporate Insiders Selling As Retail Investors Buy Stock Hand Over Fist",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T10:46:03+00:00",
+      "title": "How Oracle Can Make The Right Call On AI Demand And Still Lose",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T08:29:22+00:00",
+      "title": "Trump Is Expanding a Pledge That Could Stop AI Data Centers From Hiking Your Electricity Bill— Here's Who Just Signed On",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T03:05:00+00:00",
       "title": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-22T20:22:40+00:00",
       "title": "Data Center Costs Are Racking Up. What That Means for Oracle Stock Here.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T19:39:12+00:00",
-      "title": "The Cash Machine The Market Put On Sale: INTU",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T19:38:28+00:00",
-      "title": "How 5 Giant Stocks Are Causing a Potentially Nuclear Debt Headache for the U.S. Stock Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T19:28:22+00:00",
-      "title": "OpenAI Bets $750 Billion On Computing Power In Georgia It Cannot Afford",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T18:34:45+00:00",
-      "title": "CRM Paid Holders $63 Billion While The Stock Went Nowhere",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

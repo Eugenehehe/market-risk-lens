@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T13:08:25.586533+00:00",
+  "generated_at": "2026-07-23T15:23:47.039417+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 390.34,
-    "change_pct": -1.8629792583281013
+    "price": 378.56,
+    "change_pct": -3.0178818465952717
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T11:53:44.201983+00:00",
-      "close": 384.93
-    },
     {
       "timestamp": "2026-07-15T13:29:13.249906+00:00",
       "close": 384.93
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-23T13:08:25.586533+00:00",
       "close": 390.34
+    },
+    {
+      "timestamp": "2026-07-23T15:23:47.039417+00:00",
+      "close": 378.56
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-23T11:01:58+00:00",
-      "title": "IBM buys HRL Laboratories in shift to two-track quantum computing strategy",
+      "timestamp": "2026-07-23T13:50:32+00:00",
+      "title": "Warren Buffett’s Primary Reason for Buying Alphabet is Mine and Should Be Yours",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:00:00+00:00",
-      "title": "Power Apps vs Custom Software Development for Mid-Market Teams",
+      "timestamp": "2026-07-23T13:30:29+00:00",
+      "title": "Bank of America Gives AMD Investors a New Reason to Watch",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T10:36:04+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; ServiceNow to Advance, Tesla to Decline",
+      "timestamp": "2026-07-23T13:25:20+00:00",
+      "title": "Microsoft at $390: Irrational AI Capex Fear Is Your Opportunity",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T10:14:48+00:00",
-      "title": "2 S&P 500 Stocks Worth Your Attention and 1 We Brush Off",
+      "timestamp": "2026-07-23T13:00:00+00:00",
+      "title": "Darrow Now Available in the Microsoft Marketplace",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T08:45:43+00:00",
-      "title": "Microsoft: Strong Buy Despite The AI CapEx Problem",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:15:00+00:00",
-      "title": "7 Things To Watch For After The Fed Announces July Interest Rate Decision",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T07:26:03+00:00",
-      "title": "CRM, MSFT Are Already Weathering The 'SaaSpocalypse' — Now Jack Dorsey's Block Is Buzzing In With A New AI Rival",
+      "timestamp": "2026-07-23T12:13:13+00:00",
+      "title": "What Could Keep Apple Stock Climbing?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T07:00:00+00:00",
-      "title": "Big tech sovereign AI tools promise control, but drive lock-in",
+      "timestamp": "2026-07-23T12:04:15+00:00",
+      "title": "Oppenheimer Issues Stark Message on Microsoft Stock Ahead of Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:01:00+00:00",
+      "title": "Knox Systems Partners with Microsoft to Accelerate Secure Government Access to Commercial Innovation on Microsoft Azure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:00:25+00:00",
+      "title": "This Dog Sniffs Out A Buy Point While Monitoring AI Behavior With AWS, Azure, Google",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

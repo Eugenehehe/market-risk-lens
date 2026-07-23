@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T13:08:25.586533+00:00",
+  "generated_at": "2026-07-23T15:23:47.039417+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 627.17,
-    "change_pct": -2.5846134729190284
+    "price": 601.22,
+    "change_pct": -4.137634134285751
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T11:53:44.201983+00:00",
-      "close": 661.04
-    },
     {
       "timestamp": "2026-07-15T13:29:13.249906+00:00",
       "close": 661.04
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-23T13:08:25.586533+00:00",
       "close": 627.17
+    },
+    {
+      "timestamp": "2026-07-23T15:23:47.039417+00:00",
+      "close": 601.22
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-23T11:44:12+00:00",
-      "title": "Space Exploration Technologies Corp. (SPCX) Stock Just Lost $1 Trillion in a Month. Is the Selloff a Buying Opportunity or a Warning?",
+      "timestamp": "2026-07-23T13:54:00+00:00",
+      "title": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:26:00+00:00",
-      "title": "CrowdStrike Just Became Wall Street's Newest Stock-Split Stock, but Something More \"Magnificent\" May Be Next",
+      "timestamp": "2026-07-23T13:50:32+00:00",
+      "title": "Warren Buffett’s Primary Reason for Buying Alphabet is Mine and Should Be Yours",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T08:31:00+00:00",
-      "title": "Alphabet Stock Is Falling as AI Spending Continues to Mount",
+      "timestamp": "2026-07-23T13:26:55+00:00",
+      "title": "I Won’t Stop Buying Meta Even With The High Capex Spend",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T08:15:00+00:00",
-      "title": "7 Things To Watch For After The Fed Announces July Interest Rate Decision",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T07:35:00+00:00",
-      "title": "Should You Buy Amazon and Meta Platforms Stocks Before July 29?",
+      "timestamp": "2026-07-23T13:17:00+00:00",
+      "title": "Virtuix Expects to Report Major Sales Growth Following Meta Launch; Announces First Quarter FY2027 Results Conference Call",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T04:16:38+00:00",
-      "title": "BlackRock Leads $12B Meta Data Center Debt, Buys Aligned",
+      "timestamp": "2026-07-23T13:14:31+00:00",
+      "title": "How Alberta won the data infrastructure race New York just lost",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T04:03:00+00:00",
-      "title": "Jim Cramer reveals 4 surging chip stocks he likes best",
+      "timestamp": "2026-07-23T13:12:41+00:00",
+      "title": "Google Stock Falls 5% Amid Questions Over AI Leadership, Gemini 4 Roadmap",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T03:53:32+00:00",
-      "title": "Prediction: Meta Platforms Will Soar on July 29 When It Makes This Announcement",
+      "timestamp": "2026-07-23T13:01:00+00:00",
+      "title": "DISCO Appoints Andre Mintz to Board of Directors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:51:28+00:00",
+      "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
