@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T18:15:54.396360+00:00",
+  "generated_at": "2026-07-23T19:50:09.543663+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 414.6,
-    "change_pct": -1.5692884784311745
+    "price": 414.03,
+    "change_pct": -1.7046129009282818
   },
   "risk": {
-    "score": 63,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T16:44:58.095392+00:00",
-      "close": 412.47
-    },
     {
       "timestamp": "2026-07-15T17:58:11.168719+00:00",
       "close": 419.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T18:15:54.396360+00:00",
       "close": 414.6
+    },
+    {
+      "timestamp": "2026-07-23T19:50:09.543663+00:00",
+      "close": 414.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T14:46:54+00:00",
+      "title": "Taiwan Semiconductor: Inside The Price Dispute That Can Change The AI Supply Chain",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T13:36:26+00:00",
       "title": "ASML: Surging AI CapEx A Catalyst",
@@ -517,6 +525,14 @@
       "timestamp": "2026-07-23T13:16:07+00:00",
       "title": "An Agentic AI Tide Lifting All Boats",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T11:00:58+00:00",
+      "title": "BorZen Tien's Recent Buy: Acquires $301K In Taiwan Semiconductor Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-22T13:00:00+00:00",
       "title": "TSMC Q2 Earnings Call: What It Means For SMH",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T12:35:00+00:00",
-      "title": "Nomura Core Equity Fund Q2 2026 Portfolio Review",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T12:30:41+00:00",
-      "title": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

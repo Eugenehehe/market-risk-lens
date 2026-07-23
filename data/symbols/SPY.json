@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T18:15:54.396360+00:00",
+  "generated_at": "2026-07-23T19:50:09.543663+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 737.05,
-    "change_pct": -1.3861200679680552
+    "price": 736.05,
+    "change_pct": -1.5199154413240379
   },
   "risk": {
-    "score": 62,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T16:44:58.095392+00:00",
-      "close": 750.56
-    },
     {
       "timestamp": "2026-07-15T17:58:11.168719+00:00",
       "close": 754.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T18:15:54.396360+00:00",
       "close": 737.05
+    },
+    {
+      "timestamp": "2026-07-23T19:50:09.543663+00:00",
+      "close": 736.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T14:51:00+00:00",
+      "title": "Global Wealth Research - July 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T14:33:17+00:00",
       "title": "How Much Micron (MU) Do You Unknowingly Own?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T12:34:42+00:00",
       "title": "Explosion Reported In Larak Island, Southern Iran",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:33:51+00:00",
-      "title": "Oil Prices Climb Above $90, Sending Treasury Yields Higher and Rate Cut Expectations Lower",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

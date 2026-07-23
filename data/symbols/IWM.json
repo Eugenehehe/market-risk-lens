@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T18:15:54.396360+00:00",
+  "generated_at": "2026-07-23T19:50:09.543663+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 290.94,
-    "change_pct": -0.9700806698662356
+    "price": 291.37,
+    "change_pct": -0.8237176214302755
   },
   "risk": {
-    "score": 58,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T16:44:58.095392+00:00",
-      "close": 294.5
-    },
     {
       "timestamp": "2026-07-15T17:58:11.168719+00:00",
       "close": 296.22
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T18:15:54.396360+00:00",
       "close": 290.94
+    },
+    {
+      "timestamp": "2026-07-23T19:50:09.543663+00:00",
+      "close": 291.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T14:51:00+00:00",
+      "title": "Global Wealth Research - July 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T13:34:45+00:00",
       "title": "AAII Sentiment Survey: Optimism Plunges",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T10:29:11+00:00",
       "title": "My Three Most Reliable Market Indicators Are Still Flashing Green",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:56:24+00:00",
-      "title": "Corporate Profits Should Override All Other Concerns, For Now",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

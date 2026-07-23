@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T18:15:54.396360+00:00",
+  "generated_at": "2026-07-23T19:50:09.543663+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 208.5,
-    "change_pct": -1.6787701593888538
+    "price": 207.36,
+    "change_pct": -2.216353862114495
   },
   "risk": {
-    "score": 64,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T16:44:58.095392+00:00",
-      "close": 206.56
-    },
     {
       "timestamp": "2026-07-15T17:58:11.168719+00:00",
       "close": 209.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T18:15:54.396360+00:00",
       "close": 208.5
+    },
+    {
+      "timestamp": "2026-07-23T19:50:09.543663+00:00",
+      "close": 207.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Thursday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T15:50:24+00:00",
       "title": "The Set It and Forget It Monthly Dividend Stocks Retirees Wish They’d Bought 20 Years Ago",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T15:30:11+00:00",
       "title": "Prediction: 1 Reason Palantir Could Keep Beating the Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:29:00+00:00",
-      "title": "Annaly Capital Management's EAD Topped Its Dividend for a 9th Straight Quarter. Here's Why That Matters for Its 12.5%+ Yielding Payout.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

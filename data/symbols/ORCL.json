@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T18:15:54.396360+00:00",
+  "generated_at": "2026-07-23T19:50:09.543663+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 119.99,
-    "change_pct": -4.648760330578517
+    "price": 119.73,
+    "change_pct": -4.855371900826444
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T16:44:58.095392+00:00",
-      "close": 132.27
-    },
     {
       "timestamp": "2026-07-15T17:58:11.168719+00:00",
       "close": 132.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-23T18:15:54.396360+00:00",
       "close": 119.99
+    },
+    {
+      "timestamp": "2026-07-23T19:50:09.543663+00:00",
+      "close": 119.73
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-23T15:28:05+00:00",
       "title": "History Has An Opinion On This INTU Price Level",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T14:46:32+00:00",
+      "title": "Michael Burry's Chilling Warning as $100 Oil Collides With AI Debt Explosion: 'Not Sure How Much Longer'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,6 +533,14 @@
       "timestamp": "2026-07-23T14:00:30+00:00",
       "title": "Prediction: Oracle Stock Could Reach a New High by 2027",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:35:35+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-23T10:46:03+00:00",
       "title": "How Oracle Can Make The Right Call On AI Demand And Still Lose",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:29:22+00:00",
-      "title": "Trump Is Expanding a Pledge That Could Stop AI Data Centers From Hiking Your Electricity Bill— Here's Who Just Signed On",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T03:05:00+00:00",
-      "title": "Energy Storage Outlook Jumps As Hyperscalers, Suppliers Tighten Ties",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

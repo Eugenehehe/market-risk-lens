@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T18:15:54.396360+00:00",
+  "generated_at": "2026-07-23T19:50:09.543663+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 99.38,
-    "change_pct": -3.1572792827908924
+    "price": 99.58,
+    "change_pct": -2.9623854999025645
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T16:44:58.095392+00:00",
-      "close": 99.84
-    },
     {
       "timestamp": "2026-07-15T17:58:11.168719+00:00",
       "close": 101.8
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-23T18:15:54.396360+00:00",
       "close": 99.38
+    },
+    {
+      "timestamp": "2026-07-23T19:50:09.543663+00:00",
+      "close": 99.58
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-23T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Thursday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T15:19:06+00:00",
       "title": "Intel’s 85% Foundry Yield Could Ignite a Second-Half Rebound",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T15:13:27+00:00",
+      "title": "NVIDIA's Next Breakout? Market Veteran Sees Plenty of Fuel Left in the AI Leader",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:35:35+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T12:51:49+00:00",
       "title": "Update: US Equity Futures Drop Pre-Bell as Mid-East Conflict Expands to Potentially Include Red Sea",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:38:54+00:00",
-      "title": "MU Vs Its Peers: A Lead With A Price Tag",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:38:04+00:00",
-      "title": "Qualcomm's AI Story Is Hot. Why Is First Solar's Future Clearer?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:33:00+00:00",
-      "title": "VCI Global Launches VGAIN Cloud, A Post-Quantum-Ready Sovereign AI Cloud Platform in Malaysia",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
