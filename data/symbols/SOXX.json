@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:31:10.368037+00:00",
+  "generated_at": "2026-07-23T13:08:25.586533+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 555.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T10:17:53.418517+00:00",
-      "close": 567.92
-    },
     {
       "timestamp": "2026-07-15T11:53:44.201983+00:00",
       "close": 567.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T11:31:10.368037+00:00",
       "close": 555.52
+    },
+    {
+      "timestamp": "2026-07-23T13:08:25.586533+00:00",
+      "close": 555.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T07:30:00+00:00",
+      "title": "CHPY: A Risky Dip That Could Be Worth Buying For Weekly Cash Flow",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T23:35:00+00:00",
       "title": "Is AI Making Inflation Better Or Worse?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T07:15:23+00:00",
       "title": "What's Going on With Micron Technology Stock Wednesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T06:21:49+00:00",
-      "title": "What's Going on With AMD Stock Wednesday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

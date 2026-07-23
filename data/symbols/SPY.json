@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:31:10.368037+00:00",
+  "generated_at": "2026-07-23T13:08:25.586533+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 747.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T10:17:53.418517+00:00",
-      "close": 751.83
-    },
     {
       "timestamp": "2026-07-15T11:53:44.201983+00:00",
       "close": 751.83
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-23T11:31:10.368037+00:00",
       "close": 747.41
+    },
+    {
+      "timestamp": "2026-07-23T13:08:25.586533+00:00",
+      "close": 747.41
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-23T10:13:24+00:00",
+      "title": "Nancy Pelosi’s Family Turned $30 Million Into $278 Million Trading Stocks. Congress Just Voted to Ban It During Her Final Term.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T08:41:43+00:00",
       "title": "Nasdaq, S&P 500 Futures Fall As Tesla, Alphabet Earnings Revive AI Spending Fears: Why TSLA, GOOGL, SPCX, NOW, INTC, AMD, SLS Are In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T08:15:00+00:00",
+      "title": "7 Things To Watch For After The Fed Announces July Interest Rate Decision",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-22T23:35:00+00:00",
       "title": "Is AI Making Inflation Better Or Worse?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T22:53:31+00:00",
-      "title": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics —  TSLA, GOOGL, PSKY, RDDT, AMZN In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:05:00+00:00",
-      "title": "Market Valuation: Is The Market Still Overvalued?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
