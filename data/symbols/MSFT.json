@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T04:30:39.800826+00:00",
+  "generated_at": "2026-07-23T07:11:37.025764+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 390.34,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T03:31:01.025472+00:00",
-      "close": 384.93
-    },
     {
       "timestamp": "2026-07-15T05:56:17.871416+00:00",
       "close": 384.93
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-23T04:30:39.800826+00:00",
       "close": 390.34
+    },
+    {
+      "timestamp": "2026-07-23T07:11:37.025764+00:00",
+      "close": 390.34
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-23T04:03:00+00:00",
+      "title": "Jim Cramer reveals 4 surging chip stocks he likes best",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T01:52:33+00:00",
       "title": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T00:44:54+00:00",
+      "title": "Microsoft: A Better Entry Point Before Earnings",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-22T20:05:00+00:00",
       "title": "AXT Announces Jia-Bin Duh Appointed to AXT, Inc. Board of Directors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T19:58:26+00:00",
-      "title": "3M Raised Guidance and Pointed to AI Partnerships After Beating Estimates. What This Means for MMM Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T19:52:16+00:00",
-      "title": "The Trump Administration Just Gave Oklo Stock a Big Boost. Here's What to Know.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
