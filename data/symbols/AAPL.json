@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:37:26.299049+00:00",
+  "generated_at": "2026-07-23T11:31:10.368037+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 325.89,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T08:20:00.239845+00:00",
-      "close": 314.86
-    },
     {
       "timestamp": "2026-07-15T10:17:53.418517+00:00",
       "close": 314.86
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-23T09:37:26.299049+00:00",
       "close": 325.89
+    },
+    {
+      "timestamp": "2026-07-23T11:31:10.368037+00:00",
+      "close": 325.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T08:31:00+00:00",
+      "title": "Alphabet Stock Is Falling as AI Spending Continues to Mount",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T07:22:17+00:00",
+      "title": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T05:15:00+00:00",
       "title": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-22T21:30:00+00:00",
       "title": "Alphabet Stock Falls as AI Spending Continues to Mount",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:08:12+00:00",
-      "title": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:04:27+00:00",
-      "title": "Apple Eyes AI Demand With Mac Updates",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
