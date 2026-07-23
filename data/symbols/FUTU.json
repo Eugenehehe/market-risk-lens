@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 98.48,
-    "change_pct": -7.173154868507869
+    "price": 98.1,
+    "change_pct": -7.531341313978701
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 99.73
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 98.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 98.48
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 98.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T11:55:16+00:00",
+      "title": "Trading Halt: Halt status updated at 8:55:00 AM ET: Quotation Resumption: News and Resumption Times",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-22T13:35:22+00:00",
       "title": "10 Financials Stocks With Whale Alerts In Today’s Session",

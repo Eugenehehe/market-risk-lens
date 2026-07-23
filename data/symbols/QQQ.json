@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 692.38,
-    "change_pct": -1.8388034309208212
+    "price": 690.87,
+    "change_pct": -2.0528815481675844
   },
   "risk": {
-    "score": 65,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 716.35
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 711.09
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 692.38
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 690.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T13:34:45+00:00",
+      "title": "AAII Sentiment Survey: Optimism Plunges",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:16:10+00:00",
+      "title": "Brent Tops $100, Alphabet, Tesla Sink Nasdaq 100: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:39:00+00:00",
+      "title": "Markets Track Lower As AI Spending Soars",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T12:12:01+00:00",
       "title": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-23T10:37:29+00:00",
       "title": "Tesla's AI Bet Flounders As Alphabet's Gemini Shines — What It Means For AI ETFs",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T10:29:11+00:00",
-      "title": "My Three Most Reliable Market Indicators Are Still Flashing Green",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:56:24+00:00",
-      "title": "Corporate Profits Should Override All Other Concerns, For Now",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:47:25+00:00",
-      "title": "A Checkup On The Economic Screws Holding The Economy Together",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

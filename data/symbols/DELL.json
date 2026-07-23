@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 442.96,
-    "change_pct": 0.2625622453598764
+    "price": 438.77,
+    "change_pct": -0.6858306926211033
   },
   "risk": {
-    "score": 53,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 410.84
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 394.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 442.96
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 438.77
     }
   ],
   "events": [
@@ -530,9 +530,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-23T13:16:07+00:00",
+      "title": "An Agentic AI Tide Lifting All Boats",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T12:13:13+00:00",
       "title": "What Could Keep Apple Stock Climbing?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T08:27:07+00:00",
+      "title": "Super Micro Just Doubled Its Margins — and That Could Rewrite the AI Infrastructure Playbook",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-23T02:29:11+00:00",
       "title": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:09:16+00:00",
-      "title": "Is Dell Technologies (DELL) Undervalued On AI Server Volatility?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T20:58:36+00:00",
-      "title": "Stock Market Today, July 22: Super Micro Computer Surges on Record Q4 Orders and Surprise Margin Beat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

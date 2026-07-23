@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 416.99,
-    "change_pct": -1.0018755490135534
+    "price": 414.6,
+    "change_pct": -1.5692884784311745
   },
   "risk": {
-    "score": 59,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 420.22
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 412.47
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 416.99
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 414.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T13:36:26+00:00",
+      "title": "ASML: Surging AI CapEx A Catalyst",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:16:07+00:00",
+      "title": "An Agentic AI Tide Lifting All Boats",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T09:35:03+00:00",
       "title": "Elon Musk’s Unexpected Micron Moment — A Strange Twist in Tesla’s Earnings Call",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-22T12:30:41+00:00",
       "title": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T09:03:44+00:00",
-      "title": "The Nvidia-Led AI Supercycle Is Accelerating — and Taiwan Just Confirmed It",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T08:46:35+00:00",
-      "title": "TSMC Is Up 78%, And Wall Street Still Isn't Buying",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

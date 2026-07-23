@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 319.28,
-    "change_pct": -6.667835949603907
+    "price": 320.1,
+    "change_pct": -6.428132947469956
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 369.07
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 372.51
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 319.28
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 320.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T17:05:00+00:00",
+      "title": "Let's take a look at the S&P500 stocks that are experiencing unusual volume in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T16:40:04+00:00",
+      "title": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T16:35:00+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T15:55:41+00:00",
       "title": "Cash Squeeze at Tesla and Alphabet: Same Issue But Not The Same at All",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T15:31:36+00:00",
       "title": "Stock Market Today: Dow Slammed 600 Points, But Micron, Chip Gear Stocks Rise; Alphabet Slides (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:16:00+00:00",
-      "title": "Lumentum and 5 Other Stocks Set to Win From Big Tech’s AI Spending Spree",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:15:00+00:00",
-      "title": "How Tesla's robotaxi struggle is akin to the Apple vs. Google Maps rivalry",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:12:41+00:00",
-      "title": "Alphabet's Gemini 4 Rollout, TPU Opportunity Key Catalysts to Future Upside, Morgan Stanley Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

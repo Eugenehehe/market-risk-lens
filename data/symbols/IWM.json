@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 291.53,
-    "change_pct": -0.7692569522448123
+    "price": 290.94,
+    "change_pct": -0.9700806698662356
   },
   "risk": {
-    "score": 57,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 297
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 294.5
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 291.53
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 290.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T13:34:45+00:00",
+      "title": "AAII Sentiment Survey: Optimism Plunges",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:16:10+00:00",
+      "title": "Brent Tops $100, Alphabet, Tesla Sink Nasdaq 100: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:39:00+00:00",
+      "title": "Markets Track Lower As AI Spending Soars",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T11:49:47+00:00",
       "title": "The Credit Market's Warning On Big Tech Spending Grows Louder",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T08:56:24+00:00",
       "title": "Corporate Profits Should Override All Other Concerns, For Now",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:47:25+00:00",
-      "title": "A Checkup On The Economic Screws Holding The Economy Together",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T08:15:00+00:00",
-      "title": "7 Things To Watch For After The Fed Announces July Interest Rate Decision",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T01:40:00+00:00",
-      "title": "When Monetary Policy Surprises Stop Translating",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

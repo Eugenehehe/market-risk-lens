@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-23T16:56:28.742376+00:00",
+  "generated_at": "2026-07-23T18:15:54.396360+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 738.31,
-    "change_pct": -1.2175378975395112
+    "price": 737.05,
+    "change_pct": -1.3861200679680552
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T15:09:33.562161+00:00",
-      "close": 754.06
-    },
     {
       "timestamp": "2026-07-15T16:44:58.095392+00:00",
       "close": 750.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 738.31
+    },
+    {
+      "timestamp": "2026-07-23T18:15:54.396360+00:00",
+      "close": 737.05
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-23T14:33:17+00:00",
       "title": "How Much Micron (MU) Do You Unknowingly Own?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T13:34:45+00:00",
+      "title": "AAII Sentiment Survey: Optimism Plunges",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,6 +530,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-23T12:55:44+00:00",
+      "title": "Koninklijke KPN: Hold For The 4.8% Yield Following Q2 2026 Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T12:39:00+00:00",
+      "title": "Markets Track Lower As AI Spending Soars",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-23T12:38:53+00:00",
       "title": "DGRO Is Near A High, Resist The Urge To Act",
       "source": "Yahoo",
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T12:12:01+00:00",
-      "title": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
+      "timestamp": "2026-07-23T12:34:42+00:00",
+      "title": "Explosion Reported In Larak Island, Southern Iran",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T11:49:47+00:00",
-      "title": "The Credit Market's Warning On Big Tech Spending Grows Louder",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T10:54:22+00:00",
-      "title": "Corporate Insiders Selling As Retail Investors Buy Stock Hand Over Fist",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T10:40:00+00:00",
-      "title": "Treasury Yields Push Higher, Testing Wall Street's Nerve",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T10:29:11+00:00",
-      "title": "My Three Most Reliable Market Indicators Are Still Flashing Green",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-23T12:33:51+00:00",
+      "title": "Oil Prices Climb Above $90, Sending Treasury Yields Higher and Rate Cut Expectations Lower",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
