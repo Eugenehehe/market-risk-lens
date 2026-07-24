@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:23:24.678580+00:00",
+  "generated_at": "2026-07-24T12:55:05.993155+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 321.66,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T09:03:31.355520+00:00",
-      "close": 327.5
-    },
     {
       "timestamp": "2026-07-16T11:08:05.456645+00:00",
       "close": 327.5
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-24T11:23:24.678580+00:00",
       "close": 321.66
+    },
+    {
+      "timestamp": "2026-07-24T12:55:05.993155+00:00",
+      "close": 321.66
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-24T11:26:00+00:00",
+      "title": "2 of Warren Buffett's Biggest Swings and Misses Share a Common Theme",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T10:02:18+00:00",
+      "title": "Volkswagen Q2 Earnings Call Highlights",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T09:26:00+00:00",
       "title": "Meet the Trillion-Dollar Company Retail Investors Have Spent More Money Buying Than Any Other Stock in July",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T07:30:00+00:00",
+      "title": "TSMC: Robust Margins, Strong Guidance, The Market Is Getting Out Of Hand Here",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-24T00:40:02+00:00",
       "title": "Alphabet And Tesla's Blowout Capex Plans Are Shifting Investor Perceptions And Valuation Metrics",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T00:08:40+00:00",
-      "title": "Dell's Big Day Was All About Another Company",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T22:06:22+00:00",
-      "title": "VeriSign Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T21:45:02+00:00",
-      "title": "Apple (AAPL) Declines More Than Market: Some Information for Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
