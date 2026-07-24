@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 21.78,
-    "change_pct": 5.115830115830122
+    "price": 21.48,
+    "change_pct": -1.377410468319562
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 48,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 20.06
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 20.22
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 21.78
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 21.48
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-24T10:05:00+00:00",
+      "title": "Things Are Getting Interesting In Macro Kingdom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

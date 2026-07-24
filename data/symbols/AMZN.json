@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 233.66,
-    "change_pct": -4.570144986726565
+    "price": 232.2,
+    "change_pct": -0.6248395103997328
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 254.96
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 256.15
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 233.66
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 232.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T12:39:47+00:00",
+      "title": "Get Paid 9.5% To Wait For NFLX Stock To Go On Sale",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T12:01:11+00:00",
+      "title": "Apple Stock Shines As Earnings Approach, But Remaining Magnificent 6 Stumble With Nasdaq",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T12:00:33+00:00",
+      "title": "Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T12:00:00+00:00",
+      "title": "Mag-7 Suffers Biggest Rout Since April 2025: ETFs to Buy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T11:08:00+00:00",
       "title": "Why Nvidia Is Falling When Other Chip Stocks Are Rising",
@@ -522,48 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-24T10:33:16+00:00",
+      "title": "Anthropic Is Considering Requiring Employees To Follow Preset Stock-Selling Schedules After Its IPO, A Rare Step Designed To Reduce Insider Trading Concerns While Preserving Internal Information Sharing",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T10:30:00+00:00",
       "title": "Relax, $100 Oil Is No Sweat for Stocks—But There Is a Panic Point",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T10:04:55+00:00",
-      "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T10:04:12+00:00",
-      "title": "Amazon FTC settlement deadline is just days away. How to file claim",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T07:00:00+00:00",
-      "title": "‘You just hired a million bad employees’: How the brief tokenmaxxing era delivered the opposite of what it promised",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T06:30:00+00:00",
-      "title": "Google’s Earnings Could be a Bad Omen for Big Tech",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T06:25:00+00:00",
-      "title": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

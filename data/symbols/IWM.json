@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 292.09,
-    "change_pct": -0.5786446100956577
+    "price": 291.55,
+    "change_pct": -0.18487452497516488
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 295.77
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 297.18
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 292.09
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 291.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T10:20:29+00:00",
+      "title": "Is The Consumer On His Deathbed?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T10:05:00+00:00",
+      "title": "Things Are Getting Interesting In Macro Kingdom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T09:35:00+00:00",
+      "title": "Russell U.S. Indexes Spotlight - Quarterly Report: July 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T20:15:00+00:00",
       "title": "Initial Jobless Claims Fall To Lowest Level Since 1969",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T14:51:00+00:00",
       "title": "Global Wealth Research - July 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:34:45+00:00",
-      "title": "AAII Sentiment Survey: Optimism Plunges",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:16:10+00:00",
-      "title": "Brent Tops $100, Alphabet, Tesla Sink Nasdaq 100: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T12:39:00+00:00",
-      "title": "Markets Track Lower As AI Spending Soars",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

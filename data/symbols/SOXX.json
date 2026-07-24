@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 551.24,
-    "change_pct": -0.7704493087557607
+    "price": 530.77,
+    "change_pct": -3.71344604890792
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 555.27
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 537.15
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 551.24
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 530.77
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T07:10:53+00:00",
+      "title": "What's Going on With Micron Technology Stock Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T14:46:09+00:00",
       "title": "Bitcoin Outpaces Semiconductor Stocks by 25% as VanEck's Matthew Sigel Sees Path Back to $100,000",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-22T12:33:15+00:00",
       "title": "Intel Q2 Preview: Stock Hammers Nvidia with 7x Returns Since Dow Swap — Will Earnings Fuel Further Gains?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T12:30:41+00:00",
-      "title": "The Semiconductor Trade Yanked $22 Billion From Gold and Bitcoin — Now The Tide Is Turning",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

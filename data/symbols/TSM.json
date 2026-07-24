@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 415.58,
-    "change_pct": -1.3366254362431995
+    "price": 404.3,
+    "change_pct": -2.7142788392126582
   },
   "risk": {
-    "score": 61,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 419.48
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 413.61
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 415.58
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 404.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T10:14:55+00:00",
+      "title": "Bloom Energy: AI's Power Crunch Creates Rare Buying Opportunity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T08:46:32+00:00",
+      "title": "Credo: SpaceX Tailwinds Vs. Risk On The U.S. Frontier AIs' Premium (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T07:30:00+00:00",
       "title": "TSMC: Robust Margins, Strong Guidance, The Market Is Getting Out Of Hand Here",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-23T09:35:03+00:00",
       "title": "Elon Musk’s Unexpected Micron Moment — A Strange Twist in Tesla’s Earnings Call",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T21:37:29+00:00",
-      "title": "BGY: A Good International CEF If You Are Willing To Sacrifice Upside For Income",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T14:36:37+00:00",
-      "title": "TSMC Q2: Compounding AI Spending Concerns Hit Stock Valuation",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

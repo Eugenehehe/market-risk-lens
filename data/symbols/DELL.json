@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 439.34,
-    "change_pct": -0.5568130375735669
+    "price": 438.54,
+    "change_pct": -0.18209131879636242
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 412.68
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 405.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 439.34
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 438.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T13:00:00+00:00",
+      "title": "Texas A&M Engineering Experiment Station Selects Dell Technologies to Build a Secure AI Platform for National Research",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T00:08:40+00:00",
       "title": "Dell's Big Day Was All About Another Company",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-23T13:59:11+00:00",
       "title": "Why Is Super Micro Computer Stock Surging on Thursday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:21:39+00:00",
-      "title": "Jim Cramer Still Loves Micron. Here Is the 1 Number That Shows Why He Is Right.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

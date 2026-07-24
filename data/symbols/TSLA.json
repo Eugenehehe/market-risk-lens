@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 319.69,
-    "change_pct": -14.523675837544447
+    "price": 311.34,
+    "change_pct": -2.6119052832431544
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 394.46
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 394.16
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 319.69
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 311.34
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-24T11:51:53+00:00",
-      "title": "Dow Jones Futures Rise As Oil Prices Retreat; Intel Rises After Google, Tesla Dive",
+      "timestamp": "2026-07-24T13:00:33+00:00",
+      "title": "Wall Street Slashes Tesla Price Targets After Its Q2 Miss, but Few Are Backing Away",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T11:30:00+00:00",
-      "title": "Cathie Wood’s Ark Bought the Dip in Tesla Stock",
+      "timestamp": "2026-07-24T12:50:10+00:00",
+      "title": "Tesla Short Sellers Gain $9 Billion as Shares Tumble",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:46:01+00:00",
-      "title": "Tesla’s Hidden Growth Machine Just Surged 50%—And it Isn't Cars, Batteries or Robotaxis",
+      "timestamp": "2026-07-24T12:46:33+00:00",
+      "title": "Pullback in chip stocks is a buying opportunity, Citi says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:39:43+00:00",
-      "title": "Electric Vehicles Update - Accelerating Growth Driven By Innovation And Policy Incentives",
+      "timestamp": "2026-07-24T12:41:18+00:00",
+      "title": "Tesla Selloff Hands Bears Big Gains",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:25:00+00:00",
-      "title": "Ark Invest's Cathie Wood Just Sold AMD Stock and Bought SpaceX. Why I'd Be Doing the Opposite.",
+      "timestamp": "2026-07-24T12:39:17+00:00",
+      "title": "The challenges companies face to launch robotaxis in Europe",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:04:55+00:00",
-      "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
+      "timestamp": "2026-07-24T12:26:10+00:00",
+      "title": "Wall Street Bank Just Declared the Magnificent 7 as “Dead” — What Happens Next?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:02:18+00:00",
-      "title": "Volkswagen Q2 Earnings Call Highlights",
+      "timestamp": "2026-07-24T12:20:26+00:00",
+      "title": "Tesla's Biggest Plunge in a Year Delivers $9 Billion Win for Short Sellers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:00:00+00:00",
-      "title": "Tesla just lost a near-free money stream worth $2.76 billion a year after Trump rolled back fuel economy standards",
+      "timestamp": "2026-07-24T12:20:23+00:00",
+      "title": "Momentum Crash Hits YOLO Traders’ Returns by Most in Four Years",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

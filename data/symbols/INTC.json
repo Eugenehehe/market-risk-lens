@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 100.23,
-    "change_pct": -2.328980705515493
+    "price": 96.52,
+    "change_pct": -3.701486580864022
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 102.99
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 99.39
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 100.23
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 96.52
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-24T11:51:53+00:00",
-      "title": "Dow Jones Futures Rise As Oil Prices Retreat; Intel Rises After Google, Tesla Dive",
+      "timestamp": "2026-07-24T13:47:21+00:00",
+      "title": "Stock Market Today: Dow Rises As Oil Prices Fall; SpaceX Slides On Launch Delay (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T11:37:52+00:00",
-      "title": "Stock futures rise after selloff; Intel Q2 earnings top forecasts",
+      "timestamp": "2026-07-24T13:23:54+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid New US Tariffs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T11:08:00+00:00",
-      "title": "Why Nvidia Is Falling When Other Chip Stocks Are Rising",
+      "timestamp": "2026-07-24T13:20:23+00:00",
+      "title": "Intel earnings and lower oil prices lift hopes for Wall Street rebound: Dow Jones, S&P, Nasdaq, Futures",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:34:24+00:00",
-      "title": "Intel rises as strong forecasts signal AI boost for turnaround",
+      "timestamp": "2026-07-24T13:16:15+00:00",
+      "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:33:30+00:00",
-      "title": "Intel shares rise after AI-driven revenue beats expectations and outlook improves",
+      "timestamp": "2026-07-24T13:10:08+00:00",
+      "title": "Arm Holdings (ARM) Is Up 5.9% After Overtaking x86 In AI GPU Servers - What's Changed",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:30:00+00:00",
-      "title": "Relax, $100 Oil Is No Sweat for Stocks—But There Is a Panic Point",
+      "timestamp": "2026-07-24T13:07:00+00:00",
+      "title": "Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:21:00+00:00",
-      "title": "Intel, Sandisk, SAP, Newmont, and More Stocks That Explain Today’s Market",
+      "timestamp": "2026-07-24T12:57:58+00:00",
+      "title": "INTC Stock Sees Price Target Hikes On Q2 Beat, But Analysts Say Key Foundry Catalyst 'Has Not Yet Arrived'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T09:54:32+00:00",
-      "title": "Middle East tensions and new U.S. tariffs dominate market attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+      "timestamp": "2026-07-24T12:56:00+00:00",
+      "title": "Intel Stock Is Rallying. Why Analysts See More Gains to Come.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

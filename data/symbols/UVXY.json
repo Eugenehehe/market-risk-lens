@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 25.65,
-    "change_pct": 7.954545454545436
+    "price": 25.08,
+    "change_pct": -2.2222222222222254
   },
   "risk": {
-    "score": 60,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 22.71
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 22.94
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 25.65
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 25.08
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-24T10:05:00+00:00",
+      "title": "Things Are Getting Interesting In Macro Kingdom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

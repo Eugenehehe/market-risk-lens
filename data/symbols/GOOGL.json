@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T12:55:05.993155+00:00",
+  "generated_at": "2026-07-24T14:54:47.128870+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 317.69,
-    "change_pct": -7.1326259171562985
+    "price": 319.06,
+    "change_pct": 0.43123799930750994
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T11:08:05.456645+00:00",
-      "close": 370.92
-    },
     {
       "timestamp": "2026-07-16T14:50:51.166457+00:00",
       "close": 372.71
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 317.69
+    },
+    {
+      "timestamp": "2026-07-24T14:54:47.128870+00:00",
+      "close": 319.06
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-24T11:51:53+00:00",
-      "title": "Dow Jones Futures Rise As Oil Prices Retreat; Intel Rises After Google, Tesla Dive",
+      "timestamp": "2026-07-24T13:41:04+00:00",
+      "title": "Should Jamie Dimon’s Latest Comments Should Frighten You?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T11:35:00+00:00",
-      "title": "Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors",
+      "timestamp": "2026-07-24T13:16:15+00:00",
+      "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T11:30:29+00:00",
-      "title": "Indian payments firms flag competition risks in one-click UPI checkout- report",
+      "timestamp": "2026-07-24T13:00:00+00:00",
+      "title": "Home Builders Institute CEO Ed Brady Responds to Google & BlackRock Getting into Training for Skilled Trades, saying: \"Welcome to the Future Builders of America®\"",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:49:24+00:00",
-      "title": "Meta’s Latest AI Data Center Debt Raise Could Reportedly Cost More Than Its 2025 Record Deal",
+      "timestamp": "2026-07-24T12:56:00+00:00",
+      "title": "Intel Stock Is Rallying. Why Analysts See More Gains to Come.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:30:00+00:00",
-      "title": "Relax, $100 Oil Is No Sweat for Stocks—But There Is a Panic Point",
+      "timestamp": "2026-07-24T12:42:00+00:00",
+      "title": "Google Search Revenue Grew 17% Last Quarter, Down From 19%. It's the First Slowdown in a Year.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:15:00+00:00",
-      "title": "Micron Stock Slips. How Microsoft Will Give It Another Chance to Beat the S&P 500.",
+      "timestamp": "2026-07-24T12:38:27+00:00",
+      "title": "Alphabet Selloff Puts AI Spending in Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:10:30+00:00",
-      "title": "Alphabet Inc. (NASDAQ:GOOGL) Passes Peter Lynch’s GARP Screen as a Growth at a Reasonable Price Stock",
-      "source": "ChartMill",
+      "timestamp": "2026-07-24T12:27:00+00:00",
+      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:04:55+00:00",
-      "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
+      "timestamp": "2026-07-24T12:23:51+00:00",
+      "title": "Alphabet falls below 200-day average for first time in over a year after earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
