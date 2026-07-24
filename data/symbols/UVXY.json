@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T16:40:59.144492+00:00",
+  "generated_at": "2026-07-24T18:05:22.251590+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 24.54,
-    "change_pct": -4.327485380116958
+    "price": 24.81,
+    "change_pct": -3.274853801169586
   },
   "risk": {
     "score": 62,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "503 Server Error: Service Unavailable for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T16:08:46.654683+00:00",
-      "close": 23.28
-    },
     {
       "timestamp": "2026-07-16T17:39:44.863236+00:00",
       "close": 23.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T16:40:59.144492+00:00",
       "close": 24.54
+    },
+    {
+      "timestamp": "2026-07-24T18:05:22.251590+00:00",
+      "close": 24.81
     }
   ],
   "events": [

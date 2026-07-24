@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T16:40:59.144492+00:00",
+  "generated_at": "2026-07-24T18:05:22.251590+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1780.38,
-    "change_pct": -1.254575707154737
+    "price": 1774.6,
+    "change_pct": -1.5751525235718322
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "503 Server Error: Service Unavailable for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T16:08:46.654683+00:00",
-      "close": 1811.04
-    },
     {
       "timestamp": "2026-07-16T17:39:44.863236+00:00",
       "close": 1798.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T16:40:59.144492+00:00",
       "close": 1780.38
+    },
+    {
+      "timestamp": "2026-07-24T18:05:22.251590+00:00",
+      "close": 1774.6
     }
   ],
   "events": [
