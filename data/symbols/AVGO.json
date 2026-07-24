@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 383.54,
-    "change_pct": -2.275333146482539
+    "price": 380.07,
+    "change_pct": -3.159477157489754
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 377.32
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 376.32
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 383.54
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 380.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T17:05:43+00:00",
+      "title": "Nvidia is Winning AI Capex Wars So I Continue Loading Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:30:26+00:00",
+      "title": "The Cruel Tax Twist That Makes JEPI a Bad Fit for Your Brokerage Account",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:29:49+00:00",
+      "title": "I Won’t Stop Buying Broadcom Until It Reaches This Point",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:12:00+00:00",
+      "title": "Meta Set Its AI Budget to as Much as $145 Billion. Investors Aren't Sure They Like It.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T15:04:00+00:00",
+      "title": "Can AMD Partnership Strengthen Cerebras' AI Infrastructure Leadership?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T14:24:59+00:00",
       "title": "Why Big Tech barnings could define the market next week",
@@ -525,46 +565,6 @@
       "timestamp": "2026-07-24T13:16:15+00:00",
       "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:00:00+00:00",
-      "title": "U.S. Memory Stock Pullback May Offer Investors a Fresh Buying Opportunity",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T11:37:53+00:00",
-      "title": "Latest News In AI Chips - AMD and Cerebras Team Up for AI Infrastructure Enhancement",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T11:09:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Credo Technology, Broadcom, Marvell Technology and Astera Labs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T11:00:00+00:00",
-      "title": "Samsung, SK Hynix to Ink Large Chip Supply Deals with US Firms",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T10:13:20+00:00",
-      "title": "Why Wall Street May Be Mispricing Qualcomm's AI Future, Citrini Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

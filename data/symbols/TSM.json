@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 406.46,
-    "change_pct": -2.1945233168102374
+    "price": 402.13,
+    "change_pct": -3.23644063718177
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 405.14
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 405.2
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 406.46
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 402.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T13:35:31+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T12:02:44+00:00",
+      "title": "Intel Stock Slips Despite Blowout Quarter: Here's What 4 Analysts Are Saying",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T10:14:55+00:00",
       "title": "Bloom Energy: AI's Power Crunch Creates Rare Buying Opportunity",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-23T13:36:26+00:00",
       "title": "ASML: Surging AI CapEx A Catalyst",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:16:07+00:00",
-      "title": "An Agentic AI Tide Lifting All Boats",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T11:00:58+00:00",
-      "title": "BorZen Tien's Recent Buy: Acquires $301K In Taiwan Semiconductor Stock",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 384.68,
-    "change_pct": 0.8124115519681396
+    "price": 382.8,
+    "change_pct": 0.3197232559358554
   },
   "risk": {
-    "score": 57,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 402.66
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 404.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 384.68
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 382.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T16:37:46+00:00",
+      "title": "The Hidden Volatility Brewing Inside Intuit Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T15:52:49+00:00",
       "title": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what'",
@@ -514,56 +522,48 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T14:27:15+00:00",
-      "title": "Why Meta, Microsoft, and Nvidia are championing open-weight AI",
+      "timestamp": "2026-07-24T15:51:49+00:00",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T14:14:59+00:00",
-      "title": "Microsoft (MSFT) Expands Mistral Deal To Back European Sovereign AI",
+      "timestamp": "2026-07-24T15:41:22+00:00",
+      "title": "Advanced Micro Devices Lifts GPU, CPU Total Addressable Market Estimates at Advancing AI Event, RBC Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T14:05:41+00:00",
-      "title": "How Long IBM Stock Could Stay Underwater",
+      "timestamp": "2026-07-24T15:35:39+00:00",
+      "title": "The Balance Sheet Boondoggle at Alphabet is Exactly Why I’m Buying Over and Over",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T13:57:51+00:00",
-      "title": "The Discount On GOOGL Stock Looks Overdone",
+      "timestamp": "2026-07-24T15:34:43+00:00",
+      "title": "IREN Vs Nebius: Which Neocloud Should You Buy and Why?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T13:35:00+00:00",
-      "title": "My 3 Highest-Conviction Energy Stocks for the Second Half of 2026",
+      "timestamp": "2026-07-24T15:31:00+00:00",
+      "title": "Microsoft Stock Before Q4 Earnings: Buy Now or Wait for Results?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T13:16:15+00:00",
-      "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:15:07+00:00",
-      "title": "Insights Into Microsoft (MSFT) Q4: Wall Street Projections for Key Metrics",
+      "timestamp": "2026-07-24T15:12:00+00:00",
+      "title": "GOOGL Bets on AI to Defend Search Leadership: More Upside Ahead?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

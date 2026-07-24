@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 117.7,
-    "change_pct": -1.9493502165944698
+    "price": 115.57,
+    "change_pct": -3.723758747084316
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 126.45
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 126.14
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 117.7
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 115.57
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-24T14:13:49+00:00",
-      "title": "NOW (PSE:NOW) Tracks Software Sentiment, Is The Valuation Already Overvalued?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T14:05:41+00:00",
-      "title": "How Long IBM Stock Could Stay Underwater",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:49:00+00:00",
-      "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:47:56+00:00",
-      "title": "Oracle Wins Up to $7 Billion U.S. Military Software Contract",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:43:35+00:00",
-      "title": "Update: US Equity Futures Nudge Higher Pre-Bell as Traders Weigh New US Tariffs, Declining Oil Prices",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:37:17+00:00",
-      "title": "Oracle Stock Climbs as Pentagon Awards Potential $7 Billion Software Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:35:00+00:00",
-      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "timestamp": "2026-07-24T18:05:00+00:00",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T12:24:55+00:00",
-      "title": "Oracle Stock Gets Much-Needed Boost From Pentagon Software Deal",
+      "timestamp": "2026-07-24T17:49:26+00:00",
+      "title": "Sector Update: Tech Stocks Decline Friday Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T17:38:31+00:00",
+      "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T17:22:26+00:00",
+      "title": "Stock Market Today: Dow Gains Amid Iran News, Oil Slides; Oracle Hits New Lows (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T17:03:50+00:00",
+      "title": "Orchid Island Capital Q2 Earnings Call Highlights",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:37:46+00:00",
+      "title": "The Hidden Volatility Brewing Inside Intuit Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:12:00+00:00",
+      "title": "SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T15:44:19+00:00",
+      "title": "Nebius Is Down 9% Today: How Does NBIS Compare to Other AI Cloud Stocks Like CoreWeave and Cloudflare?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

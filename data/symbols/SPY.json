@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 740.94,
-    "change_pct": 0.373892546533372
+    "price": 738.13,
+    "change_pct": -0.006773415698058116
   },
   "risk": {
-    "score": 53,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 751.81
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 750.65
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 740.94
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 738.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T17:00:49+00:00",
+      "title": "How Much AMD Are You Really Betting On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:45:19+00:00",
+      "title": "What Is SCHD's New High Really Made Of?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:30:26+00:00",
+      "title": "The Cruel Tax Twist That Makes JEPI a Bad Fit for Your Brokerage Account",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T15:34:56+00:00",
       "title": "Trump Account or 529? Where Your Kid’s First $1,000 Grows Faster",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-24T12:10:48+00:00",
       "title": "Is This KWEB Plunge A Bargain Or A Trap?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:08:00+00:00",
-      "title": "Markets Take A Breather; Crude Oil Prices Retreat",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:00:33+00:00",
-      "title": "Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T10:20:29+00:00",
-      "title": "Is The Consumer On His Deathbed?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

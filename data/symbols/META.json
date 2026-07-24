@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 601.51,
-    "change_pct": -0.7573007754495986
+    "price": 599.3,
+    "change_pct": -1.1219270747401477
   },
   "risk": {
-    "score": 57,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 668.12
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 668.32
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 601.51
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 599.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T17:49:26+00:00",
+      "title": "Sector Update: Tech Stocks Decline Friday Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T17:30:00+00:00",
+      "title": "The AI ecosystem should be 'intertwined': AMD CEO Lisa Su on Anthropic partnership",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:52:24+00:00",
+      "title": "Meta is naming its multibillion-dollar AI debt deals after different types of fried dough",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:37:35+00:00",
+      "title": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T16:12:00+00:00",
+      "title": "Meta Set Its AI Budget to as Much as $145 Billion. Investors Aren't Sure They Like It.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T15:52:49+00:00",
       "title": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what'",
@@ -514,56 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T15:02:54+00:00",
-      "title": "Meta Likely To Report Strong Second-Quarter Results Amid Advertising Strength, Deutsche Bank Says",
+      "timestamp": "2026-07-24T15:51:49+00:00",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T15:00:39+00:00",
-      "title": "Meta vs. Alphabet: One AI Stock Looks Like the Better Value",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T14:27:15+00:00",
-      "title": "Why Meta, Microsoft, and Nvidia are championing open-weight AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:57:51+00:00",
-      "title": "The Discount On GOOGL Stock Looks Overdone",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:55:51+00:00",
-      "title": "Meta Wins Dismissal of Lawsuit Over WhatsApp Privacy Claims",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:16:15+00:00",
-      "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:15:04+00:00",
-      "title": "Countdown to Meta Platforms (META) Q2 Earnings: Wall Street Forecasts for Key Metrics",
+      "timestamp": "2026-07-24T15:35:06+00:00",
+      "title": "Meta Launches Seller App To Boost Facebook Marketplace",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

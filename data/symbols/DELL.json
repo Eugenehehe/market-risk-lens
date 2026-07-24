@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T18:05:22.251590+00:00",
+  "generated_at": "2026-07-24T19:43:31.940299+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 446.02,
-    "change_pct": 1.5204625119497495
+    "price": 433,
+    "change_pct": -1.4430737014612727
   },
   "risk": {
-    "score": 63,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T17:39:44.863236+00:00",
-      "close": 399.98
-    },
     {
       "timestamp": "2026-07-16T18:47:35.425200+00:00",
       "close": 396.07
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-24T18:05:22.251590+00:00",
       "close": 446.02
+    },
+    {
+      "timestamp": "2026-07-24T19:43:31.940299+00:00",
+      "close": 433
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T15:31:00+00:00",
+      "title": "Microsoft Stock Before Q4 Earnings: Buy Now or Wait for Results?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:58:00+00:00",
+      "title": "Bet on These 3 Dividend Growth Stocks Amid Rising Oil Prices",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T14:10:17+00:00",
       "title": "Texas A&M selects Dell Technologies to develop new AI supercomputing platform",
@@ -516,6 +532,14 @@
     {
       "timestamp": "2026-07-24T13:00:00+00:00",
       "title": "Texas A&M Engineering Experiment Station Selects Dell Technologies to Build a Secure AI Platform for National Research",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T11:23:14+00:00",
+      "title": "What to Expect From Dell Technologies’ Next Quarterly Earnings Report",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-23T19:16:23+00:00",
       "title": "Arista Networks Stock Runs On A Different Fuel",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T18:30:00+00:00",
-      "title": "Tensormesh and AMD Collaborate to Empower Fewer GPUs to Serve More Models",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T16:00:59+00:00",
-      "title": "Prediction: Dell Technologies Stock Could Be 30% Higher by This Time Next Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:37:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Google, Palantir, ServiceNow and Super Micro Computer",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
