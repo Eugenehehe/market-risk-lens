@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T20:50:38.868912+00:00",
+  "generated_at": "2026-07-24T21:53:25.366744+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 194.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T19:51:07.306805+00:00",
-      "close": 187.71
-    },
     {
       "timestamp": "2026-07-16T20:44:58.726220+00:00",
       "close": 188.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T20:50:38.868912+00:00",
       "close": 194.23
+    },
+    {
+      "timestamp": "2026-07-24T21:53:25.366744+00:00",
+      "close": 194.23
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-24T19:05:01+00:00",
       "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T17:10:11+00:00",
+      "title": "I'm Still Waiting For The Perfect Time To Strike On Marvell",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-24T11:09:00+00:00",
       "title": "The Zacks Analyst Blog Highlights Credo Technology, Broadcom, Marvell Technology and Astera Labs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T08:45:00+00:00",
-      "title": "Is Marvell Technology the New Nvidia?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
