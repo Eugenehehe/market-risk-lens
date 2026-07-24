@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:11:53.852271+00:00",
+  "generated_at": "2026-07-24T04:34:28.421502+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 738.18,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T23:38:43.350580+00:00",
-      "close": 754.81
-    },
     {
       "timestamp": "2026-07-16T01:07:08.574865+00:00",
       "close": 754.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T01:11:53.852271+00:00",
       "close": 738.18
+    },
+    {
+      "timestamp": "2026-07-24T04:34:28.421502+00:00",
+      "close": 738.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T01:46:05+00:00",
+      "title": "Nasdaq, S&P 500, Dow Futures Shake Off Iran Jitters As Investors Turn To AI Hyperscaler Earnings: INTC, TSLA, TTD, HIMS In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T22:34:00+00:00",
       "title": "S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil — CBRS, AMD, GOOGL, TSLA, MSTR In Focus",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-23T17:43:49+00:00",
       "title": "TSLA, GOOGL Stocks Lead 'Magnificent Seven' Rout – MAGS ETF On Track For Biggest Single-Day Loss This Year",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T17:30:00+00:00",
-      "title": "Houthis Strike, Treasuries Burn: The Rate Shock Wall Street Is Completely Blind To",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

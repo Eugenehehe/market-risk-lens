@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:11:53.852271+00:00",
+  "generated_at": "2026-07-24T04:34:28.421502+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 439.34,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T23:38:43.350580+00:00",
-      "close": 412.68
-    },
     {
       "timestamp": "2026-07-16T01:07:08.574865+00:00",
       "close": 412.68
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T01:11:53.852271+00:00",
       "close": 439.34
+    },
+    {
+      "timestamp": "2026-07-24T04:34:28.421502+00:00",
+      "close": 439.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T00:08:40+00:00",
+      "title": "Dell's Big Day Was All About Another Company",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T19:16:23+00:00",
       "title": "Arista Networks Stock Runs On A Different Fuel",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-23T13:21:39+00:00",
       "title": "Jim Cramer Still Loves Micron. Here Is the 1 Number That Shows Why He Is Right.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:16:07+00:00",
-      "title": "An Agentic AI Tide Lifting All Boats",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
