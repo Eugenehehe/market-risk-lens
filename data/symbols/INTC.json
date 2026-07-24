@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T04:34:28.421502+00:00",
+  "generated_at": "2026-07-24T07:14:43.993135+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 100.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T01:07:08.574865+00:00",
-      "close": 102.99
-    },
     {
       "timestamp": "2026-07-16T04:24:03.010940+00:00",
       "close": 102.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T04:34:28.421502+00:00",
       "close": 100.23
+    },
+    {
+      "timestamp": "2026-07-24T07:14:43.993135+00:00",
+      "close": 100.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T05:01:08+00:00",
+      "title": "Intel Corp (INTC) Q2 2026 Earnings Call Highlights: Surpassing Expectations with Strong Revenue ...",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T02:44:33+00:00",
       "title": "AMSL, AMAT, KLAC, LRCX: Chipmaking Equipment Stocks Rise On Intel’s CapEx Bump",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T22:25:21+00:00",
       "title": "Intel and AMD just got leverage they haven't had in years",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T21:54:32+00:00",
-      "title": "Intel Stock Jumps as Earnings Blow Past Expectations Amid Booming AI Demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
