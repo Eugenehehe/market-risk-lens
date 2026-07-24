@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T19:43:31.940299+00:00",
+  "generated_at": "2026-07-24T20:50:38.868912+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 913.57,
-    "change_pct": -7.739772371517151
+    "price": 920.95,
+    "change_pct": -6.994475919249455
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T18:47:35.425200+00:00",
-      "close": 847.37
-    },
     {
       "timestamp": "2026-07-16T19:51:07.306805+00:00",
       "close": 850.82
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-24T19:43:31.940299+00:00",
       "close": 913.57
+    },
+    {
+      "timestamp": "2026-07-24T20:50:38.868912+00:00",
+      "close": 920.95
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-24T19:42:18+00:00",
+      "title": "Stock Market Today: Nasdaq Slips As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T19:05:01+00:00",
       "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T18:24:13+00:00",
+      "title": "AI Memory Stocks Lead Chip Selloff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T18:20:26+00:00",
+      "title": "Why Micron Stock Is Tumbling Friday",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,32 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T17:06:50+00:00",
-      "title": "MU, SKHY, STX, WDC And Other Memory Stocks Tumble — Evercore's Daryanani Believes Supply-Demand Imbalance Is Going To Get Bigger In 2027",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:35:01+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:12:00+00:00",
-      "title": "SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T15:30:02+00:00",
-      "title": "Micron (MU) Down 18.4% Since Last Earnings Report: Can It Rebound?",
+      "timestamp": "2026-07-24T17:10:48+00:00",
+      "title": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

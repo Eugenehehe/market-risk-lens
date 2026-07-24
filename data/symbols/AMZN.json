@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T19:43:31.940299+00:00",
+  "generated_at": "2026-07-24T20:50:38.868912+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 232.16,
-    "change_pct": -0.6419584010956103
+    "price": 232.11,
+    "change_pct": -0.6633570144654599
   },
   "risk": {
     "score": 56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T18:47:35.425200+00:00",
-      "close": 252.78
-    },
     {
       "timestamp": "2026-07-16T19:51:07.306805+00:00",
       "close": 248.45
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-24T19:43:31.940299+00:00",
       "close": 232.16
+    },
+    {
+      "timestamp": "2026-07-24T20:50:38.868912+00:00",
+      "close": 232.11
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-24T19:31:36+00:00",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T19:10:04+00:00",
       "title": "Which dow jones stocks are moving on Friday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T18:17:00+00:00",
+      "title": "Amazon stock slides as Prime Day data reveals shopper shift ahead of earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T18:00:00+00:00",
+      "title": "Sean Young's TEAM LEGACY Featured in Elijah Golden's 8th Bestseller \"Why Financial Services, Volume 3,\" Celebrated With Times Square Billboard",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-24T17:29:26+00:00",
+      "title": "Trump Vows Fresh Tariffs on European Union Over Google Fine",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T17:12:14+00:00",
       "title": "Amazon’s Quietest Business is Why I Keep Buying Hand Over Fist",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T17:08:32+00:00",
-      "title": "EBAY Showered Owners With Cash. The Stock Did Not Cooperate",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:40:04+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:30:26+00:00",
-      "title": "The Cruel Tax Twist That Makes JEPI a Bad Fit for Your Brokerage Account",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:00:33+00:00",
-      "title": "Jeff Bezos Said ‘I Predict One Day Amazon Will Fail. Amazon Will Go Bankrupt’ — But the Key to Prolonging That Demise Is to ‘Obsess Over Customers’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

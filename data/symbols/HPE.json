@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T19:43:31.940299+00:00",
+  "generated_at": "2026-07-24T20:50:38.868912+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.59,
-    "change_pct": -0.10495382031905365
+    "price": 47.69,
+    "change_pct": 0.10495382031905365
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T18:47:35.425200+00:00",
-      "close": 45.24
-    },
     {
       "timestamp": "2026-07-16T19:51:07.306805+00:00",
       "close": 45.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T19:43:31.940299+00:00",
       "close": 47.59
+    },
+    {
+      "timestamp": "2026-07-24T20:50:38.868912+00:00",
+      "close": 47.69
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-24T07:01:31+00:00",
+      "title": "Citigroup Maintains Buy on Hewlett Packard, Raises Price Target to $74",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T00:08:40+00:00",
       "title": "Dell's Big Day Was All About Another Company",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T19:16:23+00:00",
       "title": "Arista Networks Stock Runs On A Different Fuel",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:55:00+00:00",
-      "title": "Penguin's ClusterWareAI Expands: Is the Platform Strategy Paying Off?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T19:43:31.940299+00:00",
+  "generated_at": "2026-07-24T20:50:38.868912+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 115.57,
-    "change_pct": -3.723758747084316
+    "price": 114.99,
+    "change_pct": -4.206931022992344
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T18:47:35.425200+00:00",
-      "close": 126.14
-    },
     {
       "timestamp": "2026-07-16T19:51:07.306805+00:00",
       "close": 124.78
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-24T19:43:31.940299+00:00",
       "close": 115.57
+    },
+    {
+      "timestamp": "2026-07-24T20:50:38.868912+00:00",
+      "close": 114.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T19:31:36+00:00",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T19:13:56+00:00",
+      "title": "Bloom Energy Tumbles 13%, FuelCell Energy Drops 9%, Plug Power Slips 4% in Fuel-Cell Selloff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T18:05:00+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-24T16:37:46+00:00",
       "title": "The Hidden Volatility Brewing Inside Intuit Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:12:00+00:00",
-      "title": "SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T15:44:19+00:00",
-      "title": "Nebius Is Down 9% Today: How Does NBIS Compare to Other AI Cloud Stocks Like CoreWeave and Cloudflare?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
