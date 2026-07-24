@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:42:30.596371+00:00",
+  "generated_at": "2026-07-24T01:11:53.852271+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 990.21,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T22:36:06.968593+00:00",
-      "close": 904.28
-    },
     {
       "timestamp": "2026-07-15T23:38:43.350580+00:00",
       "close": 904.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-23T23:42:30.596371+00:00",
       "close": 990.21
+    },
+    {
+      "timestamp": "2026-07-24T01:11:53.852271+00:00",
+      "close": 990.21
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-07-23T20:39:00+00:00",
       "title": "Micron, SK Hynix Stocks Rise After Google Earnings. Here’s Why.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-23T20:12:52+00:00",
+      "title": "Dow Dives 506 Points as Alphabet Stock Sinks: Stock Market Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T17:14:00+00:00",
       "title": "Micron vs. SK Hynix: Which Is the Better Memory Stock to Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T16:53:22+00:00",
-      "title": "Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

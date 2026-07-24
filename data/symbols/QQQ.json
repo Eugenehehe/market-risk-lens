@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:42:30.596371+00:00",
+  "generated_at": "2026-07-24T01:11:53.852271+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 691.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-15T22:36:06.968593+00:00",
-      "close": 717.74
-    },
     {
       "timestamp": "2026-07-15T23:38:43.350580+00:00",
       "close": 717.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-23T23:42:30.596371+00:00",
       "close": 691.96
+    },
+    {
+      "timestamp": "2026-07-24T01:11:53.852271+00:00",
+      "close": 691.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-23T20:15:00+00:00",
+      "title": "Initial Jobless Claims Fall To Lowest Level Since 1969",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-23T17:30:00+00:00",
       "title": "Houthis Strike, Treasuries Burn: The Rate Shock Wall Street Is Completely Blind To",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-23T13:34:45+00:00",
       "title": "AAII Sentiment Survey: Optimism Plunges",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:16:10+00:00",
-      "title": "Brent Tops $100, Alphabet, Tesla Sink Nasdaq 100: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
