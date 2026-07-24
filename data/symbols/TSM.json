@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 404.3,
-    "change_pct": -2.7142788392126582
+    "price": 406.92,
+    "change_pct": -2.083834640743054
   },
   "risk": {
-    "score": 72,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 413.61
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 408.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 404.3
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 406.92
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-24T07:30:00+00:00",
       "title": "TSMC: Robust Margins, Strong Guidance, The Market Is Getting Out Of Hand Here",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T05:42:56+00:00",
+      "title": "Why Wall Street Says Intel's Rich Valuation May Still Be Worth Paying",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T11:00:58+00:00",
       "title": "BorZen Tien's Recent Buy: Acquires $301K In Taiwan Semiconductor Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T09:35:03+00:00",
-      "title": "Elon Musk’s Unexpected Micron Moment — A Strange Twist in Tesla’s Earnings Call",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

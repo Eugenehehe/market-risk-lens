@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 117.96,
-    "change_pct": -1.7327557480839806
+    "price": 118.74,
+    "change_pct": -1.0829723425524906
   },
   "risk": {
-    "score": 64,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 126.7
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 126.04
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 117.96
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 118.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T14:13:49+00:00",
+      "title": "NOW (PSE:NOW) Tracks Software Sentiment, Is The Valuation Already Overvalued?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:05:41+00:00",
+      "title": "How Long IBM Stock Could Stay Underwater",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T12:49:00+00:00",
       "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today’s Market",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-24T12:24:55+00:00",
       "title": "Oracle Stock Gets Much-Needed Boost From Pentagon Software Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:00:33+00:00",
-      "title": "Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T11:59:57+00:00",
-      "title": "Stocks Rise Pre-Bell as Traders Assess New US Tariffs, Latest Middle East Developments",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

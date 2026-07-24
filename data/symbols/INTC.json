@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 96.52,
-    "change_pct": -3.701486580864022
+    "price": 95.72,
+    "change_pct": -4.499650803152755
   },
   "risk": {
     "score": 76,
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
+    "error": "503 Server Error: Service Unavailable for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 99.39
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 97.84
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 96.52
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 95.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T14:58:55+00:00",
+      "title": "SK Hynix and Micron Sink 6%, SanDisk Drops 9% as Korea Chip Selloff Hits U.S. Memory Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:45:22+00:00",
+      "title": "Intel Q2 Beat Supports Buy Thesis on Foundry, Server Growth, BofA Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:16:29+00:00",
+      "title": "Is Wall Street buying Intel's comeback story after blowout Q2 earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:03:11+00:00",
+      "title": "The Vastly Different Futures Priced Into Qualcomm Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:00:00+00:00",
+      "title": "INTC Q2 Earnings Call Highlights AI Demand Push",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T13:47:21+00:00",
       "title": "Stock Market Today: Dow Rises As Oil Prices Fall; SpaceX Slides On Launch Delay (Live Coverage)",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-24T13:20:23+00:00",
       "title": "Intel earnings and lower oil prices lift hopes for Wall Street rebound: Dow Jones, S&P, Nasdaq, Futures",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:16:15+00:00",
-      "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:10:08+00:00",
-      "title": "Arm Holdings (ARM) Is Up 5.9% After Overtaking x86 In AI GPU Servers - What's Changed",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:07:00+00:00",
-      "title": "Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:57:58+00:00",
-      "title": "INTC Stock Sees Price Target Hikes On Q2 Beat, But Analysts Say Key Foundry Catalyst 'Has Not Yet Arrived'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:56:00+00:00",
-      "title": "Intel Stock Is Rallying. Why Analysts See More Gains to Come.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

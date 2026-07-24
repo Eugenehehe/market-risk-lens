@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 438.54,
-    "change_pct": -0.18209131879636242
+    "price": 446.78,
+    "change_pct": 1.6934492648063015
   },
   "risk": {
-    "score": 52,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 405.63
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 399.96
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 438.54
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 446.78
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-24T14:10:17+00:00",
+      "title": "Texas A&M selects Dell Technologies to develop new AI supercomputing platform",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T13:00:00+00:00",
       "title": "Texas A&M Engineering Experiment Station Selects Dell Technologies to Build a Secure AI Platform for National Research",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T07:51:21+00:00",
+      "title": "Dell To Rally More Than 17%? Here Are 10 Top Analyst Forecasts For Friday",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-23T14:37:00+00:00",
       "title": "Zacks Investment Ideas feature highlights: NVIDIA, Google, Palantir, ServiceNow and Super Micro Computer",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T14:07:00+00:00",
-      "title": "STMicroelectronics Q2 Earnings & Revenues Top Estimates, Both Up Y/Y",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T13:59:11+00:00",
-      "title": "Why Is Super Micro Computer Stock Surging on Thursday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

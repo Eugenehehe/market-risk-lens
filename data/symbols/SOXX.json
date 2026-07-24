@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 530.77,
-    "change_pct": -3.71344604890792
+    "price": 535.38,
+    "change_pct": -2.877149698860748
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 537.15
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 532.12
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 530.77
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 535.38
     }
   ],
   "events": [

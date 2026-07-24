@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 382.17,
-    "change_pct": -2.6244044130761646
+    "price": 385.47,
+    "change_pct": -1.7835758147119574
   },
   "risk": {
-    "score": 71,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 382.7
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 380.44
@@ -502,12 +498,40 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 382.17
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 385.47
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-24T14:24:59+00:00",
+      "title": "Why Big Tech barnings could define the market next week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T14:03:11+00:00",
+      "title": "The Vastly Different Futures Priced Into Qualcomm Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T13:16:15+00:00",
       "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T13:00:00+00:00",
+      "title": "U.S. Memory Stock Pullback May Offer Investors a Fresh Buying Opportunity",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-24T10:13:20+00:00",
       "title": "Why Wall Street May Be Mispricing Qualcomm's AI Future, Citrini Says",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T09:30:00+00:00",
-      "title": "Why Dividend Investing Often Wins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T09:30:00+00:00",
-      "title": "Broadcom: Don't Let The Recent AI Meltdown Go To Waste",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T07:16:31+00:00",
-      "title": "Broadcom (AVGO) Lands At The Center Of A $35 Billion AI Financing Trade",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

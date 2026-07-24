@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1769.17,
-    "change_pct": -1.8763172490293911
+    "price": 1780.38,
+    "change_pct": -1.254575707154737
   },
   "risk": {
-    "score": 66,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
+    "error": "503 Server Error: Service Unavailable for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 1823.57
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 1811.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 1769.17
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 1780.38
     }
   ],
   "events": [
@@ -562,9 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-23T16:24:00+00:00",
-      "title": "ASML Holdings' EUV Leadership Strengthens Long-Term Growth",
-      "source": "Yahoo",
+      "timestamp": "2026-07-23T17:18:51+00:00",
+      "title": "New Senator Makes 700+ Stock Trades, Ditches Old Oil Company for Magnificent Seven",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

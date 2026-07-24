@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 330.11,
-    "change_pct": 2.6269974507243665
+    "price": 333.8,
+    "change_pct": 3.7741714854193864
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 330.37
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 331.57
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 330.11
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 333.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T14:25:08+00:00",
+      "title": "1 S&P 500 Stock to Target This Week and 2 Facing Headwinds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T13:57:51+00:00",
+      "title": "The Discount On GOOGL Stock Looks Overdone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T13:16:15+00:00",
       "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-24T12:20:23+00:00",
       "title": "Momentum Crash Hits YOLO Traders’ Returns by Most in Four Years",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:09:00+00:00",
-      "title": "The Stock Market Faces a Summer Storm of Risk",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:01:11+00:00",
-      "title": "Apple Stock Shines As Earnings Approach, But Remaining Magnificent 6 Stumble With Nasdaq",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

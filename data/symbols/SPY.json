@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T14:54:47.128870+00:00",
+  "generated_at": "2026-07-24T16:40:59.144492+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 739.25,
-    "change_pct": 0.1449510959386613
+    "price": 742.28,
+    "change_pct": 0.5554200872415871
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T14:50:51.166457+00:00",
-      "close": 754.23
-    },
     {
       "timestamp": "2026-07-16T16:08:46.654683+00:00",
       "close": 752.83
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 739.25
+    },
+    {
+      "timestamp": "2026-07-24T16:40:59.144492+00:00",
+      "close": 742.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T15:34:56+00:00",
+      "title": "Trump Account or 529? Where Your Kid’s First $1,000 Grows Faster",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T13:55:56+00:00",
       "title": "If Your Teenager Has A Part Time Job, You Can Probably Make Them A Tax Free Millionaire In Retirement. Here’s The Math",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-24T12:08:00+00:00",
+      "title": "Markets Take A Breather; Crude Oil Prices Retreat",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T12:00:33+00:00",
       "title": "Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-24T10:20:29+00:00",
       "title": "Is The Consumer On His Deathbed?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T10:05:16+00:00",
-      "title": "TDV: An AI-Driven Dividend Growth ETF Emerges",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T10:05:00+00:00",
-      "title": "Things Are Getting Interesting In Macro Kingdom",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
