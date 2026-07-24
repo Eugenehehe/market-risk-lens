@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:37:56.396969+00:00",
+  "generated_at": "2026-07-24T11:23:24.678580+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 738.18,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T06:41:22.454986+00:00",
-      "close": 754.81
-    },
     {
       "timestamp": "2026-07-16T09:03:31.355520+00:00",
       "close": 754.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-24T09:37:56.396969+00:00",
       "close": 738.18
+    },
+    {
+      "timestamp": "2026-07-24T11:23:24.678580+00:00",
+      "close": 738.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-24T06:50:00+00:00",
+      "title": "AI Capex Depreciation Risk Is The Catch To Record Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T01:46:05+00:00",
       "title": "Nasdaq, S&P 500, Dow Futures Shake Off Iran Jitters As Investors Turn To AI Hyperscaler Earnings: INTC, TSLA, TTD, HIMS In Focus",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-23T18:53:02+00:00",
       "title": "These Growth Funds Are On Quiet Sale",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T18:06:22+00:00",
-      "title": "XOP ETF Holds Fewer Bets Than You Think",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
