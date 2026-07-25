@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T22:57:41.972904+00:00",
+  "generated_at": "2026-07-25T00:10:08.558769+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 527.01,
     "change_pct": -4.395544590378064
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T21:48:05.594496+00:00",
-      "close": 530.5
-    },
     {
       "timestamp": "2026-07-16T22:43:08.533081+00:00",
       "close": 530.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-24T22:57:41.972904+00:00",
       "close": 527.01
+    },
+    {
+      "timestamp": "2026-07-25T00:10:08.558769+00:00",
+      "close": 527.01
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-07-23T07:30:00+00:00",
       "title": "CHPY: A Risky Dip That Could Be Worth Buying For Weekly Cash Flow",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T23:35:00+00:00",
-      "title": "Is AI Making Inflation Better Or Worse?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-22T16:18:06+00:00",
-      "title": "Time to Buy SanDisk, Micron? BlackRock Says Chip Stock Rout Is Overdone",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
