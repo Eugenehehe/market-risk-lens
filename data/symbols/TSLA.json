@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T21:35:15.643323+00:00",
+  "generated_at": "2026-07-25T22:33:28.884427+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 313.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T20:42:25.416603+00:00",
-      "close": 380.84
-    },
     {
       "timestamp": "2026-07-17T21:36:06.881953+00:00",
       "close": 380.84
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-25T21:35:15.643323+00:00",
       "close": 313.03
+    },
+    {
+      "timestamp": "2026-07-25T22:33:28.884427+00:00",
+      "close": 313.03
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-25T19:50:00+00:00",
       "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T19:00:25+00:00",
+      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -541,14 +549,6 @@
       "timestamp": "2026-07-25T16:20:00+00:00",
       "title": "BYD Already Surpassed Ford, and It's Only Now Revving Up Ambitions. Here's How It Can Win.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T15:00:25+00:00",
-      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
