@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T00:10:08.558769+00:00",
+  "generated_at": "2026-07-25T03:37:15.977476+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 521.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T22:43:08.533081+00:00",
-      "close": 500.94
-    },
     {
       "timestamp": "2026-07-16T23:41:16.421009+00:00",
       "close": 500.94
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-25T00:10:08.558769+00:00",
       "close": 521.95
+    },
+    {
+      "timestamp": "2026-07-25T03:37:15.977476+00:00",
+      "close": 521.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T01:11:08+00:00",
+      "title": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T22:12:51+00:00",
+      "title": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-24T21:14:44+00:00",
       "title": "MRVL Has Momentum. The Question Is The Price",
@@ -530,40 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-24T20:10:25+00:00",
+      "title": "Advanced Micro Devices, Inc. (AMD) Presents at AMD Advancing AI 2026 Transcript",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-24T19:57:00+00:00",
+      "title": "AMD Lays Out AI Vision Across Cloud, Client And Robotics",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-24T19:49:01+00:00",
       "title": "Advanced Micro Devices vs. Alphabet: What Do the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T19:22:00+00:00",
-      "title": "VAST Data Expands Collaboration with AMD to Advance AI Infrastructure for the Inference Era",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T18:50:05+00:00",
-      "title": "AMD Draws Analyst Praise After Bullish AI Event",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T18:27:11+00:00",
-      "title": "AMD Stock Scores Price-Target Hikes On AI Computer News",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T18:24:13+00:00",
-      "title": "AI Memory Stocks Lead Chip Selloff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
