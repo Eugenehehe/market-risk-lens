@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:15:07.448554+00:00",
+  "generated_at": "2026-07-25T15:31:29.590654+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 92.32,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T12:09:52.686090+00:00",
-      "close": 96.98
-    },
     {
       "timestamp": "2026-07-17T14:03:15.601906+00:00",
       "close": 93.62
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-25T14:15:07.448554+00:00",
       "close": 92.32
+    },
+    {
+      "timestamp": "2026-07-25T15:31:29.590654+00:00",
+      "close": 92.32
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-25T11:09:23+00:00",
       "title": "Can ASML Holding (NasdaqGS:ASML) Stay Reasonably Priced After Its 150% Run?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T10:31:56+00:00",
+      "title": "Intel Q2: AI Has Revived The CPU Franchise, But Foundry Has Not Earned Its Valuation",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-24T22:19:46+00:00",
       "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T22:12:51+00:00",
-      "title": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

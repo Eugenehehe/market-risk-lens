@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:15:07.448554+00:00",
+  "generated_at": "2026-07-25T15:31:29.590654+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T12:09:52.686090+00:00",
-      "close": 333.26
-    },
     {
       "timestamp": "2026-07-17T14:03:15.601906+00:00",
       "close": 330.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-25T14:15:07.448554+00:00",
       "close": 333.02
+    },
+    {
+      "timestamp": "2026-07-25T15:31:29.590654+00:00",
+      "close": 333.02
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-25T11:00:00+00:00",
+      "title": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-25T09:10:00+00:00",
       "title": "Apple Earnings Preview: Q3 2026",
       "source": "SeekingAlpha",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-25T09:00:00+00:00",
       "title": "Alphabet: Won't Be This Cheap For Long",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T08:48:00+00:00",
-      "title": "1 Popular Cryptocurrency to Buy Before It Soars 1,125%, According to Cathie Wood's Ark Invest",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

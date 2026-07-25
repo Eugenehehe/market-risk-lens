@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T14:15:07.448554+00:00",
+  "generated_at": "2026-07-25T15:31:29.590654+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 527.01,
     "change_pct": -4.395544590378064
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T12:09:52.686090+00:00",
-      "close": 530.5
-    },
     {
       "timestamp": "2026-07-17T14:03:15.601906+00:00",
       "close": 517.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-25T14:15:07.448554+00:00",
       "close": 527.01
+    },
+    {
+      "timestamp": "2026-07-25T15:31:29.590654+00:00",
+      "close": 527.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T10:59:26+00:00",
+      "title": "Thinking About The Semiconductor Pullback And Positioning",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T03:20:00+00:00",
       "title": "Patience, Liquidity, And The Value Of Optionality",
