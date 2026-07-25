@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T12:35:01.216403+00:00",
+  "generated_at": "2026-07-25T14:15:07.448554+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 684.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T10:55:22.422371+00:00",
-      "close": 705.94
-    },
     {
       "timestamp": "2026-07-17T12:09:52.686090+00:00",
       "close": 705.94
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-25T12:35:01.216403+00:00",
       "close": 684.23
+    },
+    {
+      "timestamp": "2026-07-25T14:15:07.448554+00:00",
+      "close": 684.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T08:30:00+00:00",
+      "title": "Stop Counting Tariffs, Start Counting Hikes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T08:00:00+00:00",
       "title": "Weekly Indicators: Oil, Gas, And Interest Rates All Rose This Week",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-24T17:05:01+00:00",
       "title": "The One Bond Chart That Keeps Me Up At Night",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T16:23:43+00:00",
-      "title": "Market Valuations Are Beyond Stretched",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
