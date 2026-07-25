@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T06:05:14.673125+00:00",
+  "generated_at": "2026-07-25T08:21:35.930164+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 114.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T01:12:50.308415+00:00",
-      "close": 124.21
-    },
     {
       "timestamp": "2026-07-17T04:27:17.496563+00:00",
       "close": 124.21
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-25T06:05:14.673125+00:00",
       "close": 114.99
+    },
+    {
+      "timestamp": "2026-07-25T08:21:35.930164+00:00",
+      "close": 114.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T06:55:04+00:00",
+      "title": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T06:20:00+00:00",
+      "title": "Oracle Is Spending Billions on AI. Why It Might Not Pay Off.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T02:33:00+00:00",
       "title": "Oracle’s defense pivot lands its biggest government win yet",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-24T19:31:36+00:00",
       "title": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T19:13:56+00:00",
-      "title": "Bloom Energy Tumbles 13%, FuelCell Energy Drops 9%, Plug Power Slips 4% in Fuel-Cell Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T18:05:00+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
