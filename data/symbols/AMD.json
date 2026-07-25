@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:31:29.590654+00:00",
+  "generated_at": "2026-07-25T16:28:27.130860+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 521.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T14:03:15.601906+00:00",
-      "close": 481.63
-    },
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 485.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-25T15:31:29.590654+00:00",
       "close": 521.95
+    },
+    {
+      "timestamp": "2026-07-25T16:28:27.130860+00:00",
+      "close": 521.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T14:30:15+00:00",
+      "title": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T09:56:35+00:00",
       "title": "AMD: The Next Leg Higher",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-24T20:19:00+00:00",
       "title": "AMD, Newly Emboldened, Is Taking Direct Aim at Nvidia",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T20:10:25+00:00",
-      "title": "Advanced Micro Devices, Inc. (AMD) Presents at AMD Advancing AI 2026 Transcript",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:31:29.590654+00:00",
+  "generated_at": "2026-07-25T16:28:27.130860+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T14:03:15.601906+00:00",
-      "close": 330.3
-    },
     {
       "timestamp": "2026-07-17T15:24:34.006388+00:00",
       "close": 333.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-25T15:31:29.590654+00:00",
       "close": 333.02
+    },
+    {
+      "timestamp": "2026-07-25T16:28:27.130860+00:00",
+      "close": 333.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T15:52:27+00:00",
+      "title": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T13:19:09+00:00",
       "title": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-25T09:10:00+00:00",
       "title": "Apple Earnings Preview: Q3 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T09:00:00+00:00",
-      "title": "Alphabet: Won't Be This Cheap For Long",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
