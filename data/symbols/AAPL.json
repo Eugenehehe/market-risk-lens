@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:50:03.439177+00:00",
+  "generated_at": "2026-07-25T20:37:33.345679+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T18:43:53.821771+00:00",
-      "close": 333.08
-    },
     {
       "timestamp": "2026-07-17T19:51:14.413733+00:00",
       "close": 333.92
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-25T19:50:03.439177+00:00",
       "close": 333.02
+    },
+    {
+      "timestamp": "2026-07-25T20:37:33.345679+00:00",
+      "close": 333.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T19:08:20+00:00",
+      "title": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T18:46:00+00:00",
+      "title": "Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T15:52:27+00:00",
       "title": "Inside DGRW: How a 32% Payout Ratio Keeps Distributions Safe While Markets Shift",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-25T12:02:38+00:00",
       "title": "Apple’s Fight With Micron Just Took a Wild Turn — And It Could Reshape the Memory Market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T11:00:00+00:00",
-      "title": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T09:10:00+00:00",
-      "title": "Apple Earnings Preview: Q3 2026",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:50:03.439177+00:00",
+  "generated_at": "2026-07-25T20:37:33.345679+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 114.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T18:43:53.821771+00:00",
-      "close": 126.41
-    },
     {
       "timestamp": "2026-07-17T19:51:14.413733+00:00",
       "close": 126.32
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-25T19:50:03.439177+00:00",
       "close": 114.99
+    },
+    {
+      "timestamp": "2026-07-25T20:37:33.345679+00:00",
+      "close": 114.99
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-25T17:10:00+00:00",
       "title": "Larry Ellison Personally Guaranteed $40.4 Billion of His Son's Warner Bros. Discovery Deal. Now 12 States Have Sued to Block It, and Oracle Stock Has Fallen 34% This Month.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T15:00:25+00:00",
+      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-24T22:57:00+00:00",
       "title": "Oracle Just Hit a New 52-Week Low. Wall Street's Average Target Is Still More Than Double the Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T22:31:16+00:00",
-      "title": "Trump Is Expanding a Pledge That Could Stop AI Data Centers From Hiking Your Electricity Bill— Here's Who Just Signed On",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
