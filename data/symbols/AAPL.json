@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:37:15.977476+00:00",
+  "generated_at": "2026-07-25T06:05:14.673125+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-16T23:41:16.421009+00:00",
-      "close": 333.26
-    },
     {
       "timestamp": "2026-07-17T01:12:50.308415+00:00",
       "close": 333.26
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-25T03:37:15.977476+00:00",
       "close": 333.02
+    },
+    {
+      "timestamp": "2026-07-25T06:05:14.673125+00:00",
+      "close": 333.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-25T03:09:00+00:00",
+      "title": "Trump faces Apple-Micron clash over Chinese memory chips - WSJ",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T03:02:33+00:00",
+      "title": "Why Apple Stock Is Up Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T00:21:39+00:00",
       "title": "Meta quits clean energy pledge amid gas-powered data center push",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-24T20:49:26+00:00",
       "title": "Rotation Hits Magnificent 7: How Strong Ratings Sparked Apple Stock Swing Trade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T20:29:27+00:00",
-      "title": "Like It or Not, Apple Built a Perfect Mousetrap, So I Keep on Buying",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T20:00:43+00:00",
-      "title": "Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
