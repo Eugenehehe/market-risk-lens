@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:33:28.884427+00:00",
+  "generated_at": "2026-07-25T23:37:52.358416+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 319.74,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T21:36:06.881953+00:00",
-      "close": 346.77
-    },
     {
       "timestamp": "2026-07-17T22:29:04.915623+00:00",
       "close": 346.77
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-25T22:33:28.884427+00:00",
       "close": 319.74
+    },
+    {
+      "timestamp": "2026-07-25T23:37:52.358416+00:00",
+      "close": 319.74
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-25T20:56:50+00:00",
       "title": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-25T17:34:31+00:00",
+      "title": "Tesla, Intel, Google All Dropped After Earnings - Will Microsoft, Amazon, Meta Follow?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-25T15:17:00+00:00",
       "title": "Mark Cuban sees a problem with the AI spending spree",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T13:44:21+00:00",
-      "title": "Data Centers — Not Iran — Are Fueling the U.S.’s Coming Energy Crisis",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
