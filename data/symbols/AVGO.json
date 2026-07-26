@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:28:13.857986+00:00",
+  "generated_at": "2026-07-26T18:35:11.380424+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 381.92,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T14:09:25.857322+00:00",
-      "close": 370.825
-    },
     {
       "timestamp": "2026-07-18T15:14:25.438729+00:00",
       "close": 370.825
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-26T17:28:13.857986+00:00",
       "close": 381.92
+    },
+    {
+      "timestamp": "2026-07-26T18:35:11.380424+00:00",
+      "close": 381.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-26T07:33:11+00:00",
+      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T22:28:42+00:00",
       "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2026 Update",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-25T01:00:01+00:00",
       "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal ",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T23:00:02+00:00",
-      "title": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
