@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T09:34:12.828353+00:00",
+  "generated_at": "2026-07-26T11:06:15.752219+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 313.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T06:17:00.201380+00:00",
-      "close": 380.84
-    },
     {
       "timestamp": "2026-07-18T08:12:41.184755+00:00",
       "close": 380.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-26T09:34:12.828353+00:00",
       "close": 313.03
+    },
+    {
+      "timestamp": "2026-07-26T11:06:15.752219+00:00",
+      "close": 313.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-26T09:40:00+00:00",
+      "title": "Down 30% on the Year, Is Tesla Stock a Buy On This Latest Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-26T05:17:00+00:00",
       "title": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-25T16:57:00+00:00",
       "title": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T16:30:26+00:00",
-      "title": "Elon Musk Says ‘Only Way’ the U.S. Deficit Will Actually Get Paid Is by ‘Taxing the Living Daylights Out of Everyone’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
