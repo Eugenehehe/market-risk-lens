@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:14:29.652629+00:00",
+  "generated_at": "2026-07-26T16:15:53.916586+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 92.32,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T11:46:10.131352+00:00",
-      "close": 95.04
-    },
     {
       "timestamp": "2026-07-18T12:40:13.579407+00:00",
       "close": 95.04
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 92.32
+    },
+    {
+      "timestamp": "2026-07-26T16:15:53.916586+00:00",
+      "close": 92.32
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-26T14:31:15+00:00",
+      "title": "Trump Says The Government’s Intel Stake Made $70 Billion in Eight Months — ‘Do I Get Credit for That? No’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-26T12:00:18+00:00",
       "title": "Intel CEO Lip-Bu Tan Eyes $100 Billion Custom AI Chip Market, Backs $20 Over Billion CapEx Push Amid 'Unprecedented Demand for Compute'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-26T12:00:00+00:00",
+      "title": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-26T05:12:43+00:00",
       "title": "Intel: Grotesque Valuation",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T01:30:20+00:00",
-      "title": "Intel CEO Lip-Bu Tan Warns AI Supply Crunch Won't Ease: Shortages Will 'Persist for the Foreseeable Future'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T23:20:00+00:00",
-      "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
