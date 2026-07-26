@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:49:45.703400+00:00",
+  "generated_at": "2026-07-26T20:42:18.666336+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 521.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T16:13:07.045713+00:00",
-      "close": 495.76
-    },
     {
       "timestamp": "2026-07-18T17:16:43.345069+00:00",
       "close": 495.76
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 521.95
+    },
+    {
+      "timestamp": "2026-07-26T20:42:18.666336+00:00",
+      "close": 521.95
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-26T13:03:00+00:00",
       "title": "UBS hurries to reset AMD stock target on key AI Day signals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-26T13:00:02+00:00",
+      "title": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-25T17:31:00+00:00",
       "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T16:17:00+00:00",
-      "title": "Bank of America revamps AMD stock price target for 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
