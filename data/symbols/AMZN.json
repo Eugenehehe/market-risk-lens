@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:42:18.666336+00:00",
+  "generated_at": "2026-07-26T21:41:31.518769+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 232.11,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T17:16:43.345069+00:00",
-      "close": 247.23
-    },
     {
       "timestamp": "2026-07-18T18:11:52.400716+00:00",
       "close": 247.23
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-26T20:42:18.666336+00:00",
       "close": 232.11
+    },
+    {
+      "timestamp": "2026-07-26T21:41:31.518769+00:00",
+      "close": 232.11
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-26T16:35:00+00:00",
       "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-26T15:25:34+00:00",
+      "title": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-26T10:00:00+00:00",
       "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T09:25:00+00:00",
-      "title": "Blue Origin Raised $10 Billion at a $130 Billion Valuation Under Jeff Bezos",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
