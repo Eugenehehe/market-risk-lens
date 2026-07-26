@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:42:09.507397+00:00",
+  "generated_at": "2026-07-26T23:43:16.987447+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 381.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T19:33:34.003691+00:00",
-      "close": 393.82
-    },
     {
       "timestamp": "2026-07-18T20:24:26.953907+00:00",
       "close": 393.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-26T22:42:09.507397+00:00",
       "close": 381.7
+    },
+    {
+      "timestamp": "2026-07-26T23:43:16.987447+00:00",
+      "close": 381.7
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-26T21:17:18+00:00",
       "title": "Dow Jones Futures Due, Iran News In focus; Apple Leads Earnings Wave, Fed Meeting Ahead",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-26T19:08:30+00:00",
+      "title": "Tracking Lone Pine Capital Portfolio - Q1 2026 Update",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-26T15:25:34+00:00",
       "title": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T15:24:30+00:00",
-      "title": "Magnificent 7 Trade Is Broken — Here’s Where Smart Investors Should Look Next",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
