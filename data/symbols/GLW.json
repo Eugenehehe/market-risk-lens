@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T23:37:52.358416+00:00",
+  "generated_at": "2026-07-26T01:13:53.862513+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 146.65,
     "change_pct": -6.029732154299627
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T22:29:04.915623+00:00",
-      "close": 154.61
-    },
     {
       "timestamp": "2026-07-17T23:28:51.607352+00:00",
       "close": 154.61
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 146.65
+    },
+    {
+      "timestamp": "2026-07-26T01:13:53.862513+00:00",
+      "close": 146.65
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-07-24T12:55:00+00:00",
       "title": "Intel Q2 Earnings Surpass Estimates on Solid Top-Line Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T22:20:07+00:00",
-      "title": "Knowles (KN) Beats Q2 Earnings and Revenue Estimates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T16:16:00+00:00",
-      "title": "Nokia's Q2 Earnings Beat Estimates on Higher AI & Cloud Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T15:29:00+00:00",
-      "title": "TMUS Q2 Earnings Top Estimates on Strong Service Revenue Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

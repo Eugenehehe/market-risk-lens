@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T23:37:52.358416+00:00",
+  "generated_at": "2026-07-26T01:13:53.862513+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 47.69,
     "change_pct": 0.10495382031905365
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-17T22:29:04.915623+00:00",
-      "close": 45.82
-    },
     {
       "timestamp": "2026-07-17T23:28:51.607352+00:00",
       "close": 45.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 47.69
+    },
+    {
+      "timestamp": "2026-07-26T01:13:53.862513+00:00",
+      "close": 47.69
     }
   ],
   "events": [
@@ -556,14 +556,6 @@
     {
       "timestamp": "2026-07-24T00:08:40+00:00",
       "title": "Dell's Big Day Was All About Another Company",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-23T19:16:23+00:00",
-      "title": "Arista Networks Stock Runs On A Different Fuel",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
