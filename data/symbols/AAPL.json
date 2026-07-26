@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:46:34.664353+00:00",
+  "generated_at": "2026-07-26T07:26:24.632562+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T00:59:36.102313+00:00",
-      "close": 333.74
-    },
     {
       "timestamp": "2026-07-18T04:07:50.937158+00:00",
       "close": 333.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-26T04:46:34.664353+00:00",
       "close": 333.02
+    },
+    {
+      "timestamp": "2026-07-26T07:26:24.632562+00:00",
+      "close": 333.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-26T05:17:00+00:00",
+      "title": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T22:28:42+00:00",
       "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2026 Update",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-25T13:19:09+00:00",
       "title": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T12:54:00+00:00",
-      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
