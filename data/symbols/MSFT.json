@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T16:54:12.651022+00:00",
+  "generated_at": "2026-07-27T18:22:42.173122+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 391.05,
-    "change_pct": 2.449567723342949
+    "price": 393.23,
+    "change_pct": 3.0206968823683678
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T06:31:25.758846+00:00",
-      "close": 393.82
-    },
     {
       "timestamp": "2026-07-19T08:55:49.430342+00:00",
       "close": 393.82
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-07-27T16:54:12.651022+00:00",
       "close": 391.05
+    },
+    {
+      "timestamp": "2026-07-27T18:22:42.173122+00:00",
+      "close": 393.23
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-27T15:50:56+00:00",
-      "title": "Nvidia’s Margins are Safe This Decade So I Keep Loading Up as Fear Resonates",
+      "timestamp": "2026-07-27T17:35:32+00:00",
+      "title": "Sector Update: Tech Stocks Fall Monday Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T15:10:00+00:00",
-      "title": "Just 3 \"Magnificent Seven\" Stocks Remain Founder-Led. Should Investors Bet on Elon Musk, Mark Zuckerberg, or Jensen Huang for the Long Term?",
+      "timestamp": "2026-07-27T17:34:00+00:00",
+      "title": "Apple Is Barely Spending on AI While Its Rivals Pour In $700 Billion. Is That Discipline or Denial?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T15:08:50+00:00",
-      "title": "Apple Is on Track to Dethrone Nvidia",
+      "timestamp": "2026-07-27T17:27:09+00:00",
+      "title": "SpaceX and Tesla shed $1.2 trillion in July as Apple keeps the megacaps afloat: Chart of the Day",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T14:55:44+00:00",
-      "title": "I’m Buying Microsoft Before July 29 for One Reason",
+      "timestamp": "2026-07-27T17:16:10+00:00",
+      "title": "S&P 500 Second-Quarter Earnings Growth Reaches 70%, Oppenheimer Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T14:30:00+00:00",
-      "title": "Week ahead: Wall Street's biggest summer test is here with Big Tech, Fed on deck",
+      "timestamp": "2026-07-27T17:04:43+00:00",
+      "title": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T14:26:47+00:00",
-      "title": "I Will Keep Buying Amazon After Wall Street Next ‘Capex Panic’ Drops The Stock Price",
+      "timestamp": "2026-07-27T16:50:26+00:00",
+      "title": "Wedbush Tweaks AMD Stock Price Target Ahead of Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T14:06:28+00:00",
-      "title": "Dan Ives Is Still Bullish on Nvidia: ‘We’re in the 3rd Inning of the AI Revolution,’ and Demand Is Outpacing Supply “12 to 1”",
+      "timestamp": "2026-07-27T16:45:00+00:00",
+      "title": "Could AMD Dethrone Nvidia?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T13:46:11+00:00",
-      "title": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
-      "source": "Yahoo",
+      "timestamp": "2026-07-27T16:40:04+00:00",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

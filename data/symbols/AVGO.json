@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T16:54:12.651022+00:00",
+  "generated_at": "2026-07-27T18:22:42.173122+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 381.19,
-    "change_pct": -0.1911395056556353
+    "price": 379.75,
+    "change_pct": -0.5681818181818232
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T06:31:25.758846+00:00",
-      "close": 370.825
-    },
     {
       "timestamp": "2026-07-19T08:55:49.430342+00:00",
       "close": 370.825
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-27T16:54:12.651022+00:00",
       "close": 381.19
+    },
+    {
+      "timestamp": "2026-07-27T18:22:42.173122+00:00",
+      "close": 379.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T17:20:00+00:00",
+      "title": "Should You Buy Broadcom Stock While It's Under $400?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T16:47:50+00:00",
+      "title": "Broadcom Stock Jumps as Samsung Lands Massive $200 Billion AI Chip Deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T16:19:00+00:00",
+      "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T15:50:56+00:00",
       "title": "Nvidia’s Margins are Safe This Decade So I Keep Loading Up as Fear Resonates",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-27T13:52:00+00:00",
       "title": "Broadcom and Samsung’s Expanded Pact Could Unleash $1 Trillion Revenue Wave",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:34:54+00:00",
-      "title": "The Broadcom Trade Is A Bet On The Market You Already Own, Amplified",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:28:00+00:00",
-      "title": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:25:43+00:00",
-      "title": "Broadcom (AVGO) Rose on Strong Custom Silicon Demand and New Client Wins",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

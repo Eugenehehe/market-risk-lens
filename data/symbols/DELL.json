@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T16:54:12.651022+00:00",
+  "generated_at": "2026-07-27T18:22:42.173122+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 423.83,
-    "change_pct": -3.124571428571432
+    "price": 419.31,
+    "change_pct": -4.157714285714286
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T06:31:25.758846+00:00",
-      "close": 396.34
-    },
     {
       "timestamp": "2026-07-19T08:55:49.430342+00:00",
       "close": 396.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T16:54:12.651022+00:00",
       "close": 423.83
+    },
+    {
+      "timestamp": "2026-07-27T18:22:42.173122+00:00",
+      "close": 419.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T16:00:49+00:00",
+      "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T13:45:23+00:00",
       "title": "What Cisco's Big Run Actually Adds To Your Portfolio",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T08:15:31+00:00",
       "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T15:43:00+00:00",
-      "title": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
