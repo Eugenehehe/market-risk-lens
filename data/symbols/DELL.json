@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T11:57:46.206401+00:00",
+  "generated_at": "2026-07-27T14:53:11.595853+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 437.5,
-    "change_pct": -0.41881003323166466
+    "price": 421.37,
+    "change_pct": -3.6868571428571473
   },
   "risk": {
-    "score": 46,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T00:11:11.749383+00:00",
-      "close": 396.34
-    },
     {
       "timestamp": "2026-07-19T03:55:45.102160+00:00",
       "close": 396.34
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 437.5
+    },
+    {
+      "timestamp": "2026-07-27T14:53:11.595853+00:00",
+      "close": 421.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T11:23:55+00:00",
+      "title": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T11:14:22+00:00",
+      "title": "Crypto Treasury Firms Pivot to AI in Bid to Win Back Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T11:07:46+00:00",
+      "title": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense – But Meta's Missing From The List",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T10:31:49+00:00",
+      "title": "Super Micro: A Phantom Backlog And Unearned Hype",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T10:31:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights INTC, DELL and PGR",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-26T15:43:00+00:00",
       "title": "This AI Stock Has Tripled in 2026. It Could Still Double in 3 Years (Hint: It's Not Micron)",
@@ -524,14 +564,6 @@
     {
       "timestamp": "2026-07-25T12:00:28+00:00",
       "title": "Eli Lilly, Dell Among Stocks To Watch As Market Leadership Shifts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T01:11:15+00:00",
-      "title": "Dell (DELL) Chosen To Build Texas A&M’s IGNITE AI Research Platform",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

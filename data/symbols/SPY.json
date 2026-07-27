@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T11:57:46.206401+00:00",
+  "generated_at": "2026-07-27T14:53:11.595853+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 738.93,
-    "change_pct": 0.10160123547102717
+    "price": 738.7,
+    "change_pct": -0.031126087721422557
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T00:11:11.749383+00:00",
-      "close": 743.29
-    },
     {
       "timestamp": "2026-07-19T03:55:45.102160+00:00",
       "close": 743.29
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 738.93
+    },
+    {
+      "timestamp": "2026-07-27T14:53:11.595853+00:00",
+      "close": 738.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T13:19:56+00:00",
+      "title": "Market Breadth Slips to a Negative Bias as Short-Term Support Weakens",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T13:05:12+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Oil Prices Fall",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T13:00:00+00:00",
+      "title": "WEBs Defined Volatility℠ Sector ETFs Celebrate One Year of Helping Investors Navigate Volatile Markets",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T09:28:05+00:00",
+      "title": "The Stock Market Is Not Overvalued, Yet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T08:36:55+00:00",
+      "title": "AI Is Killing Stocks, But Not The Way You Think",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T08:17:00+00:00",
+      "title": "S&P 500 Declines As Higher Oil Prices, AI Capex Spending, And Risk Of Rate Hikes Scare Wall Street Bulls",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T07:19:00+00:00",
       "title": "Is The AI Earnings Upswing A 'Pig In The Python'?",
@@ -517,54 +565,6 @@
       "timestamp": "2026-07-27T05:34:00+00:00",
       "title": "Rates Spark: Either Way, The Fed Will Surprise",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T04:30:00+00:00",
-      "title": "S&P 500 Earnings Yield Now 5%; A Quick Take On Google's Earnings Report",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T02:22:28+00:00",
-      "title": "Nasdaq, S&P 500, Dow Futures Rise As Iran Pause Eases Oil Fears Ahead Of Big Tech Earnings, Fed Meeting: ORCL, NVDA, VG, DEL In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T23:53:57+00:00",
-      "title": "How $400,000 in BDC ETFs Can Pay $36,000 a Year and What the Default Risk Really Looks Like",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T22:55:23+00:00",
-      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T22:29:00+00:00",
-      "title": "The AI Bubble Is Bigger Than Ever And The Cracks Are Starting To Show",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T20:02:46+00:00",
-      "title": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

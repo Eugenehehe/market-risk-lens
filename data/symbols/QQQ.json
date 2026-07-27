@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T11:57:46.206401+00:00",
+  "generated_at": "2026-07-27T14:53:11.595853+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 684.23,
-    "change_pct": -1.117116596335055
+    "price": 680.39,
+    "change_pct": -0.5612147961942648
   },
   "risk": {
-    "score": 59,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T00:11:11.749383+00:00",
-      "close": 695.33
-    },
     {
       "timestamp": "2026-07-19T03:55:45.102160+00:00",
       "close": 695.33
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 684.23
+    },
+    {
+      "timestamp": "2026-07-27T14:53:11.595853+00:00",
+      "close": 680.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T13:19:56+00:00",
+      "title": "Market Breadth Slips to a Negative Bias as Short-Term Support Weakens",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T09:28:05+00:00",
+      "title": "The Stock Market Is Not Overvalued, Yet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T08:36:55+00:00",
+      "title": "AI Is Killing Stocks, But Not The Way You Think",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T07:19:00+00:00",
       "title": "Is The AI Earnings Upswing A 'Pig In The Python'?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-26T18:53:43+00:00",
       "title": "Top Four Magnificent 7 Stocks to Watch This Week: Apple, Microsoft, Meta, Amazon",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T15:25:34+00:00",
-      "title": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T09:55:00+00:00",
-      "title": "The Next Fed Rate Hike May Be Coming Soon",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T09:46:20+00:00",
-      "title": "Oil, Tariffs, And War Hit Markets Together",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

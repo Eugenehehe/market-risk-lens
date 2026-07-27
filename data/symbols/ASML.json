@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T11:57:46.206401+00:00",
+  "generated_at": "2026-07-27T14:53:11.595853+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1757.09,
-    "change_pct": -2.5463117027176962
+    "price": 1645.3,
+    "change_pct": -6.362223904296305
   },
   "risk": {
-    "score": 63,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T00:11:11.749383+00:00",
-      "close": 1747.58
-    },
     {
       "timestamp": "2026-07-19T03:55:45.102160+00:00",
       "close": 1747.58
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 1757.09
+    },
+    {
+      "timestamp": "2026-07-27T14:53:11.595853+00:00",
+      "close": 1645.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T13:54:34+00:00",
+      "title": "ASML and U.S. chip stocks sink on report of China’s DUV breakthrough",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T12:00:00+00:00",
+      "title": "ASML reports transactions under its current share buyback program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T10:35:00+00:00",
+      "title": "ASML: AI Growth Story Has Entered A New Phase (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T09:27:05+00:00",
       "title": "Chip Stocks Rise After Pause in Middle East Fighting",
