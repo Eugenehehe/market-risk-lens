@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T08:39:37.189670+00:00",
+  "generated_at": "2026-07-27T11:57:46.206401+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1757.09,
     "change_pct": -2.5463117027176962
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T23:12:17.234709+00:00",
-      "close": 1747.58
-    },
     {
       "timestamp": "2026-07-19T00:11:11.749383+00:00",
       "close": 1747.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T08:39:37.189670+00:00",
       "close": 1757.09
+    },
+    {
+      "timestamp": "2026-07-27T11:57:46.206401+00:00",
+      "close": 1757.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T09:27:05+00:00",
+      "title": "Chip Stocks Rise After Pause in Middle East Fighting",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-26T19:44:53+00:00",
       "title": "Tracking Philippe Laffont's Coatue Management Portfolio - Q1 2026 Update",
