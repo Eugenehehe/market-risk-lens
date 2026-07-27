@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-26T23:43:16.987447+00:00",
+  "generated_at": "2026-07-27T01:20:08.137782+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1757.09,
     "change_pct": -2.5463117027176962
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T20:24:26.953907+00:00",
-      "close": 1747.58
-    },
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 1747.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-26T23:43:16.987447+00:00",
       "close": 1757.09
+    },
+    {
+      "timestamp": "2026-07-27T01:20:08.137782+00:00",
+      "close": 1757.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-26T19:44:53+00:00",
+      "title": "Tracking Philippe Laffont's Coatue Management Portfolio - Q1 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-25T11:09:23+00:00",
       "title": "Can ASML Holding (NasdaqGS:ASML) Stay Reasonably Priced After Its 150% Run?",
@@ -517,30 +525,6 @@
       "timestamp": "2026-07-25T08:00:55+00:00",
       "title": "ASML Holding (NASDAQ:ASML) Shows High Growth Momentum and Technical Strength",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:44:00+00:00",
-      "title": "LRCX Poised for a Q4 Earnings Surprise: Should You Buy the Stock Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T07:30:00+00:00",
-      "title": "TSMC: Robust Margins, Strong Guidance, The Market Is Getting Out Of Hand Here",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T02:44:33+00:00",
-      "title": "AMSL, AMAT, KLAC, LRCX: Chipmaking Equipment Stocks Rise On Intel’s CapEx Bump",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

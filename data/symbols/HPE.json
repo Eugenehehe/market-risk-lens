@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-26T23:43:16.987447+00:00",
+  "generated_at": "2026-07-27T01:20:08.137782+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 47.69,
     "change_pct": 0.10495382031905365
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 37,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T20:24:26.953907+00:00",
-      "close": 45.82
-    },
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 45.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-26T23:43:16.987447+00:00",
       "close": 47.69
+    },
+    {
+      "timestamp": "2026-07-27T01:20:08.137782+00:00",
+      "close": 47.69
     }
   ],
   "events": [
@@ -509,62 +509,6 @@
       "timestamp": "2026-07-26T08:15:00+00:00",
       "title": "Earn 10-15% Potential Income: Monthly Options Series (Aug. 2026)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T17:29:33+00:00",
-      "title": "Billionaire Investor Paul Singer’s Top 5 Picks: Are They a Buy Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T14:58:00+00:00",
-      "title": "Bet on These 3 Dividend Growth Stocks Amid Rising Oil Prices",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:35:00+00:00",
-      "title": "These S&P500 stocks are moving in today's pre-market session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T12:00:30+00:00",
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) High Growth Momentum Breakout Setup Aligns Strong Fundamentals With Strong Technicals",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T11:45:00+00:00",
-      "title": "HPE Names David Goulden to Board of Directors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T07:01:31+00:00",
-      "title": "Citigroup Maintains Buy on Hewlett Packard, Raises Price Target to $74",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T00:08:40+00:00",
-      "title": "Dell's Big Day Was All About Another Company",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

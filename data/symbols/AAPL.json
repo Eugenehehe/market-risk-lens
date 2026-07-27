@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:43:16.987447+00:00",
+  "generated_at": "2026-07-27T01:20:08.137782+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T20:24:26.953907+00:00",
-      "close": 333.74
-    },
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 333.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-26T23:43:16.987447+00:00",
       "close": 333.02
+    },
+    {
+      "timestamp": "2026-07-27T01:20:08.137782+00:00",
+      "close": 333.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-26T23:31:19+00:00",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-26T21:20:00+00:00",
       "title": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
@@ -522,8 +530,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-26T18:53:43+00:00",
+      "title": "Top Four Magnificent 7 Stocks to Watch This Week: Apple, Microsoft, Meta, Amazon",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-26T18:00:00+00:00",
       "title": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-26T17:00:02+00:00",
+      "title": "Fed Decision, Tech Earnings and Other Can't Miss Items this Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-26T15:24:30+00:00",
       "title": "Magnificent 7 Trade Is Broken — Here’s Where Smart Investors Should Look Next",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T15:06:23+00:00",
-      "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T15:00:02+00:00",
-      "title": "Elon Musk Just Revealed a Quiet Win for Tesla’s AI Ambitions",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T14:31:15+00:00",
-      "title": "Trump Says The Government’s Intel Stake Made $70 Billion in Eight Months — ‘Do I Get Credit for That? No’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

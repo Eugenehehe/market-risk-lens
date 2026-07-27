@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-26T23:43:16.987447+00:00",
+  "generated_at": "2026-07-27T01:20:08.137782+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 527.01,
     "change_pct": -4.395544590378064
   },
   "risk": {
-    "score": 72,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T20:24:26.953907+00:00",
-      "close": 521.81
-    },
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 521.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-26T23:43:16.987447+00:00",
       "close": 527.01
+    },
+    {
+      "timestamp": "2026-07-27T01:20:08.137782+00:00",
+      "close": 527.01
     }
   ],
   "events": [
@@ -533,22 +533,6 @@
       "timestamp": "2026-07-25T03:20:00+00:00",
       "title": "Patience, Liquidity, And The Value Of Optionality",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T13:36:56+00:00",
-      "title": "Intel's $90 Billion Wipeout Sparks 20% Crash In These ETFs",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T07:10:53+00:00",
-      "title": "What's Going on With Micron Technology Stock Friday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

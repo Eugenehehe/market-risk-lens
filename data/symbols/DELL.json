@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-26T23:43:16.987447+00:00",
+  "generated_at": "2026-07-27T01:20:08.137782+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 437.5,
     "change_pct": -0.41881003323166466
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T20:24:26.953907+00:00",
-      "close": 396.34
-    },
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 396.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-26T23:43:16.987447+00:00",
       "close": 437.5
+    },
+    {
+      "timestamp": "2026-07-27T01:20:08.137782+00:00",
+      "close": 437.5
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-07-25T01:11:15+00:00",
       "title": "Dell (DELL) Chosen To Build Texas A&M’s IGNITE AI Research Platform",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T21:19:51+00:00",
-      "title": "Why Nvidia, Meta, Microsoft are defending open-weight models like Kimi K3",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T20:41:00+00:00",
-      "title": "Top Research Reports for Intel, Dell & Progressive",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T20:00:43+00:00",
-      "title": "Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-24T19:47:00+00:00",
-      "title": "Super Micro Just Reported $60 Billion of New Orders -- Here's Why Smart Investors Should Buy Dell Stock Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

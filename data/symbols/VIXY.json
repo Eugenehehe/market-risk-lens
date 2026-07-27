@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-26T23:43:16.987447+00:00",
+  "generated_at": "2026-07-27T01:20:08.137782+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 21.44,
     "change_pct": -1.5610651974288348
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 47,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T20:24:26.953907+00:00",
-      "close": 21.65
-    },
     {
       "timestamp": "2026-07-18T21:22:25.844187+00:00",
       "close": 21.65
@@ -502,26 +498,13 @@
     {
       "timestamp": "2026-07-26T23:43:16.987447+00:00",
       "close": 21.44
-    }
-  ],
-  "events": [
-    {
-      "timestamp": "2026-07-24T17:27:28+00:00",
-      "title": "The Fat Tail Risks Hiding In Plain Sight",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     },
     {
-      "timestamp": "2026-07-24T10:05:00+00:00",
-      "title": "Things Are Getting Interesting In Macro Kingdom",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-07-27T01:20:08.137782+00:00",
+      "close": 21.44
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
