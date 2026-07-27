@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T01:20:08.137782+00:00",
+  "generated_at": "2026-07-27T04:58:42.441587+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 738.93,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-18T21:22:25.844187+00:00",
-      "close": 743.29
-    },
     {
       "timestamp": "2026-07-18T22:11:56.454135+00:00",
       "close": 743.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T01:20:08.137782+00:00",
       "close": 738.93
+    },
+    {
+      "timestamp": "2026-07-27T04:58:42.441587+00:00",
+      "close": 738.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T02:22:28+00:00",
+      "title": "Nasdaq, S&P 500, Dow Futures Rise As Iran Pause Eases Oil Fears Ahead Of Big Tech Earnings, Fed Meeting: ORCL, NVDA, VG, DEL In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-26T23:53:57+00:00",
       "title": "How $400,000 in BDC ETFs Can Pay $36,000 a Year and What the Default Risk Really Looks Like",
@@ -517,6 +525,14 @@
       "timestamp": "2026-07-26T22:55:23+00:00",
       "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-26T22:29:00+00:00",
+      "title": "The AI Bubble Is Bigger Than Ever And The Cracks Are Starting To Show",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-26T13:15:37+00:00",
       "title": "SPYI’s 12% yield faces a hidden threat from falling volatility this summer",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T11:40:03+00:00",
-      "title": "Al Arabiya Reported Earlier, Iran Confirmed To Pakistan Readiness To Continue US Negotiations In Geneva, Doha, Or Islamabad, Source Told Al Arabiya",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T09:55:00+00:00",
-      "title": "The Next Fed Rate Hike May Be Coming Soon",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
