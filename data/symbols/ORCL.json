@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 119.87,
-    "change_pct": 4.243847291068792
+    "price": 119.97,
+    "change_pct": 4.330811374902166
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 126.41
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 126.41
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 119.87
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 119.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T18:05:01+00:00",
+      "title": "Explore the S&P500 index on Monday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T16:12:40+00:00",
       "title": "What Happened to Tech Stocks in 2000 That Many Investors Think Could Happen to Nvidia Today",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T12:28:00+00:00",
       "title": "Dow Jones and Nasdaq make solid start to 'massive week' as oil tumbles",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T12:18:51+00:00",
-      "title": "Alphabet Changed Wall Street’s Favorite AI Metric: Microsoft and Meta Are Up Next",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

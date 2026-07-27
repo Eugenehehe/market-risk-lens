@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 25.12,
-    "change_pct": 0.11956954962135669
+    "price": 24.77,
+    "change_pct": -1.2754085292945416
   },
   "risk": {
-    "score": 35,
+    "score": 47,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 25.44
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 25.44
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 25.12
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 24.77
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-07-27T14:07:00+00:00",
+      "title": "Retail Stays Bullish On Hyperscalers Ahead Of Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.1,
-    "change_pct": -1.2371566366114362
+    "price": 48.19,
+    "change_pct": 1.0484378276368167
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 45.82
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 45.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 47.1
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 48.19
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-27T14:40:52+00:00",
       "title": "Pasqal Appoints Hewlett Packard Enterprise's Former High Performance Computing & AI Leader as Chief Commercial Officer to Drive Quantum Deployment at Enterprise Scale",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T14:39:09+00:00",
+      "title": "Super Micro Computer: Great Guidance Doesn't Offset Concerns - Still At Strong Sell",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-27T12:10:41+00:00",
+      "title": "Why Is Rigetti Computing Stock Surging Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T11:07:46+00:00",
       "title": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense – But Meta's Missing From The List",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T10:31:49+00:00",
-      "title": "Super Micro: A Phantom Backlog And Unearned Hype",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T10:11:52+00:00",
-      "title": "What to Expect From Hewlett Packard Enterprise's Next Quarterly Earnings Report",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

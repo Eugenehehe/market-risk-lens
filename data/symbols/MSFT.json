@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 393.23,
-    "change_pct": 3.0206968823683678
+    "price": 389.1,
+    "change_pct": 1.9386953104532534
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 393.82
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 393.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 393.23
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 389.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T19:10:05+00:00",
+      "title": "Monday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T17:35:32+00:00",
       "title": "Sector Update: Tech Stocks Fall Monday Afternoon",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T16:45:00+00:00",
       "title": "Could AMD Dethrone Nvidia?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T16:40:04+00:00",
-      "title": "Top dow jones movers in Monday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

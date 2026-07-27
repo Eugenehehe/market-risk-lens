@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 391.9,
-    "change_pct": -2.853176668897661
+    "price": 399.09,
+    "change_pct": -1.0708708262066047
   },
   "risk": {
-    "score": 73,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 398.37
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 398.37
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 391.9
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 399.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T14:52:15+00:00",
+      "title": "TSMC: AI Demand Visibility Is Intact, But Margin Dilution Will Weigh On Sentiment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T10:20:50+00:00",
       "title": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-26T09:37:47+00:00",
       "title": "Intel's Best Days Are Still Well Ahead (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T09:00:28+00:00",
-      "title": "Intel Layoffs, Musk's Micron Moment, $200 Billion Samsung-Broadcom Pact and More: This Week in Tech",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

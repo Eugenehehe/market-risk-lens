@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 419.31,
-    "change_pct": -4.157714285714286
+    "price": 426.54,
+    "change_pct": -2.5051428571428502
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 396.34
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 396.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 419.31
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 426.54
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-27T16:00:49+00:00",
       "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T14:39:09+00:00",
+      "title": "Super Micro Computer: Great Guidance Doesn't Offset Concerns - Still At Strong Sell",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T10:31:00+00:00",
       "title": "The Zacks Analyst Blog Highlights INTC, DELL and PGR",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T08:15:31+00:00",
-      "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

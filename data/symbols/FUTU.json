@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 103.26,
-    "change_pct": 3.9251207729468662
+    "price": 104.27,
+    "change_pct": 4.941626409017719
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 95.1
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 95.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 103.26
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 104.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T12:23:08+00:00",
+      "title": "Wise Group shares are trading lower amid volatility following its Nasdaq listing.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T12:23:08+00:00",
       "title": "Court Denies SmartMetric's Motions In Patent Infringement Case Against Visa and MasterCard",

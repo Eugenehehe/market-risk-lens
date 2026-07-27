@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-27T18:22:42.173122+00:00",
+  "generated_at": "2026-07-27T20:02:31.465679+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 482.45,
-    "change_pct": -7.567774691062368
+    "price": 494.95,
+    "change_pct": -5.172909282498339
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T08:55:49.430342+00:00",
-      "close": 495.76
-    },
     {
       "timestamp": "2026-07-19T10:36:27.100208+00:00",
       "close": 495.76
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 482.45
+    },
+    {
+      "timestamp": "2026-07-27T20:02:31.465679+00:00",
+      "close": 494.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T19:05:01+00:00",
+      "title": "Stay informed with the top movers within the S&P500 index on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T16:50:26+00:00",
       "title": "Wedbush Tweaks AMD Stock Price Target Ahead of Earnings",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T16:13:00+00:00",
       "title": "ARM to Post Q1 Earnings: Should the Stock Be in Your Portfolio Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T16:00:49+00:00",
-      "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
