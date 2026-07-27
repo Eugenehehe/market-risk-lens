@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:20:43.565702+00:00",
+  "generated_at": "2026-07-27T22:31:34.943153+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 682.12,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T11:40:55.465145+00:00",
-      "close": 695.33
-    },
     {
       "timestamp": "2026-07-19T12:37:18.785410+00:00",
       "close": 695.33
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-27T21:20:43.565702+00:00",
       "close": 682.12
+    },
+    {
+      "timestamp": "2026-07-27T22:31:34.943153+00:00",
+      "close": 682.12
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-27T17:08:09+00:00",
+      "title": "This Is Not A Normal Market Rotation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T16:15:00+00:00",
       "title": "Cheaper AI, New Earnings Questions",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T16:12:29+00:00",
+      "title": "BlackRock’s Nasdaq ETF Challenger Is Growing — But QQQ Still Pulls 300× More Inflows",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-27T14:07:00+00:00",
       "title": "Retail Stays Bullish On Hyperscalers Ahead Of Earnings",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T14:05:29+00:00",
-      "title": "China Is Why AI Won't Pop Like The Dot-Com Bubble",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:52:44+00:00",
-      "title": "Oil Crashes 8%, Chip Rout Weighs on Nasdaq 100: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
