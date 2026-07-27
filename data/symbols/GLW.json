@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T14:53:11.595853+00:00",
+  "generated_at": "2026-07-27T16:54:12.651022+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 138.91,
-    "change_pct": -5.277872485509727
+    "price": 139.72,
+    "change_pct": -4.725536992840096
   },
   "risk": {
-    "score": 70,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T03:55:45.102160+00:00",
-      "close": 154.61
-    },
     {
       "timestamp": "2026-07-19T06:31:25.758846+00:00",
       "close": 154.61
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 138.91
+    },
+    {
+      "timestamp": "2026-07-27T16:54:12.651022+00:00",
+      "close": 139.72
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-27T13:33:54+00:00",
       "title": "Corning Incorporated (GLW) Rose on Growing AI Fiber and Optical Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T12:23:00+00:00",
+      "title": "Is Amphenol Stock a Smart Buy Before Q2 Earnings Report?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

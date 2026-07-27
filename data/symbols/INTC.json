@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T14:53:11.595853+00:00",
+  "generated_at": "2026-07-27T16:54:12.651022+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 89.34,
-    "change_pct": -3.2279029462738196
+    "price": 90.15,
+    "change_pct": -2.3505199306758984
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 69,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T03:55:45.102160+00:00",
-      "close": 95.04
-    },
     {
       "timestamp": "2026-07-19T06:31:25.758846+00:00",
       "close": 95.04
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 89.34
+    },
+    {
+      "timestamp": "2026-07-27T16:54:12.651022+00:00",
+      "close": 90.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T15:53:01+00:00",
+      "title": "Is Intel Stock a Buy After Its Latest Earnings Report?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T15:00:00+00:00",
+      "title": "Keysight Certifies Electromagnetic Design Software for Intel Foundry’s Latest Processes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T13:35:00+00:00",
       "title": "Intel Is up 170% in 2026. Should You Buy the Artificial Intelligence (AI) Comeback or Take Profits Today?",
@@ -522,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-27T13:20:00+00:00",
+      "title": "Stock Market News for July 27, 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T13:09:32+00:00",
       "title": "KKR Plans LCY Exit as Chairman Targets Bigger U.S. Semiconductor Expansion",
       "source": "Yahoo",
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-27T13:00:05+00:00",
+      "title": "Intel Corporation (INTC) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T13:00:00+00:00",
       "title": "Synopsys and Intel Foundry Fast-Track Customer Readiness from Silicon to Systems on Intel 14A",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T11:14:22+00:00",
-      "title": "Crypto Treasury Firms Pivot to AI in Bid to Win Back Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T10:50:00+00:00",
-      "title": "Nvidia Eyes OpenAI, SK Hynix Deals—Why the Stock Still Looks Like a Chip Laggard",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T10:50:00+00:00",
-      "title": "Micron, Sandisk, and Intel Have Dominated 2026. Which Is the Best Buy Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T10:31:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights INTC, DELL and PGR",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

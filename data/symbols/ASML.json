@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T14:53:11.595853+00:00",
+  "generated_at": "2026-07-27T16:54:12.651022+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1645.3,
-    "change_pct": -6.362223904296305
+    "price": 1641.34,
+    "change_pct": -6.587596537456819
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T03:55:45.102160+00:00",
-      "close": 1747.58
-    },
     {
       "timestamp": "2026-07-19T06:31:25.758846+00:00",
       "close": 1747.58
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 1645.3
+    },
+    {
+      "timestamp": "2026-07-27T16:54:12.651022+00:00",
+      "close": 1641.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T15:10:14+00:00",
+      "title": "Chip Stocks Sink on China Competition Concerns, Erasing Early Gains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T14:54:11+00:00",
+      "title": "ASML stock falls on reports of fresh competition from Chinese chipmaker",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T13:54:34+00:00",
       "title": "ASML and U.S. chip stocks sink on report of China’s DUV breakthrough",
@@ -538,25 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-26T19:44:53+00:00",
-      "title": "Tracking Philippe Laffont's Coatue Management Portfolio - Q1 2026 Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T11:09:23+00:00",
-      "title": "Can ASML Holding (NasdaqGS:ASML) Stay Reasonably Priced After Its 150% Run?",
+      "timestamp": "2026-07-27T08:04:12+00:00",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fluctuate as chip stocks tumble, oil prices fall",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-25T08:00:55+00:00",
-      "title": "ASML Holding (NASDAQ:ASML) Shows High Growth Momentum and Technical Strength",
-      "source": "ChartMill",
+      "timestamp": "2026-07-26T19:44:53+00:00",
+      "title": "Tracking Philippe Laffont's Coatue Management Portfolio - Q1 2026 Update",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-27T14:53:11.595853+00:00",
+  "generated_at": "2026-07-27T16:54:12.651022+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 187.75,
-    "change_pct": -3.336250836636967
+    "price": 187.42,
+    "change_pct": -3.506152499613857
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T03:55:45.102160+00:00",
-      "close": 188.68
-    },
     {
       "timestamp": "2026-07-19T06:31:25.758846+00:00",
       "close": 188.68
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 187.75
+    },
+    {
+      "timestamp": "2026-07-27T16:54:12.651022+00:00",
+      "close": 187.42
     }
   ],
   "events": [
@@ -530,9 +530,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-27T11:04:21+00:00",
+      "title": "Marvell: The AI Growth Is Real, But So Is The Dilution",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T10:38:00+00:00",
       "title": "Sandisk, Marvell, Chevron, Broadcom, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T10:20:50+00:00",
+      "title": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,14 +564,6 @@
     {
       "timestamp": "2026-07-26T20:58:01+00:00",
       "title": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-25T06:50:00+00:00",
-      "title": "Down 34% From Its Highs, Is Marvell Technology a Buy on the Dip?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

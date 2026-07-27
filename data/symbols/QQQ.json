@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27T14:53:11.595853+00:00",
+  "generated_at": "2026-07-27T16:54:12.651022+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 680.39,
-    "change_pct": -0.5612147961942648
+    "price": 678.92,
+    "change_pct": -0.7760548353623831
   },
   "risk": {
-    "score": 55,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T03:55:45.102160+00:00",
-      "close": 695.33
-    },
     {
       "timestamp": "2026-07-19T06:31:25.758846+00:00",
       "close": 695.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 680.39
+    },
+    {
+      "timestamp": "2026-07-27T16:54:12.651022+00:00",
+      "close": 678.92
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-07-27T13:19:56+00:00",
       "title": "Market Breadth Slips to a Negative Bias as Short-Term Support Weakens",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T12:32:00+00:00",
+      "title": "Markets Mixed As Crude Oil Falls",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T11:19:23+00:00",
+      "title": "Magnificent Seven In Spotlight: What to Expert From Meta, Microsoft, Amazon, Apple Earnings This Week",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T10:44:00+00:00",
+      "title": "Resilient Q2 GDP Nowcast Masks Risk For The Rest Of The Year",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-27T08:57:49+00:00",
+      "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Rise as US-Iran Halt Retaliatory Strikes—Microchip Technology, AMD, Nucor in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T08:36:55+00:00",
       "title": "AI Is Killing Stocks, But Not The Way You Think",
       "source": "SeekingAlpha",
@@ -530,40 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-27T07:19:00+00:00",
-      "title": "Is The AI Earnings Upswing A 'Pig In The Python'?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T05:34:00+00:00",
-      "title": "Rates Spark: Either Way, The Fed Will Surprise",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T04:04:09+00:00",
-      "title": "QQQ And Tech Earnings: They Can't All Win The CapEx Arms Race",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T22:29:00+00:00",
-      "title": "The AI Bubble Is Bigger Than Ever And The Cracks Are Starting To Show",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T18:53:43+00:00",
-      "title": "Top Four Magnificent 7 Stocks to Watch This Week: Apple, Microsoft, Meta, Amazon",
+      "timestamp": "2026-07-27T08:03:06+00:00",
+      "title": "Bond Markets Are Rethinking Big Tech’s $1 Trillion+ a Year for AI",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
