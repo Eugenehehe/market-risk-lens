@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:40:08.241459+00:00",
+  "generated_at": "2026-07-28T01:04:15.718779+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 119.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T14:11:19.316292+00:00",
-      "close": 126.41
-    },
     {
       "timestamp": "2026-07-19T15:15:28.362088+00:00",
       "close": 126.41
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-07-27T23:40:08.241459+00:00",
       "close": 119.9
+    },
+    {
+      "timestamp": "2026-07-28T01:04:15.718779+00:00",
+      "close": 119.9
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-27T22:00:00+00:00",
+      "title": "Ingram Micro Accelerates Cloud and AI Adoption in Australia with Oracle Cloud Distribution Program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T19:59:00+00:00",
       "title": "Microsoft faces AI capex scrutiny as it prepares to report Q4 results",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T19:23:41+00:00",
+      "title": "Smart CEOs, Bad Returns: Avoid Hyperscaler AI Capex Beneficiaries Like Nvidia",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-27T16:03:00+00:00",
       "title": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T16:00:49+00:00",
-      "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T15:57:00+00:00",
-      "title": "Why Google Cloud’s Hot Sales Can’t Save the Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

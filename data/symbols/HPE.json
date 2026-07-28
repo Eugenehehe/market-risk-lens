@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:40:08.241459+00:00",
+  "generated_at": "2026-07-28T01:04:15.718779+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 48.19,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T14:11:19.316292+00:00",
-      "close": 45.82
-    },
     {
       "timestamp": "2026-07-19T15:15:28.362088+00:00",
       "close": 45.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-27T23:40:08.241459+00:00",
       "close": 48.19
+    },
+    {
+      "timestamp": "2026-07-28T01:04:15.718779+00:00",
+      "close": 48.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-27T23:13:06+00:00",
+      "title": "Rigetti (RGTI) Expands HPE Partnership To Build NSF Backed TangleLab Supercomputer",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T14:40:52+00:00",
       "title": "Pasqal Appoints Hewlett Packard Enterprise's Former High Performance Computing & AI Leader as Chief Commercial Officer to Drive Quantum Deployment at Enterprise Scale",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T12:10:41+00:00",
       "title": "Why Is Rigetti Computing Stock Surging Monday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T11:07:46+00:00",
-      "title": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense – But Meta's Missing From The List",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
