@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T01:04:15.718779+00:00",
+  "generated_at": "2026-07-28T04:23:00.456085+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 119.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T15:15:28.362088+00:00",
-      "close": 126.41
-    },
     {
       "timestamp": "2026-07-19T16:14:07.948913+00:00",
       "close": 126.41
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-07-28T01:04:15.718779+00:00",
       "close": 119.9
+    },
+    {
+      "timestamp": "2026-07-28T04:23:00.456085+00:00",
+      "close": 119.9
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-28T00:33:58+00:00",
+      "title": "INTU Down 60%: Is Intuit's Proven Price Floor About To Break?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-27T22:00:00+00:00",
       "title": "Ingram Micro Accelerates Cloud and AI Adoption in Australia with Oracle Cloud Distribution Program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T20:06:22+00:00",
+      "title": "A $7 Billion Reason to Buy Oracle Stock Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-27T18:05:01+00:00",
       "title": "Explore the S&P500 index on Monday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T16:12:40+00:00",
-      "title": "What Happened to Tech Stocks in 2000 That Many Investors Think Could Happen to Nvidia Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T16:03:00+00:00",
-      "title": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
