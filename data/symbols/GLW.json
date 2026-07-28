@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 143.36,
-    "change_pct": -2.2434367541766087
+    "price": 119.62,
+    "change_pct": -16.55970982142858
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 154.61
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 154.61
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 143.36
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 119.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T14:35:01+00:00",
+      "title": "These S&P500 stocks are gapping in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T13:15:02+00:00",
+      "title": "From Penny Stock to Takeover Target: Who Will Snap Up QuantumScape?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:41:43+00:00",
+      "title": "Why Is GLW Stock Falling Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:38:00+00:00",
+      "title": "Corning, ASML, PayPal, UPS, Boeing, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T12:35:01+00:00",
       "title": "These S&P500 stocks are moving in today's pre-market session",
@@ -530,40 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-28T11:34:18+00:00",
-      "title": "Corning Q2 2026 earnings beat but stock falls on guidance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T11:01:00+00:00",
-      "title": "Corning’s Strong Second-Quarter 2026 Financial Results(1) Demonstrate Progress on Recently Upgraded Springboard Plan",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T15:30:00+00:00",
-      "title": "Coca-Cola's Earnings Could Put $10.7 Billion In Market Value On The Line",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:33:54+00:00",
-      "title": "Corning Incorporated (GLW) Rose on Growing AI Fiber and Optical Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T12:23:00+00:00",
-      "title": "Is Amphenol Stock a Smart Buy Before Q2 Earnings Report?",
+      "timestamp": "2026-07-28T12:21:09+00:00",
+      "title": "Corning Shares Slide Despite Second-Quarter Earnings Beat as Guidance Disappoints",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

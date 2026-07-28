@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 516.23,
-    "change_pct": -2.0455019828845677
+    "price": 494.79,
+    "change_pct": -4.153187532688918
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 521.81
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 521.81
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 516.23
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 494.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T10:32:01+00:00",
+      "title": "Semiconductor Stocks May Continue To Melt Lower",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T10:06:33+00:00",
+      "title": "SOXX: China's DUV Push May Be A DeepSeek 2.0 Moment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T09:16:06+00:00",
+      "title": "Micron, Nvidia, AMD on Watch as Asia's Chip Selloff Sends Warning to Wall Street",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T08:07:35+00:00",
       "title": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
@@ -514,56 +538,32 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-28T07:41:49+00:00",
+      "title": "Is the AI Boom A 'Virtuous Circle' Or a Ponzi Scheme? Wall Street Is Split",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T06:29:59+00:00",
+      "title": "Jim Cramer Calls Tight US-Korea Market Link an ‘Under-Rated Reason’ for Tech Stock Slump as KOSPI Tumbles 28% in a Month",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T06:07:07+00:00",
+      "title": "Why Is Micron Technology Stock Falling Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-28T05:52:53+00:00",
       "title": "The Market Is Hostage To Two Startups",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T14:07:00+00:00",
-      "title": "Retail Stays Bullish On Hyperscalers Ahead Of Earnings",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T14:05:29+00:00",
-      "title": "China Is Why AI Won't Pop Like The Dot-Com Bubble",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:52:44+00:00",
-      "title": "Oil Crashes 8%, Chip Rout Weighs on Nasdaq 100: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T08:25:53+00:00",
-      "title": "What's Going on With AMD Stock Monday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T08:03:06+00:00",
-      "title": "Bond Markets Are Rethinking Big Tech’s $1 Trillion+ a Year for AI",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T07:19:00+00:00",
-      "title": "Is The AI Earnings Upswing A 'Pig In The Python'?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

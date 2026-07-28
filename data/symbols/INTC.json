@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 91.67,
-    "change_pct": -0.7040727902946187
+    "price": 87.49,
+    "change_pct": -4.559834187847722
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 95.04
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 95.04
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 91.67
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 87.49
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-28T12:56:22+00:00",
+      "title": "Micron, SK Hynix stocks fall as chip sell-off deepens",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:48:48+00:00",
+      "title": "Update: US Equity Futures Mixed Pre-Bell as Halt in Middle East Hostilities Holds, Semiconductor Stocks Drop",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:38:00+00:00",
+      "title": "Corning, ASML, PayPal, UPS, Boeing, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:15:55+00:00",
+      "title": "Qualcomm Q3 Earnings Preview: What To Expect From Upcoming Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:00:00+00:00",
+      "title": "Dynabook Canada Expands Premium Business Laptop Portfolio with Intel® Core™ Ultra Series 3-Powered Portégé® Z40L-P and X30L-P",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:00:00+00:00",
+      "title": "3 AI Chip and Memory Behemoths to Buy Ahead of August for Big Upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T11:53:57+00:00",
+      "title": "Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-28T11:27:48+00:00",
       "title": "How Much Upside Can NVDA Stock's Growth Deliver?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T11:23:08+00:00",
-      "title": "Micron Stock's Price Slipped, But Its Business Model Just Shifted",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T10:55:00+00:00",
-      "title": "ASML, Sandisk, Apple, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T09:49:02+00:00",
-      "title": "NVDA, Chip Stocks Extend Rout: Analysts Say OpenAI Deal Fears Overblown",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T09:40:56+00:00",
-      "title": "Asian chip stocks slide as China competition fears rattle AI trade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T09:31:22+00:00",
-      "title": "U.S. Chip Stocks Suffering from Fragile Investor Sentiment",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T09:23:07+00:00",
-      "title": "U.S. chip stocks extend losses on AI financing, China competition fears",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:11:14+00:00",
-      "title": "Chinese DRAM Maker CXMT Is Now Worth More Than Intel After Blistering Shanghai Debut: SanDisk, Micron Feel The Heat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

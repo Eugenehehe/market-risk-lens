@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 383.22,
-    "change_pct": 0.3403854210305868
+    "price": 383.29,
+    "change_pct": 0.018266270027655906
   },
   "risk": {
-    "score": 53,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 370.825
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 370.825
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 383.22
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 383.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T12:56:22+00:00",
+      "title": "Micron, SK Hynix stocks fall as chip sell-off deepens",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:12:53+00:00",
+      "title": "I’m Buying Broadcom This Week For One Powerful Reason",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T11:27:48+00:00",
       "title": "How Much Upside Can NVDA Stock's Growth Deliver?",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-28T09:11:12+00:00",
+      "title": "Nvidia Stock Is Stagnating -- But The Fundamentals Aren't",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-28T08:38:52+00:00",
       "title": "Marvell Technology Priced Beyond Perfection",
       "source": "SeekingAlpha",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-28T08:07:35+00:00",
       "title": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T04:57:14+00:00",
-      "title": "Broadcom: Why The Google Share Panic Misses What Broadcom's Moat Actually Is",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T23:25:02+00:00",
-      "title": "3 Big Reasons to Love Broadcom (AVGO)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T20:55:03+00:00",
-      "title": "Big Tech credit risks rise sharply as AI spending soars",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

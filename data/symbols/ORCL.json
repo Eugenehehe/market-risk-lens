@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 119.9,
-    "change_pct": 4.2699365162188085
+    "price": 120.24,
+    "change_pct": 0.28356964136779794
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 126.41
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 126.41
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 119.9
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 120.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T13:09:29+00:00",
+      "title": "Oracle (ORCL) Expands Australia Cloud Reach And Launches AI Agent Tools",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T13:00:00+00:00",
+      "title": "AUTOBACS SEVEN Marks 10 Years of System Stability and Self-Funded Innovation with Rimini Street",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:39:55+00:00",
+      "title": "Nvidia’s rising CDS the talk of Wall Street amid circular financing fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:30:46+00:00",
+      "title": "Michael Burry Says Wall Street Has Turned on Big Tech's AI Spending: 'The Market Has Voted'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T11:05:38+00:00",
       "title": "McDonald’s, Oracle, and Uber Are Near 52-Week Lows. Wall Street Says Buy Anyway.",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-28T00:33:58+00:00",
       "title": "INTU Down 60%: Is Intuit's Proven Price Floor About To Break?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T22:00:00+00:00",
-      "title": "Ingram Micro Accelerates Cloud and AI Adoption in Australia with Oracle Cloud Distribution Program",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T20:55:03+00:00",
-      "title": "Big Tech credit risks rise sharply as AI spending soars",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T20:06:22+00:00",
-      "title": "A $7 Billion Reason to Buy Oracle Stock Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T19:59:00+00:00",
-      "title": "Microsoft faces AI capex scrutiny as it prepares to report Q4 results",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

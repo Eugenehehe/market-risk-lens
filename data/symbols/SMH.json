@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 548.55,
-    "change_pct": -2.2523565993692207
+    "price": 532.7,
+    "change_pct": -2.8894357852520147
   },
   "risk": {
-    "score": 69,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 556.53
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 556.53
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 548.55
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 532.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T10:32:01+00:00",
+      "title": "Semiconductor Stocks May Continue To Melt Lower",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T06:22:45+00:00",
       "title": "Hyperscalers: A 'Toxic Waste' Investment",
@@ -517,6 +525,14 @@
       "timestamp": "2026-07-28T05:52:53+00:00",
       "title": "The Market Is Hostage To Two Startups",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T03:09:41+00:00",
+      "title": "More Than $1 Trillion Wiped Out as China Chip Fears Slam Nvidia, SK Hynix, Micron and Memory Stocks: ETFs to Watch",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-27T13:36:56+00:00",
       "title": "Let The AI Panic Begin: The Most Unexpected Alliance",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T09:27:05+00:00",
-      "title": "Intel’s Earnings Could Quadruple in 4 Years, Analyst Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T08:03:06+00:00",
-      "title": "Bond Markets Are Rethinking Big Tech’s $1 Trillion+ a Year for AI",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

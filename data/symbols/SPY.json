@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T13:21:32.072266+00:00",
+  "generated_at": "2026-07-28T15:40:48.267778+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 739.09,
-    "change_pct": 0.021652930588844654
+    "price": 741.65,
+    "change_pct": 0.34637188975632505
   },
   "risk": {
-    "score": 51,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T20:31:42.175454+00:00",
-      "close": 743.29
-    },
     {
       "timestamp": "2026-07-19T21:28:51.389814+00:00",
       "close": 743.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T13:21:32.072266+00:00",
       "close": 739.09
+    },
+    {
+      "timestamp": "2026-07-28T15:40:48.267778+00:00",
+      "close": 741.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T13:00:15+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid Renewed Pressure on Semiconductor Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T12:04:29+00:00",
       "title": "Daily Breadth Rebounds, but the Negative Bias Remains",
@@ -522,6 +530,30 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-28T10:32:01+00:00",
+      "title": "Semiconductor Stocks May Continue To Melt Lower",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T09:05:31+00:00",
+      "title": "U.S. Central Command Announced An Agreement With The United Arab Emirates, July 28, To Establish The First Bilateral Task Force Focused On Accelerating The Development Of Military Artificial Intelligence Applications",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T09:05:01+00:00",
+      "title": "Iran's Joint Military Command Says Any Country Or Company That Receives Iranian Confiscated Assets Won't Be Allowed Transit Through Strait Of Hormuz",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-28T09:00:00+00:00",
       "title": "What Past Sector Concentrations Tell Us About Today's Tech-Heavy S&P 500",
       "source": "SeekingAlpha",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-28T08:49:11+00:00",
       "title": "The Fed Is Not Going To Raise Interest Rates",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:46:55+00:00",
-      "title": "Nasdaq, S&P 500 Futures Slip As Korea Chip Shock Dents AI Memory Heavyweights Ahead Of Fed Decision: Why NVDA, SNDK, MU, APLD, SPCX, SLS, CAPR Are In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:00:00+00:00",
-      "title": "Forget The AI Bubble, Because This Bull Market Could Easily Extend Until 2029",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T07:15:00+00:00",
-      "title": "1 REIT To Sell And 1 Better Alternative",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T06:45:00+00:00",
-      "title": "Wall Street's AI CapEx Concerns Overlook Demand-Supply Outlook",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
