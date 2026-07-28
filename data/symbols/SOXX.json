@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:09:42.515941+00:00",
+  "generated_at": "2026-07-28T09:47:34.863986+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 516.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T17:26:22.770473+00:00",
-      "close": 521.81
-    },
     {
       "timestamp": "2026-07-19T18:28:34.465179+00:00",
       "close": 521.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T07:09:42.515941+00:00",
       "close": 516.23
+    },
+    {
+      "timestamp": "2026-07-28T09:47:34.863986+00:00",
+      "close": 516.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T08:07:35+00:00",
+      "title": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-27T14:07:00+00:00",
       "title": "Retail Stays Bullish On Hyperscalers Ahead Of Earnings",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T06:09:44+00:00",
       "title": "Wall Street Sees Little Threat to Micron From China’s Memory Giant",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-26T09:31:00+00:00",
-      "title": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
