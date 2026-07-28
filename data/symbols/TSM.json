@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T15:40:48.267778+00:00",
+  "generated_at": "2026-07-28T17:09:41.495792+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 391.31,
-    "change_pct": -1.9494349645443276
+    "price": 391.89,
+    "change_pct": -1.804104337367507
   },
   "risk": {
-    "score": 66,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T21:28:51.389814+00:00",
-      "close": 398.37
-    },
     {
       "timestamp": "2026-07-19T22:28:12.797537+00:00",
       "close": 398.37
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 391.31
+    },
+    {
+      "timestamp": "2026-07-28T17:09:41.495792+00:00",
+      "close": 391.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T12:23:19+00:00",
+      "title": "Nvidia: The Trade Of The Decade Has Arrived",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T09:36:36+00:00",
       "title": "TSMC Says All Personnel At Its Kumamoto Site Have Been Confirmed Safe; Says Post-Earthquake Structural Inspections Have Been Completed, Confirming Its Structures Are Safe, And Operations Are Gradually Resuming; Says Detailed Inspections And Impact Assessments Are Ongoing; Says JASM Construction Site Was Unaffected, But Parts Of The Works Are Suspended As A Safety Precaution",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T09:27:05+00:00",
       "title": "Intel’s Earnings Could Quadruple in 4 Years, Analyst Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T07:58:35+00:00",
-      "title": "Ford To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Monday",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T15:40:48.267778+00:00",
+  "generated_at": "2026-07-28T17:09:41.495792+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 532.7,
-    "change_pct": -2.8894357852520147
+    "price": 531.42,
+    "change_pct": -3.122778233524748
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T21:28:51.389814+00:00",
-      "close": 556.53
-    },
     {
       "timestamp": "2026-07-19T22:28:12.797537+00:00",
       "close": 556.53
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 532.7
+    },
+    {
+      "timestamp": "2026-07-28T17:09:41.495792+00:00",
+      "close": 531.42
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-28T05:52:53+00:00",
       "title": "The Market Is Hostage To Two Startups",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T05:44:14+00:00",
+      "title": "Intel Stock Is Falling Tuesday: What's Going On?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T14:05:29+00:00",
       "title": "China Is Why AI Won't Pop Like The Dot-Com Bubble",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T13:36:56+00:00",
-      "title": "Let The AI Panic Begin: The Most Unexpected Alliance",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

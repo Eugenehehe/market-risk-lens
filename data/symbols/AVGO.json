@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T15:40:48.267778+00:00",
+  "generated_at": "2026-07-28T17:09:41.495792+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 383.29,
-    "change_pct": 0.018266270027655906
+    "price": 381.65,
+    "change_pct": -0.4096863420489649
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T21:28:51.389814+00:00",
-      "close": 370.825
-    },
     {
       "timestamp": "2026-07-19T22:28:12.797537+00:00",
       "close": 370.825
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 383.29
+    },
+    {
+      "timestamp": "2026-07-28T17:09:41.495792+00:00",
+      "close": 381.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T15:28:43+00:00",
+      "title": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T14:54:00+00:00",
+      "title": "Broadcom Stock Yields Just 0.68%. But the Dividend Has Seen Explosive Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T14:37:33+00:00",
+      "title": "What You're Really Paying For Broadcom Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T14:15:44+00:00",
+      "title": "This Chip ETF Just Pulled Off a Historic 2026 While Nvidia Stumbled",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T13:59:30+00:00",
+      "title": "Why I Keep Buying NVIDIA Confidently",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T12:56:22+00:00",
+      "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T12:56:22+00:00",
       "title": "Micron, SK Hynix stocks fall as chip sell-off deepens",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-28T12:12:53+00:00",
-      "title": "I’m Buying Broadcom This Week For One Powerful Reason",
+      "timestamp": "2026-07-28T12:46:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights MaxLinear, Marvell Technology and Broadcom",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T11:27:48+00:00",
-      "title": "How Much Upside Can NVDA Stock's Growth Deliver?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T10:08:32+00:00",
-      "title": "Broadcom (AVGO) Lands $200 Billion Samsung AI Chip Deal Through 2030",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T10:05:00+00:00",
-      "title": "Competition Is Growing, but Is Nvidia Really in Trouble? This Numbers Suggests It Isn't",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T09:11:12+00:00",
-      "title": "Nvidia Stock Is Stagnating -- But The Fundamentals Aren't",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:38:52+00:00",
-      "title": "Marvell Technology Priced Beyond Perfection",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:07:35+00:00",
-      "title": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
