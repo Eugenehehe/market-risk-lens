@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T18:45:24.475990+00:00",
+  "generated_at": "2026-07-28T20:08:34.287054+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 819.31,
-    "change_pct": -8.985780937569443
+    "price": 820.53,
+    "change_pct": -8.85025549877806
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T23:31:49.715995+00:00",
-      "close": 848.95
-    },
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 848.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 819.31
+    },
+    {
+      "timestamp": "2026-07-28T20:08:34.287054+00:00",
+      "close": 820.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T19:05:01+00:00",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T18:05:02+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Tuesday's session.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-28T15:54:25+00:00",
       "title": "SNDK Stock Plunges Over 30% In 3 Days Amid Semiconductor Rout – Retail Traders Debate Whether $1,000 Will Hold",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T15:48:01+00:00",
-      "title": "Stock Market Today: Nasdaq-100 Hits Correction Territory; Commvault Trampled (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

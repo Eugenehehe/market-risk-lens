@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T18:45:24.475990+00:00",
+  "generated_at": "2026-07-28T20:08:34.287054+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 123.47,
-    "change_pct": -13.87416294642858
+    "price": 126.01,
+    "change_pct": -12.10239955357143
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T23:31:49.715995+00:00",
-      "close": 154.61
-    },
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 154.61
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 123.47
+    },
+    {
+      "timestamp": "2026-07-28T20:08:34.287054+00:00",
+      "close": 126.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T19:05:01+00:00",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T18:05:02+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Tuesday's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T16:53:22+00:00",
       "title": "Update: US Equity Indexes Mixed as Chipmakers Mount Pressure on Nasdaq",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T16:35:01+00:00",
-      "title": "Tuesday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

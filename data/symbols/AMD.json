@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T18:45:24.475990+00:00",
+  "generated_at": "2026-07-28T20:08:34.287054+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 456.22,
-    "change_pct": -7.8250328315991435
+    "price": 454.62,
+    "change_pct": -8.148297807859372
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T23:31:49.715995+00:00",
-      "close": 495.76
-    },
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 495.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 456.22
+    },
+    {
+      "timestamp": "2026-07-28T20:08:34.287054+00:00",
+      "close": 454.62
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-28T14:52:45+00:00",
       "title": "MU, AMD, INTC, SNDK Stocks Fall — Morgan Stanley's Mike Wilson Explains Why Investors Are Going After Chip And Memory Stocks",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T14:45:53+00:00",
+      "title": "The Market Lost Its Mind, But You Shouldn't",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-28T14:17:05+00:00",
       "title": "Needham keeps Core Scientific at Buy with $29 target after 530 MW AMD lease deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T14:15:44+00:00",
-      "title": "This Chip ETF Just Pulled Off a Historic 2026 While Nvidia Stumbled",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

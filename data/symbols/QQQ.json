@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T18:45:24.475990+00:00",
+  "generated_at": "2026-07-28T20:08:34.287054+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 676.03,
-    "change_pct": -0.8928047850818133
+    "price": 675.49,
+    "change_pct": -0.9719697413944739
   },
   "risk": {
     "score": 58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T23:31:49.715995+00:00",
-      "close": 695.33
-    },
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 695.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 676.03
+    },
+    {
+      "timestamp": "2026-07-28T20:08:34.287054+00:00",
+      "close": 675.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T14:45:53+00:00",
+      "title": "The Market Lost Its Mind, But You Shouldn't",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T13:52:16+00:00",
       "title": "Meta Platforms Q2 Preview: Key Items to Watch to Turn Stock Around After Earnings",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T12:15:00+00:00",
       "title": "The Credit Market Lens: The Return Of Financial Engineering - Not 2008, But Not Nothing",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T12:04:29+00:00",
-      "title": "Daily Breadth Rebounds, but the Negative Bias Remains",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

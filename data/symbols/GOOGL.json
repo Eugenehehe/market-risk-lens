@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T18:45:24.475990+00:00",
+  "generated_at": "2026-07-28T20:08:34.287054+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 335.52,
-    "change_pct": 2.7437530622243855
+    "price": 333.71,
+    "change_pct": 2.1894904458598763
   },
   "risk": {
-    "score": 72,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T23:31:49.715995+00:00",
-      "close": 346.77
-    },
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 346.77
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 335.52
+    },
+    {
+      "timestamp": "2026-07-28T20:08:34.287054+00:00",
+      "close": 333.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T19:10:04+00:00",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T17:47:00+00:00",
       "title": "Wall Street just drew a sharper line between Tesla, Alphabet",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-28T16:15:54+00:00",
       "title": "Coherent Sinks 11%, Applied Optoelectronics Falls 10%, Lumentum Drops 9% as Traders Question AI Spending Spree",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T16:15:52+00:00",
-      "title": "Nvidia (NVDA) and Meta (META) Back Open Models: OpenAI and Anthropic’s Model Moats Are at Stake",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

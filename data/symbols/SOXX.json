@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T18:45:24.475990+00:00",
+  "generated_at": "2026-07-28T20:08:34.287054+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 491.04,
-    "change_pct": -4.879607926699336
+    "price": 491.46,
+    "change_pct": -4.798248842570175
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T23:31:49.715995+00:00",
-      "close": 521.81
-    },
     {
       "timestamp": "2026-07-20T01:08:51.264593+00:00",
       "close": 521.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 491.04
+    },
+    {
+      "timestamp": "2026-07-28T20:08:34.287054+00:00",
+      "close": 491.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T11:15:08+00:00",
+      "title": "AMD Stock Drops: Why Chipmaker Shares Are Falling Ahead of August Earnings",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T10:32:01+00:00",
       "title": "Semiconductor Stocks May Continue To Melt Lower",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T06:07:07+00:00",
       "title": "Why Is Micron Technology Stock Falling Tuesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T05:52:53+00:00",
-      "title": "The Market Is Hostage To Two Startups",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
