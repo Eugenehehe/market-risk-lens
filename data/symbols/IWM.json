@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-28T17:09:41.495792+00:00",
+  "generated_at": "2026-07-28T18:45:24.475990+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 293.37,
-    "change_pct": 0.1570448260557855
+    "price": 292.92,
+    "change_pct": 0.003414017957736881
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T22:28:12.797537+00:00",
-      "close": 294.04
-    },
     {
       "timestamp": "2026-07-19T23:31:49.715995+00:00",
       "close": 294.04
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-28T17:09:41.495792+00:00",
       "close": 293.37
+    },
+    {
+      "timestamp": "2026-07-28T18:45:24.475990+00:00",
+      "close": 292.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T13:40:00+00:00",
+      "title": "The Fed Is Expected To Hold Rates - The Rules Say It Shouldn't",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T13:21:06+00:00",
+      "title": "Nasdaq 100 Enters Correction, SanDisk Sinks Over 50% From Peak: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T13:10:47+00:00",
+      "title": "6 Catalysts That Might Pop The AI Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T12:15:00+00:00",
       "title": "The Credit Market Lens: The Return Of Financial Engineering - Not 2008, But Not Nothing",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-28T08:49:11+00:00",
       "title": "The Fed Is Not Going To Raise Interest Rates",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:00:00+00:00",
-      "title": "Forget The AI Bubble, Because This Bull Market Could Easily Extend Until 2029",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T06:45:00+00:00",
-      "title": "Wall Street's AI CapEx Concerns Overlook Demand-Supply Outlook",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T06:22:45+00:00",
-      "title": "Hyperscalers: A 'Toxic Waste' Investment",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
