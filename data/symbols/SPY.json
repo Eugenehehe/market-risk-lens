@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:23:00.456085+00:00",
+  "generated_at": "2026-07-28T07:09:42.515941+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 739.09,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T16:14:07.948913+00:00",
-      "close": 743.29
-    },
     {
       "timestamp": "2026-07-19T17:26:22.770473+00:00",
       "close": 743.29
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T04:23:00.456085+00:00",
       "close": 739.09
+    },
+    {
+      "timestamp": "2026-07-28T07:09:42.515941+00:00",
+      "close": 739.09
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-28T00:36:08+00:00",
       "title": "Only 14% of Gen X Has a Pension. For a 53-Year-Old Riding an AI-Heavy S&P 500, Social Security Is the Only Floor Left.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T00:10:00+00:00",
+      "title": "Escalating Middle East Tensions Shift The Balance Of Risk",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T20:32:32+00:00",
       "title": "Buying The SMH Dip Requires A Strong Stomach",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T19:00:00+00:00",
-      "title": "Cash, Chips, and Chaos: What’s Really Driving ETF Flows",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

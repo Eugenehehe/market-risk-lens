@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:23:00.456085+00:00",
+  "generated_at": "2026-07-28T07:09:42.515941+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 336.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T16:14:07.948913+00:00",
-      "close": 333.74
-    },
     {
       "timestamp": "2026-07-19T17:26:22.770473+00:00",
       "close": 333.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T04:23:00.456085+00:00",
       "close": 336.91
+    },
+    {
+      "timestamp": "2026-07-28T07:09:42.515941+00:00",
+      "close": 336.91
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-28T01:10:07+00:00",
       "title": "Dan Niles Says Apple Was ‘Incompetent’ With AI, So Why Is The Stock at All-Time Highs?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T01:10:00+00:00",
+      "title": "Market Brief: The Quarter's Most Pivotal 48 Hours",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T22:54:34+00:00",
       "title": "Wall Street ends mixed as investors focus on tech earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T22:29:03+00:00",
-      "title": "Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 500 — ASML, MSFT, NVDA, AMZN, PSKY In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

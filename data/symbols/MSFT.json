@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:23:00.456085+00:00",
+  "generated_at": "2026-07-28T07:09:42.515941+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 389.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T16:14:07.948913+00:00",
-      "close": 393.82
-    },
     {
       "timestamp": "2026-07-19T17:26:22.770473+00:00",
       "close": 393.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T04:23:00.456085+00:00",
       "close": 389.1
+    },
+    {
+      "timestamp": "2026-07-28T07:09:42.515941+00:00",
+      "close": 389.1
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-28T01:51:32+00:00",
       "title": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T01:10:00+00:00",
+      "title": "Market Brief: The Quarter's Most Pivotal 48 Hours",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T23:12:25+00:00",
       "title": "IBM (IBM) Joins Nvidia And Microsoft In Open Secure AI Alliance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T22:54:34+00:00",
-      "title": "Wall Street ends mixed as investors focus on tech earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
