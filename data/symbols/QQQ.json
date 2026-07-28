@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:30:46.947132+00:00",
+  "generated_at": "2026-07-28T22:37:24.842924+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 675.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T04:51:30.086059+00:00",
-      "close": 695.33
-    },
     {
       "timestamp": "2026-07-20T07:51:42.011429+00:00",
       "close": 695.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-28T21:30:46.947132+00:00",
       "close": 675.49
+    },
+    {
+      "timestamp": "2026-07-28T22:37:24.842924+00:00",
+      "close": 675.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-28T17:45:43+00:00",
+      "title": "The Market Is Emotional - You Should Profit From It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T15:44:08+00:00",
       "title": "Amazon, Apple, Meta, Microsoft Earnings on Deck: 33% of Benzinga Viewers Say This is Top Report to Watch",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T13:21:06+00:00",
       "title": "Nasdaq 100 Enters Correction, SanDisk Sinks Over 50% From Peak: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T13:10:47+00:00",
-      "title": "6 Catalysts That Might Pop The AI Bubble",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

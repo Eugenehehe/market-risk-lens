@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:30:46.947132+00:00",
+  "generated_at": "2026-07-28T22:37:24.842924+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 119.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T04:51:30.086059+00:00",
-      "close": 126.41
-    },
     {
       "timestamp": "2026-07-20T07:51:42.011429+00:00",
       "close": 126.41
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T21:30:46.947132+00:00",
       "close": 119.96
+    },
+    {
+      "timestamp": "2026-07-28T22:37:24.842924+00:00",
+      "close": 119.96
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-07-28T18:44:28+00:00",
       "title": "Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T18:10:15+00:00",
+      "title": "AI Bond Binge Enters New Era of Weak Demand and Sky-High Prices",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-28T16:44:00+00:00",
       "title": "Oracle vs. Alibaba: Which Cloud & AI Giant Should You Buy Right Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T15:50:00+00:00",
-      "title": "How SAP's AI and Cloud Strategy Is Reshaping Its Growth Outlook Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

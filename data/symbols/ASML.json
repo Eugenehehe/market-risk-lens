@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:30:46.947132+00:00",
+  "generated_at": "2026-07-28T22:37:24.842924+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1582.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T04:51:30.086059+00:00",
-      "close": 1747.58
-    },
     {
       "timestamp": "2026-07-20T07:51:42.011429+00:00",
       "close": 1747.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T21:30:46.947132+00:00",
       "close": 1582.95
+    },
+    {
+      "timestamp": "2026-07-28T22:37:24.842924+00:00",
+      "close": 1582.95
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-28T19:59:07+00:00",
       "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T17:45:43+00:00",
+      "title": "The Market Is Emotional - You Should Profit From It",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-28T14:35:00+00:00",
       "title": "Corning, ASML, SK Hynix, PayPal, UPS, Coca-Cola, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T14:15:44+00:00",
-      "title": "This Chip ETF Just Pulled Off a Historic 2026 While Nvidia Stumbled",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
