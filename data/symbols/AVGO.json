@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:47:34.863986+00:00",
+  "generated_at": "2026-07-28T11:47:11.781438+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 383.22,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T18:28:34.465179+00:00",
-      "close": 370.825
-    },
     {
       "timestamp": "2026-07-19T19:44:07.766813+00:00",
       "close": 370.825
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T09:47:34.863986+00:00",
       "close": 383.22
+    },
+    {
+      "timestamp": "2026-07-28T11:47:11.781438+00:00",
+      "close": 383.22
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-07-27T23:25:02+00:00",
       "title": "3 Big Reasons to Love Broadcom (AVGO)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-27T20:55:03+00:00",
+      "title": "Big Tech credit risks rise sharply as AI spending soars",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-27T16:47:50+00:00",
       "title": "Broadcom Stock Jumps as Samsung Lands Massive $200 Billion AI Chip Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T16:19:00+00:00",
-      "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

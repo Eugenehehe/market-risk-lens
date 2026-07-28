@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:47:34.863986+00:00",
+  "generated_at": "2026-07-28T11:47:11.781438+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 516.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-19T18:28:34.465179+00:00",
-      "close": 521.81
-    },
     {
       "timestamp": "2026-07-19T19:44:07.766813+00:00",
       "close": 521.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-28T09:47:34.863986+00:00",
       "close": 516.23
+    },
+    {
+      "timestamp": "2026-07-28T11:47:11.781438+00:00",
+      "close": 516.23
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-28T08:07:35+00:00",
       "title": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-28T05:52:53+00:00",
+      "title": "The Market Is Hostage To Two Startups",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-27T07:19:00+00:00",
       "title": "Is The AI Earnings Upswing A 'Pig In The Python'?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T06:09:44+00:00",
-      "title": "Wall Street Sees Little Threat to Micron From China’s Memory Giant",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
