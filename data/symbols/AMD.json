@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T17:34:46.676606+00:00",
+  "generated_at": "2026-07-29T18:36:58.428580+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 439.24,
-    "change_pct": -3.3830451805903827
+    "price": 442.97,
+    "change_pct": -2.562579736923143
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T23:36:06.056348+00:00",
-      "close": 503.57
-    },
     {
       "timestamp": "2026-07-21T01:05:08.817435+00:00",
       "close": 503.57
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 439.24
+    },
+    {
+      "timestamp": "2026-07-29T18:36:58.428580+00:00",
+      "close": 442.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T17:28:39+00:00",
+      "title": "Intel Stock Is Up 124% This Year and AMD Is Up 100%: Is the NASDAQ Correction a Take-Profit Signal?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T16:42:00+00:00",
+      "title": "Chip selloff overblown, UBS says, downplaying \"circular financing\" fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T16:41:57+00:00",
+      "title": "The CLARITY Act divides finance giants ahead of congressional recess",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T16:37:03+00:00",
+      "title": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T16:18:16+00:00",
+      "title": "Intel Continues to Get Pummeled: Why One Analyst Maintains His Conviction That 130% Gains Will Come",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T15:00:58+00:00",
       "title": "The AI Trade Is Still On: Why Nvidia Remains at the Center of It",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-29T13:21:21+00:00",
       "title": "What Could Push NVDA Stock Higher From Here?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:10:45+00:00",
-      "title": "Stocks making the biggest moves midday: Caterpillar, Vertiv, SoFi Technologies, AMD & more",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:06:37+00:00",
-      "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:03:52+00:00",
-      "title": "Nvidia, Micron, AMD sink as SK Hynix results fail to impress, AI trade unwinds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T12:38:05+00:00",
-      "title": "CORZ Stock Gains After Price Target Hikes – Wall Street Believes AMD Deal Is A ‘Large Quality Lease’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T12:13:00+00:00",
-      "title": "Dow Jones down over 800 points as Trump lashes out ahead of Fed decision",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

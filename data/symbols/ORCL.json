@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T17:34:46.676606+00:00",
+  "generated_at": "2026-07-29T18:36:58.428580+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 118.37,
-    "change_pct": -1.3254418139379665
+    "price": 120.17,
+    "change_pct": 0.17505835278426307
   },
   "risk": {
-    "score": 61,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T23:36:06.056348+00:00",
-      "close": 121.38
-    },
     {
       "timestamp": "2026-07-21T01:05:08.817435+00:00",
       "close": 121.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 118.37
+    },
+    {
+      "timestamp": "2026-07-29T18:36:58.428580+00:00",
+      "close": 120.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T16:43:01+00:00",
+      "title": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T14:07:35+00:00",
       "title": "Wall Street Picks AI Winners and Losers as Credit Swaps Surge",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T11:03:42+00:00",
       "title": "Explainer-What are credit default swaps and why are they spooking AI investors?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T10:47:14+00:00",
-      "title": "Why KOSPI And The Semiconductor Sector Is Crashing",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
