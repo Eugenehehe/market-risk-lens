@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T12:16:01.070609+00:00",
+  "generated_at": "2026-07-29T14:34:43.611336+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 740.86,
-    "change_pct": 0.2394836894018315
+    "price": 735.47,
+    "change_pct": -0.7275328672083803
   },
   "risk": {
-    "score": 52,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T20:13:28.626381+00:00",
-      "close": 742.09
-    },
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 742.09
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-29T12:16:01.070609+00:00",
       "close": 740.86
+    },
+    {
+      "timestamp": "2026-07-29T14:34:43.611336+00:00",
+      "close": 735.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T13:30:47+00:00",
+      "title": "SOXQ ETF Is A Sharper Bet Than Its Name Suggests",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T13:30:45+00:00",
+      "title": "Time To Take Profits In XLV?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T12:38:42+00:00",
+      "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday Ahead of Fed's Interest Rate Announcement",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T12:18:21+00:00",
+      "title": "Daily Breadth Improves, but the Broader Trend Stays Fragile",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T11:10:52+00:00",
+      "title": "CSD and VEGN Both Beat the S&P 500 but One Thrives When Markets Punish Tech",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T10:11:53+00:00",
+      "title": "The AI Bubble Is Bursting - Don't Get Mauled",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T09:12:44+00:00",
       "title": "Chips Sell First, Ask Questions Later - And SK Hynix Just Handed Them the Answer",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T07:55:45+00:00",
-      "title": "Hyperscalers Deserve The Benefit Of The Doubt And Doomsday Predictions Are Wrong",
+      "timestamp": "2026-07-29T09:09:48+00:00",
+      "title": "The Worst Of 1999 And 2008: Bubbles, Moral Hazard, And Bailouts",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T06:00:00+00:00",
-      "title": "RSP: Why Equal Weighting Is The Antidote To The S&P 500's M2 Distortion",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T05:56:37+00:00",
-      "title": "The Market Is Afraid Of Capex But It's An Accumulation Opportunity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T04:30:00+00:00",
-      "title": "Markets Price In 30% Odds Of A Rate Hike, Warsh May Have Other Plans",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T01:00:00+00:00",
-      "title": "Build A Better Path, Part 2: 3-Dimensional Investing",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T23:58:00+00:00",
-      "title": "Performance Insights - July 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T22:44:01+00:00",
-      "title": "Dow Ends Higher For Third Straight Session As Oil Cools, Nasdaq Slides On Chipmaker Rout — PYPL, SPCX, AAPL, V, F Stocks In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

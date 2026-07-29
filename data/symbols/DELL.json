@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T12:16:01.070609+00:00",
+  "generated_at": "2026-07-29T14:34:43.611336+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 392.1,
-    "change_pct": -8.153943454123825
+    "price": 381.13,
+    "change_pct": -2.7977556745728216
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T20:13:28.626381+00:00",
-      "close": 381.88
-    },
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 381.88
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T12:16:01.070609+00:00",
       "close": 392.1
+    },
+    {
+      "timestamp": "2026-07-29T14:34:43.611336+00:00",
+      "close": 381.13
     }
   ],
   "events": [

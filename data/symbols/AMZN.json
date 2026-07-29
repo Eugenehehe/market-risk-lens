@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T12:16:01.070609+00:00",
+  "generated_at": "2026-07-29T14:34:43.611336+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 230.86,
-    "change_pct": -0.22905052076579446
+    "price": 227.95,
+    "change_pct": -1.260504201680679
   },
   "risk": {
-    "score": 52,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T20:13:28.626381+00:00",
-      "close": 249.99
-    },
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 249.99
@@ -502,12 +498,56 @@
     {
       "timestamp": "2026-07-29T12:16:01.070609+00:00",
       "close": 230.86
+    },
+    {
+      "timestamp": "2026-07-29T14:34:43.611336+00:00",
+      "close": 227.95
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-29T13:51:52+00:00",
+      "title": "DoorDash launches in-house drone delivery program after FAA certification",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T13:48:25+00:00",
+      "title": "Hyperscaler debt binge pushes yields up as investor demand cools",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T12:30:35+00:00",
+      "title": "2 Billionaires, 1 Stock: Both Have More Than 15% of Their Portfolios in Amazon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T12:13:09+00:00",
+      "title": "Amazon Q2 Earnings Preview: What To Expect From Upcoming Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T11:56:22+00:00",
       "title": "Amazon Q2 earnings to put spotlight on AWS growth amid AI spending",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T11:51:00+00:00",
+      "title": "Coca-Cola Stock Has a Higher P/E Than Most of the Magnificent 7",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-29T11:00:35+00:00",
       "title": "AI Data Center Turbines, Backlogged For Years, Are Suffering Early Deaths. Here's Why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T10:35:00+00:00",
-      "title": "Only 2 \"Magnificent Seven\" Stocks Are Beating the Market This Year. What's Going On?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T10:30:00+00:00",
-      "title": "Elon Musk’s new 5-year warning to Americans: AI will beat human brains by 2032 (then go wild). Get rich or get crushed?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T10:00:00+00:00",
-      "title": "S&P 8,500 melt-up? Why money is leaving big tech",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T08:30:22+00:00",
-      "title": "MSFT Stock Rises Premarket Ahead Of Q4 Results: CapEx, Azure Growth In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T08:25:00+00:00",
-      "title": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

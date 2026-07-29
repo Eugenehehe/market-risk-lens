@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T12:16:01.070609+00:00",
+  "generated_at": "2026-07-29T14:34:43.611336+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 392.31,
-    "change_pct": -1.6988649176877368
+    "price": 381.31,
+    "change_pct": -2.8039050750681804
   },
   "risk": {
-    "score": 64,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T20:13:28.626381+00:00",
-      "close": 402.3
-    },
     {
       "timestamp": "2026-07-20T21:34:47.768431+00:00",
       "close": 402.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T12:16:01.070609+00:00",
       "close": 392.31
+    },
+    {
+      "timestamp": "2026-07-29T14:34:43.611336+00:00",
+      "close": 381.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T09:25:20+00:00",
+      "title": "Intel Just Beat Its Own Guidance For The Seventh Time In A Row, Upgrade To Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T09:12:44+00:00",
       "title": "Chips Sell First, Ask Questions Later - And SK Hynix Just Handed Them the Answer",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T09:11:12+00:00",
       "title": "Nvidia Stock Is Stagnating -- But The Fundamentals Aren't",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T08:00:27+00:00",
-      "title": "Record Backlog, Bigger Outlook: Cadence Rides AI Wave to Blowout Quarter",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
