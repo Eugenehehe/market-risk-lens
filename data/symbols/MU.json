@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:06:38.944983+00:00",
+  "generated_at": "2026-07-29T22:10:39.790401+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 739,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T07:13:19.512691+00:00",
-      "close": 865.46
-    },
     {
       "timestamp": "2026-07-21T09:41:54.878884+00:00",
       "close": 865.46
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T21:06:38.944983+00:00",
       "close": 739
+    },
+    {
+      "timestamp": "2026-07-29T22:10:39.790401+00:00",
+      "close": 739
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T21:05:01+00:00",
+      "title": "Stay updated with the S&P500 stocks that are on the move in today's after-hours session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T19:05:55+00:00",
       "title": "SK Hynix’s Profits Explode 550%, but Its $31 Billion Spending Plan Sends Investors Running",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T18:05:02+00:00",
       "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T17:43:51+00:00",
-      "title": "Is Intel or Micron More Dangerous for the Rest of 2026?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
