@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T14:34:43.611336+00:00",
+  "generated_at": "2026-07-29T16:06:31.904715+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 84.43,
-    "change_pct": -2.1668597914252463
+    "price": 82.25,
+    "change_pct": -4.692931633835451
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T21:34:47.768431+00:00",
-      "close": 97.06
-    },
     {
       "timestamp": "2026-07-20T22:34:28.398154+00:00",
       "close": 97.06
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 84.43
+    },
+    {
+      "timestamp": "2026-07-29T16:06:31.904715+00:00",
+      "close": 82.25
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-29T13:21:21+00:00",
       "title": "What Could Push NVDA Stock Higher From Here?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T11:15:26+00:00",
+      "title": "Intel: Bull Trap Meltdown Meets Tangible Progress - Don't Chase This Dip",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-29T07:21:54+00:00",
+      "title": "Intel Stock Is Gaining Wednesday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T05:42:54+00:00",
       "title": "Intel's Turnaround Is Finally Backed By Results (Rating Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T21:32:05+00:00",
-      "title": "How Far Could Marvell Technology Stock Actually Fall From Here?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T21:17:00+00:00",
-      "title": "Intel Is Down By 39% Since June. Time to Buy?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

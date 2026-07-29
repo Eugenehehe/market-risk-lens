@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T14:34:43.611336+00:00",
+  "generated_at": "2026-07-29T16:06:31.904715+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1552.64,
-    "change_pct": -1.9147793676363767
+    "price": 1538.23,
+    "change_pct": -2.8251050254272103
   },
   "risk": {
-    "score": 66,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T21:34:47.768431+00:00",
-      "close": 1739.02
-    },
     {
       "timestamp": "2026-07-20T22:34:28.398154+00:00",
       "close": 1739.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 1552.64
+    },
+    {
+      "timestamp": "2026-07-29T16:06:31.904715+00:00",
+      "close": 1538.23
     }
   ],
   "events": [
@@ -522,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-29T10:47:14+00:00",
+      "title": "Why KOSPI And The Semiconductor Sector Is Crashing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T09:09:17+00:00",
       "title": "Has ASML Holding (ENXTAM:ASML) Priced In Too Much AI Demand?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T09:05:47+00:00",
+      "title": "What Is Going on With Micron Stock on Wednesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-29T08:02:11+00:00",
+      "title": "Analyst Says AI Is Making SK Hynix Less Cyclical—and More Valuable",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T07:59:14+00:00",
       "title": "Why China’s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T19:59:07+00:00",
-      "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T17:45:43+00:00",
-      "title": "The Market Is Emotional - You Should Profit From It",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T17:04:50+00:00",
-      "title": "ASML Stock Keeps Sliding On China’s Latest Chip Advance — Why BofA Calls Selloff An ‘Overreaction’ And Sees Over 70% Upside",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

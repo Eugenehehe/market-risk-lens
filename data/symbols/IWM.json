@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T14:34:43.611336+00:00",
+  "generated_at": "2026-07-29T16:06:31.904715+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 290.28,
-    "change_pct": -1.053277431230193
+    "price": 289.05,
+    "change_pct": -1.4725432048266707
   },
   "risk": {
-    "score": 59,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T21:34:47.768431+00:00",
-      "close": 292.31
-    },
     {
       "timestamp": "2026-07-20T22:34:28.398154+00:00",
       "close": 292.31
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 290.28
+    },
+    {
+      "timestamp": "2026-07-29T16:06:31.904715+00:00",
+      "close": 289.05
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-29T12:18:21+00:00",
       "title": "Daily Breadth Improves, but the Broader Trend Stays Fragile",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T11:19:00+00:00",
+      "title": "Markets Hold Back As Crude Oil Prices Climb",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-29T05:56:37+00:00",
       "title": "The Market Is Afraid Of Capex But It's An Accumulation Opportunity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T04:30:00+00:00",
-      "title": "Markets Price In 30% Odds Of A Rate Hike, Warsh May Have Other Plans",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

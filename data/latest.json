@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T14:34:43.611336+00:00",
+  "generated_at": "2026-07-29T16:06:31.904715+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 191.96,
-    "change_pct": -2.5633216587990337
+    "price": 191.09,
+    "change_pct": -3.004923607938681
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T21:34:47.768431+00:00",
-      "close": 203.28
-    },
     {
       "timestamp": "2026-07-20T22:34:28.398154+00:00",
       "close": 203.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 191.96
+    },
+    {
+      "timestamp": "2026-07-29T16:06:31.904715+00:00",
+      "close": 191.09
     }
   ],
   "events": [

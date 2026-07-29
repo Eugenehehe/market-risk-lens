@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T14:34:43.611336+00:00",
+  "generated_at": "2026-07-29T16:06:31.904715+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 735.47,
-    "change_pct": -0.7275328672083803
+    "price": 732.56,
+    "change_pct": -1.120319628539812
   },
   "risk": {
-    "score": 56,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T21:34:47.768431+00:00",
-      "close": 742.09
-    },
     {
       "timestamp": "2026-07-20T22:34:28.398154+00:00",
       "close": 742.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 735.47
+    },
+    {
+      "timestamp": "2026-07-29T16:06:31.904715+00:00",
+      "close": 732.56
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-29T11:19:00+00:00",
+      "title": "Markets Hold Back As Crude Oil Prices Climb",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T11:10:52+00:00",
       "title": "CSD and VEGN Both Beat the S&P 500 but One Thrives When Markets Punish Tech",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T09:12:44+00:00",
       "title": "Chips Sell First, Ask Questions Later - And SK Hynix Just Handed Them the Answer",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T09:09:48+00:00",
-      "title": "The Worst Of 1999 And 2008: Bubbles, Moral Hazard, And Bailouts",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
