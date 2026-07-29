@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T19:58:47.489343+00:00",
+  "generated_at": "2026-07-29T21:06:38.944983+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 389.79,
-    "change_pct": -0.9050463963391375
+    "price": 390.54,
+    "change_pct": -0.7143765094699384
   },
   "risk": {
-    "score": 58,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T04:27:57.115367+00:00",
-      "close": 402.29
-    },
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 402.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 389.79
+    },
+    {
+      "timestamp": "2026-07-29T21:06:38.944983+00:00",
+      "close": 390.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T19:38:47+00:00",
+      "title": "Stock Market Today: Nasdaq Tumbles As Fed's Warsh Notes Two Trends; Meta Losing Gains (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T19:10:04+00:00",
       "title": "Wednesday's session: top gainers and losers in the dow jones index",
@@ -514,56 +522,48 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T17:38:20+00:00",
-      "title": "Sector Update: Tech Stocks Fall Wednesday Afternoon",
+      "timestamp": "2026-07-29T19:05:55+00:00",
+      "title": "SK Hynix’s Profits Explode 550%, but Its $31 Billion Spending Plan Sends Investors Running",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T17:28:27+00:00",
-      "title": "Stock Market Today: Dow Sinks As Fed Rate Decision, Warsh Comments Loom; KLA Tumbles (Live Coverage)",
+      "timestamp": "2026-07-29T19:04:27+00:00",
+      "title": "Oracle Is Sending a Different Signal Than Big Tech",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T17:21:39+00:00",
-      "title": "Venture Capitalist Warns Meta Will Keep Spending Big on AI Even If Shareholders Hate It",
+      "timestamp": "2026-07-29T19:01:44+00:00",
+      "title": "KPIT Technologies Ltd (BOM:542651) Q1 2027 Earnings Call Highlights: Strategic Partnerships and ...",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T16:56:33+00:00",
-      "title": "Update: US Equity Indexes Slide Ahead of Warsh's Press Briefing, Big-Tech Results While Trump Vows to Hit Iran Hard",
+      "timestamp": "2026-07-29T18:47:47+00:00",
+      "title": "Amazon Stock: Q2 Earnings Could Highlight 'Prescient' AI Approach",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T16:40:04+00:00",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T16:30:43+00:00",
-      "title": "Prediction: Microsoft Will Be Worth This In 2030",
+      "timestamp": "2026-07-29T18:46:34+00:00",
+      "title": "Amazon Stock Falls as $25 Billion Bond Sale Signals AI Debt Fatigue",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T16:18:34+00:00",
-      "title": "Update: Microsoft Facing Probe in UK Over Changes to Microsoft 365 Subscription Plans",
+      "timestamp": "2026-07-29T18:26:21+00:00",
+      "title": "Top Bank Resets Microsoft Stock Target Before Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

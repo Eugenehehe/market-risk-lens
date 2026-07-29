@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T19:58:47.489343+00:00",
+  "generated_at": "2026-07-29T21:06:38.944983+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 338.07,
-    "change_pct": -0.5910374029640009
+    "price": 338.19,
+    "change_pct": -0.5557515878616748
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T04:27:57.115367+00:00",
-      "close": 326.59
-    },
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 326.59
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 338.07
+    },
+    {
+      "timestamp": "2026-07-29T21:06:38.944983+00:00",
+      "close": 338.19
     }
   ],
   "events": [
@@ -514,9 +514,41 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-29T19:08:38+00:00",
+      "title": "Apple (AAPL) Stock Looks Above Fair Value On Cash Flow, Near Fair Value On Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T19:02:41+00:00",
+      "title": "Berkshire Stock Slips Despite UBS Raising Target to $877,848",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T18:35:24+00:00",
+      "title": "Apple Stock Rises Near $5 Trillion Ahead of Five-Year Growth Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T18:05:02+00:00",
       "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T17:50:00+00:00",
+      "title": "Better Buy Amid the Tech Crown Shift : Apple vs. Nvidia",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-07-29T16:40:04+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T16:33:20+00:00",
-      "title": "Can Qualcomm secure a 'tiny slice' of the data center pie?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:59:00+00:00",
-      "title": "Apple's Q3 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:50:00+00:00",
-      "title": "Ford Just Delivered Bad News for Tesla Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:48:08+00:00",
-      "title": "Apple says UK App Store proposal amounts to price regulation",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

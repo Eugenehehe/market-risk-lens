@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T19:58:47.489343+00:00",
+  "generated_at": "2026-07-29T21:06:38.944983+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1554.14,
-    "change_pct": -1.8200195836886812
+    "price": 1550.69,
+    "change_pct": -2.0379670867683775
   },
   "risk": {
-    "score": 65,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T04:27:57.115367+00:00",
-      "close": 1739.02
-    },
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 1739.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 1554.14
+    },
+    {
+      "timestamp": "2026-07-29T21:06:38.944983+00:00",
+      "close": 1550.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T19:09:47+00:00",
+      "title": "ASML Holding (ASML) Looks Fully Valued After A 12% Pullback",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T15:03:53+00:00",
       "title": "Microsoft’s Earnings Could Decide the Fate of a $700 Billion AI Spending Boom",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T08:15:00+00:00",
       "title": "Threat Out of China Creeps Up on ASML: Is the Dip in the Stock Worth Buying?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T08:02:11+00:00",
-      "title": "Analyst Says AI Is Making SK Hynix Less Cyclical—and More Valuable",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

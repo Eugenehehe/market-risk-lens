@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T19:58:47.489343+00:00",
+  "generated_at": "2026-07-29T21:06:38.944983+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 336.05,
-    "change_pct": 0.7012076353720476
+    "price": 336.71,
+    "change_pct": 0.8989841479128513
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T04:27:57.115367+00:00",
-      "close": 351.99
-    },
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 351.99
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 336.05
+    },
+    {
+      "timestamp": "2026-07-29T21:06:38.944983+00:00",
+      "close": 336.71
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-29T19:39:00+00:00",
+      "title": "Berkshire Hathaway buyback binge fuels UBS price target hike ahead of earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T19:10:04+00:00",
       "title": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T19:04:27+00:00",
+      "title": "Oracle Is Sending a Different Signal Than Big Tech",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T19:03:30+00:00",
+      "title": "Alphabet Stock Stalls Despite Fresh $425 Per Share AI Upgrade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T18:46:34+00:00",
+      "title": "Amazon Stock Falls as $25 Billion Bond Sale Signals AI Debt Fatigue",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T18:33:00+00:00",
+      "title": "Is Google Parent Company Alphabet Stock Too Cheap to Ignore Right Now?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,48 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T17:31:24+00:00",
-      "title": "Fiverr International Ltd. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T17:26:00+00:00",
-      "title": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T17:00:24+00:00",
-      "title": "Billionaire Money Manager Christopher Begg Bought Google at 15x Earnings. Here’s Why He Calls It the Best Business in the World",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T16:40:04+00:00",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T16:17:00+00:00",
-      "title": "Amazon just made a major move to reshape its entire AI strategy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T16:13:58+00:00",
-      "title": "Alphabet Captures 2026 AI Capex Alpha But Amazon Begins Surging in 2027",
+      "timestamp": "2026-07-29T17:55:51+00:00",
+      "title": "I Keep Buying Alphabet Because of This Silicon Shift Expected to Hit By Year End",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

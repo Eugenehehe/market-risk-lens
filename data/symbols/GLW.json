@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T19:58:47.489343+00:00",
+  "generated_at": "2026-07-29T21:06:38.944983+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 124.04,
-    "change_pct": -1.5633679866677186
+    "price": 124.05,
+    "change_pct": -1.5554321085628153
   },
   "risk": {
     "score": 63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T04:27:57.115367+00:00",
-      "close": 153.1
-    },
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 153.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 124.04
+    },
+    {
+      "timestamp": "2026-07-29T21:06:38.944983+00:00",
+      "close": 124.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T18:24:06+00:00",
+      "title": "This Put Strategy Cashes In On Corning Stock Weakness",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T15:11:27+00:00",
       "title": "Corning (GLW) Crashed 20% Despite 32% Optical Growth. Should Coherent (COHR) Investors Worry?",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T08:37:02+00:00",
-      "title": "Why Corning (GLW) Stock Is Down Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T08:09:11+00:00",
-      "title": "US Stock Market Today: S&P 500 Futures Slip As Fed Rate Uncertainty Builds",
-      "source": "Yahoo",
+      "timestamp": "2026-07-29T09:11:35+00:00",
+      "title": "Corning Landed Apple, Meta, Nvidia and Amazon in Six Months. Now It Thinks Revenue Can Double by 2030.",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

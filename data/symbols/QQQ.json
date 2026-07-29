@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T19:58:47.489343+00:00",
+  "generated_at": "2026-07-29T21:06:38.944983+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 661.82,
-    "change_pct": -2.0237161171890006
+    "price": 661.73,
+    "change_pct": -2.0370397785311356
   },
   "risk": {
     "score": 67,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T04:27:57.115367+00:00",
-      "close": 696.06
-    },
     {
       "timestamp": "2026-07-21T07:13:19.512691+00:00",
       "close": 696.06
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 661.82
+    },
+    {
+      "timestamp": "2026-07-29T21:06:38.944983+00:00",
+      "close": 661.73
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-07-29T15:00:16+00:00",
       "title": "July FOMC Meeting: Rate Hold Masks A More Hawkish Fed",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T14:45:39+00:00",
+      "title": "Apple Q3 Preview: Stock Hits All-Time Highs, Will Earnings Justify the Momentum?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T12:18:21+00:00",
       "title": "Daily Breadth Improves, but the Broader Trend Stays Fragile",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T12:15:00+00:00",
-      "title": "AI Capex Hits A Tipping Point As Investors Demand More Corporate Discipline",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
