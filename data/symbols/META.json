@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T04:29:28.729124+00:00",
+  "generated_at": "2026-07-29T07:23:04.146179+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 593.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T15:13:29.370703+00:00",
-      "close": 646.77
-    },
     {
       "timestamp": "2026-07-20T16:45:17.378805+00:00",
       "close": 651.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T04:29:28.729124+00:00",
       "close": 593.41
+    },
+    {
+      "timestamp": "2026-07-29T07:23:04.146179+00:00",
+      "close": 593.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T05:15:00+00:00",
+      "title": "As AI Anxiety Spreads, Hyperscaler Default Bets Are Spiking",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T02:33:00+00:00",
       "title": "Anthropic clarifies stance on open-weight AI models",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T22:00:00+00:00",
       "title": "Markets brace for Fed decision and Big Tech earnings",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T21:55:03+00:00",
-      "title": "Berkshire Hathaway: Skip Tech Earnings, Buy This Classic Defensive",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
