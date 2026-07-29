@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:10:39.790401+00:00",
+  "generated_at": "2026-07-29T23:13:48.546044+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 370.32,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T09:41:54.878884+00:00",
-      "close": 378.16
-    },
     {
       "timestamp": "2026-07-21T11:30:01.998048+00:00",
       "close": 378.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T22:10:39.790401+00:00",
       "close": 370.32
+    },
+    {
+      "timestamp": "2026-07-29T23:13:48.546044+00:00",
+      "close": 370.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T20:29:00+00:00",
+      "title": "Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T17:28:39+00:00",
       "title": "Intel Stock Is Up 124% This Year and AMD Is Up 100%: Is the NASDAQ Correction a Take-Profit Signal?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T14:14:39+00:00",
       "title": "NVDA, AVGO’s AI Backstops Have One Analyst Worried — Michael Burry Says There’s A Reason Nvidia’s 5Y CDS Are Going ‘Parabolic’",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:35:15+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
