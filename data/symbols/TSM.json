@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:05:06.035905+00:00",
+  "generated_at": "2026-07-29T12:16:01.070609+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 392.31,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T18:45:00.838716+00:00",
-      "close": 402.14
-    },
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 402.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 392.31
+    },
+    {
+      "timestamp": "2026-07-29T12:16:01.070609+00:00",
+      "close": 392.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T09:12:44+00:00",
+      "title": "Chips Sell First, Ask Questions Later - And SK Hynix Just Handed Them the Answer",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-28T18:25:12+00:00",
       "title": "Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T08:00:27+00:00",
       "title": "Record Backlog, Bigger Outlook: Cadence Rides AI Wave to Blowout Quarter",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-27T21:09:32+00:00",
-      "title": "TSMC Deserves Much More Respect From The Market",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

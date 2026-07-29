@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:05:06.035905+00:00",
+  "generated_at": "2026-07-29T12:16:01.070609+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 392.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T18:45:00.838716+00:00",
-      "close": 387.13
-    },
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 381.88
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 392.1
+    },
+    {
+      "timestamp": "2026-07-29T12:16:01.070609+00:00",
+      "close": 392.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T09:05:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Apple, HP, Alphabet and Dell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T02:29:02+00:00",
       "title": "Q1 Earnings Highs And Lows: Dell (NYSE:DELL) Vs The Rest Of The Hardware & Infrastructure Stocks",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T16:35:01+00:00",
       "title": "Tuesday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T16:17:06+00:00",
-      "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

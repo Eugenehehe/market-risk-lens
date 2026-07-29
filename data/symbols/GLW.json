@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:05:06.035905+00:00",
+  "generated_at": "2026-07-29T12:16:01.070609+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 126.01,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T18:45:00.838716+00:00",
-      "close": 153.98
-    },
     {
       "timestamp": "2026-07-20T20:13:28.626381+00:00",
       "close": 153.1
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 126.01
+    },
+    {
+      "timestamp": "2026-07-29T12:16:01.070609+00:00",
+      "close": 126.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T08:37:02+00:00",
+      "title": "Why Corning (GLW) Stock Is Down Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T08:09:11+00:00",
+      "title": "US Stock Market Today: S&P 500 Futures Slip As Fed Rate Uncertainty Builds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T02:47:00+00:00",
       "title": "Corning’s AI data-center trade hits a guidance wall",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-28T20:10:43+00:00",
       "title": "US Equity Markets Mixed as Oil Drops, Chip Shares Slide",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T19:37:16+00:00",
-      "title": "Update: US Equity Indexes Mixed as Semiconductor Heavyweights Restrain Nasdaq",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T19:31:44+00:00",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
