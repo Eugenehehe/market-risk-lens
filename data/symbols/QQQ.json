@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T16:06:31.904715+00:00",
+  "generated_at": "2026-07-29T17:34:46.676606+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 664.16,
-    "change_pct": -1.6773009222934565
+    "price": 670.22,
+    "change_pct": -0.7801743919228943
   },
   "risk": {
-    "score": 64,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T22:34:28.398154+00:00",
-      "close": 696.06
-    },
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 696.06
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 664.16
+    },
+    {
+      "timestamp": "2026-07-29T17:34:46.676606+00:00",
+      "close": 670.22
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-29T12:18:21+00:00",
       "title": "Daily Breadth Improves, but the Broader Trend Stays Fragile",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T12:15:00+00:00",
+      "title": "AI Capex Hits A Tipping Point As Investors Demand More Corporate Discipline",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-29T08:12:41+00:00",
-      "title": "Two Charts Encapsulating Wall Street's Delusion On AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T07:55:45+00:00",
-      "title": "Hyperscalers Deserve The Benefit Of The Doubt And Doomsday Predictions Are Wrong",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-07-29T08:32:26+00:00",
+      "title": "Stock Market Today: Dow Futures Slip, S&P 500, Nasdaq 100 Rise as Investors Await Federal Reserve's Decision On Interest Rates—Ford, Bloom, Microsoft in Focus (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

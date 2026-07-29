@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T16:06:31.904715+00:00",
+  "generated_at": "2026-07-29T17:34:46.676606+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 506.21,
-    "change_pct": -4.416540785498501
+    "price": 514.03,
+    "change_pct": -2.9399546827794665
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T22:34:28.398154+00:00",
-      "close": 558.83
-    },
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 558.83
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 506.21
+    },
+    {
+      "timestamp": "2026-07-29T17:34:46.676606+00:00",
+      "close": 514.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T12:15:00+00:00",
+      "title": "AI Capex Hits A Tipping Point As Investors Demand More Corporate Discipline",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T07:21:54+00:00",
       "title": "Intel Stock Is Gaining Wednesday: What's Going On?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-28T05:52:53+00:00",
       "title": "The Market Is Hostage To Two Startups",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T05:44:14+00:00",
-      "title": "Intel Stock Is Falling Tuesday: What's Going On?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T16:06:31.904715+00:00",
+  "generated_at": "2026-07-29T17:34:46.676606+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 374.5,
-    "change_pct": -4.539777216996765
+    "price": 380.22,
+    "change_pct": -3.0817465779612974
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T22:34:28.398154+00:00",
-      "close": 402.3
-    },
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 402.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 374.5
+    },
+    {
+      "timestamp": "2026-07-29T17:34:46.676606+00:00",
+      "close": 380.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T11:53:49+00:00",
+      "title": "KLA Falls After Earnings: Raised Guidance Fails To Impress Wall Street",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T10:47:14+00:00",
       "title": "Why KOSPI And The Semiconductor Sector Is Crashing",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-28T14:59:24+00:00",
       "title": "AEF: Strong Results, Still Trading At A Deep Discount, But I'll Pass",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T13:10:47+00:00",
-      "title": "6 Catalysts That Might Pop The AI Bubble",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

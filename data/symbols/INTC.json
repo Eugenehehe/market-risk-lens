@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-29T16:06:31.904715+00:00",
+  "generated_at": "2026-07-29T17:34:46.676606+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 82.25,
-    "change_pct": -4.692931633835451
+    "price": 84.4,
+    "change_pct": -2.201622247972179
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T22:34:28.398154+00:00",
-      "close": 97.06
-    },
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 97.06
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 82.25
+    },
+    {
+      "timestamp": "2026-07-29T17:34:46.676606+00:00",
+      "close": 84.4
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-29T14:08:00+00:00",
+      "title": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T13:27:00+00:00",
+      "title": "Tech ETFs to Buy as Intel Shares Sink Despite Q2 Earnings Beat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T13:21:21+00:00",
       "title": "What Could Push NVDA Stock Higher From Here?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T12:15:00+00:00",
+      "title": "AI Capex Hits A Tipping Point As Investors Demand More Corporate Discipline",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T11:53:49+00:00",
+      "title": "KLA Falls After Earnings: Raised Guidance Fails To Impress Wall Street",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-07-29T10:13:02+00:00",
       "title": "Kulicke and Soffa, Applied Materials, AMD, Intel, and KLA Corporation Stocks Trade Down, What You Need To Know",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T09:25:20+00:00",
-      "title": "Intel Just Beat Its Own Guidance For The Seventh Time In A Row, Upgrade To Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T09:12:44+00:00",
-      "title": "Chips Sell First, Ask Questions Later - And SK Hynix Just Handed Them the Answer",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T07:21:54+00:00",
-      "title": "Intel Stock Is Gaining Wednesday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T05:42:54+00:00",
-      "title": "Intel's Turnaround Is Finally Backed By Results (Rating Downgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

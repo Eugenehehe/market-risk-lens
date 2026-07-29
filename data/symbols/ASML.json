@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T16:06:31.904715+00:00",
+  "generated_at": "2026-07-29T17:34:46.676606+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1538.23,
-    "change_pct": -2.8251050254272103
+    "price": 1562.01,
+    "change_pct": -1.322846583909787
   },
   "risk": {
-    "score": 73,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-20T22:34:28.398154+00:00",
-      "close": 1739.02
-    },
     {
       "timestamp": "2026-07-20T23:36:06.056348+00:00",
       "close": 1739.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 1538.23
+    },
+    {
+      "timestamp": "2026-07-29T17:34:46.676606+00:00",
+      "close": 1562.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T15:03:53+00:00",
+      "title": "Microsoft’s Earnings Could Decide the Fate of a $700 Billion AI Spending Boom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T13:00:42+00:00",
       "title": "Is the AI rally running out of steam?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T08:02:11+00:00",
       "title": "Analyst Says AI Is Making SK Hynix Less Cyclical—and More Valuable",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T07:59:14+00:00",
-      "title": "Why China’s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
