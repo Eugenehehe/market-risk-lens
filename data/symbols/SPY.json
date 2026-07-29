@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T18:36:58.428580+00:00",
+  "generated_at": "2026-07-29T19:58:47.489343+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 737.89,
-    "change_pct": -0.40088545744135784
+    "price": 729.72,
+    "change_pct": -1.503657911076317
   },
   "risk": {
-    "score": 54,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T01:05:08.817435+00:00",
-      "close": 742.09
-    },
     {
       "timestamp": "2026-07-21T04:27:57.115367+00:00",
       "close": 742.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 737.89
+    },
+    {
+      "timestamp": "2026-07-29T19:58:47.489343+00:00",
+      "close": 729.72
     }
   ],
   "events": [
@@ -538,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-29T15:10:43+00:00",
+      "title": "U.S. Economy: A 30% Adjustment For Housing Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-29T15:00:16+00:00",
+      "title": "July FOMC Meeting: Rate Hold Masks A More Hawkish Fed",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-29T14:10:00+00:00",
       "title": "Could The U.S. Fed Decision Surprise Investors?",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-29T14:01:28+00:00",
       "title": "Tech-Heavy KOSPI Volatility Does Not Compute In U.S. (Video)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:30:47+00:00",
-      "title": "SOXQ ETF Is A Sharper Bet Than Its Name Suggests",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:30:45+00:00",
-      "title": "Time To Take Profits In XLV?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

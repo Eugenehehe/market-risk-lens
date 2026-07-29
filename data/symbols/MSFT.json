@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T18:36:58.428580+00:00",
+  "generated_at": "2026-07-29T19:58:47.489343+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 399.06,
-    "change_pct": 1.4516334053641833
+    "price": 389.79,
+    "change_pct": -0.9050463963391375
   },
   "risk": {
-    "score": 62,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T01:05:08.817435+00:00",
-      "close": 402.29
-    },
     {
       "timestamp": "2026-07-21T04:27:57.115367+00:00",
       "close": 402.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 399.06
+    },
+    {
+      "timestamp": "2026-07-29T19:58:47.489343+00:00",
+      "close": 389.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T19:10:04+00:00",
+      "title": "Wednesday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T17:38:20+00:00",
       "title": "Sector Update: Tech Stocks Fall Wednesday Afternoon",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-29T16:18:34+00:00",
       "title": "Update: Microsoft Facing Probe in UK Over Changes to Microsoft 365 Subscription Plans",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:41:48+00:00",
-      "title": "Decoding PLTR Stock's Premium Valuation",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
