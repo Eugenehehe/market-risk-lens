@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T17:54:48.815296+00:00",
+  "generated_at": "2026-07-30T19:25:08.612267+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 126.17,
-    "change_pct": 7.159843723458481
+    "price": 127.25,
+    "change_pct": 8.077119075930028
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T00:02:22.614028+00:00",
-      "close": 127.05
-    },
     {
       "timestamp": "2026-07-22T03:37:16.918695+00:00",
       "close": 127.05
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-30T17:54:48.815296+00:00",
       "close": 126.17
+    },
+    {
+      "timestamp": "2026-07-30T19:25:08.612267+00:00",
+      "close": 127.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T17:32:06+00:00",
+      "title": "Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:44:25+00:00",
+      "title": "Nebius Soars 27%, CoreWeave Jumps 24%, Oracle Climbs 7% as AI Cloud Names Snap Back",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T16:05:11+00:00",
+      "title": "Snowflake Stock Nearly Doubled On A Product Its Own Forecast Could Not See",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T14:18:33+00:00",
       "title": "Oracle Shares Climb as Expanded Google Cloud Alliance Brings Gemini AI to Enterprise Software",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-07-30T13:15:26+00:00",
       "title": "Wall Street Holds Firm on Bloom Energy as Reddit Investors Flee",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:12:55+00:00",
-      "title": "AI CapEx May Hurt Hyperscaler Margins and Credit — Here’s Why That Doesn’t Matter",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:05:00+00:00",
-      "title": "GSI, Inc. named to Accounting Today's 2026 VAR 100, ranking No. 46",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:00:00+00:00",
-      "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

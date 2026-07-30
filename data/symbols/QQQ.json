@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T17:54:48.815296+00:00",
+  "generated_at": "2026-07-30T19:25:08.612267+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 682.15,
-    "change_pct": 3.0858507246157796
+    "price": 684.32,
+    "change_pct": 3.4137790337448903
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T00:02:22.614028+00:00",
-      "close": 708.97
-    },
     {
       "timestamp": "2026-07-22T03:37:16.918695+00:00",
       "close": 708.97
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-07-30T17:54:48.815296+00:00",
       "close": 682.15
+    },
+    {
+      "timestamp": "2026-07-30T19:25:08.612267+00:00",
+      "close": 684.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T14:58:59+00:00",
+      "title": "AAII Sentiment Survey: Optimism Bounces Back",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:45:00+00:00",
+      "title": "2026 Cumberland Advisors Midyear Outlook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:36:34+00:00",
+      "title": "The Yen Just Pulled The Pin",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:07:21+00:00",
+      "title": "Q2 GDP And June PCE: Growth Remains Resilient Beneath A Weak Headline Print",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T13:29:25+00:00",
       "title": "Stock Market Today: Microsoft Ignites Chip Rebound as SanDisk Jumps 24%",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-07-30T11:45:00+00:00",
       "title": "Whale's Insight: Bitcoin Up 9% In July - Is Crypto The First To Recover From The AI Unwind?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T11:23:08+00:00",
-      "title": "Warsh Gets Family Fight As Divided Fed Leaves Rates Unchanged",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T11:14:00+00:00",
-      "title": "U.S. GDP Disappoints Despite Consumer Resilience",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T11:13:00+00:00",
-      "title": "Markets Rebound After Fed-Induced Rout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T10:49:00+00:00",
-      "title": "Standing Still As Inflation Runs Hot",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

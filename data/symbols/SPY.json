@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T17:54:48.815296+00:00",
+  "generated_at": "2026-07-30T19:25:08.612267+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 739.9,
-    "change_pct": 1.4311956789954117
+    "price": 742.04,
+    "change_pct": 1.7245633756477252
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T00:02:22.614028+00:00",
-      "close": 748.28
-    },
     {
       "timestamp": "2026-07-22T03:37:16.918695+00:00",
       "close": 748.28
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-07-30T17:54:48.815296+00:00",
       "close": 739.9
+    },
+    {
+      "timestamp": "2026-07-30T19:25:08.612267+00:00",
+      "close": 742.04
     }
   ],
   "events": [
     {
+      "timestamp": "2026-07-30T17:04:15+00:00",
+      "title": "Forget MDY. State Street Sells the Same S&P Mid-Caps for 87% Less",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-30T15:09:21+00:00",
       "title": "Nvidia is Tanking Below $190: One Wall Street Pro Sees 165% Gains From Here",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:58:59+00:00",
+      "title": "AAII Sentiment Survey: Optimism Bounces Back",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:45:00+00:00",
+      "title": "2026 Cumberland Advisors Midyear Outlook",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,49 +546,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-30T14:36:34+00:00",
+      "title": "The Yen Just Pulled The Pin",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:07:21+00:00",
+      "title": "Q2 GDP And June PCE: Growth Remains Resilient Beneath A Weak Headline Print",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-30T14:03:49+00:00",
       "title": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:55:25+00:00",
-      "title": "Alphabet is $330 a Share: Could It Go To $420 This Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:53:26+00:00",
-      "title": "ServiceNow Showing Signs of Life But Still Down 25% YTD: 115% Returns Coming If This Analyst is Correct",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:39:43+00:00",
-      "title": "VTV Asks You to Pay Yesterday's Premium for Tomorrow's Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:11:32+00:00",
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Tech Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:06:31+00:00",
-      "title": "Breadth Turns Negative as Selling Spreads Across the Market",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
