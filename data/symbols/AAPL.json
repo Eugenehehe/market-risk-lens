@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T21:49:37.170629+00:00",
+  "generated_at": "2026-07-30T22:52:30.005316+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.43,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T08:47:03.428499+00:00",
-      "close": 327.74
-    },
     {
       "timestamp": "2026-07-22T10:54:15.977513+00:00",
       "close": 327.74
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-30T21:49:37.170629+00:00",
       "close": 333.43
+    },
+    {
+      "timestamp": "2026-07-30T22:52:30.005316+00:00",
+      "close": 333.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T21:44:00+00:00",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T21:42:22+00:00",
+      "title": "Apple and Amazon report rising revenues as investors turn on some tech stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T21:20:22+00:00",
       "title": "Apple (NASDAQ:AAPL) Reports Inline Q3 Results but Stock Falls on Services and China Weakness",
@@ -514,56 +530,40 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-30T21:19:42+00:00",
+      "title": "Apple Tops Third-Quarter Estimates; IPad, Services Revenue Falls Short",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T21:15:00+00:00",
+      "title": "Apple earnings: iPhone prices are 'not immune' to rising memory costs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T21:10:56+00:00",
+      "title": "Apple Q3 2026 earnings beat estimates but services revenue misses",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T21:07:09+00:00",
+      "title": "Apple Beats June-Quarter Targets, Gets Earnings Boost From Tariff Refunds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-30T21:05:01+00:00",
       "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:57:35+00:00",
-      "title": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:53:02+00:00",
-      "title": "Apple Stock Falls Nearly 2% Before Earnings as Upgrade Program Launches",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:32:20+00:00",
-      "title": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:28:30+00:00",
-      "title": "Qualcomm Stock Falls on Weak Q4 Outlook Despite Revenue Beat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:22:42+00:00",
-      "title": "Intel's Rare AI Advantage Faces a New Threat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:10:05+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,

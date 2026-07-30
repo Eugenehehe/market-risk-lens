@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T21:49:37.170629+00:00",
+  "generated_at": "2026-07-30T22:52:30.005316+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 183.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T08:47:03.428499+00:00",
-      "close": 207.96
-    },
     {
       "timestamp": "2026-07-22T10:54:15.977513+00:00",
       "close": 207.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-30T21:49:37.170629+00:00",
       "close": 183.3
+    },
+    {
+      "timestamp": "2026-07-30T22:52:30.005316+00:00",
+      "close": 183.3
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-07-30T21:05:01+00:00",
       "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T20:47:13+00:00",
+      "title": "The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T20:03:55+00:00",
+      "title": "NVDA Stock: Where Compounding Could Take The Price",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-30T14:38:05+00:00",
       "title": "Why Investors Are Getting More Bullish on Marvell Technology (MRVL)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T09:24:04+00:00",
-      "title": "Semiconductor ETF SOXX Eyes Worst Month Since 2001: 5 Shocking Charts To Watch",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T14:01:40+00:00",
-      "title": "Marvell Is Making a Bigger Bet on India",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
