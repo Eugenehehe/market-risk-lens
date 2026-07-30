@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:42:38.899196+00:00",
+  "generated_at": "2026-07-30T21:49:37.170629+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 235.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T06:13:57.946480+00:00",
-      "close": 247.55
-    },
     {
       "timestamp": "2026-07-22T08:47:03.428499+00:00",
       "close": 247.55
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-30T20:42:38.899196+00:00",
       "close": 235.5
+    },
+    {
+      "timestamp": "2026-07-30T21:49:37.170629+00:00",
+      "close": 235.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T21:05:01+00:00",
+      "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T20:41:35+00:00",
+      "title": "Amazon (NASDAQ:AMZN) Surges After Q2 Results Show Accelerating AWS Growth",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T19:54:16+00:00",
       "title": "Amazon Stock Jumps 5.2% as $200 Billion AI Test Nears",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-30T18:39:22+00:00",
       "title": "Amazon's AI Sees What It Doesn't Flag",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T18:05:01+00:00",
-      "title": "Most active S&P500 stocks in Thursday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T17:50:00+00:00",
-      "title": "Meet the Super Semiconductor Stock Crushing Nvidia With a 12-Month Return of 129%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

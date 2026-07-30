@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:42:38.899196+00:00",
+  "generated_at": "2026-07-30T21:49:37.170629+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.43,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T06:13:57.946480+00:00",
-      "close": 327.74
-    },
     {
       "timestamp": "2026-07-22T08:47:03.428499+00:00",
       "close": 327.74
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-30T20:42:38.899196+00:00",
       "close": 333.43
+    },
+    {
+      "timestamp": "2026-07-30T21:49:37.170629+00:00",
+      "close": 333.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T21:20:22+00:00",
+      "title": "Apple (NASDAQ:AAPL) Reports Inline Q3 Results but Stock Falls on Services and China Weakness",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T21:05:01+00:00",
+      "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T19:57:35+00:00",
       "title": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-30T19:10:05+00:00",
       "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T18:23:37+00:00",
-      "title": "A Farewell to Tim Cook",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T18:11:43+00:00",
-      "title": "Forget SCHD: This Fidelity Fund Has Beaten It by 5 Points a Year for Five Years",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

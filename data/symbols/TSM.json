@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:42:38.899196+00:00",
+  "generated_at": "2026-07-30T21:49:37.170629+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 403.31,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T06:13:57.946480+00:00",
-      "close": 424.61
-    },
     {
       "timestamp": "2026-07-22T08:47:03.428499+00:00",
       "close": 424.61
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-07-30T20:42:38.899196+00:00",
       "close": 403.31
+    },
+    {
+      "timestamp": "2026-07-30T21:49:37.170629+00:00",
+      "close": 403.31
     }
   ],
   "events": [
     {
       "timestamp": "2026-07-30T16:02:58+00:00",
       "title": "Microsoft's AI Pivot Could Be Bigger Win for AI Infrastructure ETFs Than OpenAI Bets",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T09:07:14+00:00",
+      "title": "'TSMC Develops AI Chip Packaging Tech to Counter Intel' - The Information",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T09:25:20+00:00",
       "title": "Intel Just Beat Its Own Guidance For The Seventh Time In A Row, Upgrade To Buy",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T09:12:44+00:00",
-      "title": "Chips Sell First, Ask Questions Later - And SK Hynix Just Handed Them the Answer",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
