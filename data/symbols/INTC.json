@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T16:21:49.702713+00:00",
+  "generated_at": "2026-07-30T17:54:48.815296+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 92.87,
-    "change_pct": 13.422081094284334
+    "price": 92.19,
+    "change_pct": 12.591597459697113
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T23:04:08.734613+00:00",
-      "close": 105.45
-    },
     {
       "timestamp": "2026-07-22T00:02:22.614028+00:00",
       "close": 105.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-30T16:21:49.702713+00:00",
       "close": 92.87
+    },
+    {
+      "timestamp": "2026-07-30T17:54:48.815296+00:00",
+      "close": 92.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T16:35:01+00:00",
+      "title": "Which S&P500 stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T15:13:34+00:00",
       "title": "Taiwan Semiconductor Is Copying One of Intel’s Best Ideas — Here’s Why Investors Should Pay Attention",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-30T13:57:23+00:00",
       "title": "TSMC is moving in on Intel’s turf; Why Intel is up anyway",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:05:54+00:00",
-      "title": "ASML's EUV Machines Are Becoming More Valuable Than Ever. Here's Why.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

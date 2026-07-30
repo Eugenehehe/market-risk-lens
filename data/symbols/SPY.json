@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T16:21:49.702713+00:00",
+  "generated_at": "2026-07-30T17:54:48.815296+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 739.08,
-    "change_pct": 1.318783757848263
+    "price": 739.9,
+    "change_pct": 1.4311956789954117
   },
   "risk": {
-    "score": 61,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T23:04:08.734613+00:00",
-      "close": 748.28
-    },
     {
       "timestamp": "2026-07-22T00:02:22.614028+00:00",
       "close": 748.28
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-30T16:21:49.702713+00:00",
       "close": 739.08
+    },
+    {
+      "timestamp": "2026-07-30T17:54:48.815296+00:00",
+      "close": 739.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T15:09:21+00:00",
+      "title": "Nvidia is Tanking Below $190: One Wall Street Pro Sees 165% Gains From Here",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T14:39:00+00:00",
+      "title": "PCE Data for June: +3.3% on Core, Consumption & Pricing Higher",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T14:03:49+00:00",
       "title": "AMD is Down 18% Over a Month: One Analyst Targets $1,250, Meaning 190% Returns From Here",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-30T13:06:31+00:00",
       "title": "Breadth Turns Negative as Selling Spreads Across the Market",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T12:23:38+00:00",
-      "title": "SPMO ETF Hides A Heavy Tech Tilt",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T11:45:00+00:00",
-      "title": "Whale's Insight: Bitcoin Up 9% In July - Is Crypto The First To Recover From The AI Unwind?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
