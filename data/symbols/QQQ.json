@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T14:52:29.477676+00:00",
+  "generated_at": "2026-07-30T16:21:49.702713+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 680.83,
-    "change_pct": 2.8863735964819615
+    "price": 682.22,
+    "change_pct": 3.0964290571683373
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T21:57:40.582035+00:00",
-      "close": 708.97
-    },
     {
       "timestamp": "2026-07-21T23:04:08.734613+00:00",
       "close": 708.97
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-30T14:52:29.477676+00:00",
       "close": 680.83
+    },
+    {
+      "timestamp": "2026-07-30T16:21:49.702713+00:00",
+      "close": 682.22
     }
   ],
   "events": [
@@ -509,6 +509,46 @@
       "timestamp": "2026-07-30T13:06:31+00:00",
       "title": "Breadth Turns Negative as Selling Spreads Across the Market",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T11:45:00+00:00",
+      "title": "Whale's Insight: Bitcoin Up 9% In July - Is Crypto The First To Recover From The AI Unwind?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T11:23:08+00:00",
+      "title": "Warsh Gets Family Fight As Divided Fed Leaves Rates Unchanged",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T11:14:00+00:00",
+      "title": "U.S. GDP Disappoints Despite Consumer Resilience",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T11:13:00+00:00",
+      "title": "Markets Rebound After Fed-Induced Rout",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T10:49:00+00:00",
+      "title": "Standing Still As Inflation Runs Hot",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-30T09:44:56+00:00",
       "title": "A Forward Guidance Hangover",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T09:07:11+00:00",
-      "title": "July FOMC Statement: Nothing Changes, But Everything Looks Different",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T08:00:51+00:00",
-      "title": "The KOSPI Crash: The Prelude To The Nasdaq 100 Crash",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T07:30:00+00:00",
-      "title": "Warsh Holds Off Rate Hike, Bets On Supply Catching Up With Demand",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T06:23:00+00:00",
-      "title": "Information Timing And Release: The Gaming Of Guidance",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T05:27:41+00:00",
-      "title": "China Can Build The Memory, It Can't Build The Base Die",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
