@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:55:19.547996+00:00",
+  "generated_at": "2026-07-30T12:28:30.216581+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 729.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T19:45:11.009287+00:00",
-      "close": 748.5
-    },
     {
       "timestamp": "2026-07-21T20:52:07.335212+00:00",
       "close": 748.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-30T10:55:19.547996+00:00",
       "close": 729.46
+    },
+    {
+      "timestamp": "2026-07-30T12:28:30.216581+00:00",
+      "close": 729.46
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-07-30T10:02:26+00:00",
       "title": "His 401(k) Hit a Record High on AI Stocks. Why His Social Security Check Matters More Than Ever.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T08:00:51+00:00",
+      "title": "The KOSPI Crash: The Prelude To The Nasdaq 100 Crash",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T07:30:00+00:00",
+      "title": "Warsh Holds Off Rate Hike, Bets On Supply Catching Up With Demand",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-30T01:30:00+00:00",
       "title": "Fed Holds Rates Steady As 3 FOMC Members Dissent",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T23:46:00+00:00",
-      "title": "Fed's Interest Rate Decision: July 29, 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T22:05:13+00:00",
-      "title": "The SOXX Dip Has A Painful History",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

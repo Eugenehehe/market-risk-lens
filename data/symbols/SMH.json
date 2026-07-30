@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:55:19.547996+00:00",
+  "generated_at": "2026-07-30T12:28:30.216581+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 504.22,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T19:45:11.009287+00:00",
-      "close": 584.14
-    },
     {
       "timestamp": "2026-07-21T20:52:07.335212+00:00",
       "close": 584.08
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-30T10:55:19.547996+00:00",
       "close": 504.22
+    },
+    {
+      "timestamp": "2026-07-30T12:28:30.216581+00:00",
+      "close": 504.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T08:00:51+00:00",
+      "title": "The KOSPI Crash: The Prelude To The Nasdaq 100 Crash",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T05:27:41+00:00",
       "title": "China Can Build The Memory, It Can't Build The Base Die",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-29T01:10:00+00:00",
       "title": "Behind The AI Boom: The Electronics Supply-Side Constraints",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-28T14:45:53+00:00",
-      "title": "The Market Lost Its Mind, But You Shouldn't",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
