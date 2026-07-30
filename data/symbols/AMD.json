@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:13:48.546044+00:00",
+  "generated_at": "2026-07-30T00:13:07.790826+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 429.56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T11:30:01.998048+00:00",
-      "close": 503.57
-    },
     {
       "timestamp": "2026-07-21T12:58:54.193015+00:00",
       "close": 503.57
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-29T23:13:48.546044+00:00",
       "close": 429.56
+    },
+    {
+      "timestamp": "2026-07-30T00:13:07.790826+00:00",
+      "close": 429.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-29T22:05:13+00:00",
+      "title": "The SOXX Dip Has A Painful History",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T19:13:00+00:00",
       "title": "AMD's Core Scientific deal is bigger than the headline number",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T17:28:39+00:00",
       "title": "Intel Stock Is Up 124% This Year and AMD Is Up 100%: Is the NASDAQ Correction a Take-Profit Signal?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T17:10:16+00:00",
-      "title": "PSI: A Buy On The Equipment Side Of The Chip Sell-Off",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
