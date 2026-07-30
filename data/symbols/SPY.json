@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:52:30.005316+00:00",
+  "generated_at": "2026-07-30T23:56:56.577144+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 741.69,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T10:54:15.977513+00:00",
-      "close": 748.28
-    },
     {
       "timestamp": "2026-07-22T12:24:02.849601+00:00",
       "close": 748.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-30T22:52:30.005316+00:00",
       "close": 741.69
+    },
+    {
+      "timestamp": "2026-07-30T23:56:56.577144+00:00",
+      "close": 741.69
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-30T19:02:01+00:00",
       "title": "Carvana Is Down 30% in 2026 While CarMax Is Up 50%. Should Investors Sell One and Buy the Other?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T18:53:01+00:00",
+      "title": "SCOTUS Tariff Ruling And Iran War Grind Down GDP And Increase Risk",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-30T16:45:00+00:00",
       "title": "Core PCE Inflation At 3.3% In June, Edging Down From May",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T15:35:14+00:00",
-      "title": "Samsung Profits Surge 1300%; 30-Year Bond Yield Highest Since 2007; Momo's Favorite Semi ETF Loses 70%",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
