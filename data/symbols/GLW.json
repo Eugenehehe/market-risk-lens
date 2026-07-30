@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 124.05,
-    "change_pct": -1.5554321085628153
+    "price": 131.68,
+    "change_pct": 6.150745667069746
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 162.41
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 162.41
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 124.05
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 131.68
     }
   ],
   "events": [

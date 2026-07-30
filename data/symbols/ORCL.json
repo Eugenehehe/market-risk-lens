@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 117.74,
-    "change_pct": -1.8506168722907668
+    "price": 126.56,
+    "change_pct": 7.491082045184316
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 127.05
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 127.05
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 117.74
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 126.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T13:35:03+00:00",
+      "title": "Oracle shares pop 3.3% as Google cloud AI partnership expands",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T13:15:26+00:00",
+      "title": "Wall Street Holds Firm on Bloom Energy as Reddit Investors Flee",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T13:12:55+00:00",
+      "title": "AI CapEx May Hurt Hyperscaler Margins and Credit — Here’s Why That Doesn’t Matter",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T13:05:00+00:00",
+      "title": "GSI, Inc. named to Accounting Today's 2026 VAR 100, ranking No. 46",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T13:00:00+00:00",
+      "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T11:59:55+00:00",
+      "title": "IBM Swapped Its AI Scoreboard For A Quantum One",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T10:48:08+00:00",
       "title": "NVDA, NBIS, SKHY, SNDK Stock Losses Reportedly Force Ex-OpenAI Researcher’s $20B Fund To Seek Capital",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-07-30T06:13:02+00:00",
       "title": "3 Out-of-Favor Stocks We Keep Off Our Radar",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T01:33:55+00:00",
-      "title": "Oracle: Bears May Pay A Big Price (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T01:06:02+00:00",
-      "title": "WEC Energy Group, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T21:45:04+00:00",
-      "title": "Why Oracle (ORCL) Dipped More Than Broader Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T20:07:03+00:00",
-      "title": "Oracle (ORCL) Stock Looks Undervalued On Earnings While Risks Still Weigh",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T19:58:04+00:00",
-      "title": "AI-Fueled Demand Signals a Bigger Opportunity for Bloom Energy (BE) Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T19:04:27+00:00",
-      "title": "Oracle Is Sending a Different Signal Than Big Tech",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

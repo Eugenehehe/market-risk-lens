@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 390.54,
-    "change_pct": -0.7143765094699384
+    "price": 449.88,
+    "change_pct": 15.194346289752648
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 397.75
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 397.75
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 390.54
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 449.88
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-30T11:55:00+00:00",
-      "title": "The Big Cash Flow Problem That Is Sinking Meta Stock After Earnings",
+      "timestamp": "2026-07-30T13:57:23+00:00",
+      "title": "TSMC is moving in on Intel’s turf; Why Intel is up anyway",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:53:07+00:00",
-      "title": "Meta Is Spending Whatever It Takes to Win AI — And That’s What Worries Investors",
+      "timestamp": "2026-07-30T13:43:53+00:00",
+      "title": "The Market Loves Microsoft’s AI Spending, Hates Meta’s. Here’s Why",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:52:00+00:00",
-      "title": "Microsoft Earnings Prove Its Big AI Bet Is Paying Off",
+      "timestamp": "2026-07-30T13:32:37+00:00",
+      "title": "Stocks Bounce Back From Fed Day Turmoil",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:48:44+00:00",
-      "title": "Stock Futures Rise as Investors Await Key Inflation Report Following Fed Hold",
+      "timestamp": "2026-07-30T13:21:31+00:00",
+      "title": "Technology Stocks Set to Lift Wall Street at the Open After Sharp Sell-Off: Dow Jones, S&P, Nasdaq, Futures",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:46:00+00:00",
-      "title": "Tesla’s Six-Day Losing Streak Took the Stock Below $300 for the First Time in a Year",
+      "timestamp": "2026-07-30T13:14:00+00:00",
+      "title": "Microsoft, Meta, Samsung, Micron, Nvidia, Apple, Amazon, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:44:00+00:00",
-      "title": "SpaceX Stock Rises On Hope Big U.S. Space Force Launch Order Can Stem Slump",
+      "timestamp": "2026-07-30T13:11:32+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Tech Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:42:55+00:00",
-      "title": "Earnings, Oil, Bank of England Boost European Bourses Midday",
+      "timestamp": "2026-07-30T13:08:06+00:00",
+      "title": "Bitcoin ETFs Snap Two-Month Outflow Streak, But Monthly Inflows On Track To Hit Record Low",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:36:35+00:00",
-      "title": "Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings",
+      "timestamp": "2026-07-30T13:06:54+00:00",
+      "title": "Microsoft Surges 9% as Azure Tops $100B and Q4 Beat Lifts Most Price Targets",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

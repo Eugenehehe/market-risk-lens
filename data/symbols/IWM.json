@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 288.57,
-    "change_pct": -1.6361591164740785
+    "price": 289.89,
+    "change_pct": 0.45742800706933817
   },
   "risk": {
-    "score": 64,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 296.54
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 296.54
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 288.57
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 289.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T13:06:31+00:00",
+      "title": "Breadth Turns Negative as Selling Spreads Across the Market",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T10:00:00+00:00",
+      "title": "FNDA: Small-Cap ETF With Solid Quality And GARP Features",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T09:55:00+00:00",
+      "title": "The Fed's Stunning Policy Shift Could Send Rates Soaring",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T09:44:56+00:00",
+      "title": "A Forward Guidance Hangover",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-30T09:07:11+00:00",
+      "title": "July FOMC Statement: Nothing Changes, But Everything Looks Different",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T08:00:51+00:00",
       "title": "The KOSPI Crash: The Prelude To The Nasdaq 100 Crash",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-07-30T06:23:00+00:00",
       "title": "Information Timing And Release: The Gaming Of Guidance",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T05:27:41+00:00",
-      "title": "China Can Build The Memory, It Can't Build The Base Die",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T02:30:00+00:00",
-      "title": "Stocks Tank, Long-Term Treasury Yields Jump After Warsh Starts Talking",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T02:20:00+00:00",
-      "title": "The Fed Holds Steady, But Questions Linger",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T01:30:00+00:00",
-      "title": "Fed Holds Rates Steady As 3 FOMC Members Dissent",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T23:46:00+00:00",
-      "title": "Fed's Interest Rate Decision: July 29, 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

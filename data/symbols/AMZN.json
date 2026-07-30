@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 226.65,
-    "change_pct": -1.8236160443558913
+    "price": 237.43,
+    "change_pct": 4.756232075887934
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 247.55
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 247.55
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 226.65
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 237.43
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-30T11:53:07+00:00",
-      "title": "Meta Is Spending Whatever It Takes to Win AI — And That’s What Worries Investors",
+      "timestamp": "2026-07-30T13:32:37+00:00",
+      "title": "Stocks Bounce Back From Fed Day Turmoil",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:52:00+00:00",
-      "title": "Microsoft Earnings Prove Its Big AI Bet Is Paying Off",
+      "timestamp": "2026-07-30T13:14:00+00:00",
+      "title": "Microsoft, Meta, Samsung, Micron, Nvidia, Apple, Amazon, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:48:44+00:00",
-      "title": "Stock Futures Rise as Investors Await Key Inflation Report Following Fed Hold",
+      "timestamp": "2026-07-30T13:06:54+00:00",
+      "title": "Microsoft Surges 9% as Azure Tops $100B and Q4 Beat Lifts Most Price Targets",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:10:15+00:00",
-      "title": "Microsoft Earnings Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "timestamp": "2026-07-30T12:58:16+00:00",
+      "title": "Stock Market Today: Dow Rises After Inflation Data; Meta Plunges On Earnings (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T10:00:03+00:00",
-      "title": "Amazon finds cases of AI causing runaway spending on tech projects",
+      "timestamp": "2026-07-30T12:46:16+00:00",
+      "title": "Morgan Stanley Says Amazon, Microsoft, and Google's AI Spending Will Pay Off Big",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T10:00:00+00:00",
-      "title": "Matternet Appoints Starbucks EVP Sanjay Shah to Board of Directors",
+      "timestamp": "2026-07-30T12:38:56+00:00",
+      "title": "E-Commerce Update - Retail Evolution Insights From 2027 Market Research Report",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T09:43:18+00:00",
-      "title": "The Fed Held, The Bond Market Called The Bluff, and Oil Did The Rest",
-      "source": "ChartMill",
+      "timestamp": "2026-07-30T12:30:00+00:00",
+      "title": "InterDigital Announces Financial Results for Second Quarter 2026",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T08:59:15+00:00",
-      "title": "Nasdaq, S&P 500 Futures Rise: Microsoft Lifts AI Mood, Meta Sinks, Investors Brace For Apple, Amazon And PCE – Why MU, IBRX, CAPR, SBUX Are In Focus",
+      "timestamp": "2026-07-30T12:18:00+00:00",
+      "title": "Alphabet Got Punished for Big AI Spending. Amazon Could Face the Same Fate.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

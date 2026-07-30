@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 585.61,
-    "change_pct": -1.3144368986029775
+    "price": 532.71,
+    "change_pct": -9.033315687915167
   },
   "risk": {
-    "score": 61,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 643.81
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 643.81
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 585.61
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 532.71
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-30T11:55:00+00:00",
-      "title": "The Big Cash Flow Problem That Is Sinking Meta Stock After Earnings",
+      "timestamp": "2026-07-30T13:57:23+00:00",
+      "title": "TSMC is moving in on Intel’s turf; Why Intel is up anyway",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:53:07+00:00",
-      "title": "Meta Is Spending Whatever It Takes to Win AI — And That’s What Worries Investors",
+      "timestamp": "2026-07-30T13:47:47+00:00",
+      "title": "Meta's capex guidance isn't cutting it for investors. Stock drops.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:48:44+00:00",
-      "title": "Stock Futures Rise as Investors Await Key Inflation Report Following Fed Hold",
+      "timestamp": "2026-07-30T13:45:42+00:00",
+      "title": "One line from Meta's earnings call that ensured the stock will likely stay dead money",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:36:35+00:00",
-      "title": "Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings",
+      "timestamp": "2026-07-30T13:43:53+00:00",
+      "title": "The Market Loves Microsoft’s AI Spending, Hates Meta’s. Here’s Why",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:23:07+00:00",
-      "title": "Meta Q2 2026 earnings miss: legal charges, AI costs hurt profit",
+      "timestamp": "2026-07-30T13:32:37+00:00",
+      "title": "Stocks Bounce Back From Fed Day Turmoil",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:15:00+00:00",
-      "title": "Nvidia Stock Is Rising as Capex Is No Longer King",
+      "timestamp": "2026-07-30T13:21:31+00:00",
+      "title": "Technology Stocks Set to Lift Wall Street at the Open After Sharp Sell-Off: Dow Jones, S&P, Nasdaq, Futures",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:13:00+00:00",
-      "title": "Microsoft, Meta, Lam Research, Shell, and More Stocks That Explain Today’s Market",
+      "timestamp": "2026-07-30T13:18:38+00:00",
+      "title": "Meta Issues Weak Revenue Guidance as Quarterly Earnings Unexpectedly Decline; Raises Capex Outlook",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T11:09:11+00:00",
-      "title": "Market Fear Index Drops Back Below Key Level as AI Fears Fade",
+      "timestamp": "2026-07-30T13:14:00+00:00",
+      "title": "Microsoft, Meta, Samsung, Micron, Nvidia, Apple, Amazon, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

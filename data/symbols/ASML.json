@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T12:28:30.216581+00:00",
+  "generated_at": "2026-07-30T14:52:29.477676+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1550.69,
-    "change_pct": -2.0379670867683775
+    "price": 1658.34,
+    "change_pct": 6.942070949061385
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T20:52:07.335212+00:00",
-      "close": 1801.51
-    },
     {
       "timestamp": "2026-07-21T21:57:40.582035+00:00",
       "close": 1801.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-30T12:28:30.216581+00:00",
       "close": 1550.69
+    },
+    {
+      "timestamp": "2026-07-30T14:52:29.477676+00:00",
+      "close": 1658.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T13:05:54+00:00",
+      "title": "ASML's EUV Machines Are Becoming More Valuable Than Ever. Here's Why.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T19:09:47+00:00",
       "title": "ASML Holding (ASML) Looks Fully Valued After A 12% Pullback",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T09:05:47+00:00",
       "title": "What Is Going on With Micron Stock on Wednesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T08:15:00+00:00",
-      "title": "Threat Out of China Creeps Up on ASML: Is the Dip in the Stock Worth Buying?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
