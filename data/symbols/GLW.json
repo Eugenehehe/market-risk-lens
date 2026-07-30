@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:10:11.284333+00:00",
+  "generated_at": "2026-07-30T08:50:04.970419+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 124.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T16:42:21.235263+00:00",
-      "close": 163.99
-    },
     {
       "timestamp": "2026-07-21T18:00:24.852311+00:00",
       "close": 162.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-30T06:10:11.284333+00:00",
       "close": 124.05
+    },
+    {
+      "timestamp": "2026-07-30T08:50:04.970419+00:00",
+      "close": 124.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T05:57:02+00:00",
+      "title": "Stocks making big moves yesterday: H&R Block, Corning, Sherwin-Williams, Brown & Brown, and Simpson",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-29T18:24:06+00:00",
       "title": "This Put Strategy Cashes In On Corning Stock Weakness",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-29T13:11:00+00:00",
       "title": "SanDisk Sinks 52% in July. The S&P 500’s Biggest Loser is Still Up 2,000%.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T12:27:23+00:00",
-      "title": "Oppenheimer Maintains Outperform on Corning, Lowers Price Target to $200",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
