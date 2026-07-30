@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T03:32:41.402612+00:00",
+  "generated_at": "2026-07-30T06:10:11.284333+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 338.19,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-21T15:10:52.987713+00:00",
-      "close": 326.61
-    },
     {
       "timestamp": "2026-07-21T16:42:21.235263+00:00",
       "close": 328.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-30T03:32:41.402612+00:00",
       "close": 338.19
+    },
+    {
+      "timestamp": "2026-07-30T06:10:11.284333+00:00",
+      "close": 338.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T04:20:00+00:00",
+      "title": "Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T01:47:00+00:00",
       "title": "Bank of America doubles down on Apple stock ahead of earnings",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-29T21:10:16+00:00",
       "title": "Klarna (NYSE:KLAR) Lands Apple Upgrade Role In New US Hardware Leasing Program",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T20:31:00+00:00",
-      "title": "Apple Stock Misses the $5 Trillion Mark, Snapping Three-Day Winning Streak",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
