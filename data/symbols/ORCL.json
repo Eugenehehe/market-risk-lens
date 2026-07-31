@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T17:08:51.052706+00:00",
+  "generated_at": "2026-07-31T18:44:48.403117+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 128.11,
-    "change_pct": 0.43116964565694804
+    "price": 128.7,
+    "change_pct": 0.8936970837252867
   },
   "risk": {
-    "score": 54,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T22:29:13.242898+00:00",
-      "close": 125.84
-    },
     {
       "timestamp": "2026-07-22T23:32:53.916457+00:00",
       "close": 125.84
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-31T17:08:51.052706+00:00",
       "close": 128.11
+    },
+    {
+      "timestamp": "2026-07-31T18:44:48.403117+00:00",
+      "close": 128.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T15:49:51+00:00",
+      "title": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T14:47:35+00:00",
+      "title": "The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T14:30:00+00:00",
       "title": "Where Apple is diverging from rest of Mag 7 earnings",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-31T12:54:34+00:00",
       "title": "Oracle’s Massive Backlog Gets “No Credit,” Says Star Analyst —Time to Get Bullish?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T12:53:00+00:00",
-      "title": "Is BLKB Stock Attractive After the Earnings Beat and Revenue Miss?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T12:00:21+00:00",
-      "title": "JHI: Fabricate A Fortress For Your Future Income",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

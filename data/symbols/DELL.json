@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T17:08:51.052706+00:00",
+  "generated_at": "2026-07-31T18:44:48.403117+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 406.04,
-    "change_pct": 0.3038462488574867
+    "price": 407,
+    "change_pct": 0.5409945406487093
   },
   "risk": {
-    "score": 53,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T22:29:13.242898+00:00",
-      "close": 441.8
-    },
     {
       "timestamp": "2026-07-22T23:32:53.916457+00:00",
       "close": 441.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T17:08:51.052706+00:00",
       "close": 406.04
+    },
+    {
+      "timestamp": "2026-07-31T18:44:48.403117+00:00",
+      "close": 407
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T16:42:00+00:00",
+      "title": "Dell Technologies Rides on Commercial PC Demand: What's Ahead?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T13:55:04+00:00",
       "title": "Wall Street Analysts Think Dell Technologies (DELL) Could Surge 25.21%: Read This Before Placing a Bet",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-30T10:22:59+00:00",
       "title": "Lam Research, Xerox, FormFactor, Microsoft And Other Big Stocks Moving Higher On Thursday",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T10:00:00+00:00",
-      "title": "Matternet Appoints Starbucks EVP Sanjay Shah to Board of Directors",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

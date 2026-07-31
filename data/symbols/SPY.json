@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T17:08:51.052706+00:00",
+  "generated_at": "2026-07-31T18:44:48.403117+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 744.59,
-    "change_pct": 0.3909989348649612
+    "price": 746.13,
+    "change_pct": 0.5986328520001472
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T22:29:13.242898+00:00",
-      "close": 747.41
-    },
     {
       "timestamp": "2026-07-22T23:32:53.916457+00:00",
       "close": 747.41
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-31T17:08:51.052706+00:00",
       "close": 744.59
+    },
+    {
+      "timestamp": "2026-07-31T18:44:48.403117+00:00",
+      "close": 746.13
     }
   ],
   "events": [
@@ -522,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-07-31T14:27:00+00:00",
+      "title": "Why Markets May Be Second-Guessing The U.S. Fed",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-07-31T14:03:15+00:00",
       "title": "Her Wisconsin Pension Rose 2.1%. The Other Part Jumped 18%. Only One Is Safe to Spend.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T13:20:00+00:00",
+      "title": "The Resilient Rally: Can Markets Continue To Climb Amid Uncertainty?",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-31T12:09:48+00:00",
       "title": "U.S. Treasury Secretary Scott Bessent, On Fox News, Says We Are Searching For Iranian Assets All Around The World; Money Will Go To Iranian People",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T12:05:00+00:00",
-      "title": "Why This Bubble Is Different (And Why It Could Get Bigger)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:40:00+00:00",
-      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
