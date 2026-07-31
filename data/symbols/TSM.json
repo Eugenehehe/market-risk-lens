@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T13:19:02.267463+00:00",
+  "generated_at": "2026-07-31T15:33:29.377548+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 403.31,
-    "change_pct": 7.644060106226802
+    "price": 405.41,
+    "change_pct": 0.5206912796608121
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T20:02:26.583569+00:00",
-      "close": 421.21
-    },
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 421.21
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 403.31
+    },
+    {
+      "timestamp": "2026-07-31T15:33:29.377548+00:00",
+      "close": 405.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T11:00:17+00:00",
+      "title": "Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Taiwan Semiconductor Stock",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:54:58+00:00",
+      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T03:10:00+00:00",
       "title": "S&P 500 To 10,000 - Why, When, And How Stocks Get There",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-30T09:07:14+00:00",
       "title": "'TSMC Develops AI Chip Packaging Tech to Counter Intel' - The Information",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T23:07:51+00:00",
-      "title": "Cathie Wood Keeps Buying the Dip on SpaceX, Adds $20 Million of TSMC as Chip Stocks Slide",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:36:40+00:00",
-      "title": "SK hynix: Damn The Torpedoes, Full Steam Ahead",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

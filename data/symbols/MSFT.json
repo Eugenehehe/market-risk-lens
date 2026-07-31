@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T13:19:02.267463+00:00",
+  "generated_at": "2026-07-31T15:33:29.377548+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 451.1,
-    "change_pct": 15.506734265376142
+    "price": 457.95,
+    "change_pct": 1.5185103081356566
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 63,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T20:02:26.583569+00:00",
-      "close": 390.34
-    },
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 390.34
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 451.1
+    },
+    {
+      "timestamp": "2026-07-31T15:33:29.377548+00:00",
+      "close": 457.95
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-31T11:46:29+00:00",
-      "title": "Stocks Rise Pre-Bell as Amazon Results Lift AI Trade Sentiment",
+      "timestamp": "2026-07-31T13:49:22+00:00",
+      "title": "Stock markets rally on tech rebound",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:40:10+00:00",
-      "title": "Amazon Shares Surge on Cloud-Driven Quarterly Beat; CapEx Outlook Raised",
+      "timestamp": "2026-07-31T13:43:33+00:00",
+      "title": "AI’s Biggest Winners Today Will Share the Spotlight as Technology Spreads Across the Entire Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:31:52+00:00",
-      "title": "Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",
+      "timestamp": "2026-07-31T13:33:33+00:00",
+      "title": "Memory Stocks Are Crashing—Analysts’ Lofty Targets Might Not Survive This Drop",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:30:15+00:00",
-      "title": "Rigetti’s Pullback Opens Door for Strategic Buyer: Which Tech Giant Will Make a Move?",
+      "timestamp": "2026-07-31T13:30:33+00:00",
+      "title": "Microsoft Posts Record Revenue as Cloud Services Cross $100 Billion. Here’s Our New Price Target",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:26:29+00:00",
-      "title": "Microsoft posts record one-day market cap gain after earnings",
+      "timestamp": "2026-07-31T13:21:28+00:00",
+      "title": "Forget QQQ: VGT’s Pure Tech Focus Has Delivered 40% More Over Five Years",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:09:12+00:00",
-      "title": "Tim Cook's final earnings call: Apple's on-device AI strategy",
+      "timestamp": "2026-07-31T13:10:23+00:00",
+      "title": "3 US Stocks To Watch In August 2026 After Big Earnings Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:06:54+00:00",
-      "title": "Market Fear Index Drops as AI Hope Buoys Markets to End a Volatile Month",
+      "timestamp": "2026-07-31T12:38:03+00:00",
+      "title": "This Week In Cloud AI - AI Spending Soars Worldwide As Industries Transform",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:01:00+00:00",
-      "title": "Stock Markets Look to Close July With a Bang But the August Lull Looms",
+      "timestamp": "2026-07-31T12:24:00+00:00",
+      "title": "Amazon Stock Surges. Investors Are Shrugging Off The Tech Giant's AI Capex Hike.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

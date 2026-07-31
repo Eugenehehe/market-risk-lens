@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T13:19:02.267463+00:00",
+  "generated_at": "2026-07-31T15:33:29.377548+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 504.53,
-    "change_pct": 8.501075268817203
+    "price": 506.68,
+    "change_pct": 0.4261391790379321
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T20:02:26.583569+00:00",
-      "close": 555.52
-    },
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 555.52
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 504.53
+    },
+    {
+      "timestamp": "2026-07-31T15:33:29.377548+00:00",
+      "close": 506.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T09:19:38+00:00",
+      "title": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T09:04:32+00:00",
+      "title": "South Korea's KOSPI Rallies 18%, Its Best Day Ever: SK Hynix Jumps 30%",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T08:58:21+00:00",
+      "title": "AMD Stock Is Gaining Friday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T06:26:48+00:00",
+      "title": "SKHY Stock Jumps 6% In Friday Premarket After Shares Surged 30% to Hit First-Ever Daily Limit In South Korea (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:53:11+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:10+00:00",
+      "title": "SOXX Falls Over 20% in the Last Month, but Chip ETF Trading Volume Quadruples Since January 2025",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T01:40:00+00:00",
       "title": "Can Semiconductor Makers Navigate Rising Water Risks?",
@@ -514,56 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-30T17:58:14+00:00",
-      "title": "QTUM: A Hold For The Semis Basket In A Quantum Costume",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T16:02:58+00:00",
-      "title": "Microsoft's AI Pivot Could Be Bigger Win for AI Infrastructure ETFs Than OpenAI Bets",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:52:09+00:00",
-      "title": "PSI Is Better Than SOXX For Dip Buying As The Chip Rally Broadens",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T11:13:00+00:00",
-      "title": "Markets Rebound After Fed-Induced Rout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T09:24:04+00:00",
-      "title": "Semiconductor ETF SOXX Eyes Worst Month Since 2001: 5 Shocking Charts To Watch",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T06:30:29+00:00",
-      "title": "Chip Stocks Are Crashing— but This Analyst Says AI Chip Demand Still Outpaces Supply Until At Least 2028: 'You Just Don't Have The..'",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T06:00:09+00:00",
-      "title": "Is Micron's Selloff A Buying Opportunity? Analysts Say Memory Fundamentals Remain Strong",
+      "timestamp": "2026-07-30T22:26:40+00:00",
+      "title": "SK Hynix Stock Soars 22%, Samsung Jumps 19% as Kospi Hits Trading Halt: Dow Futures Climb 151 Points",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

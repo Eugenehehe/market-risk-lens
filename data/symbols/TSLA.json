@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T13:19:02.267463+00:00",
+  "generated_at": "2026-07-31T15:33:29.377548+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 308.85,
-    "change_pct": 3.529766693483527
+    "price": 305.85,
+    "change_pct": -0.9713453132588645
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T20:02:26.583569+00:00",
-      "close": 374.01
-    },
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 374.01
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 308.85
+    },
+    {
+      "timestamp": "2026-07-31T15:33:29.377548+00:00",
+      "close": 305.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T13:45:23+00:00",
+      "title": "SpaceX stock has rocky week ahead of earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T12:30:11+00:00",
+      "title": "Tesla Stock in Focus -- Musk Dismisses Report on China Business Sale",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T11:56:04+00:00",
       "title": "Tesla weighs sale of China business ahead of SpaceX merger",
@@ -516,6 +532,14 @@
     {
       "timestamp": "2026-07-31T11:42:56+00:00",
       "title": "Tesla Snaps Losing Streak. Can It Start To Rebuild Momentum?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T11:39:00+00:00",
+      "title": "Elon Musk Is Trying to Cool Off Tesla-SpaceX Merger Speculation",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T10:08:22+00:00",
-      "title": "Tesla ‘considers quitting China’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:24:48+00:00",
-      "title": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T08:59:41+00:00",
-      "title": "Is Tesla Really Selling Gigafactory Shanghai? Elon Musk Says No",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T08:54:30+00:00",
-      "title": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
-      "source": "Yahoo",
+      "timestamp": "2026-07-31T10:35:22+00:00",
+      "title": "Enron Short Seller Jim Chanos Sees a '1999-Type Moment' in AI Boom, Includes SPCX, TSLA in His Shorts",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

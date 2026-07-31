@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T13:19:02.267463+00:00",
+  "generated_at": "2026-07-31T15:33:29.377548+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 538.9,
-    "change_pct": 6.877950101146313
+    "price": 539.43,
+    "change_pct": 0.09834848766003823
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T20:02:26.583569+00:00",
-      "close": 586.91
-    },
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 586.91
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 538.9
+    },
+    {
+      "timestamp": "2026-07-31T15:33:29.377548+00:00",
+      "close": 539.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T09:22:56+00:00",
+      "title": "Intel Stock Is Surging Friday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T07:07:06+00:00",
+      "title": "NVIDIA Stock Is Still Up, But $250 Billion AI Risk Has Spooked The Debt Market",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T04:06:10+00:00",
+      "title": "SOXX Falls Over 20% in the Last Month, but Chip ETF Trading Volume Quadruples Since January 2025",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T01:40:00+00:00",
       "title": "Can Semiconductor Makers Navigate Rising Water Risks?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-30T06:30:29+00:00",
       "title": "Chip Stocks Are Crashing— but This Analyst Says AI Chip Demand Still Outpaces Supply Until At Least 2028: 'You Just Don't Have The..'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T05:27:41+00:00",
-      "title": "China Can Build The Memory, It Can't Build The Base Die",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T17:10:16+00:00",
-      "title": "PSI: A Buy On The Equipment Side Of The Chip Sell-Off",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T14:01:28+00:00",
-      "title": "Tech-Heavy KOSPI Volatility Does Not Compute In U.S. (Video)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

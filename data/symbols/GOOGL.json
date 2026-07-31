@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-31T13:19:02.267463+00:00",
+  "generated_at": "2026-07-31T15:33:29.377548+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 333.66,
-    "change_pct": -0.9058240028511078
+    "price": 348.85,
+    "change_pct": 4.5525385122579864
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T20:02:26.583569+00:00",
-      "close": 342.09
-    },
     {
       "timestamp": "2026-07-22T21:23:24.984729+00:00",
       "close": 342.09
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 333.66
+    },
+    {
+      "timestamp": "2026-07-31T15:33:29.377548+00:00",
+      "close": 348.85
     }
   ],
   "events": [
     {
-      "timestamp": "2026-07-31T11:40:10+00:00",
-      "title": "Amazon Shares Surge on Cloud-Driven Quarterly Beat; CapEx Outlook Raised",
+      "timestamp": "2026-07-31T13:50:15+00:00",
+      "title": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Surges On Earnings (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:30:15+00:00",
-      "title": "Rigetti’s Pullback Opens Door for Strategic Buyer: Which Tech Giant Will Make a Move?",
+      "timestamp": "2026-07-31T13:42:07+00:00",
+      "title": "Google Cloud Has Become Alphabet’s (GOOG) Primary Valuation Driver",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:09:12+00:00",
-      "title": "Tim Cook's final earnings call: Apple's on-device AI strategy",
+      "timestamp": "2026-07-31T13:21:28+00:00",
+      "title": "Forget QQQ: VGT’s Pure Tech Focus Has Delivered 40% More Over Five Years",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:05:00+00:00",
-      "title": "Apple Just Passed Nvidia as the World's Largest Company. Here's Why That Won't Last.",
+      "timestamp": "2026-07-31T13:12:19+00:00",
+      "title": "Morgan Stanley leading $15B loan for Anthropic Texas data center",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:01:00+00:00",
-      "title": "Stock Markets Look to Close July With a Bang But the August Lull Looms",
+      "timestamp": "2026-07-31T13:10:54+00:00",
+      "title": "We Found 5 Hot Summer Bargain Dividend Stocks Trading Under $10 Everyone Knows",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T10:25:00+00:00",
-      "title": "Prediction: This AI Stock Will Double by 2031 -- Here's the Math",
+      "timestamp": "2026-07-31T12:38:03+00:00",
+      "title": "This Week In Cloud AI - AI Spending Soars Worldwide As Industries Transform",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T10:16:47+00:00",
-      "title": "What Could Push GOOGL Stock Higher From Here?",
+      "timestamp": "2026-07-31T12:33:35+00:00",
+      "title": "RDDT Stock Is In The Limelight Today After Massive Pre-Market Fall — GOOGL Friction Raises AI Licensing Risks, Says Wells Fargo",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T10:10:00+00:00",
-      "title": "Apple, Amazon, Roblox, Microsoft, Marvell, and More Stocks That Explain Today’s Market",
+      "timestamp": "2026-07-31T12:24:00+00:00",
+      "title": "Amazon Stock Surges. Investors Are Shrugging Off The Tech Giant's AI Capex Hike.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
