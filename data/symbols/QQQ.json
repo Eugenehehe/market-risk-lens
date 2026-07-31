@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:33:29.377548+00:00",
+  "generated_at": "2026-07-31T17:08:51.052706+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 681.96,
-    "change_pct": -0.23260917270132575
+    "price": 687.04,
+    "change_pct": 0.5105698193255792
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T21:23:24.984729+00:00",
-      "close": 705.35
-    },
     {
       "timestamp": "2026-07-22T22:29:13.242898+00:00",
       "close": 705.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-31T15:33:29.377548+00:00",
       "close": 681.96
+    },
+    {
+      "timestamp": "2026-07-31T17:08:51.052706+00:00",
+      "close": 687.04
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-07-31T13:13:01+00:00",
       "title": "Broad Rebound Eases the Damage, but Breadth Is Not Repaired",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T12:05:00+00:00",
+      "title": "Why This Bubble Is Different (And Why It Could Get Bigger)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T11:40:00+00:00",
+      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T11:21:16+00:00",
+      "title": "I Think The Summer Correction Has Ended",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-07-31T09:30:48+00:00",
       "title": "Why There's No Need To Be Afraid: The S&P 500 Will Come Back Stronger Than Before",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:30:22+00:00",
-      "title": "'A Slow-Moving Train Wreck- - The July Labor Market Report Preview",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:19:38+00:00",
-      "title": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T08:32:42+00:00",
-      "title": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Amid Cooler June PCE Inflation Data and Slower-Than-Expected Q2 GDP—Apple, Amazon, Coinbase in Focus (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

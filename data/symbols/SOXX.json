@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:33:29.377548+00:00",
+  "generated_at": "2026-07-31T17:08:51.052706+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 506.68,
-    "change_pct": 0.4261391790379321
+    "price": 509.93,
+    "change_pct": 1.0703030543278036
   },
   "risk": {
-    "score": 54,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T21:23:24.984729+00:00",
-      "close": 555.52
-    },
     {
       "timestamp": "2026-07-22T22:29:13.242898+00:00",
       "close": 555.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T15:33:29.377548+00:00",
       "close": 506.68
+    },
+    {
+      "timestamp": "2026-07-31T17:08:51.052706+00:00",
+      "close": 509.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T11:40:00+00:00",
+      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T09:19:38+00:00",
       "title": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-31T01:40:00+00:00",
       "title": "Can Semiconductor Makers Navigate Rising Water Risks?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T22:26:40+00:00",
-      "title": "SK Hynix Stock Soars 22%, Samsung Jumps 19% as Kospi Hits Trading Halt: Dow Futures Climb 151 Points",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T15:33:29.377548+00:00",
+  "generated_at": "2026-07-31T17:08:51.052706+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 825.82,
-    "change_pct": -5.583884023506269
+    "price": 835.32,
+    "change_pct": -4.497747696247679
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T21:23:24.984729+00:00",
-      "close": 959.48
-    },
     {
       "timestamp": "2026-07-22T22:29:13.242898+00:00",
       "close": 959.48
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T15:33:29.377548+00:00",
       "close": 825.82
+    },
+    {
+      "timestamp": "2026-07-31T17:08:51.052706+00:00",
+      "close": 835.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T13:50:01+00:00",
+      "title": "Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T13:33:33+00:00",
       "title": "Memory Stocks Are Crashing—Analysts’ Lofty Targets Might Not Survive This Drop",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T11:42:56+00:00",
       "title": "Tesla Snaps Losing Streak. Can It Start To Rebuild Momentum?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:04:10+00:00",
-      "title": "IDACORP Q2 Earnings Call Highlights",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

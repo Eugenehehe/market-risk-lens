@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:33:29.377548+00:00",
+  "generated_at": "2026-07-31T17:08:51.052706+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 401.95,
-    "change_pct": -0.706504285961318
+    "price": 406.04,
+    "change_pct": 0.3038462488574867
   },
   "risk": {
-    "score": 56,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T21:23:24.984729+00:00",
-      "close": 441.8
-    },
     {
       "timestamp": "2026-07-22T22:29:13.242898+00:00",
       "close": 441.8
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-31T15:33:29.377548+00:00",
       "close": 401.95
+    },
+    {
+      "timestamp": "2026-07-31T17:08:51.052706+00:00",
+      "close": 406.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T13:55:04+00:00",
+      "title": "Wall Street Analysts Think Dell Technologies (DELL) Could Surge 25.21%: Read This Before Placing a Bet",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T13:00:03+00:00",
+      "title": "Dell Technologies Inc. (DELL) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T09:34:48+00:00",
       "title": "Earn 8.4% On AAPL Stock By Selling Upside You Might Not Miss",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-07-30T10:00:00+00:00",
       "title": "Matternet Appoints Starbucks EVP Sanjay Shah to Board of Directors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:59:00+00:00",
-      "title": "Apple's Q3 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T15:10:38+00:00",
-      "title": "Dell Technologies (DELL) Joins Open Source AI Cybersecurity Alliance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

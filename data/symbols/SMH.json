@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:33:29.377548+00:00",
+  "generated_at": "2026-07-31T17:08:51.052706+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 539.43,
-    "change_pct": 0.09834848766003823
+    "price": 543.81,
+    "change_pct": 0.9111152347374141
   },
   "risk": {
-    "score": 51,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T21:23:24.984729+00:00",
-      "close": 586.91
-    },
     {
       "timestamp": "2026-07-22T22:29:13.242898+00:00",
       "close": 586.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T15:33:29.377548+00:00",
       "close": 539.43
+    },
+    {
+      "timestamp": "2026-07-31T17:08:51.052706+00:00",
+      "close": 543.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T11:40:00+00:00",
+      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T09:22:56+00:00",
       "title": "Intel Stock Is Surging Friday: What's Going On?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-30T08:00:51+00:00",
       "title": "The KOSPI Crash: The Prelude To The Nasdaq 100 Crash",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T06:30:29+00:00",
-      "title": "Chip Stocks Are Crashing— but This Analyst Says AI Chip Demand Still Outpaces Supply Until At Least 2028: 'You Just Don't Have The..'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

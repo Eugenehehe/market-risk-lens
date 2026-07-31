@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T15:33:29.377548+00:00",
+  "generated_at": "2026-07-31T17:08:51.052706+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 740.36,
-    "change_pct": -0.17932020116221414
+    "price": 744.59,
+    "change_pct": 0.3909989348649612
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T21:23:24.984729+00:00",
-      "close": 747.41
-    },
     {
       "timestamp": "2026-07-22T22:29:13.242898+00:00",
       "close": 747.41
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-31T15:33:29.377548+00:00",
       "close": 740.36
+    },
+    {
+      "timestamp": "2026-07-31T17:08:51.052706+00:00",
+      "close": 744.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T15:50:40+00:00",
+      "title": "AMD is Down 10% Over a Month: Did Microsoft’s Catalyst Just Spark the 155% Upside Expected By Wall Street Pro?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T15:00:00+00:00",
+      "title": "Fed Holds Rates Steady, May Hike Ahead: ETFs in Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T14:03:15+00:00",
       "title": "Her Wisconsin Pension Rose 2.1%. The Other Part Jumped 18%. Only One Is Safe to Spend.",
@@ -530,40 +546,24 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T11:14:22+00:00",
-      "title": "What I'm Watching In August: AI, Inflation, And Renewed Optimism",
+      "timestamp": "2026-07-31T12:09:48+00:00",
+      "title": "U.S. Treasury Secretary Scott Bessent, On Fox News, Says We Are Searching For Iranian Assets All Around The World; Money Will Go To Iranian People",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T12:05:00+00:00",
+      "title": "Why This Bubble Is Different (And Why It Could Get Bigger)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T10:54:53+00:00",
-      "title": "Citadel, Situational Awareness, And The Likely Pause Of Forced Selling",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T10:35:00+00:00",
-      "title": "One Month Of Falling Prices Won't Restore Price Stability",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:30:48+00:00",
-      "title": "Why There's No Need To Be Afraid: The S&P 500 Will Come Back Stronger Than Before",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:30:22+00:00",
-      "title": "'A Slow-Moving Train Wreck- - The July Labor Market Report Preview",
+      "timestamp": "2026-07-31T11:40:00+00:00",
+      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
