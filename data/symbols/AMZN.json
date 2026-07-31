@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T06:31:27.920293+00:00",
+  "generated_at": "2026-07-31T09:26:58.277196+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 235.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T16:05:21.576333+00:00",
-      "close": 243.78
-    },
     {
       "timestamp": "2026-07-22T17:38:34.812284+00:00",
       "close": 243.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T06:31:27.920293+00:00",
       "close": 235.5
+    },
+    {
+      "timestamp": "2026-07-31T09:26:58.277196+00:00",
+      "close": 235.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T05:30:00+00:00",
+      "title": "Airbnb Wants to Be the Amazon for Services. That Doesn’t Make the Stock a Buy.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T05:02:24+00:00",
       "title": "Amazon.com Inc (AMZN) (Q2 2026) Earnings Call Highlights: Record Revenue and AWS Acceleration ...",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T00:32:47+00:00",
       "title": "Andy Jassy said Amazon will spend $220 billion this year—and still won’t have enough capacity to meet demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T00:09:35+00:00",
-      "title": "MU, SNDK, WDC, SKHY Stock Jump After-Hours — Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
