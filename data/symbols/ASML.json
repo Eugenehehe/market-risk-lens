@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:56:56.577144+00:00",
+  "generated_at": "2026-07-31T03:29:21.539622+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1651.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T12:24:02.849601+00:00",
-      "close": 1801.51
-    },
     {
       "timestamp": "2026-07-22T14:33:16.767136+00:00",
       "close": 1797.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-30T23:56:56.577144+00:00",
       "close": 1651.44
+    },
+    {
+      "timestamp": "2026-07-31T03:29:21.539622+00:00",
+      "close": 1651.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-30T21:25:00+00:00",
+      "title": "ASML and 21 More Stocks to Consider Buying Out of the AI Wreckage",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-30T19:30:20+00:00",
       "title": "ASML Stock Rebounds 6.8% as China Threat Looks Less Immediate",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-29T15:03:53+00:00",
       "title": "Microsoft’s Earnings Could Decide the Fate of a $700 Billion AI Spending Boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:00:42+00:00",
-      "title": "Is the AI rally running out of steam?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
