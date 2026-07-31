@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T18:44:48.403117+00:00",
+  "generated_at": "2026-07-31T20:10:58.639530+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 688.76,
-    "change_pct": 0.762197352059113
+    "price": 687.99,
+    "change_pct": 0.6495501426377004
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T23:32:53.916457+00:00",
-      "close": 705.35
-    },
     {
       "timestamp": "2026-07-23T01:06:53.678409+00:00",
       "close": 705.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-31T18:44:48.403117+00:00",
       "close": 688.76
+    },
+    {
+      "timestamp": "2026-07-31T20:10:58.639530+00:00",
+      "close": 687.99
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-07-31T14:27:00+00:00",
       "title": "Why Markets May Be Second-Guessing The U.S. Fed",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T14:12:25+00:00",
+      "title": "Wonder Boy Blowup Sparks Massive Semiconductor Rally; Kospi Up 18%; Amazon Helps, Apple Disappoints",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T11:21:16+00:00",
       "title": "I Think The Summer Correction Has Ended",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:14:22+00:00",
-      "title": "What I'm Watching In August: AI, Inflation, And Renewed Optimism",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

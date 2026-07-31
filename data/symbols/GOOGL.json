@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T18:44:48.403117+00:00",
+  "generated_at": "2026-07-31T20:10:58.639530+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 355.52,
-    "change_pct": 6.551579452136891
+    "price": 356.13,
+    "change_pct": 6.734400287718034
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T23:32:53.916457+00:00",
-      "close": 342.09
-    },
     {
       "timestamp": "2026-07-23T01:06:53.678409+00:00",
       "close": 342.09
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-07-31T18:44:48.403117+00:00",
       "close": 355.52
+    },
+    {
+      "timestamp": "2026-07-31T20:10:58.639530+00:00",
+      "close": 356.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T19:10:04+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T19:05:01+00:00",
+      "title": "Stay informed with the top movers within the S&P500 index on Friday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T18:05:00+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-07-31T16:38:00+00:00",
       "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T16:37:55+00:00",
-      "title": "Today’s Dow Moves as Told by Magnificent 7 Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T16:35:01+00:00",
-      "title": "Friday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

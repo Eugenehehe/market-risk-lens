@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T18:44:48.403117+00:00",
+  "generated_at": "2026-07-31T20:10:58.639530+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 746.13,
-    "change_pct": 0.5986328520001472
+    "price": 747.03,
+    "change_pct": 0.719977349027201
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-22T23:32:53.916457+00:00",
-      "close": 747.41
-    },
     {
       "timestamp": "2026-07-23T01:06:53.678409+00:00",
       "close": 747.41
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-31T18:44:48.403117+00:00",
       "close": 746.13
+    },
+    {
+      "timestamp": "2026-07-31T20:10:58.639530+00:00",
+      "close": 747.03
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-31T14:27:00+00:00",
       "title": "Why Markets May Be Second-Guessing The U.S. Fed",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T14:12:25+00:00",
+      "title": "Wonder Boy Blowup Sparks Massive Semiconductor Rally; Kospi Up 18%; Amazon Helps, Apple Disappoints",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-31T13:06:36+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Amazon Earnings Offset Apple Weakness",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T12:09:48+00:00",
-      "title": "U.S. Treasury Secretary Scott Bessent, On Fox News, Says We Are Searching For Iranian Assets All Around The World; Money Will Go To Iranian People",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
