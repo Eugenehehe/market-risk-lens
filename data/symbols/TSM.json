@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T20:10:58.639530+00:00",
+  "generated_at": "2026-07-31T21:28:29.686924+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 404.25,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T01:06:53.678409+00:00",
-      "close": 421.21
-    },
     {
       "timestamp": "2026-07-23T04:30:39.800826+00:00",
       "close": 421.21
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T20:10:58.639530+00:00",
       "close": 404.25
+    },
+    {
+      "timestamp": "2026-07-31T21:28:29.686924+00:00",
+      "close": 404.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T16:30:36+00:00",
+      "title": "Ray Dalio Says US Is in Decline: 'Threats No Longer Work' in a World Where Order Breaks Down",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T11:00:17+00:00",
       "title": "Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Taiwan Semiconductor Stock",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-30T11:01:21+00:00",
       "title": "BorZen Tien's Recent Buy: Acquires $73K In Taiwan Semiconductor Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T09:07:14+00:00",
-      "title": "'TSMC Develops AI Chip Packaging Tech to Counter Intel' - The Information",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
