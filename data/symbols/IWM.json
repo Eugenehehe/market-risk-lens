@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:39:09.405096+00:00",
+  "generated_at": "2026-08-01T07:14:55.573335+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 291.2,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T13:08:25.586533+00:00",
-      "close": 293.79
-    },
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 290.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-01T04:39:09.405096+00:00",
       "close": 291.2
+    },
+    {
+      "timestamp": "2026-08-01T07:14:55.573335+00:00",
+      "close": 291.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T01:40:00+00:00",
+      "title": "A Swing And A Miss",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T21:05:00+00:00",
       "title": "Q2 GDP Advance Estimate: Real GDP At 1.5%, Lower Than Expected",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T12:05:00+00:00",
       "title": "Why This Bubble Is Different (And Why It Could Get Bigger)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:40:00+00:00",
-      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

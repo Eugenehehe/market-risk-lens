@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T04:39:09.405096+00:00",
+  "generated_at": "2026-08-01T07:14:55.573335+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 556.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T13:08:25.586533+00:00",
-      "close": 627.17
-    },
     {
       "timestamp": "2026-07-23T15:23:47.039417+00:00",
       "close": 601.22
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T04:39:09.405096+00:00",
       "close": 556.71
+    },
+    {
+      "timestamp": "2026-08-01T07:14:55.573335+00:00",
+      "close": 556.71
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-01T02:58:35+00:00",
       "title": "Jim Cramer Can’t Help But Gloat At Apple Inc (NASDAQ:AAPL)’s AI Developments",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T01:47:10+00:00",
+      "title": "Meta: Now Is The Time To Double Down",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -554,16 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-07-31T19:28:00+00:00",
-      "title": "5 Lessons From an Exhausting Week in Tech. And 2 Big Winners.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T19:13:37+00:00",
-      "title": "Wall Street To Big Tech: Show Us The Money In Pricey AI Race",
+      "timestamp": "2026-07-31T19:37:58+00:00",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
