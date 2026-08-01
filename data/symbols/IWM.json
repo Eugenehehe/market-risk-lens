@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:58:03.702930+00:00",
+  "generated_at": "2026-08-01T12:06:55.749402+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 291.2,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T18:15:54.396360+00:00",
-      "close": 290.94
-    },
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 291.37
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-01T10:58:03.702930+00:00",
       "close": 291.2
+    },
+    {
+      "timestamp": "2026-08-01T12:06:55.749402+00:00",
+      "close": 291.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T07:01:27+00:00",
+      "title": "AI Stocks Without The AI Price Tag",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-01T03:35:00+00:00",
       "title": "The Federal Reserve: A Question Of Credibility",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-31T13:42:45+00:00",
       "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T13:20:00+00:00",
-      "title": "The Resilient Rally: Can Markets Continue To Climb Amid Uncertainty?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

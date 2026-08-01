@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:58:03.702930+00:00",
+  "generated_at": "2026-08-01T12:06:55.749402+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 464.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T18:15:54.396360+00:00",
-      "close": 381.32
-    },
     {
       "timestamp": "2026-07-23T19:50:09.543663+00:00",
       "close": 379.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T10:58:03.702930+00:00",
       "close": 464.72
+    },
+    {
+      "timestamp": "2026-08-01T12:06:55.749402+00:00",
+      "close": 464.72
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-01T07:15:00+00:00",
       "title": "Amazon vs. Microsoft vs. Alphabet: Which Is the Best Cloud Stock to Buy Now?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T06:52:33+00:00",
+      "title": "Microsoft: Wall Street Was Too Focused On CapEx, Not Enough On Growth",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T00:03:01+00:00",
       "title": "Grid Dynamics Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T23:24:00+00:00",
-      "title": "Beyond the Mag 7: Rising Q3 Estimates Signal a Market-Wide Earnings Expansion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
