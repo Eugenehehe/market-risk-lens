@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:52:27.255402+00:00",
+  "generated_at": "2026-08-01T16:52:58.825491+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 476.15,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T22:42:49.482948+00:00",
-      "close": 539.69
-    },
     {
       "timestamp": "2026-07-23T23:42:30.596371+00:00",
       "close": 539.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T15:52:27.255402+00:00",
       "close": 476.15
+    },
+    {
+      "timestamp": "2026-08-01T16:52:58.825491+00:00",
+      "close": 476.15
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-01T08:18:08+00:00",
       "title": "Celestica: It's Finally Too Cheap To Ignore (Rating Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T08:00:35+00:00",
+      "title": "Benzinga Bulls And Bears: Amazon, Microsoft, SpaceX",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T20:45:14+00:00",
       "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T20:23:31+00:00",
-      "title": "Here’s How Much Traders See AMD Stock Moving After Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
