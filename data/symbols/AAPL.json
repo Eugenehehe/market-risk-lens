@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:14:55.573335+00:00",
+  "generated_at": "2026-08-01T09:25:31.393565+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 308.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T15:23:47.039417+00:00",
-      "close": 321.7
-    },
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 320.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-01T07:14:55.573335+00:00",
       "close": 308.91
+    },
+    {
+      "timestamp": "2026-08-01T09:25:31.393565+00:00",
+      "close": 308.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T06:59:57+00:00",
+      "title": "AAPL Q2 Deep Dive: Supply Chain Strains and Product Demand Set Stage for Deceleration",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-01T03:01:47+00:00",
       "title": "South Korea exports beat forecasts in July on AI chip demand",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T21:33:00+00:00",
       "title": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T21:30:00+00:00",
-      "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

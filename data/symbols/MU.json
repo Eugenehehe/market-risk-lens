@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:14:55.573335+00:00",
+  "generated_at": "2026-08-01T09:25:31.393565+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 823.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T15:23:47.039417+00:00",
-      "close": 984.44
-    },
     {
       "timestamp": "2026-07-23T16:56:28.742376+00:00",
       "close": 992.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-01T07:14:55.573335+00:00",
       "close": 823.03
+    },
+    {
+      "timestamp": "2026-08-01T09:25:31.393565+00:00",
+      "close": 823.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T07:10:29+00:00",
+      "title": "Micron (MU) Faces An AI Memory Squeeze As Samsung Sees Shortages Lasting Longer",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T19:55:01+00:00",
       "title": "Micron's Rebound Still Faces Resistance",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-31T18:05:00+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T17:44:26+00:00",
-      "title": "Leopold Aschenbrenner's AI hedge fund collapses after margin calls",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
