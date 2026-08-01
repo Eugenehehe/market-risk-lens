@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:51:32.848334+00:00",
+  "generated_at": "2026-08-01T15:52:27.255402+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 308.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T21:50:00.633494+00:00",
-      "close": 321.66
-    },
     {
       "timestamp": "2026-07-23T22:42:49.482948+00:00",
       "close": 321.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T14:51:32.848334+00:00",
       "close": 308.91
+    },
+    {
+      "timestamp": "2026-08-01T15:52:27.255402+00:00",
+      "close": 308.91
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-01T12:50:55+00:00",
       "title": "Apple’s Safe Haven Illusion Faces an Impending Hangover",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T11:30:58+00:00",
+      "title": "Apple: Heads You Win, Tails You Don't Lose",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T02:44:53+00:00",
       "title": "Why Apple Stock Dropped on Friday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T02:38:02+00:00",
-      "title": "Jim Cramer Makes Big Prediction About T-Mobile US Inc. (NASDAQ:TMUS) Which Involves Apple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

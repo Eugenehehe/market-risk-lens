@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:51:32.848334+00:00",
+  "generated_at": "2026-08-01T15:52:27.255402+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 747.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T21:50:00.633494+00:00",
-      "close": 738.18
-    },
     {
       "timestamp": "2026-07-23T22:42:49.482948+00:00",
       "close": 738.18
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T14:51:32.848334+00:00",
       "close": 747.03
+    },
+    {
+      "timestamp": "2026-08-01T15:52:27.255402+00:00",
+      "close": 747.03
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-01T12:50:55+00:00",
       "title": "Apple’s Safe Haven Illusion Faces an Impending Hangover",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T11:23:59+00:00",
+      "title": "The 1-Minute Market Report, August 1, 2026",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-01T03:25:00+00:00",
       "title": "The Bond Vigilantes Come For Kevin",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T02:35:43+00:00",
-      "title": "The 12% Yield Trap: How SPYI Returns Your Own Capital as ‘Income’",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
