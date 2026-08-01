@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:06:55.749402+00:00",
+  "generated_at": "2026-08-01T13:51:26.966697+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 464.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T19:50:09.543663+00:00",
-      "close": 379.69
-    },
     {
       "timestamp": "2026-07-23T20:47:24.658693+00:00",
       "close": 381.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T12:06:55.749402+00:00",
       "close": 464.72
+    },
+    {
+      "timestamp": "2026-08-01T13:51:26.966697+00:00",
+      "close": 464.72
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-01T09:24:00+00:00",
       "title": "'Tech Titan' Arora spearheads $1bn shot at NBA's London basketball team",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T09:00:00+00:00",
+      "title": "Microsoft Just Changed The AI Narrative",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T02:03:41+00:00",
       "title": "Southern Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T00:03:01+00:00",
-      "title": "Grid Dynamics Q2 Earnings Call Highlights",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

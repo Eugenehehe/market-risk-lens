@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:06:55.749402+00:00",
+  "generated_at": "2026-08-01T13:51:26.966697+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 271.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T19:50:09.543663+00:00",
-      "close": 233.05
-    },
     {
       "timestamp": "2026-07-23T20:47:24.658693+00:00",
       "close": 233.66
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-01T12:06:55.749402+00:00",
       "close": 271.58
+    },
+    {
+      "timestamp": "2026-08-01T13:51:26.966697+00:00",
+      "close": 271.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T09:00:00+00:00",
+      "title": "Amazon’s Andy Jassy sees a $1 trillion cloud built on businesses like the PGA Tour—which swapped its server trucks for AI broadcasts",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-01T07:15:00+00:00",
       "title": "Amazon vs. Microsoft vs. Alphabet: Which Is the Best Cloud Stock to Buy Now?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T00:14:05+00:00",
       "title": "Amazon (AMZN) Wins First US Approval For Commercial Driverless Robotaxis",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T00:11:57+00:00",
-      "title": "AMZN Q2 Deep Dive: AI-Driven AWS Growth and Cost Leverage Shape Outlook",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
