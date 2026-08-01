@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:12:29.210305+00:00",
+  "generated_at": "2026-08-01T23:13:00.446889+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 271.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T11:23:24.678580+00:00",
-      "close": 233.66
-    },
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 233.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T22:12:29.210305+00:00",
       "close": 271.58
+    },
+    {
+      "timestamp": "2026-08-01T23:13:00.446889+00:00",
+      "close": 271.58
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-01T20:17:00+00:00",
       "title": "Amazon Just Left Investors Speechless",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:14:44+00:00",
+      "title": "S&P 500 Earnings Growth Hits 47.4%, Best Since 2021",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:00:18+00:00",
+      "title": "Warren Buffett Says You Don't Need 20 Right Calls To Get Rich — '4 Or 5 Will Probably Do It'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-01T12:00:00+00:00",
       "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T11:30:00+00:00",
-      "title": "SpaceX's First Earnings Post IPO",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T10:04:47+00:00",
-      "title": "The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

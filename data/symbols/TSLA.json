@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:12:29.210305+00:00",
+  "generated_at": "2026-08-01T23:13:00.446889+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 311.21,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T11:23:24.678580+00:00",
-      "close": 319.69
-    },
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 319.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-01T22:12:29.210305+00:00",
       "close": 311.21
+    },
+    {
+      "timestamp": "2026-08-01T23:13:00.446889+00:00",
+      "close": 311.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T15:36:19+00:00",
+      "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-01T14:20:00+00:00",
       "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-01T09:15:00+00:00",
       "title": "Two 25%+ Covered Call ETFs Where The Risk Has Quietly Changed",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T08:30:21+00:00",
-      "title": "Elon Musk Plans $100 Million Republican Midterm Push, Despite Earlier Political Fallout for Tesla",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

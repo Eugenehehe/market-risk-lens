@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:12:29.210305+00:00",
+  "generated_at": "2026-08-01T23:13:00.446889+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 823.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T11:23:24.678580+00:00",
-      "close": 990.21
-    },
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 990.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T22:12:29.210305+00:00",
       "close": 823.03
+    },
+    {
+      "timestamp": "2026-08-01T23:13:00.446889+00:00",
+      "close": 823.03
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-01T15:14:44+00:00",
+      "title": "S&P 500 Earnings Growth Hits 47.4%, Best Since 2021",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-01T15:00:13+00:00",
       "title": "Why the Best May Be Yet to Come for NVIDIA, Micron, and SanDisk",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-01T12:43:00+00:00",
       "title": "Both Berkshire Hathaway and Micron Stocks Look Cheap on the Surface. But I Like 1 Better Than the Other.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T09:28:39+00:00",
-      "title": "Micron: Contracted Scarcity Can Outlast The Memory Boom",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

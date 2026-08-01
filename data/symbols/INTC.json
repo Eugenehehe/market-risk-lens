@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:12:29.210305+00:00",
+  "generated_at": "2026-08-01T23:13:00.446889+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 90.2,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T11:23:24.678580+00:00",
-      "close": 100.23
-    },
     {
       "timestamp": "2026-07-24T12:55:05.993155+00:00",
       "close": 100.23
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T22:12:29.210305+00:00",
       "close": 90.2
+    },
+    {
+      "timestamp": "2026-08-01T23:13:00.446889+00:00",
+      "close": 90.2
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-01T15:55:57+00:00",
       "title": "The 5 Most Interesting Analyst Questions From Intel’s Q2 Earnings Call",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:36:19+00:00",
+      "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T19:55:48+00:00",
       "title": "Inside the Trump administration's equity stakes in 30 companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T19:22:25+00:00",
-      "title": "Apple Stock Plunges 9.6% as Analyst Cuts Target, Proposes Intel",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
