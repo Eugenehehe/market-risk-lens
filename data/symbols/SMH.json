@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:14:25.841508+00:00",
+  "generated_at": "2026-08-01T20:15:34.035849+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 540.53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T04:34:28.421502+00:00",
-      "close": 580.17
-    },
     {
       "timestamp": "2026-07-24T07:14:43.993135+00:00",
       "close": 580.17
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T19:14:25.841508+00:00",
       "close": 540.53
+    },
+    {
+      "timestamp": "2026-08-01T20:15:34.035849+00:00",
+      "close": 540.53
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-31T11:40:00+00:00",
       "title": "Tech Stocks Mixed As Tech Investors Take Profits",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T11:00:41+00:00",
+      "title": "If You Invested $1000 In VanEck Semiconductor ETF Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-31T01:40:00+00:00",
       "title": "Can Semiconductor Makers Navigate Rising Water Risks?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T16:02:58+00:00",
-      "title": "Microsoft's AI Pivot Could Be Bigger Win for AI Infrastructure ETFs Than OpenAI Bets",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:14:25.841508+00:00",
+  "generated_at": "2026-08-01T20:15:34.035849+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 389.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T04:34:28.421502+00:00",
-      "close": 392.47
-    },
     {
       "timestamp": "2026-07-24T07:14:43.993135+00:00",
       "close": 392.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T19:14:25.841508+00:00",
       "close": 389.28
+    },
+    {
+      "timestamp": "2026-08-01T20:15:34.035849+00:00",
+      "close": 389.28
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-31T17:09:29+00:00",
       "title": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T17:00:28+00:00",
+      "title": "If You Invested $1000 In Broadcom Stock 5 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T15:21:00+00:00",
       "title": "Should You Buy AMD Stock Ahead of Q2 Earnings? Here's What to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T14:58:25+00:00",
-      "title": "Broadcom No Longer Sells Itself As A Chip Cycle Story",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
