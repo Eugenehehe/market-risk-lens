@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:12:05.233002+00:00",
+  "generated_at": "2026-08-01T22:12:29.210305+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 308.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T09:37:56.396969+00:00",
-      "close": 321.66
-    },
     {
       "timestamp": "2026-07-24T11:23:24.678580+00:00",
       "close": 321.66
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-01T21:12:05.233002+00:00",
       "close": 308.91
+    },
+    {
+      "timestamp": "2026-08-01T22:12:29.210305+00:00",
+      "close": 308.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-01T20:07:00+00:00",
+      "title": "Apple CEO sends strong warning on AI and price of Apple products",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T19:30:27+00:00",
+      "title": "Apple's Services Slowdown Has a Weird Culprit: No F1 Movie This Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-01T18:47:27+00:00",
       "title": "Should you still buy your next smartphone — or subscribe to it instead?",
@@ -516,6 +532,14 @@
     {
       "timestamp": "2026-08-01T17:05:00+00:00",
       "title": "Apple Gets Kicked Out of the $5 Trillion Club After Reporting Earnings. Are Fears Over Surging Memory Costs Overblown?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T15:00:02+00:00",
+      "title": "Why Investors Shouldn’t Sweat the Dip in Qualcomm’s Handset Revenue, According to Experts",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-01T11:30:58+00:00",
       "title": "Apple: Heads You Win, Tails You Don't Lose",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T10:41:54+00:00",
-      "title": " Berkshire Hathaway shares hit eight-month high",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T10:04:47+00:00",
-      "title": "The Mag 7 Doesn't Exist Anymore: Pick The Winners, Sell The Losers",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T09:45:00+00:00",
-      "title": "Nvidia Isn't the Most Valuable Company in the World Anymore. Is More Bad News Coming?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
