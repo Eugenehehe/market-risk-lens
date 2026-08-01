@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:38:19.101355+00:00",
+  "generated_at": "2026-08-01T01:13:20.385250+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 311.21,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T09:37:26.299049+00:00",
-      "close": 374.01
-    },
     {
       "timestamp": "2026-07-23T11:31:10.368037+00:00",
       "close": 374.01
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T23:38:19.101355+00:00",
       "close": 311.21
+    },
+    {
+      "timestamp": "2026-08-01T01:13:20.385250+00:00",
+      "close": 311.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T22:09:21+00:00",
+      "title": "Market Chatter: Musk's Fortune Falls Below Pre-SpaceX IPO Levels, Bloomberg Reports",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T21:34:57+00:00",
       "title": "Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock",
@@ -557,14 +565,6 @@
       "timestamp": "2026-07-31T19:31:00+00:00",
       "title": "SpaceX Stock Has Plunged: Buy it Now?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T18:05:00+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

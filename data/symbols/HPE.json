@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-31T23:38:19.101355+00:00",
+  "generated_at": "2026-08-01T01:13:20.385250+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 47.9,
     "change_pct": 1.6122189223589212
   },
   "risk": {
-    "score": 63,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T09:37:26.299049+00:00",
-      "close": 48.13
-    },
     {
       "timestamp": "2026-07-23T11:31:10.368037+00:00",
       "close": 48.13
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-31T23:38:19.101355+00:00",
       "close": 47.9
+    },
+    {
+      "timestamp": "2026-08-01T01:13:20.385250+00:00",
+      "close": 47.9
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-07-30T08:15:22+00:00",
       "title": "Jim Cramer: Eli Lilly Is A 'Good Company,' But Doesn't 'Really Care For' This Quantum Stock",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T14:12:00+00:00",
-      "title": "Arista Stock Before Q2 Earnings: Is it a Smart Buy or Risky Move?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-29T13:43:54+00:00",
-      "title": "The Volatility Warning Embedded in Cisco Stock",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

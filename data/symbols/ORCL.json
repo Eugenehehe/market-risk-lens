@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:38:19.101355+00:00",
+  "generated_at": "2026-08-01T01:13:20.385250+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 129.87,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T09:37:26.299049+00:00",
-      "close": 125.84
-    },
     {
       "timestamp": "2026-07-23T11:31:10.368037+00:00",
       "close": 125.84
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-07-31T23:38:19.101355+00:00",
       "close": 129.87
+    },
+    {
+      "timestamp": "2026-08-01T01:13:20.385250+00:00",
+      "close": 129.87
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-07-31T15:49:51+00:00",
       "title": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-07-31T15:44:45+00:00",
+      "title": "Larry Ellison Was Once the World’s Richest Person — Now Elon Musk Is Four Times Wealthier",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T14:07:37+00:00",
       "title": "Why IBM Stock May Be A Value Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T13:45:05+00:00",
-      "title": "What the Options Market Is Signaling About the Size of the Next Move in Salesforce Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

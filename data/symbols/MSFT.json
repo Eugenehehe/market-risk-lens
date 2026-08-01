@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:38:19.101355+00:00",
+  "generated_at": "2026-08-01T01:13:20.385250+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 464.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-23T09:37:26.299049+00:00",
-      "close": 390.34
-    },
     {
       "timestamp": "2026-07-23T11:31:10.368037+00:00",
       "close": 390.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-07-31T23:38:19.101355+00:00",
       "close": 464.72
+    },
+    {
+      "timestamp": "2026-08-01T01:13:20.385250+00:00",
+      "close": 464.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-07-31T22:41:41+00:00",
+      "title": "Wall Street ends higher as Amazon soothes AI jitters",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T20:45:14+00:00",
       "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-07-31T19:37:36+00:00",
       "title": "Micron Stock Drops 4.2% Despite Amazon's $220 Billion AI Bet",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T19:28:00+00:00",
-      "title": "5 Lessons From an Exhausting Week in Tech. And 2 Big Winners.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
