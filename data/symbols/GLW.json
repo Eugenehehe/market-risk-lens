@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T19:54:04.082251+00:00",
+  "generated_at": "2026-08-02T20:52:22.170981+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 138.25,
     "change_pct": 2.2407927821328277
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T11:30:32.387499+00:00",
-      "close": 146.65
-    },
     {
       "timestamp": "2026-07-25T12:35:01.216403+00:00",
       "close": 146.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-02T19:54:04.082251+00:00",
       "close": 138.25
+    },
+    {
+      "timestamp": "2026-08-02T20:52:22.170981+00:00",
+      "close": 138.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-02T13:30:02+00:00",
+      "title": "After a More Than 20% Sell-Off on Earnings, Corning Stock Is Still a ‘Buy’ for the AI Infrastructure Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T20:09:16+00:00",
       "title": "Corning (GLW) Stock May Be 34% Undervalued Following Soft Q3 Guidance",
