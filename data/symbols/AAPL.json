@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T10:45:46.852095+00:00",
+  "generated_at": "2026-08-02T11:47:12.426878+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 308.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T20:50:38.868912+00:00",
-      "close": 333.02
-    },
     {
       "timestamp": "2026-07-24T21:53:25.366744+00:00",
       "close": 333.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-02T10:45:46.852095+00:00",
       "close": 308.91
+    },
+    {
+      "timestamp": "2026-08-02T11:47:12.426878+00:00",
+      "close": 308.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-02T07:24:54+00:00",
+      "title": "Apple: Unjustified AI Premium",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-02T01:03:00+00:00",
       "title": "Apple’s record iPhone boom just became a Wall Street trap",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T17:05:00+00:00",
       "title": "Apple Gets Kicked Out of the $5 Trillion Club After Reporting Earnings. Are Fears Over Surging Memory Costs Overblown?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T15:00:02+00:00",
-      "title": "Why Investors Shouldn’t Sweat the Dip in Qualcomm’s Handset Revenue, According to Experts",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

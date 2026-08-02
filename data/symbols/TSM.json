@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T10:45:46.852095+00:00",
+  "generated_at": "2026-08-02T11:47:12.426878+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 404.25,
     "change_pct": 0.23307133470531483
   },
   "risk": {
-    "score": 44,
+    "score": 46,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T20:50:38.868912+00:00",
-      "close": 403.41
-    },
     {
       "timestamp": "2026-07-24T21:53:25.366744+00:00",
       "close": 403.41
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-02T10:45:46.852095+00:00",
       "close": 404.25
+    },
+    {
+      "timestamp": "2026-08-02T11:47:12.426878+00:00",
+      "close": 404.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-02T07:19:04+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-07-31T16:30:36+00:00",
       "title": "Ray Dalio Says US Is in Decline: 'Threats No Longer Work' in a World Where Order Breaks Down",
