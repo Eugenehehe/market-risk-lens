@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T15:31:50.617116+00:00",
+  "generated_at": "2026-08-02T16:31:19.463644+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 47.9,
     "change_pct": 1.6122189223589212
   },
   "risk": {
-    "score": 53,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T03:37:15.977476+00:00",
-      "close": 47.69
-    },
     {
       "timestamp": "2026-07-25T06:05:14.673125+00:00",
       "close": 47.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-02T15:31:50.617116+00:00",
       "close": 47.9
+    },
+    {
+      "timestamp": "2026-08-02T16:31:19.463644+00:00",
+      "close": 47.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-02T14:30:22+00:00",
+      "title": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-01T15:37:40+00:00",
       "title": "The Calm Surface Of Arista Networks Stock Hides A Turbulent Forecast",
