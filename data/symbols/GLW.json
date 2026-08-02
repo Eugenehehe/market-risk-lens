@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-01T23:13:00.446889+00:00",
+  "generated_at": "2026-08-02T00:14:04.149994+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 138.25,
     "change_pct": 2.2407927821328277
   },
   "risk": {
-    "score": 68,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T12:55:05.993155+00:00",
-      "close": 156.06
-    },
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 148.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T23:13:00.446889+00:00",
       "close": 138.25
+    },
+    {
+      "timestamp": "2026-08-02T00:14:04.149994+00:00",
+      "close": 138.25
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-07-31T14:35:01+00:00",
       "title": "These S&P500 stocks are gapping in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T21:05:01+00:00",
-      "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T17:50:00+00:00",
-      "title": "Meet the Super Semiconductor Stock Crushing Nvidia With a 12-Month Return of 129%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

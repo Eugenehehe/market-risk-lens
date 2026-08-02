@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-01T23:13:00.446889+00:00",
+  "generated_at": "2026-08-02T00:14:04.149994+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 405.37,
     "change_pct": 0.13833650354486693
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T12:55:05.993155+00:00",
-      "close": 439.34
-    },
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 438.54
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T23:13:00.446889+00:00",
       "close": 405.37
+    },
+    {
+      "timestamp": "2026-08-02T00:14:04.149994+00:00",
+      "close": 405.37
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-07-31T09:34:48+00:00",
       "title": "Earn 8.4% On AAPL Stock By Selling Upside You Might Not Miss",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T22:00:02+00:00",
-      "title": "Apple (AAPL) Q3 Earnings and Revenues Beat Estimates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T19:18:21+00:00",
-      "title": "The S&P 500's Biggest 2026 Winner Is Skyrocketing. Three Reasons To Stay Away.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T13:45:01+00:00",
-      "title": "Wedbush Sees AMD’s Data Center Business Growing Ahead of Expectations. What That Means for Investors Here.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

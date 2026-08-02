@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-01T23:13:00.446889+00:00",
+  "generated_at": "2026-08-02T00:14:04.149994+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 404.25,
     "change_pct": 0.23307133470531483
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T12:55:05.993155+00:00",
-      "close": 415.58
-    },
     {
       "timestamp": "2026-07-24T14:54:47.128870+00:00",
       "close": 404.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-01T23:13:00.446889+00:00",
       "close": 404.25
+    },
+    {
+      "timestamp": "2026-08-02T00:14:04.149994+00:00",
+      "close": 404.25
     }
   ],
   "events": [
@@ -533,38 +533,6 @@
       "timestamp": "2026-07-31T03:10:00+00:00",
       "title": "S&P 500 To 10,000 - Why, When, And How Stocks Get There",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T17:40:42+00:00",
-      "title": "Intel: AI Bubble Hysteria Is Not For Bulls",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T17:21:17+00:00",
-      "title": "QUICK SPARK: Cathie Wood's Birthday Present to Ethereum? A Bitmine Trim",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T16:02:58+00:00",
-      "title": "Microsoft's AI Pivot Could Be Bigger Win for AI Infrastructure ETFs Than OpenAI Bets",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-30T11:01:21+00:00",
-      "title": "BorZen Tien's Recent Buy: Acquires $73K In Taiwan Semiconductor Stock",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
