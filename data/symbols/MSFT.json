@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T00:14:04.149994+00:00",
+  "generated_at": "2026-08-02T03:57:01.952809+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 464.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-24T14:54:47.128870+00:00",
-      "close": 383.51
-    },
     {
       "timestamp": "2026-07-24T16:40:59.144492+00:00",
       "close": 384.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-02T00:14:04.149994+00:00",
       "close": 464.72
+    },
+    {
+      "timestamp": "2026-08-02T03:57:01.952809+00:00",
+      "close": 464.72
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-01T18:08:49+00:00",
       "title": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T17:13:52+00:00",
+      "title": "DRAM Jumps After Situational Awareness Rescue as Analysts Caution Memory Stocks May Fall Further",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T14:05:00+00:00",
       "title": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T13:51:20+00:00",
-      "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
