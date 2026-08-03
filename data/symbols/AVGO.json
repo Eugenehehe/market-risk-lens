@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-02T23:43:05.276778+00:00",
+  "generated_at": "2026-08-03T01:16:52.200905+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 389.28,
     "change_pct": 0.3712871287128605
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 45,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T16:28:27.130860+00:00",
-      "close": 381.92
-    },
     {
       "timestamp": "2026-07-25T17:33:32.339460+00:00",
       "close": 381.92
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 389.28
+    },
+    {
+      "timestamp": "2026-08-03T01:16:52.200905+00:00",
+      "close": 389.28
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-08-01T11:00:00+00:00",
       "title": "MarketBeat Week in Review – 07/27- 07/31",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T18:17:26+00:00",
-      "title": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T17:09:29+00:00",
-      "title": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T17:00:28+00:00",
-      "title": "If You Invested $1000 In Broadcom Stock 5 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T16:10:11+00:00",
-      "title": "Best Long-Term Investment Stocks to Buy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

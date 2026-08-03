@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T23:43:05.276778+00:00",
+  "generated_at": "2026-08-03T01:16:52.200905+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 187.56,
     "change_pct": 2.3240589198036066
   },
   "risk": {
-    "score": 69,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T16:28:27.130860+00:00",
-      "close": 194.23
-    },
     {
       "timestamp": "2026-07-25T17:33:32.339460+00:00",
       "close": 194.23
@@ -502,74 +498,13 @@
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 187.56
+    },
+    {
+      "timestamp": "2026-08-03T01:16:52.200905+00:00",
+      "close": 187.56
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-07-31T21:45:03+00:00",
-      "title": "Marvell Technology (MRVL) Exceeds Market Returns: Some Facts to Consider",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T17:39:00+00:00",
-      "title": "Should You Buy, Sell, or Hold ALAB Stock Before Q2 Earnings Release?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T17:09:29+00:00",
-      "title": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T16:38:00+00:00",
-      "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T15:06:18+00:00",
-      "title": "Marvell Stock Has Been Cut in Half. Its Biggest Fear May No Longer Be Valid.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T14:58:25+00:00",
-      "title": "Broadcom No Longer Sells Itself As A Chip Cycle Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T14:07:39+00:00",
-      "title": "Marvell Down Huge This Month: The Pros See 120% Returns in 12 Months",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T13:57:00+00:00",
-      "title": "Apple, Amazon, Reddit, Micron, SK Hynix, Roblox, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

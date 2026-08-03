@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:43:05.276778+00:00",
+  "generated_at": "2026-08-03T01:16:52.200905+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 823.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T16:28:27.130860+00:00",
-      "close": 920.95
-    },
     {
       "timestamp": "2026-07-25T17:33:32.339460+00:00",
       "close": 920.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 823.03
+    },
+    {
+      "timestamp": "2026-08-03T01:16:52.200905+00:00",
+      "close": 823.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-02T20:00:00+00:00",
+      "title": "Micron: High Risk, High Reward",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-02T17:45:00+00:00",
       "title": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-01T19:59:00+00:00",
       "title": "Silicon Motion Crushed Earnings and Surprised Memory Chip Bears",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T17:51:00+00:00",
-      "title": "Where Will Micron Stock Be in 2030?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

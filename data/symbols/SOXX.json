@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-02T23:43:05.276778+00:00",
+  "generated_at": "2026-08-03T01:16:52.200905+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 504.89,
     "change_pct": 0.07135353695519875
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 37,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T16:28:27.130860+00:00",
-      "close": 527.01
-    },
     {
       "timestamp": "2026-07-25T17:33:32.339460+00:00",
       "close": 527.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 504.89
+    },
+    {
+      "timestamp": "2026-08-03T01:16:52.200905+00:00",
+      "close": 504.89
     }
   ],
   "events": [
@@ -509,62 +509,6 @@
       "timestamp": "2026-08-01T03:10:00+00:00",
       "title": "Central Banks Hold Steady As Semiconductor Volatility Returns",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T23:30:43+00:00",
-      "title": "Coca-Cola: Low-Risk Defensive Play That Rivals Even The Hottest Areas Of The Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T16:00:57+00:00",
-      "title": "Michael Burry Just Turned His Guns on Nvidia, Micron and SOXX — ETF Investors Are Watching the Fallout",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:40:00+00:00",
-      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:19:38+00:00",
-      "title": "Michael Burry Expands Bets Against Nvidia, Micron— and Is Now Buying Lululemon and DraftKings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:04:32+00:00",
-      "title": "South Korea's KOSPI Rallies 18%, Its Best Day Ever: SK Hynix Jumps 30%",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T08:58:21+00:00",
-      "title": "AMD Stock Is Gaining Friday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T06:26:48+00:00",
-      "title": "SKHY Stock Jumps 6% In Friday Premarket After Shares Surged 30% to Hit First-Ever Daily Limit In South Korea (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-02T23:43:05.276778+00:00",
+  "generated_at": "2026-08-03T01:16:52.200905+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 540.53,
     "change_pct": 0.3024679903507188
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 41,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T16:28:27.130860+00:00",
-      "close": 561.19
-    },
     {
       "timestamp": "2026-07-25T17:33:32.339460+00:00",
       "close": 561.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 540.53
+    },
+    {
+      "timestamp": "2026-08-03T01:16:52.200905+00:00",
+      "close": 540.53
     }
   ],
   "events": [
@@ -517,54 +517,6 @@
       "timestamp": "2026-08-01T03:10:00+00:00",
       "title": "Central Banks Hold Steady As Semiconductor Volatility Returns",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T16:00:57+00:00",
-      "title": "Michael Burry Just Turned His Guns on Nvidia, Micron and SOXX — ETF Investors Are Watching the Fallout",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:40:00+00:00",
-      "title": "Tech Stocks Mixed As Tech Investors Take Profits",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T11:00:41+00:00",
-      "title": "If You Invested $1000 In VanEck Semiconductor ETF Stock 10 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T09:22:56+00:00",
-      "title": "Intel Stock Is Surging Friday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T07:07:06+00:00",
-      "title": "NVIDIA Stock Is Still Up, But $250 Billion AI Risk Has Spooked The Debt Market",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-07-31T04:06:10+00:00",
-      "title": "SOXX Falls Over 20% in the Last Month, but Chip ETF Trading Volume Quadruples Since January 2025",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
