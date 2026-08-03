@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T14:27:45.429037+00:00",
+  "generated_at": "2026-08-03T16:56:55.484244+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 88.84,
-    "change_pct": -1.5077605321507703
+    "price": 90.19,
+    "change_pct": -0.011086474501109667
   },
   "risk": {
-    "score": 63,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T21:35:15.643323+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-25T22:33:28.884427+00:00",
       "close": 92.32
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-03T14:27:45.429037+00:00",
       "close": 88.84
+    },
+    {
+      "timestamp": "2026-08-03T16:56:55.484244+00:00",
+      "close": 90.19
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-03T11:00:00+00:00",
       "title": "AMD to report Q2 earnings as chip stocks continue to waver",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T10:35:56+00:00",
+      "title": "'White House to Host AI Companies on Tuesday to Review AI Framework' - The Information",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T09:23:45+00:00",
+      "title": "Intel Stock Is Falling Monday: What's Going On?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-02T18:35:14+00:00",
+      "title": "AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-02T13:30:09+00:00",
       "title": "1 Beaten-Down Semiconductor Stock That Could Make a Comeback",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T22:00:22+00:00",
-      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T16:18:00+00:00",
-      "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T15:55:57+00:00",
-      "title": "The 5 Most Interesting Analyst Questions From Intel’s Q2 Earnings Call",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

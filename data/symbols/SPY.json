@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T14:27:45.429037+00:00",
+  "generated_at": "2026-08-03T16:56:55.484244+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 754.65,
-    "change_pct": 1.020039355849156
+    "price": 756.21,
+    "change_pct": 1.2288663105899378
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T21:35:15.643323+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-25T22:33:28.884427+00:00",
       "close": 738.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-03T14:27:45.429037+00:00",
       "close": 754.65
+    },
+    {
+      "timestamp": "2026-08-03T16:56:55.484244+00:00",
+      "close": 756.21
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-03T13:06:51+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid US-Iran Truce Hopes",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:29:30+00:00",
+      "title": "The Treasury Sell-Off May Be Just Getting Started",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:26:00+00:00",
+      "title": "New Month Kicks Off On The Upside",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,49 +538,33 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T09:36:03+00:00",
-      "title": "Warsh Says Cross The Street By Yourself",
+      "timestamp": "2026-08-03T11:32:38+00:00",
+      "title": "If You Don't Buy This Market, Someone Else Will",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T08:45:00+00:00",
-      "title": "FXI: Time To Take China Seriously. Start By Knowing This ETF.",
+      "timestamp": "2026-08-03T11:29:08+00:00",
+      "title": "Trump Warns Oil Executives: 'Get Your Retail Prices Down, NOW!'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T10:49:00+00:00",
+      "title": "S&P 500 Gains As Big Tech Stocks Deliver Mixed Returns",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T06:30:00+00:00",
-      "title": "CIO Weekly: The Rising Threat Of Real Yields",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T06:30:00+00:00",
-      "title": "Chart Of The Day: Seasonality Is No Longer Providing A Tailwind",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T05:11:07+00:00",
-      "title": "Safety & Inflation Engines For Protecting Your Portfolio",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T04:25:00+00:00",
-      "title": "Weekly Market Pulse: Warsh Is Off To A Good Start",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-03T10:35:56+00:00",
+      "title": "'White House to Host AI Companies on Tuesday to Review AI Framework' - The Information",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
