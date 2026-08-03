@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:38:09.726096+00:00",
+  "generated_at": "2026-08-03T23:47:25.162097+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 700.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T01:13:53.862513+00:00",
-      "close": 684.23
-    },
     {
       "timestamp": "2026-07-26T04:46:34.664353+00:00",
       "close": 684.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-03T22:38:09.726096+00:00",
       "close": 700.07
+    },
+    {
+      "timestamp": "2026-08-03T23:47:25.162097+00:00",
+      "close": 700.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T18:28:59+00:00",
+      "title": "Bear Market Signals: Semiconductor Stocks Sink",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T17:45:00+00:00",
       "title": "Dead Cat Bounce > Last Chance - Weekly Blog # 952",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-03T12:45:22+00:00",
       "title": "Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:29:30+00:00",
-      "title": "The Treasury Sell-Off May Be Just Getting Started",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
