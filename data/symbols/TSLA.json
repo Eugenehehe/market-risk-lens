@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T16:56:55.484244+00:00",
+  "generated_at": "2026-08-03T18:52:55.588660+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 320.1,
-    "change_pct": 2.856592011824821
+    "price": 323.72,
+    "change_pct": 4.019793708428399
   },
   "risk": {
-    "score": 73,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 313.03
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 313.03
@@ -502,74 +498,13 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 320.1
+    },
+    {
+      "timestamp": "2026-08-03T18:52:55.588660+00:00",
+      "close": 323.72
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-08-03T13:25:14+00:00",
-      "title": "Rivian Automotive Stock Asks The Market's Price For Sales That Do Not Yet Pay",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:23:23+00:00",
-      "title": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:20:00+00:00",
-      "title": "Why Apple's AI Strategy Looks Different From Everyone Else's",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:01:19+00:00",
-      "title": "Tesla Could Be Giving Up More Than a Business",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:57:24+00:00",
-      "title": "Tesla’s (TSLA) AI Driven Future Beyond Cars",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:48:26+00:00",
-      "title": "Tesla Stock Steady as July Registrations Split Europe in Half",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:29:00+00:00",
-      "title": "Record Exports Boost BYD Sales as Chinese EV Stocks Suffer",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:30:00+00:00",
-      "title": "Buoyant BYD has Tesla in it's rear view mirror. Musk needs to put his foot down",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T16:56:55.484244+00:00",
+  "generated_at": "2026-08-03T18:52:55.588660+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 756.21,
-    "change_pct": 1.2288663105899378
+    "price": 758.2,
+    "change_pct": 1.4952545413169593
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 738.93
@@ -502,74 +498,13 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 756.21
+    },
+    {
+      "timestamp": "2026-08-03T18:52:55.588660+00:00",
+      "close": 758.2
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-08-03T13:06:51+00:00",
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid US-Iran Truce Hopes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:29:30+00:00",
-      "title": "The Treasury Sell-Off May Be Just Getting Started",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:26:00+00:00",
-      "title": "New Month Kicks Off On The Upside",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:36:46+00:00",
-      "title": "Index Gains Conceal Renewed Breadth Weakness",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:32:38+00:00",
-      "title": "If You Don't Buy This Market, Someone Else Will",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:29:08+00:00",
-      "title": "Trump Warns Oil Executives: 'Get Your Retail Prices Down, NOW!'",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T10:49:00+00:00",
-      "title": "S&P 500 Gains As Big Tech Stocks Deliver Mixed Returns",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T10:35:56+00:00",
-      "title": "'White House to Host AI Companies on Tuesday to Review AI Framework' - The Information",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

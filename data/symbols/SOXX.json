@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T16:56:55.484244+00:00",
+  "generated_at": "2026-08-03T18:52:55.588660+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 502.47,
-    "change_pct": -0.4793123254570264
+    "price": 506.71,
+    "change_pct": 0.36047455881478285
   },
   "risk": {
-    "score": 46,
+    "score": 37,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 527.01
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 527.01
@@ -502,42 +498,13 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 502.47
+    },
+    {
+      "timestamp": "2026-08-03T18:52:55.588660+00:00",
+      "close": 506.71
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-08-03T12:26:00+00:00",
-      "title": "New Month Kicks Off On The Upside",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:23:45+00:00",
-      "title": "Intel Stock Is Falling Monday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T01:58:00+00:00",
-      "title": "Wall Street Questioned the AI Boom, Earnings Are Delivering: Here Are the ETFs You Should Watch Closely",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T03:10:00+00:00",
-      "title": "Central Banks Hold Steady As Semiconductor Volatility Returns",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
