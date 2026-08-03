@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T11:53:12.325258+00:00",
+  "generated_at": "2026-08-03T14:27:45.429037+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 823.03,
-    "change_pct": -5.90286511330117
+    "price": 809.22,
+    "change_pct": -1.6779461259006312
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T20:37:33.345679+00:00",
-      "close": 920.95
-    },
     {
       "timestamp": "2026-07-25T21:35:15.643323+00:00",
       "close": 920.95
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-03T11:53:12.325258+00:00",
       "close": 823.03
+    },
+    {
+      "timestamp": "2026-08-03T14:27:45.429037+00:00",
+      "close": 809.22
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-03T09:37:59+00:00",
-      "title": "MU Stock Falls Premarket After Worst Month In 11 Years: Analysts Say Memory Demand Intact, See 85% Upside",
+      "timestamp": "2026-08-03T12:45:49+00:00",
+      "title": "Stock Market Today: Dow Rallies 600 Points On Trump Reversal; Oil Prices Plunge (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T09:20:00+00:00",
-      "title": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T07:13:45+00:00",
-      "title": "Tim Cook's Farewell Note Sours While Amazon Steals The Show And Oil Snaps On Fresh Iran Talks",
+      "timestamp": "2026-08-03T12:35:02+00:00",
+      "title": "Which S&P500 stocks are moving before the opening bell on Monday?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T04:25:25+00:00",
-      "title": "MU, SNDK, SKHY, DRAM In Focus: Korean Stocks Dip Again, But Morgan Stanley Sees Sharp Growth Ahead",
+      "timestamp": "2026-08-03T12:33:00+00:00",
+      "title": "Micron Stock Drops as Chinese Memory Threat Intensifies",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T04:00:47+00:00",
-      "title": "Micron’s 39% Plunge and SK Hynix, Samsung’s $1.3T Spending Worries US Chipmakers",
+      "timestamp": "2026-08-03T11:37:41+00:00",
+      "title": "This Week In AI Chips - Palomino's Strategic Acquisition Boosts AI Interconnect Market Expansion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-02T21:57:10+00:00",
-      "title": "Buy The Situational Awareness' Selloff, Here's Why And What",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-03T10:48:00+00:00",
+      "title": "Palantir, Micron, SK Hynix, Alibaba, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-02T20:00:00+00:00",
-      "title": "Micron: High Risk, High Reward",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-03T10:16:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Micron, Seagate, Western Digital, Sandisk and Vertiv",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-02T17:45:00+00:00",
-      "title": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
+      "timestamp": "2026-08-03T09:58:00+00:00",
+      "title": "Zacks.com featured highlights Micron, NVIDIA and TD SYNNEX",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T09:37:59+00:00",
+      "title": "MU Stock Falls Premarket After Worst Month In 11 Years: Analysts Say Memory Demand Intact, See 85% Upside",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T11:53:12.325258+00:00",
+  "generated_at": "2026-08-03T14:27:45.429037+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 129.87,
-    "change_pct": 1.8109125117591773
+    "price": 136.04,
+    "change_pct": 4.750904750904739
   },
   "risk": {
-    "score": 61,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T20:37:33.345679+00:00",
-      "close": 114.99
-    },
     {
       "timestamp": "2026-07-25T21:35:15.643323+00:00",
       "close": 114.99
@@ -502,52 +498,72 @@
     {
       "timestamp": "2026-08-03T11:53:12.325258+00:00",
       "close": 129.87
+    },
+    {
+      "timestamp": "2026-08-03T14:27:45.429037+00:00",
+      "close": 136.04
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-03T04:20:00+00:00",
-      "title": "Down 48%, Is Oracle Stock a Buy Right Now?",
+      "timestamp": "2026-08-03T13:40:00+00:00",
+      "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T03:53:17+00:00",
-      "title": "3 Market Predictions For August",
+      "timestamp": "2026-08-03T12:57:00+00:00",
+      "title": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:12:42+00:00",
+      "title": "Could Oracle Go Bankrupt - Really?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T11:27:00+00:00",
+      "title": "Oracle Inks 10-Year, $7 Billion Contract With DoD -- What Investors Need to Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T11:20:00+00:00",
+      "title": "Buy the SOXX Down 23% From Its Highs? Amazon, Alphabet, Meta Platforms, Microsoft, and Oracle Just Gave Investors 830 Billion Reasons to Do So.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T10:18:53+00:00",
+      "title": "Oracle’s Massive AI Bet Has Already Cost Larry Ellison $207 Billion. Analyst Warns the AI Bubble Is 17 Times Bigger Than the Dot-Com Bubble.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T10:05:36+00:00",
+      "title": "Bloom Energy: Impressive Growth And Operating Leverage Create A Better Set-Up",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-02T18:35:00+00:00",
-      "title": "Oracle and Nvidia Shares Have Plunged Over the Past 3 Months. Is It Time to Cut These Tech Stocks Loose?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T16:30:34+00:00",
-      "title": "Prediction: Salesforce Will End The Year At This Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T03:05:35+00:00",
-      "title": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T04:17:54+00:00",
-      "title": "Is Oracle (ORCL) Using Google’s Gemini Tie-Up To Reframe Its Core AI Investment Narrative?",
+      "timestamp": "2026-08-03T10:00:07+00:00",
+      "title": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T11:53:12.325258+00:00",
+  "generated_at": "2026-08-03T14:27:45.429037+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 90.2,
-    "change_pct": -1.0205201360693472
+    "price": 88.84,
+    "change_pct": -1.5077605321507703
   },
   "risk": {
-    "score": 59,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T20:37:33.345679+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-25T21:35:15.643323+00:00",
       "close": 92.32
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-03T11:53:12.325258+00:00",
       "close": 90.2
+    },
+    {
+      "timestamp": "2026-08-03T14:27:45.429037+00:00",
+      "close": 88.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T13:02:21+00:00",
+      "title": "GlobalFoundries Stock Costs More Than The Market On Earnings And Less On Cash Flow",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T11:00:00+00:00",
+      "title": "AMD to report Q2 earnings as chip stocks continue to waver",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T09:15:52+00:00",
+      "title": "Eaton: Rotating Within The AI Infrastructure Play",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-02T21:57:10+00:00",
       "title": "Buy The Situational Awareness' Selloff, Here's Why And What",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-01T15:55:57+00:00",
       "title": "The 5 Most Interesting Analyst Questions From Intel’s Q2 Earnings Call",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T15:36:19+00:00",
-      "title": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T15:29:00+00:00",
-      "title": "Prediction: Intel Posts a Profitable Year Before 2028. Here's How It Gets There.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T09:15:00+00:00",
-      "title": "Two 25%+ Covered Call ETFs Where The Risk Has Quietly Changed",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
