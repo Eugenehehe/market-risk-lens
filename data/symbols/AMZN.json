@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:51:53.462267+00:00",
+  "generated_at": "2026-08-03T08:22:44.862281+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 271.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T18:33:40.822161+00:00",
-      "close": 232.11
-    },
     {
       "timestamp": "2026-07-25T19:50:03.439177+00:00",
       "close": 232.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-03T04:51:53.462267+00:00",
       "close": 271.58
+    },
+    {
+      "timestamp": "2026-08-03T08:22:44.862281+00:00",
+      "close": 271.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T07:13:45+00:00",
+      "title": "Tim Cook's Farewell Note Sours While Amazon Steals The Show And Oil Snaps On Fresh Iran Talks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T02:00:38+00:00",
       "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-02T18:33:00+00:00",
       "title": "Big Tech’s $2 trillion AI shakeout just changed everything",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T18:00:16+00:00",
-      "title": "Amazon Says AWS Could Become A $1 Trillion Business",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

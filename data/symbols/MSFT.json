@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:51:53.462267+00:00",
+  "generated_at": "2026-08-03T08:22:44.862281+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 464.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T18:33:40.822161+00:00",
-      "close": 381.7
-    },
     {
       "timestamp": "2026-07-25T19:50:03.439177+00:00",
       "close": 381.7
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-03T04:51:53.462267+00:00",
       "close": 464.72
+    },
+    {
+      "timestamp": "2026-08-03T08:22:44.862281+00:00",
+      "close": 464.72
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-03T02:00:38+00:00",
       "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T01:11:54+00:00",
+      "title": "Microsoft Just Silenced The AI Skeptics, Why I See 20%+ Upside",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-02T16:35:00+00:00",
       "title": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T15:30:26+00:00",
-      "title": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' — What That Means For OpenAI",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
