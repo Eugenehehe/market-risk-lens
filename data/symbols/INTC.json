@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 90.19,
-    "change_pct": -0.011086474501109667
+    "price": 91,
+    "change_pct": 0.8869179600886845
   },
   "risk": {
-    "score": 51,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 92.32
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 90.19
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 91
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-03T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:06:51+00:00",
+      "title": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:59:51+00:00",
+      "title": "AMD Fell: Here Are 3 Reasons I’m Buying Without Fear",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:56:00+00:00",
+      "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:00:00+00:00",
+      "title": "Trump admin to take $874M in equity stakes in 7 chip companies — experts say it could set bad precedent",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T14:04:19+00:00",
+      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T13:39:38+00:00",
+      "title": "Semiconductor stocks pare losses amid fears of increased competition from China",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-03T13:02:21+00:00",
       "title": "GlobalFoundries Stock Costs More Than The Market On Earnings And Less On Cash Flow",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:00:00+00:00",
-      "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T10:35:56+00:00",
-      "title": "'White House to Host AI Companies on Tuesday to Review AI Framework' - The Information",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:23:45+00:00",
-      "title": "Intel Stock Is Falling Monday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:15:52+00:00",
-      "title": "Eaton: Rotating Within The AI Infrastructure Play",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T21:57:10+00:00",
-      "title": "Buy The Situational Awareness' Selloff, Here's Why And What",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T18:35:14+00:00",
-      "title": "AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T13:30:09+00:00",
-      "title": "1 Beaten-Down Semiconductor Stock That Could Make a Comeback",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "INTC live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "INTC quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

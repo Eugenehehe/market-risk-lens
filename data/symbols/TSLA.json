@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 323.72,
-    "change_pct": 4.019793708428399
+    "price": 322.08,
+    "change_pct": 3.492818354165994
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T23:37:52.358416+00:00",
-      "close": 313.03
-    },
     {
       "timestamp": "2026-07-26T01:13:53.862513+00:00",
       "close": 313.03
@@ -502,9 +498,78 @@
     {
       "timestamp": "2026-08-03T18:52:55.588660+00:00",
       "close": 323.72
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 322.08
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-03T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:51:47+00:00",
+      "title": "Veteran Analyst Flags Tesla Stock's Next Critical Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:10:31+00:00",
+      "title": "The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:56:44+00:00",
+      "title": "Cathie Wood Just Bet $26 Million on SpaceX Days Before Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:50:33+00:00",
+      "title": "Elon Musk Backs Bullish View On SPCX’s ‘Insane’ Opportunity – Wall Street Sees Attractive Valuation in SpaceX Despite Lock-Up Overhang",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:41:53+00:00",
+      "title": "Tesla rival trims spending plans despite revenue beat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:30:06+00:00",
+      "title": "Tesla Price Prediction: Could the Stock Rally 30% From Here?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:23:45+00:00",
+      "title": "Cathie Wood Is Leaning Harder Into Her Highest-Conviction Themes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

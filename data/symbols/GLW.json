@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 145.65,
-    "change_pct": 5.352622061482815
+    "price": 146.64,
+    "change_pct": 6.068716094032545
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 146.65
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 146.65
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 145.65
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 146.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T16:40:00+00:00",
+      "title": "Amazon, Apple, Micron, Bristol Myers, GameStop, Corning, SpaceX, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:29:00+00:00",
+      "title": "Corning Stock Slides 13.9% in Three Months: Buy or Hold or Sell?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:35:36+00:00",
+      "title": "Celestica shares are trading lower. The company reported its Q1 financial results.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T14:56:00+00:00",
+      "title": "Truist upgrades Corning to Buy after pullback, sees AI demand driving upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T13:49:08+00:00",
       "title": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
@@ -536,38 +568,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T10:24:08+00:00",
-      "title": "This Charles Schwab Analyst Begins Coverage On A Bullish Note; Here Are Top 3 Initiations For Monday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:17:57+00:00",
-      "title": "This Wingstop Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Monday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T08:16:19+00:00",
-      "title": "Snowflake To Rally Around 16%? Here Are 10 Top Analyst Forecasts For Monday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T07:12:38+00:00",
-      "title": "This Eaton Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "GLW live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "GLW quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

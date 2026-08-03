@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 375.7,
-    "change_pct": 5.495184342796167
+    "price": 373.51,
+    "change_pct": 4.8802403616656775
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 319.74
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 319.74
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 375.7
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 373.51
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-03T13:40:00+00:00",
-      "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
+      "timestamp": "2026-08-03T19:10:05+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:35:00+00:00",
+      "title": "Microsoft Just Proved that AI Spending Can Pay Off. Here's How the Company Separates Itself From Other AI Stocks.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T13:28:00+00:00",
-      "title": "ZoomInfo Connector Provides GTM Context Layer for Buyer Intent with Gemini Enterprise",
+      "timestamp": "2026-08-03T17:32:31+00:00",
+      "title": "Why Alphabet Stock Popped Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:57:00+00:00",
-      "title": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
+      "timestamp": "2026-08-03T17:31:28+00:00",
+      "title": "Amazon Tops $3T, Meta Rallies 7% as AI Hyperscalers Ride Earnings Momentum",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:39:34+00:00",
-      "title": "Apple's Record Quarter Ran Into A Memory Bill",
+      "timestamp": "2026-08-03T17:30:49+00:00",
+      "title": "GOOGL Stock Gains Over 5%: Google Locks Major Long-Term Solar Power Deal With RWE — Retail Sees An AI Infrastructure Play",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:30:00+00:00",
-      "title": "Commvault Integrates Threat Scan with Google Threat Intelligence to Enable Fast, Clean Recoveries Following Cyberattacks",
+      "timestamp": "2026-08-03T17:30:23+00:00",
+      "title": "Wall Street Raises Amazon Targets After Its AWS Surge. Here’s The Number.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:28:00+00:00",
-      "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
+      "timestamp": "2026-08-03T17:15:08+00:00",
+      "title": "Microsoft Races Ahead Of Google In The Cloud",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:20:16+00:00",
-      "title": "Is SoundHound AI in Play? The Acquisition Case for This Voice-AI Specialist",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:12:50+00:00",
-      "title": "‘Absolutely the right time’ for geothermal – Q&A with Baker Hughes Geothermal VP",
+      "timestamp": "2026-08-03T17:14:45+00:00",
+      "title": "Alphabet at $356: Plenty of Room to Buy and Here’s Why",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "GOOGL live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "GOOGL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

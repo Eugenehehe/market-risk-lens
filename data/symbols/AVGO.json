@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 388.43,
-    "change_pct": -0.21835182901766004
+    "price": 392.23,
+    "change_pct": 0.7578092889437116
   },
   "risk": {
-    "score": 52,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 381.92
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 381.92
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 388.43
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 392.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T17:40:50+00:00",
+      "title": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:56:00+00:00",
+      "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T14:00:20+00:00",
+      "title": "The Market Is Missing a Huge Opportunity in NVIDIA, Micron, and Broadcom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:58:19+00:00",
+      "title": "Elon Musk Says AI Is A 'Supersonic Tsunami.' Wall Street Is Worried About The Bill",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:29:13+00:00",
+      "title": "Semiconductor ETF SOXX’s Worst Month Since 2002: 'A Significant Discount,' Ed Yardeni Says",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T12:06:44+00:00",
       "title": "Goldman Sachs Has Stark Message for AI Stock Investors",
@@ -528,46 +568,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:00:15+00:00",
-      "title": "Microsoft joins, Broadcom exits Goldman’s top-stocks list",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T09:58:00+00:00",
-      "title": "3 Top Tech Stocks for Long-Term Growth and Income",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T09:04:00+00:00",
-      "title": "Billionaire Steve Cohen Is Buying This Overlooked Stock While Dumping Big Tech",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T14:15:18+00:00",
-      "title": "What The Bipolar Silicon Market Structure Means Moving Forward: Nividia Vs. Broadcom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T11:00:00+00:00",
-      "title": "MarketBeat Week in Review – 07/27- 07/31",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AVGO live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "AVGO quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

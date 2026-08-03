@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 421.27,
-    "change_pct": 3.9223425512494803
+    "price": 429.02,
+    "change_pct": 5.83417618472013
   },
   "risk": {
-    "score": 68,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 437.5
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 437.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 421.27
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 429.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T14:00:00+00:00",
+      "title": "June AI Emerges From Stealth to Reinvent Enterprise Software Implementation for The AI Era",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T12:39:34+00:00",
       "title": "Apple's Record Quarter Ran Into A Memory Bill",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-03T12:00:50+00:00",
       "title": "How To Turn $100,000 Into $5.1 Million In 7 Months",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T07:26:36+00:00",
+      "title": "'Zach Dell Is Raising Money to Put a Battery in Your Backyard' - WSJ Exclusive",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,5 +565,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "DELL live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "DELL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

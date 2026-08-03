@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 306.55,
-    "change_pct": -0.7639765627529105
+    "price": 303.42,
+    "change_pct": -1.7772166650480758
   },
   "risk": {
-    "score": 57,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 333.02
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 333.02
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 306.55
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 303.42
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-03T13:20:00+00:00",
-      "title": "Why Apple's AI Strategy Looks Different From Everyone Else's",
+      "timestamp": "2026-08-03T19:10:05+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:53:16+00:00",
+      "title": "Apple Stock Dips After European Commission Reveals April Acquisition",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:39:34+00:00",
-      "title": "Apple's Record Quarter Ran Into A Memory Bill",
+      "timestamp": "2026-08-03T17:10:31+00:00",
+      "title": "The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:28:00+00:00",
-      "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club",
+      "timestamp": "2026-08-03T17:05:38+00:00",
+      "title": "Stock Market Today: Dow Jumps 600 Points On Trump Strikes Reversal; Oil Prices Plunge (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:01:50+00:00",
-      "title": "Apple Stock Faces a Stark Warning -- KeyBanc Sees 19% Downside",
+      "timestamp": "2026-08-03T17:00:30+00:00",
+      "title": "A Powerful Bull Case Is Emerging for Apple, Alphabet and Amazon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T10:33:00+00:00",
-      "title": "Apple Shed $426 Billion in Market Cap in 2 Days. Here's What Wall Street Is Getting Wrong.",
+      "timestamp": "2026-08-03T16:46:11+00:00",
+      "title": "CXMT’s 466% IPO Pop Gives Apple (AAPL) Leverage. Why Micron (MU) Investors Should Stay Patient",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T09:47:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Apple, Microsoft, Meta, Amazon, Nvidia and Tesla",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:20:49+00:00",
-      "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:10:58+00:00",
-      "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
-      "source": "Yahoo",
+      "timestamp": "2026-08-03T16:40:04+00:00",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AAPL live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "AAPL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

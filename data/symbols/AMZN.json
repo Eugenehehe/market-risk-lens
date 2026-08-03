@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 285.11,
-    "change_pct": 4.981957434273521
+    "price": 284.02,
+    "change_pct": 4.5806024007658985
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 232.11
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 232.11
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 285.11
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 284.02
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-03T13:45:57+00:00",
-      "title": "Amazon enters $3 trillion club as AI optimism sweeps through Wall Street",
+      "timestamp": "2026-08-03T19:10:05+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:00:00+00:00",
+      "title": "Monday's session: most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:31:28+00:00",
+      "title": "Amazon Tops $3T, Meta Rallies 7% as AI Hyperscalers Ride Earnings Momentum",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T13:31:27+00:00",
-      "title": "Walmart, Costco, Amazon racing to capture weight loss drug customers",
+      "timestamp": "2026-08-03T17:30:23+00:00",
+      "title": "Wall Street Raises Amazon Targets After Its AWS Surge. Here’s The Number.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:58:00+00:00",
-      "title": "Microsoft Pays Cash. Amazon Borrows. Here's How Big Tech Funds Its AI Boom.",
+      "timestamp": "2026-08-03T17:23:49+00:00",
+      "title": "Amazon cloud chief says inference demand is surging",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:57:00+00:00",
-      "title": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?",
+      "timestamp": "2026-08-03T17:15:08+00:00",
+      "title": "Microsoft Races Ahead Of Google In The Cloud",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T12:39:34+00:00",
-      "title": "Apple's Record Quarter Ran Into A Memory Bill",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:30:01+00:00",
-      "title": "Amazon.com vs. CAVA: Which Consumer Stock Is a Better Buy in 2026, the Veteran E-Commerce Giant or Rising Restaurant Chain?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:30:00+00:00",
-      "title": "SenesTech Active Subscriber Base More Than Doubles as E-commerce Strategy Gains Momentum",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:23:01+00:00",
-      "title": "Amazon.com vs. Airbnb: Comparing Revenue Trends Between an E-Commerce Leader and a Travel Giant",
+      "timestamp": "2026-08-03T17:10:31+00:00",
+      "title": "The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AMZN live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "AMZN quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

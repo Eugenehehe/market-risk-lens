@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 545.01,
-    "change_pct": 0.828816161915169
+    "price": 545.46,
+    "change_pct": 0.912067785321824
   },
   "risk": {
-    "score": 41,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T23:37:52.358416+00:00",
-      "close": 561.19
-    },
     {
       "timestamp": "2026-07-26T01:13:53.862513+00:00",
       "close": 561.19
@@ -502,9 +498,54 @@
     {
       "timestamp": "2026-08-03T18:52:55.588660+00:00",
       "close": 545.01
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 545.46
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-03T15:55:00+00:00",
+      "title": "The Market's Next Move Depends On More Than Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:26:00+00:00",
+      "title": "New Month Kicks Off On The Upside",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T11:32:38+00:00",
+      "title": "If You Don't Buy This Market, Someone Else Will",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-02T03:05:35+00:00",
+      "title": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-01T03:10:00+00:00",
+      "title": "Central Banks Hold Steady As Semiconductor Volatility Returns",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

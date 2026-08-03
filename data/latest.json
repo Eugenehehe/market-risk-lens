@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T18:52:55.588660+00:00",
+  "generated_at": "2026-08-03T20:22:22.386199+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 206.98,
-    "change_pct": 3.103362391033615
+    "price": 206.64,
+    "change_pct": 2.9339975093399584
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T22:33:28.884427+00:00",
-      "close": 206.84
-    },
     {
       "timestamp": "2026-07-25T23:37:52.358416+00:00",
       "close": 206.84
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-03T16:56:55.484244+00:00",
       "close": 206.98
+    },
+    {
+      "timestamp": "2026-08-03T20:22:22.386199+00:00",
+      "close": 206.64
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-03T13:46:00+00:00",
-      "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
+      "timestamp": "2026-08-03T19:10:05+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:00:00+00:00",
+      "title": "Monday's session: most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:50:00+00:00",
+      "title": "This Boring Company Has Hiked Its Dividend for 71 Straight Years, and It's an Income Investor's Dream",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T13:40:00+00:00",
-      "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
+      "timestamp": "2026-08-03T17:49:10+00:00",
+      "title": "Is Eli Lilly Stock Running out of Steam?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T13:35:00+00:00",
-      "title": "678 Billion Reasons to Invest in Microsoft Stock",
+      "timestamp": "2026-08-03T17:40:05+00:00",
+      "title": "Leopold Aschenbrenner’s $20 Billion AI Hedge Fund Imploded. Here’s How It’s Still Up 80% This Year",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T13:22:10+00:00",
-      "title": "School dropout’s AI start-up valued at £2.5bn",
+      "timestamp": "2026-08-03T17:35:00+00:00",
+      "title": "Microsoft Just Proved that AI Spending Can Pay Off. Here's How the Company Separates Itself From Other AI Stocks.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-03T13:20:00+00:00",
-      "title": "Why Apple's AI Strategy Looks Different From Everyone Else's",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:15:12+00:00",
-      "title": "From App Disaster to Growth Engine: How Sonos Found Its Groove Again",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:11:00+00:00",
-      "title": "Chevron vs. ExxonMobil: Which Dividend Compounds Better Over the Next 10 Years?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:10:35+00:00",
-      "title": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+      "timestamp": "2026-08-03T17:32:31+00:00",
+      "title": "Why Alphabet Stock Popped Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -606,5 +606,5 @@
     "prob_down_gt_1pct": 0.22,
     "prob_up_gt_1pct": 0.28
   },
-  "narrative": "NVDA live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "NVDA quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }
