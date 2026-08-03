@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 296.22,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T23:37:52.358416+00:00",
-      "close": 291.17
-    },
     {
       "timestamp": "2026-07-26T01:13:53.862513+00:00",
       "close": 291.17
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 296.22
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 296.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T17:45:00+00:00",
+      "title": "Dead Cat Bounce > Last Chance - Weekly Blog # 952",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T17:20:00+00:00",
+      "title": "Is The Angst Over AI Spending And Fed Inaction Warranted?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:50:00+00:00",
+      "title": "A Quiet August? Not For Investors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T15:55:00+00:00",
       "title": "The Market's Next Move Depends On More Than Earnings",
@@ -544,30 +568,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T10:11:00+00:00",
-      "title": "More Unbelievable",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T09:36:03+00:00",
-      "title": "Warsh Says Cross The Street By Yourself",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T06:30:00+00:00",
-      "title": "CIO Weekly: The Rising Threat Of Real Yields",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "IWM live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=IWM&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "IWM quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

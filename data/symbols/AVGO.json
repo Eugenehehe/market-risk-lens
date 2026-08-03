@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 392.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T23:37:52.358416+00:00",
-      "close": 381.92
-    },
     {
       "timestamp": "2026-07-26T01:13:53.862513+00:00",
       "close": 381.92
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 392.23
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 392.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T18:24:25+00:00",
+      "title": "Broadcom Stock Slips After Losing Major EU Antitrust Fight",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:00:58+00:00",
+      "title": "AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T17:40:50+00:00",
       "title": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
@@ -517,6 +533,14 @@
       "timestamp": "2026-08-03T15:56:00+00:00",
       "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:31:54+00:00",
+      "title": "Hyperscaler Capex Tops $1.2 Trillion: These Nine Stocks Are Cashing In, BofA Says",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -544,30 +568,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:06:44+00:00",
-      "title": "Goldman Sachs Has Stark Message for AI Stock Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:00:00+00:00",
-      "title": "Broadcom Inc. to Announce Third Quarter Fiscal Year 2026 Financial Results on Wednesday, September 2, 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:37:41+00:00",
-      "title": "This Week In AI Chips - Palomino's Strategic Acquisition Boosts AI Interconnect Market Expansion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AVGO live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=AVGO&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "AVGO quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

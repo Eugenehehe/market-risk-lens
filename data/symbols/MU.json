@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 829.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T23:37:52.358416+00:00",
-      "close": 920.95
-    },
     {
       "timestamp": "2026-07-26T01:13:53.862513+00:00",
       "close": 920.95
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 829.5
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 829.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T20:47:00+00:00",
+      "title": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T20:12:00+00:00",
+      "title": "Micron Stock Rises Despite Rising Competition From Chinese Memory Chip",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T19:05:29+00:00",
+      "title": "Micron Stock Falls -- Apple Tests Chinese Memory Chips From Rising Rival",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T19:05:00+00:00",
+      "title": "1 Thing Every Micron Stock Investor Needs To Understand Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:43:49+00:00",
+      "title": "Micron Stock Drops Nearly 4% as Chinese Rival Plans DRAM Expansion",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T18:05:00+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
@@ -514,56 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-03T18:02:58+00:00",
+      "title": "Micron Is Transforming This New York Town. Retired Homeowners Have Two Property-Tax Breaks to Check.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-03T17:50:37+00:00",
       "title": "Analyst Drops Jaw-Dropping Micron Target Hike With a Catch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T17:29:32+00:00",
-      "title": "Why Micron Stock Is Under Pressure Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:46:11+00:00",
-      "title": "CXMT’s 466% IPO Pop Gives Apple (AAPL) Leverage. Why Micron (MU) Investors Should Stay Patient",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:40:00+00:00",
-      "title": "Amazon, Apple, Micron, Bristol Myers, GameStop, Corning, SpaceX, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:34:00+00:00",
-      "title": "Buy Sandisk Stock Before Q4 Earnings? Here's What to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:17:26+00:00",
-      "title": "Jim Cramer Named Micron Technology (MU) His Top Memory Pick",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T15:30:45+00:00",
-      "title": "Palantir vs. Snowflake: Which Growth Stock Is the Better Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MU live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=MU&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "MU quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

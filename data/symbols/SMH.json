@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 545.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T01:13:53.862513+00:00",
-      "close": 561.19
-    },
     {
       "timestamp": "2026-07-26T04:46:34.664353+00:00",
       "close": 561.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 545.46
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 545.46
     }
   ],
   "events": [
@@ -557,5 +557,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "SMH live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=SMH&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "SMH quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 193.775,
     "change_pct": 3.313606312646611
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-25T23:37:52.358416+00:00",
-      "close": 194.23
-    },
     {
       "timestamp": "2026-07-26T01:13:53.862513+00:00",
       "close": 194.23
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 193.775
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 193.775
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-03T20:44:00+00:00",
+      "title": "Photonics: The Next Big AI Investment Opportunity?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T20:05:00+00:00",
+      "title": "Marvell Technology, Inc. Announces Conference Call to Review Second Quarter of Fiscal Year 2027 Financial Results; Announces Investor Day on October 6, 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-03T17:09:15+00:00",
       "title": "Marvell (MRVL) Is Putting $250 Million Into India To Grow AI Chip R and D",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:42:01+00:00",
+      "title": "Marvell's Next Move Is To $100",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:31:54+00:00",
+      "title": "Hyperscaler Capex Tops $1.2 Trillion: These Nine Stocks Are Cashing In, BofA Says",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -536,30 +568,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:29:13+00:00",
-      "title": "Semiconductor ETF SOXX’s Worst Month Since 2002: 'A Significant Discount,' Ed Yardeni Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T10:14:04+00:00",
-      "title": "Marvell Technology Stock Is Falling Monday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T06:17:00+00:00",
-      "title": "FTSE 100 Live: London lagging as AstraZeneca offsets gains from oil drop",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -573,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MRVL live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=MRVL&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "MRVL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 322.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T01:13:53.862513+00:00",
-      "close": 313.03
-    },
     {
       "timestamp": "2026-07-26T04:46:34.664353+00:00",
       "close": 313.03
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 322.08
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 322.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T21:05:00+00:00",
+      "title": "Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T20:58:57+00:00",
+      "title": "The 3 ETFs That Hold the Most Magnificent 7 — and How They're Performing in a Tougher 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T20:43:00+00:00",
+      "title": "BYD Sets Export Record. Nio, XPeng, and Li Auto Stocks Suffer",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T20:36:52+00:00",
+      "title": "Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T19:25:00+00:00",
+      "title": "Tesla's Big Robotaxi Progress Is Hidden in Plain Sight",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:38:42+00:00",
+      "title": "Cathie Wood Spends $26 Million On Battered Tech Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T18:05:00+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-08-03T17:51:47+00:00",
       "title": "Veteran Analyst Flags Tesla Stock's Next Critical Test",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T17:10:31+00:00",
-      "title": "The ‘Nvidia Tax’: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:56:44+00:00",
-      "title": "Cathie Wood Just Bet $26 Million on SpaceX Days Before Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:50:33+00:00",
-      "title": "Elon Musk Backs Bullish View On SPCX’s ‘Insane’ Opportunity – Wall Street Sees Attractive Valuation in SpaceX Despite Lock-Up Overhang",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:41:53+00:00",
-      "title": "Tesla rival trims spending plans despite revenue beat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:30:06+00:00",
-      "title": "Tesla Price Prediction: Could the Stock Rally 30% From Here?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T16:23:45+00:00",
-      "title": "Cathie Wood Is Leaning Harder Into Her Highest-Conviction Themes",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "TSLA live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=TSLA&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "TSLA quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

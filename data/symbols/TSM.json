@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T21:37:04.483853+00:00",
+  "generated_at": "2026-08-03T22:38:09.726096+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 406.11,
     "change_pct": 0.46011131725418597
   },
   "risk": {
-    "score": 42,
+    "score": 46,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T01:13:53.862513+00:00",
-      "close": 403.41
-    },
     {
       "timestamp": "2026-07-26T04:46:34.664353+00:00",
       "close": 403.41
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-03T20:22:22.386199+00:00",
       "close": 406.11
+    },
+    {
+      "timestamp": "2026-08-03T22:38:09.726096+00:00",
+      "close": 406.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-03T16:57:07+00:00",
+      "title": "Congressman Who Spent Millions on Magnificent Seven Stocks Just Bought Another Tech Giant",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T16:30:18+00:00",
+      "title": "QUICK SPARK: SpaceX Tops Cathie Wood's Shopping List With $26 Million Bet Ahead Of First Earnings",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T13:39:12+00:00",
       "title": "SK hynix: Key Strengths In The Agentic AI Era",
@@ -533,5 +549,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "TSM live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=TSM&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "TSM quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }
