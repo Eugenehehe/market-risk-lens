@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T23:47:25.162097+00:00",
+  "generated_at": "2026-08-04T01:10:31.184478+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 50.24,
     "change_pct": 4.885177453027145
   },
   "risk": {
-    "score": 68,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T04:46:34.664353+00:00",
-      "close": 47.69
-    },
     {
       "timestamp": "2026-07-26T07:26:24.632562+00:00",
       "close": 47.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-03T23:47:25.162097+00:00",
       "close": 50.24
+    },
+    {
+      "timestamp": "2026-08-04T01:10:31.184478+00:00",
+      "close": 50.24
     }
   ],
   "events": [
@@ -516,22 +516,6 @@
     {
       "timestamp": "2026-08-02T14:30:22+00:00",
       "title": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T15:37:40+00:00",
-      "title": "The Calm Surface Of Arista Networks Stock Hides A Turbulent Forecast",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-01T06:15:06+00:00",
-      "title": "Why Rigetti Computing (RGTI) Is Up 5.7% After Landing NSF-Funded TangleLab Quantum Testbed Deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

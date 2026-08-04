@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:47:25.162097+00:00",
+  "generated_at": "2026-08-04T01:10:31.184478+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 757.67,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T07:26:24.632562+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-26T09:34:12.828353+00:00",
       "close": 738.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-03T23:47:25.162097+00:00",
       "close": 757.67
+    },
+    {
+      "timestamp": "2026-08-04T01:10:31.184478+00:00",
+      "close": 757.67
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-03T21:33:10+00:00",
       "title": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices — BA, XOM, CVX, HOOD, AMD In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T20:40:00+00:00",
+      "title": "Moving Averages Of The Ivy Portfolio And S&P 500: July 2026",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-03T16:05:00+00:00",
       "title": "CDT Insider Sentiment July 2026 - The Market Is Asking Questions",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T15:55:00+00:00",
-      "title": "The Market's Next Move Depends On More Than Earnings",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
