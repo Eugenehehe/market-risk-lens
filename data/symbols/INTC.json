@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T20:02:08.124831+00:00",
+  "generated_at": "2026-08-04T21:21:54.203044+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 100.94,
-    "change_pct": 10.923076923076923
+    "price": 100.86,
+    "change_pct": 10.835164835164846
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T18:35:11.380424+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 92.32
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 100.94
+    },
+    {
+      "timestamp": "2026-08-04T21:21:54.203044+00:00",
+      "close": 100.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T19:53:22+00:00",
+      "title": "Intel's Packaging Progress Points to Google",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T19:05:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T15:30:00+00:00",
       "title": "Why Intel Stock Fell 35% Last Month",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T14:35:01+00:00",
-      "title": "Gapping S&P500 stocks in Tuesday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

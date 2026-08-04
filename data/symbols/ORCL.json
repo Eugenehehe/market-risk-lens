@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T20:02:08.124831+00:00",
+  "generated_at": "2026-08-04T21:21:54.203044+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.72,
-    "change_pct": 2.728234050052869
+    "price": 145.74,
+    "change_pct": 2.7423334508283492
   },
   "risk": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T18:35:11.380424+00:00",
-      "close": 114.99
-    },
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 114.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 145.72
+    },
+    {
+      "timestamp": "2026-08-04T21:21:54.203044+00:00",
+      "close": 145.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T19:35:39+00:00",
+      "title": "Oracle (ORCL) Deepens Google Gemini Integration—What It Means for Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T17:32:00+00:00",
       "title": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T16:33:00+00:00",
       "title": "Snowflake Trades at a Premium Valuation: Hold or Fold the Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T15:14:58+00:00",
-      "title": "Oracle's AI Bet Is Starting to Alarm the Credit Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

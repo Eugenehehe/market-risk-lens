@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T20:02:08.124831+00:00",
+  "generated_at": "2026-08-04T21:21:54.203044+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.4,
-    "change_pct": 4.299363057324834
+    "price": 52.39,
+    "change_pct": 4.279458598726116
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T18:35:11.380424+00:00",
-      "close": 47.69
-    },
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 47.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 52.4
+    },
+    {
+      "timestamp": "2026-08-04T21:21:54.203044+00:00",
+      "close": 52.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T17:52:01+00:00",
+      "title": "NetApp's Buyback Is Better Funded Than It Is Big",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T17:20:12+00:00",
       "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-03T15:30:00+00:00",
       "title": "5 Tech Stocks Holding Their Ground Through the AI Trade Pullback",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T15:30:00+00:00",
-      "title": "HCLTech completes acquisition of HPE's Telco Solutions business",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
