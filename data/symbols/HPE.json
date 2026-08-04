@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T14:43:28.574527+00:00",
+  "generated_at": "2026-08-04T16:32:23.153426+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 50.59,
-    "change_pct": 0.6966560509554132
+    "price": 52.82,
+    "change_pct": 5.135350318471343
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T15:14:29.652629+00:00",
-      "close": 47.69
-    },
     {
       "timestamp": "2026-07-26T16:15:53.916586+00:00",
       "close": 47.69
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-04T14:43:28.574527+00:00",
       "close": 50.59
+    },
+    {
+      "timestamp": "2026-08-04T16:32:23.153426+00:00",
+      "close": 52.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T15:00:52+00:00",
+      "title": "Down 50% in The Year, Is SMCI a Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:52:00+00:00",
+      "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T12:30:00+00:00",
       "title": "SR Inc Net Zero Consortium for Buyers: Seven-Buyer Aggregation for 180 MW of Millers Branch Solar Now Online",
@@ -516,6 +532,14 @@
     {
       "timestamp": "2026-08-04T11:25:11+00:00",
       "title": "The Price of Reinvention for SanDisk Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T15:30:00+00:00",
+      "title": "5 Tech Stocks Holding Their Ground Through the AI Trade Pullback",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
