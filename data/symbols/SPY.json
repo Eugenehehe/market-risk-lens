@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T16:32:23.153426+00:00",
+  "generated_at": "2026-08-04T18:15:03.791319+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 769.29,
-    "change_pct": 1.53364921403778
+    "price": 772,
+    "change_pct": 1.8913247192049454
   },
   "risk": {
-    "score": 63,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T17:28:13.857986+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-26T18:35:11.380424+00:00",
       "close": 738.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-04T16:32:23.153426+00:00",
       "close": 769.29
+    },
+    {
+      "timestamp": "2026-08-04T18:15:03.791319+00:00",
+      "close": 772
     }
   ],
   "events": [
@@ -522,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-04T13:35:43+00:00",
+      "title": "Software Just Passed Its First Test",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T13:32:13+00:00",
       "title": "What SCHD's Own History Suggests About Its Price Today",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:28:21+00:00",
+      "title": "A Two Way Yen: No Carry Crash For The US Markets, And HEWJ Over EWJ",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-04T11:46:29+00:00",
-      "title": "EWY: This Volatile Stock Market Is Now The Most Attractive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:42:46+00:00",
-      "title": "The Easy Way To Get The Inflation Rate To 2%",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:40:18+00:00",
-      "title": "EXCLUSIVE: Top 12 Most-Searched Tickers in July on Benzinga Pro – SpaceX, Tesla, Micron Stay Hot, Nebius Rejoins List",
+      "timestamp": "2026-08-04T12:04:35+00:00",
+      "title": "Trump Administration Preparing To Set Price Floor, Tariffs On Imports Of Polysilicon And Derivative Products Used In Chips And Solar Panels",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

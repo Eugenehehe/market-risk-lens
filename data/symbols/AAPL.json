@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T16:32:23.153426+00:00",
+  "generated_at": "2026-08-04T18:15:03.791319+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 306.52,
-    "change_pct": 1.0216861116604026
+    "price": 309.99,
+    "change_pct": 2.165315404389956
   },
   "risk": {
-    "score": 59,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T16:15:53.916586+00:00",
-      "close": 333.02
-    },
     {
       "timestamp": "2026-07-26T17:28:13.857986+00:00",
       "close": 333.02
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-04T16:32:23.153426+00:00",
       "close": 306.52
+    },
+    {
+      "timestamp": "2026-08-04T18:15:03.791319+00:00",
+      "close": 309.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T17:42:42+00:00",
+      "title": "Sector Update: Tech Stocks Gain Tuesday Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T17:12:39+00:00",
+      "title": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:54:22+00:00",
+      "title": "Apple vs. Alphabet: The $5 Trillion AI Bet That’s Renting, Not Building",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:35:00+00:00",
+      "title": "Apple Is Down 10%. Should Investors Buy the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T15:00:06+00:00",
       "title": "AAPL Stock Gets Downgrades As Wall Street Sees Memory Inflation Pressures Persisting For 'Several More Quarters'",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-04T13:39:30+00:00",
       "title": "Can NFLX Stock Compound Its Way Higher?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:37:05+00:00",
-      "title": "Walmart downgraded, Palantir upgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:30:00+00:00",
-      "title": "Exclusive: Dinari, founded by Stripe and Apple alums, partners with Circle to offer tokenized stocks to U.S. investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:47:00+00:00",
-      "title": "Greg Abel Hasn't Touched Berkshire's Energy Holdings. Is That a Signal?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:35:00+00:00",
-      "title": "Why the \"Magnificent Seven\" Trade Is Starting to Fracture, and Where You Should Invest Instead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

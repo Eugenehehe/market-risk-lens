@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T16:32:23.153426+00:00",
+  "generated_at": "2026-08-04T18:15:03.791319+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 301.06,
-    "change_pct": 1.6339207345891449
+    "price": 301.78,
+    "change_pct": 1.8769833232057165
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T16:15:53.916586+00:00",
-      "close": 291.17
-    },
     {
       "timestamp": "2026-07-26T17:28:13.857986+00:00",
       "close": 291.17
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T16:32:23.153426+00:00",
       "close": 301.06
+    },
+    {
+      "timestamp": "2026-08-04T18:15:03.791319+00:00",
+      "close": 301.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T13:28:21+00:00",
+      "title": "A Two Way Yen: No Carry Crash For The US Markets, And HEWJ Over EWJ",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T12:23:34+00:00",
       "title": "Broad Rebound Pulls Market Breadth Back to Neutral",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T10:47:09+00:00",
       "title": "The Consumer Nowcast: Right Now, The Stock Market *Is* The Economy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:12:54+00:00",
-      "title": "The Treasury Is Backstopping The Yen",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
