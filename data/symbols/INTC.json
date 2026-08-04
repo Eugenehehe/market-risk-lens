@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 91,
-    "change_pct": 0.8869179600886845
+    "price": 99.24,
+    "change_pct": 9.05494505494504
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T14:01:30.511896+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 92.32
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 91
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 99.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T12:17:00+00:00",
+      "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T11:18:06+00:00",
       "title": "How Patience Re-Prices Marvell Technology Stock",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-04T11:00:00+00:00",
       "title": "Aeluma Names Jason Taylor Senior Director of Program and Project Management",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T10:00:51+00:00",
+      "title": "Caterpillar, Wayfair, Zebra Technologies, Gartner And Other Big Stocks Moving Higher On Tuesday",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-03T23:15:29+00:00",
       "title": "Is Intel’s AI PC and Advanced Packaging Ecosystem Shift Altering The Investment Case For Intel (INTC)?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T23:00:38+00:00",
-      "title": "For Micron Stock, The Growth That Justifies The Price Has To Arrive",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T22:06:11+00:00",
-      "title": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

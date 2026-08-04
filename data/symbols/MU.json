@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 829.5,
-    "change_pct": 0.7861195825182632
+    "price": 876.28,
+    "change_pct": 5.639541892706457
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T14:01:30.511896+00:00",
-      "close": 920.95
-    },
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 920.95
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 829.5
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 876.28
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-04T13:42:00+00:00",
+      "title": "BofA sees an \"enhanced buying opportunity\" in this memory stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:56:26+00:00",
+      "title": "Update: Palantir Earnings Beat, Tech Stock Rally Lift US Equity Futures Pre-Bell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:35:19+00:00",
+      "title": "Micron’s Sharp Pullback Hits These 3 Major Tech ETFs in Very Different Ways",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:31:00+00:00",
+      "title": "SK Hynix Stock Gets a Flurry of Buy Ratings. Why Analysts Love the Memory-Chip Maker.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:21:00+00:00",
+      "title": "Micron Stock Pops. It Gains Memory-Chip Share—but So Does Hot Chinese Rival.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:18:00+00:00",
+      "title": "Coherent, Palantir, SpaceX, Caterpillar, Pfizer, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:08:20+00:00",
+      "title": "Micron (MU) vs. ASML (ASML): Which AI Chip Giant Offers the Better Risk-Reward?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T11:31:12+00:00",
       "title": "Dow hits record, Palantir stock jumps 16% on Q2 earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:25:11+00:00",
-      "title": "The Price of Reinvention for SanDisk Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:16:00+00:00",
-      "title": "Microchip Technology, in Collaboration With Micron Technology, Demonstrates High-Performance PCIe® Gen 6 Storage Architecture for AI and Data Center Infrastructure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:12:00+00:00",
-      "title": "Palantir, Coherent, Lumentum, ON Semi, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:35:00+00:00",
-      "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:15:00+00:00",
-      "title": "Why SK Hynix Stock Can Surge 80% as Memory-Chip Maker and Sandisk Team Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T09:13:06+00:00",
-      "title": "MU, SNDK, DRAM Stocks Advance Premarket: Samsung Reclaims DRAM Lead, Micron Narrows Gap With SK Hynix",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T07:10:15+00:00",
-      "title": "Is Micron Technology (MU) A Bargain Following New Memory Capacity Risks?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

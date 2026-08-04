@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 507.68,
-    "change_pct": 0.5525956148864086
+    "price": 533.56,
+    "change_pct": 5.097699338165751
   },
   "risk": {
-    "score": 47,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T15:14:29.652629+00:00",
-      "close": 527.01
-    },
     {
       "timestamp": "2026-07-26T16:15:53.916586+00:00",
       "close": 527.01
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 507.68
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 533.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T09:54:05+00:00",
+      "title": "AIS: A Primer On The VistaShares Artificial Intelligence Supercycle ETF",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T12:29:13+00:00",
       "title": "Semiconductor ETF SOXX’s Worst Month Since 2002: 'A Significant Discount,' Ed Yardeni Says",

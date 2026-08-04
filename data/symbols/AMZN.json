@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 284.02,
-    "change_pct": 4.5806024007658985
+    "price": 278.65,
+    "change_pct": -1.8907119216956536
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T14:01:30.511896+00:00",
-      "close": 232.11
-    },
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 232.11
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 284.02
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 278.65
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-04T13:38:12+00:00",
+      "title": "Jeff Bezos files to sell $4 billion in Amazon stock after record high",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:20:00+00:00",
+      "title": "Amazon Web Services' Q2 Was Good. Google Cloud's Was Better. Here's Why It Matters.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:11:55+00:00",
+      "title": "Costco (COST) Pushes Further Into GLP 1 Weight Loss Prescriptions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:03:42+00:00",
+      "title": "Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:41:10+00:00",
+      "title": "Bezos Plans to Sell $4 Billion After $3 Trillion Milestone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:35:00+00:00",
+      "title": "Why the \"Magnificent Seven\" Trade Is Starting to Fracture, and Where You Should Invest Instead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:34:00+00:00",
+      "title": "Parks Associates: AI Redefines the Smart Speaker Market, Creating New Opportunities Across the Connected Home",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T11:55:57+00:00",
       "title": "Google exec warns AI spending could trigger a painful revenue gap",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:35:00+00:00",
-      "title": "Thunder Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver AI-Powered Contact Center Solutions",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:31:12+00:00",
-      "title": "Dow hits record, Palantir stock jumps 16% on Q2 earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:30:00+00:00",
-      "title": "Amazon and Microsoft Gained a Combined $1.04 Trillion in Market Cap in 2 Days, While Apple and Meta Platforms Lost $510 Billion. Meet the Vanguard ETF That's Built for This Exact Market.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:13:34+00:00",
-      "title": "Bezos Sells $4 Billion In Amazon Stock As It Hits $3 Trillion For First Time. Cramer Calls It A “Buzzkill.”",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:05:00+00:00",
-      "title": "Tesla Trades at 140 Times Forward Earnings. Here's What Has to Go Right to Justify This Valuation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:35:00+00:00",
-      "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:30:00+00:00",
-      "title": "Uber’s Robotaxi Ambition to Face Scrutiny as Shares Languish",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

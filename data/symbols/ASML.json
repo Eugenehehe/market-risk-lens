@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1642.52,
-    "change_pct": 0.8299570288520464
+    "price": 1692.23,
+    "change_pct": 3.0264471665489623
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T14:01:30.511896+00:00",
-      "close": 1757.09
-    },
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 1757.09
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 1642.52
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 1692.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T12:24:49+00:00",
+      "title": "BE Semiconductor Stock Rises 5% on Berenberg Upgrade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:08:20+00:00",
+      "title": "Micron (MU) vs. ASML (ASML): Which AI Chip Giant Offers the Better Risk-Reward?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T13:39:38+00:00",
       "title": "Semiconductor stocks sink over fears of increased competition from China",
@@ -531,6 +547,14 @@
     },
     {
       "timestamp": "2026-08-03T12:00:00+00:00",
+      "title": "ASML’s Dividend Growth Adds a Quiet Income Angle to Its AI Chip Story",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T12:00:00+00:00",
       "title": "ASML reports transactions under its current share buyback program",
       "source": "Yahoo",
       "event_type": "news",
@@ -541,22 +565,6 @@
       "timestamp": "2026-08-03T09:15:52+00:00",
       "title": "Eaton: Rotating Within The AI Infrastructure Play",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T16:24:00+00:00",
-      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-02T14:30:05+00:00",
-      "title": "Should You Buy Billionaire Investor Stephen Mandel’s Top 5 Stock Picks in August?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

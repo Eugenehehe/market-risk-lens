@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 392.23,
-    "change_pct": 0.7578092889437116
+    "price": 410.83,
+    "change_pct": 4.742115595441443
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T14:01:30.511896+00:00",
-      "close": 381.92
-    },
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 381.92
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 392.23
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 410.83
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T13:30:36+00:00",
+      "title": "1 Reason Wall Street Is Obsessed With This Tech Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:29:52+00:00",
+      "title": "What Could Push Broadcom Stock Higher Is Already Sitting In Its Order Book",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:12:58+00:00",
+      "title": "Broadcom (AVGO) And Google’s $200 Billion AI Build Put Its Chip Role In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:56:26+00:00",
+      "title": "Update: Palantir Earnings Beat, Tech Stock Rally Lift US Equity Futures Pre-Bell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T11:18:06+00:00",
       "title": "How Patience Re-Prices Marvell Technology Stock",
@@ -514,56 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-04T11:00:04+00:00",
+      "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T09:46:59+00:00",
+      "title": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For August 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T04:00:16+00:00",
       "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T22:21:22+00:00",
-      "title": "1 Nasdaq 100 Stock to Target This Week and 2 We Question",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T22:06:11+00:00",
-      "title": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T18:24:25+00:00",
-      "title": "Broadcom Stock Slips After Losing Major EU Antitrust Fight",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T18:00:58+00:00",
-      "title": "AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T17:40:50+00:00",
-      "title": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T15:56:00+00:00",
-      "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

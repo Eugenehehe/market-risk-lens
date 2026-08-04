@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 141.85,
-    "change_pct": 9.224609224609214
+    "price": 145.02,
+    "change_pct": 2.2347550229115276
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T14:01:30.511896+00:00",
-      "close": 114.99
-    },
     {
       "timestamp": "2026-07-26T15:14:29.652629+00:00",
       "close": 114.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 141.85
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 145.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T12:11:00+00:00",
+      "title": "Meta Has the Proof and Oracle Has the Backlog. Neither Has Both.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T10:18:31+00:00",
       "title": "Oracle Shares Jump 9% as AI Momentum and Google Partnership Boost Sentiment",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-03T20:15:00+00:00",
       "title": "CACI Partners with Oracle to Deliver Federal Human Resources IT Modernization to the Office of Personnel Management",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T19:12:22+00:00",
-      "title": "Oracle Is Still Down 28% This Year. What Will It Take to Get ORCL Stock Back to $200?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

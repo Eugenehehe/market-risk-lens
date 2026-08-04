@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:15:14.688131+00:00",
+  "generated_at": "2026-08-04T14:43:28.574527+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 322.08,
-    "change_pct": 3.492818354165994
+    "price": 323.66,
+    "change_pct": 0.4905613512171003
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T15:14:29.652629+00:00",
-      "close": 313.03
-    },
     {
       "timestamp": "2026-07-26T16:15:53.916586+00:00",
       "close": 313.03
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 322.08
+    },
+    {
+      "timestamp": "2026-08-04T14:43:28.574527+00:00",
+      "close": 323.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T13:44:27+00:00",
+      "title": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:28:32+00:00",
+      "title": "Dean of Valuation Aswath Damodaran Raises Alarm Bells for Meta, Alphabet, and Microsoft — Should You Be Worried?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:35:00+00:00",
+      "title": "Why the \"Magnificent Seven\" Trade Is Starting to Fracture, and Where You Should Invest Instead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T12:31:17+00:00",
+      "title": "SpaceX Could Burn Through Billions More as Elon Musk Ramps Up AI Spending With Tesla: Analyst Says Free Cash Flow is 'Just Not Part of the Story'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T11:39:39+00:00",
       "title": "Latest News In Energy Transition - Advantage Renewables Boosts Michigan Grid With Battery Projects",
@@ -522,48 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-04T11:00:05+00:00",
+      "title": "Eli Lilly Ripe for Stock Split After Obesity Drug-Fueled Rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T10:45:32+00:00",
       "title": "Gary Black Says Investors Shouldn't 'Fall in Love' With TSLA Stock, Calls Out 'Cult' Mentality for Attacking Those Who Questions Elon Musk-Led Company",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:39:00+00:00",
-      "title": "How Tesla Stock Could Get a Boost From SpaceX Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:35:16+00:00",
-      "title": "Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T09:15:04+00:00",
-      "title": "Tesla (TSLA) Draws Fresh Optimism, Is The Long Term Upside Already Priced In?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T08:32:38+00:00",
-      "title": "How SpaceX Stock Will Trade After Earnings.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T08:26:19+00:00",
-      "title": "SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
