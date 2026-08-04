@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:10:31.184478+00:00",
+  "generated_at": "2026-08-04T04:31:33.091077+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T07:26:24.632562+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-26T09:34:12.828353+00:00",
       "close": 92.32
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T01:10:31.184478+00:00",
       "close": 91
+    },
+    {
+      "timestamp": "2026-08-04T04:31:33.091077+00:00",
+      "close": 91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T00:15:14+00:00",
+      "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T23:15:29+00:00",
       "title": "Is Intel’s AI PC and Advanced Packaging Ecosystem Shift Altering The Investment Case For Intel (INTC)?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-03T15:56:00+00:00",
       "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T15:31:54+00:00",
-      "title": "Hyperscaler Capex Tops $1.2 Trillion: These Nine Stocks Are Cashing In, BofA Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

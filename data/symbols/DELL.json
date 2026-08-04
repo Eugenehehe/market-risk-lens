@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T01:10:31.184478+00:00",
+  "generated_at": "2026-08-04T04:31:33.091077+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 429.02,
     "change_pct": 5.83417618472013
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T07:26:24.632562+00:00",
-      "close": 437.5
-    },
     {
       "timestamp": "2026-07-26T09:34:12.828353+00:00",
       "close": 437.5
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-04T01:10:31.184478+00:00",
       "close": 429.02
+    },
+    {
+      "timestamp": "2026-08-04T04:31:33.091077+00:00",
+      "close": 429.02
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-03T21:08:02+00:00",
       "title": "Dell (NYSE:DELL) Just Got Closer To June AI Through Michael Dell's Investment",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-03T18:44:19+00:00",
+      "title": "Dell Technologies Stock: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
