@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 469.04,
-    "change_pct": 9.328236445853344
+    "price": 467.27,
+    "change_pct": 8.915668267213661
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T17:28:13.857986+00:00",
-      "close": 437.5
-    },
     {
       "timestamp": "2026-07-26T18:35:11.380424+00:00",
       "close": 437.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 469.04
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 467.27
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-04T16:35:01+00:00",
       "title": "Discover which S&P500 stocks are making waves on Tuesday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T15:11:57+00:00",
+      "title": "AI Token Demand Is Shattering Forecasts",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T11:00:04+00:00",
       "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T07:38:07+00:00",
-      "title": "'Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value' - Bloomberg",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

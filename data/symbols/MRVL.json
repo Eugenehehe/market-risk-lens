@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 220.53,
-    "change_pct": 13.80725067733195
+    "price": 218.59,
+    "change_pct": 12.806089536833953
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T17:28:13.857986+00:00",
-      "close": 194.23
-    },
     {
       "timestamp": "2026-07-26T18:35:11.380424+00:00",
       "close": 194.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 220.53
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 218.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T19:05:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T17:22:16+00:00",
       "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T15:42:00+00:00",
       "title": "Why Silicon Motion Fell 21.1% in the Past Month and What Comes Next",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T15:39:00+00:00",
-      "title": "Can AI Storage Demand Make SIMO a Long-Term Enterprise Winner?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 326.4,
-    "change_pct": 1.3412816691505292
+    "price": 327.35,
+    "change_pct": 1.636239443616505
   },
   "risk": {
-    "score": 61,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T18:35:11.380424+00:00",
-      "close": 313.03
-    },
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 313.03
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 326.4
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 327.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T17:24:55+00:00",
+      "title": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:53:23+00:00",
+      "title": "SpaceX Earnings Due. Fewer Falcon 9 Launches, Tesla Merger, Share Lockup In Focus.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:00:24+00:00",
+      "title": "Tesla vs Amazon: Two Giants, Two AI Bets, One Better Stock to Buy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T15:22:06+00:00",
       "title": "Why Tesla Might Be the Better Elon Musk Stock to Buy on the Way Down",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-04T15:00:00+00:00",
       "title": "SpaceX profitability will come down to Starlink's success: Lee Munson",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T14:02:38+00:00",
-      "title": "Rivian's Improving Quarter Leaned On Help That Is Running Out",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:56:35+00:00",
-      "title": "Record Gas Prices Could Save Tesla",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:54:46+00:00",
-      "title": "Tesla China wholesale EV sales rise 38% in July 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

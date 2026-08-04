@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 575.34,
-    "change_pct": 5.477945220547786
+    "price": 575.71,
+    "change_pct": 5.5457778755545695
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T18:35:11.380424+00:00",
-      "close": 561.19
-    },
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 561.19
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 575.34
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 575.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T15:11:57+00:00",
+      "title": "AI Token Demand Is Shattering Forecasts",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T13:35:43+00:00",
       "title": "Software Just Passed Its First Test",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-04T13:07:57+00:00",
       "title": "ON Semiconductor: Near-Term Headwinds, Long-Term Upside",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T13:07:51+00:00",
+      "title": "S&P 500 Hits Record Highs, Palantir Jumps 27%: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-03T15:55:00+00:00",
       "title": "The Market's Next Move Depends On More Than Earnings",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T12:26:00+00:00",
-      "title": "New Month Kicks Off On The Upside",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T11:32:38+00:00",
-      "title": "If You Don't Buy This Market, Someone Else Will",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

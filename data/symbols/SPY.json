@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 772,
-    "change_pct": 1.8913247192049454
+    "price": 771.33,
+    "change_pct": 1.8028957197724793
   },
   "risk": {
-    "score": 66,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T18:35:11.380424+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-26T19:49:45.703400+00:00",
       "close": 738.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 772
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 771.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T15:14:40+00:00",
+      "title": "The AI Boom Isn't An Investment Boom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T15:14:16+00:00",
       "title": "Corning Dropped 25% Over a Month: A Major U.S. Bank Expects 66% Gains Over The Near Term",
@@ -514,9 +522,33 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-04T15:01:00+00:00",
+      "title": "Asset Class Scoreboard: July 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T14:37:00+00:00",
       "title": "Here's Why You Should Buy Quality ETFs Now",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T14:35:00+00:00",
+      "title": "The AI Selloff Is Missing The Bigger Story",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T14:28:51+00:00",
+      "title": "'White House Plans To Keep AI Framework Under Wraps' - Axios",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-04T13:32:13+00:00",
       "title": "What SCHD's Own History Suggests About Its Price Today",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:28:21+00:00",
-      "title": "A Two Way Yen: No Carry Crash For The US Markets, And HEWJ Over EWJ",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:14:39+00:00",
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:23:34+00:00",
-      "title": "Broad Rebound Pulls Market Breadth Back to Neutral",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:04:35+00:00",
-      "title": "Trump Administration Preparing To Set Price Floor, Tariffs On Imports Of Polysilicon And Derivative Products Used In Chips And Solar Panels",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 147.05,
-    "change_pct": 3.6658442016214376
+    "price": 145.72,
+    "change_pct": 2.728234050052869
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T17:28:13.857986+00:00",
-      "close": 114.99
-    },
     {
       "timestamp": "2026-07-26T18:35:11.380424+00:00",
       "close": 114.99
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 147.05
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 145.72
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-04T17:32:00+00:00",
+      "title": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T17:19:55+00:00",
+      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T17:19:18+00:00",
+      "title": "Analysis-Oracle Corp goes for high-stakes ratings gamble in AI strategy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T17:13:42+00:00",
+      "title": "Oracle (ORCL) Could Be 26% Undervalued Following Federal HR Contract Win",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:47:00+00:00",
+      "title": "Chart Storm: 10 Reasons AI Stocks Have Bottomed",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:38:48+00:00",
+      "title": "NVIDIA Facing 12-to-1 Demand to Supply for its Chips, Says Expert—and It Might Be Time to Buy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T16:33:00+00:00",
+      "title": "Snowflake Trades at a Premium Valuation: Hold or Fold the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-04T15:14:58+00:00",
       "title": "Oracle's AI Bet Is Starting to Alarm the Credit Market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T15:12:37+00:00",
-      "title": "Oracle vs Amazon: Wall Street Strategist Picks the AI Trade’s Winner and Loser",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T15:00:00+00:00",
-      "title": "Matillion Names Data Integration Pioneer Girish Pancha as CEO to Lead the AI Data Automation Revolution",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T14:30:41+00:00",
-      "title": "Microsoft Price Prediction: After a 25% Three-Day Rally, Here’s Where The Stock is Headed",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T14:25:15+00:00",
-      "title": "Oracle's AI Build-Out Is Squeezing Gross Margin, Not Its Valuation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:48:59+00:00",
-      "title": "How Much Upside Can ADBE Stock's Growth Deliver?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:35:43+00:00",
-      "title": "Software Just Passed Its First Test",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:35:14+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

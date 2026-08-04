@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T18:15:03.791319+00:00",
+  "generated_at": "2026-08-04T20:02:08.124831+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 496.64,
-    "change_pct": 1.8435353224648843
+    "price": 492.81,
+    "change_pct": 1.0581359581667282
   },
   "risk": {
-    "score": 65,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T17:28:13.857986+00:00",
-      "close": 381.7
-    },
     {
       "timestamp": "2026-07-26T18:35:11.380424+00:00",
       "close": 381.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 496.64
+    },
+    {
+      "timestamp": "2026-08-04T20:02:08.124831+00:00",
+      "close": 492.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T18:05:01+00:00",
+      "title": "Looking for the most active stocks in the S&P500 index on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T17:32:00+00:00",
       "title": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T16:40:04+00:00",
       "title": "Tuesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T16:38:48+00:00",
-      "title": "NVIDIA Facing 12-to-1 Demand to Supply for its Chips, Says Expert—and It Might Be Time to Buy",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
