@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T10:04:28.240595+00:00",
+  "generated_at": "2026-08-04T12:15:14.688131+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 50.24,
     "change_pct": 4.885177453027145
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T12:14:15.756392+00:00",
-      "close": 47.69
-    },
     {
       "timestamp": "2026-07-26T14:01:30.511896+00:00",
       "close": 47.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T10:04:28.240595+00:00",
       "close": 50.24
+    },
+    {
+      "timestamp": "2026-08-04T12:15:14.688131+00:00",
+      "close": 50.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T11:25:11+00:00",
+      "title": "The Price of Reinvention for SanDisk Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-03T15:30:00+00:00",
       "title": "HCLTech completes acquisition of HPE's Telco Solutions business",
