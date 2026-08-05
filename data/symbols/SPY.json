@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 771.33,
-    "change_pct": 1.8028957197724793
+    "price": 775.46,
+    "change_pct": 0.5354387875487809
   },
   "risk": {
-    "score": 65,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 738.7
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 771.33
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 775.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T13:10:15+00:00",
+      "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Amid Corporate Earnings, Hormuz Reopening Hopes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:45:50+00:00",
+      "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:42:08+00:00",
+      "title": "What Happens When Stock Implied Volatility Outpaces the SPY",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T09:50:00+00:00",
+      "title": "Two 8% Yielding Retirement Holdings Just Got Cheaper",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T09:29:37+00:00",
+      "title": "Back From My Japan Vacation: On-The-Ground Economic Insights And Favorite Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T08:57:52+00:00",
+      "title": "A Note Of Caution About September",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T07:05:00+00:00",
       "title": "S&P 500 Sees AI Bubble Deflate As Index Regresses Toward Its Mean Trend",
@@ -517,54 +565,6 @@
       "timestamp": "2026-08-05T06:30:00+00:00",
       "title": "Chart Of The Day: One Index, Two ETFs, One Important Story",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T04:20:00+00:00",
-      "title": "The Fed Holds, But Bond Volatility Breaks Higher",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T02:10:00+00:00",
-      "title": "Parsing The Relationship Between Demographics And Inflation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T02:10:00+00:00",
-      "title": "August Market Digest",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T01:40:00+00:00",
-      "title": "Manufacturing Growth Returns To ASEAN Region As U.S. Factories Report Slowdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T22:59:01+00:00",
-      "title": "The Dow Just Gained 1000 Points for the 27th Day Ever. 25 of These Days Happened Under Donald Trump.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T22:45:34+00:00",
-      "title": "US Stock Futures Flat After S&P500, Dow End At Record Highs On Strong Earnings, Easing Geopolitical Concerns — PLTR, AZN, CMG, MRNA In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

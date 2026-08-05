@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1711.89,
-    "change_pct": 4.223388451891008
+    "price": 1695.79,
+    "change_pct": -0.940480988848591
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 1757.09
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 1757.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 1711.89
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 1695.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T13:33:16+00:00",
+      "title": "Could ASML Holding N.V. (ASML) Be the Most Durable Winner From the AI Chip Boom?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T07:30:00+00:00",
       "title": "Megacap Earnings: Who Gets Paid When They Build?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-03T13:39:38+00:00",
       "title": "Semiconductor stocks sink over fears of increased competition from China",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T13:35:15+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 723.85,
-    "change_pct": 3.3968031768251805
+    "price": 725.62,
+    "change_pct": 0.24452579954410414
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 684.23
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 684.23
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 723.85
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 725.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:45:50+00:00",
+      "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T09:29:37+00:00",
+      "title": "Back From My Japan Vacation: On-The-Ground Economic Insights And Favorite Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T08:57:52+00:00",
+      "title": "A Note Of Caution About September",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T04:20:00+00:00",
       "title": "The Fed Holds, But Bond Volatility Breaks Higher",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-04T16:35:28+00:00",
       "title": "Forget Trump, Warsh Is The Real Threat",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T15:14:40+00:00",
-      "title": "The AI Boom Isn't An Investment Boom",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T14:35:00+00:00",
-      "title": "The AI Selloff Is Missing The Bigger Story",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:35:43+00:00",
-      "title": "Software Just Passed Its First Test",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

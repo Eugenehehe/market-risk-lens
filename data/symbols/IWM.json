@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 301.71,
-    "change_pct": 1.8533522382013112
+    "price": 302.69,
+    "change_pct": 0.324815219913166
   },
   "risk": {
-    "score": 65,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 291.17
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 291.17
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 301.71
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 302.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:45:50+00:00",
+      "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T08:57:52+00:00",
+      "title": "A Note Of Caution About September",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T06:30:00+00:00",
       "title": "Chart Of The Day: One Index, Two ETFs, One Important Story",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-04T15:14:40+00:00",
       "title": "The AI Boom Isn't An Investment Boom",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T14:35:00+00:00",
-      "title": "The AI Selloff Is Missing The Bigger Story",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:28:21+00:00",
-      "title": "A Two Way Yen: No Carry Crash For The US Markets, And HEWJ Over EWJ",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.74,
-    "change_pct": 2.7423334508283492
+    "price": 144.96,
+    "change_pct": -0.535199670646358
   },
   "risk": {
-    "score": 72,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 114.99
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 114.99
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 145.74
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 144.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T13:03:00+00:00",
+      "title": "BillingPlatform Expands Executive Team with Three Industry Veterans to Accelerate AI-Native Platform Strategy and Scale its Market Advantage",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:35:43+00:00",
+      "title": "Oracle Stock Tumbles as Debt Risk Just Hit a Record High",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T09:30:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron and Oracle",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T08:55:19+00:00",
       "title": "Michael Burry Exits MSFT, Closes ORCL Short Position – Why He Changed His Tech Trades?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-05T00:04:25+00:00",
       "title": "The Hackett Group Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T21:45:03+00:00",
-      "title": "Oracle (ORCL) Outpaces Stock Market Gains: What You Should Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T21:32:00+00:00",
-      "title": "AMD Stock Slides After Solid  Earnings Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T20:42:00+00:00",
-      "title": "Top Stock Reports for Berkshire Hathaway, Micron & Oracle",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

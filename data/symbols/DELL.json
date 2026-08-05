@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 467.27,
-    "change_pct": 8.915668267213661
+    "price": 480.1,
+    "change_pct": 2.7457358700537338
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 437.5
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 437.5
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 467.27
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 480.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:07:15+00:00",
+      "title": "Dell Stock Surged 260% This Year, and Here’s All the Reasons Why",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T11:59:31+00:00",
+      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Archer-Daniels Midland, Best Buy, Burlington Stores, Dell Technologies, e.l.f. Beauty, Humana, Transdigm, Vale, and More",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T11:05:00+00:00",
+      "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:09:56+00:00",
+      "title": "Is Dell (DELL) Quietly Becoming the Backbone of AI Infrastructure Across Sectors?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T08:22:49+00:00",
       "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-04T20:10:11+00:00",
       "title": "Analyst Makes Bold Dell Call Ahead of Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T19:56:41+00:00",
-      "title": "This Analyst Just Cut His Price Target on Dell Stock. Here's Why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T19:10:35+00:00",
-      "title": "Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T18:40:00+00:00",
-      "title": "Dell: Record Backlogs & Surging AI Server Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:52:01+00:00",
-      "title": "NetApp's Buyback Is Better Funded Than It Is Big",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

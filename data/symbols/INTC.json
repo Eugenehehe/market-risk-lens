@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 100.86,
-    "change_pct": 10.835164835164846
+    "price": 99.31,
+    "change_pct": -1.536783660519525
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 63,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 92.32
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 100.86
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 99.31
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-05T08:27:09+00:00",
-      "title": "AMD falls as investors seek bigger AI payoff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T00:44:43+00:00",
-      "title": "What Alphabet’s Stock Drop Tells Us About the Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T22:11:45+00:00",
-      "title": "Is Intel (INTC) Fairly Valued Following Q2 Guidance And AI Partnership Updates?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T21:05:01+00:00",
-      "title": "Discover the top S&P500 movers in Tuesday's after-hours session.",
+      "timestamp": "2026-08-05T12:35:01+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-04T20:51:08+00:00",
-      "title": "Marvell Technology Stock Is On Sale, But Is It A Bargain?",
+      "timestamp": "2026-08-05T12:18:00+00:00",
+      "title": "SpaceX, Nvidia, AMD, Eli Lilly, Uber, CVS, Disney, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-04T20:27:13+00:00",
-      "title": "Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism",
+      "timestamp": "2026-08-05T11:10:00+00:00",
+      "title": "Is Super Micro Computer (SMCI) Fully Valued On Its New AI Server Push?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-04T19:59:01+00:00",
-      "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
+      "timestamp": "2026-08-05T11:05:00+00:00",
+      "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-04T19:53:22+00:00",
-      "title": "Intel's Packaging Progress Points to Google",
+      "timestamp": "2026-08-05T10:41:57+00:00",
+      "title": "AI and Chip Stocks Drop After Musk's Nvidia Bombshell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:27:00+00:00",
+      "title": "AMD, Nvidia, Intel, Booking, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T09:33:57+00:00",
+      "title": "How Intel's Earnings Turned AMD's Beat Into A Sell-Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T08:27:09+00:00",
+      "title": "AMD falls as investors seek bigger AI payoff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

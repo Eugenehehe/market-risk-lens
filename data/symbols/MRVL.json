@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 218.59,
-    "change_pct": 12.806089536833953
+    "price": 216.16,
+    "change_pct": -1.111670250240182
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 194.23
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 194.23
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 218.59
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 216.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:11:18+00:00",
+      "title": "Amazon’s AWS CEO Just Sent Shivers Down the Spines of AI Bears. Supply is Mostly ‘Spoken For’ Through 2028.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:00:00+00:00",
+      "title": "Semiconductor Rally Powers S&P 500 to Fresh Record High",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:41:57+00:00",
+      "title": "AI and Chip Stocks Drop After Musk's Nvidia Bombshell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T09:00:00+00:00",
       "title": "Marvel Biosciences Reports Positive Preclinical Data Demonstrating MB-204 Reverses Behavioural and Cognitive Deficits in a Mouse Model of Fragile X",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-04T19:05:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T18:25:00+00:00",
-      "title": "SpaceX, Palantir, AMD, Marvell,  Caterpillar, Pfizer, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:30:02+00:00",
-      "title": "Huge, Unusual Trading in Marvell Technology Call Options -  Investors Are Bullish on MRVL Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:22:16+00:00",
-      "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T12:03:20.623787+00:00",
+  "generated_at": "2026-08-05T14:28:20.201386+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.39,
-    "change_pct": 4.279458598726116
+    "price": 53.35,
+    "change_pct": 1.8324107654132504
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T08:39:37.189670+00:00",
-      "close": 47.69
-    },
     {
       "timestamp": "2026-07-27T11:57:46.206401+00:00",
       "close": 47.69
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 52.39
+    },
+    {
+      "timestamp": "2026-08-05T14:28:20.201386+00:00",
+      "close": 53.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:11:06+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) In Focus As AI Narrative Tests Valuation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T11:45:05+00:00",
+      "title": "NCR Voyix (VYX) Q2 Earnings and Revenues Top Estimates",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:11:35+00:00",
+      "title": "Is Hewlett Packard Enterprise (HPE) Stock A Bargain Or Fully Priced?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T08:22:49+00:00",
       "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-04T15:00:52+00:00",
       "title": "Down 50% in The Year, Is SMCI a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:52:00+00:00",
-      "title": "Should You Reconsider QCOM Stock Amid Downward Estimate Revisions?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:30:00+00:00",
-      "title": "SR Inc Net Zero Consortium for Buyers: Seven-Buyer Aggregation for 180 MW of Millers Branch Solar Now Online",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:25:11+00:00",
-      "title": "The Price of Reinvention for SanDisk Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
