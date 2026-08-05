@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:57:19.212250+00:00",
+  "generated_at": "2026-08-05T12:03:20.623787+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 418.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T04:58:42.441587+00:00",
-      "close": 381.92
-    },
     {
       "timestamp": "2026-07-27T08:39:37.189670+00:00",
       "close": 381.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 418.16
+    },
+    {
+      "timestamp": "2026-08-05T12:03:20.623787+00:00",
+      "close": 418.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T08:23:07+00:00",
+      "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T04:19:26+00:00",
       "title": "I’m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn’t Go To Nvidia",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T18:23:04+00:00",
       "title": "AMD's Q2: Not Good Enough",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:46:20+00:00",
-      "title": "Anthropic's Google Chip Procurement Could Lead To Another $36B Debt Financing Round",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

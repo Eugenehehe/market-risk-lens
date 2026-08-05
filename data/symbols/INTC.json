@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:57:19.212250+00:00",
+  "generated_at": "2026-08-05T12:03:20.623787+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 100.86,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T04:58:42.441587+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-27T08:39:37.189670+00:00",
       "close": 92.32
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 100.86
+    },
+    {
+      "timestamp": "2026-08-05T12:03:20.623787+00:00",
+      "close": 100.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T08:27:09+00:00",
+      "title": "AMD falls as investors seek bigger AI payoff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T00:44:43+00:00",
       "title": "What Alphabet’s Stock Drop Tells Us About the Market Today",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T19:53:22+00:00",
       "title": "Intel's Packaging Progress Points to Google",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T19:05:01+00:00",
-      "title": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:57:19.212250+00:00",
+  "generated_at": "2026-08-05T12:03:20.623787+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 309.38,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T04:58:42.441587+00:00",
-      "close": 333.02
-    },
     {
       "timestamp": "2026-07-27T08:39:37.189670+00:00",
       "close": 333.02
@@ -502,12 +498,48 @@
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 309.38
+    },
+    {
+      "timestamp": "2026-08-05T12:03:20.623787+00:00",
+      "close": 309.38
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-05T09:00:25+00:00",
+      "title": "Corporate America got billions of dollars in tariff refunds. Where’s your cut?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T08:47:00+00:00",
+      "title": "Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fell Anyway.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T07:45:34+00:00",
       "title": "Foxconn's monthly revenue hits record in July on AI demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T07:39:51+00:00",
+      "title": "Apple: I'm Selling Puts Into The Worst Post-Earnings Drop Since 2013",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T07:37:43+00:00",
+      "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-04T21:46:03+00:00",
       "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T21:28:03+00:00",
-      "title": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T20:53:55+00:00",
-      "title": "Google Should Be Forced To Shed Chrome, Advocacy Group Argues",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T20:08:50+00:00",
-      "title": "Apple Scores Major Win in One of Its Biggest Markets",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T20:06:34+00:00",
-      "title": "Apple's India Sales Cross $10 Billion for the First Time",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
