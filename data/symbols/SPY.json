@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T16:16:50.625374+00:00",
+  "generated_at": "2026-08-05T17:57:00.583543+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 770.55,
-    "change_pct": -0.10112403251527624
+    "price": 771.64,
+    "change_pct": 0.04019032061504113
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T16:54:12.651022+00:00",
-      "close": 737.14
-    },
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 737.31
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-05T16:16:50.625374+00:00",
       "close": 770.55
+    },
+    {
+      "timestamp": "2026-08-05T17:57:00.583543+00:00",
+      "close": 771.64
     }
   ],
   "events": [
@@ -522,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-05T12:45:00+00:00",
+      "title": "U.S. Service Sector Remains Robust, But Hiring Weakness Persists",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T12:42:08+00:00",
       "title": "What Happens When Stock Implied Volatility Outpaces the SPY",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:07:26+00:00",
+      "title": "CII: No Bargain, But It Continues To Provide Strong Performance",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-05T10:42:55+00:00",
       "title": "REIT Organic Growth Will Accelerate From A Supply Shift",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:50:00+00:00",
-      "title": "Two 8% Yielding Retirement Holdings Just Got Cheaper",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:29:37+00:00",
-      "title": "Back From My Japan Vacation: On-The-Ground Economic Insights And Favorite Stocks",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

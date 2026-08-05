@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T16:16:50.625374+00:00",
+  "generated_at": "2026-08-05T17:57:00.583543+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 720.21,
-    "change_pct": -0.5028666160115991
+    "price": 720.83,
+    "change_pct": -0.4172135110865449
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T14:53:11.595853+00:00",
-      "close": 680.39
-    },
     {
       "timestamp": "2026-07-27T16:54:12.651022+00:00",
       "close": 678.92
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-05T16:16:50.625374+00:00",
       "close": 720.21
+    },
+    {
+      "timestamp": "2026-08-05T17:57:00.583543+00:00",
+      "close": 720.83
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-05T12:45:50+00:00",
       "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:45:00+00:00",
+      "title": "U.S. Service Sector Remains Robust, But Hiring Weakness Persists",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:31:31+00:00",
+      "title": "SpaceX Lockup Expiry Could Send a Gentle Jolt Through QQQ, Nasdaq ETFs",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-05T09:18:06+00:00",
       "title": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T08:57:52+00:00",
-      "title": "A Note Of Caution About September",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T08:41:07+00:00",
-      "title": "Stock Market Today: S&P 500, Dow Futures Gain After Scott Bessent Signals Strait of Hormuz Deal With Iran in Sight— AMD, SpaceX, SanDisk in Focus (UPDATED)",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

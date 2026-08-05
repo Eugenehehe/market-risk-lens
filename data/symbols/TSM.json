@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T16:16:50.625374+00:00",
+  "generated_at": "2026-08-05T17:57:00.583543+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 415.57,
-    "change_pct": -0.3835366876812851
+    "price": 415.51,
+    "change_pct": -0.3979193134693304
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T16:54:12.651022+00:00",
-      "close": 393.92
-    },
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 391.9
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T16:16:50.625374+00:00",
       "close": 415.57
+    },
+    {
+      "timestamp": "2026-08-05T17:57:00.583543+00:00",
+      "close": 415.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:18:58+00:00",
+      "title": "What Is Going on with Taiwan Semiconductor Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T12:14:00+00:00",
+      "title": "Brown Advisory Flexible Equity Strategy Q2 2026 Portfolio Activity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T11:01:11+00:00",
       "title": "AMD Earnings Prediction Market Preview: What Will Lisa Su Say?",
