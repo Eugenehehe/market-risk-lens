@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:11:43.204699+00:00",
+  "generated_at": "2026-08-05T09:57:19.212250+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 771.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T04:58:42.441587+00:00",
-      "close": 738.93
-    },
     {
       "timestamp": "2026-07-27T08:39:37.189670+00:00",
       "close": 738.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T07:11:43.204699+00:00",
       "close": 771.33
+    },
+    {
+      "timestamp": "2026-08-05T09:57:19.212250+00:00",
+      "close": 771.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T04:20:00+00:00",
+      "title": "The Fed Holds, But Bond Volatility Breaks Higher",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T02:10:00+00:00",
       "title": "Parsing The Relationship Between Demographics And Inflation",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T16:35:28+00:00",
       "title": "Forget Trump, Warsh Is The Real Threat",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T16:10:54+00:00",
-      "title": "More Popular Than Tesla and SPY? Micro Cap T3 Defense (DFNS) Soars in Interest on Benzinga",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
