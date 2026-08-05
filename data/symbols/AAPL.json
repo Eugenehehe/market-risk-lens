@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 307.71,
-    "change_pct": -0.5397892559312223
+    "price": 309.12,
+    "change_pct": -0.0840390458335949
   },
   "risk": {
-    "score": 55,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 333.02
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 336.96
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 307.71
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 309.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T14:28:24+00:00",
+      "title": "The 9th Circuit’s Browser Analogy Leaves a Liability Vacuum",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T14:20:00+00:00",
+      "title": "Departing Apple CEO Tim Cook Just Gave Memory Stocks Good News",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T14:17:01+00:00",
+      "title": "Apple's Buyback Is Retiring Less Stock Just As The Memory Bill Grows",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T13:45:06+00:00",
       "title": "Apple’s purchase commitments jump 28%; BofA sees iPhone ramp ahead",
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-05T10:46:12+00:00",
+      "title": "Apple: Big Tech's AI Boom Offers Mixed Blessings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T10:15:00+00:00",
       "title": "Apple's Quarterly iPhone Sales Were Even Better Than They Seem",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T10:00:00+00:00",
-      "title": "AI CapEx fears: Is big tech overspending?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:30:00+00:00",
-      "title": "Apple's Selloff Is Overdone",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:26:12+00:00",
-      "title": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:25:00+00:00",
-      "title": "From Classrooms To Wall Street: Why Back-To-School Matters More This Year",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 725.62,
-    "change_pct": 0.24452579954410414
+    "price": 720.21,
+    "change_pct": -0.5028666160115991
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 684.23
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 680.39
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 725.62
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 720.21
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-05T12:45:50+00:00",
       "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T11:20:00+00:00",
+      "title": "Robust Earnings Help Boost Markets",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:47:52+00:00",
+      "title": "Palantir's Sovereign AI Is Exactly What Bursts The AI Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:42:55+00:00",
+      "title": "REIT Organic Growth Will Accelerate From A Supply Shift",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-05T09:18:06+00:00",
+      "title": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T08:57:52+00:00",
       "title": "A Note Of Caution About September",
       "source": "SeekingAlpha",
@@ -530,41 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T04:20:00+00:00",
-      "title": "The Fed Holds, But Bond Volatility Breaks Higher",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T02:10:00+00:00",
-      "title": "Parsing The Relationship Between Demographics And Inflation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T02:10:00+00:00",
-      "title": "August Market Digest",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T01:40:00+00:00",
-      "title": "Manufacturing Growth Returns To ASEAN Region As U.S. Factories Report Slowdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T16:35:28+00:00",
-      "title": "Forget Trump, Warsh Is The Real Threat",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-05T08:41:07+00:00",
+      "title": "Stock Market Today: S&P 500, Dow Futures Gain After Scott Bessent Signals Strait of Hormuz Deal With Iran in Sight— AMD, SpaceX, SanDisk in Focus (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

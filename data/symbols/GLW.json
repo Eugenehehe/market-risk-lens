@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 160.18,
-    "change_pct": 0.18137469510288717
+    "price": 158.73,
+    "change_pct": -0.7254987804115265
   },
   "risk": {
-    "score": 52,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 146.65
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 138.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 160.18
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 158.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T08:56:32+00:00",
+      "title": "Corning Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T23:15:27+00:00",
       "title": "Corning (GLW) Faces New Questions As Polysilicon Tariffs And China Curbs Loom",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T13:22:00+00:00",
       "title": "Marvell, Corning, and Lumentum Stocks Surge on Report of China Import Ban",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:35:00+00:00",
-      "title": "Tuesday's pre-market session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

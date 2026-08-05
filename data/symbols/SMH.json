@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 576.28,
-    "change_pct": 0.09900818120232024
+    "price": 574.25,
+    "change_pct": -0.25359990272880717
   },
   "risk": {
-    "score": 51,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T14:53:11.595853+00:00",
-      "close": 545.25
-    },
     {
       "timestamp": "2026-07-27T16:54:12.651022+00:00",
       "close": 542.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 576.28
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 574.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T10:47:52+00:00",
+      "title": "Palantir's Sovereign AI Is Exactly What Bursts The AI Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T15:11:57+00:00",
       "title": "AI Token Demand Is Shattering Forecasts",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T09:54:05+00:00",
       "title": "AIS: A Primer On The VistaShares Artificial Intelligence Supercycle ETF",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-03T15:55:00+00:00",
-      "title": "The Market's Next Move Depends On More Than Earnings",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

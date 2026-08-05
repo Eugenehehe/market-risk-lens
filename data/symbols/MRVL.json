@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 216.16,
-    "change_pct": -1.111670250240182
+    "price": 215.95,
+    "change_pct": -1.2077405187794543
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 194.23
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 187.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 216.16
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 215.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T15:00:06+00:00",
+      "title": "The Ultimate Bull Case for NVIDIA Is Here: Their Powerful B200 Systems Are Sold Out",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T12:11:18+00:00",
       "title": "Amazon’s AWS CEO Just Sent Shivers Down the Spines of AI Bears. Supply is Mostly ‘Spoken For’ Through 2028.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T20:51:08+00:00",
       "title": "Marvell Technology Stock Is On Sale, But Is It A Bargain?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T19:05:01+00:00",
-      "title": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 480.1,
-    "change_pct": 2.7457358700537338
+    "price": 470.25,
+    "change_pct": 0.6377469129197344
   },
   "risk": {
-    "score": 72,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 437.5
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 421.37
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 480.1
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 470.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T14:27:00+00:00",
+      "title": "HPE Surges 21% in a Month: Should You Buy, Sell or Hold the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T14:17:01+00:00",
+      "title": "Apple's Buyback Is Retiring Less Stock Just As The Memory Bill Grows",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T13:15:05+00:00",
+      "title": "Dell Technologies Inc. (DELL) Hits Fresh High: Is There Still Room to Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T12:07:15+00:00",
       "title": "Dell Stock Surged 260% This Year, and Here’s All the Reasons Why",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-05T08:22:49+00:00",
       "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T02:57:16+00:00",
-      "title": "Why Did DELL, S, DDOG Stocks Surge To 52-Week Highs Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T20:50:09+00:00",
-      "title": "Stock Market Today: Dow, S&P 500 Hit New Highs; SpaceX Jumps Ahead Of Q2 Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T20:10:11+00:00",
-      "title": "Analyst Makes Bold Dell Call Ahead of Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

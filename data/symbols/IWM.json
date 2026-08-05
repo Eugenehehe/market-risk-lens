@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 302.69,
-    "change_pct": 0.324815219913166
+    "price": 300.63,
+    "change_pct": -0.3579596301083732
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 291.17
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 292.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 302.69
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 300.63
     }
   ],
   "events": [
@@ -509,6 +509,38 @@
       "timestamp": "2026-08-05T12:45:50+00:00",
       "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T11:20:00+00:00",
+      "title": "Robust Earnings Help Boost Markets",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:47:52+00:00",
+      "title": "Palantir's Sovereign AI Is Exactly What Bursts The AI Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:42:55+00:00",
+      "title": "REIT Organic Growth Will Accelerate From A Supply Shift",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T09:18:06+00:00",
+      "title": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-05T02:10:00+00:00",
       "title": "Parsing The Relationship Between Demographics And Inflation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T02:10:00+00:00",
-      "title": "August Market Digest",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T01:40:00+00:00",
-      "title": "Manufacturing Growth Returns To ASEAN Region As U.S. Factories Report Slowdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T16:35:28+00:00",
-      "title": "Forget Trump, Warsh Is The Real Threat",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T15:14:40+00:00",
-      "title": "The AI Boom Isn't An Investment Boom",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

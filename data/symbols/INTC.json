@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 99.31,
-    "change_pct": -1.536783660519525
+    "price": 101.04,
+    "change_pct": 0.17846519928614857
   },
   "risk": {
-    "score": 63,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 92.32
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 89.34
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 99.31
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 101.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T14:53:26+00:00",
+      "title": "Wall Street Sold Off Intel After Its Earnings. But the Company Is Setting Up a Monster 2027.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T14:20:36+00:00",
+      "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T14:06:05+00:00",
+      "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T13:52:00+00:00",
+      "title": "Jabil Surges 31.6% in Past Six Months: Reason to Buy the Stock Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T13:50:22+00:00",
+      "title": "Intel Diversifies The Direction Of Your Returns, Not Their Size",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T12:35:01+00:00",
       "title": "Wondering what's happening in today's S&P500  pre-market session?",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-08-05T11:10:00+00:00",
       "title": "Is Super Micro Computer (SMCI) Fully Valued On Its New AI Server Push?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T11:05:00+00:00",
-      "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T10:41:57+00:00",
-      "title": "AI and Chip Stocks Drop After Musk's Nvidia Bombshell",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T10:27:00+00:00",
-      "title": "AMD, Nvidia, Intel, Booking, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:33:57+00:00",
-      "title": "How Intel's Earnings Turned AMD's Beat Into A Sell-Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T08:27:09+00:00",
-      "title": "AMD falls as investors seek bigger AI payoff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

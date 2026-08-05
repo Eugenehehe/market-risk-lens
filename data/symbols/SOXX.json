@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 536.78,
-    "change_pct": -1.001457000055339
+    "price": 535.31,
+    "change_pct": -1.2725696685786159
   },
   "risk": {
-    "score": 59,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T14:53:11.595853+00:00",
-      "close": 510.61
-    },
     {
       "timestamp": "2026-07-27T16:54:12.651022+00:00",
       "close": 507.72
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 536.78
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 535.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T09:18:06+00:00",
+      "title": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T05:33:57+00:00",
+      "title": "How Intel's Earnings Turned AMD's Beat Into A Sell-Off",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T16:19:46+00:00",
       "title": "SOXL: The 31% Selloff Has Reset The Semiconductor Bull Trade",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-04T10:03:28+00:00",
       "title": "The Chip Selloff Didn’t Scare Investors: SOXX Drew Record $6.9 Billion In July",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T09:54:05+00:00",
-      "title": "AIS: A Primer On The VistaShares Artificial Intelligence Supercycle ETF",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T06:34:31+00:00",
-      "title": "AMD Stock Is Gaining Tuesday: What's Going On?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

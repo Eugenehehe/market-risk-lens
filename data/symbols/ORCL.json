@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T14:28:20.201386+00:00",
+  "generated_at": "2026-08-05T16:16:50.625374+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.96,
-    "change_pct": -0.535199670646358
+    "price": 144.29,
+    "change_pct": -0.9949224646631061
   },
   "risk": {
-    "score": 55,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T11:57:46.206401+00:00",
-      "close": 114.99
-    },
     {
       "timestamp": "2026-07-27T14:53:11.595853+00:00",
       "close": 120.4
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 144.96
+    },
+    {
+      "timestamp": "2026-08-05T16:16:50.625374+00:00",
+      "close": 144.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T14:53:54+00:00",
+      "title": "SpaceX Has Already Lost AI Race",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T14:30:00+00:00",
+      "title": "Microsoft Azure Fiscal 2026 Sales Exceed $100B: Hold the Stock Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T13:03:00+00:00",
       "title": "BillingPlatform Expands Executive Team with Three Industry Veterans to Accelerate AI-Native Platform Strategy and Scale its Market Advantage",
@@ -522,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-05T11:53:40+00:00",
+      "title": "The 'Problem' With AMD's Guidance",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T10:47:52+00:00",
+      "title": "Palantir's Sovereign AI Is Exactly What Bursts The AI Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T09:30:00+00:00",
       "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron and Oracle",
       "source": "Yahoo",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-05T08:55:19+00:00",
       "title": "Michael Burry Exits MSFT, Closes ORCL Short Position – Why He Changed His Tech Trades?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T06:50:00+00:00",
-      "title": "AMD's problem is not demand. It is where the demand comes from",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T06:00:00+00:00",
-      "title": "Think Tech Is Spending Too Much? There’s Trillions More to Come.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T04:30:00+00:00",
-      "title": "[Latest] Global eClinical Solutions Market Size/Share Worth USD 42.55 Billion by 2035 at a 13.98% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T00:04:25+00:00",
-      "title": "The Hackett Group Q2 Earnings Call Highlights",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
