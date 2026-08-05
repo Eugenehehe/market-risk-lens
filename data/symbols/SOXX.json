@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T17:57:00.583543+00:00",
+  "generated_at": "2026-08-05T19:42:34.354273+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 535.86,
-    "change_pct": -1.1711329558658168
+    "price": 537.14,
+    "change_pct": -0.9350620608251536
   },
   "risk": {
-    "score": 60,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 507.7
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 516.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T17:57:00.583543+00:00",
       "close": 535.86
+    },
+    {
+      "timestamp": "2026-08-05T19:42:34.354273+00:00",
+      "close": 537.14
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T12:30:51+00:00",
+      "title": "What Is Going on With Intel Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T09:18:06+00:00",
       "title": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T10:51:31+00:00",
       "title": "Big Tech's $1.2 Trillion Hyperscaler AI Bet Could Ignite the Next Semiconductor ETF Rally",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:09:02+00:00",
-      "title": "Intel Stock Up Nearly 8%: AI Growth Narrative Trumps Foundry Capex Concerns",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

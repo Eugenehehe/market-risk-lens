@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T17:57:00.583543+00:00",
+  "generated_at": "2026-08-05T19:42:34.354273+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 301.26,
-    "change_pct": -0.14914984587849345
+    "price": 300.27,
+    "change_pct": -0.47727950681117903
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T16:54:12.651022+00:00",
-      "close": 292.15
-    },
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 292.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T17:57:00.583543+00:00",
       "close": 301.26
+    },
+    {
+      "timestamp": "2026-08-05T19:42:34.354273+00:00",
+      "close": 300.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T14:14:20+00:00",
+      "title": "Gold Jumps 4%, Dow Jones Smashes Record Highs: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T12:45:50+00:00",
       "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-05T08:57:52+00:00",
       "title": "A Note Of Caution About September",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T06:30:00+00:00",
-      "title": "Chart Of The Day: One Index, Two ETFs, One Important Story",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

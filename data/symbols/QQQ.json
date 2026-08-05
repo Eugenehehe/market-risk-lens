@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T17:57:00.583543+00:00",
+  "generated_at": "2026-08-05T19:42:34.354273+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 720.83,
-    "change_pct": -0.4172135110865449
+    "price": 720.23,
+    "change_pct": -0.5001036126269232
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T16:54:12.651022+00:00",
-      "close": 678.92
-    },
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 678.97
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T17:57:00.583543+00:00",
       "close": 720.83
+    },
+    {
+      "timestamp": "2026-08-05T19:42:34.354273+00:00",
+      "close": 720.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T14:14:20+00:00",
+      "title": "Gold Jumps 4%, Dow Jones Smashes Record Highs: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T13:17:26+00:00",
+      "title": "SpaceX Chooses Nvidia; Short Squeeze Drives Market Rally, But Extreme Positive Sentiment Flashes Warning",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T12:45:50+00:00",
       "title": "Broad Rally Lifts Market Breadth to a Positive Bias",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-05T10:42:55+00:00",
       "title": "REIT Organic Growth Will Accelerate From A Supply Shift",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:29:37+00:00",
-      "title": "Back From My Japan Vacation: On-The-Ground Economic Insights And Favorite Stocks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T09:18:06+00:00",
-      "title": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

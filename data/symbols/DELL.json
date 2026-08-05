@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T17:57:00.583543+00:00",
+  "generated_at": "2026-08-05T19:42:34.354273+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 478.77,
-    "change_pct": 2.461103858582825
+    "price": 470.97,
+    "change_pct": 0.7918334153701467
   },
   "risk": {
-    "score": 70,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T16:54:12.651022+00:00",
-      "close": 423.83
-    },
     {
       "timestamp": "2026-07-27T18:22:42.173122+00:00",
       "close": 419.31
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T17:57:00.583543+00:00",
       "close": 478.77
+    },
+    {
+      "timestamp": "2026-08-05T19:42:34.354273+00:00",
+      "close": 470.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T16:27:00+00:00",
+      "title": "Penguin Stock Slides 15% in a Month: Should You Buy the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T14:27:00+00:00",
       "title": "HPE Surges 21% in a Month: Should You Buy, Sell or Hold the Stock?",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-05T14:17:01+00:00",
       "title": "Apple's Buyback Is Retiring Less Stock Just As The Memory Bill Grows",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T13:35:14+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T11:05:00+00:00",
-      "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T10:09:56+00:00",
-      "title": "Is Dell (DELL) Quietly Becoming the Backbone of AI Infrastructure Across Sectors?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T08:22:49+00:00",
-      "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
+      "timestamp": "2026-08-05T11:30:02+00:00",
+      "title": "Dell and Super Micro Are Both Growing Fast. The Market Is Telling You to Buy 1.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
