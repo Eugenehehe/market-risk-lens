@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T19:42:34.354273+00:00",
+  "generated_at": "2026-08-05T20:47:15.332437+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1698.6,
-    "change_pct": -0.7763349280619725
+    "price": 1678.22,
+    "change_pct": -1.9668319810268176
   },
   "risk": {
-    "score": 57,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 1636.88
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 1655.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 1698.6
+    },
+    {
+      "timestamp": "2026-08-05T20:47:15.332437+00:00",
+      "close": 1678.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T19:37:00+00:00",
+      "title": "Will ASML Split Its Stock This Year?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T15:00:06+00:00",
       "title": "The Ultimate Bull Case for NVIDIA Is Here: Their Powerful B200 Systems Are Sold Out",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T12:24:49+00:00",
       "title": "BE Semiconductor Stock Rises 5% on Berenberg Upgrade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T12:08:20+00:00",
-      "title": "Micron (MU) vs. ASML (ASML): Which AI Chip Giant Offers the Better Risk-Reward?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

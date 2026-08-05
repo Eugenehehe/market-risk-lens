@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T19:42:34.354273+00:00",
+  "generated_at": "2026-08-05T20:47:15.332437+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 271.48,
-    "change_pct": -2.1411578112609075
+    "price": 272.65,
+    "change_pct": -1.7194146060125592
   },
   "risk": {
-    "score": 68,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 231.83
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 231.39
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 271.48
+    },
+    {
+      "timestamp": "2026-08-05T20:47:15.332437+00:00",
+      "close": 272.65
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-05T19:15:36+00:00",
+      "title": "The companies emerging as new leaders in this renewed AI rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T19:10:05+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T18:52:01+00:00",
+      "title": "Airbnb vs. Axon Enterprise: Which Consumer Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T18:27:00+00:00",
+      "title": "Boeing-Lockheed Martin’s ULA said to plan $500m private bond sale",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T18:08:58+00:00",
+      "title": "Just How Wide Is the Range of Outcomes for Netflix Stock?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-05T17:40:00+00:00",
       "title": "Alphabet, Microsoft, Amazon, and Oracle Just Gained $1.9 Trillion in 3 Days. Here's Why Microsoft's Run Isn't Over.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T17:31:00+00:00",
-      "title": "Beyond Capex: Big Tech Quietly Locks In $2.7 Trillion in Long-Term Commitments",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T17:29:00+00:00",
-      "title": "Uber’s Ride-Sharing Business Is Booming. Why the Stock Market Couldn’t Care Less.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T17:27:00+00:00",
-      "title": "Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T17:04:56+00:00",
-      "title": "Amazon (AMZN) Booked a $53.4 Billion Gain, Mostly From Anthropic, While Alphabet (GOOGL) Weighs a $15 Billion Commitment",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

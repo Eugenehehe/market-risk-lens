@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T19:42:34.354273+00:00",
+  "generated_at": "2026-08-05T20:47:15.332437+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 490.27,
-    "change_pct": -0.5154116190824065
+    "price": 487.46,
+    "change_pct": -1.0856110874373548
   },
   "risk": {
-    "score": 55,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 393.23
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 389.1
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 490.27
+    },
+    {
+      "timestamp": "2026-08-05T20:47:15.332437+00:00",
+      "close": 487.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T19:44:59+00:00",
+      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T19:15:36+00:00",
+      "title": "The companies emerging as new leaders in this renewed AI rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T19:10:05+00:00",
       "title": "What's going on in today's session: dow jones movers",
@@ -514,57 +530,41 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T17:47:00+00:00",
-      "title": "Big Tech's blowout profits hide an uncomfortable truth",
+      "timestamp": "2026-08-05T18:30:05+00:00",
+      "title": "Alphabet Is Still Up 16% in 2026. What Will It Take to Get GOOGL Stock Above $400?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T17:40:00+00:00",
-      "title": "Alphabet, Microsoft, Amazon, and Oracle Just Gained $1.9 Trillion in 3 Days. Here's Why Microsoft's Run Isn't Over.",
+      "timestamp": "2026-08-05T18:20:00+00:00",
+      "title": "ServiceNow Drops 23% Year to Date: Time to Hold the Stock or Fold?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T17:31:00+00:00",
-      "title": "Beyond Capex: Big Tech Quietly Locks In $2.7 Trillion in Long-Term Commitments",
+      "timestamp": "2026-08-05T18:07:00+00:00",
+      "title": "IREN Signed $2.8 Billion in New AI Contracts. The Whole Company Is Worth About $15 Billion.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T17:27:00+00:00",
-      "title": "Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks",
+      "timestamp": "2026-08-05T18:06:51+00:00",
+      "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-05T16:50:00+00:00",
-      "title": "Dan Ives Says Software Stocks Just Saw Their Most Disconnected Sell-Off Since the Late 1990s. Here's Why He's Still Bullish.",
+      "timestamp": "2026-08-05T17:50:00+00:00",
+      "title": "OpenAI's Sam Altman Says the AI \"Singularity\" Has Arrived. Here's What That Could Mean for Nvidia and Microsoft Stock.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T16:44:01+00:00",
-      "title": "Why the Dow Is Outperforming Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T16:40:04+00:00",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

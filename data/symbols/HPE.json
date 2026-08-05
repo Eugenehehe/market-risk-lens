@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T19:42:34.354273+00:00",
+  "generated_at": "2026-08-05T20:47:15.332437+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 53.91,
-    "change_pct": 2.901317045237639
+    "price": 53.22,
+    "change_pct": 1.5842718075968598
   },
   "risk": {
-    "score": 74,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 47.1
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 48.19
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 53.91
+    },
+    {
+      "timestamp": "2026-08-05T20:47:15.332437+00:00",
+      "close": 53.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T19:15:36+00:00",
+      "title": "The companies emerging as new leaders in this renewed AI rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T17:44:00+00:00",
+      "title": "Rigetti Expands Hybrid Quantum HPC Push With New NSF Project",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T16:27:00+00:00",
       "title": "Penguin Stock Slides 15% in a Month: Should You Buy the Dip?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-05T10:11:35+00:00",
       "title": "Is Hewlett Packard Enterprise (HPE) Stock A Bargain Or Fully Priced?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T08:22:49+00:00",
-      "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:52:01+00:00",
-      "title": "NetApp's Buyback Is Better Funded Than It Is Big",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

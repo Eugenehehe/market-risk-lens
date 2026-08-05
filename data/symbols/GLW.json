@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T19:42:34.354273+00:00",
+  "generated_at": "2026-08-05T20:47:15.332437+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 158.66,
-    "change_pct": -0.7692788792294625
+    "price": 156.7,
+    "change_pct": -1.9951216461317145
   },
   "risk": {
-    "score": 57,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 139.89
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 143.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 158.66
+    },
+    {
+      "timestamp": "2026-08-05T20:47:15.332437+00:00",
+      "close": 156.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-05T19:18:15+00:00",
+      "title": "Trump Readies Tariffs and Price Floors to Bolster US Polysilicon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T08:56:32+00:00",
       "title": "Corning Stock Outlook: Is Wall Street Bullish or Bearish?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-04T14:37:00+00:00",
       "title": "Palantir, AMD, Coherent, SpaceX, Caterpillar, Wayfair, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T13:22:00+00:00",
-      "title": "Marvell, Corning, and Lumentum Stocks Surge on Report of China Import Ban",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-05T19:42:34.354273+00:00",
+  "generated_at": "2026-08-05T20:47:15.332437+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 309.62,
-    "change_pct": 0.07757450384640041
+    "price": 311,
+    "change_pct": 0.5236279009632083
   },
   "risk": {
-    "score": 51,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T18:22:42.173122+00:00",
-      "close": 335.71
-    },
     {
       "timestamp": "2026-07-27T20:02:31.465679+00:00",
       "close": 336.91
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 309.62
+    },
+    {
+      "timestamp": "2026-08-05T20:47:15.332437+00:00",
+      "close": 311
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-05T19:26:24+00:00",
+      "title": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T19:15:36+00:00",
+      "title": "The companies emerging as new leaders in this renewed AI rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-05T19:10:05+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T18:33:10+00:00",
+      "title": "Apple's Search for Cheaper Memory Just Hit a Wall",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T18:08:58+00:00",
+      "title": "Just How Wide Is the Range of Outcomes for Netflix Stock?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-05T16:20:00+00:00",
       "title": "4 Things All Dividend Investors Need to Know About Building Passive Income Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T16:15:00+00:00",
-      "title": "Amazon says it will share $600 million in Trump tariff refunds with some of its customers — will you get a payout?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T15:28:00+00:00",
-      "title": "SpaceX’s $1T Goal and 3 More Shockers From Musk on the Earnings Call",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T14:28:24+00:00",
-      "title": "The 9th Circuit’s Browser Analogy Leaves a Liability Vacuum",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T14:20:00+00:00",
-      "title": "Departing Apple CEO Tim Cook Just Gave Memory Stocks Good News",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
