@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:38:14.814620+00:00",
+  "generated_at": "2026-08-05T01:03:49.100189+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 159.89,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T21:41:31.518769+00:00",
-      "close": 146.65
-    },
     {
       "timestamp": "2026-07-26T22:42:09.507397+00:00",
       "close": 146.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T23:38:14.814620+00:00",
       "close": 159.89
+    },
+    {
+      "timestamp": "2026-08-05T01:03:49.100189+00:00",
+      "close": 159.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T23:15:27+00:00",
+      "title": "Corning (GLW) Faces New Questions As Polysilicon Tariffs And China Curbs Loom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T18:25:00+00:00",
       "title": "SpaceX, Palantir, AMD, Marvell,  Caterpillar, Pfizer, and More Stocks That Explain Today’s Market",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T12:35:00+00:00",
       "title": "Tuesday's pre-market session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:34:06+00:00",
-      "title": "Optical component stocks rally on proposed U.S. ban on Chinese tech",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

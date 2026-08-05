@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:38:14.814620+00:00",
+  "generated_at": "2026-08-05T01:03:49.100189+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 277.42,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-26T21:41:31.518769+00:00",
-      "close": 232.11
-    },
     {
       "timestamp": "2026-07-26T22:42:09.507397+00:00",
       "close": 232.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-04T23:38:14.814620+00:00",
       "close": 277.42
+    },
+    {
+      "timestamp": "2026-08-05T01:03:49.100189+00:00",
+      "close": 277.42
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-04T21:32:00+00:00",
+      "title": "AMD Stock Slides After Solid  Earnings Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-04T20:50:09+00:00",
       "title": "Stock Market Today: Dow, S&P 500 Hit New Highs; SpaceX Jumps Ahead Of Q2 Report",
@@ -516,6 +524,14 @@
     {
       "timestamp": "2026-08-04T20:41:00+00:00",
       "title": "Jeff Bezos Is Pushing Amazon's Prime Video Into an AI Showcase, a Sign of How the Company Plans to Justify Its AI Spending",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-04T20:40:00+00:00",
+      "title": "Pinterest Stock Falls Despite Earnings Beat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-04T19:52:51+00:00",
       "title": "Amazon loses US court ban on Perplexity's AI shopping tools",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T19:14:03+00:00",
-      "title": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They’re Rallying.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T19:10:04+00:00",
-      "title": "Which dow jones stocks are moving on Tuesday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
