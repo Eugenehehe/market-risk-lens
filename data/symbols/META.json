@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:39:33.551459+00:00",
+  "generated_at": "2026-08-06T06:14:42.048981+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 588.77,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T01:04:15.718779+00:00",
-      "close": 593.87
-    },
     {
       "timestamp": "2026-07-28T04:23:00.456085+00:00",
       "close": 593.87
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-06T03:39:33.551459+00:00",
       "close": 588.77
+    },
+    {
+      "timestamp": "2026-08-06T06:14:42.048981+00:00",
+      "close": 588.77
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T03:03:58+00:00",
+      "title": "News Q4 Earnings Call Highlights",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T02:10:55+00:00",
+      "title": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currently Investigating…'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T22:43:33+00:00",
       "title": "Elon Musk’s Controversial X Staffer Steps Back After Nearly 30 Products",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-05T21:29:44+00:00",
       "title": "Meta launches new AI coding tool powered by Muse Spark 1.2",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T21:11:20+00:00",
-      "title": "The Toughest Questions AMZN Faced On Its Latest Call",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T21:06:00+00:00",
-      "title": "How Zigazoo built a safe social platform where Big Tech has struggled",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
