@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:14:42.048981+00:00",
+  "generated_at": "2026-08-06T09:10:26.214041+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 144.39,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T04:23:00.456085+00:00",
-      "close": 119.9
-    },
     {
       "timestamp": "2026-07-28T07:09:42.515941+00:00",
       "close": 119.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-06T06:14:42.048981+00:00",
       "close": 144.39
+    },
+    {
+      "timestamp": "2026-08-06T09:10:26.214041+00:00",
+      "close": 144.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T06:00:00+00:00",
+      "title": "Retiring Soon? Good News—the Market Is Cooperating.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T20:59:50+00:00",
       "title": "Can CRM Stock Compound Its Way Higher?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-05T17:09:07+00:00",
       "title": "The U.S. Is Hoarding GPUs. China Is Scaling AI Markets.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T16:33:26+00:00",
-      "title": "Larry Ellison Just Collected a $579 Million Dividend Check. Here’s What $100,000 of Oracle Stock Would Pay You.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
