@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T00:11:21.093047+00:00",
+  "generated_at": "2026-08-06T03:39:33.551459+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 311,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-27T23:40:08.241459+00:00",
-      "close": 336.91
-    },
     {
       "timestamp": "2026-07-28T01:04:15.718779+00:00",
       "close": 336.91
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-06T00:11:21.093047+00:00",
       "close": 311
+    },
+    {
+      "timestamp": "2026-08-06T03:39:33.551459+00:00",
+      "close": 311
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-05T19:56:01+00:00",
       "title": "Price hikes on consumer electronics could be here to stay. Here's why.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-05T19:34:58+00:00",
+      "title": "Amazon Web Services Will Continue to Drive Growth and Create Value",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-05T18:08:58+00:00",
       "title": "Just How Wide Is the Range of Outcomes for Netflix Stock?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T18:05:02+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
