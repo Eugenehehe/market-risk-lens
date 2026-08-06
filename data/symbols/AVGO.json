@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:10:26.214041+00:00",
+  "generated_at": "2026-08-06T11:33:30.944004+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 418.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T07:09:42.515941+00:00",
-      "close": 383.22
-    },
     {
       "timestamp": "2026-07-28T09:47:34.863986+00:00",
       "close": 383.22
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-06T09:10:26.214041+00:00",
       "close": 418.28
+    },
+    {
+      "timestamp": "2026-08-06T11:33:30.944004+00:00",
+      "close": 418.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T08:38:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Broadcom, The Coca-Cola and Palantir",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T04:23:08+00:00",
       "title": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-05T16:47:00+00:00",
       "title": "Should Investors Buy QRVO or Wait for More Visibility?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T16:44:58+00:00",
-      "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

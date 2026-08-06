@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:10:26.214041+00:00",
+  "generated_at": "2026-08-06T11:33:30.944004+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 311,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T07:09:42.515941+00:00",
-      "close": 336.91
-    },
     {
       "timestamp": "2026-07-28T09:47:34.863986+00:00",
       "close": 336.91
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-06T09:10:26.214041+00:00",
       "close": 311
+    },
+    {
+      "timestamp": "2026-08-06T11:33:30.944004+00:00",
+      "close": 311
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-06T08:25:58+00:00",
+      "title": "Nigeria Tries to Revive 50 Year-Old Mill That Never Made Steel",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-06T06:09:34+00:00",
       "title": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T06:07:50+00:00",
+      "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-05T19:56:01+00:00",
       "title": "Price hikes on consumer electronics could be here to stay. Here's why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T19:34:58+00:00",
-      "title": "Amazon Web Services Will Continue to Drive Growth and Create Value",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T19:26:24+00:00",
-      "title": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
