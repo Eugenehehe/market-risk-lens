@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T13:13:45.637597+00:00",
+  "generated_at": "2026-08-06T15:30:41.210622+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 530.7,
-    "change_pct": -2.1227937514984974
+    "price": 540.28,
+    "change_pct": 1.805162992274334
   },
   "risk": {
-    "score": 67,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T13:21:32.072266+00:00",
-      "close": 516.23
-    },
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 494.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-06T13:13:45.637597+00:00",
       "close": 530.7
+    },
+    {
+      "timestamp": "2026-08-06T15:30:41.210622+00:00",
+      "close": 540.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T05:46:23+00:00",
+      "title": "Michael Burry Warns Today's AI Boom Could Become Tomorrow's 'Ghost Towns' Despite Surging Demand",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T03:40:00+00:00",
       "title": "August Perspective",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-04T16:19:46+00:00",
       "title": "SOXL: The 31% Selloff Has Reset The Semiconductor Bull Trade",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T16:13:44+00:00",
-      "title": "Semiconductors Just Posted Their Best Four-Day Rally Since March 2020. These Five Stocks Led the Charge",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

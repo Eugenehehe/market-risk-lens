@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T13:13:45.637597+00:00",
+  "generated_at": "2026-08-06T15:30:41.210622+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 769.79,
-    "change_pct": -0.19965514111989213
+    "price": 769.33,
+    "change_pct": -0.05975655698305937
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T13:21:32.072266+00:00",
-      "close": 739.09
-    },
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 741.65
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-08-06T13:13:45.637597+00:00",
       "close": 769.79
+    },
+    {
+      "timestamp": "2026-08-06T15:30:41.210622+00:00",
+      "close": 769.33
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-06T13:21:20+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Thursday Amid Corporate Earnings Deluge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-06T12:01:06+00:00",
       "title": "Index Breakouts Hold as Breadth Retains a Positive Bias",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T10:34:29+00:00",
+      "title": "S&P 500: 8K In Sight. But Is It Worth It? (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T10:07:48+00:00",
+      "title": "The Hormuz Deal Is Iran's Win",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T09:15:00+00:00",
+      "title": "2 High-Yield Picks Built To Survive The AI Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T09:01:00+00:00",
+      "title": "Strategy: My Favorite Short-Term Short",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-08-06T08:48:42+00:00",
       "title": "Nasdaq, Dow Futures Mixed Ahead Of Jobless Claims: Why SPCX, SNDK, SOUN, IONQ, FIG Stocks Are In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T07:30:57+00:00",
-      "title": "Forget The Magnificent 7: Two Undervalued Dividends Built For A Different Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:58:32+00:00",
-      "title": "What Determines Applied Materials’ Resilience on Aug 13 Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:54:20+00:00",
-      "title": "Alphabet Post-Earnings Rebound is On: Buy at $363?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:45:46+00:00",
-      "title": "VNQ Returned 62.61% in 10 Years. SPY Returned 253.49%. Here’s the Hidden Cost Nobody Talks About",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:45:00+00:00",
-      "title": "Rates Spark: Market Optimism Helps Hawkish Bias",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
