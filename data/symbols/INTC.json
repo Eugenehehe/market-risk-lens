@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T11:33:30.944004+00:00",
+  "generated_at": "2026-08-06T13:13:45.637597+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 101.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T09:47:34.863986+00:00",
-      "close": 91.67
-    },
     {
       "timestamp": "2026-07-28T11:47:11.781438+00:00",
       "close": 91.67
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-06T11:33:30.944004+00:00",
       "close": 101.06
+    },
+    {
+      "timestamp": "2026-08-06T13:13:45.637597+00:00",
+      "close": 101.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T10:12:53+00:00",
+      "title": "Investors Send SoftBank Stock 4.4% Lower Even as Profit Beats Estimates",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T07:39:43+00:00",
       "title": "Intel and ByteDance stakes help SoftBank beat expectations",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-05T16:13:54+00:00",
       "title": "Marvell Stock Amplifies The Market You Already Own",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T16:02:00+00:00",
-      "title": "SpaceX, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
