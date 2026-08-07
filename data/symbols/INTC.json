@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:55:11.713089+00:00",
+  "generated_at": "2026-08-07T13:03:45.880482+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 99.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T01:08:07.254720+00:00",
-      "close": 86.3
-    },
     {
       "timestamp": "2026-07-29T04:29:28.729124+00:00",
       "close": 86.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T11:55:11.713089+00:00",
       "close": 99.81
+    },
+    {
+      "timestamp": "2026-08-07T13:03:45.880482+00:00",
+      "close": 99.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T10:27:44+00:00",
+      "title": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory — and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T04:53:52+00:00",
       "title": "AMD Is Focused Correctly So I Continue Loading Up",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-06T18:09:35+00:00",
       "title": "Qualcomm's Largest Revenue Line Is Shrinking From Both Sides",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T18:05:01+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

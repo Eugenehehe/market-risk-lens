@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:55:11.713089+00:00",
+  "generated_at": "2026-08-07T13:03:45.880482+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 489.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T01:08:07.254720+00:00",
-      "close": 454.62
-    },
     {
       "timestamp": "2026-07-29T04:29:28.729124+00:00",
       "close": 454.62
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T11:55:11.713089+00:00",
       "close": 489.28
+    },
+    {
+      "timestamp": "2026-08-07T13:03:45.880482+00:00",
+      "close": 489.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T11:03:00+00:00",
+      "title": "AMD Stock tumbles because of SpaceX",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T08:36:57+00:00",
       "title": "AMD to acquire Taalas for specialised AI inference silicon",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T01:48:35+00:00",
       "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T23:25:52+00:00",
-      "title": "AMD Buys Toronto AI Chip Startup Taalas — Retail Says It’s A Move To ‘Compete More Directly With Nvidia’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
