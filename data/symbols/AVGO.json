@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:31:43.366417+00:00",
+  "generated_at": "2026-08-07T03:33:39.096528+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 420.565,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T15:40:48.267778+00:00",
-      "close": 383.29
-    },
     {
       "timestamp": "2026-07-28T17:09:41.495792+00:00",
       "close": 381.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T00:31:43.366417+00:00",
       "close": 420.565
+    },
+    {
+      "timestamp": "2026-08-07T03:33:39.096528+00:00",
+      "close": 420.565
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T00:05:14+00:00",
+      "title": "Anthropic SPVs Stack $71 Billion in Chip-Lease Debt in 60 Days",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T18:51:44+00:00",
       "title": "Astera Labs Beat And Guided Higher, Then Fell Because The Rally Came First",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-06T15:52:01+00:00",
       "title": "Intel Stock Does Not Need A Market Crash To Fall By Nearly Half",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T15:14:56+00:00",
-      "title": "Anthropic Gets Ready to Build its Own Chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

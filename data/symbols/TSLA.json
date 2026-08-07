@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:31:43.366417+00:00",
+  "generated_at": "2026-08-07T03:33:39.096528+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 319.53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T17:09:41.495792+00:00",
-      "close": 306.84
-    },
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 306.41
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T00:31:43.366417+00:00",
       "close": 319.53
+    },
+    {
+      "timestamp": "2026-08-07T03:33:39.096528+00:00",
+      "close": 319.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T01:37:00+00:00",
+      "title": "Ford's first $30,000 shot at increasing U.S. EV demand has a name",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T22:20:00+00:00",
       "title": "Prediction: Tesla's Share Price Dip Will Prove an Excellent Buying Opportunity",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-06T19:57:40+00:00",
       "title": "Tesla: Premium Valuation, Compelling Long-Term Upside",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T19:31:21+00:00",
-      "title": "TSLA-SPCX’s $16.8B Terafab Nears Construction As Elon Musk Details Compute Split — ‘25% For Tesla Optimus And ~75% For AI Spacecraft’",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
