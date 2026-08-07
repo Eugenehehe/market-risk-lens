@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T22:07:41.586864+00:00",
+  "generated_at": "2026-08-07T22:54:08.639214+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 453.77,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T22:10:39.790401+00:00",
-      "close": 369.64
-    },
     {
       "timestamp": "2026-07-29T23:13:48.546044+00:00",
       "close": 369.64
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T22:07:41.586864+00:00",
       "close": 453.77
+    },
+    {
+      "timestamp": "2026-08-07T22:54:08.639214+00:00",
+      "close": 453.77
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T21:26:17+00:00",
+      "title": "The Art Of The Exit: Dodging Panic When Dell Stock Breached Stop",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T16:41:00+00:00",
       "title": "SERV Q2 Loss Wider Than Expected, Revenues Increase Y/Y, Stock Down",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T10:44:53+00:00",
       "title": "Dell: Great Business, Full Price (Rating Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:15:50+00:00",
-      "title": "Nokia Oyj (NOK) Launches AI RAN Platform, Is The Valuation Already Too Rich?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
