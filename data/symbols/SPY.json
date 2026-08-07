@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:51:03.820133+00:00",
+  "generated_at": "2026-08-07T21:27:56.148110+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T21:06:38.944983+00:00",
-      "close": 729.46
-    },
     {
       "timestamp": "2026-07-29T22:10:39.790401+00:00",
       "close": 729.46
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T20:51:03.820133+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-07T21:27:56.148110+00:00",
+      "close": 773.26
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-07T15:46:51+00:00",
       "title": "Caution Ahead: Average 3-Month Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T15:43:29+00:00",
+      "title": "QUICK SPARK: SPY, GLD Among Biggest Winners as $15.3 Billion Floods Into ETFs in One Day",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T15:03:20+00:00",
       "title": "U.S. Officials Says There Is Progress Between Oman And Iran On The Strait Of Hormuz And We Expect A Deal Soon; Once A Deal Is Announced To Restore Commercial Shipping Without Impediments, The U.S. Will Lift The Blockade Of Iranian Ports; U.S. Actions Will Continue To Be Performance-Based And Tied To Iran's Implementation Of Its Commitments",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:46:10+00:00",
-      "title": "Allstate: Strong Operating Performance Is Not Sustainable In The Long Run",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
