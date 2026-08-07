@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:09:57.057745+00:00",
+  "generated_at": "2026-08-07T11:07:27.723027+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 881.47,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T22:37:24.842924+00:00",
-      "close": 820.53
-    },
     {
       "timestamp": "2026-07-28T23:38:01.720232+00:00",
       "close": 820.53
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T10:09:57.057745+00:00",
       "close": 881.47
+    },
+    {
+      "timestamp": "2026-08-07T11:07:27.723027+00:00",
+      "close": 881.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T09:20:00+00:00",
+      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T03:57:08+00:00",
       "title": "SNDK Stock Edges Up Overnight: Jefferies Slashes Price Target By Nearly 50% On Memory Growth Concerns",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-06T18:15:00+00:00",
       "title": "Micron Pares Most of Its Losses Even as Other Memory Stocks Reel",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T18:05:01+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
