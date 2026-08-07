@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T16:10:19.471073+00:00",
+  "generated_at": "2026-08-07T17:07:22.848682+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 101.99,
-    "change_pct": 2.1841498847810836
+    "price": 101.23,
+    "change_pct": 1.4227031359583142
   },
   "risk": {
-    "score": 68,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T12:16:01.070609+00:00",
-      "close": 86.3
-    },
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 84.43
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T16:10:19.471073+00:00",
       "close": 101.99
+    },
+    {
+      "timestamp": "2026-08-07T17:07:22.848682+00:00",
+      "close": 101.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T14:42:05+00:00",
+      "title": "SpaceX's influence ripples across markets: AlphaCheck",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T12:47:25+00:00",
       "title": "Can MU Stock Compound Its Way Higher?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T01:20:00+00:00",
       "title": "Wasatch Micro Cap Fund Q2 2026 Contributors And Detractors",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T22:33:00+00:00",
-      "title": "Nvidia dominates AI chips, but BofA sees AMD closing in",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

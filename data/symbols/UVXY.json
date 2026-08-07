@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T16:10:19.471073+00:00",
+  "generated_at": "2026-08-07T17:07:22.848682+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 21.58,
-    "change_pct": 0.09276437847867136
+    "price": 21.63,
+    "change_pct": 0.32467532467532756
   },
   "risk": {
-    "score": 35,
+    "score": 37,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T12:16:01.070609+00:00",
-      "close": 24.68
-    },
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 25.61
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T15:13:01.301695+00:00",
       "close": 21.58
+    },
+    {
+      "timestamp": "2026-08-07T17:07:22.848682+00:00",
+      "close": 21.63
     }
   ],
   "events": [],
@@ -516,5 +516,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "UVXY live fetch failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Keeping previous snapshot."
+  "narrative": "UVXY quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

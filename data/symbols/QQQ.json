@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T16:10:19.471073+00:00",
+  "generated_at": "2026-08-07T17:07:22.848682+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 722.82,
-    "change_pct": 1.1432169593507346
+    "price": 721.14,
+    "change_pct": 0.9081368502063869
   },
   "risk": {
-    "score": 60,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T12:16:01.070609+00:00",
-      "close": 675.49
-    },
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 668.62
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T16:10:19.471073+00:00",
       "close": 722.82
+    },
+    {
+      "timestamp": "2026-08-07T17:07:22.848682+00:00",
+      "close": 721.14
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-07T13:23:29+00:00",
       "title": "Breadth Cools, but the Rebound Structure Remains Intact",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:45:38+00:00",
+      "title": "July Jobs Report: Payrolls Turn Negative As The Labor Force Keeps Shrinking",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:31:10+00:00",
+      "title": "A Bad July Jobs Report Is Exactly What This Market Needed",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T11:55:00+00:00",
+      "title": "Jobs Report And Drop In Unemployment Boost Markets",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-07T10:00:03+00:00",
       "title": "July Payrolls: Bad News Is Good Again",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:55:40+00:00",
-      "title": "I'm Bullish On AI But Not Every AI Stock",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:45:25+00:00",
-      "title": "Why The Weak July Jobs Report Gives Bulls A New Reason To Cheer",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:20:09+00:00",
-      "title": "July Jobs Report: A Mixed Showing As Payrolls Decline But Employers Retain",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

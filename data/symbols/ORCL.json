@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T16:10:19.471073+00:00",
+  "generated_at": "2026-08-07T17:07:22.848682+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 146.92,
-    "change_pct": 2.4046839060430703
+    "price": 144.81,
+    "change_pct": 0.9339931693036929
   },
   "risk": {
-    "score": 70,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T12:16:01.070609+00:00",
-      "close": 119.96
-    },
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 118.34
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-07T16:10:19.471073+00:00",
       "close": 146.92
+    },
+    {
+      "timestamp": "2026-08-07T17:07:22.848682+00:00",
+      "close": 144.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T15:30:30+00:00",
+      "title": "Alphabet Taps the Bond Market Again for Up to $25 Billion",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T15:07:21+00:00",
+      "title": "Microsoft Stock's Peak Margin And Its Azure Bill Are The Same Story",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T14:51:44+00:00",
+      "title": "Oracle Stock Fell While Its Operating Margin Climbed For A Third Straight Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T14:51:10+00:00",
+      "title": "Alphabet Is Borrowing $25 Billion to Keep the AI Buildout Going",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:35:40+00:00",
+      "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T12:22:23+00:00",
       "title": "Just How Wide Is the Risk Priced Into Adobe Stock?",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-08-07T10:00:00+00:00",
       "title": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:00:00+00:00",
-      "title": "AI Debt Indigestion Forces Wall Street to Rethink Bond Sales",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:20:00+00:00",
-      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:15:46+00:00",
-      "title": "AMD: Buy The Dip - Market Is Mispricing Its Supply Leverage",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T05:48:02+00:00",
-      "title": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T05:00:00+00:00",
-      "title": "The New Wild West: Texas Experiments With Raw Capitalism",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

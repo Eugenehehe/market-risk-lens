@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T16:10:19.471073+00:00",
+  "generated_at": "2026-08-07T17:07:22.848682+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.2,
-    "change_pct": 0.6037264494639372
+    "price": 772.28,
+    "change_pct": 0.48402206724262875
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T14:34:43.611336+00:00",
-      "close": 735.47
-    },
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 732.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T16:10:19.471073+00:00",
       "close": 773.2
+    },
+    {
+      "timestamp": "2026-08-07T17:07:22.848682+00:00",
+      "close": 772.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T14:27:00+00:00",
+      "title": "Jobs Numbers -23K for July, -103K in Previous Revisions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T13:53:44+00:00",
       "title": "Want $2,000 a Month From SPYI? Here’s the Exact Investment It Takes, and the Catch at That Size",
@@ -530,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T12:45:38+00:00",
+      "title": "July Jobs Report: Payrolls Turn Negative As The Labor Force Keeps Shrinking",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:31:10+00:00",
+      "title": "A Bad July Jobs Report Is Exactly What This Market Needed",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T12:01:31+00:00",
       "title": "How A Top T. Rowe Price Manager Literally Scoops Up Melting Stocks",
       "source": "Yahoo",
@@ -538,32 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-07T11:36:00+00:00",
-      "title": "Surprise U.S. Job Weakness Casts Serious Doubt On Fed Rate Hikes",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:39:04+00:00",
-      "title": "Trump Calls AI 'Bigger Than Oil' In the Race Against China For Tech, Crypto Dominance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:20:00+00:00",
-      "title": "July 2026 Employment Report - Much Weaker Than Expected, But Was It Really Weak?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:01:00+00:00",
-      "title": "Early Q3 GDP Nowcasts Point To A Pickup In Economic Growth",
+      "timestamp": "2026-08-07T11:55:00+00:00",
+      "title": "Jobs Report And Drop In Unemployment Boost Markets",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
