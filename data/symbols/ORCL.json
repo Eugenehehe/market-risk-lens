@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:08:38.787621+00:00",
+  "generated_at": "2026-08-07T19:58:11.904804+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.68,
-    "change_pct": 1.5403917195232486
+    "price": 146.55,
+    "change_pct": 2.1467902697428043
   },
   "risk": {
-    "score": 63,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T17:34:46.676606+00:00",
-      "close": 118.37
-    },
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 120.17
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T19:08:38.787621+00:00",
       "close": 145.68
+    },
+    {
+      "timestamp": "2026-08-07T19:58:11.904804+00:00",
+      "close": 146.55
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-07T15:30:30+00:00",
       "title": "Alphabet Taps the Bond Market Again for Up to $25 Billion",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T15:13:11+00:00",
+      "title": "These Will Be Among The First Casualties When The AI Bubble Bursts",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T12:35:40+00:00",
       "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T12:22:23+00:00",
-      "title": "Just How Wide Is the Risk Priced Into Adobe Stock?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:08:38.787621+00:00",
+  "generated_at": "2026-08-07T19:58:11.904804+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 101.68,
-    "change_pct": 1.8735597635507473
+    "price": 101.24,
+    "change_pct": 1.4327221721270433
   },
   "risk": {
-    "score": 65,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T17:34:46.676606+00:00",
-      "close": 84.4
-    },
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 84.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T19:08:38.787621+00:00",
       "close": 101.68
+    },
+    {
+      "timestamp": "2026-08-07T19:58:11.904804+00:00",
+      "close": 101.24
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T13:31:17+00:00",
+      "title": "Intel Appoints Dean Jarnac As Executive Vice President And Chief Sales Officer To Lead Global Sales Strategy Across AI, Data Center, Networking And ASIC Businesses; Greg Ernst To Leave Intel After 27 Years",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T12:47:25+00:00",
       "title": "Can MU Stock Compound Its Way Higher?",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T10:27:44+00:00",
       "title": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory — and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:26:14+00:00",
-      "title": "Chip Stocks Find Buyers After Earnings Shock Shakes Out AI Trade",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:08:38.787621+00:00",
+  "generated_at": "2026-08-07T19:58:11.904804+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 222.63,
-    "change_pct": 1.662176355084699
+    "price": 223.82,
+    "change_pct": 2.2055801634777827
   },
   "risk": {
-    "score": 64,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T17:34:46.676606+00:00",
-      "close": 192.33
-    },
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 193.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T19:08:38.787621+00:00",
       "close": 222.63
+    },
+    {
+      "timestamp": "2026-08-07T19:58:11.904804+00:00",
+      "close": 223.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T19:10:06+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T18:05:02+00:00",
       "title": "Most active S&P500 stocks in Friday's session",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T17:11:33+00:00",
       "title": "Fluor Corporation Q2 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:11:12+00:00",
-      "title": "AdvanSix Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
