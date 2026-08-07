@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T13:03:45.880482+00:00",
+  "generated_at": "2026-08-07T14:17:02.498276+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 319.53,
-    "change_pct": -0.6282071217540208
+    "price": 323.43,
+    "change_pct": 1.2205426720495849
   },
   "risk": {
-    "score": 56,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T07:23:04.146179+00:00",
-      "close": 307.44
-    },
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 307.44
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 319.53
+    },
+    {
+      "timestamp": "2026-08-07T14:17:02.498276+00:00",
+      "close": 323.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T12:44:48+00:00",
+      "title": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:07:00+00:00",
+      "title": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T11:05:31+00:00",
       "title": "SPCX Stock Hasn’t Bottomed Out Yet, But It’s ‘A Really Great Time To Buy,’ Says This Asset Manager",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-07T09:45:29+00:00",
       "title": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:28:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Tesla and SpaceX",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T07:43:55+00:00",
-      "title": "Elon Musk’s Terafab Will Be Earth’s Most Valuable Building, 50x the Size of the Pentagon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T13:03:45.880482+00:00",
+  "generated_at": "2026-08-07T14:17:02.498276+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 418.2,
-    "change_pct": 1.0144927536231751
+    "price": 414.84,
+    "change_pct": -0.8034433285509346
   },
   "risk": {
     "score": 57,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T07:23:04.146179+00:00",
-      "close": 392.31
-    },
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 392.31
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 418.2
+    },
+    {
+      "timestamp": "2026-08-07T14:17:02.498276+00:00",
+      "close": 414.84
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-07T09:47:41+00:00",
+      "title": "Sandisk: Memory Has Structurally Changed, The Sector Cannot Remain At 5x P/E",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T09:21:28+00:00",
       "title": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T09:15:46+00:00",
+      "title": "AMD: Buy The Dip - Market Is Mispricing Its Supply Leverage",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,14 +565,6 @@
       "timestamp": "2026-08-05T12:18:58+00:00",
       "title": "What Is Going on with Taiwan Semiconductor Stock on Wednesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T12:14:00+00:00",
-      "title": "Brown Advisory Flexible Equity Strategy Q2 2026 Portfolio Activity",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

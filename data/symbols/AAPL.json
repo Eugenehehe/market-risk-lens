@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T13:03:45.880482+00:00",
+  "generated_at": "2026-08-07T14:17:02.498276+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 312.41,
-    "change_pct": 0.45337620578778104
+    "price": 312,
+    "change_pct": -0.13123779648539502
   },
   "risk": {
-    "score": 54,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T04:29:28.729124+00:00",
-      "close": 340.08
-    },
     {
       "timestamp": "2026-07-29T07:23:04.146179+00:00",
       "close": 340.08
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 312.41
+    },
+    {
+      "timestamp": "2026-08-07T14:17:02.498276+00:00",
+      "close": 312
     }
   ],
   "events": [

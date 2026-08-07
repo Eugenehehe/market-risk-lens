@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T13:03:45.880482+00:00",
+  "generated_at": "2026-08-07T14:17:02.498276+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 881.47,
-    "change_pct": -1.312150830170511
+    "price": 854.48,
+    "change_pct": -3.0619306385923473
   },
   "risk": {
-    "score": 61,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T04:29:28.729124+00:00",
-      "close": 820.53
-    },
     {
       "timestamp": "2026-07-29T07:23:04.146179+00:00",
       "close": 820.53
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 881.47
+    },
+    {
+      "timestamp": "2026-08-07T14:17:02.498276+00:00",
+      "close": 854.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T13:20:00+00:00",
+      "title": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:54:00+00:00",
+      "title": "Why SK Hynix’s $38 Billion Memory Splurge Is No Problem for Micron Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:48:20+00:00",
+      "title": "Citi cuts Micron stock target, sees memory chip prices peaking in 2Q27",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:47:25+00:00",
+      "title": "Can MU Stock Compound Its Way Higher?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:05:00+00:00",
+      "title": "The Overlooked Chip Stock Poised to Lead the AI Memory Boom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T11:39:23+00:00",
       "title": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
@@ -522,49 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-07T09:20:00+00:00",
-      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T03:57:08+00:00",
-      "title": "SNDK Stock Edges Up Overnight: Jefferies Slashes Price Target By Nearly 50% On Memory Growth Concerns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T20:50:00+00:00",
-      "title": "Micron Shares Surge: What's Driving the Sudden Momentum",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T19:40:43+00:00",
-      "title": "SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap",
+      "timestamp": "2026-08-07T09:56:57+00:00",
+      "title": "Sandisk Is Trading Significantly Above Fair Value, Watch The Downside",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T19:05:00+00:00",
-      "title": "Global memory shortage forces top PC makers like HP and Asus to turn to CXMT chips — but what will Samsung...",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T19:00:00+00:00",
-      "title": "Micron & 2 Profitable Stocks Smart Investors Are Buying in August",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T13:03:45.880482+00:00",
+  "generated_at": "2026-08-07T14:17:02.498276+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.43,
-    "change_pct": -1.484404359263436
+    "price": 51.06,
+    "change_pct": -2.613007819950408
   },
   "risk": {
-    "score": 62,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T04:29:28.729124+00:00",
-      "close": 45.59
-    },
     {
       "timestamp": "2026-07-29T07:23:04.146179+00:00",
       "close": 45.59
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 52.43
+    },
+    {
+      "timestamp": "2026-08-07T14:17:02.498276+00:00",
+      "close": 51.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T13:16:00+00:00",
+      "title": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:50:00+00:00",
+      "title": "Why Rigetti Stock Isn’t Rallying After Its Quantum Sales Surged",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T20:46:00+00:00",
       "title": "Rigetti’s Quantum System Sales Are Accelerating and the Stock Is Tumbling",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-05T22:27:34+00:00",
       "title": "Betting On AI Servers? Dell's Order Book Deserves A Look",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T19:15:36+00:00",
-      "title": "The companies emerging as new leaders in this renewed AI rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T17:44:00+00:00",
-      "title": "Rigetti Expands Hybrid Quantum HPC Push With New NSF Project",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
