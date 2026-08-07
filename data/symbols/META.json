@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:58:11.904804+00:00",
+  "generated_at": "2026-08-07T20:51:03.820133+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 593.42,
-    "change_pct": 0.5967113070011854
+    "price": 592.1,
+    "change_pct": 0.3729445668757547
   },
   "risk": {
-    "score": 55,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T18:36:58.428580+00:00",
-      "close": 595.84
-    },
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 584.58
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-07T19:58:11.904804+00:00",
       "close": 593.42
+    },
+    {
+      "timestamp": "2026-08-07T20:51:03.820133+00:00",
+      "close": 592.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T19:56:14+00:00",
+      "title": "Meta Faces New Risk After Major Court Ruling",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:53:17+00:00",
+      "title": "Meta Stock Rises 1.2% Despite $942 Million Child-Safety Judgment",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:35:40+00:00",
+      "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T18:33:57+00:00",
+      "title": "Jim Cramer Believes Meta Platforms, Inc. (NASDAQ:META) Can Do Better",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T18:11:56+00:00",
+      "title": "What Does Meta (META) Have To Change After The $942 Million Teen Safety Ruling?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T17:35:00+00:00",
       "title": "Meta was just slapped with a $942-million bill for harming kids — it makes that back in roughly five days",
@@ -514,56 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T17:26:00+00:00",
+      "title": "AI Boom: Top Stocks to Consider for Your Portfolio",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T17:15:04+00:00",
       "title": "OpenAI Pauses Some Work on New Astra Model Over Cyber Concerns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:00:49+00:00",
-      "title": "Alphabet’s Cloud vs Meta’s Superintelligence: Who Wins Q2?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:47:02+00:00",
-      "title": "Meta's Legal Bill Just Climbed to $942 Million",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:38:32+00:00",
-      "title": "Microsoft Is Winning the AI Cash Flow Test",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:25:59+00:00",
-      "title": "Meta Ruling Could Become a Blueprint for More Child-Safety Suits",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:55:00+00:00",
-      "title": "Meta’s $942 Million Penalty Is Small, but the Legal Risk Is Growing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:47:00+00:00",
-      "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

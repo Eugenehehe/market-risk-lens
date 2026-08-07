@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:58:11.904804+00:00",
+  "generated_at": "2026-08-07T20:51:03.820133+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 328.25,
-    "change_pct": 2.7290082308390584
+    "price": 328.58,
+    "change_pct": 2.832284918474004
   },
   "risk": {
-    "score": 72,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T19:58:47.489343+00:00",
-      "close": 298.45
-    },
     {
       "timestamp": "2026-07-29T21:06:38.944983+00:00",
       "close": 298.32
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-07T19:58:11.904804+00:00",
       "close": 328.25
+    },
+    {
+      "timestamp": "2026-08-07T20:51:03.820133+00:00",
+      "close": 328.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T19:29:26+00:00",
+      "title": "Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:14:04+00:00",
+      "title": "Tesla Jumps as Rate Fears Ease",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T18:27:19+00:00",
+      "title": "SpaceX’s Texas Terafab Could Become World’s Largest Building",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T18:05:02+00:00",
       "title": "Most active S&P500 stocks in Friday's session",
@@ -522,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T16:55:00+00:00",
+      "title": "Tesla-SpaceX Terafab Bet: 4 Chip Equipment Stocks That Could Benefit",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T16:35:00+00:00",
       "title": "Elon Musk Says AI Needs More Power Than the Grid Can Handle. Is He Right?",
       "source": "Yahoo",
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-07T15:00:35+00:00",
       "title": "Tesla's Battery Business Is Growing Faster Than Its Cars— and a New Texas Factory for Megapack 3 Just Went Live",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:51:00+00:00",
-      "title": "Ouster Q2 Earnings Surpass Expectations on Sensor Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:16:44+00:00",
-      "title": "Tesla and SpaceX Are Building a $55 Billion Chip Factory in Texas",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:07:31+00:00",
-      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T13:48:48+00:00",
-      "title": "Chinese Buying Lifts Gold And Silver From Technical Support; Jobs Report Shocker And Iran Hopium Trigger Aggressive Stock Buying",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

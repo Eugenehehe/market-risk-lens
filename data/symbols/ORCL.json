@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:58:11.904804+00:00",
+  "generated_at": "2026-08-07T20:51:03.820133+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 146.55,
-    "change_pct": 2.1467902697428043
+    "price": 147.02,
+    "change_pct": 2.4743848888269415
   },
   "risk": {
-    "score": 68,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T18:36:58.428580+00:00",
-      "close": 120.17
-    },
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 117.78
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-07T19:58:11.904804+00:00",
       "close": 146.55
+    },
+    {
+      "timestamp": "2026-08-07T20:51:03.820133+00:00",
+      "close": 147.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T19:47:38+00:00",
+      "title": "Michael Burry Sounds Alarm on Major AI Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:37:00+00:00",
+      "title": "Michael Burry issues blunt warning as he bets against 2 AI favorites",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T17:08:00+00:00",
       "title": "Oracle price target lowered by UBS amid AI spending concerns",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-07T14:51:10+00:00",
       "title": "Alphabet Is Borrowing $25 Billion to Keep the AI Buildout Going",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:12:31+00:00",
-      "title": "Michael Burry says he's shorting AI stars Oracle and Nebius",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T12:35:40+00:00",
-      "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

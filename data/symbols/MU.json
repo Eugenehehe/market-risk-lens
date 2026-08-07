@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T19:58:11.904804+00:00",
+  "generated_at": "2026-08-07T20:51:03.820133+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 874.08,
-    "change_pct": -0.8383722645126879
+    "price": 877.57,
+    "change_pct": -0.44244273769952214
   },
   "risk": {
-    "score": 57,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T18:36:58.428580+00:00",
-      "close": 779.16
-    },
     {
       "timestamp": "2026-07-29T19:58:47.489343+00:00",
       "close": 744.96
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-07T19:58:11.904804+00:00",
       "close": 874.08
+    },
+    {
+      "timestamp": "2026-08-07T20:51:03.820133+00:00",
+      "close": 877.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T19:51:33+00:00",
+      "title": "Micron Stock Falls After Citi Slashes Price Target on Memory Risks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:37:00+00:00",
+      "title": "Michael Burry issues blunt warning as he bets against 2 AI favorites",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:32:30+00:00",
+      "title": "Micron Stock Slips as Citi Cuts Target by $250",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T19:26:58+00:00",
+      "title": "One American Stock Benefits as Smartphones, MRI, and AI Servers Want the Same Chip",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T18:47:00+00:00",
+      "title": "China opens formal probe into Palo Alto just as stock hits highs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T18:05:02+00:00",
       "title": "Most active S&P500 stocks in Friday's session",
@@ -514,56 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T18:03:00+00:00",
+      "title": "SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T17:04:05+00:00",
       "title": "Silvaco Group Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:59:38+00:00",
-      "title": "SK Hynix Slides and the ProShares Ultra SK Hynix ETF (SKHU) Tumbles With It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:31:22+00:00",
-      "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:23:00+00:00",
-      "title": "SK Hynix, SpaceX, Doximity, Trade Desk, Rigetti, Coherent, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:47:30+00:00",
-      "title": "Tech Stocks Shake Off Another Memory Stock Slide",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:47:00+00:00",
-      "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:33:21+00:00",
-      "title": "Micron's Memory Boom Just Got a New Expiration Date",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
