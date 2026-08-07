@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:19:51.647079+00:00",
+  "generated_at": "2026-08-07T06:38:26.165765+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1704.37,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T18:45:24.475990+00:00",
-      "close": 1581.09
-    },
     {
       "timestamp": "2026-07-28T20:08:34.287054+00:00",
       "close": 1582.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T05:19:51.647079+00:00",
       "close": 1704.37
+    },
+    {
+      "timestamp": "2026-08-07T06:38:26.165765+00:00",
+      "close": 1704.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T03:32:20+00:00",
+      "title": "Chinese AI Chipmakers Poised to Gain From Beijing’s Tech Push",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T18:12:00+00:00",
       "title": "PancakeSwap Expands Tokenized Equity Offerings with 10 New 'bStocks' on BNB Chain",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-06T03:47:20+00:00",
       "title": "Applied Materials Fell 11% Last Month: A Prominent Wall Street Pro Predicts 70% Gains Moving Forward",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T00:55:05+00:00",
-      "title": "ASML: AI Litho-Density Supercycle Vs. Closed-Loop Chinese DUV Fleet",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
