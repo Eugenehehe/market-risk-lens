@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T15:30:41.210622+00:00",
+  "generated_at": "2026-08-07T00:31:43.366417+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 422.79,
-    "change_pct": 2.123188405797105
+    "price": 418.2,
+    "change_pct": 1.0144927536231751
   },
   "risk": {
-    "score": 63,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T15:40:48.267778+00:00",
-      "close": 391.31
-    },
     {
       "timestamp": "2026-07-28T17:09:41.495792+00:00",
       "close": 391.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-06T15:30:41.210622+00:00",
       "close": 422.79
+    },
+    {
+      "timestamp": "2026-08-07T00:31:43.366417+00:00",
+      "close": 418.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T12:15:49+00:00",
+      "title": "$1000 Invested In Taiwan Semiconductor 10 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-05T16:44:58+00:00",
       "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade)",
@@ -532,22 +540,6 @@
     {
       "timestamp": "2026-08-05T12:14:00+00:00",
       "title": "Brown Advisory Flexible Equity Strategy Q2 2026 Portfolio Activity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T11:01:11+00:00",
-      "title": "AMD Earnings Prediction Market Preview: What Will Lisa Su Say?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T10:31:11+00:00",
-      "title": "Nvidia And Google Are Crowding TSMC's N3 Node - Can Intel Fill The Gap?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

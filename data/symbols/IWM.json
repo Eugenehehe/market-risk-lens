@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T15:30:41.210622+00:00",
+  "generated_at": "2026-08-07T00:31:43.366417+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 300.4,
-    "change_pct": 0.21016112352802985
+    "price": 298.25,
+    "change_pct": -0.5070554091470059
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T13:21:32.072266+00:00",
-      "close": 292.91
-    },
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 293.35
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-06T15:30:41.210622+00:00",
       "close": 300.4
+    },
+    {
+      "timestamp": "2026-08-07T00:31:43.366417+00:00",
+      "close": 298.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-06T17:00:00+00:00",
+      "title": "The Hormuz Illusion: Wall Street Is Buying Fake Peace",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T15:57:20+00:00",
+      "title": "Stop Calling It A Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T14:52:50+00:00",
+      "title": "AAII Sentiment Survey: Optimism Jumps",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T13:31:59+00:00",
+      "title": "S&P 500, Dow Fall as Brent Jumps 4%, SanDisk Trims Losses: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T12:01:06+00:00",
       "title": "Index Breakouts Hold as Breadth Retains a Positive Bias",
@@ -514,56 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-06T12:00:52+00:00",
+      "title": "Michael Burry Warns Of A 1987-Type Crash. Here's Why I Am Still Bullish",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-06T11:57:00+00:00",
+      "title": "Dow Looks To Break Another Record While Chips Pressure Nasdaq",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-06T10:34:29+00:00",
       "title": "S&P 500: 8K In Sight. But Is It Worth It? (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T08:53:09+00:00",
-      "title": "Don't Ignore This Powerful Historical Precedent",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T07:30:57+00:00",
-      "title": "Forget The Magnificent 7: Two Undervalued Dividends Built For A Different Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:45:00+00:00",
-      "title": "Rates Spark: Market Optimism Helps Hawkish Bias",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:40:00+00:00",
-      "title": "August Perspective",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:35:08+00:00",
-      "title": "Implications Of New Market Highs",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:31:00+00:00",
-      "title": "Underlying Inflation Gauges: Trimming Noise Or Trimming Signal?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-06T15:30:41.210622+00:00",
+  "generated_at": "2026-08-07T00:31:43.366417+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 161.31,
-    "change_pct": 2.941927249521381
+    "price": 157.18,
+    "change_pct": 0.3063178047224113
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 43,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T13:21:32.072266+00:00",
-      "close": 143.36
-    },
     {
       "timestamp": "2026-07-28T15:40:48.267778+00:00",
       "close": 119.62
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-06T15:30:41.210622+00:00",
       "close": 161.31
+    },
+    {
+      "timestamp": "2026-08-07T00:31:43.366417+00:00",
+      "close": 157.18
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-08-05T08:56:32+00:00",
       "title": "Corning Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T23:15:27+00:00",
-      "title": "Corning (GLW) Faces New Questions As Polysilicon Tariffs And China Curbs Loom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T18:25:00+00:00",
-      "title": "SpaceX, Palantir, AMD, Marvell,  Caterpillar, Pfizer, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:38:06+00:00",
-      "title": "FSLR, ENPH, ARRY, SEDG Stocks Rally – Trump Administration Reportedly Considers Tariffs, Price Floor For Solar Panel Raw Material",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T17:01:24+00:00",
-      "title": "Here's How Much $100 Invested In Corning 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-04T16:26:00+00:00",
-      "title": "Marvell Surges as China Ban Report Reignites Optical-Networking Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
