@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T17:07:22.848682+00:00",
+  "generated_at": "2026-08-07T17:59:50.306037+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 166.33,
-    "change_pct": 5.821351316961443
+    "price": 166.01,
+    "change_pct": 5.617763074182447
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T14:34:43.611336+00:00",
-      "close": 127.48
-    },
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 125.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T17:07:22.848682+00:00",
       "close": 166.33
+    },
+    {
+      "timestamp": "2026-08-07T17:59:50.306037+00:00",
+      "close": 166.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T16:35:01+00:00",
+      "title": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T12:35:01+00:00",
       "title": "Which S&P500 stocks are moving before the opening bell on Friday?",

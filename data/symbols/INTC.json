@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:07:22.848682+00:00",
+  "generated_at": "2026-08-07T17:59:50.306037+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 101.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T14:34:43.611336+00:00",
-      "close": 84.43
-    },
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 82.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T17:07:22.848682+00:00",
       "close": 101.23
+    },
+    {
+      "timestamp": "2026-08-07T17:59:50.306037+00:00",
+      "close": 101.23
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T07:00:01+00:00",
+      "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T04:53:52+00:00",
       "title": "AMD Is Focused Correctly So I Continue Loading Up",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T01:48:35+00:00",
       "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T01:20:00+00:00",
-      "title": "Wasatch Micro Cap Fund Q2 2026 Contributors And Detractors",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

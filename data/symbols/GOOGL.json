@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:07:22.848682+00:00",
+  "generated_at": "2026-08-07T17:59:50.306037+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 354.96,
-    "change_pct": -0.7798742138364845
+    "price": 355.08,
+    "change_pct": -0.7463312368972796
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T14:34:43.611336+00:00",
-      "close": 333.34
-    },
     {
       "timestamp": "2026-07-29T16:06:31.904715+00:00",
       "close": 333.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T17:07:22.848682+00:00",
       "close": 354.96
+    },
+    {
+      "timestamp": "2026-08-07T17:59:50.306037+00:00",
+      "close": 355.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T16:40:04+00:00",
+      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T15:47:00+00:00",
       "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T14:51:10+00:00",
       "title": "Alphabet Is Borrowing $25 Billion to Keep the AI Buildout Going",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:38:18+00:00",
-      "title": "How AI Is Making Cybersecurity A Critical Tech Battlefield",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
