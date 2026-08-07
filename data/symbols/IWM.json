@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:33:39.096528+00:00",
+  "generated_at": "2026-08-07T05:19:51.647079+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 298.25,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-28T17:09:41.495792+00:00",
-      "close": 293.37
-    },
     {
       "timestamp": "2026-07-28T18:45:24.475990+00:00",
       "close": 292.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T03:33:39.096528+00:00",
       "close": 298.25
+    },
+    {
+      "timestamp": "2026-08-07T05:19:51.647079+00:00",
+      "close": 298.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T00:20:00+00:00",
+      "title": "Credit Says The Capital Goods Recession Story Doesn't Hold Up",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-06T17:00:00+00:00",
       "title": "The Hormuz Illusion: Wall Street Is Buying Fake Peace",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-06T11:57:00+00:00",
       "title": "Dow Looks To Break Another Record While Chips Pressure Nasdaq",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T10:34:29+00:00",
-      "title": "S&P 500: 8K In Sight. But Is It Worth It? (Rating Downgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
