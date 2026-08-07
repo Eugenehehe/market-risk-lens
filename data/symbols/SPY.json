@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:07:27.723027+00:00",
+  "generated_at": "2026-08-07T11:55:11.713089+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 768.56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T01:08:07.254720+00:00",
-      "close": 740.86
-    },
     {
       "timestamp": "2026-07-29T04:29:28.729124+00:00",
       "close": 740.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T11:07:27.723027+00:00",
       "close": 768.56
+    },
+    {
+      "timestamp": "2026-08-07T11:55:11.713089+00:00",
+      "close": 768.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T07:00:00+00:00",
+      "title": "Why The Federal Reserve Might Hike Rates After The July CPI Report",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T05:56:17+00:00",
       "title": "What Japan Just Taught Us About Trusting A Fiat Currency",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-06T18:55:53+00:00",
       "title": "Can You Actually Spend SPYI’s 12% and Keep Your Principal? Three Years of NAV Data Answer It",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T18:45:01+00:00",
-      "title": "Motorola Solutions: Future Return Potential Is Attractive After A Strong Quarter",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
