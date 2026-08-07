@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T15:13:01.301695+00:00",
+  "generated_at": "2026-08-07T16:10:19.471073+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.03,
-    "change_pct": 0.5816071614447749
+    "price": 773.2,
+    "change_pct": 0.6037264494639372
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T12:16:01.070609+00:00",
-      "close": 740.86
-    },
     {
       "timestamp": "2026-07-29T14:34:43.611336+00:00",
       "close": 735.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T15:13:01.301695+00:00",
       "close": 773.03
+    },
+    {
+      "timestamp": "2026-08-07T16:10:19.471073+00:00",
+      "close": 773.2
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T11:36:00+00:00",
+      "title": "Surprise U.S. Job Weakness Casts Serious Doubt On Fed Rate Hikes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T10:39:04+00:00",
       "title": "Trump Calls AI 'Bigger Than Oil' In the Race Against China For Tech, Crypto Dominance",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T10:01:00+00:00",
       "title": "Early Q3 GDP Nowcasts Point To A Pickup In Economic Growth",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:00:03+00:00",
-      "title": "July Payrolls: Bad News Is Good Again",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
