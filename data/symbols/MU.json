@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T14:17:02.498276+00:00",
+  "generated_at": "2026-08-07T15:13:01.301695+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 854.48,
-    "change_pct": -3.0619306385923473
+    "price": 865.51,
+    "change_pct": -1.8106118188934484
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T07:23:04.146179+00:00",
-      "close": 820.53
-    },
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 820.53
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T14:17:02.498276+00:00",
       "close": 854.48
+    },
+    {
+      "timestamp": "2026-08-07T15:13:01.301695+00:00",
+      "close": 865.51
     }
   ],
   "events": [

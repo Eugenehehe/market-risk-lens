@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-07T14:17:02.498276+00:00",
+  "generated_at": "2026-08-07T15:13:01.301695+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 422.54,
-    "change_pct": -3.4525305609505175
+    "price": 433.34,
+    "change_pct": -0.9848052096424142
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T07:23:04.146179+00:00",
-      "close": 392.1
-    },
     {
       "timestamp": "2026-07-29T10:05:06.035905+00:00",
       "close": 392.1
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T14:17:02.498276+00:00",
       "close": 422.54
+    },
+    {
+      "timestamp": "2026-08-07T15:13:01.301695+00:00",
+      "close": 433.34
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-07T13:16:00+00:00",
       "title": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T10:44:53+00:00",
+      "title": "Dell: Great Business, Full Price (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-06T17:15:27+00:00",
       "title": "After a 250% Rally, Dell Stock Still Has Room to Run. Here's Why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T16:01:00+00:00",
-      "title": "Can HPE's NVDA Alliance Help it Challenge SMCI and DELL?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
