@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 313.08,
-    "change_pct": 0.21446176498829406
+    "price": 312.54,
+    "change_pct": 0.04161198425145507
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 340.94
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 342.58
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 313.08
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 312.54
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-07T17:22:04+00:00",
+      "title": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T16:40:04+00:00",
       "title": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:30:51+00:00",
+      "title": "Prediction: Can Apple Stock Reach $400 This Year?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:16:33+00:00",
+      "title": "Apple (AAPL) Seeks Injunction In AI Trade Secret Lawsuit",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-07T14:55:04+00:00",
       "title": "Papa Murphy's abruptly closes all Tennessee's locations",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:02:47+00:00",
-      "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:00:23+00:00",
-      "title": "Warren Buffett Said If He Was a ‘Handy’ Investor, He’d Buy Fixer-Uppers With a 30-Year Mortgage and Rent Them Out — ‘It’s a Way…to Short the Dollar’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T13:43:42+00:00",
-      "title": "Apple Stock Surged On An Upgrade Cycle Its Own Reports Flagged Early",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

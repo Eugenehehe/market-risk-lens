@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 101.23,
-    "change_pct": 1.4227031359583142
+    "price": 101.68,
+    "change_pct": 1.8735597635507473
   },
   "risk": {
-    "score": 62,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 82.25
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 84.4
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 101.23
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 101.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T18:05:02+00:00",
+      "title": "Most active S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T18:00:00+00:00",
+      "title": "Curious about the most active stocks on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T17:30:00+00:00",
+      "title": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T15:38:00+00:00",
+      "title": "Should You Buy NVIDIA Stock After Its 11% Rally in a Month?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T14:42:05+00:00",
       "title": "SpaceX's influence ripples across markets: AlphaCheck",
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-07T10:26:14+00:00",
       "title": "Chip Stocks Find Buyers After Earnings Shock Shakes Out AI Trade",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T07:00:01+00:00",
-      "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T04:53:52+00:00",
-      "title": "AMD Is Focused Correctly So I Continue Loading Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T04:46:53+00:00",
-      "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T01:48:35+00:00",
-      "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

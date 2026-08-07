@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 420.58,
-    "change_pct": 0.5691056910569037
+    "price": 420.16,
+    "change_pct": 0.46867527498806183
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T17:34:46.676606+00:00",
-      "close": 380.22
-    },
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 385.75
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 420.58
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 420.16
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-07T12:35:40+00:00",
       "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:25:29+00:00",
+      "title": "What's Going On With Taiwan Semiconductor Stock Friday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-05T16:44:58+00:00",
       "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T13:35:14+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

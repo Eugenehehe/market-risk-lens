@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 424.82,
-    "change_pct": 1.0117342146873876
+    "price": 427.17,
+    "change_pct": 1.5705063426580956
   },
   "risk": {
-    "score": 59,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 370.2
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 376.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 424.82
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 427.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T16:50:00+00:00",
+      "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T15:47:00+00:00",
       "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T11:39:23+00:00",
       "title": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:47:41+00:00",
-      "title": "Sandisk: Memory Has Structurally Changed, The Sector Cannot Remain At 5x P/E",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

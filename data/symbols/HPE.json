@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.83,
-    "change_pct": 0.762921991226384
+    "price": 53.31,
+    "change_pct": 1.6784283806980715
   },
   "risk": {
-    "score": 57,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 44.43
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 45.58
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 52.83
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 53.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T16:17:00+00:00",
+      "title": "Rigetti Stock Rises as Major Quantum Orders Fuel Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T15:18:00+00:00",
+      "title": "Should You Buy, Sell or Hold SMCI Stock Before Q4 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T13:16:00+00:00",
       "title": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-06T13:35:21+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T07:14:03+00:00",
-      "title": "Is HPE (HPE) Using Quantum Partnerships To Deepen Its AI Infrastructure Moat?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-05T22:27:34+00:00",
-      "title": "Betting On AI Servers? Dell's Order Book Deserves A Look",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

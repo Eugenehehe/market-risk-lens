@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 592.38,
-    "change_pct": 0.420410239023572
+    "price": 591.86,
+    "change_pct": 0.3322597050347653
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 586.9
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 593.1
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 592.38
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 591.86
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-07T17:35:00+00:00",
+      "title": "Meta was just slapped with a $942-million bill for harming kids — it makes that back in roughly five days",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T17:15:04+00:00",
+      "title": "OpenAI Pauses Some Work on New Astra Model Over Cyber Concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T17:00:49+00:00",
+      "title": "Alphabet’s Cloud vs Meta’s Superintelligence: Who Wins Q2?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:47:02+00:00",
+      "title": "Meta's Legal Bill Just Climbed to $942 Million",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:38:32+00:00",
+      "title": "Microsoft Is Winning the AI Cash Flow Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:25:59+00:00",
+      "title": "Meta Ruling Could Become a Blueprint for More Child-Safety Suits",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T15:55:00+00:00",
+      "title": "Meta’s $942 Million Penalty Is Small, but the Legal Risk Is Growing",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T15:47:00+00:00",
       "title": "Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:39:07+00:00",
-      "title": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:30:17+00:00",
-      "title": "Price Prediction: Google Will Hit $400 on This Date",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:40:50+00:00",
-      "title": "Digitalbox targets 500 videos a month as Creator Network scales up, says CEO Carter",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:30:59+00:00",
-      "title": "AppLovin Grows 53% and Beats on Profit. Here’s Why We’re Bullish.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T14:02:47+00:00",
-      "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T13:52:34+00:00",
-      "title": "Meta ordered to pay $942M: Why the judge compared the company to 'noxious pollution'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T13:16:40+00:00",
-      "title": "AMD Buys AI Chip Startup Taalas—Here's Why It Matters To NVDA Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

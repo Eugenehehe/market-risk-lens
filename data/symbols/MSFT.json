@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 500.46,
-    "change_pct": 0.12003360941061914
+    "price": 500.27,
+    "change_pct": 0.08202296643058382
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 394.48
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 396.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 500.46
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 500.27
     }
   ],
   "events": [
@@ -509,6 +509,46 @@
       "timestamp": "2026-08-07T16:40:04+00:00",
       "title": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:38:32+00:00",
+      "title": "Microsoft Is Winning the AI Cash Flow Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:30:51+00:00",
+      "title": "Datadog Posts Q2 Beat as Observability, AI Demand Remain Strong, RBC Capital Markets Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:30:51+00:00",
+      "title": "Prediction: Can Apple Stock Reach $400 This Year?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:07:00+00:00",
+      "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains. Here's Why That Matters for Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T16:00:48+00:00",
+      "title": "AMD Will Become a $1 Trillion Company By This Date",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-08-07T15:39:07+00:00",
       "title": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:30:17+00:00",
-      "title": "Price Prediction: Google Will Hit $400 on This Date",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:27:24+00:00",
-      "title": "Figma Is Paying For The Products It Has Not Started Charging For",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:21:38+00:00",
-      "title": "Microsoft, Amazon, Meta, Google Are 'Collectively Overinvesting' In AI: 'That's Betting, Not Investing,' Says 'Dean of Valuation'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:08:00+00:00",
-      "title": "Billionaire Bill Ackman Has 15% of Pershing Square's Portfolio in a $2.4 Billion Microsoft Stake. Is It Still a Buy After the Rally?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:07:21+00:00",
-      "title": "Microsoft Stock's Peak Margin And Its Azure Bill Are The Same Story",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.99,
-    "change_pct": 1.0594549383146301
+    "price": 145.68,
+    "change_pct": 1.5403917195232486
   },
   "risk": {
-    "score": 59,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T16:06:31.904715+00:00",
-      "close": 116.64
-    },
     {
       "timestamp": "2026-07-29T17:34:46.676606+00:00",
       "close": 118.37
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 144.99
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 145.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T17:08:00+00:00",
+      "title": "Oracle price target lowered by UBS amid AI spending concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T15:30:30+00:00",
       "title": "Alphabet Taps the Bond Market Again for Up to $25 Billion",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-07T14:12:31+00:00",
+      "title": "Michael Burry says he's shorting AI stars Oracle and Nebius",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T12:35:40+00:00",
       "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
       "source": "Benzinga",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-07T12:22:23+00:00",
       "title": "Just How Wide Is the Risk Priced Into Adobe Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T12:00:00+00:00",
-      "title": "What Larry Ellison needs to do to convince investors Oracle stock is still a buy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:00:00+00:00",
-      "title": "Big Tech is borrowing its way through the AI boom: Chart of the Day",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T17:59:50.306037+00:00",
+  "generated_at": "2026-08-07T19:08:38.787621+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 580.72,
-    "change_pct": 1.6168544830965192
+    "price": 582.01,
+    "change_pct": 1.8425841674249321
   },
   "risk": {
-    "score": 63,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-29T17:34:46.676606+00:00",
-      "close": 514.03
-    },
     {
       "timestamp": "2026-07-29T18:36:58.428580+00:00",
       "close": 518.74
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-07T17:59:50.306037+00:00",
       "close": 580.72
+    },
+    {
+      "timestamp": "2026-08-07T19:08:38.787621+00:00",
+      "close": 582.01
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-07T13:27:27+00:00",
+      "title": "S&P 500 Hits Record As Jobs Shock Sinks Rate-Hike Bets: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-07T12:35:40+00:00",
       "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T12:25:29+00:00",
+      "title": "What's Going On With Taiwan Semiconductor Stock Friday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-06T06:17:16+00:00",
       "title": "Bigger Earnings, Bigger Drop: The Sandisk Selloff Explained",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T03:40:00+00:00",
-      "title": "August Perspective",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T01:15:00+00:00",
-      "title": "The World Has Changed - Portfolio Construction Should Too",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
