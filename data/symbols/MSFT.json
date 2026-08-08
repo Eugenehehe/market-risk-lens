@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:50:13.858485+00:00",
+  "generated_at": "2026-08-08T20:14:17.817037+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T04:39:09.405096+00:00",
-      "close": 464.72
-    },
     {
       "timestamp": "2026-08-01T07:14:55.573335+00:00",
       "close": 464.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 499.99
+    },
+    {
+      "timestamp": "2026-08-08T20:14:17.817037+00:00",
+      "close": 499.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T18:59:44+00:00",
+      "title": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T17:00:51+00:00",
       "title": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T06:00:00+00:00",
       "title": "Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T05:55:21+00:00",
-      "title": "Microsoft: Big New AI Advantage, But Beware Duration Mismatch",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
