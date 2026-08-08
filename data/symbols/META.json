@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:51:21.814850+00:00",
+  "generated_at": "2026-08-08T22:17:51.324751+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 592.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T12:06:55.749402+00:00",
-      "close": 556.71
-    },
     {
       "timestamp": "2026-08-01T13:51:26.966697+00:00",
       "close": 556.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T21:51:21.814850+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-08T22:17:51.324751+00:00",
+      "close": 592.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T21:01:02+00:00",
+      "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T14:11:16+00:00",
       "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T00:04:09+00:00",
       "title": "Black Hills Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T23:58:47+00:00",
-      "title": "Meta (META) Q2 2026 Earnings Call Transcript",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

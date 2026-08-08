@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:51:21.814850+00:00",
+  "generated_at": "2026-08-08T22:17:51.324751+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 483.36,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T12:06:55.749402+00:00",
-      "close": 476.15
-    },
     {
       "timestamp": "2026-08-01T13:51:26.966697+00:00",
       "close": 476.15
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-08T21:51:21.814850+00:00",
       "close": 483.36
+    },
+    {
+      "timestamp": "2026-08-08T22:17:51.324751+00:00",
+      "close": 483.36
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-08T19:46:09+00:00",
       "title": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T15:15:02+00:00",
+      "title": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-08T09:52:42+00:00",
       "title": "AMD: The Market Is Pricing In A Fantasy",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T08:00:20+00:00",
-      "title": "SpaceX, GameStop, Palantir and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
