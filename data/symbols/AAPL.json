@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:09:36.014267+00:00",
+  "generated_at": "2026-08-08T07:14:13.159118+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T14:52:29.477676+00:00",
-      "close": 332.46
-    },
     {
       "timestamp": "2026-07-30T16:21:49.702713+00:00",
       "close": 332.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T06:09:36.014267+00:00",
       "close": 313.33
+    },
+    {
+      "timestamp": "2026-08-08T07:14:13.159118+00:00",
+      "close": 313.33
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-08T01:13:29+00:00",
       "title": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street’s Focus Is on Supply Constraints and Margins",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T23:00:02+00:00",
+      "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T20:13:15+00:00",
       "title": "Tougher Google Antitrust Penalties Would Threaten Firefox, Mozilla Warns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T19:04:21+00:00",
-      "title": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

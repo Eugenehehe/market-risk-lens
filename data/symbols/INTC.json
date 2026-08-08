@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:09:36.014267+00:00",
+  "generated_at": "2026-08-08T07:14:13.159118+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 101.65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T14:52:29.477676+00:00",
-      "close": 92.78
-    },
     {
       "timestamp": "2026-07-30T16:21:49.702713+00:00",
       "close": 92.87
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-08T06:09:36.014267+00:00",
       "close": 101.65
+    },
+    {
+      "timestamp": "2026-08-08T07:14:13.159118+00:00",
+      "close": 101.65
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-08T02:11:11+00:00",
       "title": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T23:00:02+00:00",
+      "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T17:30:00+00:00",
       "title": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:15:00+00:00",
-      "title": "AMD Drops 6% Post Q2 Earnings: Is the Stock a Buy on the Dip?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
