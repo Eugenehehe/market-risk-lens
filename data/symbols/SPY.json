@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:54:31.645405+00:00",
+  "generated_at": "2026-08-08T09:35:51.312850+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T20:42:38.899196+00:00",
-      "close": 741.69
-    },
     {
       "timestamp": "2026-07-30T21:49:37.170629+00:00",
       "close": 741.69
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-08T08:54:31.645405+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-08T09:35:51.312850+00:00",
+      "close": 773.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T05:00:00+00:00",
+      "title": "U.S. Government Borrows $800B In 3 Months",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T04:50:00+00:00",
+      "title": "FOMO Vs. The Earnings Bar",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T04:30:14+00:00",
       "title": "Weekly Commentary: Bessent's Gambit",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-07T21:20:00+00:00",
       "title": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T20:45:00+00:00",
-      "title": "Employment Report: 23K Jobs Shed In July, Worse Than Expected",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T19:46:09+00:00",
-      "title": "The 20 Most Actively Traded ETFs",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
