@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:00:03.924483+00:00",
+  "generated_at": "2026-08-08T18:51:34.012805+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 328.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-31T23:38:19.101355+00:00",
-      "close": 311.21
-    },
     {
       "timestamp": "2026-08-01T01:13:20.385250+00:00",
       "close": 311.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T18:00:03.924483+00:00",
       "close": 328.58
+    },
+    {
+      "timestamp": "2026-08-08T18:51:34.012805+00:00",
+      "close": 328.58
     }
   ],
   "events": [
@@ -516,6 +516,30 @@
     {
       "timestamp": "2026-08-08T13:23:34+00:00",
       "title": "Tesla UK sales drop as craze for Chinese rivals surges",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T13:00:00+00:00",
+      "title": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T12:59:57+00:00",
+      "title": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T11:00:00+00:00",
+      "title": "Tesla eyes tax breaks for $10.1 billion solar manufacturing plant in Fort Bend County",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-08T01:10:16+00:00",
       "title": "Trump Administration Pledges Over $2 Billion for Battery, Critical-Minerals Firms to Cut China Reliance: 'We Want These...'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T00:52:24+00:00",
-      "title": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T22:19:15+00:00",
-      "title": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T22:10:35+00:00",
-      "title": "Elon Musk's Texas empire could soon include $10B Tesla solar plant in Fort Bend. Here's what to know",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
