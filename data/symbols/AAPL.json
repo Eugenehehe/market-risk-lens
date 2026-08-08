@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:01:23.174872+00:00",
+  "generated_at": "2026-08-08T14:42:39.218358+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-31T11:39:16.289802+00:00",
-      "close": 333.43
-    },
     {
       "timestamp": "2026-07-31T13:19:02.267463+00:00",
       "close": 333.43
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T14:01:23.174872+00:00",
       "close": 313.33
+    },
+    {
+      "timestamp": "2026-08-08T14:42:39.218358+00:00",
+      "close": 313.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T12:34:58+00:00",
+      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T09:04:00+00:00",
       "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T20:38:10+00:00",
       "title": "Why Apple’s 10% Drop Fails to Tell the Whole Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T20:20:00+00:00",
-      "title": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
