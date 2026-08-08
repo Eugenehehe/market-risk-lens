@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:02:13.229674+00:00",
+  "generated_at": "2026-08-08T08:54:31.645405+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 301.56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T17:54:48.815296+00:00",
-      "close": 291.28
-    },
     {
       "timestamp": "2026-07-30T19:25:08.612267+00:00",
       "close": 292.28
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-08T08:02:13.229674+00:00",
       "close": 301.56
+    },
+    {
+      "timestamp": "2026-08-08T08:54:31.645405+00:00",
+      "close": 301.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T04:30:14+00:00",
+      "title": "Weekly Commentary: Bessent's Gambit",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T04:10:00+00:00",
+      "title": "Household Survey Shows 1.8M Jobs Lost In 2026 So Far",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T00:35:00+00:00",
       "title": "The Big Four Recession Indicators: Employment",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-07T15:10:24+00:00",
       "title": "A Weakening Labor Market, Or A Demographic Shift?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T13:52:40+00:00",
-      "title": "The S&P 500 Faces A Potentially Sharp Volatility Unwind",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T13:27:27+00:00",
-      "title": "S&P 500 Hits Record As Jobs Shock Sinks Rate-Hike Bets: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:02:13.229674+00:00",
+  "generated_at": "2026-08-08T08:54:31.645405+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T19:25:08.612267+00:00",
-      "close": 742.04
-    },
     {
       "timestamp": "2026-07-30T20:42:38.899196+00:00",
       "close": 741.69
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-08T08:02:13.229674+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-08T08:54:31.645405+00:00",
+      "close": 773.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T04:30:14+00:00",
+      "title": "Weekly Commentary: Bessent's Gambit",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T04:10:00+00:00",
+      "title": "Household Survey Shows 1.8M Jobs Lost In 2026 So Far",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T03:15:40+00:00",
       "title": "ISPY’s 0.56% Fee Hides a $38,000 Decade-Long Performance Gap Against SPY",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-07T19:46:09+00:00",
       "title": "The 20 Most Actively Traded ETFs",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T19:40:02+00:00",
-      "title": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:02:03+00:00",
-      "title": "I've Never Had Such A Low Conviction In A Bull Run",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
