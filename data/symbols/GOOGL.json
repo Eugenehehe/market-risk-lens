@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:30:44.213227+00:00",
+  "generated_at": "2026-08-08T18:00:03.924483+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 354.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-31T21:28:29.686924+00:00",
-      "close": 356.13
-    },
     {
       "timestamp": "2026-07-31T22:34:57.162639+00:00",
       "close": 356.13
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T17:30:44.213227+00:00",
       "close": 354.3
+    },
+    {
+      "timestamp": "2026-08-08T18:00:03.924483+00:00",
+      "close": 354.3
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-08T13:29:32+00:00",
       "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T09:20:12+00:00",
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T21:30:00+00:00",
       "title": "Oracle Surges: What's Driving the Sudden Rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T20:59:39+00:00",
-      "title": "Google Cloud’s Taiwan Launch Hints at Alphabet’s (GOOGL) Next Growth Phase",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
