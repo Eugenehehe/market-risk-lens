@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:02:42.150287+00:00",
+  "generated_at": "2026-08-08T02:16:34.985793+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T06:10:11.284333+00:00",
-      "close": 729.46
-    },
     {
       "timestamp": "2026-07-30T08:50:04.970419+00:00",
       "close": 729.46
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T00:02:42.150287+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-08T02:16:34.985793+00:00",
+      "close": 773.26
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-07T21:24:45+00:00",
       "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T21:20:00+00:00",
+      "title": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-07T20:45:00+00:00",
+      "title": "Employment Report: 23K Jobs Shed In July, Worse Than Expected",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-07T15:43:29+00:00",
       "title": "QUICK SPARK: SPY, GLD Among Biggest Winners as $15.3 Billion Floods Into ETFs in One Day",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:30:00+00:00",
-      "title": "These New Drugs Could Fuel Fresh Highs for Biotech and Pharma Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:13:11+00:00",
-      "title": "These Will Be Among The First Casualties When The AI Bubble Bursts",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

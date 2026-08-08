@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:02:42.150287+00:00",
+  "generated_at": "2026-08-08T02:16:34.985793+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 877.57,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T03:32:41.402612+00:00",
-      "close": 739
-    },
     {
       "timestamp": "2026-07-30T06:10:11.284333+00:00",
       "close": 739
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T00:02:42.150287+00:00",
       "close": 877.57
+    },
+    {
+      "timestamp": "2026-08-08T02:16:34.985793+00:00",
+      "close": 877.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-07T22:42:00+00:00",
+      "title": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-07T20:16:43+00:00",
       "title": "Citi Revamps Micron Target Target With A Twist",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T18:47:00+00:00",
       "title": "China opens formal probe into Palo Alto just as stock hits highs",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T18:05:02+00:00",
-      "title": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
