@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:42:10.374826+00:00",
+  "generated_at": "2026-08-08T05:28:40.149124+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T12:28:30.216581+00:00",
-      "close": 729.46
-    },
     {
       "timestamp": "2026-07-30T14:52:29.477676+00:00",
       "close": 737.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T04:42:10.374826+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-08T05:28:40.149124+00:00",
+      "close": 773.26
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-08T03:15:40+00:00",
       "title": "ISPY’s 0.56% Fee Hides a $38,000 Decade-Long Performance Gap Against SPY",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T00:35:00+00:00",
+      "title": "The Big Four Recession Indicators: Employment",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T16:02:03+00:00",
       "title": "I've Never Had Such A Low Conviction In A Bull Run",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:46:51+00:00",
-      "title": "Caution Ahead: Average 3-Month Jobs Prints At Just 20,000 And The JPY Needed A Bailout",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
