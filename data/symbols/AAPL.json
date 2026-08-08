@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:19:27.888838+00:00",
+  "generated_at": "2026-08-08T21:51:21.814850+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T10:58:03.702930+00:00",
-      "close": 308.91
-    },
     {
       "timestamp": "2026-08-01T12:06:55.749402+00:00",
       "close": 308.91
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T21:19:27.888838+00:00",
       "close": 313.33
+    },
+    {
+      "timestamp": "2026-08-08T21:51:21.814850+00:00",
+      "close": 313.33
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-08T13:44:30+00:00",
+      "title": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-08T12:34:58+00:00",
       "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-08T11:00:00+00:00",
       "title": "Cisco, Tencent Headline Muted Earnings Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T09:20:12+00:00",
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

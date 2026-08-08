@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:19:27.888838+00:00",
+  "generated_at": "2026-08-08T21:51:21.814850+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T12:06:55.749402+00:00",
-      "close": 747.03
-    },
     {
       "timestamp": "2026-08-01T13:51:26.966697+00:00",
       "close": 747.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T21:19:27.888838+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-08T21:51:21.814850+00:00",
+      "close": 773.26
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-08T18:08:06+00:00",
       "title": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T13:44:30+00:00",
+      "title": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T08:15:00+00:00",
       "title": "The AI Capex Waterfall Is Raining Future Dividends",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T08:00:00+00:00",
-      "title": "As America Runs Out Of Missiles, The Next CPI Print Is A Risk To Equities",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

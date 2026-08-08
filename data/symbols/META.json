@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:19:27.888838+00:00",
+  "generated_at": "2026-08-08T21:51:21.814850+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 592.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T10:58:03.702930+00:00",
-      "close": 556.71
-    },
     {
       "timestamp": "2026-08-01T12:06:55.749402+00:00",
       "close": 556.71
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T21:19:27.888838+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-08T21:51:21.814850+00:00",
+      "close": 592.1
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-08T14:11:16+00:00",
       "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-08T13:44:30+00:00",
+      "title": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T23:58:47+00:00",
       "title": "Meta (META) Q2 2026 Earnings Call Transcript",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T23:57:12+00:00",
-      "title": "Airbnb CEO Brian Chesky Is Betting Bigger on AI After Admitting He ‘Underestimated’ Its Impact: 'Our Revenue Is Much Higher'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
