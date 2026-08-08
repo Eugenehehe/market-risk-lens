@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:06:00.212432+00:00",
+  "generated_at": "2026-08-08T10:49:06.110845+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-30T22:52:30.005316+00:00",
-      "close": 741.69
-    },
     {
       "timestamp": "2026-07-30T23:56:56.577144+00:00",
       "close": 741.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T10:06:00.212432+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-08T10:49:06.110845+00:00",
+      "close": 773.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T06:00:00+00:00",
+      "title": "Hormuz Benefits U.S. Energy Exports, Plus Data Center Action (Video)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T05:00:00+00:00",
       "title": "U.S. Government Borrows $800B In 3 Months",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T21:24:45+00:00",
       "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T21:20:00+00:00",
-      "title": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
