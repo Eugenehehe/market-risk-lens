@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:19:27.310954+00:00",
+  "generated_at": "2026-08-08T23:49:36.091794+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T15:52:27.255402+00:00",
-      "close": 464.72
-    },
     {
       "timestamp": "2026-08-01T16:52:58.825491+00:00",
       "close": 464.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T23:19:27.310954+00:00",
       "close": 499.99
+    },
+    {
+      "timestamp": "2026-08-08T23:49:36.091794+00:00",
+      "close": 499.99
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-08T15:45:48+00:00",
+      "title": "CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-08T15:38:36+00:00",
       "title": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T13:44:30+00:00",
       "title": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T09:54:54+00:00",
-      "title": "Cisco, Top Dow Jones Stock of 2026, Faces Crucial Test as Earnings Loom",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
