@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:47:14.497362+00:00",
+  "generated_at": "2026-08-08T16:14:17.958863+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 101.65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-31T17:08:51.052706+00:00",
-      "close": 91.96
-    },
     {
       "timestamp": "2026-07-31T18:44:48.403117+00:00",
       "close": 92.67
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T15:47:14.497362+00:00",
       "close": 101.65
+    },
+    {
+      "timestamp": "2026-08-08T16:14:17.958863+00:00",
+      "close": 101.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T14:00:08+00:00",
+      "title": "Ron Paul: Trump’s New Policy Is ‘As Dangerous to Liberty and Prosperity’ as Mamdani’s",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T12:55:33+00:00",
       "title": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T18:00:00+00:00",
       "title": "Curious about the most active stocks on Friday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:58:49+00:00",
-      "title": "The Toughest Questions AMD Faced On Its Latest Call",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
