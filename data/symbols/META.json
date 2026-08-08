@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:16:43.151456+00:00",
+  "generated_at": "2026-08-08T13:16:34.052112+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 592.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-07-31T06:31:27.920293+00:00",
-      "close": 539.03
-    },
     {
       "timestamp": "2026-07-31T09:26:58.277196+00:00",
       "close": 539.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-08T12:16:43.151456+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-08T13:16:34.052112+00:00",
+      "close": 592.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-08T08:15:00+00:00",
+      "title": "The AI Capex Waterfall Is Raining Future Dividends",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T03:19:28+00:00",
       "title": "7 Reasons Pershing Square (PS) Looks Pricey After Ackman Spotlighted AI Holdings",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-07T19:56:14+00:00",
       "title": "Meta Faces New Risk After Major Court Ruling",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T19:53:17+00:00",
-      "title": "Meta Stock Rises 1.2% Despite $942 Million Child-Safety Judgment",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
