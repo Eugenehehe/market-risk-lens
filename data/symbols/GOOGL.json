@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:32:50.135567+00:00",
+  "generated_at": "2026-08-09T11:59:09.546275+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 354.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T11:47:12.426878+00:00",
-      "close": 356.13
-    },
     {
       "timestamp": "2026-08-02T12:44:48.063201+00:00",
       "close": 356.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 354.3
+    },
+    {
+      "timestamp": "2026-08-09T11:59:09.546275+00:00",
+      "close": 354.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T07:30:00+00:00",
+      "title": "Brookfield Asset Management: Reasonably Valued, But AI Tailwinds Could Justify A Higher Valuation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T07:08:20+00:00",
       "title": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-09T00:19:41+00:00",
       "title": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T22:59:09+00:00",
-      "title": "Tracking Tweedy Browne Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
