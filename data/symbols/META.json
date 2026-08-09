@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:43:26.380737+00:00",
+  "generated_at": "2026-08-09T10:16:46.986931+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 592.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T06:38:16.122840+00:00",
-      "close": 556.71
-    },
     {
       "timestamp": "2026-08-02T08:58:34.767065+00:00",
       "close": 556.71
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-09T10:16:46.986931+00:00",
+      "close": 592.1
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-09T06:50:00+00:00",
       "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T05:52:44+00:00",
+      "title": "META: Why The Market's Reaction Is Justified This Time Around (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-08T15:45:48+00:00",
       "title": "CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T14:11:16+00:00",
-      "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:43:26.380737+00:00",
+  "generated_at": "2026-08-09T10:16:46.986931+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T06:38:16.122840+00:00",
-      "close": 308.91
-    },
     {
       "timestamp": "2026-08-02T08:58:34.767065+00:00",
       "close": 308.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 313.33
+    },
+    {
+      "timestamp": "2026-08-09T10:16:46.986931+00:00",
+      "close": 313.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T08:01:00+00:00",
+      "title": "Apple Added About $1.5 Trillion in Market Value in a Year. Here's What $10,000 Invested a Decade Ago Is Worth Now.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T06:50:00+00:00",
       "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-08T15:17:00+00:00",
       "title": "Bank of America revamps Apple stock price target after earnings",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T13:44:30+00:00",
-      "title": "VOO, SPY, SPYM ETF Inflows Jump as S&P 500 Index Q2 Earnings Growth Hits 50%",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

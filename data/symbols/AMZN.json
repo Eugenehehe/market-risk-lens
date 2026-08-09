@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:43:26.380737+00:00",
+  "generated_at": "2026-08-09T10:16:46.986931+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 274.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T06:38:16.122840+00:00",
-      "close": 271.58
-    },
     {
       "timestamp": "2026-08-02T08:58:34.767065+00:00",
       "close": 271.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 274.48
+    },
+    {
+      "timestamp": "2026-08-09T10:16:46.986931+00:00",
+      "close": 274.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T08:35:00+00:00",
+      "title": "My 3 Favorite Value Stocks to Buy Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T07:08:20+00:00",
       "title": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-09T03:11:49+00:00",
       "title": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T21:03:52+00:00",
-      "title": "NiSource Q2 Earnings Call Highlights",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
