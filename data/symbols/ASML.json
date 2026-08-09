@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:04:19.458802+00:00",
+  "generated_at": "2026-08-09T18:57:05.716832+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1740.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T22:41:22.647763+00:00",
-      "close": 1629
-    },
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 1629
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T18:04:19.458802+00:00",
       "close": 1740.99
+    },
+    {
+      "timestamp": "2026-08-09T18:57:05.716832+00:00",
+      "close": 1740.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T17:09:34+00:00",
+      "title": "Is ASML Holding (NasdaqGS:ASML) Trading At A Premium Or Fair Value?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-08T18:10:08+00:00",
       "title": "ASML Holding (ENXTAM:ASML) Draws Fresh Attention After $400 Million Bet On Lithography Rival",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-07T11:58:43+00:00",
       "title": "Why Onto Innovation Is A Buy After Posting Q2 Results",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T03:32:20+00:00",
-      "title": "Chinese AI Chipmakers Poised to Gain From Beijing’s Tech Push",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

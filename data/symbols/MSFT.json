@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:04:19.458802+00:00",
+  "generated_at": "2026-08-09T18:57:05.716832+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T22:41:22.647763+00:00",
-      "close": 464.72
-    },
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 464.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T18:04:19.458802+00:00",
       "close": 499.99
+    },
+    {
+      "timestamp": "2026-08-09T18:57:05.716832+00:00",
+      "close": 499.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T16:04:46+00:00",
+      "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T14:43:00+00:00",
       "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-09T07:30:00+00:00",
       "title": "Brookfield Asset Management: Reasonably Valued, But AI Tailwinds Could Justify A Higher Valuation",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T07:15:13+00:00",
-      "title": "Geron (GERN) Is Up 14.7% After Issuing First RYTELO Revenue Guide And Narrowing Losses - Has The Bull Case Changed?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

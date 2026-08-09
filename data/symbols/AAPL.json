@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:04:19.458802+00:00",
+  "generated_at": "2026-08-09T18:57:05.716832+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T22:41:22.647763+00:00",
-      "close": 308.91
-    },
     {
       "timestamp": "2026-08-02T23:43:05.276778+00:00",
       "close": 308.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T18:04:19.458802+00:00",
       "close": 313.33
+    },
+    {
+      "timestamp": "2026-08-09T18:57:05.716832+00:00",
+      "close": 313.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T16:04:46+00:00",
+      "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T12:06:55+00:00",
       "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T18:30:58+00:00",
       "title": "iPhone 18 Pro Release Date: Apple’s Strategy Demands September Launch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T18:22:58+00:00",
-      "title": "Warren Buffett is out, and Berkshire Hathaway is spending again",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
