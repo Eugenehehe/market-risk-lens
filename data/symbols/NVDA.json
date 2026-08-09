@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:11:06.024844+00:00",
+  "generated_at": "2026-08-09T08:02:16.784088+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 223.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T23:13:00.446889+00:00",
-      "close": 200.75
-    },
     {
       "timestamp": "2026-08-02T00:14:04.149994+00:00",
       "close": 200.75
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T07:11:06.024844+00:00",
       "close": 223.96
+    },
+    {
+      "timestamp": "2026-08-09T08:02:16.784088+00:00",
+      "close": 223.96
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-09T03:11:49+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-09T01:28:00+00:00",
       "title": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T00:27:35+00:00",
       "title": "Why Voyager Stock Skyrocketed This Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T00:11:00+00:00",
-      "title": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

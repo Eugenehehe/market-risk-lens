@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:11:06.024844+00:00",
+  "generated_at": "2026-08-09T08:02:16.784088+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 354.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T23:13:00.446889+00:00",
-      "close": 356.13
-    },
     {
       "timestamp": "2026-08-02T00:14:04.149994+00:00",
       "close": 356.13
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T07:11:06.024844+00:00",
       "close": 354.3
+    },
+    {
+      "timestamp": "2026-08-09T08:02:16.784088+00:00",
+      "close": 354.3
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-09T04:20:00+00:00",
       "title": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T03:11:49+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T18:59:44+00:00",
       "title": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T16:38:43+00:00",
-      "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:11:06.024844+00:00",
+  "generated_at": "2026-08-09T08:02:16.784088+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 274.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T23:13:00.446889+00:00",
-      "close": 271.58
-    },
     {
       "timestamp": "2026-08-02T00:14:04.149994+00:00",
       "close": 271.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T07:11:06.024844+00:00",
       "close": 274.48
+    },
+    {
+      "timestamp": "2026-08-09T08:02:16.784088+00:00",
+      "close": 274.48
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-09T04:24:48+00:00",
       "title": "What Does Amazon.com (AMZN) Backing A Texas Gas Plant Mean For Its Climate Pledge?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T03:11:49+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T14:35:00+00:00",
       "title": "Jeff Bezos' Amazon Just Raised Its AI Spending to $220 Billion for 2026. Here's What That Capex Hike Means for Investors.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T14:30:59+00:00",
-      "title": "eBay Slid This Past Month: Why a Leading Analyst Expects 32% Growth Ahead Anyway",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

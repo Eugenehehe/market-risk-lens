@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:11:06.024844+00:00",
+  "generated_at": "2026-08-09T08:02:16.784088+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 328.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T00:14:04.149994+00:00",
-      "close": 311.21
-    },
     {
       "timestamp": "2026-08-02T03:57:01.952809+00:00",
       "close": 311.21
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T07:11:06.024844+00:00",
       "close": 328.58
+    },
+    {
+      "timestamp": "2026-08-09T08:02:16.784088+00:00",
+      "close": 328.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T03:11:49+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T01:35:00+00:00",
       "title": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-08T12:59:57+00:00",
       "title": "SpaceX Just Picked Texas for a 2.5-Mile-Long Terafab and It Could Be the Largest Building on Earth",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T12:49:15+00:00",
-      "title": "Musk's Net Worth Jumps $96 Billion in a Day as Top Analysts Boost SpaceX Stock Forecast",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
