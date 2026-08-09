@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:59:09.546275+00:00",
+  "generated_at": "2026-08-09T13:08:05.497077+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 592.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T12:44:48.063201+00:00",
-      "close": 556.71
-    },
     {
       "timestamp": "2026-08-02T14:17:18.020788+00:00",
       "close": 556.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-09T13:08:05.497077+00:00",
+      "close": 592.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T11:35:29+00:00",
+      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T07:25:00+00:00",
       "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-08T21:01:02+00:00",
       "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T15:45:48+00:00",
-      "title": "CoreWeave Stock Stuck in a Bear Market as Short Interest Rises Ahead of Earnings",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
