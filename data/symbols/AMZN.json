@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:48:06.969527+00:00",
+  "generated_at": "2026-08-09T16:16:31.670719+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 274.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T18:40:15.206363+00:00",
-      "close": 271.58
-    },
     {
       "timestamp": "2026-08-02T19:54:04.082251+00:00",
       "close": 271.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-09T15:48:06.969527+00:00",
       "close": 274.48
+    },
+    {
+      "timestamp": "2026-08-09T16:16:31.670719+00:00",
+      "close": 274.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-09T14:07:00+00:00",
+      "title": "Jeff Bezos breaks his own Amazon record",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T12:30:00+00:00",
       "title": "3 Artificial Intelligence (AI) Stocks to Load Up On in August",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T07:08:20+00:00",
       "title": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T06:50:00+00:00",
-      "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
