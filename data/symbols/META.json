@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:08:05.497077+00:00",
+  "generated_at": "2026-08-09T13:57:10.140663+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 592.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T14:17:18.020788+00:00",
-      "close": 556.71
-    },
     {
       "timestamp": "2026-08-02T15:31:50.617116+00:00",
       "close": 556.71
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-09T13:57:10.140663+00:00",
+      "close": 592.1
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-09T11:35:29+00:00",
       "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T09:30:00+00:00",
+      "title": "Nvidia's Stock Is Completely Mispriced",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T09:24:51+00:00",
+      "title": "AMD: Lisa Su's Magic Appears To Be Fading",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-09T03:11:49+00:00",
       "title": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T23:05:01+00:00",
-      "title": "IonQ vs. Meta Platforms: Comparing Revenue Trends Between a Cutting-Edge Quantum Computing Company and an Artificial Intelligence Giant",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T21:01:02+00:00",
-      "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

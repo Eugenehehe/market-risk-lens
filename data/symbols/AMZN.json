@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:08:05.497077+00:00",
+  "generated_at": "2026-08-09T13:57:10.140663+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 274.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T14:17:18.020788+00:00",
-      "close": 271.58
-    },
     {
       "timestamp": "2026-08-02T15:31:50.617116+00:00",
       "close": 271.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 274.48
+    },
+    {
+      "timestamp": "2026-08-09T13:57:10.140663+00:00",
+      "close": 274.48
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-09T10:17:57+00:00",
       "title": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T09:30:00+00:00",
+      "title": "Nvidia's Stock Is Completely Mispriced",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T06:03:50+00:00",
       "title": "SK Telecom Q2 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T05:20:00+00:00",
-      "title": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

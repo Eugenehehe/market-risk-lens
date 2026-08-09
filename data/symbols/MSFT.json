@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:08:05.497077+00:00",
+  "generated_at": "2026-08-09T13:57:10.140663+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-02T14:17:18.020788+00:00",
-      "close": 464.72
-    },
     {
       "timestamp": "2026-08-02T15:31:50.617116+00:00",
       "close": 464.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 499.99
+    },
+    {
+      "timestamp": "2026-08-09T13:57:10.140663+00:00",
+      "close": 499.99
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-09T10:31:26+00:00",
       "title": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T09:30:00+00:00",
+      "title": "Nvidia's Stock Is Completely Mispriced",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T06:50:00+00:00",
       "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T05:20:00+00:00",
-      "title": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
