@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T23:49:36.091794+00:00",
+  "generated_at": "2026-08-09T00:37:54.227478+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 53.22,
     "change_pct": 1.5067709326721301
   },
   "risk": {
-    "score": 63,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-01T16:52:58.825491+00:00",
-      "close": 47.9
-    },
     {
       "timestamp": "2026-08-01T17:56:31.534984+00:00",
       "close": 47.9
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-08T23:49:36.091794+00:00",
       "close": 53.22
+    },
+    {
+      "timestamp": "2026-08-09T00:37:54.227478+00:00",
+      "close": 53.22
     }
   ],
   "events": [
@@ -548,22 +548,6 @@
     {
       "timestamp": "2026-08-07T12:50:00+00:00",
       "title": "Why Rigetti Stock Isn’t Rallying After Its Quantum Sales Surged",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T20:46:00+00:00",
-      "title": "Rigetti’s Quantum System Sales Are Accelerating and the Stock Is Tumbling",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-06T20:15:00+00:00",
-      "title": "Arista Networks Stock Followed Its Chip Orders, Not Its Headlines",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
