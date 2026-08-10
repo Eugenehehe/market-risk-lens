@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T21:06:44.866690+00:00",
+  "generated_at": "2026-08-10T21:55:56.945586+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 418.47,
     "change_pct": -0.3737739262927309
   },
   "risk": {
-    "score": 51,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T12:03:20.623787+00:00",
-      "close": 417.17
-    },
     {
       "timestamp": "2026-08-05T14:28:20.201386+00:00",
       "close": 417.97
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T21:06:44.866690+00:00",
       "close": 418.47
+    },
+    {
+      "timestamp": "2026-08-10T21:55:56.945586+00:00",
+      "close": 418.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T17:33:17+00:00",
+      "title": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T12:41:29+00:00",
       "title": "Microsoft Stock Rises 2%: Upcoming Maia 300 Chip Launch Targets Reduced Nvidia Reliance",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T10:56:11+00:00",
+      "title": "Nvidia Built the AI Brain, Now TSMC Wants to Give It Eyes",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T10:21:51+00:00",
       "title": "Intel Just Put $15 Billion of Stock on the Table. Here's What Investors Need to Know",
       "source": "Benzinga",
@@ -548,14 +564,6 @@
     {
       "timestamp": "2026-08-10T06:00:55+00:00",
       "title": "Sony, TSMC Plan $6.3B Image Sensor Plant in Japan as Apple Camera Demand, ‘Physical AI’ Drive Expansion: Report",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T05:43:04+00:00",
-      "title": "Taiwan Semiconductor’s Blockbuster Run Rolls On: July Revenue Surges 45%",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
