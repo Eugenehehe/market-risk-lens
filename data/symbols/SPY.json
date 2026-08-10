@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:18:34.953195+00:00",
+  "generated_at": "2026-08-10T12:04:17.807317+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.26,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T16:32:23.153426+00:00",
-      "close": 769.29
-    },
     {
       "timestamp": "2026-08-04T18:15:03.791319+00:00",
       "close": 772
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T11:18:34.953195+00:00",
       "close": 773.26
+    },
+    {
+      "timestamp": "2026-08-10T12:04:17.807317+00:00",
+      "close": 773.26
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-10T09:48:08+00:00",
       "title": "Breadth Breaks Higher as Small Caps Join Friday’s Rally",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T07:30:34+00:00",
+      "title": "July Jobs Report: Safe Haven Investing Is In Order",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T12:50:00+00:00",
       "title": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T09:55:00+00:00",
-      "title": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
