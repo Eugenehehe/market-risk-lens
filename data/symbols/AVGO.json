@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T17:31:55.724247+00:00",
+  "generated_at": "2026-08-10T18:28:17.245328+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 423.31,
-    "change_pct": -1.0403029736300695
+    "price": 423.88,
+    "change_pct": -0.9070506826257652
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T01:03:49.100189+00:00",
-      "close": 418.16
-    },
     {
       "timestamp": "2026-08-05T04:23:31.770963+00:00",
       "close": 418.16
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T17:31:55.724247+00:00",
       "close": 423.31
+    },
+    {
+      "timestamp": "2026-08-10T18:28:17.245328+00:00",
+      "close": 423.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T16:19:00+00:00",
+      "title": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:07:00+00:00",
+      "title": "Cerebras Q2 Earnings Loom: Buy or Sell CBRS Stock Ahead of Results?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:05:00+00:00",
+      "title": "Broadcom Stock Looks Like a Screaming Deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T15:14:59+00:00",
       "title": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-10T13:19:20+00:00",
       "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T12:18:36+00:00",
-      "title": "TSMC Sales Jumps 45% as Nvidia-Driven AI Boom Powers Chip Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T09:33:00+00:00",
-      "title": "What's Going On With Broadcom Stock Monday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T09:14:43+00:00",
-      "title": "What's Going On With Marvell Technology Stock Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

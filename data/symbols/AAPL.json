@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T17:31:55.724247+00:00",
+  "generated_at": "2026-08-10T18:28:17.245328+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 306.46,
-    "change_pct": -2.1925765167714606
+    "price": 306.76,
+    "change_pct": -2.0968308173491157
   },
   "risk": {
-    "score": 68,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T01:03:49.100189+00:00",
-      "close": 309.38
-    },
     {
       "timestamp": "2026-08-05T04:23:31.770963+00:00",
       "close": 309.38
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-08-10T17:31:55.724247+00:00",
       "close": 306.46
+    },
+    {
+      "timestamp": "2026-08-10T18:28:17.245328+00:00",
+      "close": 306.76
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-10T17:46:55+00:00",
+      "title": "Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T17:31:00+00:00",
+      "title": "Apple downgraded by Jefferies on iPhone pricing concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T17:07:13+00:00",
+      "title": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T16:40:04+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:27:59+00:00",
+      "title": "Microsoft to Boost AI Chip Production, Information Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T15:59:05+00:00",
+      "title": "Will Apple Have To Increase iPhone Prices?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-08-10T15:46:30+00:00",
       "title": "Apple Stock Falls 2.2% as Jefferies Turns Bearish",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:22:41+00:00",
-      "title": "‘Massive Upgrade Cycle’ Coming – Ignore Memory Costs Panic and Buy Apple (AAPL)?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:19:03+00:00",
-      "title": "Apple Investors Get Fresh iPhone Warning",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:13:09+00:00",
-      "title": "Why The Trade Desk Was Sliding Again Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:11:15+00:00",
-      "title": "AAPL Falls After Jefferies Downgrades Stock Over 20th Anniversary iPhone Setback — But Gene Munster Sees ‘Strong Next 12 Months’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:57:53+00:00",
-      "title": "Socket Mobile Expands Industrial Mobility Distribution Through 3Eye Technologies Partnership",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

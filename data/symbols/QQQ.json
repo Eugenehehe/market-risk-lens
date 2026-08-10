@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T17:31:55.724247+00:00",
+  "generated_at": "2026-08-10T18:28:17.245328+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 722.13,
-    "change_pct": -0.12447616281481277
+    "price": 720.95,
+    "change_pct": -0.28767824294979594
   },
   "risk": {
-    "score": 51,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T01:03:49.100189+00:00",
-      "close": 723.85
-    },
     {
       "timestamp": "2026-08-05T04:23:31.770963+00:00",
       "close": 723.85
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T17:31:55.724247+00:00",
       "close": 722.13
+    },
+    {
+      "timestamp": "2026-08-10T18:28:17.245328+00:00",
+      "close": 720.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T12:57:15+00:00",
+      "title": "Oil Jumps 3%, Yields Climb as Hormuz Hopes Fade: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T12:05:09+00:00",
       "title": "The One Word That Best Describes The Current Market: Unsustainable",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T09:50:00+00:00",
       "title": "Will The Bond Market Verify The Stock Market's Revived Optimism?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T09:48:08+00:00",
-      "title": "Breadth Breaks Higher as Small Caps Join Friday’s Rally",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

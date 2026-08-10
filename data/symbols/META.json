@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T17:31:55.724247+00:00",
+  "generated_at": "2026-08-10T18:28:17.245328+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 594.34,
-    "change_pct": 0.37831447390643813
+    "price": 592.88,
+    "change_pct": 0.13173450430670197
   },
   "risk": {
-    "score": 54,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T01:03:49.100189+00:00",
-      "close": 587.94
-    },
     {
       "timestamp": "2026-08-05T04:23:31.770963+00:00",
       "close": 587.94
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-08-10T17:31:55.724247+00:00",
       "close": 594.34
+    },
+    {
+      "timestamp": "2026-08-10T18:28:17.245328+00:00",
+      "close": 592.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T17:31:54+00:00",
+      "title": "Sector Update: Tech Stocks Decline Monday Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:57:01+00:00",
+      "title": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:35:44+00:00",
+      "title": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:13:41+00:00",
+      "title": "US court rules Meta, other tech companies must face thousands of lawsuits over social media addiction",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:06:09+00:00",
+      "title": "Meta (META) Unveils Muse Glimmer as Open-Source AI Spending Debate Intensifies",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T15:55:00+00:00",
+      "title": "Meta CEO Mark Zuckerberg outlines AI vision",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T15:37:21+00:00",
       "title": "Meta's Latest AI Move Turns Heads",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-08-10T15:36:19+00:00",
       "title": "Jeff Bezos Nears Major Liverpool Move",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:30:22+00:00",
-      "title": "The Mag 7 Face-Off: Only 2 Come Out on Top",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:22:45+00:00",
-      "title": "Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:57:50+00:00",
-      "title": "Cathie Wood Ignores AI Panic — Buys More Nvidia, Sells This Gaming Stock Instead",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:34:00+00:00",
-      "title": "Memory chip crunch could last 2 more years, JPMorgan says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:20:26+00:00",
-      "title": "Why Meta shareholders should be 'alarmed' right now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:07:37+00:00",
-      "title": "Meta shares gain as Muse Glimmer launch highlights broader AI ambitions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T17:31:55.724247+00:00",
+  "generated_at": "2026-08-10T18:28:17.245328+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 98.71,
-    "change_pct": -2.8922774225283
+    "price": 98.42,
+    "change_pct": -3.1775700934579487
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T01:03:49.100189+00:00",
-      "close": 100.86
-    },
     {
       "timestamp": "2026-08-05T04:23:31.770963+00:00",
       "close": 100.86
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-10T17:31:55.724247+00:00",
       "close": 98.71
+    },
+    {
+      "timestamp": "2026-08-10T18:28:17.245328+00:00",
+      "close": 98.42
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T17:32:08+00:00",
+      "title": "Dan Niles sees Intel foundry win as imminent amid $15B stock offering",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T17:31:54+00:00",
+      "title": "Sector Update: Tech Stocks Decline Monday Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:57:28+00:00",
+      "title": "Intel Plans $15 Billion Stock Offering as AI Demand Requires Higher Capital Spending",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:50:00+00:00",
+      "title": "Intel trades lower on $15B share sale",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T16:18:50+00:00",
+      "title": "Intel Stock Drops After $15 Billion Share Sale. Is AI Spending Getting Too Expensive?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T15:47:59+00:00",
       "title": "Intel Stock Drops 4.5% as $15 Billion Share Sale Hits",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-08-10T15:38:43+00:00",
       "title": "Intel's AI Problem Just Got Bigger",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:31:56+00:00",
-      "title": "Top Midday Stories: Intel Offers $15 Billion of Common Stock; Microsoft to Ramp Up Production of Homegrown AI Chip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:16:17+00:00",
-      "title": "RocketLab Rises on Space Interest; Moderna Moves on Flu Shot | Stock Movers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:14:59+00:00",
-      "title": "Qualcomm's Android Growth Number Has Left The Front Of The Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:09:07+00:00",
-      "title": "Intel Falls 3% on $15 Billion Stock Sale",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:58:37+00:00",
-      "title": "Intel Corporation’s (INTC) Role in AI Infrastructure Shift",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
