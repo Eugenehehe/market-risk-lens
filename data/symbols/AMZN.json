@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:00:03.713460+00:00",
+  "generated_at": "2026-08-10T08:46:33.222259+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 274.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T10:04:28.240595+00:00",
-      "close": 284.02
-    },
     {
       "timestamp": "2026-08-04T12:15:14.688131+00:00",
       "close": 284.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T07:00:03.713460+00:00",
       "close": 274.48
+    },
+    {
+      "timestamp": "2026-08-10T08:46:33.222259+00:00",
+      "close": 274.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T05:35:51+00:00",
+      "title": "Ross Gerber Cites Data to Make a Point: Take Out Alphabet and Amazon, S&P 500 Earnings Growth Looks Far Less Impressive",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T02:42:15+00:00",
       "title": "Amazon: Stunning Earnings Reaffirm Thesis",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T20:53:20+00:00",
       "title": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T20:10:41+00:00",
-      "title": "Electrovaya (TSX:ELVA) Stock Sees Fair Value Lift As Amazon And Jamestown Progress Draw Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
