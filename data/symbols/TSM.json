@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T23:39:27.438420+00:00",
+  "generated_at": "2026-08-10T00:04:54.742544+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 420.04,
     "change_pct": 0.4399808703969388
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 38,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-03T22:38:09.726096+00:00",
-      "close": 406.11
-    },
     {
       "timestamp": "2026-08-03T23:47:25.162097+00:00",
       "close": 406.11
@@ -502,74 +498,13 @@
     {
       "timestamp": "2026-08-09T23:39:27.438420+00:00",
       "close": 420.04
+    },
+    {
+      "timestamp": "2026-08-10T00:04:54.742544+00:00",
+      "close": 420.04
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-08-07T22:05:37+00:00",
-      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:14:43+00:00",
-      "title": "The AI Chip Trade Is Getting Bigger — and More Leveraged. Meet REX’s New 3X Bets",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T12:35:40+00:00",
-      "title": "Trump Says AI Could Be Bigger Than Oil. These ETFs Are Betting on the Fuel Behind the Boom",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T12:25:29+00:00",
-      "title": "What's Going On With Taiwan Semiconductor Stock Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:47:41+00:00",
-      "title": "Sandisk: Memory Has Structurally Changed, The Sector Cannot Remain At 5x P/E",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:21:28+00:00",
-      "title": "Taiwan Semiconductor (NYSE:TSM) Combines High Growth Momentum with a Breakout Setup",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T09:15:46+00:00",
-      "title": "AMD: Buy The Dip - Market Is Mispricing Its Supply Leverage",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T01:20:00+00:00",
-      "title": "Wasatch Micro Cap Fund Q2 2026 Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

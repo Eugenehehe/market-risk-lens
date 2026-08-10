@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T23:39:27.438420+00:00",
+  "generated_at": "2026-08-10T00:04:54.742544+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 218.72,
     "change_pct": 3.885247458915164
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-03T22:38:09.726096+00:00",
-      "close": 193.775
-    },
     {
       "timestamp": "2026-08-03T23:47:25.162097+00:00",
       "close": 193.775
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T23:39:27.438420+00:00",
       "close": 218.72
+    },
+    {
+      "timestamp": "2026-08-10T00:04:54.742544+00:00",
+      "close": 218.72
     }
   ],
   "events": [
@@ -517,54 +517,6 @@
       "timestamp": "2026-08-08T08:30:25+00:00",
       "title": "Benzinga Bulls And Bears: Palantir, Marvell, AppLovin",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T19:00:00+00:00",
-      "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:58:49+00:00",
-      "title": "The Toughest Questions AMD Faced On Its Latest Call",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:44:30+00:00",
-      "title": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:30:00+00:00",
-      "title": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T17:16:00+00:00",
-      "title": "Should Lumentum Stock Be in Your Portfolio Pre-Q4 Earnings?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:42:55+00:00",
-      "title": "Stocks Supported as Fed Rate Hike Fears Ease",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

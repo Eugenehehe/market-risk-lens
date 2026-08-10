@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T23:39:27.438420+00:00",
+  "generated_at": "2026-08-10T00:04:54.742544+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 165.68,
     "change_pct": 5.40781269881665
   },
   "risk": {
-    "score": 74,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-03T22:38:09.726096+00:00",
-      "close": 146.64
-    },
     {
       "timestamp": "2026-08-03T23:47:25.162097+00:00",
       "close": 146.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T23:39:27.438420+00:00",
       "close": 165.68
+    },
+    {
+      "timestamp": "2026-08-10T00:04:54.742544+00:00",
+      "close": 165.68
     }
   ],
   "events": [
@@ -509,54 +509,6 @@
       "timestamp": "2026-08-09T03:11:49+00:00",
       "title": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T20:42:49+00:00",
-      "title": "These AI ‘Pick and Shovel’ Plays Soared on Friday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:35:01+00:00",
-      "title": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T15:43:00+00:00",
-      "title": "NETGEAR Q2 Earnings Beat Estimates, Revenues Decline Y/Y",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T12:35:01+00:00",
-      "title": "Which S&P500 stocks are moving before the opening bell on Friday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T10:26:14+00:00",
-      "title": "Chip Stocks Find Buyers After Earnings Shock Shakes Out AI Trade",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T08:04:01+00:00",
-      "title": "Trump Targets China's Grip on Global Polysilicon Supply With 15% Tariff— Solar Stocks Climb in Friday Pre-Market (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T23:39:27.438420+00:00",
+  "generated_at": "2026-08-10T00:04:54.742544+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 453.77,
     "change_pct": 3.6833085799154563
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-03T22:38:09.726096+00:00",
-      "close": 429.02
-    },
     {
       "timestamp": "2026-08-03T23:47:25.162097+00:00",
       "close": 429.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-09T23:39:27.438420+00:00",
       "close": 453.77
+    },
+    {
+      "timestamp": "2026-08-10T00:04:54.742544+00:00",
+      "close": 453.77
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-08-08T14:35:55+00:00",
       "title": "Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T21:55:50+00:00",
-      "title": "Cisco Stock Is Finally Pricing In A New Growth Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T21:26:17+00:00",
-      "title": "The Art Of The Exit: Dodging Panic When Dell Stock Breached Stop",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T19:45:20+00:00",
-      "title": "If You Invested $100 In Dell Technologies Stock 5 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-07T16:41:00+00:00",
-      "title": "SERV Q2 Loss Wider Than Expected, Revenues Increase Y/Y, Stock Down",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
