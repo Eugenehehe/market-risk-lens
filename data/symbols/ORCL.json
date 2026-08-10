@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:55:56.945586+00:00",
+  "generated_at": "2026-08-10T22:39:35.423696+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 151.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T14:28:20.201386+00:00",
-      "close": 144.96
-    },
     {
       "timestamp": "2026-08-05T16:16:50.625374+00:00",
       "close": 144.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T21:55:56.945586+00:00",
       "close": 151.05
+    },
+    {
+      "timestamp": "2026-08-10T22:39:35.423696+00:00",
+      "close": 151.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T21:20:36+00:00",
+      "title": "Market expert 'cautious' on AI trade, likes healthcare, energy stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T19:26:11+00:00",
       "title": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T15:39:28+00:00",
       "title": "CoreWeave Stock Rallied Ahead Of Its Own Numbers, Not On Them",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:38:18+00:00",
-      "title": "Semis Surge, Michael Burry’s Shorts Feel the Pressure — But Don’t Expect Him to Run for Cover After His Latest “1987-Style” Crash Warning",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

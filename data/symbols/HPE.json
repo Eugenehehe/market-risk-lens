@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:55:56.945586+00:00",
+  "generated_at": "2026-08-10T22:39:35.423696+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 54.68,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T14:28:20.201386+00:00",
-      "close": 53.35
-    },
     {
       "timestamp": "2026-08-05T16:16:50.625374+00:00",
       "close": 53.35
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T21:55:56.945586+00:00",
       "close": 54.68
+    },
+    {
+      "timestamp": "2026-08-10T22:39:35.423696+00:00",
+      "close": 54.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T20:37:09+00:00",
+      "title": "Memory Price Surge Accelerating IT Hardware Spending, Morgan Stanley Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T16:00:15+00:00",
       "title": "SMCI Price Prediction: High Risk, High Reward, Huge Potential",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T12:53:35+00:00",
       "title": "HPE shares jump 5% as Morgan Stanley upgrade points to nearly 30% upside",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T12:35:01+00:00",
-      "title": "Get insights into the top movers in the S&P500 index of Monday's pre-market session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

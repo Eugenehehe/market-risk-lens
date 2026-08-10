@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:55:56.945586+00:00",
+  "generated_at": "2026-08-10T22:39:35.423696+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 506.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T14:28:20.201386+00:00",
-      "close": 489.75
-    },
     {
       "timestamp": "2026-08-05T16:16:50.625374+00:00",
       "close": 488.15
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-10T21:55:56.945586+00:00",
       "close": 506.06
+    },
+    {
+      "timestamp": "2026-08-10T22:39:35.423696+00:00",
+      "close": 506.06
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-10T20:02:03+00:00",
+      "title": "JPMorgan Stock Rises as Bank Lifts S&P Target to 8,000",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T19:51:34+00:00",
       "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T19:50:00+00:00",
+      "title": "Microsoft Is Set to Make a Whole Lot More of Its Own AI Chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T19:08:20+00:00",
       "title": "Take-Two Outlook Poised for Upside as GTA VI Approaches, UBS Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T19:08:02+00:00",
-      "title": "Microsoft's Datacenter Spending Is Disciplined, Bernstein Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T19:02:32+00:00",
-      "title": "Apple (AAPL) Downgraded as Soaring Memory Costs Test iPhone Pricing Power",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
