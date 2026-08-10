@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 101.65,
-    "change_pct": 1.843502655044582
+    "price": 97.64,
+    "change_pct": -3.9449090014756605
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 100.39
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 100.94
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 101.65
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 97.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T12:35:01+00:00",
+      "title": "Get insights into the top movers in the S&P500 index of Monday's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:45:00+00:00",
+      "title": "Intel Announces Proposed $15 Billion Common Stock Offering",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T10:41:37+00:00",
+      "title": "Elon Musk Plans to Spend $119 Billion to Construct the World’s Largest Building, Just Outside Houston",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T04:32:13+00:00",
       "title": "Why Micron is Decisively Better Positioned Than Intel Now",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-08T14:00:08+00:00",
       "title": "Ron Paul: Trump’s New Policy Is ‘As Dangerous to Liberty and Prosperity’ as Mamdani’s",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T12:55:33+00:00",
-      "title": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T02:11:11+00:00",
-      "title": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T01:10:16+00:00",
-      "title": "Trump Administration Pledges Over $2 Billion for Battery, Critical-Minerals Firms to Cut China Reliance: 'We Want These...'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

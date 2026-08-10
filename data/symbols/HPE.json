@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 53.22,
-    "change_pct": 1.5067709326721301
+    "price": 55.38,
+    "change_pct": 4.0586245772266105
   },
   "risk": {
-    "score": 51,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 52.76
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 52.4
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 53.22
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 55.38
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T12:35:01+00:00",
+      "title": "Get insights into the top movers in the S&P500 index of Monday's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:49:26+00:00",
+      "title": "HPE stock surges 5% as Morgan Stanley upgrades, pointing to ~30% upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:35:15+00:00",
+      "title": "Super Micro Computer Continues Its 3-Month Fall: One Wall Street Bull’s Thesis Predicts 55% Upside From Here",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T08:30:00+00:00",
       "title": "SMCI's Q4 Has To Address A $14B Cash Hole (Earnings Preview)",

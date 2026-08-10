@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 427.76,
-    "change_pct": 1.7107938130847877
+    "price": 428.13,
+    "change_pct": 0.08649710117822895
   },
   "risk": {
-    "score": 64,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 421.38
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 418.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 427.76
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 428.13
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-08-09T18:19:31+00:00",
       "title": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T17:15:00+00:00",
+      "title": "10 Shady Things Amazon Doesn't Want You To Know",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T20:42:34+00:00",
       "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T17:30:39+00:00",
-      "title": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 328.58,
-    "change_pct": 2.832284918474004
+    "price": 327.52,
+    "change_pct": -0.3226002799927019
   },
   "risk": {
-    "score": 73,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 326.4
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 327.35
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 328.58
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 327.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T10:41:37+00:00",
+      "title": "Elon Musk Plans to Spend $119 Billion to Construct the World’s Largest Building, Just Outside Houston",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T10:38:00+00:00",
+      "title": "Tesla Stock Is on a Roll as Retail Traders Buy In",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T10:01:12+00:00",
+      "title": "Paul Graham Says His Wife’s First Tesla FSD Experience Was Like a ‘Religious Revelation’— and AI Chief Ashok Elluswamy Had One Request When He Heard It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T07:20:00+00:00",
       "title": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T05:13:58+00:00",
+      "title": "China Humanoid Makers Hold 97% of Global Shipments, Report Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T04:29:42+00:00",
       "title": "How to Deploy $1000 Across Tesla and Ford for Growth and Optionality",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T03:29:31+00:00",
-      "title": "Elon Musk Backs Study Showing Bot Traffic Will Be 1,000X Human Traffic — Michael Burry Wants To Know Who's Actually Paying",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T02:36:33+00:00",
-      "title": "Explainer-What is Unitree and why are China’s humanoid robot makers racing to list?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T18:33:00+00:00",
-      "title": "Billionaire investor shorting SpaceX says one possible fix won't work",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T17:01:42+00:00",
-      "title": "Kevin O'Leary Sat Out SpaceX's IPO— Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

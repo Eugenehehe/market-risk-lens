@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 483.36,
-    "change_pct": -1.2099411379986824
+    "price": 473.51,
+    "change_pct": -2.037818603111552
   },
   "risk": {
-    "score": 60,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 526.61
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 518.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 483.36
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 473.51
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-10T08:49:51+00:00",
       "title": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T08:49:48+00:00",
+      "title": "Why Is TSM Stock Rising Premarket?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T19:50:00+00:00",
       "title": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T14:00:02+00:00",
-      "title": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

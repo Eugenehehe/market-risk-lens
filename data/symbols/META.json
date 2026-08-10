@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 592.1,
-    "change_pct": 0.3729445668757547
+    "price": 598.6,
+    "change_pct": 1.0977875358892053
   },
   "risk": {
-    "score": 53,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 588.23
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 587.94
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 592.1
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 598.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T10:34:19+00:00",
+      "title": "Meta unveils Muse Glimmer as Zuckerberg backs stronger U.S. open-weight AI push",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T10:00:00+00:00",
+      "title": "Airbnb CEO: Why AI is the best thing to happen to us",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T07:30:00+00:00",
       "title": "Meta: FCF Crash Concerning, But I Expect Higher Spending To Pay Off",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-09T19:20:00+00:00",
       "title": "Here's Why Iren Has an Edge in the Neocloud Market, According to Meta's Mark Zuckerberg",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T18:03:00+00:00",
-      "title": "Mark Zuckerberg's Meta lands in hot soup again",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T16:30:27+00:00",
-      "title": "Meta vs. Alphabet: Which Stock Deserves a Spot in Your Portfolio After Q2?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

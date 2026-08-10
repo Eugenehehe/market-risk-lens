@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 723.03,
-    "change_pct": 1.1726019729937809
+    "price": 721.31,
+    "change_pct": -0.23788777782388637
   },
   "risk": {
-    "score": 60,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 723.05
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 723.85
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 723.03
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 721.31
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-10T09:48:08+00:00",
       "title": "Breadth Breaks Higher as Small Caps Join Friday’s Rally",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T08:12:39+00:00",
+      "title": "The Market Rotation Failed Its First Real Test",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T08:00:00+00:00",
+      "title": "The First Negative NFP In Years Just Hit Market - And $1.5 Trillion In Margin Debt Amplifies Every Move",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-09T12:50:00+00:00",
       "title": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T09:55:00+00:00",
-      "title": "The July CPI Report May Reveal Why Rates Are Headed Even Higher",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T09:00:00+00:00",
-      "title": "The Economy No Longer Stinks - But Stocks Have Already Sprinted Ahead",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

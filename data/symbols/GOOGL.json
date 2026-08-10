@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T12:04:17.807317+00:00",
+  "generated_at": "2026-08-10T13:38:29.956858+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 354.3,
-    "change_pct": -0.9643605870020888
+    "price": 354.96,
+    "change_pct": 0.18628281117696321
   },
   "risk": {
-    "score": 58,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T18:15:03.791319+00:00",
-      "close": 379.36
-    },
     {
       "timestamp": "2026-08-04T20:02:08.124831+00:00",
       "close": 377.65
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-10T12:04:17.807317+00:00",
       "close": 354.3
+    },
+    {
+      "timestamp": "2026-08-10T13:38:29.956858+00:00",
+      "close": 354.96
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-10T11:51:20+00:00",
+      "title": "48% of Google Cloud Revenue Next Year Could Come From Just 2 Companies That Have Still Never Turned a Profit",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T09:28:20+00:00",
+      "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T08:50:00+00:00",
+      "title": "Warren Buffett Bought Alphabet Stock Last Year. He Might Buy This Megacap Stock Next, Says a Wall Street Expert.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T08:49:51+00:00",
       "title": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T08:49:48+00:00",
+      "title": "Why Is TSM Stock Rising Premarket?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-10T04:58:39+00:00",
       "title": "Apple’s Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T03:10:07+00:00",
-      "title": "Starlink 'Unbelievable Juggernaut Cash Machine,' Says VC David Friedberg; SpaceX CEO Elon Musk Responds With $1 Trillion+ Annual Revenue Projection",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T01:14:35+00:00",
-      "title": "Why Is Berkshire Hathaway (BRK.B) Deploying Cash More Aggressively Under Greg Abel?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T00:48:06+00:00",
-      "title": "Tencent AI Spending Key After Magnificent 7 Rout",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T00:05:00+00:00",
-      "title": "Meet the High-Yield Dividend Stock Bill Ackman Has Owned for Over a Decade. Here's Why It's a Great Buy in August.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
