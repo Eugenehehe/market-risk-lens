@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:18:26.610586+00:00",
+  "generated_at": "2026-08-10T23:55:16.813458+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 357.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T17:57:00.583543+00:00",
-      "close": 362.64
-    },
     {
       "timestamp": "2026-08-05T19:42:34.354273+00:00",
       "close": 362.54
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T23:18:26.610586+00:00",
       "close": 357.52
+    },
+    {
+      "timestamp": "2026-08-10T23:55:16.813458+00:00",
+      "close": 357.52
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-10T19:37:03+00:00",
       "title": "Microsoft Stock Rises 1.7% as JPMorgan Backs AI Payoff",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T19:22:27+00:00",
+      "title": "Recursion Pharmaceuticals: I'm Still Bearish Despite Recent Genentech News",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T18:30:33+00:00",
       "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T17:52:44+00:00",
-      "title": "9th Circuit rejects Meta bid to toss youth addiction lawsuits",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
