@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:30:13.381879+00:00",
+  "generated_at": "2026-08-10T04:16:08.344793+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T01:10:31.184478+00:00",
-      "close": 303.42
-    },
     {
       "timestamp": "2026-08-04T04:31:33.091077+00:00",
       "close": 303.42
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T02:30:13.381879+00:00",
       "close": 313.33
+    },
+    {
+      "timestamp": "2026-08-10T04:16:08.344793+00:00",
+      "close": 313.33
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-09T22:03:47+00:00",
       "title": "Canaccord Genuity Group Q1 Earnings Call Highlights",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T21:06:37+00:00",
+      "title": "Apple's Favorite Bullying Tactic Just Died in China. It Could Cost You Hundreds on Your Next iPhone.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T10:20:00+00:00",
       "title": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T08:01:00+00:00",
-      "title": "Apple Added About $1.5 Trillion in Market Value in a Year. Here's What $10,000 Invested a Decade Ago Is Worth Now.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
