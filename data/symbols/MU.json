@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T13:38:29.956858+00:00",
+  "generated_at": "2026-08-10T14:42:52.203257+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 866.33,
-    "change_pct": -1.2808095080734327
+    "price": 873.7,
+    "change_pct": -0.4409904622993066
   },
   "risk": {
-    "score": 61,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T20:02:08.124831+00:00",
-      "close": 892.67
-    },
     {
       "timestamp": "2026-08-04T21:21:54.203044+00:00",
       "close": 892.67
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T13:38:29.956858+00:00",
       "close": 866.33
+    },
+    {
+      "timestamp": "2026-08-10T14:42:52.203257+00:00",
+      "close": 873.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T13:20:00+00:00",
+      "title": "Prediction: Micron and Taiwan Semiconductor Manufacturing Stocks Will Both Rebound to Fresh Highs Before 2026 Ends",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:13:00+00:00",
+      "title": "Micron Stock Rises Despite Apple China Chip Threat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:31:05+00:00",
+      "title": "Schwab: Retail investors want AI stocks on the cheap",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T11:20:00+00:00",
       "title": "Why Micron Stock Plummeted 28.7% in July But Is Rebounding in August",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-10T08:24:48+00:00",
       "title": "S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs: Why AAPL, TSM, MU, SPCX, ASTS, SLS Stocks Are In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T08:18:57+00:00",
-      "title": "Market Chatter: Apple Testing CXMT Memory Chips Amid Global Supply Crunch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T04:32:13+00:00",
-      "title": "Why Micron is Decisively Better Positioned Than Intel Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T02:09:24+00:00",
-      "title": "MU Outpaced SNDK, WDC This Week: Now, Retail Traders Bet On Outlook Raise At Key Analyst Event",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

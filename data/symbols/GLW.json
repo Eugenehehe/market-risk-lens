@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T13:38:29.956858+00:00",
+  "generated_at": "2026-08-10T14:42:52.203257+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 163.94,
-    "change_pct": -1.050217286335109
+    "price": 163.06,
+    "change_pct": -1.5813616610333203
   },
   "risk": {
-    "score": 45,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T20:02:08.124831+00:00",
-      "close": 159.93
-    },
     {
       "timestamp": "2026-08-04T21:21:54.203044+00:00",
       "close": 159.89
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T13:38:29.956858+00:00",
       "close": 163.94
+    },
+    {
+      "timestamp": "2026-08-10T14:42:52.203257+00:00",
+      "close": 163.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T12:13:22+00:00",
+      "title": "3 Market-Beating Stocks for Long-Term Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:14:00+00:00",
+      "title": "SMCI, Apple, Intel, Berkshire Hathaway, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T03:11:49+00:00",
       "title": "Wall Street Week Ahead",

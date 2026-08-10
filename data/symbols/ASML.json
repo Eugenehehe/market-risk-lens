@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T13:38:29.956858+00:00",
+  "generated_at": "2026-08-10T14:42:52.203257+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1765.08,
-    "change_pct": 1.3836954836041526
+    "price": 1764.4,
+    "change_pct": 1.3446372466240586
   },
   "risk": {
-    "score": 56,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T20:02:08.124831+00:00",
-      "close": 1711.89
-    },
     {
       "timestamp": "2026-08-04T21:21:54.203044+00:00",
       "close": 1711.89
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T13:38:29.956858+00:00",
       "close": 1765.08
+    },
+    {
+      "timestamp": "2026-08-10T14:42:52.203257+00:00",
+      "close": 1764.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T13:38:13+00:00",
+      "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T13:02:20+00:00",
+      "title": "Situational Awareness bets $400M on chip startup Source Foundry",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:55:20+00:00",
+      "title": "Why ASML Holding (ASML) Could Be the Biggest AI Chip Enabler",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T17:09:34+00:00",
       "title": "Is ASML Holding (NasdaqGS:ASML) Trading At A Premium Or Fair Value?",

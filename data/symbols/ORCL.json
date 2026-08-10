@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T13:38:29.956858+00:00",
+  "generated_at": "2026-08-10T14:42:52.203257+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 147.29,
-    "change_pct": 0.18364848319956106
+    "price": 149.66,
+    "change_pct": 1.7956740579512909
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T20:02:08.124831+00:00",
-      "close": 145.72
-    },
     {
       "timestamp": "2026-08-04T21:21:54.203044+00:00",
       "close": 145.74
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-10T13:38:29.956858+00:00",
       "close": 147.29
+    },
+    {
+      "timestamp": "2026-08-10T14:42:52.203257+00:00",
+      "close": 149.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T13:06:40+00:00",
+      "title": "Nvidia investing up to $3 billion in Lancium for Stargate",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T13:00:00+00:00",
+      "title": "Brightfin Appoints Preeti Shukla as Chief Product and AI Officer",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T13:00:00+00:00",
+      "title": "Cowboy Space Appoints John Sarkis as Global Head of Sales to Scale Data Center Business",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:45:03+00:00",
+      "title": "Oracle’s Rebound Is All But Assured So I Keep Buying",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:37:22+00:00",
+      "title": "1 Software Stock to Own for Decades and 2 We Question",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T18:24:31+00:00",
       "title": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
@@ -525,30 +565,6 @@
       "timestamp": "2026-08-09T00:19:41+00:00",
       "title": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T15:38:36+00:00",
-      "title": "AI is Hollowing Out Tech Sector Jobs: Oracle and Microsoft Help Push Layoff Rate to 20-Year High",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T13:00:11+00:00",
-      "title": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T08:15:00+00:00",
-      "title": "The AI Capex Waterfall Is Raining Future Dividends",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

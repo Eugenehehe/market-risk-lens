@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T13:38:29.956858+00:00",
+  "generated_at": "2026-08-10T14:42:52.203257+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 55.38,
-    "change_pct": 4.0586245772266105
+    "price": 55.76,
+    "change_pct": 4.772641863960914
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T20:02:08.124831+00:00",
-      "close": 52.4
-    },
     {
       "timestamp": "2026-08-04T21:21:54.203044+00:00",
       "close": 52.39
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-10T13:38:29.956858+00:00",
       "close": 55.38
+    },
+    {
+      "timestamp": "2026-08-10T14:42:52.203257+00:00",
+      "close": 55.76
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-10T13:39:34+00:00",
+      "title": "Apple downgraded, HPE upgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:53:35+00:00",
+      "title": "HPE shares jump 5% as Morgan Stanley upgrade points to nearly 30% upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T12:35:01+00:00",
       "title": "Get insights into the top movers in the S&P500 index of Monday's pre-market session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:09:27+00:00",
+      "title": "Analyst turns more bullish on hardware stocks as ‘chipflation’ accelerates demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:51:38+00:00",
+      "title": "HPE Stock Jumps After Morgan Stanley Upgrade — Analyst Admits ‘We’ve Been On The Wrong Side’ Of The Enterprise Hardware Trade",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,14 +564,6 @@
     {
       "timestamp": "2026-08-09T08:30:00+00:00",
       "title": "SMCI's Q4 Has To Address A $14B Cash Hole (Earnings Preview)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T02:51:05+00:00",
-      "title": "Arista Network: Beating The Incumbents",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

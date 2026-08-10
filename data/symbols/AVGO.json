@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T13:38:29.956858+00:00",
+  "generated_at": "2026-08-10T14:42:52.203257+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 428.13,
-    "change_pct": 0.08649710117822895
+    "price": 430.29,
+    "change_pct": 0.5914531512998034
   },
   "risk": {
-    "score": 51,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T20:02:08.124831+00:00",
-      "close": 418.16
-    },
     {
       "timestamp": "2026-08-04T21:21:54.203044+00:00",
       "close": 418.16
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T13:38:29.956858+00:00",
       "close": 428.13
+    },
+    {
+      "timestamp": "2026-08-10T14:42:52.203257+00:00",
+      "close": 430.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T13:19:20+00:00",
+      "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T12:18:36+00:00",
+      "title": "TSMC Sales Jumps 45% as Nvidia-Driven AI Boom Powers Chip Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T08:49:51+00:00",
       "title": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-09T13:20:00+00:00",
       "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T06:50:00+00:00",
-      "title": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T20:42:34+00:00",
-      "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
