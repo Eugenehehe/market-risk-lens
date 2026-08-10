@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T15:41:36.504203+00:00",
+  "generated_at": "2026-08-10T16:33:58.889494+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1748.34,
-    "change_pct": 0.42217359088794204
+    "price": 1752.78,
+    "change_pct": 0.6772009029345272
   },
   "risk": {
-    "score": 54,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T22:33:58.878382+00:00",
-      "close": 1711.89
-    },
     {
       "timestamp": "2026-08-04T23:38:14.814620+00:00",
       "close": 1711.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T15:41:36.504203+00:00",
       "close": 1748.34
+    },
+    {
+      "timestamp": "2026-08-10T16:33:58.889494+00:00",
+      "close": 1752.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T15:41:41+00:00",
+      "title": "ASML Dropped 5% Over a Month But a Prominent Wall Street Wealth Manager Sees 50% Returns Coming",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T13:38:13+00:00",
       "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T03:15:36+00:00",
+      "title": "Apple Tests China's CXMT Memory Chips for iPhones and Macbooks Amid AI-Fueled Supply Crunch: Report",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-09T17:09:34+00:00",
       "title": "Is ASML Holding (NasdaqGS:ASML) Trading At A Premium Or Fair Value?",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-08T12:00:21+00:00",
       "title": "Nucor, ASML Lead Five Stocks Near Buy Points Without This Big Risk",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T09:14:17+00:00",
-      "title": "Situational Awareness Reportedly Bet $400 Million on a $5 Billion Stealth Chip Startup— Weeks After the 'Most Catastrophic Hedge Fund Blowup' of the Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T05:23:25+00:00",
-      "title": "Situational Awareness invested $500 million in chip startup Source Foundry",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-10T15:41:36.504203+00:00",
+  "generated_at": "2026-08-10T16:33:58.889494+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.57,
-    "change_pct": 0.04009000853530953
+    "price": 772.8,
+    "change_pct": -0.05948839976205322
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T22:33:58.878382+00:00",
-      "close": 771.33
-    },
     {
       "timestamp": "2026-08-04T23:38:14.814620+00:00",
       "close": 771.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T15:41:36.504203+00:00",
       "close": 773.57
+    },
+    {
+      "timestamp": "2026-08-10T16:33:58.889494+00:00",
+      "close": 772.8
     }
   ],
   "events": [
@@ -522,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T12:05:09+00:00",
+      "title": "The One Word That Best Describes The Current Market: Unsustainable",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T12:00:55+00:00",
       "title": "3 Beaten-Down Healthcare Stocks to Buy in August",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T11:40:00+00:00",
+      "title": "Markets Edge Lower After Robust Movement Last Week",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T11:15:00+00:00",
       "title": "Wall Street Lunch: GameStop CEO Ryan Cohen Reconsiders EBay Takeover: Bloomberg",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T11:05:00+00:00",
-      "title": "Why Market Headlines May Miss The Bigger Picture",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T10:31:01+00:00",
-      "title": "Negatives And Positives In Aggregate Still Point Up",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

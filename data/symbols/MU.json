@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T15:41:36.504203+00:00",
+  "generated_at": "2026-08-10T16:33:58.889494+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 873.59,
-    "change_pct": -0.45352507492280036
+    "price": 879.17,
+    "change_pct": 0.1823216381598991
   },
   "risk": {
-    "score": 54,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T22:33:58.878382+00:00",
-      "close": 892.67
-    },
     {
       "timestamp": "2026-08-04T23:38:14.814620+00:00",
       "close": 892.67
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-10T15:41:36.504203+00:00",
       "close": 873.59
+    },
+    {
+      "timestamp": "2026-08-10T16:33:58.889494+00:00",
+      "close": 879.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T15:33:19+00:00",
+      "title": "Samsung Just Raised Pressure on Micron",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T14:53:32+00:00",
+      "title": "Micron Technology Stock Surged On A Shortage The Company Had Already Described",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T14:38:18+00:00",
+      "title": "Semis Surge, Michael Burry’s Shorts Feel the Pressure — But Don’t Expect Him to Run for Cover After His Latest “1987-Style” Crash Warning",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T14:34:00+00:00",
+      "title": "Memory chip crunch could last 2 more years, JPMorgan says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T14:00:00+00:00",
+      "title": "Micron Stock Slips Amid Apple China Chip Threat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T13:20:00+00:00",
       "title": "Prediction: Micron and Taiwan Semiconductor Manufacturing Stocks Will Both Rebound to Fresh Highs Before 2026 Ends",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-08-10T11:31:05+00:00",
       "title": "Schwab: Retail investors want AI stocks on the cheap",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T11:20:00+00:00",
-      "title": "Why Micron Stock Plummeted 28.7% in July But Is Rebounding in August",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T10:40:59+00:00",
-      "title": "Micron Could Reclaim Its Previous Highs",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T10:00:28+00:00",
-      "title": "Micron’s Memory Boom Is Heading For A Peak, Analyst Warns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T09:11:00+00:00",
-      "title": "Micron Trades at 6 Times Next Year's Earnings. The $38 Billion of Capacity That Ends This Cycle Doesn't Open Until 2028.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T08:30:00+00:00",
-      "title": "Micron Stock Gains Even as Apple Looks to China for Memory-Chip Supply",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

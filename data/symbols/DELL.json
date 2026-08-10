@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T15:41:36.504203+00:00",
+  "generated_at": "2026-08-10T16:33:58.889494+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 469.06,
-    "change_pct": 3.369548449655113
+    "price": 465.49,
+    "change_pct": 2.5828062674923435
   },
   "risk": {
-    "score": 72,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T22:33:58.878382+00:00",
-      "close": 467.27
-    },
     {
       "timestamp": "2026-08-04T23:38:14.814620+00:00",
       "close": 467.27
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-10T15:41:36.504203+00:00",
       "close": 469.06
+    },
+    {
+      "timestamp": "2026-08-10T16:33:58.889494+00:00",
+      "close": 465.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T15:14:51+00:00",
+      "title": "Super Micro Rises 4% Ahead of Earnings; HPE Gains 4%, Dell Climbs 3% as AI Server Stocks Advance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T14:43:00+00:00",
+      "title": "5 Dividend Growth Stocks to Buy as US Rate Hike Concerns Ease",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T13:15:04+00:00",
+      "title": "Lenovo Group Ltd. (LNVGY) Hits Fresh High: Is There Still Room to Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T11:35:15+00:00",
       "title": "Super Micro Computer Continues Its 3-Month Fall: One Wall Street Bull’s Thesis Predicts 55% Upside From Here",
@@ -540,14 +564,6 @@
     {
       "timestamp": "2026-08-08T20:20:00+00:00",
       "title": "Where Will Dell Technologies Stock Be in 3 Years?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T14:35:55+00:00",
-      "title": "Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
