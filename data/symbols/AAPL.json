@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T16:33:58.889494+00:00",
+  "generated_at": "2026-08-10T17:31:55.724247+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 305.51,
-    "change_pct": -2.4957712316088454
+    "price": 306.46,
+    "change_pct": -2.1925765167714606
   },
   "risk": {
-    "score": 70,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T23:38:14.814620+00:00",
-      "close": 309.38
-    },
     {
       "timestamp": "2026-08-05T01:03:49.100189+00:00",
       "close": 309.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T16:33:58.889494+00:00",
       "close": 305.51
+    },
+    {
+      "timestamp": "2026-08-10T17:31:55.724247+00:00",
+      "close": 306.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T16:40:04+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T15:52:12+00:00",
       "title": "Apple Stock Falls on Downgrade -- Jefferies Warns of Major iPhone Setback",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T14:57:53+00:00",
       "title": "Socket Mobile Expands Industrial Mobility Distribution Through 3Eye Technologies Partnership",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:55:07+00:00",
-      "title": "Apple gets downgraded, Intel plans to raise $15B: AlphaSpace check",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

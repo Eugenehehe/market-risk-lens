@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T16:33:58.889494+00:00",
+  "generated_at": "2026-08-10T17:31:55.724247+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 509.21,
-    "change_pct": 1.8440368807375984
+    "price": 508.63,
+    "change_pct": 1.7280345606912162
   },
   "risk": {
-    "score": 65,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T23:38:14.814620+00:00",
-      "close": 492.81
-    },
     {
       "timestamp": "2026-08-05T01:03:49.100189+00:00",
       "close": 492.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T16:33:58.889494+00:00",
       "close": 509.21
+    },
+    {
+      "timestamp": "2026-08-10T17:31:55.724247+00:00",
+      "close": 508.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T16:40:04+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T15:34:13+00:00",
       "title": "Microsoft's Nvidia Alternative Is Getting Much Bigger",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T14:32:56+00:00",
       "title": "Why Google and Amazon rank top among Cloud hyperscalers for AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:07:37+00:00",
-      "title": "Meta shares gain as Muse Glimmer launch highlights broader AI ambitions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

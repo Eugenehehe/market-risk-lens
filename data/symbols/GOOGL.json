@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T16:33:58.889494+00:00",
+  "generated_at": "2026-08-10T17:31:55.724247+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 354.11,
-    "change_pct": -0.053626869884282335
+    "price": 354.79,
+    "change_pct": 0.1383008749647141
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T23:38:14.814620+00:00",
-      "close": 377.65
-    },
     {
       "timestamp": "2026-08-05T01:03:49.100189+00:00",
       "close": 377.65
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T16:33:58.889494+00:00",
       "close": 354.11
+    },
+    {
+      "timestamp": "2026-08-10T17:31:55.724247+00:00",
+      "close": 354.79
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T12:04:23+00:00",
+      "title": "U.S. Appeals Court Declines To Halt Thousands Of Lawsuits Over Social Media Addiction Against Meta, TikTok, Other Companies",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T11:51:20+00:00",
       "title": "48% of Google Cloud Revenue Next Year Could Come From Just 2 Companies That Have Still Never Turned a Profit",
       "source": "Yahoo",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-10T09:28:20+00:00",
-      "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T08:50:00+00:00",
-      "title": "Warren Buffett Bought Alphabet Stock Last Year. He Might Buy This Megacap Stock Next, Says a Wall Street Expert.",
-      "source": "Yahoo",
+      "timestamp": "2026-08-10T10:56:05+00:00",
+      "title": "JPMorgan Lifts S&P 500 Target to 8,000: How High Can It Go by Year-End?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T16:33:58.889494+00:00",
+  "generated_at": "2026-08-10T17:31:55.724247+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 535.87,
-    "change_pct": -1.3621219651370309
+    "price": 535.4,
+    "change_pct": -1.4486351169768263
   },
   "risk": {
-    "score": 53,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T23:38:14.814620+00:00",
-      "close": 542.21
-    },
     {
       "timestamp": "2026-08-05T01:03:49.100189+00:00",
       "close": 542.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T16:33:58.889494+00:00",
       "close": 535.87
+    },
+    {
+      "timestamp": "2026-08-10T17:31:55.724247+00:00",
+      "close": 535.4
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-10T06:48:00+00:00",
       "title": "Tech Selloff Creates An Opportunity",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T06:27:45+00:00",
+      "title": "What's Going On With Sandisk Stock Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
