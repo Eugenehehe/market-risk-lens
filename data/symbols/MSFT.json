@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:48:34.436446+00:00",
+  "generated_at": "2026-08-10T07:00:03.713460+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T07:18:48.591965+00:00",
-      "close": 487.65
-    },
     {
       "timestamp": "2026-08-04T10:04:28.240595+00:00",
       "close": 487.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T05:48:34.436446+00:00",
       "close": 499.99
+    },
+    {
+      "timestamp": "2026-08-10T07:00:03.713460+00:00",
+      "close": 499.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T05:10:41+00:00",
+      "title": "LegalZoom.com (LZ) Could Be 32% Undervalued Following Copilot Launch And Guidance Cut",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T03:34:18+00:00",
       "title": "How to Build $13,000 a Month in Dividend Income From Three Income Buckets",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T14:43:00+00:00",
       "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T11:35:29+00:00",
-      "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

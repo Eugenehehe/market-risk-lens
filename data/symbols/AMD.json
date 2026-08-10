@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:48:34.436446+00:00",
+  "generated_at": "2026-08-10T07:00:03.713460+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 483.36,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T07:18:48.591965+00:00",
-      "close": 484.64
-    },
     {
       "timestamp": "2026-08-04T10:04:28.240595+00:00",
       "close": 484.64
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T05:48:34.436446+00:00",
       "close": 483.36
+    },
+    {
+      "timestamp": "2026-08-10T07:00:03.713460+00:00",
+      "close": 483.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T05:00:00+00:00",
+      "title": "Nvidia, Eli Lilly, and Disney Show It’s Time to Back the Top Dogs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T03:43:00+00:00",
+      "title": "US Export Control Meant to Cripple China’s AI. But They Created Its Most Valuable Company",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T00:27:36+00:00",
       "title": "AMD: CapEx Is Fueling The Next Leg",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-09T13:15:02+00:00",
       "title": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T10:26:14+00:00",
-      "title": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T09:24:51+00:00",
-      "title": "AMD: Lisa Su's Magic Appears To Be Fading",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
