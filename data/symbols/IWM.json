@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T18:28:17.245328+00:00",
+  "generated_at": "2026-08-10T19:33:50.023417+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 299.67,
-    "change_pct": -0.6267409470751995
+    "price": 299.92,
+    "change_pct": -0.5438387053985916
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T04:23:31.770963+00:00",
-      "close": 301.71
-    },
     {
       "timestamp": "2026-08-05T07:11:43.204699+00:00",
       "close": 301.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T18:28:17.245328+00:00",
       "close": 299.67
+    },
+    {
+      "timestamp": "2026-08-10T19:33:50.023417+00:00",
+      "close": 299.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T14:45:00+00:00",
+      "title": "Two Market Signals, One Story",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T12:57:15+00:00",
       "title": "Oil Jumps 3%, Yields Climb as Hormuz Hopes Fade: Stock Market Today",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T10:22:57+00:00",
       "title": "Don't Get Greedy, Beware Of The Crash",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T09:50:00+00:00",
-      "title": "Will The Bond Market Verify The Stock Market's Revived Optimism?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

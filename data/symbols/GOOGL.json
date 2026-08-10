@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T18:28:17.245328+00:00",
+  "generated_at": "2026-08-10T19:33:50.023417+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 354.52,
-    "change_pct": 0.06209427039232107
+    "price": 355.14,
+    "change_pct": 0.23708721422521783
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T04:23:31.770963+00:00",
-      "close": 377.65
-    },
     {
       "timestamp": "2026-08-05T07:11:43.204699+00:00",
       "close": 377.65
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T18:28:17.245328+00:00",
       "close": 354.52
+    },
+    {
+      "timestamp": "2026-08-10T19:33:50.023417+00:00",
+      "close": 355.14
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-10T14:16:00+00:00",
       "title": "JPMorgan’s S&P 500 8,000 target: Is the market getting too expensive?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T13:07:38+00:00",
+      "title": "S&P 500 Earnings Growth May Be Less Impressive Than It Looks; SpaceX Short Squeeze; Inflation Data Ahead",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T11:35:39+00:00",
       "title": "IonQ Demolishes Expectations - Share Dilution A Chink In The Armor",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T10:56:05+00:00",
-      "title": "JPMorgan Lifts S&P 500 Target to 8,000: How High Can It Go by Year-End?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

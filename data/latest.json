@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T18:28:17.245328+00:00",
+  "generated_at": "2026-08-10T19:33:50.023417+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 218.55,
-    "change_pct": -2.4156099303446976
+    "price": 219.11,
+    "change_pct": -2.165565279514192
   },
   "risk": {
-    "score": 70,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T04:23:31.770963+00:00",
-      "close": 211.94
-    },
     {
       "timestamp": "2026-08-05T07:11:43.204699+00:00",
       "close": 211.94
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T18:28:17.245328+00:00",
       "close": 218.55
+    },
+    {
+      "timestamp": "2026-08-10T19:33:50.023417+00:00",
+      "close": 219.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T18:05:01+00:00",
+      "title": "Most active S&P500 stocks in Monday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T18:00:00+00:00",
+      "title": "Check out the stocks that are attracting the most attention and driving market activity.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T17:46:36+00:00",
       "title": "Sector Update: Financial Stocks Mixed Monday Afternoon",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T17:30:00+00:00",
       "title": "Archer Aviation Is Under Pressure: Here Is What Investors Should Consider Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T17:25:18+00:00",
-      "title": "SpaceX's First Lockup Expired Last Week. Why Didn't the Stock Crash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T17:25:00+00:00",
-      "title": "AI Data Centers Need Power Now. Can NuScale Deliver in Time?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
