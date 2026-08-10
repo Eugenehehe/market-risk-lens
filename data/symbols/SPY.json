@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-10T19:33:50.023417+00:00",
+  "generated_at": "2026-08-10T20:19:15.180491+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 772.83,
-    "change_pct": -0.05560872151668672
+    "price": 773.03,
+    "change_pct": -0.02974419988102106
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T07:11:43.204699+00:00",
-      "close": 771.33
-    },
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 771.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T19:33:50.023417+00:00",
       "close": 772.83
+    },
+    {
+      "timestamp": "2026-08-10T20:19:15.180491+00:00",
+      "close": 773.03
     }
   ],
   "events": [
@@ -530,6 +530,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T15:30:00+00:00",
+      "title": "The Fed's PCE Problem: Why Its Preferred Inflation Gauge Misreads The Economy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T15:00:19+00:00",
+      "title": "Trump Says Administration Recognizing Childhood Vaccine Recommendations For Only 11 Core Vaccinations; Hepatitis B, COVID-19, Influenza No Longer Recommended For All Children",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T14:45:00+00:00",
       "title": "Two Market Signals, One Story",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-10T13:18:05+00:00",
       "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Monday Amid Rising Oil Prices",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:07:38+00:00",
-      "title": "S&P 500 Earnings Growth May Be Less Impressive Than It Looks; SpaceX Short Squeeze; Inflation Data Ahead",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T12:05:09+00:00",
-      "title": "The One Word That Best Describes The Current Market: Unsustainable",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

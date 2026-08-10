@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T19:33:50.023417+00:00",
+  "generated_at": "2026-08-10T20:19:15.180491+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 98.91,
-    "change_pct": -2.695523856369908
+    "price": 97.52,
+    "change_pct": -4.062961141170696
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T07:11:43.204699+00:00",
-      "close": 100.86
-    },
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 100.86
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-10T19:33:50.023417+00:00",
       "close": 98.91
+    },
+    {
+      "timestamp": "2026-08-10T20:19:15.180491+00:00",
+      "close": 97.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T19:57:55+00:00",
+      "title": "Why Intel Stock Is Falling Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T19:51:34+00:00",
+      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T18:53:22+00:00",
+      "title": "1 Mega-Cap Stock with Impressive Fundamentals and 2 We Brush Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T18:30:00+00:00",
+      "title": "ASML Faces a Fresh Threat Out of China. Is the Dip in the Stock Worth Buying?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T18:05:01+00:00",
       "title": "Most active S&P500 stocks in Monday's session",
@@ -514,56 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T17:50:56+00:00",
+      "title": "Update: Equities Fall, Oil Rises Intraday Amid Hormuz Reopening Uncertainty",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T17:49:00+00:00",
+      "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-10T17:32:08+00:00",
       "title": "Dan Niles sees Intel foundry win as imminent amid $15B stock offering",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T17:31:54+00:00",
-      "title": "Sector Update: Tech Stocks Decline Monday Afternoon",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T16:57:28+00:00",
-      "title": "Intel Plans $15 Billion Stock Offering as AI Demand Requires Higher Capital Spending",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T16:50:00+00:00",
-      "title": "Intel trades lower on $15B share sale",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T16:18:50+00:00",
-      "title": "Intel Stock Drops After $15 Billion Share Sale. Is AI Spending Getting Too Expensive?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:47:59+00:00",
-      "title": "Intel Stock Drops 4.5% as $15 Billion Share Sale Hits",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:44:48+00:00",
-      "title": "Intel to Raise $15 Billion for Capital Spending, Stock Falls",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T19:33:50.023417+00:00",
+  "generated_at": "2026-08-10T20:19:15.180491+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 55.43,
-    "change_pct": 4.152574220217975
+    "price": 54.68,
+    "change_pct": 2.7433295753476195
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T07:11:43.204699+00:00",
-      "close": 52.39
-    },
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 52.39
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T19:33:50.023417+00:00",
       "close": 55.43
+    },
+    {
+      "timestamp": "2026-08-10T20:19:15.180491+00:00",
+      "close": 54.68
     }
   ],
   "events": [

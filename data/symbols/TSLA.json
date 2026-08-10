@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T19:33:50.023417+00:00",
+  "generated_at": "2026-08-10T20:19:15.180491+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 330.29,
-    "change_pct": 0.5204212064033209
+    "price": 330.88,
+    "change_pct": 0.699981739606792
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T07:11:43.204699+00:00",
-      "close": 327.35
-    },
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 327.35
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T19:33:50.023417+00:00",
       "close": 330.29
+    },
+    {
+      "timestamp": "2026-08-10T20:19:15.180491+00:00",
+      "close": 330.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T18:50:00+00:00",
+      "title": "SpaceX Stock Pauses After Lockup Rally Ahead of the Next Share Unlock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T18:05:00+00:00",
+      "title": "Cathie Wood's ARK Bought $40 Million of Nvidia, Tesla, and SpaceX During Last Month's AI Sell-Off. Was She Right to Buy the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T17:11:00+00:00",
       "title": "Does Tesla’s Terafab Texas Chip Bet Reshape Its AI Ambitions And Margin Story For TSLA?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T14:14:00+00:00",
       "title": "Tesla Stock Slips as Army of Fans Fails to Help It Claw Back Losses",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:09:00+00:00",
-      "title": "SpaceX Stock Slips After Lock-Up Rally. When’s the Next Release, What to Expect.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:42:18+00:00",
-      "title": "Tesla or SpaceX: Who Benefits More From Terafab and How",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

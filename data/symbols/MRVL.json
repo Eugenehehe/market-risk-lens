@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T19:33:50.023417+00:00",
+  "generated_at": "2026-08-10T20:19:15.180491+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 213.46,
-    "change_pct": -2.4049012435991224
+    "price": 208.56,
+    "change_pct": -4.645208485735186
   },
   "risk": {
-    "score": 62,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T07:11:43.204699+00:00",
-      "close": 218.59
-    },
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 218.59
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T19:33:50.023417+00:00",
       "close": 213.46
+    },
+    {
+      "timestamp": "2026-08-10T20:19:15.180491+00:00",
+      "close": 208.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T16:29:00+00:00",
+      "title": "Nvidia Stock Slips as Its AI Investments Draw Fresh Scrutiny",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T14:49:24+00:00",
       "title": "Broadcom’s Brilliant Positioning is Why I Am Loading Up Over and Over",

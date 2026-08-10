@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T19:33:50.023417+00:00",
+  "generated_at": "2026-08-10T20:19:15.180491+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 151.41,
-    "change_pct": 2.985988300911435
+    "price": 151.05,
+    "change_pct": 2.741123656645361
   },
   "risk": {
-    "score": 74,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T07:11:43.204699+00:00",
-      "close": 145.74
-    },
     {
       "timestamp": "2026-08-05T09:57:19.212250+00:00",
       "close": 145.74
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-10T19:33:50.023417+00:00",
       "close": 151.41
+    },
+    {
+      "timestamp": "2026-08-10T20:19:15.180491+00:00",
+      "close": 151.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T19:26:11+00:00",
+      "title": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T19:17:05+00:00",
+      "title": "Fastly Stock Is Rising Today: What’s Driving It, and Are AI-Cloud Peers Moving Too?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T18:28:04+00:00",
+      "title": "Is Oracle Still The Software Business You Bought?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T17:43:33+00:00",
+      "title": "IBM Stock Options Price A Band Half Above Today's Price And A Third Below",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T16:30:11+00:00",
       "title": "The Options Market Says Adobe Stock Can Fall Over A Third Or Rise More Than Half",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-10T14:38:18+00:00",
       "title": "Semis Surge, Michael Burry’s Shorts Feel the Pressure — But Don’t Expect Him to Run for Cover After His Latest “1987-Style” Crash Warning",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:13:00+00:00",
-      "title": "Salesforce Declines 17% Over the Past Year: How to Play CRM Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:06:40+00:00",
-      "title": "Nvidia investing up to $3 billion in Lancium for Stargate",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:00:00+00:00",
-      "title": "Brightfin Appoints Preeti Shukla as Chief Product and AI Officer",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:00:00+00:00",
-      "title": "Cowboy Space Appoints John Sarkis as Global Head of Sales to Scale Data Center Business",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
