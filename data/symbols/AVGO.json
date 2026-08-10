@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T00:04:54.742544+00:00",
+  "generated_at": "2026-08-10T02:30:13.381879+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 427.76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-03T23:47:25.162097+00:00",
-      "close": 392.23
-    },
     {
       "timestamp": "2026-08-04T01:10:31.184478+00:00",
       "close": 392.23
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T00:04:54.742544+00:00",
       "close": 427.76
+    },
+    {
+      "timestamp": "2026-08-10T02:30:13.381879+00:00",
+      "close": 427.76
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-09T18:19:31+00:00",
       "title": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T16:04:46+00:00",
+      "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-08T15:50:00+00:00",
       "title": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-08T14:11:16+00:00",
-      "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
