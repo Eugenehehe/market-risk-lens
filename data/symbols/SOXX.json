@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T10:04:07.252651+00:00",
+  "generated_at": "2026-08-10T11:18:34.953195+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 543.27,
     "change_pct": 2.0187035228723893
   },
   "risk": {
-    "score": 53,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T14:43:28.574527+00:00",
-      "close": 533.56
-    },
     {
       "timestamp": "2026-08-04T16:32:23.153426+00:00",
       "close": 540.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T10:04:07.252651+00:00",
       "close": 543.27
+    },
+    {
+      "timestamp": "2026-08-10T11:18:34.953195+00:00",
+      "close": 543.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T06:48:00+00:00",
+      "title": "Tech Selloff Creates An Opportunity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-09T05:45:00+00:00",
       "title": "We Are Undoubtedly In An AI Bubble",

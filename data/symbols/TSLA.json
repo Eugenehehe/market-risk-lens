@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:04:07.252651+00:00",
+  "generated_at": "2026-08-10T11:18:34.953195+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 328.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T14:43:28.574527+00:00",
-      "close": 323.66
-    },
     {
       "timestamp": "2026-08-04T16:32:23.153426+00:00",
       "close": 325.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T10:04:07.252651+00:00",
       "close": 328.58
+    },
+    {
+      "timestamp": "2026-08-10T11:18:34.953195+00:00",
+      "close": 328.58
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-10T07:09:51+00:00",
       "title": "Tesla (TSLA) Rumors Swirl Over China Split Ahead Of Possible Merger",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T06:45:00+00:00",
+      "title": "KOID: Holding An AI CapEx Fund Sold As Humanoid Robotics",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T17:01:42+00:00",
       "title": "Kevin O'Leary Sat Out SpaceX's IPO— Now He's Plotting His Entry as Elon Musk's Empire Takes Shape: 'As the Stock Settles... I'll Be Watching Closely...'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T17:01:00+00:00",
-      "title": "Tesla's new 6-seat Model Y powers its best July yet as Australia nears 50% electrified sales",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
