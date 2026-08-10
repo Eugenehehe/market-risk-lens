@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T14:42:52.203257+00:00",
+  "generated_at": "2026-08-10T15:41:36.504203+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 149.66,
-    "change_pct": 1.7956740579512909
+    "price": 149.13,
+    "change_pct": 1.4351788872262183
   },
   "risk": {
-    "score": 65,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T21:21:54.203044+00:00",
-      "close": 145.74
-    },
     {
       "timestamp": "2026-08-04T22:33:58.878382+00:00",
       "close": 145.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T14:42:52.203257+00:00",
       "close": 149.66
+    },
+    {
+      "timestamp": "2026-08-10T15:41:36.504203+00:00",
+      "close": 149.13
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-10T04:39:23+00:00",
+      "title": "Elon Musk Says AI Agents Will Dwarf Human Internet Traffic, But Michael Burry Asks, ‘Who Will Pay’ for AI Agents to Socialize?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-09T18:24:31+00:00",
       "title": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T15:11:04+00:00",
       "title": "Is CPI FIM (BDL:ORCL) Undervalued As Its Recent Rebound Meets An 8.7x P/E?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T00:19:41+00:00",
-      "title": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

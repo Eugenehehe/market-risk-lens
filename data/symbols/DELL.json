@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T14:42:52.203257+00:00",
+  "generated_at": "2026-08-10T15:41:36.504203+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 469.66,
-    "change_pct": 3.5017740264891906
+    "price": 469.06,
+    "change_pct": 3.369548449655113
   },
   "risk": {
-    "score": 70,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T21:21:54.203044+00:00",
-      "close": 467.27
-    },
     {
       "timestamp": "2026-08-04T22:33:58.878382+00:00",
       "close": 467.27
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T14:42:52.203257+00:00",
       "close": 469.66
+    },
+    {
+      "timestamp": "2026-08-10T15:41:36.504203+00:00",
+      "close": 469.06
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-10T11:35:15+00:00",
       "title": "Super Micro Computer Continues Its 3-Month Fall: One Wall Street Bull’s Thesis Predicts 55% Upside From Here",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-09T15:51:11+00:00",
+      "title": "SMCI Trades at Bargain Price Ahead of Earnings",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

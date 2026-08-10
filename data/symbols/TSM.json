@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T14:42:52.203257+00:00",
+  "generated_at": "2026-08-10T15:41:36.504203+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 423.6,
-    "change_pct": 0.8475383296828953
+    "price": 423.51,
+    "change_pct": 0.8261117988762834
   },
   "risk": {
-    "score": 43,
+    "score": 49,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T21:21:54.203044+00:00",
-      "close": 417.17
-    },
     {
       "timestamp": "2026-08-04T22:33:58.878382+00:00",
       "close": 417.17
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T14:42:52.203257+00:00",
       "close": 423.6
+    },
+    {
+      "timestamp": "2026-08-10T15:41:36.504203+00:00",
+      "close": 423.51
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-10T11:31:08+00:00",
       "title": "Taiwan Semiconductor (NYSE:TSM): Strong Growth Backed by a Convincing Technical Setup",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T09:19:13+00:00",
+      "title": "Microsoft’s Homegrown AI Chip Effort Shows Signs Of Life After Slow Start; Microsoft Plans To Unveil Its Next-Generation Maia 300 AI Chip In September; Microsoft Is Planning To Ramp Up Its Own Usage Of Maia While Wooing Big Customers; Microsoft Believes Maia Chips Can Run In-House And OpenAI Models At A Lower Cost; Microsoft Has Been In Talks With Chipmaker TSMC To Secure Manufacturing Capacity For Over 300,000 Of Maia Chips For Delivery In 2027",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T06:00:55+00:00",
+      "title": "Sony, TSMC Plan $6.3B Image Sensor Plant in Japan as Apple Camera Demand, ‘Physical AI’ Drive Expansion: Report",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T05:43:04+00:00",
+      "title": "Taiwan Semiconductor’s Blockbuster Run Rolls On: July Revenue Surges 45%",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

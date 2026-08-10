@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T14:42:52.203257+00:00",
+  "generated_at": "2026-08-10T15:41:36.504203+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 300.54,
-    "change_pct": -0.3382411460405854
+    "price": 300.02,
+    "change_pct": -0.5106778087279551
   },
   "risk": {
-    "score": 53,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T21:21:54.203044+00:00",
-      "close": 301.71
-    },
     {
       "timestamp": "2026-08-04T22:33:58.878382+00:00",
       "close": 301.71
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-10T14:42:52.203257+00:00",
       "close": 300.54
+    },
+    {
+      "timestamp": "2026-08-10T15:41:36.504203+00:00",
+      "close": 300.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T11:05:00+00:00",
+      "title": "Why Market Headlines May Miss The Bigger Picture",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T10:31:01+00:00",
+      "title": "Negatives And Positives In Aggregate Still Point Up",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T10:25:25+00:00",
       "title": "The Fed Tightened Without Hiking",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T08:12:39+00:00",
       "title": "The Market Rotation Failed Its First Real Test",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T08:00:00+00:00",
-      "title": "The First Negative NFP In Years Just Hit Market - And $1.5 Trillion In Margin Debt Amplifies Every Move",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T07:30:34+00:00",
-      "title": "July Jobs Report: Safe Haven Investing Is In Order",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

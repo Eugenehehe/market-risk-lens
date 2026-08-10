@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T14:42:52.203257+00:00",
+  "generated_at": "2026-08-10T15:41:36.504203+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 430.29,
-    "change_pct": 0.5914531512998034
+    "price": 425.68,
+    "change_pct": -0.4862539741911309
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T21:21:54.203044+00:00",
-      "close": 418.16
-    },
     {
       "timestamp": "2026-08-04T22:33:58.878382+00:00",
       "close": 418.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T14:42:52.203257+00:00",
       "close": 430.29
+    },
+    {
+      "timestamp": "2026-08-10T15:41:36.504203+00:00",
+      "close": 425.68
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-10T08:49:51+00:00",
       "title": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T06:00:55+00:00",
+      "title": "Sony, TSMC Plan $6.3B Image Sensor Plant in Japan as Apple Camera Demand, ‘Physical AI’ Drive Expansion: Report",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-09T16:04:46+00:00",
       "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T13:20:00+00:00",
-      "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
