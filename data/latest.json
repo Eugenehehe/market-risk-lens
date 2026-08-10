@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:46:33.222259+00:00",
+  "generated_at": "2026-08-10T10:04:07.252651+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 223.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-04T12:15:14.688131+00:00",
-      "close": 206.64
-    },
     {
       "timestamp": "2026-08-04T14:43:28.574527+00:00",
       "close": 210.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-10T08:46:33.222259+00:00",
       "close": 223.96
+    },
+    {
+      "timestamp": "2026-08-10T10:04:07.252651+00:00",
+      "close": 223.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T08:49:51+00:00",
+      "title": "Cold Jobs Report Warms Up Wall Street, Airbnb Steals the Show",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T07:20:00+00:00",
       "title": "If You'd Invested $10,000 in Tesla a Decade Ago, Here's How Much You'd Have Today",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T04:20:00+00:00",
       "title": "SpaceX Stock Is Slumping: Is Now the Time to Buy or Hold Off?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T04:15:47+00:00",
-      "title": "Why Palantir Stock Skyrocketed This Past Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
