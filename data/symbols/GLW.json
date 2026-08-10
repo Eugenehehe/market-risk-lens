@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T20:19:15.180491+00:00",
+  "generated_at": "2026-08-10T21:06:44.866690+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 157.76,
     "change_pct": -4.780299372283925
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T09:57:19.212250+00:00",
-      "close": 159.89
-    },
     {
       "timestamp": "2026-08-05T12:03:20.623787+00:00",
       "close": 159.89
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-10T20:19:15.180491+00:00",
       "close": 157.76
+    },
+    {
+      "timestamp": "2026-08-10T21:06:44.866690+00:00",
+      "close": 157.76
     }
   ],
   "events": [
@@ -533,6 +533,14 @@
       "timestamp": "2026-08-10T15:23:00+00:00",
       "title": "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-10T14:18:51+00:00",
+      "title": "Why Is Coherent Stock Falling on Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
