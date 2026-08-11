@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:01:58.244313+00:00",
+  "generated_at": "2026-08-11T21:58:37.510013+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 272.27,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T13:03:45.880482+00:00",
-      "close": 272.26
-    },
     {
       "timestamp": "2026-08-07T14:17:02.498276+00:00",
       "close": 275.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T21:01:58.244313+00:00",
       "close": 272.27
+    },
+    {
+      "timestamp": "2026-08-11T21:58:37.510013+00:00",
+      "close": 272.27
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T19:10:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T17:19:01+00:00",
+      "title": "Microsoft: Don't Get Too Excited (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,6 +533,14 @@
       "timestamp": "2026-08-11T14:38:21+00:00",
       "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T13:39:54+00:00",
+      "title": "QUICK SPARK: NYC Mayor Mamdani Named Florida's 'Economic Developer of the Year'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-11T12:01:39+00:00",
       "title": "Irrational Exuberance On Overdrive",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T11:55:27+00:00",
-      "title": "The Trade Desk: Buying In The Middle Of An Existential Crisis",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T09:15:48+00:00",
-      "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
