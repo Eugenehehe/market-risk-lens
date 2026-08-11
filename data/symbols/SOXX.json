@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T15:08:50.258183+00:00",
+  "generated_at": "2026-08-11T16:10:15.269136+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 535.88,
-    "change_pct": 1.2259392886152076
+    "price": 534.07,
+    "change_pct": 0.8840363437163656
   },
   "risk": {
-    "score": 60,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T05:19:51.647079+00:00",
-      "close": 532.52
-    },
     {
       "timestamp": "2026-08-07T06:38:26.165765+00:00",
       "close": 532.52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-11T15:08:50.258183+00:00",
       "close": 535.88
+    },
+    {
+      "timestamp": "2026-08-11T16:10:15.269136+00:00",
+      "close": 534.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T08:49:37+00:00",
+      "title": "What's Going On With AMD Stock Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T07:39:24+00:00",
+      "title": "Why Is Intel Stock Falling Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T17:33:17+00:00",
       "title": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T06:48:00+00:00",
       "title": "Tech Selloff Creates An Opportunity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T06:27:45+00:00",
-      "title": "What's Going On With Sandisk Stock Monday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-09T05:45:00+00:00",
-      "title": "We Are Undoubtedly In An AI Bubble",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T15:08:50.258183+00:00",
+  "generated_at": "2026-08-11T16:10:15.269136+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 273.54,
-    "change_pct": -1.636160955086463
+    "price": 272.34,
+    "change_pct": -2.0676759322521443
   },
   "risk": {
-    "score": 64,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T05:19:51.647079+00:00",
-      "close": 272.26
-    },
     {
       "timestamp": "2026-08-07T06:38:26.165765+00:00",
       "close": 272.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T15:08:50.258183+00:00",
       "close": 273.54
+    },
+    {
+      "timestamp": "2026-08-11T16:10:15.269136+00:00",
+      "close": 272.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T09:15:48+00:00",
+      "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T08:55:00+00:00",
       "title": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
@@ -522,9 +530,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-11T08:01:14+00:00",
+      "title": "Rocket Lab CEO Won’t Take on Musk and Bezos in Broadband: ‘The Two Most Wealthiest People in the World Are Going After That’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-11T07:30:00+00:00",
       "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T06:59:28+00:00",
+      "title": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-11T05:25:00+00:00",
       "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T04:36:25+00:00",
-      "title": "AMZN Stock to Close Above $300 by August End? Crypto Punters Bet on the Possibility Following Amazon's Impressive Q2 Performance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T02:08:51+00:00",
-      "title": "Is FedEx (FDX) Using Robotics To Sharpen Its Cost Edge Or Just Keep Pace With Rivals?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T02:08:34+00:00",
-      "title": "Dow Jones Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

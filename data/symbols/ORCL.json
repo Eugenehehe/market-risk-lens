@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T15:08:50.258183+00:00",
+  "generated_at": "2026-08-11T16:10:15.269136+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.51,
-    "change_pct": -3.667659715326066
+    "price": 144.9,
+    "change_pct": -4.071499503475673
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T05:19:51.647079+00:00",
-      "close": 143.47
-    },
     {
       "timestamp": "2026-08-07T06:38:26.165765+00:00",
       "close": 143.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T15:08:50.258183+00:00",
       "close": 145.51
+    },
+    {
+      "timestamp": "2026-08-11T16:10:15.269136+00:00",
+      "close": 144.9
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T07:30:00+00:00",
       "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T06:59:28+00:00",
+      "title": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T19:26:11+00:00",
       "title": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T19:17:05+00:00",
-      "title": "Fastly Stock Is Rising Today: What’s Driving It, and Are AI-Cloud Peers Moving Too?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

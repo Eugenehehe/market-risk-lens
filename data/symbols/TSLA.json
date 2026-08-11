@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T15:08:50.258183+00:00",
+  "generated_at": "2026-08-11T16:10:15.269136+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 333.91,
-    "change_pct": 0.915739845261121
+    "price": 333.34,
+    "change_pct": 0.7434719535783341
   },
   "risk": {
-    "score": 58,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T05:19:51.647079+00:00",
-      "close": 319.53
-    },
     {
       "timestamp": "2026-08-07T06:38:26.165765+00:00",
       "close": 319.53
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T15:08:50.258183+00:00",
       "close": 333.91
+    },
+    {
+      "timestamp": "2026-08-11T16:10:15.269136+00:00",
+      "close": 333.34
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T09:32:00+00:00",
       "title": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T09:15:48+00:00",
+      "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T20:41:00+00:00",
       "title": "Tesla Autopilot under scrutiny after crash involving 49ers coach Kyle Shanahan",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T20:31:18+00:00",
-      "title": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

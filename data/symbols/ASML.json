@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T15:08:50.258183+00:00",
+  "generated_at": "2026-08-11T16:10:15.269136+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1804.02,
-    "change_pct": 4.069271061679403
+    "price": 1795.93,
+    "change_pct": 3.6025797817107907
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T05:19:51.647079+00:00",
-      "close": 1704.37
-    },
     {
       "timestamp": "2026-08-07T06:38:26.165765+00:00",
       "close": 1704.37
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T15:08:50.258183+00:00",
       "close": 1804.02
+    },
+    {
+      "timestamp": "2026-08-11T16:10:15.269136+00:00",
+      "close": 1795.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T06:08:44+00:00",
+      "title": "Why China’s Billions Can’t Break Taiwan Semiconductor’s Chip Grip",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T02:55:00+00:00",
       "title": "Beyond American Hyperscalers: Uncovering AI's Global Layers",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T13:38:13+00:00",
       "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T13:02:20+00:00",
-      "title": "Situational Awareness bets $400M on chip startup Source Foundry",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

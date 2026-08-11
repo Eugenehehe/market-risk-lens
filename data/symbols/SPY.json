@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T15:08:50.258183+00:00",
+  "generated_at": "2026-08-11T16:10:15.269136+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.08,
-    "change_pct": 0.006468054279928914
+    "price": 772.31,
+    "change_pct": -0.0931399816307299
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T05:19:51.647079+00:00",
-      "close": 768.56
-    },
     {
       "timestamp": "2026-08-07T06:38:26.165765+00:00",
       "close": 768.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T15:08:50.258183+00:00",
       "close": 773.08
+    },
+    {
+      "timestamp": "2026-08-11T16:10:15.269136+00:00",
+      "close": 772.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T11:17:00+00:00",
+      "title": "Markets Straddle Flat Line In Early Trading",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T10:16:41+00:00",
       "title": "Daily Breadth Cools, but the Broader Recovery Holds",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-11T08:32:48+00:00",
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Trump Demands Compensation From Iran— Rocket Lab, ASTS SpaceMobile, Plug Power in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-11T08:02:00+00:00",
       "title": "Diverging Fortunes For Older And Younger Teens In U.S. Summer Job Market",
       "source": "SeekingAlpha",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-11T07:30:00+00:00",
       "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:05:00+00:00",
-      "title": "The One Chart That Tells Me It Is Time To Get Defensive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T03:20:00+00:00",
-      "title": "The Gold-S&P 500 Reset: Gold's Outperformance Has Far To Run",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
