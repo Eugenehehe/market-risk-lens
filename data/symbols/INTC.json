@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:42:24.817652+00:00",
+  "generated_at": "2026-08-11T12:29:05.597644+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 97.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T15:30:41.210622+00:00",
-      "close": 101.43
-    },
     {
       "timestamp": "2026-08-07T00:31:43.366417+00:00",
       "close": 99.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T11:42:24.817652+00:00",
       "close": 97.52
+    },
+    {
+      "timestamp": "2026-08-11T12:29:05.597644+00:00",
+      "close": 97.52
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-11T07:46:25+00:00",
       "title": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T07:43:39+00:00",
+      "title": "Intel: This Pullback Is A Golden Opportunity (Rating Upgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T05:26:55+00:00",
       "title": "Making Sense of the Multibillion-Dollar Numbers of Nvidia Deal, Intel Share Sale",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T05:25:00+00:00",
-      "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

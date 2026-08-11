@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:42:24.817652+00:00",
+  "generated_at": "2026-08-11T12:29:05.597644+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 357.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T15:30:41.210622+00:00",
-      "close": 360.32
-    },
     {
       "timestamp": "2026-08-07T00:31:43.366417+00:00",
       "close": 357.75
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T11:42:24.817652+00:00",
       "close": 357.52
+    },
+    {
+      "timestamp": "2026-08-11T12:29:05.597644+00:00",
+      "close": 357.52
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T08:55:00+00:00",
       "title": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T07:30:00+00:00",
+      "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T00:04:10+00:00",
       "title": "Magnite Sees CTV Growth Hit 36% as Sports and SMB Ad Demand Expands",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T22:47:57+00:00",
-      "title": "Amazon Stock And The Profit Signal Everyone Is Chasing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

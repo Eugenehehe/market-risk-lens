@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:42:24.817652+00:00",
+  "generated_at": "2026-08-11T12:29:05.597644+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 299.98,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T15:30:41.210622+00:00",
-      "close": 300.4
-    },
     {
       "timestamp": "2026-08-07T00:31:43.366417+00:00",
       "close": 298.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T11:42:24.817652+00:00",
       "close": 299.98
+    },
+    {
+      "timestamp": "2026-08-11T12:29:05.597644+00:00",
+      "close": 299.98
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-11T10:16:41+00:00",
       "title": "Daily Breadth Cools, but the Broader Recovery Holds",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T08:02:00+00:00",
+      "title": "Diverging Fortunes For Older And Younger Teens In U.S. Summer Job Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T07:30:00+00:00",
+      "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T17:00:17+00:00",
       "title": "Bankrupting Tehran: The Big Flaw In Trump's Iran Strategy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T16:13:37+00:00",
-      "title": "RVT And IWMI: A Tactical Small-Cap Income Strategy For A Choppier Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:30:00+00:00",
-      "title": "The Fed's PCE Problem: Why Its Preferred Inflation Gauge Misreads The Economy",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
