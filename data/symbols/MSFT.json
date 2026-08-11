@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T18:08:35.709979+00:00",
+  "generated_at": "2026-08-11T19:18:24.402755+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 502.59,
-    "change_pct": -0.6856894439394634
+    "price": 503.15,
+    "change_pct": -0.5750306287792051
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T10:09:57.057745+00:00",
-      "close": 499.86
-    },
     {
       "timestamp": "2026-08-07T11:07:27.723027+00:00",
       "close": 499.86
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T18:08:35.709979+00:00",
       "close": 502.59
+    },
+    {
+      "timestamp": "2026-08-11T19:18:24.402755+00:00",
+      "close": 503.15
     }
   ],
   "events": [
@@ -509,6 +509,38 @@
       "timestamp": "2026-08-11T16:40:06+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:39:00+00:00",
+      "title": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:38:21+00:00",
+      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T13:32:59+00:00",
+      "title": "CoreWeave or Nebius? Analyst Says the Risk-Reward Now Favors One AI Stock",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T12:59:02+00:00",
+      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-11T09:17:49+00:00",
       "title": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:55:00+00:00",
-      "title": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:30:00+00:00",
-      "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:13:00+00:00",
-      "title": "Rotation Away From Tech Lifts Moat Index In July",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:59:28+00:00",
-      "title": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

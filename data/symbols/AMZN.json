@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T18:08:35.709979+00:00",
+  "generated_at": "2026-08-11T19:18:24.402755+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 272.17,
-    "change_pct": -2.128807220683937
+    "price": 272.52,
+    "change_pct": -2.002948685677297
   },
   "risk": {
-    "score": 68,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T10:09:57.057745+00:00",
-      "close": 272.26
-    },
     {
       "timestamp": "2026-08-07T11:07:27.723027+00:00",
       "close": 272.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T18:08:35.709979+00:00",
       "close": 272.17
+    },
+    {
+      "timestamp": "2026-08-11T19:18:24.402755+00:00",
+      "close": 272.52
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-11T16:40:06+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:38:21+00:00",
+      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T12:59:02+00:00",
+      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-11T08:45:00+00:00",
       "title": "Behind AI Investment, U.S. Trade Deficit Grows 4th Consecutive Month",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:01:14+00:00",
-      "title": "Rocket Lab CEO Won’t Take on Musk and Bezos in Broadband: ‘The Two Most Wealthiest People in the World Are Going After That’",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:30:00+00:00",
-      "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

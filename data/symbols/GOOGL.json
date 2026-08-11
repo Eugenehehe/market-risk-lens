@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-11T18:08:35.709979+00:00",
+  "generated_at": "2026-08-11T19:18:24.402755+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 346.92,
-    "change_pct": -2.964869098232259
+    "price": 344.73,
+    "change_pct": -3.577422242112316
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T10:09:57.057745+00:00",
-      "close": 357.75
-    },
     {
       "timestamp": "2026-08-07T11:07:27.723027+00:00",
       "close": 357.75
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T18:08:35.709979+00:00",
       "close": 346.92
+    },
+    {
+      "timestamp": "2026-08-11T19:18:24.402755+00:00",
+      "close": 344.73
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-11T16:40:06+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:38:21+00:00",
+      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:03:02+00:00",
+      "title": "Dividends Are Sending A Signal",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-11T07:11:12+00:00",
       "title": "Gavin Newsom Launches AI Cyber Defense Program: ‘AI-Enabled Cybersecurity Threats Are No Longer Hypothetical’",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:03:11+00:00",
-      "title": "Anthropic's Claude Just Got a Hidden Watermark That Follows Your AI-Written Text Everywhere You Paste It",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:59:00+00:00",
-      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
