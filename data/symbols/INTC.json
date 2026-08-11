@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:38:51.159972+00:00",
+  "generated_at": "2026-08-11T07:54:35.642508+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 97.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T03:39:33.551459+00:00",
-      "close": 101.06
-    },
     {
       "timestamp": "2026-08-06T06:14:42.048981+00:00",
       "close": 101.06
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T06:38:51.159972+00:00",
       "close": 97.52
+    },
+    {
+      "timestamp": "2026-08-11T07:54:35.642508+00:00",
+      "close": 97.52
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T05:25:00+00:00",
       "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T02:30:00+00:00",
+      "title": "Intel Joins Race To Sell Shares At Sky-High Prices After Spike - Big Tech Figured It Out, The Economy Benefits, Maybe Not Investors",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T21:43:10+00:00",
       "title": "Intel: Buy The Equity Raise (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T21:37:09+00:00",
-      "title": "Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
