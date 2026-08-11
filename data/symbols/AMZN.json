@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:07:30.960711+00:00",
+  "generated_at": "2026-08-11T21:01:58.244313+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 272.27,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T11:55:11.713089+00:00",
-      "close": 272.26
-    },
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 272.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T20:07:30.960711+00:00",
       "close": 272.27
+    },
+    {
+      "timestamp": "2026-08-11T21:01:58.244313+00:00",
+      "close": 272.27
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T19:10:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T15:57:07+00:00",
+      "title": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T09:15:48+00:00",
       "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:55:00+00:00",
-      "title": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

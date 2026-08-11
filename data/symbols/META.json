@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:07:30.960711+00:00",
+  "generated_at": "2026-08-11T21:01:58.244313+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 599.12,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T11:55:11.713089+00:00",
-      "close": 589.9
-    },
     {
       "timestamp": "2026-08-07T13:03:45.880482+00:00",
       "close": 589.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T20:07:30.960711+00:00",
       "close": 599.12
+    },
+    {
+      "timestamp": "2026-08-11T21:01:58.244313+00:00",
+      "close": 599.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T15:57:07+00:00",
+      "title": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T15:29:06+00:00",
       "title": "Meta Q2: Strong Growth, But The AI Bill Is Becoming Hard To Ignore",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T13:03:13+00:00",
       "title": "Zuckerberg Wants AI for All — This CEO Says Open Models Are Making It Real",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:59:02+00:00",
-      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
