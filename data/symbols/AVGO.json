@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T19:18:24.402755+00:00",
+  "generated_at": "2026-08-11T20:07:30.960711+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 413.45,
-    "change_pct": -2.1188446969696906
+    "price": 416.08,
+    "change_pct": -1.4962121212121149
   },
   "risk": {
-    "score": 67,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T11:07:27.723027+00:00",
-      "close": 420.565
-    },
     {
       "timestamp": "2026-08-07T11:55:11.713089+00:00",
       "close": 420.565
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T19:18:24.402755+00:00",
       "close": 413.45
+    },
+    {
+      "timestamp": "2026-08-11T20:07:30.960711+00:00",
+      "close": 416.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T15:31:00+00:00",
+      "title": "FTEC: Fidelity's IT ETF Is A Fantastic Long-Term Core Tech Holding",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T14:38:21+00:00",
       "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T22:05:16+00:00",
       "title": "VYM’s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T20:50:00+00:00",
-      "title": "Semiconductor Equipment Makers vs. Chip Designers: Who's Actually Winning the AI Cycle?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

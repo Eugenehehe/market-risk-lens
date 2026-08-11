@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T19:18:24.402755+00:00",
+  "generated_at": "2026-08-11T20:07:30.960711+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.13,
-    "change_pct": -3.919232042370091
+    "price": 145.48,
+    "change_pct": -3.6875206885137457
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T11:07:27.723027+00:00",
-      "close": 143.47
-    },
     {
       "timestamp": "2026-08-07T11:55:11.713089+00:00",
       "close": 143.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T19:18:24.402755+00:00",
       "close": 145.13
+    },
+    {
+      "timestamp": "2026-08-11T20:07:30.960711+00:00",
+      "close": 145.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T19:05:01+00:00",
+      "title": "Tuesday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T18:05:01+00:00",
       "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T06:59:28+00:00",
       "title": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:33:17+00:00",
-      "title": "INTC Stock Gains Overnight: Chipmaker Raising Share Sale To Over $20B?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

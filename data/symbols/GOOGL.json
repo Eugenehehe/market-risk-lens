@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T19:18:24.402755+00:00",
+  "generated_at": "2026-08-11T20:07:30.960711+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 344.73,
-    "change_pct": -3.577422242112316
+    "price": 343.8,
+    "change_pct": -3.8375475497874123
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T11:07:27.723027+00:00",
-      "close": 357.75
-    },
     {
       "timestamp": "2026-08-07T11:55:11.713089+00:00",
       "close": 357.75
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-11T19:18:24.402755+00:00",
       "close": 344.73
+    },
+    {
+      "timestamp": "2026-08-11T20:07:30.960711+00:00",
+      "close": 343.8
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-11T16:40:06+00:00",
+      "timestamp": "2026-08-11T19:10:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T19:05:01+00:00",
+      "title": "Tuesday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
@@ -530,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-11T13:35:13+00:00",
+      "title": "10 Communication Services Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T11:45:40+00:00",
+      "title": "Alphabet Is Poised to Be an AI Winner, Analyst Says",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-11T09:15:48+00:00",
       "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
       "source": "Benzinga",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-11T08:55:00+00:00",
       "title": "This AI Cloud Stock Is Obliterating Amazon, Microsoft, and Alphabet With a 1-Year Return of 275%. Is It Still a Buy?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:30:00+00:00",
-      "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:12:27+00:00",
-      "title": "Meta, TikTok, Google and Snap Just Lost a Major Court Battle— and Must Face More Than 3,000 Lawsuits Over Addictive Platforms Targeting Young Users",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:11:12+00:00",
-      "title": "Gavin Newsom Launches AI Cyber Defense Program: ‘AI-Enabled Cybersecurity Threats Are No Longer Hypothetical’",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

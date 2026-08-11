@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T19:18:24.402755+00:00",
+  "generated_at": "2026-08-11T20:07:30.960711+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 217.53,
-    "change_pct": -0.009193288899111973
+    "price": 217.5,
+    "change_pct": -0.02298322224776328
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T11:07:27.723027+00:00",
-      "close": 218.99
-    },
     {
       "timestamp": "2026-08-07T11:55:11.713089+00:00",
       "close": 218.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T19:18:24.402755+00:00",
       "close": 217.53
+    },
+    {
+      "timestamp": "2026-08-11T20:07:30.960711+00:00",
+      "close": 217.5
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T18:05:01+00:00",
       "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:46:37+00:00",
+      "title": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T12:58:17+00:00",
       "title": "Nvidia's $500 billion financing deal: How to trade it",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:49:37+00:00",
-      "title": "Burry Vs. Jensen: The Number That Breaks The AI Boom",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
