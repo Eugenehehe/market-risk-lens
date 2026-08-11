@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.9,
-    "change_pct": -4.071499503475673
+    "price": 144.86,
+    "change_pct": -4.097980801059253
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 143.47
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 143.47
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 144.9
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 144.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T12:01:39+00:00",
+      "title": "Irrational Exuberance On Overdrive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T11:31:19+00:00",
+      "title": "What's Going On With Oracle Stock Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T07:30:00+00:00",
       "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-10T21:45:03+00:00",
       "title": "Why the Market Dipped But Oracle (ORCL) Gained Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T21:20:36+00:00",
-      "title": "Market expert 'cautious' on AI trade, likes healthcare, energy stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T19:26:11+00:00",
-      "title": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

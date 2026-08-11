@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 349.79,
-    "change_pct": -2.1621168046542794
+    "price": 347.45,
+    "change_pct": -2.816625643320647
   },
   "risk": {
-    "score": 68,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 357.75
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 357.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 349.79
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 347.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T16:40:06+00:00",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T09:15:48+00:00",
       "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T06:59:00+00:00",
       "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:33:17+00:00",
-      "title": "INTC Stock Gains Overnight: Chipmaker Raising Share Sale To Over $20B?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

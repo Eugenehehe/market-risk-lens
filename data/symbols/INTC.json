@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 97.46,
-    "change_pct": -0.061525840853160485
+    "price": 97.71,
+    "change_pct": 0.19483182936832488
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 99.81
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 99.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 97.46
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 97.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T12:01:39+00:00",
+      "title": "Irrational Exuberance On Overdrive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T09:30:00+00:00",
       "title": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T07:27:00+00:00",
       "title": "Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:36:00+00:00",
-      "title": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

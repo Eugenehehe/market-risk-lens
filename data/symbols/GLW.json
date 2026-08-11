@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 159.07,
-    "change_pct": 0.8303752535496978
+    "price": 158.79,
+    "change_pct": 0.6528904665314306
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 157.18
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 157.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 159.07
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 158.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T12:13:04+00:00",
+      "title": "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T01:08:12+00:00",
       "title": "Why Corning (GLW) Is Up 7.6% After Strong Q2 Results And AI-Focused Guidance",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T15:23:00+00:00",
       "title": "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T14:18:51+00:00",
-      "title": "Why Is Coherent Stock Falling on Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

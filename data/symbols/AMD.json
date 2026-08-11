@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 467.33,
-    "change_pct": -0.474912684215012
+    "price": 465.85,
+    "change_pct": -0.7901013714967209
   },
   "risk": {
-    "score": 54,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 489.28
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 489.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 467.33
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 465.85
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T11:49:00+00:00",
       "title": "ValuEngine Weekly Market Summary And Commentary",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T10:39:17+00:00",
+      "title": "Bitcoin's Biggest Rival Isn't Ethereum. It's the AI Trade",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T08:25:00+00:00",
       "title": "3 Dividend-Paying Industrial Stocks to Buy in August",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:46:25+00:00",
-      "title": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

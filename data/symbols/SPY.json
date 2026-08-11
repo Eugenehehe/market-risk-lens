@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 772.31,
-    "change_pct": -0.0931399816307299
+    "price": 770.58,
+    "change_pct": -0.3169346597156508
   },
   "risk": {
-    "score": 51,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 768.56
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 768.56
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 772.31
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 770.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T12:37:57+00:00",
+      "title": "AI Capex To Hit $1 Trillion - And Estimates Are Still Too Low",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T12:01:39+00:00",
+      "title": "Irrational Exuberance On Overdrive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T11:17:00+00:00",
       "title": "Markets Straddle Flat Line In Early Trading",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-11T08:32:48+00:00",
       "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Trump Demands Compensation From Iran— Rocket Lab, ASTS SpaceMobile, Plug Power in Focus (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:02:00+00:00",
-      "title": "Diverging Fortunes For Older And Younger Teens In U.S. Summer Job Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:30:00+00:00",
-      "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

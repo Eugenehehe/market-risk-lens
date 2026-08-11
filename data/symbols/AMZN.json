@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T16:10:15.269136+00:00",
+  "generated_at": "2026-08-11T17:12:43.905207+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 272.34,
-    "change_pct": -2.0676759322521443
+    "price": 271.86,
+    "change_pct": -2.2402819231184035
   },
   "risk": {
-    "score": 67,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 272.26
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 272.26
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-11T16:10:15.269136+00:00",
       "close": 272.34
+    },
+    {
+      "timestamp": "2026-08-11T17:12:43.905207+00:00",
+      "close": 271.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T16:40:06+00:00",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T12:01:39+00:00",
+      "title": "Irrational Exuberance On Overdrive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T11:55:27+00:00",
+      "title": "The Trade Desk: Buying In The Middle Of An Existential Crisis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T09:15:48+00:00",
       "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-11T07:30:00+00:00",
       "title": "Hyperscalers Are 'All In' On Singularity, And OpenAI's Astra Gives Hope",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:59:28+00:00",
-      "title": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T06:59:00+00:00",
-      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T05:25:00+00:00",
-      "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
