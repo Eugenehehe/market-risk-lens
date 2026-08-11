@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:23:17.716748+00:00",
+  "generated_at": "2026-08-11T04:47:43.932089+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 720.87,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T22:00:19.688702+00:00",
-      "close": 717.3
-    },
     {
       "timestamp": "2026-08-05T23:11:54.289123+00:00",
       "close": 717.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T03:23:17.716748+00:00",
       "close": 720.87
+    },
+    {
+      "timestamp": "2026-08-11T04:47:43.932089+00:00",
+      "close": 720.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T23:40:00+00:00",
+      "title": "Cumberland's Monday Memo",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T17:30:00+00:00",
       "title": "The S&P Is Ignoring Semiconductor Crashes",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T13:07:38+00:00",
       "title": "S&P 500 Earnings Growth May Be Less Impressive Than It Looks; SpaceX Short Squeeze; Inflation Data Ahead",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T12:57:15+00:00",
-      "title": "Oil Jumps 3%, Yields Climb as Hormuz Hopes Fade: Stock Market Today",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

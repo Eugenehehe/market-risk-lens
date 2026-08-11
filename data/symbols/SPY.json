@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:23:17.716748+00:00",
+  "generated_at": "2026-08-11T04:47:43.932089+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-05T22:00:19.688702+00:00",
-      "close": 769.79
-    },
     {
       "timestamp": "2026-08-05T23:11:54.289123+00:00",
       "close": 769.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T03:23:17.716748+00:00",
       "close": 773.03
+    },
+    {
+      "timestamp": "2026-08-11T04:47:43.932089+00:00",
+      "close": 773.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-10T23:40:00+00:00",
+      "title": "Cumberland's Monday Memo",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T23:02:45+00:00",
       "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T18:03:42+00:00",
       "title": "Wary Bulls Can Take Advantage Of This Spread On The S&P 500",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T18:03:42+00:00",
-      "title": "Weary Bulls Can Take Advantage Of This Spread On The S&P 500",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
