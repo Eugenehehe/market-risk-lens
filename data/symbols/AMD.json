@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:54:31.983105+00:00",
+  "generated_at": "2026-08-11T11:42:24.817652+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 469.56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T13:13:45.637597+00:00",
-      "close": 482.05
-    },
     {
       "timestamp": "2026-08-06T15:30:41.210622+00:00",
       "close": 492.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T10:54:31.983105+00:00",
       "close": 469.56
+    },
+    {
+      "timestamp": "2026-08-11T11:42:24.817652+00:00",
+      "close": 469.56
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-11T07:46:25+00:00",
       "title": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T07:08:07+00:00",
+      "title": "AMD: Buying A Supply Position, Not A Product Cycle",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T22:58:00+00:00",
       "title": "Stock Screening Made Simple: A Guide",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T22:17:08+00:00",
-      "title": "Why Did FRMI Stock Rise As Much As 35% After-Hours?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

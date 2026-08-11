@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:54:31.983105+00:00",
+  "generated_at": "2026-08-11T11:42:24.817652+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T13:13:45.637597+00:00",
-      "close": 769.79
-    },
     {
       "timestamp": "2026-08-06T15:30:41.210622+00:00",
       "close": 769.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T10:54:31.983105+00:00",
       "close": 773.03
+    },
+    {
+      "timestamp": "2026-08-11T11:42:24.817652+00:00",
+      "close": 773.03
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-11T08:33:34+00:00",
       "title": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T07:05:00+00:00",
+      "title": "The One Chart That Tells Me It Is Time To Get Defensive",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T23:02:45+00:00",
       "title": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T22:05:16+00:00",
-      "title": "VYM’s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 500",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
