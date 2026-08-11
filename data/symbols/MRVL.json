@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:58:37.510013+00:00",
+  "generated_at": "2026-08-11T22:53:09.319890+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 212.31,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T14:17:02.498276+00:00",
-      "close": 206.97
-    },
     {
       "timestamp": "2026-08-07T15:13:01.301695+00:00",
       "close": 213.68
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T21:58:37.510013+00:00",
       "close": 212.31
+    },
+    {
+      "timestamp": "2026-08-11T22:53:09.319890+00:00",
+      "close": 212.31
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-11T17:27:18+00:00",
       "title": "Marvell: Don't Get Shaken Out Of The Sharp Sell-Off",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:35:13+00:00",
+      "title": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T14:49:24+00:00",
       "title": "Broadcom’s Brilliant Positioning is Why I Am Loading Up Over and Over",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T09:14:43+00:00",
-      "title": "What's Going On With Marvell Technology Stock Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

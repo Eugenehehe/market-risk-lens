@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:58:37.510013+00:00",
+  "generated_at": "2026-08-11T22:53:09.319890+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 97.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T14:17:02.498276+00:00",
-      "close": 98.72
-    },
     {
       "timestamp": "2026-08-07T15:13:01.301695+00:00",
       "close": 99.85
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T21:58:37.510013+00:00",
       "close": 97.71
+    },
+    {
+      "timestamp": "2026-08-11T22:53:09.319890+00:00",
+      "close": 97.71
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-11T18:00:00+00:00",
       "title": "Which stocks are most active on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T14:35:13+00:00",
+      "title": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T09:30:00+00:00",
       "title": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T09:29:22+00:00",
-      "title": "Cramer’s Mad Dash: Intel",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
