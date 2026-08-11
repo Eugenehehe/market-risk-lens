@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:54:35.642508+00:00",
+  "generated_at": "2026-08-11T08:53:46.358721+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 151.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T06:14:42.048981+00:00",
-      "close": 144.39
-    },
     {
       "timestamp": "2026-08-06T09:10:26.214041+00:00",
       "close": 144.39
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T07:54:35.642508+00:00",
       "close": 151.05
+    },
+    {
+      "timestamp": "2026-08-11T08:53:46.358721+00:00",
+      "close": 151.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T06:33:17+00:00",
+      "title": "INTC Stock Gains Overnight: Chipmaker Raising Share Sale To Over $20B?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-10T22:39:08+00:00",
       "title": "CRM Stock Has Bounced From This Price Before. Now What?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T18:28:04+00:00",
       "title": "Is Oracle Still The Software Business You Bought?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T18:01:07+00:00",
-      "title": "Michael Burry vs. Nvidia: What to Know as Burry Bets Against Nvidia-Backed Nebius Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
