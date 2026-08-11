@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:53:09.319890+00:00",
+  "generated_at": "2026-08-11T23:34:06.753838+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 343.8,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T15:13:01.301695+00:00",
-      "close": 357.23
-    },
     {
       "timestamp": "2026-08-07T16:10:19.471073+00:00",
       "close": 355.53
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T22:53:09.319890+00:00",
       "close": 343.8
+    },
+    {
+      "timestamp": "2026-08-11T23:34:06.753838+00:00",
+      "close": 343.8
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-11T19:05:01+00:00",
       "title": "Tuesday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T17:02:24+00:00",
+      "title": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -554,16 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-11T11:45:40+00:00",
-      "title": "Alphabet Is Poised to Be an AI Winner, Analyst Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T09:15:48+00:00",
-      "title": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
+      "timestamp": "2026-08-11T13:32:48+00:00",
+      "title": "Google Announces Video-On-Demand To Google TV Freeplay",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

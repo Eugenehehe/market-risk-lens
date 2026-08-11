@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:53:09.319890+00:00",
+  "generated_at": "2026-08-11T23:34:06.753838+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 217.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T15:13:01.301695+00:00",
-      "close": 223.68
-    },
     {
       "timestamp": "2026-08-07T16:10:19.471073+00:00",
       "close": 223.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-11T22:53:09.319890+00:00",
       "close": 217.5
+    },
+    {
+      "timestamp": "2026-08-11T23:34:06.753838+00:00",
+      "close": 217.5
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-11T17:37:43+00:00",
       "title": "Wall Street Is Repackaging The AI Bubble",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T17:02:24+00:00",
+      "title": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T14:35:13+00:00",
       "title": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T13:32:58+00:00",
-      "title": "This Is A Market Of High Expectations",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
