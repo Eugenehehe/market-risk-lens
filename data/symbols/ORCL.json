@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T17:12:43.905207+00:00",
+  "generated_at": "2026-08-11T18:08:35.709979+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.86,
-    "change_pct": -4.097980801059253
+    "price": 144.9,
+    "change_pct": -4.071499503475673
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T07:58:36.941420+00:00",
-      "close": 143.47
-    },
     {
       "timestamp": "2026-08-07T10:09:57.057745+00:00",
       "close": 143.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T17:12:43.905207+00:00",
       "close": 144.86
+    },
+    {
+      "timestamp": "2026-08-11T18:08:35.709979+00:00",
+      "close": 144.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T16:35:01+00:00",
+      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T12:01:39+00:00",
       "title": "Irrational Exuberance On Overdrive",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T22:19:15+00:00",
       "title": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T21:45:03+00:00",
-      "title": "Why the Market Dipped But Oracle (ORCL) Gained Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

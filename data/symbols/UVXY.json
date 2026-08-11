@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T17:12:43.905207+00:00",
+  "generated_at": "2026-08-11T18:08:35.709979+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 21.45,
-    "change_pct": -0.832177531206657
+    "price": 21.36,
+    "change_pct": -1.2482662968099856
   },
   "risk": {
-    "score": 41,
+    "score": 46,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T06:38:26.165765+00:00",
-      "close": 21.56
-    },
     {
       "timestamp": "2026-08-07T07:58:36.941420+00:00",
       "close": 21.56
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-11T17:12:43.905207+00:00",
       "close": 21.45
+    },
+    {
+      "timestamp": "2026-08-11T18:08:35.709979+00:00",
+      "close": 21.36
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-11T13:39:00+00:00",
+      "title": "SPX Skew Collapses On Upside Chasing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

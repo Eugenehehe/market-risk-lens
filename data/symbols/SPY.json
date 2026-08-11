@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T17:12:43.905207+00:00",
+  "generated_at": "2026-08-11T18:08:35.709979+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 770.58,
-    "change_pct": -0.3169346597156508
+    "price": 770.88,
+    "change_pct": -0.27812633403618836
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T07:58:36.941420+00:00",
-      "close": 768.56
-    },
     {
       "timestamp": "2026-08-07T10:09:57.057745+00:00",
       "close": 768.56
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-11T17:12:43.905207+00:00",
       "close": 770.58
+    },
+    {
+      "timestamp": "2026-08-11T18:08:35.709979+00:00",
+      "close": 770.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T13:39:00+00:00",
+      "title": "SPX Skew Collapses On Upside Chasing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T13:32:58+00:00",
+      "title": "This Is A Market Of High Expectations",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T12:49:37+00:00",
+      "title": "Burry Vs. Jensen: The Number That Breaks The AI Boom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T12:37:57+00:00",
       "title": "AI Capex To Hit $1 Trillion - And Estimates Are Still Too Low",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-11T08:54:02+00:00",
       "title": "Timing The AI Boom To Bust",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:50:00+00:00",
-      "title": "Foreign Stocks Lose Their Edge As U.S. Momentum Roars Back",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:33:34+00:00",
-      "title": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T08:32:48+00:00",
-      "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Trump Demands Compensation From Iran— Rocket Lab, ASTS SpaceMobile, Plug Power in Focus (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T17:12:43.905207+00:00",
+  "generated_at": "2026-08-11T18:08:35.709979+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 97.71,
-    "change_pct": 0.19483182936832488
+    "price": 97.21,
+    "change_pct": -0.31788351107465695
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T07:58:36.941420+00:00",
-      "close": 99.81
-    },
     {
       "timestamp": "2026-08-07T10:09:57.057745+00:00",
       "close": 99.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T17:12:43.905207+00:00",
       "close": 97.71
+    },
+    {
+      "timestamp": "2026-08-11T18:08:35.709979+00:00",
+      "close": 97.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T12:46:54+00:00",
+      "title": "S&P 500 Eyes Records, Fed Hike Odds Near 51% Before CPI: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T12:01:39+00:00",
       "title": "Irrational Exuberance On Overdrive",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-11T09:30:00+00:00",
       "title": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T09:29:22+00:00",
+      "title": "Cramer’s Mad Dash: Intel",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-11T07:43:39+00:00",
       "title": "Intel: This Pullback Is A Golden Opportunity (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:39:24+00:00",
-      "title": "Why Is Intel Stock Falling Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:27:00+00:00",
-      "title": "Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
