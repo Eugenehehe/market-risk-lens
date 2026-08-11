@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:43:10.857626+00:00",
+  "generated_at": "2026-08-11T06:38:51.159972+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 861,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T00:11:21.093047+00:00",
-      "close": 893.19
-    },
     {
       "timestamp": "2026-08-06T03:39:33.551459+00:00",
       "close": 893.19
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T05:43:10.857626+00:00",
       "close": 861
+    },
+    {
+      "timestamp": "2026-08-11T06:38:51.159972+00:00",
+      "close": 861
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T05:25:00+00:00",
+      "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T01:04:08+00:00",
       "title": "Micron Says AI Memory Crunch Could Last Beyond 2027 as DRAM Demand Soars",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T18:05:01+00:00",
       "title": "Most active S&P500 stocks in Monday's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T17:49:00+00:00",
-      "title": "Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
