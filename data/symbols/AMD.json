@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T12:29:05.597644+00:00",
+  "generated_at": "2026-08-11T13:59:35.235281+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 469.56,
-    "change_pct": -2.8550148957298904
+    "price": 465.11,
+    "change_pct": -0.9476957151375753
   },
   "risk": {
-    "score": 73,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T00:31:43.366417+00:00",
-      "close": 489.28
-    },
     {
       "timestamp": "2026-08-07T03:33:39.096528+00:00",
       "close": 489.28
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-11T12:29:05.597644+00:00",
       "close": 469.56
+    },
+    {
+      "timestamp": "2026-08-11T13:59:35.235281+00:00",
+      "close": 465.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T09:30:00+00:00",
+      "title": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T09:17:49+00:00",
+      "title": "Microsoft Vs. AMD: Investors May Be Watching The Wrong Variables (Panel Regression)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T09:01:12+00:00",
+      "title": "Priced For Perfection: Why AMD's Growth Thesis Faces A Structural Ceiling",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T08:25:00+00:00",
       "title": "3 Dividend-Paying Industrial Stocks to Buy in August",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-11T01:12:00+00:00",
       "title": "Riot Shares Jump After $9.1B AI Lease and Q2 Revenue Beat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T00:50:00+00:00",
-      "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T00:17:20+00:00",
-      "title": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T22:58:00+00:00",
-      "title": "Stock Screening Made Simple: A Guide",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
