@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T13:59:35.235281+00:00",
+  "generated_at": "2026-08-11T15:08:50.258183+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 856.77,
-    "change_pct": -0.4912891986062706
+    "price": 859.54,
+    "change_pct": -0.16957026713124712
   },
   "risk": {
-    "score": 54,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T03:33:39.096528+00:00",
-      "close": 881.47
-    },
     {
       "timestamp": "2026-08-07T05:19:51.647079+00:00",
       "close": 881.47
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-11T13:59:35.235281+00:00",
       "close": 856.77
+    },
+    {
+      "timestamp": "2026-08-11T15:08:50.258183+00:00",
+      "close": 859.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T10:43:09+00:00",
+      "title": "Sandisk: The Cyclical Label Is Priced In, But Contracts Ignored (Initiating Buy)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T10:28:52+00:00",
+      "title": "Western Digital: AI Is Creating 300 Trillion Tokens A Day, Buy The Storage",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T09:32:21+00:00",
       "title": "Micron Stock: The Bear Case Is Losing Its Bite (Rating Upgrade)",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-11T08:00:00+00:00",
       "title": "Sandisk: Years Of Demand, One Quarter Of Doubt",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:46:25+00:00",
-      "title": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T05:25:00+00:00",
-      "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
