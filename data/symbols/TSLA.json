@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:57:09.557363+00:00",
+  "generated_at": "2026-08-11T10:54:31.983105+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 330.88,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-06T11:33:30.944004+00:00",
-      "close": 321.55
-    },
     {
       "timestamp": "2026-08-06T13:13:45.637597+00:00",
       "close": 321.55
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-11T09:57:09.557363+00:00",
       "close": 330.88
+    },
+    {
+      "timestamp": "2026-08-11T10:54:31.983105+00:00",
+      "close": 330.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T09:32:00+00:00",
+      "title": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T00:45:22+00:00",
       "title": "Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T20:31:18+00:00",
       "title": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T20:23:00+00:00",
-      "title": "SpaceX Stock Keeps Rising After Lockup Rally Ahead of the Next Share Unlock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
