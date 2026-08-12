@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:11:17.956585+00:00",
+  "generated_at": "2026-08-12T05:03:19.906033+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 300.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T17:59:50.306037+00:00",
-      "close": 301.37
-    },
     {
       "timestamp": "2026-08-07T19:08:38.787621+00:00",
       "close": 301.76
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T03:11:17.956585+00:00",
       "close": 300.99
+    },
+    {
+      "timestamp": "2026-08-12T05:03:19.906033+00:00",
+      "close": 300.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-11T23:10:00+00:00",
+      "title": "What Payroll Revisions Reveal About The Economy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T20:45:00+00:00",
       "title": "Rates Spark: The Fiscal Number Can Eclipse CPI",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T13:32:58+00:00",
       "title": "This Is A Market Of High Expectations",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:49:37+00:00",
-      "title": "Burry Vs. Jensen: The Number That Breaks The AI Boom",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
