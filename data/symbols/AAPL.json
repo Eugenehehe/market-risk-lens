@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T16:38:39.654951+00:00",
+  "generated_at": "2026-08-12T17:40:58.799636+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 301.6,
-    "change_pct": -1.085566232658819
+    "price": 302.17,
+    "change_pct": -0.8986258240136435
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T04:42:10.374826+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-08T05:28:40.149124+00:00",
       "close": 313.33
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-12T16:38:39.654951+00:00",
       "close": 301.6
+    },
+    {
+      "timestamp": "2026-08-12T17:40:58.799636+00:00",
+      "close": 302.17
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-12T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T11:29:47+00:00",
       "title": "Sandisk Stock: Why I'm Buying On Fear (Rating Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:00:01+00:00",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-12T05:25:09+00:00",
       "title": "Google Gemini Hits 1 Billion Monthly Users, Closing the Gap With ChatGPT—Sundar Pichai Calls it ‘Fastest-Growing’ Product Ever",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T03:30:00+00:00",
-      "title": "License To Chase The AI Frontier",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T02:32:34+00:00",
-      "title": "Elizabeth Warren Probes 'Cartoonish Corruption' After Accusing Belgium Diamond Industry of Gifting Trump a Diamond-Encrusted Ring",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

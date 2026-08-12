@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T16:38:39.654951+00:00",
+  "generated_at": "2026-08-12T17:40:58.799636+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 222.88,
-    "change_pct": 2.4735632183908063
+    "price": 224.04,
+    "change_pct": 3.0068965517241253
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T04:42:10.374826+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T05:28:40.149124+00:00",
       "close": 223.96
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-08-12T16:38:39.654951+00:00",
       "close": 222.88
+    },
+    {
+      "timestamp": "2026-08-12T17:40:58.799636+00:00",
+      "close": 224.04
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-12T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T13:04:38+00:00",
+      "title": "Positioning for Big Tech's next move",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T12:07:52+00:00",
       "title": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T11:44:50+00:00",
+      "title": "What's Going On With Nvidia Stock on Wednesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-12T09:17:00+00:00",
-      "title": "CoreWeave Cashes in on the AI Gold Rush With a 25% Price Hike, and Customers are Still Lining Up: CRWV Stock Rises 19% (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T09:15:11+00:00",
-      "title": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:55:55+00:00",
-      "title": "Tech Veteran Warns Nvidia Is Playing Intel’s Old Game Against AMD — and It Could Become a Dangerous Trap",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:50:48+00:00",
-      "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
-      "source": "ChartMill",
+      "timestamp": "2026-08-12T09:36:08+00:00",
+      "title": "CoreWeave CEO: Older generations of GPUs will have a longer useful life than anticipated",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

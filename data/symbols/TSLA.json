@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T16:38:39.654951+00:00",
+  "generated_at": "2026-08-12T17:40:58.799636+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 327.12,
-    "change_pct": -1.70968420420059
+    "price": 325.83,
+    "change_pct": -2.097292749616908
   },
   "risk": {
-    "score": 64,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T04:42:10.374826+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-08T05:28:40.149124+00:00",
       "close": 328.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T16:38:39.654951+00:00",
       "close": 327.12
+    },
+    {
+      "timestamp": "2026-08-12T17:40:58.799636+00:00",
+      "close": 325.83
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-12T04:33:54+00:00",
       "title": "Elon Musk Makes Bold Promise on Flying Cars: ‘You Will Get...’",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T03:01:56+00:00",
+      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T14:46:37+00:00",
       "title": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T14:38:21+00:00",
-      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

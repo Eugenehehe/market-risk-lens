@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T16:38:39.654951+00:00",
+  "generated_at": "2026-08-12T17:40:58.799636+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 466.8,
-    "change_pct": 5.857541329342131
+    "price": 470.63,
+    "change_pct": 6.726081139306528
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T04:42:10.374826+00:00",
-      "close": 453.77
-    },
     {
       "timestamp": "2026-08-08T05:28:40.149124+00:00",
       "close": 453.77
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T16:38:39.654951+00:00",
       "close": 466.8
+    },
+    {
+      "timestamp": "2026-08-12T17:40:58.799636+00:00",
+      "close": 470.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T16:35:01+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T10:55:04+00:00",
       "title": "Rackspace: The Double Trap Of Negative EBIT And A $2.8 Billion Debt Burden",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-11T19:05:01+00:00",
       "title": "Tuesday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-11T18:02:16+00:00",
+      "title": "S&P 500 rises after tame inflation data; AI-related shares jump: Live updates",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-11T02:10:03+00:00",
       "title": "Dell (DELL) Stock May Be Undervalued On A Huge Five Year Run",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T01:33:34+00:00",
-      "title": "HPQ Pays You More Cash Than Most Of The Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T01:24:41+00:00",
-      "title": "A 14% Yield On ANET Stock, And A Shot At Buying It 40% Lower",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
