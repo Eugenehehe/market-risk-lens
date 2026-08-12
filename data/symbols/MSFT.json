@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T19:46:08.645920+00:00",
+  "generated_at": "2026-08-12T20:26:08.350302+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 494.01,
-    "change_pct": -1.9451777455786967
+    "price": 492.43,
+    "change_pct": -2.258788035171988
   },
   "risk": {
-    "score": 66,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T07:14:13.159118+00:00",
-      "close": 499.99
-    },
     {
       "timestamp": "2026-08-08T08:02:13.229674+00:00",
       "close": 499.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T19:46:08.645920+00:00",
       "close": 494.01
+    },
+    {
+      "timestamp": "2026-08-12T20:26:08.350302+00:00",
+      "close": 492.43
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-12T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T15:59:05+00:00",
+      "title": "3 Ways To Get Paid For Big Tech's Volatility",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T15:33:45+00:00",
+      "title": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-12T09:43:26+00:00",
       "title": "'Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers' - Bloomberg",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:26:13+00:00",
-      "title": "Wells Fargo Maintains Overweight on Microsoft, Raises Price Target to $700",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:13:29+00:00",
-      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T19:46:08.645920+00:00",
+  "generated_at": "2026-08-12T20:26:08.350302+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 222.3,
-    "change_pct": 2.206896551724147
+    "price": 224.09,
+    "change_pct": 3.02988505747126
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T07:14:13.159118+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T08:02:13.229674+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T19:46:08.645920+00:00",
       "close": 222.3
+    },
+    {
+      "timestamp": "2026-08-12T20:26:08.350302+00:00",
+      "close": 224.09
     }
   ],
   "events": [
@@ -562,9 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-12T12:07:52+00:00",
-      "title": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
-      "source": "ChartMill",
+      "timestamp": "2026-08-12T12:53:57+00:00",
+      "title": "Dan Ives Says CoreWeave, Cisco Earnings ‘Pieces of the Puzzle’ for AI Trade: ‘Get the Popcorn Out’",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

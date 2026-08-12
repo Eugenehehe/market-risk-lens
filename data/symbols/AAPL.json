@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T19:46:08.645920+00:00",
+  "generated_at": "2026-08-12T20:26:08.350302+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 301.61,
-    "change_pct": -1.0822865763667977
+    "price": 302.25,
+    "change_pct": -0.872388573677485
   },
   "risk": {
-    "score": 59,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T07:14:13.159118+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-08T08:02:13.229674+00:00",
       "close": 313.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T19:46:08.645920+00:00",
       "close": 301.61
+    },
+    {
+      "timestamp": "2026-08-12T20:26:08.350302+00:00",
+      "close": 302.25
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-12T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T15:59:05+00:00",
+      "title": "3 Ways To Get Paid For Big Tech's Volatility",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T09:15:11+00:00",
       "title": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:50:48+00:00",
-      "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
