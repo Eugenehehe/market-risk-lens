@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T12:08:38.795258+00:00",
+  "generated_at": "2026-08-12T13:45:25.698154+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 868.52,
-    "change_pct": 0.8734030197444786
+    "price": 910.59,
+    "change_pct": 4.843872334546129
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T23:31:05.366322+00:00",
-      "close": 877.57
-    },
     {
       "timestamp": "2026-08-08T00:02:42.150287+00:00",
       "close": 877.57
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-12T12:08:38.795258+00:00",
       "close": 868.52
+    },
+    {
+      "timestamp": "2026-08-12T13:45:25.698154+00:00",
+      "close": 910.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T09:15:11+00:00",
+      "title": "Apple: A Rare Downgrade That Has Nothing To Do With AI",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T09:04:55+00:00",
+      "title": "Micron: Capacity Expansion To Capture Booming Memory Demand",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T18:05:01+00:00",
       "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-11T12:37:57+00:00",
       "title": "AI Capex To Hit $1 Trillion - And Estimates Are Still Too Low",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T10:43:09+00:00",
-      "title": "Sandisk: The Cyclical Label Is Priced In, But Contracts Ignored (Initiating Buy)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T10:28:52+00:00",
-      "title": "Western Digital: AI Is Creating 300 Trillion Tokens A Day, Buy The Storage",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

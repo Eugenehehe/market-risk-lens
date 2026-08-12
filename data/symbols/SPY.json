@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T12:08:38.795258+00:00",
+  "generated_at": "2026-08-12T13:45:25.698154+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 770.56,
-    "change_pct": -0.31952188142763127
+    "price": 772.94,
+    "change_pct": 0.30886627906978603
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T23:31:05.366322+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T00:02:42.150287+00:00",
       "close": 773.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T12:08:38.795258+00:00",
       "close": 770.56
+    },
+    {
+      "timestamp": "2026-08-12T13:45:25.698154+00:00",
+      "close": 772.94
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-12T11:28:25+00:00",
       "title": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T09:25:41+00:00",
+      "title": "July CPI: Rangebound Inflation Likely Creates Breathing Room For Policymakers",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T08:54:59+00:00",
+      "title": "My Argument Against A Fed Rate Hike",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-12T01:25:00+00:00",
       "title": "The Old World's Bill",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T23:10:00+00:00",
-      "title": "What Payroll Revisions Reveal About The Economy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T20:45:00+00:00",
-      "title": "Rates Spark: The Fiscal Number Can Eclipse CPI",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
