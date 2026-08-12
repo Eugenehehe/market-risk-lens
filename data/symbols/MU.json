@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:26:08.350302+00:00",
+  "generated_at": "2026-08-12T21:20:53.182518+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 911.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T08:02:13.229674+00:00",
-      "close": 877.57
-    },
     {
       "timestamp": "2026-08-08T08:54:31.645405+00:00",
       "close": 877.57
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T20:26:08.350302+00:00",
       "close": 911.29
+    },
+    {
+      "timestamp": "2026-08-12T21:20:53.182518+00:00",
+      "close": 911.29
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-12T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T15:43:40+00:00",
+      "title": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T11:29:47+00:00",
       "title": "Sandisk Stock: Why I'm Buying On Fear (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:01:19+00:00",
-      "title": "Cramer’s Stop Trading: Micron",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
