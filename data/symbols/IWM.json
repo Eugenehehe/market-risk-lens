@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T13:45:25.698154+00:00",
+  "generated_at": "2026-08-12T14:45:43.382179+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 302.57,
-    "change_pct": 0.5249343832020914
+    "price": 301.5,
+    "change_pct": 0.16944084521079983
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T00:02:42.150287+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T02:16:34.985793+00:00",
       "close": 301.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T13:45:25.698154+00:00",
       "close": 302.57
+    },
+    {
+      "timestamp": "2026-08-12T14:45:43.382179+00:00",
+      "close": 301.5
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-12T11:28:25+00:00",
       "title": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:20:00+00:00",
+      "title": "Labor Force Participation Rate Drop Not That Big A Deal",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:20:00+00:00",
+      "title": "Trade Between U.S. And China Increases",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T09:35:56+00:00",
+      "title": "Core CPI Coolest Since March 2021, Fed Hike Odds Fall",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-12T07:05:00+00:00",
       "title": "Profits And Rates: Could We Be In For A New Round Of Hikes?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T03:35:00+00:00",
-      "title": "Banking Risk Monthly Outlook: August 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T01:25:00+00:00",
-      "title": "The Old World's Bill",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T23:10:00+00:00",
-      "title": "What Payroll Revisions Reveal About The Economy",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
