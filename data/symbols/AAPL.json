@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:31:22.692087+00:00",
+  "generated_at": "2026-08-12T11:24:34.951459+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 304.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T22:07:41.586864+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-07T22:54:08.639214+00:00",
       "close": 313.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T10:31:22.692087+00:00",
       "close": 304.91
+    },
+    {
+      "timestamp": "2026-08-12T11:24:34.951459+00:00",
+      "close": 304.91
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-12T08:50:48+00:00",
       "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T07:05:00+00:00",
+      "title": "It's The Best Time In Years To Retire",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T12:59:02+00:00",
       "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T07:46:25+00:00",
-      "title": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
