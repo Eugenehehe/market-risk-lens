@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T17:40:58.799636+00:00",
+  "generated_at": "2026-08-12T18:37:19.582184+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 222.84,
-    "change_pct": 4.959728698601107
+    "price": 222.38,
+    "change_pct": 4.743064386981288
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T05:28:40.149124+00:00",
-      "close": 218.72
-    },
     {
       "timestamp": "2026-08-08T06:09:36.014267+00:00",
       "close": 218.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T17:40:58.799636+00:00",
       "close": 222.84
+    },
+    {
+      "timestamp": "2026-08-12T18:37:19.582184+00:00",
+      "close": 222.38
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-12T14:35:01+00:00",
       "title": "These S&P500 stocks are gapping in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T13:29:18+00:00",
+      "title": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-10T21:45:02+00:00",
       "title": "Here's Why Marvell Technology (MRVL) Fell More Than Broader Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T20:01:13+00:00",
-      "title": "Marvell Technology Stock's Multiple Leans On Profit From Below The Operating Line",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

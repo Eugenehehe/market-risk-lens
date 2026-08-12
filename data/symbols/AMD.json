@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T17:40:58.799636+00:00",
+  "generated_at": "2026-08-12T18:37:19.582184+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 487.7,
-    "change_pct": 2.8208804182830116
+    "price": 486.62,
+    "change_pct": 2.593186034744477
   },
   "risk": {
-    "score": 73,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T05:28:40.149124+00:00",
-      "close": 483.36
-    },
     {
       "timestamp": "2026-08-08T06:09:36.014267+00:00",
       "close": 483.36
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T17:40:58.799636+00:00",
       "close": 487.7
+    },
+    {
+      "timestamp": "2026-08-12T18:37:19.582184+00:00",
+      "close": 486.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T13:29:17+00:00",
+      "title": "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T11:41:28+00:00",
       "title": "Cerebras Earnings Prediction Market Preview: What Will Andrew Feldman Say?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T13:35:13+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:59:02+00:00",
-      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

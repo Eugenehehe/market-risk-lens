@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T17:40:58.799636+00:00",
+  "generated_at": "2026-08-12T18:37:19.582184+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 102.17,
-    "change_pct": 4.56452768396276
+    "price": 102.2,
+    "change_pct": 4.595230784975968
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T05:28:40.149124+00:00",
-      "close": 101.65
-    },
     {
       "timestamp": "2026-08-08T06:09:36.014267+00:00",
       "close": 101.65
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-12T17:40:58.799636+00:00",
       "close": 102.17
+    },
+    {
+      "timestamp": "2026-08-12T18:37:19.582184+00:00",
+      "close": 102.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T18:05:01+00:00",
+      "title": "Which S&P500 stocks are the most active on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T18:00:00+00:00",
+      "title": "These stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T11:44:50+00:00",
       "title": "What's Going On With Nvidia Stock on Wednesday?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-12T08:55:55+00:00",
       "title": "Tech Veteran Warns Nvidia Is Playing Intel’s Old Game Against AMD — and It Could Become a Dangerous Trap",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:50:48+00:00",
-      "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T01:27:55+00:00",
-      "title": "Intel: More Capital Put At Work",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
