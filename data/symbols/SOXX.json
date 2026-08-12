@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 551.76,
-    "change_pct": 3.287158367652565
+    "price": 549.42,
+    "change_pct": 2.8491201797079535
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 543.27
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 543.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 551.76
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 549.42
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T08:59:57+00:00",
+      "title": "Why This Investor Bought Intel’s Post-Offering Dip",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T00:30:00+00:00",
       "title": "Nearly A Third Of Tech Has Raised Guidance",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T17:30:00+00:00",
       "title": "The S&P Is Ignoring Semiconductor Crashes",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T15:31:36+00:00",
-      "title": "QUICK SPARK: Nasdaq 100 Breadth Hits Its Strongest Level in Over a Year",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

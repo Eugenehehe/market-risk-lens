@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.1,
-    "change_pct": 0.3296303986711102
+    "price": 771.92,
+    "change_pct": 0.17649501661129996
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 773.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 773.1
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 771.92
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-12T11:28:25+00:00",
       "title": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T11:20:50+00:00",
+      "title": "July CPI: Core Inflation Stays Cool Despite Renewed Middle East Conflict",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T11:00:00+00:00",
+      "title": "Steady CPI Report Calms Inflation Fears",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:50:00+00:00",
+      "title": "Cooling U.S. Inflation Points To The Fed Holding Steady",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-12T09:25:41+00:00",
       "title": "July CPI: Rangebound Inflation Likely Creates Breathing Room For Policymakers",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:54:59+00:00",
-      "title": "My Argument Against A Fed Rate Hike",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T07:05:00+00:00",
-      "title": "It's The Best Time In Years To Retire",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T07:05:00+00:00",
-      "title": "Profits And Rates: Could We Be In For A New Round Of Hikes?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

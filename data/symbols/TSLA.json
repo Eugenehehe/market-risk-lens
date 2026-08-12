@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 325.14,
-    "change_pct": -2.304618250653534
+    "price": 324.39,
+    "change_pct": -2.529972056128127
   },
   "risk": {
-    "score": 69,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 328.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 325.14
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 324.39
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-12T09:53:14+00:00",
       "title": "Tesla's iTruck Moment",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T05:05:18+00:00",
+      "title": "Elon Musk Could Score $824 Billion Payday in Tesla-SpaceX Merger—Ross Gerber Says ‘Fantastical Abundance!’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T04:33:54+00:00",
+      "title": "Elon Musk Makes Bold Promise on Flying Cars: ‘You Will Get...’",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-11T12:59:02+00:00",
       "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:13:10+00:00",
-      "title": "SpaceX Vs. Tesla: Let's See Which Musk Stock Wins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T10:31:25+00:00",
-      "title": "EXCLUSIVE: CPI Lands Tomorrow and Could Send PLTR, TSLA Surging—But Only if It's A 'Serious Shock,' Cato Economist Says",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

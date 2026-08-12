@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 430.85,
-    "change_pct": 2.082642278349045
+    "price": 429.7,
+    "change_pct": 1.8101691702601563
   },
   "risk": {
-    "score": 67,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 420.04
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 420.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 430.85
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 429.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T08:13:29+00:00",
+      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T11:49:00+00:00",
       "title": "ValuEngine Weekly Market Summary And Commentary",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-10T17:33:17+00:00",
       "title": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T12:41:29+00:00",
-      "title": "Microsoft Stock Rises 2%: Upcoming Maia 300 Chip Launch Targets Reduced Nvidia Reliance",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

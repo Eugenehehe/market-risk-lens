@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 101.81,
-    "change_pct": 4.196090471804337
+    "price": 100.32,
+    "change_pct": 2.6711697881486085
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 101.65
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 101.65
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 101.81
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 100.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T11:24:40+00:00",
+      "title": "Intel: The Turnaround Is Real, But The Stock Is Now Dangerous",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:30:51+00:00",
+      "title": "Intel: $20 Billion Bought Time, Not A Customer",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T08:59:57+00:00",
+      "title": "Why This Investor Bought Intel’s Post-Offering Dip",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T08:50:48+00:00",
       "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-11T18:00:00+00:00",
       "title": "Which stocks are most active on Tuesday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T14:35:13+00:00",
-      "title": "Nvidia's Chip Boom Is Spreading: JPMorgan Says These 6 Stocks Could Ride It",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T13:35:13+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:59:02+00:00",
-      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

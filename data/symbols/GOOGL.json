@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.38,
-    "change_pct": -0.12216404886562504
+    "price": 342.15,
+    "change_pct": -0.47993019197208886
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 343.38
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 342.15
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-12T08:30:00+00:00",
       "title": "Alphabet's Blowout Q2 Confirmed The AI Stack Thesis And Shares Are Still Undervalued",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T08:13:29+00:00",
+      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T23:02:35+00:00",
       "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T22:27:42+00:00",
-      "title": "MSFT Vs Its Peers: The Return Does Not Match The Rank",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

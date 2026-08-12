@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 302.99,
-    "change_pct": -0.6296940080679603
+    "price": 301.01,
+    "change_pct": -1.2790659538880478
   },
   "risk": {
-    "score": 56,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 313.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 302.99
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 301.01
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-12T08:50:48+00:00",
       "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T08:13:29+00:00",
+      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T13:35:13+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T13:31:11+00:00",
-      "title": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

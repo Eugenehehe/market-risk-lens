@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 494.41,
-    "change_pct": -1.865782735555066
+    "price": 492.8,
+    "change_pct": -2.185347650900138
   },
   "risk": {
-    "score": 65,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 499.99
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 499.99
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 494.41
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 492.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T08:13:29+00:00",
+      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T06:06:38+00:00",
+      "title": "Quantinuum Strikes Oracle Deal as Quantum Cloud Race Heats Up: ‘Next Phase of Enterprise Computing’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T05:40:23+00:00",
+      "title": "Why Is CoreWeave Stock Soaring Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T03:30:00+00:00",
       "title": "License To Chase The AI Frontier",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-11T16:40:06+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T15:57:07+00:00",
-      "title": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T15:31:00+00:00",
-      "title": "FTEC: Fidelity's IT ETF Is A Fantastic Long-Term Core Tech Holding",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T14:39:00+00:00",
-      "title": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

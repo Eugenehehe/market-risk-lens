@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 224.77,
-    "change_pct": 3.3425287356321887
+    "price": 223.56,
+    "change_pct": 2.786206896551735
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 224.77
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 223.56
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T08:13:29+00:00",
+      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T07:05:00+00:00",
       "title": "It's The Best Time In Years To Retire",
       "source": "SeekingAlpha",
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T06:36:43+00:00",
+      "title": "Lockheed Martin, Verizon, Nvidia, Keysight Technologies, ODC And Astris AI Demonstrate Using Commercial Off-The-Shelf Tech To Detect And Track UAS",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T05:17:56+00:00",
       "title": "Nvidia Intends To Make AI Compute An Asset Class Of Its Own (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T18:05:01+00:00",
-      "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T17:37:43+00:00",
-      "title": "Wall Street Is Repackaging The AI Bubble",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

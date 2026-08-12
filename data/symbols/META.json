@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T14:45:43.382179+00:00",
+  "generated_at": "2026-08-12T15:42:58.229323+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 586.18,
-    "change_pct": -2.159834423821616
+    "price": 582.28,
+    "change_pct": -2.810789157430904
   },
   "risk": {
-    "score": 68,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T02:16:34.985793+00:00",
-      "close": 592.1
-    },
     {
       "timestamp": "2026-08-08T03:46:50.429307+00:00",
       "close": 592.1
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T14:45:43.382179+00:00",
       "close": 586.18
+    },
+    {
+      "timestamp": "2026-08-12T15:42:58.229323+00:00",
+      "close": 582.28
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-12T06:45:00+00:00",
       "title": "Wall Street Breakfast Podcast: NYC Delivery Model Detour",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T05:40:23+00:00",
+      "title": "Why Is CoreWeave Stock Soaring Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T04:02:29+00:00",
+      "title": "Nebius Q2 Outlook: Will Goldman’s $35.5 Billion Revenue Forecast Overpower Jim Cramer’s ‘Sell’ Warning?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-11T15:57:07+00:00",
       "title": "S&P 500: The Bull Market Faces Its Hardest Test In 2027",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T15:40:37+00:00",
-      "title": "Treasury Secretary Bessent Welcomes Meta’s Muse Glimmer, Calls It A Win For American Innovation And A Step Toward Sustaining U.S. AI Leadership",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T15:29:06+00:00",
-      "title": "Meta Q2: Strong Growth, But The AI Bill Is Becoming Hard To Ignore",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
