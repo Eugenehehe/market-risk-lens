@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:03:19.906033+00:00",
+  "generated_at": "2026-08-12T06:24:01.820013+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 97.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-07T19:08:38.787621+00:00",
-      "close": 101.68
-    },
     {
       "timestamp": "2026-08-07T19:58:11.904804+00:00",
       "close": 101.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T05:03:19.906033+00:00",
       "close": 97.71
+    },
+    {
+      "timestamp": "2026-08-12T06:24:01.820013+00:00",
+      "close": 97.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T01:27:55+00:00",
+      "title": "Intel: More Capital Put At Work",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-11T18:55:39+00:00",
       "title": "Intel's $20B Equity Raise Shows The Valuation Is Overextended",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T12:46:54+00:00",
       "title": "S&P 500 Eyes Records, Fed Hike Odds Near 51% Before CPI: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:01:39+00:00",
-      "title": "Irrational Exuberance On Overdrive",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
