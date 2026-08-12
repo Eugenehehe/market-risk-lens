@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:59:16.120764+00:00",
+  "generated_at": "2026-08-12T23:51:48.566548+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 484.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T10:06:00.212432+00:00",
-      "close": 453.77
-    },
     {
       "timestamp": "2026-08-08T10:49:06.110845+00:00",
       "close": 453.77
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T22:59:16.120764+00:00",
       "close": 484.5
+    },
+    {
+      "timestamp": "2026-08-12T23:51:48.566548+00:00",
+      "close": 484.5
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-12T19:05:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T19:00:14+00:00",
+      "title": "Cisco Q4: AI Momentum Is Real, But Let's See If The Premium Is Justified",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T03:19:12+00:00",
       "title": "What Does Dell Technologies (DELL) Full North America Distribution Reach Mean?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T02:10:03+00:00",
-      "title": "Dell (DELL) Stock May Be Undervalued On A Huge Five Year Run",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
