@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T18:37:19.582184+00:00",
+  "generated_at": "2026-08-12T19:46:08.645920+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.5,
-    "change_pct": 0.38154069767442067
+    "price": 772.82,
+    "change_pct": 0.2932931893687929
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T06:09:36.014267+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T07:14:13.159118+00:00",
       "close": 773.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T18:37:19.582184+00:00",
       "close": 773.5
+    },
+    {
+      "timestamp": "2026-08-12T19:46:08.645920+00:00",
+      "close": 772.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T13:24:09+00:00",
+      "title": "'Ottawa Weighs Proposal On Auto Tariffs As It Presses U.S. For Reprieve, Sources Say' - The Globe And Mail",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T13:20:25+00:00",
       "title": "July CPI May Be The Last Clean Print",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T13:02:57+00:00",
+      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T12:20:33+00:00",
       "title": "July CPI Buys Time For The Fed",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T11:36:37+00:00",
+      "title": "An Informed Source To Al Arabiya, Says The Pakistani Mediator Is Seeking To Extend The 60-Day Truce; Mediators Need Additional Time To Process The Stuck Files Between America And Iran; Optimism On The Part Of The Pakistani Mediator Regarding The Extension Of The 60-day Period",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-12T11:00:00+00:00",
       "title": "Steady CPI Report Calms Inflation Fears",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:50:00+00:00",
-      "title": "Cooling U.S. Inflation Points To The Fed Holding Steady",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:20:00+00:00",
-      "title": "Labor Force Participation Rate Drop Not That Big A Deal",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:20:00+00:00",
-      "title": "Trade Between U.S. And China Increases",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

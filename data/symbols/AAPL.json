@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T18:37:19.582184+00:00",
+  "generated_at": "2026-08-12T19:46:08.645920+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 301.28,
-    "change_pct": -1.1905152340034975
+    "price": 301.61,
+    "change_pct": -1.0822865763667977
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T06:09:36.014267+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-08T07:14:13.159118+00:00",
       "close": 313.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T18:37:19.582184+00:00",
       "close": 301.28
+    },
+    {
+      "timestamp": "2026-08-12T19:46:08.645920+00:00",
+      "close": 301.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T19:10:05+00:00",
+      "title": "Wednesday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Wednesday?",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-12T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T13:02:57+00:00",
+      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-12T08:50:48+00:00",
       "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:13:29+00:00",
-      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T07:05:00+00:00",
-      "title": "It's The Best Time In Years To Retire",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

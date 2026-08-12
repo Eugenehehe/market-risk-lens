@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T18:37:19.582184+00:00",
+  "generated_at": "2026-08-12T19:46:08.645920+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 725.12,
-    "change_pct": 0.9283875008699205
+    "price": 723.57,
+    "change_pct": 0.7126452780291004
   },
   "risk": {
-    "score": 58,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T06:09:36.014267+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-08T07:14:13.159118+00:00",
       "close": 723.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T18:37:19.582184+00:00",
       "close": 725.12
+    },
+    {
+      "timestamp": "2026-08-12T19:46:08.645920+00:00",
+      "close": 723.57
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-12T13:20:25+00:00",
       "title": "July CPI May Be The Last Clean Print",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T13:14:25+00:00",
+      "title": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T13:02:57+00:00",
+      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-12T10:50:00+00:00",
       "title": "Cooling U.S. Inflation Points To The Fed Holding Steady",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:20:00+00:00",
-      "title": "Labor Force Participation Rate Drop Not That Big A Deal",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:20:00+00:00",
-      "title": "Trade Between U.S. And China Increases",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

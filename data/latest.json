@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T18:37:19.582184+00:00",
+  "generated_at": "2026-08-12T19:46:08.645920+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 223.92,
-    "change_pct": 2.9517241379310333
+    "price": 222.3,
+    "change_pct": 2.206896551724147
   },
   "risk": {
-    "score": 74,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T06:09:36.014267+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T07:14:13.159118+00:00",
       "close": 223.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T18:37:19.582184+00:00",
       "close": 223.92
+    },
+    {
+      "timestamp": "2026-08-12T19:46:08.645920+00:00",
+      "close": 222.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T19:10:05+00:00",
+      "title": "Wednesday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Wednesday?",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T13:14:25+00:00",
+      "title": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T13:04:38+00:00",
       "title": "Positioning for Big Tech's next move",
       "source": "CNBC",
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T13:02:57+00:00",
+      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T12:07:52+00:00",
       "title": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T11:44:50+00:00",
-      "title": "What's Going On With Nvidia Stock on Wednesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:44:05+00:00",
-      "title": "CoreWeave Is Making Old Nvidia Chips Look New Again",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:37:26+00:00",
-      "title": "Elon Musk Says AI Will Be SpaceX's Biggest Business by September: Does the Math Check Out?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
