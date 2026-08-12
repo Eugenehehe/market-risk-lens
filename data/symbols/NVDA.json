@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T15:42:58.229323+00:00",
+  "generated_at": "2026-08-12T16:38:39.654951+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 223.56,
-    "change_pct": 2.786206896551735
+    "price": 222.88,
+    "change_pct": 2.4735632183908063
   },
   "risk": {
-    "score": 73,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T03:46:50.429307+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T04:42:10.374826+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T15:42:58.229323+00:00",
       "close": 223.56
+    },
+    {
+      "timestamp": "2026-08-12T16:38:39.654951+00:00",
+      "close": 222.88
     }
   ],
   "events": [
@@ -509,6 +509,38 @@
       "timestamp": "2026-08-12T12:07:52+00:00",
       "title": "The Great Robotics Divergence: AI-Native Names Surge, Legacy Vendors Stall",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:44:05+00:00",
+      "title": "CoreWeave Is Making Old Nvidia Chips Look New Again",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:37:26+00:00",
+      "title": "Elon Musk Says AI Will Be SpaceX's Biggest Business by September: Does the Math Check Out?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T09:57:18+00:00",
+      "title": "Neocloud Stocks Catch Fire As CoreWeave Doubles Revenue",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T09:17:00+00:00",
+      "title": "CoreWeave Cashes in on the AI Gold Rush With a 25% Price Hike, and Customers are Still Lining Up: CRWV Stock Rises 19% (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,49 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T08:55:55+00:00",
+      "title": "Tech Veteran Warns Nvidia Is Playing Intel’s Old Game Against AMD — and It Could Become a Dangerous Trap",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T08:50:48+00:00",
       "title": "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:47:01+00:00",
-      "title": "Nvidia's $500 Billion Deal Changes AI Story",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:13:29+00:00",
-      "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T07:05:00+00:00",
-      "title": "It's The Best Time In Years To Retire",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T06:36:43+00:00",
-      "title": "Lockheed Martin, Verizon, Nvidia, Keysight Technologies, ODC And Astris AI Demonstrate Using Commercial Off-The-Shelf Tech To Detect And Track UAS",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T05:17:56+00:00",
-      "title": "Nvidia Intends To Make AI Compute An Asset Class Of Its Own (Rating Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T15:42:58.229323+00:00",
+  "generated_at": "2026-08-12T16:38:39.654951+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 586.07,
-    "change_pct": 2.2934738973347635
+    "price": 586.68,
+    "change_pct": 2.399944146754396
   },
   "risk": {
-    "score": 69,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T03:46:50.429307+00:00",
-      "close": 582.7
-    },
     {
       "timestamp": "2026-08-08T04:42:10.374826+00:00",
       "close": 582.7
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-12T15:42:58.229323+00:00",
       "close": 586.07
+    },
+    {
+      "timestamp": "2026-08-12T16:38:39.654951+00:00",
+      "close": 586.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T11:28:41+00:00",
+      "title": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T10:07:52+00:00",
+      "title": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T07:15:00+00:00",
       "title": "How Do You Invest In The AI Value Chain?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-11T13:56:00+00:00",
       "title": "Trump's Polysilicon Tariffs Could Reshape These ETFs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:49:37+00:00",
-      "title": "Burry Vs. Jensen: The Number That Breaks The AI Boom",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T11:07:52+00:00",
-      "title": "Interest Rates, Oil Prices Limit Wall Street Pre-Bell; Asia Off, Europe Flat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T15:42:58.229323+00:00",
+  "generated_at": "2026-08-12T16:38:39.654951+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 324.39,
-    "change_pct": -2.529972056128127
+    "price": 327.12,
+    "change_pct": -1.70968420420059
   },
   "risk": {
-    "score": 71,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T03:46:50.429307+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-08T04:42:10.374826+00:00",
       "close": 328.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T15:42:58.229323+00:00",
       "close": 324.39
+    },
+    {
+      "timestamp": "2026-08-12T16:38:39.654951+00:00",
+      "close": 327.12
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-08-12T04:33:54+00:00",
       "title": "Elon Musk Makes Bold Promise on Flying Cars: ‘You Will Get...’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T01:08:43+00:00",
+      "title": "Gary Black Says Investors ‘Losing Faith’ That Tesla Can Scale Autonomy—Blames Elon Musk’s Vision-Only Approach",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-11T14:38:21+00:00",
       "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:59:02+00:00",
-      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
