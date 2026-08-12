@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:20:53.182518+00:00",
+  "generated_at": "2026-08-12T22:07:35.621343+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 224.09,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T08:54:31.645405+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T09:35:51.312850+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-12T21:20:53.182518+00:00",
       "close": 224.09
+    },
+    {
+      "timestamp": "2026-08-12T22:07:35.621343+00:00",
+      "close": 224.09
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-12T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T17:12:14+00:00",
+      "title": "Congressman Violates Stock Act: Reports 22 Trades After Deadline, Including Some Nearly Two Years Old",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T13:04:38+00:00",
       "title": "Positioning for Big Tech's next move",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T13:02:57+00:00",
-      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
