@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:51:48.566548+00:00",
+  "generated_at": "2026-08-13T01:11:15.565634+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 578.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T10:49:06.110845+00:00",
-      "close": 592.1
-    },
     {
       "timestamp": "2026-08-08T11:15:51.657250+00:00",
       "close": 592.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T23:51:48.566548+00:00",
       "close": 578.85
+    },
+    {
+      "timestamp": "2026-08-13T01:11:15.565634+00:00",
+      "close": 578.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T19:47:31+00:00",
+      "title": "Tracking Christopher Davis' Davis Selected Advisers 13F Portfolio: Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T17:12:14+00:00",
       "title": "Congressman Violates Stock Act: Reports 22 Trades After Deadline, Including Some Nearly Two Years Old",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T08:03:30+00:00",
       "title": "Chinese Hackers Used AI Agents to Hunt Taiwan Government Systems, Breaching 85 Accounts and Stealing Thousands of Records: Report",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T08:00:01+00:00",
-      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:51:48.566548+00:00",
+  "generated_at": "2026-08-13T01:11:15.565634+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 217.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T10:49:06.110845+00:00",
-      "close": 218.72
-    },
     {
       "timestamp": "2026-08-08T11:15:51.657250+00:00",
       "close": 218.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-12T23:51:48.566548+00:00",
       "close": 217.08
+    },
+    {
+      "timestamp": "2026-08-13T01:11:15.565634+00:00",
+      "close": 217.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T14:47:26+00:00",
+      "title": "Shares of companies in the broader chip sector are trading higher, rebounding from recent weakness in tech stocks. Investors may also be awaiting NVIDIA's earnings report after the close.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T14:35:01+00:00",
       "title": "These S&P500 stocks are gapping in today's session",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T05:25:00+00:00",
       "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-10T21:45:02+00:00",
-      "title": "Here's Why Marvell Technology (MRVL) Fell More Than Broader Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
