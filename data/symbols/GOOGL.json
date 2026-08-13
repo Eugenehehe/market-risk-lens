@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:17:57.610847+00:00",
+  "generated_at": "2026-08-13T20:02:04.285600+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 346.05,
-    "change_pct": 0.7306281655702351
+    "price": 346.36,
+    "change_pct": 0.8208651103219333
   },
   "risk": {
-    "score": 56,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:50:13.858485+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-08T20:14:17.817037+00:00",
       "close": 354.3
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-08-13T19:17:57.610847+00:00",
       "close": 346.05
+    },
+    {
+      "timestamp": "2026-08-13T20:02:04.285600+00:00",
+      "close": 346.36
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-13T19:10:06+00:00",
+      "title": "Stay informed with the top movers within the dow jones index on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T16:40:06+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T15:03:12+00:00",
+      "title": "Nebius Has Found a New Way to Finance AI Infrastructure",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T14:49:29+00:00",
+      "title": "Oracle Has 30% Upside, JPMorgan Says. The Market May Be Missing Its AI Transformation.",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-13T11:20:35+00:00",
-      "title": "Microsoft Is Still Negative 1 Year Later: 76% Increase Lies Ahead According to This Analyst",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:17:00+00:00",
-      "title": "1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 Facing Challenges",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:03:17+00:00",
-      "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:00:46+00:00",
-      "title": "3 Blue-Chip Stocks That Could Double by 2030",
-      "source": "Yahoo",
+      "timestamp": "2026-08-13T13:12:16+00:00",
+      "title": "'Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say'- CNBC",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

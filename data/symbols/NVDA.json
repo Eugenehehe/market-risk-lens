@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:17:57.610847+00:00",
+  "generated_at": "2026-08-13T20:02:04.285600+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 225.65,
-    "change_pct": 0.6961488687580841
+    "price": 225.3,
+    "change_pct": 0.5399616225623571
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:50:13.858485+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T20:14:17.817037+00:00",
       "close": 223.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T19:17:57.610847+00:00",
       "close": 225.65
+    },
+    {
+      "timestamp": "2026-08-13T20:02:04.285600+00:00",
+      "close": 225.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T19:10:06+00:00",
+      "title": "Stay informed with the top movers within the dow jones index on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T18:05:01+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T17:35:00+00:00",
       "title": "SpaceX Stock: Is It Heading Back to $200?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T17:32:36+00:00",
-      "title": "Sector Update: Tech Stocks Gain Thursday Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

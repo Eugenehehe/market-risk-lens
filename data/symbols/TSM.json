@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:17:57.610847+00:00",
+  "generated_at": "2026-08-13T20:02:04.285600+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 432.65,
-    "change_pct": 0.8155656530350663
+    "price": 430.49,
+    "change_pct": 0.3122451357334244
   },
   "risk": {
-    "score": 57,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:50:13.858485+00:00",
-      "close": 420.04
-    },
     {
       "timestamp": "2026-08-08T20:14:17.817037+00:00",
       "close": 420.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T19:17:57.610847+00:00",
       "close": 432.65
+    },
+    {
+      "timestamp": "2026-08-13T20:02:04.285600+00:00",
+      "close": 430.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T13:14:33+00:00",
+      "title": "AMD Prepares Record $5B Bond Sale to Fuel Massive AI Expansion",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T08:49:56+00:00",
       "title": "AMD’s 2027 Server Revenue Outlook Is Already 20% Bigger Than the Entire 2025 Market",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-12T08:13:29+00:00",
       "title": "Elon Musk's SpaceX Lands $1.22 Billion Investment From Norway’s $2.3 Trillion Sovereign Wealth Fund",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T03:29:07+00:00",
-      "title": "Cathie Wood Calls Bitcoin 'Critical' Financial Infrastructure: 'Those Securing It Should Have Trusted Access to the Most Powerful AI Models'",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

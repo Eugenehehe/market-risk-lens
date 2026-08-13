@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T19:17:57.610847+00:00",
+  "generated_at": "2026-08-13T20:02:04.285600+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 732.89,
-    "change_pct": 1.2698632029846557
+    "price": 732.07,
+    "change_pct": 1.156556584219981
   },
   "risk": {
-    "score": 61,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:50:13.858485+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-08T20:14:17.817037+00:00",
       "close": 723.03
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-13T19:17:57.610847+00:00",
       "close": 732.89
+    },
+    {
+      "timestamp": "2026-08-13T20:02:04.285600+00:00",
+      "close": 732.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T15:29:39+00:00",
+      "title": "AAII Sentiment Survey: Neutral Sentiment Rebounds",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T15:00:00+00:00",
+      "title": "Fiera Capital Global Asset Allocation - August 2026 Market Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T13:52:00+00:00",
       "title": "AIER Everyday Price Index Posts July Dip As Inflation Pressures Cool",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-13T11:35:46+00:00",
       "title": "Smart Money Sells #1 Dow Stock; Hidden Inflation In PPI; Applied Materials Earnings To Tell A Key AI Story",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:11:00+00:00",
-      "title": "Producer Price Index Offers Another Respite On Inflation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:05:00+00:00",
-      "title": "Inflation Cools, The Bond Market Shrugs - And Attention Swings Back To The Fed",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

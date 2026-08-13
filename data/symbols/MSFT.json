@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T19:17:57.610847+00:00",
+  "generated_at": "2026-08-13T20:02:04.285600+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 497.1,
-    "change_pct": 0.9483581422740306
+    "price": 496.88,
+    "change_pct": 0.9036817415673193
   },
   "risk": {
     "score": 58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:50:13.858485+00:00",
-      "close": 499.99
-    },
     {
       "timestamp": "2026-08-08T20:14:17.817037+00:00",
       "close": 499.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T19:17:57.610847+00:00",
       "close": 497.1
+    },
+    {
+      "timestamp": "2026-08-13T20:02:04.285600+00:00",
+      "close": 496.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T19:10:06+00:00",
+      "title": "Stay informed with the top movers within the dow jones index on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T17:43:42+00:00",
       "title": "SK Group's Chairman Isn't Worried About Nvidia Dependence: Is That Why SKHY Is Up 8%?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T16:26:31+00:00",
       "title": "IREN’s $100 Bull Case Hinges on a 5-10x AI Cloud Advantage",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T16:09:00+00:00",
-      "title": "HubSpot Stock Fell 11.3% in a Week. Is the Weakness an Opportunity?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

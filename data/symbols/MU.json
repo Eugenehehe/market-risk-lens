@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T19:17:57.610847+00:00",
+  "generated_at": "2026-08-13T20:02:04.285600+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 960.58,
-    "change_pct": 5.408816073917211
+    "price": 949.83,
+    "change_pct": 4.229169638644126
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:50:13.858485+00:00",
-      "close": 877.57
-    },
     {
       "timestamp": "2026-08-08T20:14:17.817037+00:00",
       "close": 877.57
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T19:17:57.610847+00:00",
       "close": 960.58
+    },
+    {
+      "timestamp": "2026-08-13T20:02:04.285600+00:00",
+      "close": 949.83
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T19:05:01+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T18:05:01+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T16:43:13+00:00",
       "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T16:35:01+00:00",
-      "title": "Thursday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
