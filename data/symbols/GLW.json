@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T08:14:22.326637+00:00",
+  "generated_at": "2026-08-13T09:35:09.616107+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 167.44,
     "change_pct": 5.182486337081471
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T14:01:23.174872+00:00",
-      "close": 165.68
-    },
     {
       "timestamp": "2026-08-08T14:42:39.218358+00:00",
       "close": 165.68
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T08:14:22.326637+00:00",
       "close": 167.44
+    },
+    {
+      "timestamp": "2026-08-13T09:35:09.616107+00:00",
+      "close": 167.44
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-13T00:50:02+00:00",
       "title": "Corning Incorporated: Well-Positioned AI Infrastructure Play",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T21:08:00+00:00",
+      "title": "SpaceX, Nebius, Palantir, Super Micro, Quantinuum, Wendy’s, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T17:22:27+00:00",
+      "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T17:17:22+00:00",
+      "title": "Why Corning (GLW) Stock Is Trading Lower Today",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,32 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-11T12:59:02+00:00",
-      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T12:13:04+00:00",
-      "title": "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T01:08:12+00:00",
-      "title": "Why Corning (GLW) Is Up 7.6% After Strong Q2 Results And AI-Focused Guidance",
+      "timestamp": "2026-08-12T10:45:01+00:00",
+      "title": "Market’s Momentum Darlings Resurface as Optical Stocks Take Off",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-11T00:13:22+00:00",
-      "title": "Corning, Sunrun, Coinbase, Builders FirstSource, and Blue Bird Shares Skyrocket, What You Need To Know",
+      "timestamp": "2026-08-11T22:35:01+00:00",
+      "title": "Advance Auto Parts vs. Corning: Which Consumer Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
