@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:28:49.542201+00:00",
+  "generated_at": "2026-08-13T23:20:29.037845+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 339.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T21:51:21.814850+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-08T22:17:51.324751+00:00",
       "close": 328.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T22:28:49.542201+00:00",
       "close": 339.96
+    },
+    {
+      "timestamp": "2026-08-13T23:20:29.037845+00:00",
+      "close": 339.96
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-13T19:47:00+00:00",
       "title": "The Winners and Losers From Shipping’s Rough Seas",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T19:06:50+00:00",
+      "title": "Tesla: Valued Like The Company Is Doing Extremely Well, But It Isn't",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T16:31:14+00:00",
       "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T15:45:21+00:00",
-      "title": "Stocks See Support from Favorable PPI Report",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
