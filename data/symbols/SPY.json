@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:31:28.993912+00:00",
+  "generated_at": "2026-08-13T12:28:48.550012+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 772.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T15:47:14.497362+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T16:14:17.958863+00:00",
       "close": 773.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T11:31:28.993912+00:00",
       "close": 772.49
+    },
+    {
+      "timestamp": "2026-08-13T12:28:48.550012+00:00",
+      "close": 772.49
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-13T08:52:00+00:00",
       "title": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:00:27+00:00",
+      "title": "Reasons To Roll Over Your Old 401k Sooner Than Later",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T07:45:00+00:00",
+      "title": "JQUA: A Quality ETF To Hold, Not Yet A Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T07:26:45+00:00",
+      "title": "AI Bubble Burst: The Huang's Warning And The AI Compute ABS Solution",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-12T23:35:00+00:00",
       "title": "Rates Spark: Inflation Is And Isn't The Issue",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T23:05:00+00:00",
-      "title": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T21:45:55+00:00",
-      "title": "GPIQ vs QQQ: What the Rally Lag Actually Costs a $300,000 Position",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T21:29:38+00:00",
-      "title": "The 2 Factors That Will Decide GAIQ’s Next 12 Months as AI Capex Spending Slows",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
