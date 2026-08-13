@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T09:35:09.616107+00:00",
+  "generated_at": "2026-08-13T10:41:56.631014+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 772.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T14:42:39.218358+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T15:11:36.456835+00:00",
       "close": 773.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T09:35:09.616107+00:00",
       "close": 772.49
+    },
+    {
+      "timestamp": "2026-08-13T10:41:56.631014+00:00",
+      "close": 772.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T08:52:00+00:00",
+      "title": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T03:10:00+00:00",
       "title": "July CPI Report: Another Benign Report, But Risks Persist",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T21:20:26+00:00",
       "title": "S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears — GOOGL, DJT, WEN, BE, SNDK In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T20:50:00+00:00",
-      "title": "Behind Stable July CPI - One Transitory Tariff Wave After Another",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
