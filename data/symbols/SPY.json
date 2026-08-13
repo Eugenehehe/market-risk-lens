@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:20:57.545635+00:00",
+  "generated_at": "2026-08-13T06:52:49.239871+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 772.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T12:16:43.151456+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T13:16:34.052112+00:00",
       "close": 773.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T05:20:57.545635+00:00",
       "close": 772.49
+    },
+    {
+      "timestamp": "2026-08-13T06:52:49.239871+00:00",
+      "close": 772.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T01:10:00+00:00",
+      "title": "What Changed?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T23:35:00+00:00",
       "title": "Rates Spark: Inflation Is And Isn't The Issue",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-12T15:05:31+00:00",
       "title": "'Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer' - CBC",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T14:25:08+00:00",
-      "title": "Applied Materials Q3 Preview: Stock Up 105% YTD, but Down 25% From June All-Time Highs, What Happens Next",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
