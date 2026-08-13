@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:56:30.728147+00:00",
+  "generated_at": "2026-08-13T21:50:30.388691+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 346.36,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T20:51:12.405545+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-08T21:19:27.888838+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T20:56:30.728147+00:00",
       "close": 346.36
+    },
+    {
+      "timestamp": "2026-08-13T21:50:30.388691+00:00",
+      "close": 346.36
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-13T19:10:06+00:00",
       "title": "Stay informed with the top movers within the dow jones index on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T17:29:39+00:00",
+      "title": "Tesla: The Moonshot Premium Is Dead As Waymo And China Pull Away",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T16:54:42+00:00",
+      "title": "After Calling Microsoft's Inflection Point, Here's What I See Coming Next",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T16:43:05+00:00",
+      "title": "TQQQ: Tread Cautiously Ahead Of The Next Round Of Tech Earnings",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-13T14:31:19+00:00",
       "title": "Bill Ackman’s New Stock Picks Are Here. These ETFs Could Be Worth Watching",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T13:46:29+00:00",
-      "title": "Berkshire Hathaway 13F Preview: What Stock Moves Did Buffett Successor Greg Abel Make?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T13:35:37+00:00",
-      "title": "10 Communication Services Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T13:12:16+00:00",
-      "title": "'Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say'- CNBC",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

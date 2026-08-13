@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:56:30.728147+00:00",
+  "generated_at": "2026-08-13T21:50:30.388691+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 732.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T20:51:12.405545+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-08T21:19:27.888838+00:00",
       "close": 723.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T20:56:30.728147+00:00",
       "close": 732.07
+    },
+    {
+      "timestamp": "2026-08-13T21:50:30.388691+00:00",
+      "close": 732.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T16:43:05+00:00",
+      "title": "TQQQ: Tread Cautiously Ahead Of The Next Round Of Tech Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T15:29:39+00:00",
       "title": "AAII Sentiment Survey: Neutral Sentiment Rebounds",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T11:50:34+00:00",
       "title": "Credit Markets Shooting Off 2007 Like Flares",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:35:46+00:00",
-      "title": "Smart Money Sells #1 Dow Stock; Hidden Inflation In PPI; Applied Materials Earnings To Tell A Key AI Story",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
