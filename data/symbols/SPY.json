@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T12:28:48.550012+00:00",
+  "generated_at": "2026-08-13T14:01:17.325200+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 772.49,
-    "change_pct": 0.25046719269103956
+    "price": 777.98,
+    "change_pct": 0.7106888115056442
   },
   "risk": {
-    "score": 53,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:14:17.958863+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T16:55:19.800756+00:00",
       "close": 773.26
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-13T12:28:48.550012+00:00",
       "close": 772.49
+    },
+    {
+      "timestamp": "2026-08-13T14:01:17.325200+00:00",
+      "close": 777.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T12:20:32+00:00",
+      "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T10:46:17+00:00",
+      "title": "Exclusive: Scott Bessent Says K-Shaped Economy Is Over, but Wall Street Veteran Says Wealth Divide Is Worsening: ‘50% of Americans Own No Stocks and Are Getting Left Behind’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T08:52:00+00:00",
       "title": "Why Are Nasdaq, S&P 500 Futures Subdued Ahead Of PPI, Jobless Claims? CRWV, NBIS, CBRS, CSCO, ONDS, SPCX Stocks In Focus",
@@ -514,56 +530,40 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T08:50:25+00:00",
+      "title": "How Accurate Is Our Inflation Rate?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:35:57+00:00",
+      "title": "July CPI Inflation - Not Low Enough",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:30:00+00:00",
+      "title": "My 10-ETF Mix Has A Strong Macro Message About The Rest Of 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:25:34+00:00",
+      "title": "Middleby: The Focus Is Solely On Commercial Foodservice",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T08:00:27+00:00",
       "title": "Reasons To Roll Over Your Old 401k Sooner Than Later",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T07:45:00+00:00",
-      "title": "JQUA: A Quality ETF To Hold, Not Yet A Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T07:26:45+00:00",
-      "title": "AI Bubble Burst: The Huang's Warning And The AI Compute ABS Solution",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T07:13:00+00:00",
-      "title": "S&P 500 ETF Dividends: IVV, VOO, SPY: DPS Forecast For Q3 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T03:10:00+00:00",
-      "title": "July CPI Report: Another Benign Report, But Risks Persist",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T01:10:00+00:00",
-      "title": "What Changed?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T23:35:00+00:00",
-      "title": "Rates Spark: Inflation Is And Isn't The Issue",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

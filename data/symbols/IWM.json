@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T12:28:48.550012+00:00",
+  "generated_at": "2026-08-13T14:01:17.325200+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 302.71,
-    "change_pct": 0.5714475563972199
+    "price": 304.61,
+    "change_pct": 0.6276634402563541
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:14:17.958863+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T16:55:19.800756+00:00",
       "close": 301.56
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-13T12:28:48.550012+00:00",
       "close": 302.71
+    },
+    {
+      "timestamp": "2026-08-13T14:01:17.325200+00:00",
+      "close": 304.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T12:20:32+00:00",
+      "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:50:25+00:00",
+      "title": "How Accurate Is Our Inflation Rate?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:35:57+00:00",
+      "title": "July CPI Inflation - Not Low Enough",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T08:30:00+00:00",
+      "title": "My 10-ETF Mix Has A Strong Macro Message About The Rest Of 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T07:26:45+00:00",
       "title": "AI Bubble Burst: The Huang's Warning And The AI Compute ABS Solution",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-12T23:35:00+00:00",
       "title": "Rates Spark: Inflation Is And Isn't The Issue",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T23:05:00+00:00",
-      "title": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T20:50:00+00:00",
-      "title": "Behind Stable July CPI - One Transitory Tariff Wave After Another",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T20:05:00+00:00",
-      "title": "Consumer Price Index: Inflation At 3.4% In July",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T17:11:37+00:00",
-      "title": "Don't Ignore The Profits Signal, My New Target For The S&P 500",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

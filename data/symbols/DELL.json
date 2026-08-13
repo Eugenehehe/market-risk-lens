@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T12:28:48.550012+00:00",
+  "generated_at": "2026-08-13T14:01:17.325200+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 484.5,
-    "change_pct": 9.871419824477856
+    "price": 497.05,
+    "change_pct": 2.59029927760579
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:14:17.958863+00:00",
-      "close": 453.77
-    },
     {
       "timestamp": "2026-08-08T16:55:19.800756+00:00",
       "close": 453.77
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T12:28:48.550012+00:00",
       "close": 484.5
+    },
+    {
+      "timestamp": "2026-08-13T14:01:17.325200+00:00",
+      "close": 497.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T12:35:01+00:00",
+      "title": "What's going on in today's pre-market session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T00:28:46+00:00",
       "title": "Get Paid 18% A Year To Cap Your ANET Stock At 21% Higher",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-12T14:42:00+00:00",
       "title": "Super Micro Stock Is the Best S&P 500 Performer as Earnings Smash Expectations",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T14:21:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Dell Technologies, Super Micro Computer, Hewlett Packard and HP",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
