@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:41:56.631014+00:00",
+  "generated_at": "2026-08-13T11:31:28.993912+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 343.54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T15:11:36.456835+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-08T15:47:14.497362+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T10:41:56.631014+00:00",
       "close": 343.54
+    },
+    {
+      "timestamp": "2026-08-13T11:31:28.993912+00:00",
+      "close": 343.54
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-13T09:26:00+00:00",
       "title": "Google Parent Alphabet Just Revealed How Many SpaceX Shares It Owns... and the Figure Is a Doozy",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T06:33:00+00:00",
+      "title": "Wall Street Breakfast Podcast: Google Trots Out Legend To Inspire Gemini Devs",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-12T23:22:28+00:00",
       "title": "The Mega Backdoor Roth: How Tech Workers Add $34,000 Annually to a 401(k) Tax-Free",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T23:07:00+00:00",
-      "title": "Q2 Earnings Scorecard: Record Margins, Strong Beats, and Upward Revisions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
