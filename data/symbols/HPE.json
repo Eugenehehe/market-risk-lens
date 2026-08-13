@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T16:08:26.083616+00:00",
+  "generated_at": "2026-08-13T17:11:00.901887+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.28,
-    "change_pct": 4.235414186086062
+    "price": 60.45,
+    "change_pct": 2.82360945739073
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:00:03.924483+00:00",
-      "close": 53.22
-    },
     {
       "timestamp": "2026-08-08T18:51:34.012805+00:00",
       "close": 53.22
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-13T16:08:26.083616+00:00",
       "close": 61.28
+    },
+    {
+      "timestamp": "2026-08-13T17:11:00.901887+00:00",
+      "close": 60.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T15:21:09+00:00",
+      "title": "HPE Stock Hits a 52-Week High: Is It Too Late to Buy After the Morgan Stanley Upgrade?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T14:30:49+00:00",
+      "title": "Big Beat, Big Backlog, Big Caveats: Inside Super Micro’s 33% Upside Potential",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T14:10:14+00:00",
+      "title": "The Case For SMCI Stock Survives One Real Flaw",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T13:25:00+00:00",
+      "title": "5 Undervalued Price-to-Book Stocks Worth Buying in August",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T12:57:10+00:00",
       "title": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-13T11:39:34+00:00",
       "title": "Super Micro Computer: Strong Quarter And Outlook, But Concerns Remain",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T00:28:46+00:00",
-      "title": "Get Paid 18% A Year To Cap Your ANET Stock At 21% Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T00:17:27+00:00",
-      "title": "Does Lumen Technologies (LUMN) Gain An Edge With John Hinshaw Joining Its Board?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T21:17:00+00:00",
-      "title": "Cisco Stock Falls After Hours as Services Revenue Miss Overshadows Record Fourth-Quarter Results",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T19:00:14+00:00",
-      "title": "Cisco Q4: AI Momentum Is Real, But Let's See If The Premium Is Justified",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

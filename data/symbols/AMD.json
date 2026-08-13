@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T16:08:26.083616+00:00",
+  "generated_at": "2026-08-13T17:11:00.901887+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 493.4,
-    "change_pct": 2.1680160685813687
+    "price": 494.54,
+    "change_pct": 2.404075124759286
   },
   "risk": {
-    "score": 68,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:00:03.924483+00:00",
-      "close": 483.36
-    },
     {
       "timestamp": "2026-08-08T18:51:34.012805+00:00",
       "close": 483.36
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-13T16:08:26.083616+00:00",
       "close": 493.4
+    },
+    {
+      "timestamp": "2026-08-13T17:11:00.901887+00:00",
+      "close": 494.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T15:32:13+00:00",
+      "title": "Cerebras Systems Poised to See More Upside From Capacity, AI Demand, Morgan Stanley Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T15:14:16+00:00",
+      "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T14:00:30+00:00",
+      "title": "Intel’s Best Growth in 15 Years: 25% Revenue Surge and Our New Price Target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T13:04:37+00:00",
       "title": "Insulet Corporation’s (PODD) Wearable Pod Tech Finds New Frontier",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-13T12:01:33+00:00",
       "title": "BofA lifts server CPU TAM to $210bn+ on the rise of AI agents",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:05:13+00:00",
-      "title": "I’m Buying More and More Nvidia Because Of One Massive AI Transition Underway",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:49:56+00:00",
-      "title": "AMD’s 2027 Server Revenue Outlook Is Already 20% Bigger Than the Entire 2025 Market",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:49:00+00:00",
-      "title": "Cerebras Stock Plummets 17% Despite Solid Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

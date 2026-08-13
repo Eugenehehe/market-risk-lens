@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T16:08:26.083616+00:00",
+  "generated_at": "2026-08-13T17:11:00.901887+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 731.28,
-    "change_pct": 1.0473953295564442
+    "price": 732.85,
+    "change_pct": 1.2643360508497903
   },
   "risk": {
-    "score": 59,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:00:03.924483+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-08T18:51:34.012805+00:00",
       "close": 723.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T16:08:26.083616+00:00",
       "close": 731.28
+    },
+    {
+      "timestamp": "2026-08-13T17:11:00.901887+00:00",
+      "close": 732.85
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-13T12:20:32+00:00",
       "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T12:20:03+00:00",
+      "title": "Reassured By Cooler July CPI? This Chart Points To A Rate Hike",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:50:34+00:00",
+      "title": "Credit Markets Shooting Off 2007 Like Flares",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:35:46+00:00",
+      "title": "Smart Money Sells #1 Dow Stock; Hidden Inflation In PPI; Applied Materials Earnings To Tell A Key AI Story",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-13T09:48:00+00:00",
-      "title": "Disinflation Gains Traction, But The Bond Market Isn't Buying It",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:59:39+00:00",
-      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "timestamp": "2026-08-13T10:07:19+00:00",
+      "title": "QUICK SPARK: $3.6B Flows Into SPY in One Day; QQQ, SOXX Lead ETF Redemptions",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:50:25+00:00",
-      "title": "How Accurate Is Our Inflation Rate?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:35:57+00:00",
-      "title": "July CPI Inflation - Not Low Enough",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

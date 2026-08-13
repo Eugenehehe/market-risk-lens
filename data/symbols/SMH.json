@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T16:08:26.083616+00:00",
+  "generated_at": "2026-08-13T17:11:00.901887+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 595.23,
-    "change_pct": 1.7782945471333411
+    "price": 596.91,
+    "change_pct": 2.0655575124395087
   },
   "risk": {
-    "score": 65,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:00:03.924483+00:00",
-      "close": 582.7
-    },
     {
       "timestamp": "2026-08-08T18:51:34.012805+00:00",
       "close": 582.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T16:08:26.083616+00:00",
       "close": 595.23
+    },
+    {
+      "timestamp": "2026-08-13T17:11:00.901887+00:00",
+      "close": 596.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T12:37:23+00:00",
+      "title": "Big Tech's AI Revenue Is Surging, But Suppliers Will Still Be The Bigger Winners",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T07:26:45+00:00",
       "title": "AI Bubble Burst: The Huang's Warning And The AI Compute ABS Solution",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T13:14:25+00:00",
       "title": "Stock Market Today: Nasdaq 100 Rises on Strong AI Earnings, Benign Inflation",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T11:28:41+00:00",
-      "title": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
