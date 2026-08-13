@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T20:02:04.285600+00:00",
+  "generated_at": "2026-08-13T20:56:30.728147+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 303.49,
-    "change_pct": 0.2576723596841912
+    "price": 303.5,
+    "change_pct": 0.26097585147502045
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T20:14:17.817037+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T20:51:12.405545+00:00",
       "close": 301.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T20:02:04.285600+00:00",
       "close": 303.49
+    },
+    {
+      "timestamp": "2026-08-13T20:56:30.728147+00:00",
+      "close": 303.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T16:18:40+00:00",
+      "title": "The Next Leg Of The Bull Run Is Priced In Oil Barrels",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T15:29:39+00:00",
       "title": "AAII Sentiment Survey: Neutral Sentiment Rebounds",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T11:50:34+00:00",
       "title": "Credit Markets Shooting Off 2007 Like Flares",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:29:40+00:00",
-      "title": "QUICK SPARK: Russell 2000 Hits New Record Highs, Beats Nasdaq 100 In 2026",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
