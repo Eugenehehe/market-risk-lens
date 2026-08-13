@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:11:15.565634+00:00",
+  "generated_at": "2026-08-13T03:33:15.365384+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 302.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T11:15:51.657250+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T11:47:54.426665+00:00",
       "close": 301.56
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-13T01:11:15.565634+00:00",
       "close": 302.71
+    },
+    {
+      "timestamp": "2026-08-13T03:33:15.365384+00:00",
+      "close": 302.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-12T23:05:00+00:00",
+      "title": "CPI Dragged Down By Energy, Hotels, Motels (Shelter), Auto Insurance, And Meat (Finally)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-12T20:50:00+00:00",
+      "title": "Behind Stable July CPI - One Transitory Tariff Wave After Another",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T20:05:00+00:00",
       "title": "Consumer Price Index: Inflation At 3.4% In July",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-12T12:20:33+00:00",
       "title": "July CPI Buys Time For The Fed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T11:28:25+00:00",
-      "title": "Breadth Rebounds as Small Caps Hold Firm Near Resistance",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T11:20:50+00:00",
-      "title": "July CPI: Core Inflation Stays Cool Despite Renewed Middle East Conflict",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
