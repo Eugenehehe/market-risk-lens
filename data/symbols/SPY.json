@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T18:07:35.944873+00:00",
+  "generated_at": "2026-08-13T19:17:57.610847+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 776.88,
-    "change_pct": 0.568292146176641
+    "price": 777.91,
+    "change_pct": 0.7016272055301531
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:21:29.482973+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 773.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T18:07:35.944873+00:00",
       "close": 776.88
+    },
+    {
+      "timestamp": "2026-08-13T19:17:57.610847+00:00",
+      "close": 777.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T16:36:53+00:00",
+      "title": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T15:50:00+00:00",
       "title": "The Broad Market ETF That Belongs in Almost Every Passive Investor's Portfolio",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T13:52:00+00:00",
+      "title": "AIER Everyday Price Index Posts July Dip As Inflation Pressures Cool",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T13:45:04+00:00",
       "title": "U.S. Budget Deficits Just Surged to $432.3 billion in July While Trump Weighs Brand-New Tax Cuts",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-13T12:24:18+00:00",
       "title": "Lumentum Still Down Over 90 Days: A Respected Analyst Sees 22% Gains Ahead Following Sharp Upturn",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:20:32+00:00",
-      "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:20:03+00:00",
-      "title": "Reassured By Cooler July CPI? This Chart Points To A Rate Hike",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

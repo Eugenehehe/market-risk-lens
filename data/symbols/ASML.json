@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T18:07:35.944873+00:00",
+  "generated_at": "2026-08-13T19:17:57.610847+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1866.98,
-    "change_pct": 3.1440773008778677
+    "price": 1857.84,
+    "change_pct": 2.6391244537504077
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:21:29.482973+00:00",
-      "close": 1740.99
-    },
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 1740.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T18:07:35.944873+00:00",
       "close": 1866.98
+    },
+    {
+      "timestamp": "2026-08-13T19:17:57.610847+00:00",
+      "close": 1857.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T13:35:37+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T04:40:00+00:00",
       "title": "American Century Focused Global Growth Fund Q2 2026 Portfolio Review",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T20:27:00+00:00",
       "title": "Intel Just Increased Its Stock Offering to $20B. Why That’s Good News for ASML.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T19:14:33+00:00",
-      "title": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

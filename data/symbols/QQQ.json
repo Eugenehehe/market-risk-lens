@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T18:07:35.944873+00:00",
+  "generated_at": "2026-08-13T19:17:57.610847+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 732.23,
-    "change_pct": 1.1786651927594205
+    "price": 732.89,
+    "change_pct": 1.2698632029846557
   },
   "risk": {
-    "score": 60,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:21:29.482973+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 723.03
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-13T18:07:35.944873+00:00",
       "close": 732.23
+    },
+    {
+      "timestamp": "2026-08-13T19:17:57.610847+00:00",
+      "close": 732.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T13:52:00+00:00",
+      "title": "AIER Everyday Price Index Posts July Dip As Inflation Pressures Cool",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T13:05:17+00:00",
+      "title": "Chip Stocks Power S&P 500 to Record Highs, SanDisk Soars 15%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T12:20:32+00:00",
       "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-13T11:05:00+00:00",
       "title": "Inflation Cools, The Bond Market Shrugs - And Attention Swings Back To The Fed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T10:58:31+00:00",
-      "title": "Gary Black Says Tesla Needs to Work on Branding: ‘Without Great Marketing, Apple Would Not Be a $4.4T Market Cap Company’",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T10:14:57+00:00",
-      "title": "What An All-Time High CAPE Ratio Implies For Investors",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

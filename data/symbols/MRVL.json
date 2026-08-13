@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T18:07:35.944873+00:00",
+  "generated_at": "2026-08-13T19:17:57.610847+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 227.84,
-    "change_pct": 4.956697991523851
+    "price": 223.78,
+    "change_pct": 3.0864197530864113
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:21:29.482973+00:00",
-      "close": 218.72
-    },
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 218.72
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-13T18:07:35.944873+00:00",
       "close": 227.84
+    },
+    {
+      "timestamp": "2026-08-13T19:17:57.610847+00:00",
+      "close": 223.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T18:35:00+00:00",
+      "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T17:35:40+00:00",
+      "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T16:47:00+00:00",
+      "title": "Down 37% From Its Highs, Is Marvell Technology Stock a Buy on the Dip?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T16:35:01+00:00",
       "title": "Thursday's session: top gainers and losers in the S&P500 index",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-13T03:30:00+00:00",
       "title": "What's Up With Tech?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T02:44:51+00:00",
-      "title": "Semtech Corporation: An Ordinary Earnings Beat Won't Be Enough",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T21:10:01+00:00",
-      "title": "Alpha and Omega Semiconductor (AOSL) Reports Q4 Loss, Beats Revenue Estimates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T16:54:00+00:00",
-      "title": "Broadcom is Overvalued at 23.8X P/E: Should You Still Buy the Stock?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

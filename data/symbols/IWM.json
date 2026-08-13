@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T18:07:35.944873+00:00",
+  "generated_at": "2026-08-13T19:17:57.610847+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 303.3,
-    "change_pct": 0.19490601565856913
+    "price": 303.69,
+    "change_pct": 0.32374219550064254
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:21:29.482973+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 301.56
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-13T18:07:35.944873+00:00",
       "close": 303.3
+    },
+    {
+      "timestamp": "2026-08-13T19:17:57.610847+00:00",
+      "close": 303.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T13:52:00+00:00",
+      "title": "AIER Everyday Price Index Posts July Dip As Inflation Pressures Cool",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T13:05:17+00:00",
+      "title": "Chip Stocks Power S&P 500 to Record Highs, SanDisk Soars 15%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T12:20:32+00:00",
       "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-13T11:05:00+00:00",
       "title": "Inflation Cools, The Bond Market Shrugs - And Attention Swings Back To The Fed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T10:14:57+00:00",
-      "title": "What An All-Time High CAPE Ratio Implies For Investors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T09:48:00+00:00",
-      "title": "Disinflation Gains Traction, But The Bond Market Isn't Buying It",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

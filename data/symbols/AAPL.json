@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T18:07:35.944873+00:00",
+  "generated_at": "2026-08-13T19:17:57.610847+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 303.13,
-    "change_pct": 0.29114971050454574
+    "price": 303.64,
+    "change_pct": 0.4598842018196825
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T19:21:29.482973+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-08T19:50:13.858485+00:00",
       "close": 313.33
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-13T18:07:35.944873+00:00",
       "close": 303.13
+    },
+    {
+      "timestamp": "2026-08-13T19:17:57.610847+00:00",
+      "close": 303.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T18:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T17:19:58+00:00",
+      "title": "Google makes costly bet Apple proved can work",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T16:55:57+00:00",
+      "title": "Apple Makes Big iPhone Move in AI Race",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T16:40:06+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
@@ -514,57 +538,33 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T16:30:16+00:00",
+      "title": "The Lowest-Beta Mega-Cap Just Got a $358 Target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T16:07:38+00:00",
+      "title": "Your TV's Home Screen Is New Gatekeeper, And Advertisers Better Get Used To It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T14:58:31+00:00",
+      "title": "Gary Black Says Tesla Needs to Work on Branding: ‘Without Great Marketing, Apple Would Not Be a $4.4T Market Cap Company’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T13:36:34+00:00",
       "title": "Apple in talks to pay publishers to power AI Siri",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:27:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Microsoft and Apple",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:25:33+00:00",
-      "title": "Apple stock in focus as Siri AI seeks new deals with publishers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:19:18+00:00",
-      "title": "Foxconn Stock Rises 2.7% Before Profit Jumps 35%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:15:31+00:00",
-      "title": "Gary Black Questions Tesla’s Strategy As Robotaxi Fleet Stays ‘Stuck’ At 90-100 Vehicles: 'What’s Going To Change This?'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:35:46+00:00",
-      "title": "Smart Money Sells #1 Dow Stock; Hidden Inflation In PPI; Applied Materials Earnings To Tell A Key AI Story",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T11:18:06+00:00",
-      "title": "Apple is opening a new manufacturing site in Texas",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
