@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T14:01:17.325200+00:00",
+  "generated_at": "2026-08-13T15:08:04.200506+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 333.23,
-    "change_pct": 1.7465115568990441
+    "price": 334.05,
+    "change_pct": 1.9968855912796624
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:55:19.800756+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-08T17:30:44.213227+00:00",
       "close": 328.58
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-13T14:01:17.325200+00:00",
       "close": 333.23
+    },
+    {
+      "timestamp": "2026-08-13T15:08:04.200506+00:00",
+      "close": 334.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T13:17:00+00:00",
+      "title": "Virtuix to Highlight Accelerating Consumer Growth and Expansion Across Defense, Robotics, and Healthcare at Sidoti Investor Conference",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T12:47:00+00:00",
+      "title": "Why Tesla Stock Is Struggling—and What Could Revive It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T12:37:00+00:00",
+      "title": "Alloy Robotics Raises $8M to Help Engineers Debug Robot Fleets With AI Agents",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T12:15:31+00:00",
+      "title": "Gary Black Questions Tesla’s Strategy As Robotaxi Fleet Stays ‘Stuck’ At 90-100 Vehicles: 'What’s Going To Change This?'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:37:03+00:00",
+      "title": "This Week In Energy Transition - Europe's Largest Battery Powers Up In Scotland",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T11:26:35+00:00",
       "title": "Elon Musk’s New Texas Facility Will be 36 Times Bigger Than the Empire State Building. Here’s Everything We Know So Far.",
@@ -525,46 +565,6 @@
       "timestamp": "2026-08-13T09:20:00+00:00",
       "title": "Michael Burry Warns of a 1987-Style Crash. Here Are 2 Index ETFs to Buy Anyway.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T09:06:48+00:00",
-      "title": "South Korean import sales rise 14% in July",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:15:00+00:00",
-      "title": "Prediction: Nvidia Will Be Worth $6 Trillion by the End of 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:06:06+00:00",
-      "title": "TSLA Stock Climbs Premarket: Chamath Says Tesla Is Going ‘All In On Nuclear’ As $10B Texas Solar Plan Emerges",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T06:06:26+00:00",
-      "title": "Elon Musk's Tesla Weighs $10.1 Billion Solar Plant, Chamath Palihapitiya Calls It a Bet on Nuclear: Here's Why",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T03:30:00+00:00",
-      "title": "What's Up With Tech?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

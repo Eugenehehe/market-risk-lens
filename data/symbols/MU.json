@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T14:01:17.325200+00:00",
+  "generated_at": "2026-08-13T15:08:04.200506+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 935.09,
-    "change_pct": 2.6116823404185308
+    "price": 958.04,
+    "change_pct": 5.130090311536395
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:55:19.800756+00:00",
-      "close": 877.57
-    },
     {
       "timestamp": "2026-08-08T17:30:44.213227+00:00",
       "close": 877.57
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T14:01:17.325200+00:00",
       "close": 935.09
+    },
+    {
+      "timestamp": "2026-08-13T15:08:04.200506+00:00",
+      "close": 958.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T12:23:00+00:00",
+      "title": "Micron Stock Falls—This Memory-Chip Rival Is Crushing It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T11:18:35+00:00",
       "title": "Market Would Fall by 12,152 Points in a ‘Black Monday’ Style Crash. Big Short Investor Says It’s Possible.",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T08:28:17+00:00",
+      "title": "‘The Big Short’ Investor Michael Burry Says Stock Market’s Unusually Long Stretch Without a Broad Selloff Could Be a Warning Sign — And He Has One Simple Message for Investors: ‘Avoid the Leverage’ (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T08:26:44+00:00",
       "title": "Micron Buried One Sentence About Dec. 9 - It Could Begin Retiring 12% Of Its Shares",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-13T08:14:29+00:00",
       "title": "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:00:00+00:00",
-      "title": "Navigating Market Turbulence: 6 Top Stocks For Balancing Stability And Growth",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T07:45:47+00:00",
-      "title": "Nvidia: The Concentration Bear Case Has Lost Half Its Footing",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

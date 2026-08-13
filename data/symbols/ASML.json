@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T14:01:17.325200+00:00",
+  "generated_at": "2026-08-13T15:08:04.200506+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1851.04,
-    "change_pct": 2.263448374924737
+    "price": 1858.03,
+    "change_pct": 2.649621285364656
   },
   "risk": {
-    "score": 69,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:55:19.800756+00:00",
-      "close": 1740.99
-    },
     {
       "timestamp": "2026-08-08T17:30:44.213227+00:00",
       "close": 1740.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T14:01:17.325200+00:00",
       "close": 1851.04
+    },
+    {
+      "timestamp": "2026-08-13T15:08:04.200506+00:00",
+      "close": 1858.03
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-12T15:05:00+00:00",
+      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-12T13:38:46+00:00",
       "title": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-11T19:14:33+00:00",
       "title": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-11T18:17:00+00:00",
-      "title": "ASML’s recent dip gives rare opening for AI investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

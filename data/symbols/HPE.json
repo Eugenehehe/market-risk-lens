@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T14:01:17.325200+00:00",
+  "generated_at": "2026-08-13T15:08:04.200506+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.34,
-    "change_pct": 4.337472359244776
+    "price": 62.42,
+    "change_pct": 6.174519476101392
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:55:19.800756+00:00",
-      "close": 53.22
-    },
     {
       "timestamp": "2026-08-08T17:30:44.213227+00:00",
       "close": 53.22
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-13T14:01:17.325200+00:00",
       "close": 61.34
+    },
+    {
+      "timestamp": "2026-08-13T15:08:04.200506+00:00",
+      "close": 62.42
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-13T12:57:10+00:00",
+      "title": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T12:35:01+00:00",
       "title": "What's going on in today's pre-market session: S&P500 movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:56:07+00:00",
+      "title": "Dell, HP and HPE Shares Rise After Lenovo Delivers Strong Quarterly Growth",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-12T18:37:44+00:00",
       "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T16:54:02+00:00",
-      "title": "NLST Stock Rallies After ITC Patent Action Against MU, SMCI, HPE – Roth Capital Sees Settlement Upside",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T16:13:22+00:00",
-      "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Trading Up Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

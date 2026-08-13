@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T14:01:17.325200+00:00",
+  "generated_at": "2026-08-13T15:08:04.200506+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 304.61,
-    "change_pct": 0.6276634402563541
+    "price": 303.96,
+    "change_pct": 0.41293647385285404
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T16:55:19.800756+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T17:30:44.213227+00:00",
       "close": 301.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T14:01:17.325200+00:00",
       "close": 304.61
+    },
+    {
+      "timestamp": "2026-08-13T15:08:04.200506+00:00",
+      "close": 303.96
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-13T12:20:32+00:00",
       "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T10:14:57+00:00",
+      "title": "What An All-Time High CAPE Ratio Implies For Investors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T09:48:00+00:00",
+      "title": "Disinflation Gains Traction, But The Bond Market Isn't Buying It",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-13T03:10:00+00:00",
       "title": "July CPI Report: Another Benign Report, But Risks Persist",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T01:10:00+00:00",
-      "title": "What Changed?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T23:35:00+00:00",
-      "title": "Rates Spark: Inflation Is And Isn't The Issue",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
