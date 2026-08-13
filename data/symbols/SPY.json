@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:52:49.239871+00:00",
+  "generated_at": "2026-08-13T08:14:22.326637+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 772.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T13:16:34.052112+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T14:01:23.174872+00:00",
       "close": 773.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T06:52:49.239871+00:00",
       "close": 772.49
+    },
+    {
+      "timestamp": "2026-08-13T08:14:22.326637+00:00",
+      "close": 772.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T03:10:00+00:00",
+      "title": "July CPI Report: Another Benign Report, But Risks Persist",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T01:10:00+00:00",
       "title": "What Changed?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T17:00:08+00:00",
       "title": "Markets Think The Energy Crisis Risk Is Over, Quite The Opposite",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T15:05:31+00:00",
-      "title": "'Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer' - CBC",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

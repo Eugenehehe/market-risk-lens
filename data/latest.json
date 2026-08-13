@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:52:49.239871+00:00",
+  "generated_at": "2026-08-13T08:14:22.326637+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 224.09,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T13:16:34.052112+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-08T14:01:23.174872+00:00",
       "close": 223.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T06:52:49.239871+00:00",
       "close": 224.09
+    },
+    {
+      "timestamp": "2026-08-13T08:14:22.326637+00:00",
+      "close": 224.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T03:30:00+00:00",
+      "title": "What's Up With Tech?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-12T19:10:05+00:00",
       "title": "Wednesday's session: top gainers and losers in the dow jones index",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T14:47:26+00:00",
       "title": "Shares of companies in the broader chip sector are trading higher, rebounding from recent weakness in tech stocks. Investors may also be awaiting NVIDIA's earnings report after the close.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T13:29:18+00:00",
-      "title": "Credo's Massive Valuation Reflects Detached-From-Reality Expectations",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
