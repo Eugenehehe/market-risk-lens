@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T17:11:00.901887+00:00",
+  "generated_at": "2026-08-13T18:07:35.944873+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 303.41,
-    "change_pct": 0.23124442535762402
+    "price": 303.3,
+    "change_pct": 0.19490601565856913
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:51:34.012805+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-08T19:21:29.482973+00:00",
       "close": 301.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T17:11:00.901887+00:00",
       "close": 303.41
+    },
+    {
+      "timestamp": "2026-08-13T18:07:35.944873+00:00",
+      "close": 303.3
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-13T11:50:34+00:00",
       "title": "Credit Markets Shooting Off 2007 Like Flares",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:29:40+00:00",
+      "title": "QUICK SPARK: Russell 2000 Hits New Record Highs, Beats Nasdaq 100 In 2026",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T09:48:00+00:00",
       "title": "Disinflation Gains Traction, But The Bond Market Isn't Buying It",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:50:25+00:00",
-      "title": "How Accurate Is Our Inflation Rate?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

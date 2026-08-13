@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T17:11:00.901887+00:00",
+  "generated_at": "2026-08-13T18:07:35.944873+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 105.39,
-    "change_pct": 4.398216939078758
+    "price": 105.58,
+    "change_pct": 4.586428925210506
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:51:34.012805+00:00",
-      "close": 101.65
-    },
     {
       "timestamp": "2026-08-08T19:21:29.482973+00:00",
       "close": 101.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T17:11:00.901887+00:00",
       "close": 105.39
+    },
+    {
+      "timestamp": "2026-08-13T18:07:35.944873+00:00",
+      "close": 105.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T16:35:01+00:00",
+      "title": "Thursday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T15:27:00+00:00",
       "title": "Déjà Vu. Why Intel Is Eyeing a Return to Memory.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T12:30:00+00:00",
       "title": "Intel: The Entry Point Is Gone",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:23:14+00:00",
-      "title": "BofA Issues Urgent Message for Intel Stock After $20 Billion Offering",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

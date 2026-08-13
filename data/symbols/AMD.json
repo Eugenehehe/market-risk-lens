@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T17:11:00.901887+00:00",
+  "generated_at": "2026-08-13T18:07:35.944873+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 494.54,
-    "change_pct": 2.404075124759286
+    "price": 490.81,
+    "change_pct": 1.6317064584929541
   },
   "risk": {
-    "score": 70,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T18:51:34.012805+00:00",
-      "close": 483.36
-    },
     {
       "timestamp": "2026-08-08T19:21:29.482973+00:00",
       "close": 483.36
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T17:11:00.901887+00:00",
       "close": 494.54
+    },
+    {
+      "timestamp": "2026-08-13T18:07:35.944873+00:00",
+      "close": 490.81
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-13T14:00:30+00:00",
       "title": "Intel’s Best Growth in 15 Years: 25% Revenue Surge and Our New Price Target",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T13:24:02+00:00",
+      "title": "AMD: Buy The Helios Growth Inflection",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T12:07:39+00:00",
       "title": "AI Earnings Split: Accelerating Growers Rewarded, Cloud Bellwether Sells Off",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:01:33+00:00",
-      "title": "BofA lifts server CPU TAM to $210bn+ on the rise of AI agents",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
