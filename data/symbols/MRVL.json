@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:50:30.388691+00:00",
+  "generated_at": "2026-08-13T22:28:49.542201+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 222.18,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T21:19:27.888838+00:00",
-      "close": 218.72
-    },
     {
       "timestamp": "2026-08-08T21:51:21.814850+00:00",
       "close": 218.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-13T21:50:30.388691+00:00",
       "close": 222.18
+    },
+    {
+      "timestamp": "2026-08-13T22:28:49.542201+00:00",
+      "close": 222.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-13T20:07:53+00:00",
+      "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T18:35:00+00:00",
       "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T08:14:29+00:00",
       "title": "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T03:30:00+00:00",
-      "title": "What's Up With Tech?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
