@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T15:08:04.200506+00:00",
+  "generated_at": "2026-08-13T16:08:26.083616+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 62.42,
-    "change_pct": 6.174519476101392
+    "price": 61.28,
+    "change_pct": 4.235414186086062
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T17:30:44.213227+00:00",
-      "close": 53.22
-    },
     {
       "timestamp": "2026-08-08T18:00:03.924483+00:00",
       "close": 53.22
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T15:08:04.200506+00:00",
       "close": 62.42
+    },
+    {
+      "timestamp": "2026-08-13T16:08:26.083616+00:00",
+      "close": 61.28
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-13T11:56:07+00:00",
       "title": "Dell, HP and HPE Shares Rise After Lenovo Delivers Strong Quarterly Growth",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:39:34+00:00",
+      "title": "Super Micro Computer: Strong Quarter And Outlook, But Concerns Remain",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T19:00:14+00:00",
       "title": "Cisco Q4: AI Momentum Is Real, But Let's See If The Premium Is Justified",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T18:37:44+00:00",
-      "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

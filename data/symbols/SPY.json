@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T15:08:04.200506+00:00",
+  "generated_at": "2026-08-13T16:08:26.083616+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 777.37,
-    "change_pct": 0.6317233880050122
+    "price": 776.08,
+    "change_pct": 0.4647309350282791
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T17:30:44.213227+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T18:00:03.924483+00:00",
       "close": 773.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T15:08:04.200506+00:00",
       "close": 777.37
+    },
+    {
+      "timestamp": "2026-08-13T16:08:26.083616+00:00",
+      "close": 776.08
     }
   ],
   "events": [
@@ -546,25 +546,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T11:11:00+00:00",
+      "title": "Producer Price Index Offers Another Respite On Inflation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:05:00+00:00",
+      "title": "Inflation Cools, The Bond Market Shrugs - And Attention Swings Back To The Fed",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T10:46:17+00:00",
       "title": "Exclusive: Scott Bessent Says K-Shaped Economy Is Over, but Wall Street Veteran Says Wealth Divide Is Worsening: ‘50% of Americans Own No Stocks and Are Getting Left Behind’",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T10:14:57+00:00",
-      "title": "What An All-Time High CAPE Ratio Implies For Investors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T09:48:00+00:00",
-      "title": "Disinflation Gains Traction, But The Bond Market Isn't Buying It",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

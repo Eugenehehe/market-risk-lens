@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T15:08:04.200506+00:00",
+  "generated_at": "2026-08-13T16:08:26.083616+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 732.57,
-    "change_pct": 1.2256459859057545
+    "price": 731.28,
+    "change_pct": 1.0473953295564442
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T17:30:44.213227+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-08T18:00:03.924483+00:00",
       "close": 723.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T15:08:04.200506+00:00",
       "close": 732.57
+    },
+    {
+      "timestamp": "2026-08-13T16:08:26.083616+00:00",
+      "close": 731.28
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-13T12:20:32+00:00",
       "title": "Breadth Strengthens as Small Caps Press Breakout Resistance",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:11:00+00:00",
+      "title": "Producer Price Index Offers Another Respite On Inflation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T11:05:00+00:00",
+      "title": "Inflation Cools, The Bond Market Shrugs - And Attention Swings Back To The Fed",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T08:59:39+00:00",
+      "title": "How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA Using Technical Analysis",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T08:50:25+00:00",
       "title": "How Accurate Is Our Inflation Rate?",
       "source": "SeekingAlpha",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-13T08:35:57+00:00",
       "title": "July CPI Inflation - Not Low Enough",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:30:00+00:00",
-      "title": "My 10-ETF Mix Has A Strong Macro Message About The Rest Of 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:28:17+00:00",
-      "title": "‘The Big Short’ Investor Michael Burry Says Stock Market’s Unusually Long Stretch Without a Broad Selloff Could Be a Warning Sign — And He Has One Simple Message for Investors: ‘Avoid the Leverage’ (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T08:00:27+00:00",
-      "title": "Reasons To Roll Over Your Old 401k Sooner Than Later",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

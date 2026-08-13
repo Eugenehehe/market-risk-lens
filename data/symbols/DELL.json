@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-13T15:08:04.200506+00:00",
+  "generated_at": "2026-08-13T16:08:26.083616+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 502.82,
-    "change_pct": 3.7812177502579924
+    "price": 497.22,
+    "change_pct": 2.625386996904022
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T17:30:44.213227+00:00",
-      "close": 453.77
-    },
     {
       "timestamp": "2026-08-08T18:00:03.924483+00:00",
       "close": 453.77
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T15:08:04.200506+00:00",
       "close": 502.82
+    },
+    {
+      "timestamp": "2026-08-13T16:08:26.083616+00:00",
+      "close": 497.22
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T11:39:34+00:00",
+      "title": "Super Micro Computer: Strong Quarter And Outlook, But Concerns Remain",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T00:28:46+00:00",
       "title": "Get Paid 18% A Year To Cap Your ANET Stock At 21% Higher",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T19:00:14+00:00",
       "title": "Cisco Q4: AI Momentum Is Real, But Let's See If The Premium Is Justified",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T18:37:44+00:00",
-      "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

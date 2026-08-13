@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T15:08:04.200506+00:00",
+  "generated_at": "2026-08-13T16:08:26.083616+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 589.07,
-    "change_pct": 1.7655696639889529
+    "price": 586.22,
+    "change_pct": 1.2732141314675705
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T17:30:44.213227+00:00",
-      "close": 592.1
-    },
     {
       "timestamp": "2026-08-08T18:00:03.924483+00:00",
       "close": 592.1
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-13T15:08:04.200506+00:00",
       "close": 589.07
+    },
+    {
+      "timestamp": "2026-08-13T16:08:26.083616+00:00",
+      "close": 586.22
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-13T11:33:54+00:00",
+      "title": "Sandisk Exec Says Meta Is Joining Consortium To Develop Open Standard For High Bandwidth Flash",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T11:03:17+00:00",
       "title": "GOOGL Stock Tops Retail Pick Over AMZN, META, MSFT For Next 12 Months – But META Leads Wall Street Upside",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T10:30:14+00:00",
       "title": "Big Tech Drives Up Credit Risk for Safe Firms With No AI Links",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T10:07:26+00:00",
-      "title": "Meta Removes 756,000 Australian Teen Accounts as Regulatory Scrutiny Intensifies",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
