@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T15:37:28.670532+00:00",
+  "generated_at": "2026-08-14T16:29:47.019225+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 103.05,
-    "change_pct": -1.4441469013006913
+    "price": 103.58,
+    "change_pct": -0.9372609028309165
   },
   "risk": {
-    "score": 62,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:16:46.986931+00:00",
-      "close": 101.65
-    },
     {
       "timestamp": "2026-08-09T10:56:28.420799+00:00",
       "close": 101.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T15:37:28.670532+00:00",
       "close": 103.05
+    },
+    {
+      "timestamp": "2026-08-14T16:29:47.019225+00:00",
+      "close": 103.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T11:27:14+00:00",
+      "title": "Eventually Free Cash Flow Will Matter Again",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T20:55:54+00:00",
       "title": "The Bull Market Is Almost Back for Chip Stocks",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T18:00:00+00:00",
       "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T17:35:40+00:00",
-      "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

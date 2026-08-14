@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T15:37:28.670532+00:00",
+  "generated_at": "2026-08-14T16:29:47.019225+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 304.13,
-    "change_pct": 0.20757825370676386
+    "price": 304.68,
+    "change_pct": 0.3887973640856801
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:16:46.986931+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-09T10:56:28.420799+00:00",
       "close": 301.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T15:37:28.670532+00:00",
       "close": 304.13
+    },
+    {
+      "timestamp": "2026-08-14T16:29:47.019225+00:00",
+      "close": 304.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T11:27:14+00:00",
+      "title": "Eventually Free Cash Flow Will Matter Again",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T10:30:00+00:00",
       "title": "Calm Economic News Continues To Soothe The Markets",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T08:10:00+00:00",
       "title": "Inflection Points: Mapping The Midterms",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:30:32+00:00",
-      "title": "Could Trump Cut Capital Gains Tax?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

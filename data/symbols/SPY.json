@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T15:37:28.670532+00:00",
+  "generated_at": "2026-08-14T16:29:47.019225+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 776.21,
-    "change_pct": -0.21468606983081617
+    "price": 776.72,
+    "change_pct": -0.1491232580860813
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:16:46.986931+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-09T10:56:28.420799+00:00",
       "close": 773.26
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T15:37:28.670532+00:00",
       "close": 776.21
+    },
+    {
+      "timestamp": "2026-08-14T16:29:47.019225+00:00",
+      "close": 776.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T11:27:14+00:00",
+      "title": "Eventually Free Cash Flow Will Matter Again",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T10:30:00+00:00",
       "title": "Calm Economic News Continues To Soothe The Markets",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T09:50:00+00:00",
       "title": "S&P 500 Vs. TSX - Which Leads Next?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:48:16+00:00",
-      "title": "Mark Cuban Wants Investors Out of Health Insurers. That’s Tough If You Own These ETFs",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
