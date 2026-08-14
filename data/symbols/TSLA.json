@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:53:18.444651+00:00",
+  "generated_at": "2026-08-14T14:46:36.250546+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 349.55,
-    "change_pct": 2.8209201082480373
+    "price": 343.07,
+    "change_pct": 0.9148135074714681
   },
   "risk": {
-    "score": 73,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T08:56:30.458965+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 328.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T13:53:18.444651+00:00",
       "close": 349.55
+    },
+    {
+      "timestamp": "2026-08-14T14:46:36.250546+00:00",
+      "close": 343.07
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-14T05:00:00+00:00",
       "title": "Uber Stock Looks Cheap. Here’s Why.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T01:50:06+00:00",
+      "title": "Dara Khosrowshahi Hails Uber's Japan Robotaxi Expansion, Says Country Has Been a 'Terrific' Market for the Ride-Hailing Giant",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T19:47:00+00:00",
       "title": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T19:47:00+00:00",
-      "title": "The Winners and Losers From Shipping’s Rough Seas",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

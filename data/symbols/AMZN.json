@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:53:18.444651+00:00",
+  "generated_at": "2026-08-14T14:46:36.250546+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 264.58,
-    "change_pct": -0.20744540414137091
+    "price": 264.05,
+    "change_pct": -0.40734733904121967
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T08:56:30.458965+00:00",
-      "close": 274.48
-    },
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 274.48
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T13:53:18.444651+00:00",
       "close": 264.58
+    },
+    {
+      "timestamp": "2026-08-14T14:46:36.250546+00:00",
+      "close": 264.05
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-14T07:20:00+00:00",
       "title": "Alphabet and Amazon Are Spending $420 Billion on Infrastructure. These 2 Stocks Are Primed to Cash in on It.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T06:42:29+00:00",
+      "title": "MSFT Could Emerge as Big Tech's Free Cash Flow King in 2027 While GOOGL, META Stay Negative: Analyst",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T05:55:31+00:00",
+      "title": "Lam Research to Spend More Than $3 Billion Expanding Its Global Chip R&D Network, CEO Tim Archer Says 'The Pace of Innovation Is Relentless'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T04:00:00+00:00",
-      "title": "The Next Big Theme: August 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T03:00:01+00:00",
-      "title": "Hyperscaler AI borrowing binge shakes up foreign credit markets",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T01:44:57+00:00",
-      "title": "Grove (GROV) Q2 2026 Earnings Call Transcript",
-      "source": "Yahoo",
+      "timestamp": "2026-08-14T04:52:20+00:00",
+      "title": "Silver Lake's Workday Buyout Talks Could Be the First 'SaaSpocalypse' Opportunity: Analyst Says 'You've Got Data, You've Got Distribution, You're Still Gonna Win'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

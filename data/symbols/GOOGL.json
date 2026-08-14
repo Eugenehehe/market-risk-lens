@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:53:18.444651+00:00",
+  "generated_at": "2026-08-14T14:46:36.250546+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 347.72,
-    "change_pct": 0.39265504099781356
+    "price": 346.43,
+    "change_pct": 0.020210185933700053
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T08:56:30.458965+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T13:53:18.444651+00:00",
       "close": 347.72
+    },
+    {
+      "timestamp": "2026-08-14T14:46:36.250546+00:00",
+      "close": 346.43
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T06:42:29+00:00",
+      "title": "MSFT Could Emerge as Big Tech's Free Cash Flow King in 2027 While GOOGL, META Stay Negative: Analyst",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T06:11:14+00:00",
       "title": "Alphabet: This Is How YouTube Changes Business And Society",
       "source": "SeekingAlpha",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T06:04:39+00:00",
       "title": "Vornado, Related’s Chelsea Office Hits Special Servicing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:57:00+00:00",
-      "title": "5 Insightful Analyst Questions From LegalZoom’s Q2 Earnings Call",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

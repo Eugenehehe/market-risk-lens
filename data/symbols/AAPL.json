@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T13:53:18.444651+00:00",
+  "generated_at": "2026-08-14T14:46:36.250546+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 306.48,
-    "change_pct": 0.3996593068204213
+    "price": 305.19,
+    "change_pct": -0.02293127170280851
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T08:56:30.458965+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-09T09:43:26.380737+00:00",
       "close": 313.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T13:53:18.444651+00:00",
       "close": 306.48
+    },
+    {
+      "timestamp": "2026-08-14T14:46:36.250546+00:00",
+      "close": 305.19
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T07:50:00+00:00",
       "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T06:41:45+00:00",
+      "title": "AI Killing Software? Analyst Says ‘I Don’t See a Software Apocalypse’",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T21:20:00+00:00",
       "title": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T20:11:11+00:00",
-      "title": "There’s a Good Chance Vanguard’s VINIX Is in Your 401(k) and You’ve Never Heard of It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
