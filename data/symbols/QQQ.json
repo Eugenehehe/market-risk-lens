@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:31:23.577182+00:00",
+  "generated_at": "2026-08-14T12:25:21.874623+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 732.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T07:11:06.024844+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-09T08:02:16.784088+00:00",
       "close": 723.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T11:31:23.577182+00:00",
       "close": 732.07
+    },
+    {
+      "timestamp": "2026-08-14T12:25:21.874623+00:00",
+      "close": 732.07
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-14T10:03:45+00:00",
       "title": "Breadth Broadens Further as IWM Joins the Breakout",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T07:30:32+00:00",
+      "title": "Could Trump Cut Capital Gains Tax?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T07:30:00+00:00",
+      "title": "This May Be One Of My Favorite Markets Ever",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-14T02:35:00+00:00",
       "title": "The Instrument Of Truth: How Volatility Reveals Market Reality",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T23:40:00+00:00",
-      "title": "New York Fed: No Reserve Management Purchases In The Month To Mid-September",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T23:20:00+00:00",
-      "title": "Rates Spark: The Yen Link To U.S. Treasuries",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
