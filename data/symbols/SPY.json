@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:43:25.653132+00:00",
+  "generated_at": "2026-08-14T11:31:23.577182+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 777.88,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T06:03:20.322267+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-09T07:11:06.024844+00:00",
       "close": 773.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 777.88
+    },
+    {
+      "timestamp": "2026-08-14T11:31:23.577182+00:00",
+      "close": 777.88
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-14T10:01:00+00:00",
       "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T07:05:00+00:00",
+      "title": "My Near-Perfect $1 Million Retirement Portfolio",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T07:00:00+00:00",
+      "title": "2 Income Plays For The Long-Term Investor",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-13T23:40:00+00:00",
       "title": "New York Fed: No Reserve Management Purchases In The Month To Mid-September",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T23:20:00+00:00",
-      "title": "Rates Spark: The Yen Link To U.S. Treasuries",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T22:59:21+00:00",
-      "title": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation — WDAY, SNDK, AMD, DELL, HTZ In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
