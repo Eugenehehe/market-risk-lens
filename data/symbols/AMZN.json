@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:14:28.305970+00:00",
+  "generated_at": "2026-08-14T23:40:46.645105+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 262.65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T18:04:19.458802+00:00",
-      "close": 274.48
-    },
     {
       "timestamp": "2026-08-09T18:57:05.716832+00:00",
       "close": 274.48
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T23:14:28.305970+00:00",
       "close": 262.65
+    },
+    {
+      "timestamp": "2026-08-14T23:40:46.645105+00:00",
+      "close": 262.65
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T19:10:06+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T18:32:16+00:00",
+      "title": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T13:35:24+00:00",
       "title": "10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:34:00+00:00",
-      "title": "The AI Compute Squeeze",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
