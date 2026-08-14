@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:42:20.368705+00:00",
+  "generated_at": "2026-08-14T21:03:32.290801+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 731.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T14:40:08.796179+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-09T15:12:18.976065+00:00",
       "close": 723.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T20:42:20.368705+00:00",
       "close": 731.07
+    },
+    {
+      "timestamp": "2026-08-14T21:03:32.290801+00:00",
+      "close": 731.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T16:33:00+00:00",
+      "title": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T13:22:50+00:00",
       "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T10:24:10+00:00",
       "title": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T10:03:45+00:00",
-      "title": "Breadth Broadens Further as IWM Joins the Breakout",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
