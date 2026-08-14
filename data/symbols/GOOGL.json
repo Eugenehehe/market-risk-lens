@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:36:05.945419+00:00",
+  "generated_at": "2026-08-14T21:56:42.018208+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T15:48:06.969527+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-09T16:16:31.670719+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T21:36:05.945419+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-14T21:56:42.018208+00:00",
+      "close": 345.9
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T19:10:06+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T17:17:21+00:00",
+      "title": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T07:50:00+00:00",
       "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:42:17+00:00",
-      "title": "Jim Cramer Wonders Whether AppLovin Corporation (NASDAQ:APP) Is Facing Off With Google",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
