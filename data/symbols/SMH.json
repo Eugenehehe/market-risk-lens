@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 583.5,
-    "change_pct": -0.9539652362846263
+    "price": 583.93,
+    "change_pct": -0.880975013579588
   },
   "risk": {
     "score": 58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 582.7
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 582.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 583.5
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 583.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T13:22:50+00:00",
+      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T06:30:00+00:00",
       "title": "Chart Of The Day: The Great 'Hot Money' Migration",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T06:31:21+00:00",
       "title": "Semiconductor Flows Stay ‘Sticky’ in Leveraged Chip ETFs Like SOXL Despite Fidelity’s Cycle-Peak Warning",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T21:35:22+00:00",
-      "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

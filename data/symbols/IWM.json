@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 304.69,
-    "change_pct": 0.39209225700165273
+    "price": 304.65,
+    "change_pct": 0.3789126853377178
   },
   "risk": {
     "score": 54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 301.56
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 301.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 304.69
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 304.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T13:22:50+00:00",
+      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T13:10:00+00:00",
       "title": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T09:56:06+00:00",
       "title": "The Warsh Rate-Hike Trade Just Collapsed: What It Means for Markets",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:50:00+00:00",
-      "title": "S&P 500 Vs. TSX - Which Leads Next?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

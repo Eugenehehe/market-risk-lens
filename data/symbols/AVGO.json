@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 390.93,
-    "change_pct": -6.435785745057676
+    "price": 389.5,
+    "change_pct": -6.7780383897372065
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 427.76
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 427.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 390.93
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 389.5
     }
   ],
   "events": [
@@ -517,6 +517,30 @@
       "timestamp": "2026-08-14T14:35:01+00:00",
       "title": "Gapping S&P500 stocks in Friday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:45:00+00:00",
+      "title": "Why Is Everyone Building Compute?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:22:50+00:00",
+      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:08:42+00:00",
+      "title": "Broadcom Plunges 5% as Its AI Boom Faces a $370 Billion Financing Question",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-14T05:35:43+00:00",
       "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T01:23:38+00:00",
-      "title": "Why Coherent Stock Jumped Before Its Own Results Landed",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T20:07:53+00:00",
-      "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T18:54:47+00:00",
-      "title": "Millions of Americans Own Vanguard’s VFIAX and Have No Idea What They Actually Bought",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

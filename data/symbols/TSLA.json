@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 340.07,
-    "change_pct": 0.03235674785269094
+    "price": 342.31,
+    "change_pct": 0.6912577950347165
   },
   "risk": {
-    "score": 51,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 328.58
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 340.07
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 342.31
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-14T12:05:22+00:00",
       "title": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T11:21:08+00:00",
+      "title": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T05:00:00+00:00",
       "title": "Uber Stock Looks Cheap. Here’s Why.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T03:01:26+00:00",
-      "title": "Howard Lutnick Says Trump's Auto Tariffs Are Bringing Thousands of Jobs Into the US: 'Ford Is Going To Rock…'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

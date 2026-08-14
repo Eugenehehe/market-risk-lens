@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 962.35,
-    "change_pct": 1.3181306128465131
+    "price": 962.62,
+    "change_pct": 1.346556752260919
   },
   "risk": {
     "score": 61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 877.57
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 877.57
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 962.35
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 962.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T13:45:00+00:00",
+      "title": "Why Is Everyone Building Compute?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T12:35:01+00:00",
       "title": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T10:38:16+00:00",
+      "title": "Trivariate Research’s Adam Parker: Micron will probably double over the next few years",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T09:57:00+00:00",
       "title": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-14T07:20:00+00:00",
       "title": "Alphabet and Amazon Are Spending $420 Billion on Infrastructure. These 2 Stocks Are Primed to Cash in on It.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:55:31+00:00",
-      "title": "Lam Research to Spend More Than $3 Billion Expanding Its Global Chip R&D Network, CEO Tim Archer Says 'The Pace of Innovation Is Relentless'",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:35:00+00:00",
-      "title": "Allspring Large Cap Growth Fund Q2 2026 Performance Update",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

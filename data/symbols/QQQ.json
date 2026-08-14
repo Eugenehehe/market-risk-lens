@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 729.09,
-    "change_pct": -0.40706489816547675
+    "price": 729.46,
+    "change_pct": -0.35652328329258687
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 723.03
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 729.09
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 729.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T13:22:50+00:00",
+      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:10:00+00:00",
+      "title": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T12:36:09+00:00",
       "title": "Getting Inflation Down To 2% Just Got Harder",
@@ -517,6 +533,14 @@
       "timestamp": "2026-08-14T11:27:14+00:00",
       "title": "Eventually Free Cash Flow Will Matter Again",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T11:21:08+00:00",
+      "title": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-14T10:03:45+00:00",
       "title": "Breadth Broadens Further as IWM Joins the Breakout",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:56:06+00:00",
-      "title": "The Warsh Rate-Hike Trade Just Collapsed: What It Means for Markets",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:50:00+00:00",
-      "title": "S&P 500 Vs. TSX - Which Leads Next?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:07:33+00:00",
-      "title": "The ‘Right Tail’ for Stocks Just Got Better: Here’s the Number Behind It",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

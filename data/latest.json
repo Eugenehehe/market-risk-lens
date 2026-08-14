@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 225.2,
-    "change_pct": -0.044385264092328125
+    "price": 224.77,
+    "change_pct": -0.2352418996893091
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 225.2
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 224.77
     }
   ],
   "events": [
@@ -514,9 +514,41 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T13:45:00+00:00",
+      "title": "Why Is Everyone Building Compute?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:34:00+00:00",
+      "title": "The AI Compute Squeeze",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:30:11+00:00",
+      "title": "ChatGPT Holds The AI Crown As Gemini Slips And Claude Keeps Climbing",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T12:47:09+00:00",
       "title": "Nebius: A Strong Quarter But Still Overvalued",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T12:44:12+00:00",
+      "title": "Trade Tracker: Bill Baruch buys more Nvidia",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-14T11:28:50+00:00",
       "title": "SpaceX Closes $60 Billion Cursor Deal: Here's Why This Could Turn Elon Musk's AI Ambitions Into Reality",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T11:27:14+00:00",
-      "title": "Eventually Free Cash Flow Will Matter Again",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:57:00+00:00",
-      "title": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:35:00+00:00",
-      "title": "Vanguard Is Bullish on Developed Markets Outside the U.S. -- But How Can You Buy Them? These 2 ETFs Can Help.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:26:00+00:00",
-      "title": "Warren Buffett's Successor, Greg Abel, Is About to Drop a Bombshell on Wall Street Later Today, Aug. 14",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

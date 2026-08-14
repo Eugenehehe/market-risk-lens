@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 152.1,
-    "change_pct": -2.6373063628216675
+    "price": 150.6,
+    "change_pct": -3.5974907182178995
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 147.02
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 147.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 152.1
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 150.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T12:44:12+00:00",
+      "title": "Trade Tracker: Bill Baruch buys more Nvidia",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T11:02:19+00:00",
       "title": "Micron and 15 Other Stocks To Play The AI Buildout Race: They Are Still 20% Below Highs",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T22:52:33+00:00",
       "title": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T20:21:00+00:00",
-      "title": "CFO Worx Named No. 448 on the 2026 Inc. 5000 List, the Most Prestigious Ranking of America’s Fastest-Growing Private Companies",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

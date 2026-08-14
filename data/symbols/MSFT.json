@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 495.95,
-    "change_pct": -0.18716792786991343
+    "price": 495.67,
+    "change_pct": -0.24351956206729586
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 499.99
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 499.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 495.95
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 495.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T13:45:00+00:00",
+      "title": "Why Is Everyone Building Compute?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T12:47:09+00:00",
       "title": "Nebius: A Strong Quarter But Still Overvalued",
@@ -517,6 +525,22 @@
       "timestamp": "2026-08-14T11:39:46+00:00",
       "title": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T11:21:08+00:00",
+      "title": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T11:00:33+00:00",
+      "title": "OpenAI Annualized Revenue Tops $40 Billion Ahead of $1 Trillion IPO Push",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-14T08:16:14+00:00",
       "title": "NVIDIA Says ‘Free AI’ Is Great For Chips — Jensen Huang’s Open-Source Bet Could Fuel GPU Demand",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:01:00+00:00",
-      "title": "MetriStar Top Provider: Room Video Conferencing Report: Evaluating Customer Sentiment, Business Value, and Market Strategies of Cisco, Zoom, Microsoft, and Logitech",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:50:00+00:00",
-      "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:13:52+00:00",
-      "title": "Is Stronger Career Learning And Capital Returns Altering The Investment Case For Stride (LRN)?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

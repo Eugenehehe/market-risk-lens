@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T17:32:04.932360+00:00",
+  "generated_at": "2026-08-14T18:28:34.729603+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 426.09,
-    "change_pct": -1.0220911054844573
+    "price": 425.72,
+    "change_pct": -1.1080396757183641
   },
   "risk": {
     "score": 59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:32:50.135567+00:00",
-      "close": 420.04
-    },
     {
       "timestamp": "2026-08-09T11:59:09.546275+00:00",
       "close": 420.04
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-14T17:32:04.932360+00:00",
       "close": 426.09
+    },
+    {
+      "timestamp": "2026-08-14T18:28:34.729603+00:00",
+      "close": 425.72
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-14T12:43:09+00:00",
       "title": "Softbank Decreases Stake In Taiwan Semiconductor Mfg Ltd By 72% To 565,000 Shares",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T04:36:41+00:00",
+      "title": "Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to Race Ahead: Report",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T22:07:49+00:00",
+      "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-13T03:30:00+00:00",
       "title": "What's Up With Tech?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T15:43:40+00:00",
-      "title": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T11:28:41+00:00",
-      "title": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
