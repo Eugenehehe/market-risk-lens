@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:00:35.364381+00:00",
+  "generated_at": "2026-08-14T07:44:48.711561+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 594.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T00:37:54.227478+00:00",
-      "close": 592.1
-    },
     {
       "timestamp": "2026-08-09T02:50:13.226313+00:00",
       "close": 592.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T06:00:35.364381+00:00",
       "close": 594.97
+    },
+    {
+      "timestamp": "2026-08-14T07:44:48.711561+00:00",
+      "close": 594.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T02:30:00+00:00",
+      "title": "Pershing Square: H1 2026 Contributors And Detractors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T01:22:57+00:00",
       "title": "Meta: Diminishing CapEx ROI Is Alarming (Rating Downgrade)",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T20:13:00+00:00",
       "title": "Bill Ackman's Pershing Square Has Delivered a 15.9% Annualized Return Since 2004, Beating the S&P 500 by Over 5 Points a Year. Can It Continue?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T20:10:57+00:00",
-      "title": "Meta taps skilled trades workers to power America’s AI infrastructure boom",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
