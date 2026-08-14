@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T16:29:47.019225+00:00",
+  "generated_at": "2026-08-14T17:32:04.932360+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 426.35,
-    "change_pct": -0.9616948128876368
+    "price": 426.09,
+    "change_pct": -1.0220911054844573
   },
   "risk": {
-    "score": 58,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:56:28.420799+00:00",
-      "close": 420.04
-    },
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 420.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T16:29:47.019225+00:00",
       "close": 426.35
+    },
+    {
+      "timestamp": "2026-08-14T17:32:04.932360+00:00",
+      "close": 426.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T12:43:09+00:00",
+      "title": "Softbank Decreases Stake In Taiwan Semiconductor Mfg Ltd By 72% To 565,000 Shares",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T16:54:42+00:00",
       "title": "After Calling Microsoft's Inflection Point, Here's What I See Coming Next",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T11:28:41+00:00",
       "title": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T10:07:52+00:00",
-      "title": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

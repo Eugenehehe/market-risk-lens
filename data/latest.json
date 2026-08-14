@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T16:29:47.019225+00:00",
+  "generated_at": "2026-08-14T17:32:04.932360+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 225.66,
-    "change_pct": 0.1597869507323546
+    "price": 225.2,
+    "change_pct": -0.044385264092328125
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:56:28.420799+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 223.96
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-14T16:29:47.019225+00:00",
       "close": 225.66
+    },
+    {
+      "timestamp": "2026-08-14T17:32:04.932360+00:00",
+      "close": 225.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T12:47:09+00:00",
+      "title": "Nebius: A Strong Quarter But Still Overvalued",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T11:39:46+00:00",
       "title": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-14T09:26:00+00:00",
       "title": "Warren Buffett's Successor, Greg Abel, Is About to Drop a Bombshell on Wall Street Later Today, Aug. 14",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:25:00+00:00",
-      "title": "SpaceX Stock Climbs Back Above Its $135 IPO Price -- Here's Where It Could Trade by August 2027",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:10:00+00:00",
-      "title": "WTV: An Accidental Dividend Growth ETF",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T16:29:47.019225+00:00",
+  "generated_at": "2026-08-14T17:32:04.932360+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 305.45,
-    "change_pct": 0.06224202319333738
+    "price": 305.21,
+    "change_pct": -0.016379479787720364
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:56:28.420799+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 313.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T16:29:47.019225+00:00",
       "close": 305.45
+    },
+    {
+      "timestamp": "2026-08-14T17:32:04.932360+00:00",
+      "close": 305.21
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T07:50:00+00:00",
       "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T06:45:14+00:00",
+      "title": "Apple opens new manufacturing facility in Texas: Here's what to know",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T21:50:44+00:00",
       "title": "Fidelity’s Contrafund, FCNTX, Bet Against the Crowd and Got Enormous Doing It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T21:20:00+00:00",
-      "title": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

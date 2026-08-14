@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T16:29:47.019225+00:00",
+  "generated_at": "2026-08-14T17:32:04.932360+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 730.11,
-    "change_pct": -0.2677339598672335
+    "price": 729.09,
+    "change_pct": -0.40706489816547675
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:56:28.420799+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 723.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T16:29:47.019225+00:00",
       "close": 730.11
+    },
+    {
+      "timestamp": "2026-08-14T17:32:04.932360+00:00",
+      "close": 729.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T12:36:09+00:00",
+      "title": "Getting Inflation Down To 2% Just Got Harder",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T11:27:14+00:00",
       "title": "Eventually Free Cash Flow Will Matter Again",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T09:07:33+00:00",
       "title": "The ‘Right Tail’ for Stocks Just Got Better: Here’s the Number Behind It",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:53:22+00:00",
-      "title": "A September Lull Followed By October Surprise In Advance Of Midterms",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

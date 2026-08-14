@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T16:29:47.019225+00:00",
+  "generated_at": "2026-08-14T17:32:04.932360+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 345.25,
-    "change_pct": -0.32047580552027055
+    "price": 344.79,
+    "change_pct": -0.45328559879893593
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:56:28.420799+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T16:29:47.019225+00:00",
       "close": 345.25
+    },
+    {
+      "timestamp": "2026-08-14T17:32:04.932360+00:00",
+      "close": 344.79
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T07:00:01+00:00",
+      "title": "Arm co-founder Hermann Hauser’s AI warning: The revolution is real, but so is the bubble risk",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T06:42:29+00:00",
       "title": "MSFT Could Emerge as Big Tech's Free Cash Flow King in 2027 While GOOGL, META Stay Negative: Analyst",
       "source": "Benzinga",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T06:11:14+00:00",
       "title": "Alphabet: This Is How YouTube Changes Business And Society",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T06:04:39+00:00",
-      "title": "Vornado, Related’s Chelsea Office Hits Special Servicing",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

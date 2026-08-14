@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T16:29:47.019225+00:00",
+  "generated_at": "2026-08-14T17:32:04.932360+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 964.15,
-    "change_pct": 1.507638208942641
+    "price": 962.35,
+    "change_pct": 1.3181306128465131
   },
   "risk": {
-    "score": 63,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T10:56:28.420799+00:00",
-      "close": 877.57
-    },
     {
       "timestamp": "2026-08-09T11:32:50.135567+00:00",
       "close": 877.57
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T16:29:47.019225+00:00",
       "close": 964.15
+    },
+    {
+      "timestamp": "2026-08-14T17:32:04.932360+00:00",
+      "close": 962.35
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-14T12:35:01+00:00",
       "title": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T12:12:53+00:00",
+      "title": "Sandisk: The Market Is Pricing A 30% Margin Against Management's 75%",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T11:02:19+00:00",
+      "title": "Micron and 15 Other Stocks To Play The AI Buildout Race: They Are Still 20% Below Highs",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-14T05:35:00+00:00",
       "title": "Allspring Large Cap Growth Fund Q2 2026 Performance Update",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:34:08+00:00",
-      "title": "What's Going On With Micron Technology Stock Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T02:03:00+00:00",
-      "title": "'Big Short' Michael Burry takes aim at surging AI stock",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
