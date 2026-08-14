@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:03:32.290801+00:00",
+  "generated_at": "2026-08-14T21:36:05.945419+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 150.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T15:12:18.976065+00:00",
-      "close": 147.02
-    },
     {
       "timestamp": "2026-08-09T15:48:06.969527+00:00",
       "close": 147.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T21:03:32.290801+00:00",
       "close": 150.52
+    },
+    {
+      "timestamp": "2026-08-14T21:36:05.945419+00:00",
+      "close": 150.52
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-14T19:05:01+00:00",
       "title": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T16:42:25+00:00",
+      "title": "Soros Fund Management Raises Share Stake In Oracle Corp By 29.7% To 738,395 Shares",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T15:40:30+00:00",
+      "title": "Oracle Posts On X \"Project Jupiter Remains On Schedule, And We Continue To Work Closely With Our Partners To Move The Project Forward\"",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T14:25:26+00:00",
+      "title": "'New Mexico Gas Pipeline for Oracle Data Center Delayed to 2027' - Bloomberg News",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-14T09:25:00+00:00",
       "title": "Computerized Maintenance Management System (CMMS) Market Analysis and Growth Forecast 2026-2032: AI and IoT Drive Predictive Maintenance Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:04:09+00:00",
-      "title": "Alithya Group Q1 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:59:14+00:00",
-      "title": "What's Going On With AMD Stock Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:30:00+00:00",
-      "title": "The Bulls and Bears Are at Each Other’s Throats. Why the Bulls Have an Advantage.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

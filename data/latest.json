@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:03:32.290801+00:00",
+  "generated_at": "2026-08-14T21:36:05.945419+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 225.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T15:12:18.976065+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-09T15:48:06.969527+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T21:03:32.290801+00:00",
       "close": 225.16
+    },
+    {
+      "timestamp": "2026-08-14T21:36:05.945419+00:00",
+      "close": 225.16
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-14T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Friday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T14:49:12+00:00",
+      "title": "5 AI Stocks with Strong Growth to Buy on the Rebound",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T12:47:09+00:00",
       "title": "Nebius: A Strong Quarter But Still Overvalued",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T12:44:12+00:00",
-      "title": "Trade Tracker: Bill Baruch buys more Nvidia",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
