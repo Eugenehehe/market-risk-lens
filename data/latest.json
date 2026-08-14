@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:56:42.018208+00:00",
+  "generated_at": "2026-08-14T22:28:08.602665+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 225.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T16:16:31.670719+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-09T16:59:20.746868+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T21:56:42.018208+00:00",
       "close": 225.16
+    },
+    {
+      "timestamp": "2026-08-14T22:28:08.602665+00:00",
+      "close": 225.16
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-14T18:05:00+00:00",
       "title": "Friday's session: most active stock in the S&P500 index",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T17:21:59+00:00",
+      "title": "Third Point Dissolves Share Stake In NVIDIA",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T16:50:35+00:00",
+      "title": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T16:49:49+00:00",
+      "title": "Nvidia Corp Reports Share Stake Of 122.8 Mln Class A Shares In SpaceX",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-14T13:42:50+00:00",
       "title": "Why Is Nebius Stock Surging Friday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:34:00+00:00",
-      "title": "The AI Compute Squeeze",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:30:11+00:00",
-      "title": "ChatGPT Holds The AI Crown As Gemini Slips And Claude Keeps Climbing",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T12:47:09+00:00",
-      "title": "Nebius: A Strong Quarter But Still Overvalued",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

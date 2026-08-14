@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:56:42.018208+00:00",
+  "generated_at": "2026-08-14T22:28:08.602665+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T16:16:31.670719+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-09T16:59:20.746868+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T21:56:42.018208+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-14T22:28:08.602665+00:00",
+      "close": 345.9
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T19:10:06+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T17:26:36+00:00",
+      "title": "Third Point Raises Share Stake In Alphabet To 1M Class A Capital Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,49 +530,41 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T13:45:00+00:00",
-      "title": "Why Is Everyone Building Compute?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:34:00+00:00",
-      "title": "The AI Compute Squeeze",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:30:11+00:00",
-      "title": "ChatGPT Holds The AI Crown As Gemini Slips And Claude Keeps Climbing",
+      "timestamp": "2026-08-14T16:44:56+00:00",
+      "title": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T08:45:41+00:00",
-      "title": "Meta Has $27 Billion That Isn't On Its Balance Sheet",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-14T16:38:07+00:00",
+      "title": "Coatue Management Raises Share Stake In Alphabet By 12.6% To 4.9M Class A Capital Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T08:35:00+00:00",
-      "title": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028",
-      "source": "Yahoo",
+      "timestamp": "2026-08-14T16:27:42+00:00",
+      "title": "Lone Pine Capital Raises Share Stake In Alphabet  By 14.9% To 215,574 Class A Capital Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T07:50:00+00:00",
-      "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-      "source": "Yahoo",
+      "timestamp": "2026-08-14T16:25:05+00:00",
+      "title": "Viking Global Investors Dissolves Class A Capital Stock Stake In Alphabet Inc",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T16:20:57+00:00",
+      "title": "Berkshire Hathaway Raises Share Stake In Alphabet  To 27.2M Class C Capital Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

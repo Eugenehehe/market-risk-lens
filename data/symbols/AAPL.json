@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:56:42.018208+00:00",
+  "generated_at": "2026-08-14T22:28:08.602665+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 305.93,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T16:16:31.670719+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-09T16:59:20.746868+00:00",
       "close": 313.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T21:56:42.018208+00:00",
       "close": 305.93
+    },
+    {
+      "timestamp": "2026-08-14T22:28:08.602665+00:00",
+      "close": 305.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T16:44:56+00:00",
+      "title": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T14:36:21+00:00",
       "title": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here’s How Many Still Do",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T05:58:38+00:00",
       "title": "Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:35:43+00:00",
-      "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
