@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T19:31:07.884821+00:00",
+  "generated_at": "2026-08-14T20:05:44.440322+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 776.21,
-    "change_pct": -0.21468606983081617
+    "price": 776.34,
+    "change_pct": -0.1979739805625491
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T13:08:05.497077+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-09T13:57:10.140663+00:00",
       "close": 773.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T19:31:07.884821+00:00",
       "close": 776.21
+    },
+    {
+      "timestamp": "2026-08-14T20:05:44.440322+00:00",
+      "close": 776.34
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-14T13:10:00+00:00",
       "title": "July Inflation Rises, But Weakening Labor Complicates Fed's Choice",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T12:55:46+00:00",
+      "title": "Forget Bitcoin, S&P 500: Pokémon Cards Are Up 28% In 2026 and Beating Them Both",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T10:24:10+00:00",
       "title": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T10:06:35+00:00",
-      "title": "'Bessent Asked to Justify Yen Intervention in Letter from Warren' - Bloomberg",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

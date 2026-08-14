@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T19:31:07.884821+00:00",
+  "generated_at": "2026-08-14T20:05:44.440322+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 490.72,
-    "change_pct": -0.7664152393278112
+    "price": 490.81,
+    "change_pct": -0.7482154051485335
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T13:08:05.497077+00:00",
-      "close": 453.77
-    },
     {
       "timestamp": "2026-08-09T13:57:10.140663+00:00",
       "close": 453.77
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T19:31:07.884821+00:00",
       "close": 490.72
+    },
+    {
+      "timestamp": "2026-08-14T20:05:44.440322+00:00",
+      "close": 490.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T11:07:10+00:00",
+      "title": "Wells Fargo Maintains Overweight on Dell Technologies, Raises Price Target to $545",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T04:52:20+00:00",
       "title": "Silver Lake's Workday Buyout Talks Could Be the First 'SaaSpocalypse' Opportunity: Analyst Says 'You've Got Data, You've Got Distribution, You're Still Gonna Win'",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T18:40:35+00:00",
       "title": "Dell Rallies 2% After Lenovo's AI Server Pipeline Hits $54 Billion, Fueling Nvidia Demand Optimism",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T17:49:59+00:00",
-      "title": "Super Micro Stock Extends Rally After Blockbuster Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
