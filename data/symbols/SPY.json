@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:47:20.478694+00:00",
+  "generated_at": "2026-08-14T10:43:25.653132+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 777.88,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T05:16:46.767000+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-09T06:03:20.322267+00:00",
       "close": 773.26
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-14T09:47:20.478694+00:00",
       "close": 777.88
+    },
+    {
+      "timestamp": "2026-08-14T10:43:25.653132+00:00",
+      "close": 777.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T10:03:45+00:00",
+      "title": "Breadth Broadens Further as IWM Joins the Breakout",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T10:01:00+00:00",
+      "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T03:25:00+00:00",
       "title": "As Older Workers Retire, Labor Costs Ease",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-13T22:59:21+00:00",
       "title": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation — WDAY, SNDK, AMD, DELL, HTZ In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T21:50:44+00:00",
-      "title": "Fidelity’s Contrafund, FCNTX, Bet Against the Crowd and Got Enormous Doing It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T20:55:00+00:00",
-      "title": "Producer Price Index: Flat, At Lowest Level In 4 Months",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
