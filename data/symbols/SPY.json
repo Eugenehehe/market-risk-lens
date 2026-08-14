@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:46:36.250546+00:00",
+  "generated_at": "2026-08-14T15:37:28.670532+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 777.19,
-    "change_pct": -0.08870262765464654
+    "price": 776.21,
+    "change_pct": -0.21468606983081617
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T09:43:26.380737+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-09T10:16:46.986931+00:00",
       "close": 773.26
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-14T14:46:36.250546+00:00",
       "close": 777.19
+    },
+    {
+      "timestamp": "2026-08-14T15:37:28.670532+00:00",
+      "close": 776.21
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-14T10:30:00+00:00",
+      "title": "Calm Economic News Continues To Soothe The Markets",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T10:24:10+00:00",
       "title": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T10:06:35+00:00",
+      "title": "'Bessent Asked to Justify Yen Intervention in Letter from Warren' - Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T09:56:06+00:00",
+      "title": "The Warsh Rate-Hike Trade Just Collapsed: What It Means for Markets",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T09:50:00+00:00",
       "title": "S&P 500 Vs. TSX - Which Leads Next?",
       "source": "SeekingAlpha",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-14T09:48:16+00:00",
       "title": "Mark Cuban Wants Investors Out of Health Insurers. That’s Tough If You Own These ETFs",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T09:10:00+00:00",
-      "title": "WTV: An Accidental Dividend Growth ETF",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:53:22+00:00",
-      "title": "A September Lull Followed By October Surprise In Advance Of Midterms",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:34:26+00:00",
-      "title": "Stock Market Today: Dow Jones Futures Slip, S&P 500, Nasdaq 100 Gains as US Says it Can Maintain Iran Blockade 'Indefinitely'—SanDisk, Workday, Applied Materials in Focus (UPDATED)",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:46:36.250546+00:00",
+  "generated_at": "2026-08-14T15:37:28.670532+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 264.05,
-    "change_pct": -0.40734733904121967
+    "price": 263.77,
+    "change_pct": -0.5129559084222857
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T09:43:26.380737+00:00",
-      "close": 274.48
-    },
     {
       "timestamp": "2026-08-09T10:16:46.986931+00:00",
       "close": 274.48
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T14:46:36.250546+00:00",
       "close": 264.05
+    },
+    {
+      "timestamp": "2026-08-14T15:37:28.670532+00:00",
+      "close": 263.77
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T08:34:16+00:00",
+      "title": "Jim Cramer Says Buy Carpenter Technology, Calls This IT Services Stock a 'Value Trap'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T07:50:00+00:00",
       "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T05:00:00+00:00",
       "title": "Uber Stock Looks Cheap. Here’s Why.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T04:52:20+00:00",
-      "title": "Silver Lake's Workday Buyout Talks Could Be the First 'SaaSpocalypse' Opportunity: Analyst Says 'You've Got Data, You've Got Distribution, You're Still Gonna Win'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

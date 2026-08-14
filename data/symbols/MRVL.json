@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:46:36.250546+00:00",
+  "generated_at": "2026-08-14T15:37:28.670532+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 220.8,
-    "change_pct": -0.6211180124223614
+    "price": 218.65,
+    "change_pct": -1.5888018723557495
   },
   "risk": {
-    "score": 55,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T09:43:26.380737+00:00",
-      "close": 218.72
-    },
     {
       "timestamp": "2026-08-09T10:16:46.986931+00:00",
       "close": 218.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T14:46:36.250546+00:00",
       "close": 220.8
+    },
+    {
+      "timestamp": "2026-08-14T15:37:28.670532+00:00",
+      "close": 218.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T08:33:13+00:00",
+      "title": "Why Is Reddit Stock Surging on Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-13T23:12:27+00:00",
       "title": "Marvell (MRVL) Stock Trades At A Premium After A 290% Run",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-13T17:35:40+00:00",
       "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T16:47:00+00:00",
-      "title": "Down 37% From Its Highs, Is Marvell Technology Stock a Buy on the Dip?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

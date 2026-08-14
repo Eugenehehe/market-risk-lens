@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T14:46:36.250546+00:00",
+  "generated_at": "2026-08-14T15:37:28.670532+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 731.25,
-    "change_pct": -0.11201114647506616
+    "price": 728.81,
+    "change_pct": -0.44531260671795136
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T09:43:26.380737+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-09T10:16:46.986931+00:00",
       "close": 723.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T14:46:36.250546+00:00",
       "close": 731.25
+    },
+    {
+      "timestamp": "2026-08-14T15:37:28.670532+00:00",
+      "close": 728.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T10:30:00+00:00",
+      "title": "Calm Economic News Continues To Soothe The Markets",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T10:24:10+00:00",
       "title": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
@@ -522,9 +530,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T09:56:06+00:00",
+      "title": "The Warsh Rate-Hike Trade Just Collapsed: What It Means for Markets",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T09:50:00+00:00",
       "title": "S&P 500 Vs. TSX - Which Leads Next?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T09:07:33+00:00",
+      "title": "The ‘Right Tail’ for Stocks Just Got Better: Here’s the Number Behind It",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T08:34:26+00:00",
-      "title": "Stock Market Today: Dow Jones Futures Slip, S&P 500, Nasdaq 100 Gains as US Says it Can Maintain Iran Blockade 'Indefinitely'—SanDisk, Workday, Applied Materials in Focus (UPDATED)",
+      "timestamp": "2026-08-14T08:41:42+00:00",
+      "title": "Economist Justin Wolfers Challenges Scott Bessent on K-Shaped Economy: 'Be a Little More Honest' (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:10:00+00:00",
-      "title": "Inflection Points: Mapping The Midterms",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:30:32+00:00",
-      "title": "Could Trump Cut Capital Gains Tax?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:30:00+00:00",
-      "title": "This May Be One Of My Favorite Markets Ever",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
