@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T18:28:34.729603+00:00",
+  "generated_at": "2026-08-14T19:31:07.884821+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 306.1,
-    "change_pct": 0.2751752604337465
+    "price": 305.97,
+    "change_pct": 0.23258861298567357
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:59:09.546275+00:00",
-      "close": 313.33
-    },
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 313.33
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-14T18:28:34.729603+00:00",
       "close": 306.1
+    },
+    {
+      "timestamp": "2026-08-14T19:31:07.884821+00:00",
+      "close": 305.97
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-14T14:36:21+00:00",
+      "title": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here’s How Many Still Do",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T11:21:08+00:00",
       "title": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T10:57:56+00:00",
+      "title": "Apple has Biggest Streaming Hit Ever: How ‘Ted Lasso’ Could Help Company’s Undervalued Segment",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T05:58:38+00:00",
+      "title": "Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T05:35:43+00:00",
       "title": "Broadcom: XPU Growth Trajectory Underestimated, Stock A Bargain",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T02:07:49+00:00",
-      "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T01:17:00+00:00",
-      "title": "Apple’s next iPhone battle just got more complicated",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T22:13:22+00:00",
-      "title": "How Apple’s New Houston AI Manufacturing Hub Could Reshape the AAPL Investment Narrative",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

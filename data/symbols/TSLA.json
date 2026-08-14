@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T18:28:34.729603+00:00",
+  "generated_at": "2026-08-14T19:31:07.884821+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 342.31,
-    "change_pct": 0.6912577950347165
+    "price": 341.89,
+    "change_pct": 0.5677138486880784
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:59:09.546275+00:00",
-      "close": 328.58
-    },
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 328.58
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-14T18:28:34.729603+00:00",
       "close": 342.31
+    },
+    {
+      "timestamp": "2026-08-14T19:31:07.884821+00:00",
+      "close": 341.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T18:05:00+00:00",
+      "title": "Friday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T14:36:21+00:00",
+      "title": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here’s How Many Still Do",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:35:24+00:00",
+      "title": "10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T12:05:22+00:00",
       "title": "Tesla Preps SpaceX Rocket-Powered Flying Roadster Demo",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-14T08:01:18+00:00",
       "title": "Sen. Rand Paul Visited Fort Knox and Confirmed, 'Yes, the Gold Is There.' He Says the Bigger Lesson Is What It Means in 2026",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:50:00+00:00",
-      "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T07:30:32+00:00",
-      "title": "Could Trump Cut Capital Gains Tax?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T05:00:00+00:00",
-      "title": "Uber Stock Looks Cheap. Here’s Why.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

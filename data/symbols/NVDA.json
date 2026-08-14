@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T18:28:34.729603+00:00",
+  "generated_at": "2026-08-14T19:31:07.884821+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 224.77,
-    "change_pct": -0.2352418996893091
+    "price": 225.24,
+    "change_pct": -0.026631158455392434
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:59:09.546275+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 223.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T18:28:34.729603+00:00",
       "close": 224.77
+    },
+    {
+      "timestamp": "2026-08-14T19:31:07.884821+00:00",
+      "close": 225.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T18:05:00+00:00",
+      "title": "Friday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Friday?",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-14T13:45:00+00:00",
       "title": "Why Is Everyone Building Compute?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T13:42:50+00:00",
+      "title": "Why Is Nebius Stock Surging Friday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-14T12:44:12+00:00",
       "title": "Trade Tracker: Bill Baruch buys more Nvidia",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T11:39:46+00:00",
-      "title": "Nebius' Long-Term Prospects Are Nebulous Despite $40 Bln Backlog",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T11:28:50+00:00",
-      "title": "SpaceX Closes $60 Billion Cursor Deal: Here's Why This Could Turn Elon Musk's AI Ambitions Into Reality",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

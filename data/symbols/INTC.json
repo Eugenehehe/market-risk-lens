@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T18:28:34.729603+00:00",
+  "generated_at": "2026-08-14T19:31:07.884821+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 102.67,
-    "change_pct": -1.8075745983167524
+    "price": 103.15,
+    "change_pct": -1.3485080336648747
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T11:59:09.546275+00:00",
-      "close": 101.65
-    },
     {
       "timestamp": "2026-08-09T13:08:05.497077+00:00",
       "close": 101.65
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-14T18:28:34.729603+00:00",
       "close": 102.67
+    },
+    {
+      "timestamp": "2026-08-14T19:31:07.884821+00:00",
+      "close": 103.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T18:05:00+00:00",
+      "title": "Friday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T18:00:00+00:00",
+      "title": "Friday's session: most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T11:27:14+00:00",
       "title": "Eventually Free Cash Flow Will Matter Again",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-13T20:07:53+00:00",
       "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T18:17:23+00:00",
-      "title": "Intel Stock Jumps as Bank of America Sees Bigger CPU Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T18:05:01+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
