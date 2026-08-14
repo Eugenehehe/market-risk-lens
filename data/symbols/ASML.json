@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:25:21.874623+00:00",
+  "generated_at": "2026-08-14T13:53:18.444651+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1847.9,
-    "change_pct": 2.0899744208787485
+    "price": 1849.35,
+    "change_pct": 0.07846744953730056
   },
   "risk": {
-    "score": 67,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T08:02:16.784088+00:00",
-      "close": 1740.99
-    },
     {
       "timestamp": "2026-08-09T08:56:30.458965+00:00",
       "close": 1740.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-14T12:25:21.874623+00:00",
       "close": 1847.9
+    },
+    {
+      "timestamp": "2026-08-14T13:53:18.444651+00:00",
+      "close": 1849.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-14T12:07:08+00:00",
+      "title": "Semiconductor Equipment Rally Tests Its Breadth as High-Growth Names Surge Ahead of ASML, Lam Earnings",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T08:58:40+00:00",
       "title": "Applied Materials slips as investors seek faster growth after stellar run",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-12T15:43:40+00:00",
       "title": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T15:05:00+00:00",
-      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

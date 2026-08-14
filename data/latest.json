@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T12:25:21.874623+00:00",
+  "generated_at": "2026-08-14T13:53:18.444651+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 225.3,
-    "change_pct": 0.5399616225623571
+    "price": 225.74,
+    "change_pct": 0.19529516200620378
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T08:02:16.784088+00:00",
-      "close": 223.96
-    },
     {
       "timestamp": "2026-08-09T08:56:30.458965+00:00",
       "close": 223.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T12:25:21.874623+00:00",
       "close": 225.3
+    },
+    {
+      "timestamp": "2026-08-14T13:53:18.444651+00:00",
+      "close": 225.74
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T09:10:00+00:00",
+      "title": "WTV: An Accidental Dividend Growth ETF",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T09:09:00+00:00",
       "title": "Here's the 1 Thing Every Dividend Investor Should Know About Building Passive Income That Lasts a Lifetime",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T08:50:00+00:00",
       "title": "Everyone Thinks Crypto Is Over. Here's Why They're Wrong.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:35:00+00:00",
-      "title": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
