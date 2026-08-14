@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:03:49.911526+00:00",
+  "generated_at": "2026-08-14T02:40:05.669865+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 777.88,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-08T22:51:50.822334+00:00",
-      "close": 773.26
-    },
     {
       "timestamp": "2026-08-08T23:19:27.310954+00:00",
       "close": 773.26
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-14T00:03:49.911526+00:00",
       "close": 777.88
+    },
+    {
+      "timestamp": "2026-08-14T02:40:05.669865+00:00",
+      "close": 777.88
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-13T22:59:21+00:00",
+      "title": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation — WDAY, SNDK, AMD, DELL, HTZ In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-13T21:50:44+00:00",
       "title": "Fidelity’s Contrafund, FCNTX, Bet Against the Crowd and Got Enormous Doing It",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-13T20:55:00+00:00",
+      "title": "Producer Price Index: Flat, At Lowest Level In 4 Months",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-13T16:36:53+00:00",
-      "title": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T16:18:40+00:00",
-      "title": "The Next Leg Of The Bull Run Is Priced In Oil Barrels",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T15:50:00+00:00",
-      "title": "The Broad Market ETF That Belongs in Almost Every Passive Investor's Portfolio",
-      "source": "Yahoo",
+      "timestamp": "2026-08-13T17:23:06+00:00",
+      "title": "'Trump Orders Navy To Restore Old Technology In Aircraft Carriers, Costing Billions; The Navy Spent Years Fighting The President’s Push To Go Back To Steam Catapults' - WSJ Exclusive",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
