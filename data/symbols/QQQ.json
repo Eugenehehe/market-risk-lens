@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:57:21.061373+00:00",
+  "generated_at": "2026-08-15T06:48:37.146194+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 731.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T00:04:54.742544+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-10T02:30:13.381879+00:00",
       "close": 723.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 731.07
+    },
+    {
+      "timestamp": "2026-08-15T06:48:37.146194+00:00",
+      "close": 731.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-15T02:20:00+00:00",
+      "title": "What Is The Economy Really Telling Us?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T16:33:00+00:00",
       "title": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T11:21:08+00:00",
       "title": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T10:30:00+00:00",
-      "title": "Calm Economic News Continues To Soothe The Markets",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
