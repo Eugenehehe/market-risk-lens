@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:19:09.317819+00:00",
+  "generated_at": "2026-08-15T21:40:18.947455+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 225.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-11T16:10:15.269136+00:00",
-      "close": 218.44
-    },
     {
       "timestamp": "2026-08-11T17:12:43.905207+00:00",
       "close": 217.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T21:19:09.317819+00:00",
       "close": 225.16
+    },
+    {
+      "timestamp": "2026-08-15T21:40:18.947455+00:00",
+      "close": 225.16
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-15T17:11:48+00:00",
       "title": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T17:10:30+00:00",
+      "title": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-15T16:12:00+00:00",
       "title": "Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T16:11:00+00:00",
-      "title": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
