@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:40:10.391335+00:00",
+  "generated_at": "2026-08-15T17:57:41.354994+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 225.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-11T06:38:51.159972+00:00",
-      "close": 217.55
-    },
     {
       "timestamp": "2026-08-11T07:54:35.642508+00:00",
       "close": 217.55
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-15T17:40:10.391335+00:00",
       "close": 225.16
+    },
+    {
+      "timestamp": "2026-08-15T17:57:41.354994+00:00",
+      "close": 225.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-15T12:51:20+00:00",
+      "title": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-15T09:51:55+00:00",
       "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T17:21:59+00:00",
       "title": "Third Point Dissolves Share Stake In NVIDIA",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:50:35+00:00",
-      "title": "Nvidia's Stake In SpaceX Valued At About $21 Bln",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
