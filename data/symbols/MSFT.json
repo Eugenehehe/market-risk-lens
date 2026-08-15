@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:45:25.861167+00:00",
+  "generated_at": "2026-08-15T09:11:00.968103+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 495.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T08:46:33.222259+00:00",
-      "close": 499.99
-    },
     {
       "timestamp": "2026-08-10T10:04:07.252651+00:00",
       "close": 499.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-15T08:45:25.861167+00:00",
       "close": 495.4
+    },
+    {
+      "timestamp": "2026-08-15T09:11:00.968103+00:00",
+      "close": 495.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-15T04:55:05+00:00",
+      "title": "Microsoft: AI CapEx Is A Good Problem To Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T18:32:16+00:00",
       "title": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T13:45:00+00:00",
       "title": "Why Is Everyone Building Compute?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:42:57+00:00",
-      "title": "Grok 4.6 Launches In GitHub Copilot",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
