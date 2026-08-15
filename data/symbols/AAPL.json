@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:40:27.417431+00:00",
+  "generated_at": "2026-08-15T15:57:00.303442+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 305.93,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T23:55:16.813458+00:00",
-      "close": 308.26
-    },
     {
       "timestamp": "2026-08-11T01:46:46.535781+00:00",
       "close": 308.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T15:40:27.417431+00:00",
       "close": 305.93
+    },
+    {
+      "timestamp": "2026-08-15T15:57:00.303442+00:00",
+      "close": 305.93
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-15T12:05:51+00:00",
       "title": "Alphabet Is Berkshire Hathaway’s New Favorite Stock After Buying 48 Million Shares",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T21:46:00+00:00",
       "title": "Berkshire Hathaway Boosted Alphabet, Delta Stakes in 2nd Quarter, Sold Bank of America",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T21:00:15+00:00",
-      "title": "Databricks vs Snowflake: Analyst explains key differences in AI platforms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

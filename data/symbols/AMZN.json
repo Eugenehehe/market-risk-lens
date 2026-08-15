@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:40:27.417431+00:00",
+  "generated_at": "2026-08-15T15:57:00.303442+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 262.65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T23:55:16.813458+00:00",
-      "close": 278.09
-    },
     {
       "timestamp": "2026-08-11T01:46:46.535781+00:00",
       "close": 278.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T15:40:27.417431+00:00",
       "close": 262.65
+    },
+    {
+      "timestamp": "2026-08-15T15:57:00.303442+00:00",
+      "close": 262.65
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-15T11:00:00+00:00",
       "title": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T04:44:40+00:00",
+      "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-14T15:49:54+00:00",
       "title": "Josh Kushner's Thrive Capital Owns Nearly 1 Million Amazon Shares",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:45:00+00:00",
-      "title": "Why Is Everyone Building Compute?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:41:42+00:00",
-      "title": "Governor Abbott Announces Amazon, Lancium And Cipher Digital Commit To Comply With His Data Center Standards",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

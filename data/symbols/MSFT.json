@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:40:27.417431+00:00",
+  "generated_at": "2026-08-15T15:57:00.303442+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 495.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T23:55:16.813458+00:00",
-      "close": 506.06
-    },
     {
       "timestamp": "2026-08-11T01:46:46.535781+00:00",
       "close": 506.06
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T15:40:27.417431+00:00",
       "close": 495.4
+    },
+    {
+      "timestamp": "2026-08-15T15:57:00.303442+00:00",
+      "close": 495.4
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-15T11:00:00+00:00",
       "title": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T09:51:55+00:00",
+      "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-14T20:01:53+00:00",
+      "title": "'Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center' - WSJ Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-14T18:32:16+00:00",
       "title": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
       "source": "Benzinga",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-14T18:01:17+00:00",
       "title": "Dividend Champion, Contender, And Challenger Highlights: Week August 16",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T17:17:21+00:00",
-      "title": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:37:53+00:00",
-      "title": "Soros Fund Management Cuts Share Stake In Microsoft Corp By 10.4% To 189,971 Shares",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
