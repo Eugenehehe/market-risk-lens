@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:16:31.383252+00:00",
+  "generated_at": "2026-08-15T13:46:18.420275+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T19:33:50.023417+00:00",
-      "close": 355.14
-    },
     {
       "timestamp": "2026-08-10T20:19:15.180491+00:00",
       "close": 357.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-15T13:16:31.383252+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-15T13:46:18.420275+00:00",
+      "close": 345.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-15T09:00:00+00:00",
+      "title": "Alphabet: The CapEx 'Tantrum' Feels Wrong",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T21:42:05+00:00",
       "title": "Tracking Berkshire Hathaway Portfolio - Q2 2026 Update",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T16:38:07+00:00",
       "title": "Coatue Management Raises Share Stake In Alphabet By 12.6% To 4.9M Class A Capital Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:27:42+00:00",
-      "title": "Lone Pine Capital Raises Share Stake In Alphabet  By 14.9% To 215,574 Class A Capital Stock",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

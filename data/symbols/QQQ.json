@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:16:31.383252+00:00",
+  "generated_at": "2026-08-15T13:46:18.420275+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 731.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T19:33:50.023417+00:00",
-      "close": 721.84
-    },
     {
       "timestamp": "2026-08-10T20:19:15.180491+00:00",
       "close": 720.87
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-15T13:16:31.383252+00:00",
       "close": 731.07
+    },
+    {
+      "timestamp": "2026-08-15T13:46:18.420275+00:00",
+      "close": 731.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-15T09:00:00+00:00",
+      "title": "Waiting For The August 18 Fed Print",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-15T08:00:00+00:00",
       "title": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T16:33:00+00:00",
       "title": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T15:25:18+00:00",
-      "title": "Gina Rinehart Makes SpaceX Her Biggest U.S. Bet—ETFs Offer Investors Another Route In",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
