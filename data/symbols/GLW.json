@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T23:40:46.645105+00:00",
+  "generated_at": "2026-08-15T00:00:08.052554+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 165.99,
     "change_pct": 4.699129557209547
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T18:57:05.716832+00:00",
-      "close": 165.68
-    },
     {
       "timestamp": "2026-08-09T19:37:53.873288+00:00",
       "close": 165.68
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T23:40:46.645105+00:00",
       "close": 165.99
+    },
+    {
+      "timestamp": "2026-08-15T00:00:08.052554+00:00",
+      "close": 165.99
     }
   ],
   "events": [
@@ -541,30 +541,6 @@
       "timestamp": "2026-08-13T00:50:02+00:00",
       "title": "Corning Incorporated: Well-Positioned AI Infrastructure Play",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T21:08:00+00:00",
-      "title": "SpaceX, Nebius, Palantir, Super Micro, Quantinuum, Wendy’s, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T17:22:27+00:00",
-      "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T17:17:22+00:00",
-      "title": "Why Corning (GLW) Stock Is Trading Lower Today",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

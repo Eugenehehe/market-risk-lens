@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:40:46.645105+00:00",
+  "generated_at": "2026-08-15T00:00:08.052554+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T18:57:05.716832+00:00",
-      "close": 354.3
-    },
     {
       "timestamp": "2026-08-09T19:37:53.873288+00:00",
       "close": 354.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T23:40:46.645105+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-15T00:00:08.052554+00:00",
+      "close": 345.9
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T19:10:06+00:00",
       "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T18:32:16+00:00",
+      "title": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T16:25:05+00:00",
       "title": "Viking Global Investors Dissolves Class A Capital Stock Stake In Alphabet Inc",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:20:57+00:00",
-      "title": "Berkshire Hathaway Raises Share Stake In Alphabet  To 27.2M Class C Capital Stock",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:40:46.645105+00:00",
+  "generated_at": "2026-08-15T00:00:08.052554+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 731.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T18:57:05.716832+00:00",
-      "close": 723.03
-    },
     {
       "timestamp": "2026-08-09T19:37:53.873288+00:00",
       "close": 723.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T23:40:46.645105+00:00",
       "close": 731.07
+    },
+    {
+      "timestamp": "2026-08-15T00:00:08.052554+00:00",
+      "close": 731.07
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-14T16:33:00+00:00",
       "title": "Fed Trapped Between Cracking Labor And Sticky Prices: The September Reckoning",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T15:25:18+00:00",
+      "title": "Gina Rinehart Makes SpaceX Her Biggest U.S. Bet—ETFs Offer Investors Another Route In",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T10:30:00+00:00",
       "title": "Calm Economic News Continues To Soothe The Markets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T10:24:10+00:00",
-      "title": "Surging 30 Year Bond Yields And Dwindling Social Security Will Force A Reckoning",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T23:40:46.645105+00:00",
+  "generated_at": "2026-08-15T00:00:08.052554+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1844.08,
     "change_pct": -0.20672114291899746
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 48,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T18:57:05.716832+00:00",
-      "close": 1740.99
-    },
     {
       "timestamp": "2026-08-09T19:37:53.873288+00:00",
       "close": 1740.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T23:40:46.645105+00:00",
       "close": 1844.08
+    },
+    {
+      "timestamp": "2026-08-15T00:00:08.052554+00:00",
+      "close": 1844.08
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-08-13T03:30:00+00:00",
       "title": "What's Up With Tech?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T17:14:41+00:00",
-      "title": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-12T15:43:40+00:00",
-      "title": "SK Hynix, Samsung Stocks Rally as Singapore State Fund Adds Stakes on Memory Giants",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

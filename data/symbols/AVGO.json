@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:40:46.645105+00:00",
+  "generated_at": "2026-08-15T00:00:08.052554+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 392.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-09T18:57:05.716832+00:00",
-      "close": 427.76
-    },
     {
       "timestamp": "2026-08-09T19:37:53.873288+00:00",
       "close": 427.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-14T23:40:46.645105+00:00",
       "close": 392.99
+    },
+    {
+      "timestamp": "2026-08-15T00:00:08.052554+00:00",
+      "close": 392.99
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-14T19:05:01+00:00",
       "title": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T17:30:04+00:00",
+      "title": "Third Point Dissolves Share Stake In Broadcom",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-14T16:36:28+00:00",
+      "title": "Soros Fund Management Raises Share Stake In Broadcom By 6.5% To 165,246 Shares",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-14T13:08:42+00:00",
       "title": "Broadcom Plunges 5% as Its AI Boom Faces a $370 Billion Financing Question",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T11:22:31+00:00",
-      "title": "Broadcom (NASDAQ:AVGO) Combines Strong Growth Fundamentals with a Bull Flag Technical Setup",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T08:35:00+00:00",
-      "title": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
