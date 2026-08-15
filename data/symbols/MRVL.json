@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:31:42.239517+00:00",
+  "generated_at": "2026-08-15T10:53:23.257876+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 222.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-10T13:38:29.956858+00:00",
-      "close": 219.32
-    },
     {
       "timestamp": "2026-08-10T14:42:52.203257+00:00",
       "close": 218.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-15T10:31:42.239517+00:00",
       "close": 222.02
+    },
+    {
+      "timestamp": "2026-08-15T10:53:23.257876+00:00",
+      "close": 222.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-15T06:37:52+00:00",
+      "title": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-14T14:49:12+00:00",
       "title": "5 AI Stocks with Strong Growth to Buy on the Rebound",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-13T18:35:00+00:00",
       "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T18:17:29+00:00",
-      "title": "Reddit Stock Pops on Long-Awaited S&P 500 Inclusion",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
