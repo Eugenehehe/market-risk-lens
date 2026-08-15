@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:17:38.435007+00:00",
+  "generated_at": "2026-08-15T17:40:10.391335+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 342.27,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-11T05:43:10.857626+00:00",
-      "close": 330.88
-    },
     {
       "timestamp": "2026-08-11T06:38:51.159972+00:00",
       "close": 330.88
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T17:17:38.435007+00:00",
       "close": 342.27
+    },
+    {
+      "timestamp": "2026-08-15T17:40:10.391335+00:00",
+      "close": 342.27
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-15T09:51:55+00:00",
       "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T08:00:01+00:00",
+      "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T08:00:01+00:00",
+      "title": "How the auto industry is trying to make software-defined vehicles last",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-14T14:36:21+00:00",
       "title": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here’s How Many Still Do",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:35:24+00:00",
-      "title": "10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T12:28:16+00:00",
-      "title": "What's Going On With Tesla Stock Today?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

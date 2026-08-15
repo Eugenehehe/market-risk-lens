@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:17:38.435007+00:00",
+  "generated_at": "2026-08-15T17:40:10.391335+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-11T05:43:10.857626+00:00",
-      "close": 357.52
-    },
     {
       "timestamp": "2026-08-11T06:38:51.159972+00:00",
       "close": 357.52
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T17:17:38.435007+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-15T17:40:10.391335+00:00",
+      "close": 345.9
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-15T09:00:00+00:00",
       "title": "Alphabet: The CapEx 'Tantrum' Feels Wrong",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-15T08:50:41+00:00",
+      "title": "Berkshire adds $17 billion to Alphabet stake",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-14T17:26:36+00:00",
       "title": "Third Point Raises Share Stake In Alphabet To 1M Class A Capital Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T17:17:21+00:00",
-      "title": "'Anthropic Revenue Surges to Over $11.5B in Second Quarter'- Bloomberg",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
