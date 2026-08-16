@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:12:17.408906+00:00",
+  "generated_at": "2026-08-16T11:35:29.160290+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 392.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-12T20:26:08.350302+00:00",
-      "close": 416.05
-    },
     {
       "timestamp": "2026-08-12T21:20:53.182518+00:00",
       "close": 416.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-16T11:12:17.408906+00:00",
       "close": 392.99
+    },
+    {
+      "timestamp": "2026-08-16T11:35:29.160290+00:00",
+      "close": 392.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-16T07:00:00+00:00",
+      "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-15T08:10:00+00:00",
       "title": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T14:35:01+00:00",
       "title": "Gapping S&P500 stocks in Friday's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:45:00+00:00",
-      "title": "Why Is Everyone Building Compute?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
