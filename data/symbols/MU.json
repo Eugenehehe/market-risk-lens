@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:57:23.945602+00:00",
+  "generated_at": "2026-08-16T10:29:19.291322+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 971.66,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-12T17:40:58.799636+00:00",
-      "close": 931.88
-    },
     {
       "timestamp": "2026-08-12T18:37:19.582184+00:00",
       "close": 925.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-16T09:57:23.945602+00:00",
       "close": 971.66
+    },
+    {
+      "timestamp": "2026-08-16T10:29:19.291322+00:00",
+      "close": 971.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-16T05:52:00+00:00",
+      "title": "Micron: I Think We Could Get An Upside Breakout",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-15T17:21:19+00:00",
       "title": "Micron Stock Stages Cautious Recovery as Key Metrics Point to More Upside",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-14T17:38:05+00:00",
       "title": "'Fast Money' traders talk stock moves in Sandisk and Micron",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:45:00+00:00",
-      "title": "Why Is Everyone Building Compute?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
