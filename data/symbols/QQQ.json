@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:08:53.014816+00:00",
+  "generated_at": "2026-08-16T14:37:37.981634+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 731.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-13T03:33:15.365384+00:00",
-      "close": 723.7
-    },
     {
       "timestamp": "2026-08-13T05:20:57.545635+00:00",
       "close": 723.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-16T14:08:53.014816+00:00",
       "close": 731.07
+    },
+    {
+      "timestamp": "2026-08-16T14:37:37.981634+00:00",
+      "close": 731.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-16T09:55:00+00:00",
+      "title": "The S&P 500 May Be Heading For A Major Volatility Shift This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-16T08:40:00+00:00",
       "title": "Record Highs: Should You Chase The Rally?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-15T08:00:00+00:00",
       "title": "Weekly Indicators: An Inflationary Expansion, Beware The Bearish Steepening Of Bond Yields",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T07:59:12+00:00",
-      "title": "The Treasury Is Caught In Its Own Trap",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
