@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-15T23:52:51.592059+00:00",
+  "generated_at": "2026-08-16T00:56:44.444809+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 222.02,
     "change_pct": -0.07201368259969199
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 41,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-11T22:53:09.319890+00:00",
-      "close": 212.31
-    },
     {
       "timestamp": "2026-08-11T23:34:06.753838+00:00",
       "close": 212.31
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 222.02
+    },
+    {
+      "timestamp": "2026-08-16T00:56:44.444809+00:00",
+      "close": 222.02
     }
   ],
   "events": [
@@ -525,46 +525,6 @@
       "timestamp": "2026-08-14T08:33:13+00:00",
       "title": "Why Is Reddit Stock Surging on Friday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T23:12:27+00:00",
-      "title": "Marvell (MRVL) Stock Trades At A Premium After A 290% Run",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T22:50:03+00:00",
-      "title": "Quantum-Si Incorporated (QSI) Reports Q2 Loss, Tops Revenue Estimates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T22:09:37+00:00",
-      "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T20:07:53+00:00",
-      "title": "AMD Stock Can Halve Or Nearly Double, And That Is The Calm Assumption",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T18:35:00+00:00",
-      "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

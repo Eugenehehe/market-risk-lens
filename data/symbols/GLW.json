@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-15T23:52:51.592059+00:00",
+  "generated_at": "2026-08-16T00:56:44.444809+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 165.99,
     "change_pct": 4.699129557209547
   },
   "risk": {
-    "score": 70,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-11T22:53:09.319890+00:00",
-      "close": 159.19
-    },
     {
       "timestamp": "2026-08-11T23:34:06.753838+00:00",
       "close": 159.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 165.99
+    },
+    {
+      "timestamp": "2026-08-16T00:56:44.444809+00:00",
+      "close": 165.99
     }
   ],
   "events": [
@@ -517,30 +517,6 @@
       "timestamp": "2026-08-14T01:23:38+00:00",
       "title": "Why Coherent Stock Jumped Before Its Own Results Landed",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T17:53:30+00:00",
-      "title": "Collect 13% On CIEN Stock Now, Own It 60% Cheaper If It Dips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T12:35:01+00:00",
-      "title": "What's going on in today's pre-market session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-13T00:50:02+00:00",
-      "title": "Corning Incorporated: Well-Positioned AI Infrastructure Play",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
