@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T15:41:10.656870+00:00",
+  "generated_at": "2026-08-17T16:00:01.161635+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 394.37,
-    "change_pct": 0.3511539733835445
+    "price": 399.25,
+    "change_pct": 1.5929158502760776
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T02:39:07.442708+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-15T03:22:18.452681+00:00",
       "close": 392.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T15:41:10.656870+00:00",
       "close": 394.37
+    },
+    {
+      "timestamp": "2026-08-17T16:00:01.161635+00:00",
+      "close": 399.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T11:35:00+00:00",
+      "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T09:43:27+00:00",
       "title": "David Tepper's Latest AI Bet Is CoreWeave",

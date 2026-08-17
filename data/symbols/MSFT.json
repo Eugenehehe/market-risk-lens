@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T15:41:10.656870+00:00",
+  "generated_at": "2026-08-17T16:00:01.161635+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 484.7,
-    "change_pct": -2.1598708114654808
+    "price": 485.06,
+    "change_pct": -2.087202260799348
   },
   "risk": {
-    "score": 68,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T02:39:07.442708+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T03:22:18.452681+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T15:41:10.656870+00:00",
       "close": 484.7
+    },
+    {
+      "timestamp": "2026-08-17T16:00:01.161635+00:00",
+      "close": 485.06
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-17T12:11:38+00:00",
       "title": "Microsoft (NASDAQ:MSFT): A Best Dividend Screen Pick with Quality and Sustainability",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T11:35:00+00:00",
+      "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-17T08:53:42+00:00",
       "title": "ETFs to Watch July 12, 2012 (HYD, SOXS, XLE)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T08:39:32+00:00",
-      "title": "Nvidia Secures Land, Power And Shell Capacity To Host Compute Capacity Via Partnership With SB Energy At The PORTS-Pike Technology Campus In Ohio For Customer OpenAI",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T15:41:10.656870+00:00",
+  "generated_at": "2026-08-17T16:00:01.161635+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 226.92,
-    "change_pct": 0.7816663705809246
+    "price": 227.74,
+    "change_pct": 1.145851838692491
   },
   "risk": {
-    "score": 57,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T02:39:07.442708+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-15T03:22:18.452681+00:00",
       "close": 225.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T15:41:10.656870+00:00",
       "close": 226.92
+    },
+    {
+      "timestamp": "2026-08-17T16:00:01.161635+00:00",
+      "close": 227.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T11:35:00+00:00",
+      "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:19:33+00:00",
       "title": "Memory Is The Best AI Story, Equipment Is The Better Trade",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T08:39:32+00:00",
       "title": "Nvidia Secures Land, Power And Shell Capacity To Host Compute Capacity Via Partnership With SB Energy At The PORTS-Pike Technology Campus In Ohio For Customer OpenAI",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T08:00:00+00:00",
-      "title": "FTXL: The \"Situational Awareness Trade\" Still Favors AI-Enabling Chips",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
