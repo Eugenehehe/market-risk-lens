@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T15:11:20.730109+00:00",
+  "generated_at": "2026-08-17T15:41:10.656870+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 564.88,
-    "change_pct": 2.6270847716289403
+    "price": 563.65,
+    "change_pct": 2.4036190545401626
   },
   "risk": {
-    "score": 62,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T01:44:40.962270+00:00",
-      "close": 550.42
-    },
     {
       "timestamp": "2026-08-15T02:39:07.442708+00:00",
       "close": 550.42
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-17T15:11:20.730109+00:00",
       "close": 564.88
+    },
+    {
+      "timestamp": "2026-08-17T15:41:10.656870+00:00",
+      "close": 563.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T11:19:33+00:00",
+      "title": "Memory Is The Best AI Story, Equipment Is The Better Trade",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T10:11:41+00:00",
+      "title": "What's Going On With Intel Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T09:05:38+00:00",
+      "title": "QUICK SPARK: SGOV, IWM, SOXX Lead $3.2B ETF One-Day Inflow Wave as GLD Tops Redemptions",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T08:56:22+00:00",
+      "title": "What's Going On With AMD Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T08:30:00+00:00",
       "title": "Equipment Companies Will Collect While Hyperscalers Borrow",
@@ -517,6 +549,14 @@
       "timestamp": "2026-08-17T08:00:00+00:00",
       "title": "FTXL: The \"Situational Awareness Trade\" Still Favors AI-Enabling Chips",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T07:03:22+00:00",
+      "title": "What's Going On With Broadcom Stock Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

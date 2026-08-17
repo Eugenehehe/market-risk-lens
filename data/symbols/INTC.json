@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T15:11:20.730109+00:00",
+  "generated_at": "2026-08-17T15:41:10.656870+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 105.62,
-    "change_pct": 3.043902439024393
+    "price": 104.77,
+    "change_pct": 2.2146341463414654
   },
   "risk": {
-    "score": 63,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T01:44:40.962270+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-15T02:39:07.442708+00:00",
       "close": 102.5
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T15:11:20.730109+00:00",
       "close": 105.62
+    },
+    {
+      "timestamp": "2026-08-17T15:41:10.656870+00:00",
+      "close": 104.77
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T10:11:41+00:00",
+      "title": "What's Going On With Intel Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T04:24:39+00:00",
+      "title": "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-15T09:51:55+00:00",
       "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
