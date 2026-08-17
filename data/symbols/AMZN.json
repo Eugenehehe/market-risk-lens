@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:10:09.806802+00:00",
+  "generated_at": "2026-08-17T21:40:47.762278+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 261.31,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T08:45:25.861167+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-15T09:11:00.968103+00:00",
       "close": 262.65
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T21:10:09.806802+00:00",
       "close": 261.31
+    },
+    {
+      "timestamp": "2026-08-17T21:40:47.762278+00:00",
+      "close": 261.31
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T17:00:00+00:00",
+      "title": "S&P 500: The Bull Market That Won't Die",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-17T13:35:16+00:00",
       "title": "2 Consumer Discretionary Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:41:26+00:00",
-      "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

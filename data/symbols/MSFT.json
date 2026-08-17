@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:10:09.806802+00:00",
+  "generated_at": "2026-08-17T21:40:47.762278+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 480.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T08:45:25.861167+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T09:11:00.968103+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T21:10:09.806802+00:00",
       "close": 480.35
+    },
+    {
+      "timestamp": "2026-08-17T21:40:47.762278+00:00",
+      "close": 480.35
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-17T19:10:06+00:00",
       "title": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T17:00:00+00:00",
+      "title": "S&P 500: The Bull Market That Won't Die",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,6 +533,14 @@
       "timestamp": "2026-08-17T15:59:38+00:00",
       "title": "Infleqtion: The Execution Phase (Rating Downgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T15:52:13+00:00",
+      "title": "QUICK SPARK: OpenAI, Anthropic and SpaceX Fuel Harbor’s New AI ETF Strategy Beyond Big Tech",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-17T12:30:36+00:00",
       "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:23:48+00:00",
-      "title": "New York’s Factory Activity Expands to 4-Year Highs: Is AI Powering a Manufacturing Boom?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:11:38+00:00",
-      "title": "Microsoft (NASDAQ:MSFT): A Best Dividend Screen Pick with Quality and Sustainability",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
