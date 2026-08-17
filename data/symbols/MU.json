@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T12:02:15.882451+00:00",
+  "generated_at": "2026-08-17T13:02:06.030611+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 971.66,
     "change_pct": 2.2983060126548827
   },
   "risk": {
-    "score": 67,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T22:28:08.602665+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-14T22:52:29.109353+00:00",
       "close": 971.66
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-17T12:02:15.882451+00:00",
       "close": 971.66
+    },
+    {
+      "timestamp": "2026-08-17T13:02:06.030611+00:00",
+      "close": 971.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:35:01+00:00",
+      "title": "What's going on in today's pre-market session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T12:07:49+00:00",
+      "title": "Memory Stocks' Valuation Divide Widens Ahead of Micron's Earnings",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T11:51:01+00:00",
+      "title": "Micron Technology (NASDAQ:MU) Screens as a Peter Lynch Growth-at-a-Reasonable-Price Stock",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-16T09:30:00+00:00",
       "title": "Sandisk: The Memory Trade Lives On After Investor's Day",
@@ -540,22 +564,6 @@
     {
       "timestamp": "2026-08-15T17:10:30+00:00",
       "title": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T12:51:20+00:00",
-      "title": "These Three Metrics Explain Why S&P 500 Index Has Hit Record High",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T04:44:40+00:00",
-      "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
