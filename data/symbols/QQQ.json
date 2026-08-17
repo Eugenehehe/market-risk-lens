@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:16:14.036572+00:00",
+  "generated_at": "2026-08-17T10:51:21.262284+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 731.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T20:42:20.368705+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-14T21:03:32.290801+00:00",
       "close": 731.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T10:16:14.036572+00:00",
       "close": 731.07
+    },
+    {
+      "timestamp": "2026-08-17T10:51:21.262284+00:00",
+      "close": 731.07
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-17T09:15:22+00:00",
       "title": "Breadth Cools on Friday, but the Broader Trend Remains Positive",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T06:05:00+00:00",
+      "title": "What Could Go Wrong With The Economy? - Weekly Blog # 954",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-15T16:51:14+00:00",
       "title": "BWET ETF Up More Than1,600% in 2026:  Here's Why It's Beating QQQ and SPY",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T12:06:15+00:00",
-      "title": "AI's Laser Shortage: My Favorite Bottleneck To Buy",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
