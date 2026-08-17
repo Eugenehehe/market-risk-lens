@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:16:10.853292+00:00",
+  "generated_at": "2026-08-17T11:44:56.182494+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 305.09,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T21:36:05.945419+00:00",
-      "close": 305.09
-    },
     {
       "timestamp": "2026-08-14T21:56:42.018208+00:00",
       "close": 305.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T11:16:10.853292+00:00",
       "close": 305.09
+    },
+    {
+      "timestamp": "2026-08-17T11:44:56.182494+00:00",
+      "close": 305.09
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-17T09:15:22+00:00",
       "title": "Breadth Cools on Friday, but the Broader Trend Remains Positive",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T07:22:22+00:00",
+      "title": "July CPI: Good News For The Fed, Mixed News For P&C Insurers",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-16T08:40:00+00:00",
       "title": "Record Highs: Should You Chase The Rally?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T11:30:34+00:00",
-      "title": "The 1-Minute Market Report, August 15, 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
