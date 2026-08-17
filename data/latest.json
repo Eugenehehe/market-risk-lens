@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 227.12,
-    "change_pct": 0.8704920945105776
+    "price": 226.11,
+    "change_pct": 0.4219221886658353
   },
   "risk": {
-    "score": 57,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 225.16
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 227.12
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 226.11
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-17T16:40:06+00:00",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T12:41:26+00:00",
+      "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T12:35:15+00:00",
       "title": "The 'Silver Tsunami': Significant Demographic Headwind Incoming",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T12:30:36+00:00",
+      "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T12:12:24+00:00",
+      "title": "SpaceX Stock Is Everywhere: Google, Nvidia, AMD, Harvard Disclose Stakes",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-17T11:19:33+00:00",
       "title": "Memory Is The Best AI Story, Equipment Is The Better Trade",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:54:42+00:00",
-      "title": "The S&P 500's 50% Earnings Boom Comes With A Giant Asterisk",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:04:42+00:00",
-      "title": "'Nvidia To Invest $100B For OpenAI Data Centre In Ohio' - Financial Times",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:43:27+00:00",
-      "title": "David Tepper's Latest AI Bet Is CoreWeave",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:39:19+00:00",
-      "title": "'Big Short' Investor Steve Eisman Says AI Has an 'Achilles' Heel' — But It's Too Early to Short the Boom",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

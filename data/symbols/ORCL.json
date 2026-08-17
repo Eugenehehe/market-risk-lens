@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 147.64,
-    "change_pct": -1.9133669944193632
+    "price": 146.94,
+    "change_pct": -2.378421472229608
   },
   "risk": {
-    "score": 60,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 150.52
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 150.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 147.64
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 146.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:39:14+00:00",
+      "title": "What's Going On With Oracle Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",

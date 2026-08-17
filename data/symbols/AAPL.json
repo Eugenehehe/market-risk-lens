@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 303.21,
-    "change_pct": -0.889092276010861
+    "price": 304.41,
+    "change_pct": -0.4968456836531132
   },
   "risk": {
-    "score": 58,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 305.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 303.21
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 304.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:30:36+00:00",
+      "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T10:37:26+00:00",
       "title": "Reported Aug. 14: 'U.S. Urges Apple Not to Buy Chinese Memory Chips' - WSJ Exclusive",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T01:35:29+00:00",
       "title": "Ross Gerber Says 'Now Is a Good Time' to Buy iPhone 17 as Apple Prepares for Potential Price Hike With Next Model: 'If You're Looking…'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T12:05:51+00:00",
-      "title": "Alphabet Is Berkshire Hathaway’s New Favorite Stock After Buying 48 Million Shares",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 397.45,
-    "change_pct": 1.134888928471467
+    "price": 396.99,
+    "change_pct": 1.0178376040102854
   },
   "risk": {
-    "score": 58,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 392.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 397.45
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 396.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:41:26+00:00",
+      "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-16T18:18:34+00:00",
+      "title": "S&P 500 edges lower as traders weigh AI optimism vs. Iran tensions: Live updates ",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-16T07:00:00+00:00",
       "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity",
       "source": "SeekingAlpha",
@@ -549,14 +565,6 @@
       "timestamp": "2026-08-15T08:10:00+00:00",
       "title": "How To Invest $100,000 In A Retiree's SWAN Income Portfolio",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T04:44:40+00:00",
-      "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 175.82,
-    "change_pct": 5.922043496596174
+    "price": 175.45,
+    "change_pct": 5.699138502319401
   },
   "risk": {
-    "score": 64,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 165.99
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 165.99
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 175.82
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 175.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:04:32+00:00",
+      "title": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T09:43:27+00:00",
       "title": "David Tepper's Latest AI Bet Is CoreWeave",

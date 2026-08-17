@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 238.49,
-    "change_pct": 7.418250608053323
+    "price": 235.5,
+    "change_pct": 6.07152508782991
   },
   "risk": {
-    "score": 66,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 222.02
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 238.49
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 235.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:04:32+00:00",
+      "title": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:38:51+00:00",
       "title": "What's Going On With Marvell Technology Stock Monday?",

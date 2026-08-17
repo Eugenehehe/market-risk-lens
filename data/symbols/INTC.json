@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:01:48.283188+00:00",
+  "generated_at": "2026-08-17T17:37:13.198747+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 105.02,
-    "change_pct": 2.458536585365856
+    "price": 103.89,
+    "change_pct": 1.356097560975611
   },
   "risk": {
-    "score": 64,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:40:35.205048+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-15T05:02:38.112937+00:00",
       "close": 102.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T17:01:48.283188+00:00",
       "close": 105.02
+    },
+    {
+      "timestamp": "2026-08-17T17:37:13.198747+00:00",
+      "close": 103.89
     }
   ],
   "events": [
@@ -522,9 +522,33 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-17T07:37:29+00:00",
+      "title": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T06:17:11+00:00",
+      "title": "Rick Scott Declares ‘We Are the World’s Innovators,’ Warns Socialists ‘Undermine Our American Dream’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T04:24:39+00:00",
       "title": "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-16T18:18:34+00:00",
+      "title": "S&P 500 edges lower as traders weigh AI optimism vs. Iran tensions: Live updates ",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
