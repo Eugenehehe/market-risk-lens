@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T14:47:23.105062+00:00",
+  "generated_at": "2026-08-17T15:11:20.730109+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 476.24,
-    "change_pct": -2.9685621727348677
+    "price": 476.63,
+    "change_pct": -2.8891016890446375
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T00:00:08.052554+00:00",
-      "close": 490.81
-    },
     {
       "timestamp": "2026-08-15T01:44:40.962270+00:00",
       "close": 490.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T14:47:23.105062+00:00",
       "close": 476.24
+    },
+    {
+      "timestamp": "2026-08-17T15:11:20.730109+00:00",
+      "close": 476.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T14:35:01+00:00",
+      "title": "Which S&P500 stocks are gapping on Monday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-15T17:10:30+00:00",
       "title": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",

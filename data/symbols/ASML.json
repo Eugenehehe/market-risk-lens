@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T14:47:23.105062+00:00",
+  "generated_at": "2026-08-17T15:11:20.730109+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1876.14,
-    "change_pct": 1.7385362890981026
+    "price": 1882.25,
+    "change_pct": 2.0698668170578305
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T00:00:08.052554+00:00",
-      "close": 1844.08
-    },
     {
       "timestamp": "2026-08-15T01:44:40.962270+00:00",
       "close": 1844.08
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T14:47:23.105062+00:00",
       "close": 1876.14
+    },
+    {
+      "timestamp": "2026-08-17T15:11:20.730109+00:00",
+      "close": 1882.25
     }
   ],
   "events": [],
