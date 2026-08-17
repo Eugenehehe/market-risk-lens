@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:37:57.137784+00:00",
+  "generated_at": "2026-08-17T17:01:48.283188+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 304.24,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:01:20.635204+00:00",
-      "close": 305.09
-    },
     {
       "timestamp": "2026-08-15T04:40:35.205048+00:00",
       "close": 305.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 304.24
+    },
+    {
+      "timestamp": "2026-08-17T17:01:48.283188+00:00",
+      "close": 304.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:45:00+00:00",
+      "title": "Retail Companies On The Hotseat This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T10:58:00+00:00",
       "title": "Market Stands Steady In Early Trading",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T09:15:22+00:00",
       "title": "Breadth Cools on Friday, but the Broader Trend Remains Positive",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:05:38+00:00",
-      "title": "QUICK SPARK: SGOV, IWM, SOXX Lead $3.2B ETF One-Day Inflow Wave as GLD Tops Redemptions",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

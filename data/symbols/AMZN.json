@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:37:57.137784+00:00",
+  "generated_at": "2026-08-17T17:01:48.283188+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.44,
-    "change_pct": -0.8414239482200547
+    "price": 259.35,
+    "change_pct": -1.256424900057096
   },
   "risk": {
-    "score": 57,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:01:20.635204+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-15T04:40:35.205048+00:00",
       "close": 262.65
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 260.44
+    },
+    {
+      "timestamp": "2026-08-17T17:01:48.283188+00:00",
+      "close": 259.35
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-17T09:33:15+00:00",
+      "title": "David Tepper Cuts Micron Stake, Exits SanDisk as Appaloosa Goes Big on These Magnificent 7 Stocks in Q2",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T09:04:08+00:00",
       "title": "Viking Global Bets Big On SpaceX While Ditching CoreWeave, Alphabet in Q2",
       "source": "Benzinga",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T07:01:25+00:00",
       "title": "Michael Burry Takes Victory Lap as Big Tech’s $3 Trillion AI Spending Tab Comes Into Focus",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T06:58:08+00:00",
-      "title": "Consumer Data Trips Up Wall Street's Rally as MDxHealth Snatches a Lifeline and Anthropic Redraws the AI Ceiling",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

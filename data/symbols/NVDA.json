@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T16:37:57.137784+00:00",
+  "generated_at": "2026-08-17T17:01:48.283188+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 226.9,
-    "change_pct": 0.7727837981879704
+    "price": 227.12,
+    "change_pct": 0.8704920945105776
   },
   "risk": {
     "score": 57,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:01:20.635204+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-15T04:40:35.205048+00:00",
       "close": 225.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 226.9
+    },
+    {
+      "timestamp": "2026-08-17T17:01:48.283188+00:00",
+      "close": 227.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:35:15+00:00",
+      "title": "The 'Silver Tsunami': Significant Demographic Headwind Incoming",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:59:32+00:00",
       "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T09:39:19+00:00",
       "title": "'Big Short' Investor Steve Eisman Says AI Has an 'Achilles' Heel' — But It's Too Early to Short the Boom",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:15:00+00:00",
-      "title": "The BDC Asymmetry That Nobody Prices In",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

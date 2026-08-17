@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:37:57.137784+00:00",
+  "generated_at": "2026-08-17T17:01:48.283188+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 104.7,
-    "change_pct": 2.146341463414636
+    "price": 105.02,
+    "change_pct": 2.458536585365856
   },
   "risk": {
-    "score": 60,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:01:20.635204+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-15T04:40:35.205048+00:00",
       "close": 102.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 104.7
+    },
+    {
+      "timestamp": "2026-08-17T17:01:48.283188+00:00",
+      "close": 105.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T10:34:17+00:00",
+      "title": "QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T10:11:41+00:00",
       "title": "What's Going On With Intel Stock Monday?",

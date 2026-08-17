@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:37:57.137784+00:00",
+  "generated_at": "2026-08-17T17:01:48.283188+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 433.99,
-    "change_pct": 1.7919549665767587
+    "price": 433.15,
+    "change_pct": 1.5949337398850627
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:01:20.635204+00:00",
-      "close": 426.35
-    },
     {
       "timestamp": "2026-08-15T04:40:35.205048+00:00",
       "close": 426.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 433.99
+    },
+    {
+      "timestamp": "2026-08-17T17:01:48.283188+00:00",
+      "close": 433.15
     }
   ],
   "events": [
@@ -532,6 +532,22 @@
     {
       "timestamp": "2026-08-17T09:04:08+00:00",
       "title": "Viking Global Bets Big On SpaceX While Ditching CoreWeave, Alphabet in Q2",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T05:33:22+00:00",
+      "title": "Harvard Did Not Sell Its Bitcoin ETF Holdings in Q2, Discloses No New Ethereum ETF Stake",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-16T22:57:49+00:00",
+      "title": "Harvard Reveals $2.2 Billion SpaceX Stake, Its Largest Public Equity Holding: University's Bet on Elon Musk-led Company Outshines Amazon and Nvidia",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T16:37:57.137784+00:00",
+  "generated_at": "2026-08-17T17:01:48.283188+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 732.43,
-    "change_pct": 0.18602869766231045
+    "price": 732.18,
+    "change_pct": 0.15183224588615207
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T04:01:20.635204+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-15T04:40:35.205048+00:00",
       "close": 731.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 732.43
+    },
+    {
+      "timestamp": "2026-08-17T17:01:48.283188+00:00",
+      "close": 732.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T12:45:00+00:00",
+      "title": "Retail Companies On The Hotseat This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:19:33+00:00",
       "title": "Memory Is The Best AI Story, Equipment Is The Better Trade",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T09:42:54+00:00",
       "title": "How American Markets Can Keep Rising",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:15:22+00:00",
-      "title": "Breadth Cools on Friday, but the Broader Trend Remains Positive",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
