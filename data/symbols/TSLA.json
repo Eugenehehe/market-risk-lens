@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 339.67,
-    "change_pct": -0.7596342069126627
+    "price": 340.28,
+    "change_pct": -0.581412335290854
   },
   "risk": {
-    "score": 57,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 342.27
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 339.67
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 340.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T13:37:46+00:00",
+      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:00:52+00:00",
+      "title": "Gary Black Has ‘Low Interest’ in Tesla Stock at Current Price, Even With a Potential SpaceX Buyout",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T12:30:36+00:00",
       "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-16T23:59:29+00:00",
       "title": "Elon Musk Says Tesla Is ‘Most Made in America’ Car Brand as Trump Tariffs Shake Up Auto Industry",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-16T09:13:40+00:00",
-      "title": "Projected Robotaxi (Autonomous Ride-Hailing) Growth By Company And Why I Rate Waymo A Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T09:51:55+00:00",
-      "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

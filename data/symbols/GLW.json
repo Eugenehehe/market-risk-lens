@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 176.01,
-    "change_pct": 6.036508223386949
+    "price": 175.76,
+    "change_pct": 5.885896740767516
   },
   "risk": {
-    "score": 68,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 165.99
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 165.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 176.01
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 175.76
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-17T13:04:32+00:00",
       "title": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T12:23:48+00:00",
+      "title": "New York’s Factory Activity Expands to 4-Year Highs: Is AI Powering a Manufacturing Boom?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

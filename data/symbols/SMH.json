@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 596.49,
-    "change_pct": 1.4749413085638485
+    "price": 597.27,
+    "change_pct": 1.6076349903031417
   },
   "risk": {
-    "score": 60,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 587.82
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 587.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 596.49
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 597.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T14:38:19+00:00",
+      "title": "The Market Says AI Bubble, The Guidance Says Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:07:21+00:00",
+      "title": "Micron Crosses $1,000: Here's How to Amplify the Trade with ETFs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T13:04:32+00:00",
       "title": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
@@ -548,14 +564,6 @@
     {
       "timestamp": "2026-08-15T11:30:34+00:00",
       "title": "The 1-Minute Market Report, August 15, 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T07:54:49+00:00",
-      "title": "The Market Is Taking The AI Bubble Naysayers For A Ride",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

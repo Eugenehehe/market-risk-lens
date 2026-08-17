@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 479.11,
-    "change_pct": -3.288251917642304
+    "price": 480.18,
+    "change_pct": -3.0722648364957528
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 479.11
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 480.18
     }
   ],
   "events": [
@@ -522,8 +522,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-17T13:37:46+00:00",
+      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T12:30:36+00:00",
       "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T12:23:48+00:00",
+      "title": "New York’s Factory Activity Expands to 4-Year Highs: Is AI Powering a Manufacturing Boom?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T11:01:54+00:00",
-      "title": "Synchrony Partners With OpenAI To Enhance Its Services In Shopping, Payments",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:54:42+00:00",
-      "title": "The S&P 500's 50% Earnings Boom Comes With A Giant Asterisk",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

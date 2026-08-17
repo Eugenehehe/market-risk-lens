@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 258.89,
-    "change_pct": -1.431562916428708
+    "price": 259.91,
+    "change_pct": -1.0432134018655836
   },
   "risk": {
-    "score": 62,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 262.65
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 258.89
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 259.91
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-17T18:05:00+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T13:45:55+00:00",
       "title": "Why I Like Alphabet's Debt (Rating Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:37:46+00:00",
+      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-17T12:23:48+00:00",
+      "title": "New York’s Factory Activity Expands to 4-Year Highs: Is AI Powering a Manufacturing Boom?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T11:59:32+00:00",
       "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
       "source": "SeekingAlpha",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:54:42+00:00",
-      "title": "The S&P 500's 50% Earnings Boom Comes With A Giant Asterisk",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:05:03+00:00",
-      "title": "SpaceX Launches 2 Rockets Just 38 Minutes Apart, Setting New Record for Musk’s Launch Machine",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:43:27+00:00",
-      "title": "David Tepper's Latest AI Bet Is CoreWeave",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

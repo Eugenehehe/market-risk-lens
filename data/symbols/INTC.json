@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 103.13,
-    "change_pct": 0.614634146341464
+    "price": 103.65,
+    "change_pct": 1.1219512195121961
   },
   "risk": {
-    "score": 55,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 102.5
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 103.13
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 103.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T18:05:00+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T18:00:00+00:00",
+      "title": "Which stocks are most active on Monday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T10:34:17+00:00",
       "title": "QUICK SPARK: Intel Stock Rises After CEO Spends $10 Million on Shares",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-16T18:18:34+00:00",
       "title": "S&P 500 edges lower as traders weigh AI optimism vs. Iran tensions: Live updates ",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T09:51:55+00:00",
-      "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T04:44:40+00:00",
-      "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

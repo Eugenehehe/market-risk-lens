@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T18:01:33.548556+00:00",
+  "generated_at": "2026-08-17T18:52:50.698650+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.41,
-    "change_pct": -0.377411958677909
+    "price": 773.82,
+    "change_pct": -0.32460004637143713
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:35:05.250324+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-15T05:57:21.061373+00:00",
       "close": 776.34
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 773.41
+    },
+    {
+      "timestamp": "2026-08-17T18:52:50.698650+00:00",
+      "close": 773.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T14:05:00+00:00",
+      "title": "Bears Beware: Case For Bull Market Momentum",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:37:46+00:00",
+      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T13:29:03+00:00",
       "title": "August 2026 Trading Outlook: Stock Market, Bonds, Fiscal Flows, And Interest Rates",
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-17T10:58:00+00:00",
-      "title": "Market Stands Steady In Early Trading",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:54:42+00:00",
-      "title": "The S&P 500's 50% Earnings Boom Comes With A Giant Asterisk",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:37:26+00:00",
-      "title": "Reported Aug. 14: 'U.S. Urges Apple Not to Buy Chinese Memory Chips' - WSJ Exclusive",
+      "timestamp": "2026-08-17T11:11:18+00:00",
+      "title": "S&P 500 Seasonality: Can The First Six Months Predict Performance Of ES Futures?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
