@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T02:02:17.754511+00:00",
+  "generated_at": "2026-08-17T03:08:55.589744+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 165.99,
     "change_pct": 4.699129557209547
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T11:31:23.577182+00:00",
-      "close": 158.54
-    },
     {
       "timestamp": "2026-08-14T12:25:21.874623+00:00",
       "close": 158.54
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-17T02:02:17.754511+00:00",
       "close": 165.99
+    },
+    {
+      "timestamp": "2026-08-17T03:08:55.589744+00:00",
+      "close": 165.99
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-16T21:46:20+00:00",
+      "title": "Corning: Strong AI Growth, But Much Success Is Already Priced In",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
