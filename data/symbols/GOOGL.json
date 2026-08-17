@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T11:44:56.182494+00:00",
+  "generated_at": "2026-08-17T12:02:15.882451+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
     "change_pct": -0.13280979327867648
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 50,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T21:56:42.018208+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-14T22:28:08.602665+00:00",
       "close": 345.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T11:44:56.182494+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-17T12:02:15.882451+00:00",
+      "close": 345.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T07:29:03+00:00",
+      "title": "GDV: Deep Discount And Stable Monthly Payout Make This Attractive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-16T20:07:07+00:00",
       "title": "Tracking Bill Ackman's Pershing Square 13F Portfolio - Q2 2026 Update",
