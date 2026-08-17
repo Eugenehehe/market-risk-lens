@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T19:22:17.090089+00:00",
+  "generated_at": "2026-08-17T19:49:12.968738+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 173.98,
-    "change_pct": 4.813542984517127
+    "price": 175.23,
+    "change_pct": 5.566600397614296
   },
   "risk": {
-    "score": 70,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T06:48:37.146194+00:00",
-      "close": 165.99
-    },
     {
       "timestamp": "2026-08-15T07:18:20.755670+00:00",
       "close": 165.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 173.98
+    },
+    {
+      "timestamp": "2026-08-17T19:49:12.968738+00:00",
+      "close": 175.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T19:05:01+00:00",
+      "title": "Which S&P500 stocks are moving on Monday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T16:35:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",

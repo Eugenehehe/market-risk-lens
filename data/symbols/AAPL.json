@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T19:22:17.090089+00:00",
+  "generated_at": "2026-08-17T19:49:12.968738+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 305.88,
-    "change_pct": -0.016343608014912636
+    "price": 305.63,
+    "change_pct": -0.09806164808943141
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T06:48:37.146194+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T07:18:20.755670+00:00",
       "close": 305.93
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 305.88
+    },
+    {
+      "timestamp": "2026-08-17T19:49:12.968738+00:00",
+      "close": 305.63
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-17T19:10:06+00:00",
+      "title": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T15:20:35+00:00",
+      "title": "Apple Memory Headwinds Are Reason To Pause (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-17T10:37:26+00:00",
       "title": "Reported Aug. 14: 'U.S. Urges Apple Not to Buy Chinese Memory Chips' - WSJ Exclusive",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:47:07+00:00",
-      "title": "Berkshire Hathaway: The Cash Is Moving, The Philosophy Isn't",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T09:33:15+00:00",
-      "title": "David Tepper Cuts Micron Stake, Exits SanDisk as Appaloosa Goes Big on These Magnificent 7 Stocks in Q2",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

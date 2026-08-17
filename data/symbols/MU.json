@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T19:22:17.090089+00:00",
+  "generated_at": "2026-08-17T19:49:12.968738+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1009.07,
-    "change_pct": 3.8501121791573167
+    "price": 1015.87,
+    "change_pct": 4.5499454541712225
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T06:48:37.146194+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-15T07:18:20.755670+00:00",
       "close": 971.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 1009.07
+    },
+    {
+      "timestamp": "2026-08-17T19:49:12.968738+00:00",
+      "close": 1015.87
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-17T16:35:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T15:20:00+00:00",
+      "title": "Lockheed Martin + Sandisk: Balance And Diversification, Growth And Income",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T12:07:49+00:00",
       "title": "Memory Stocks' Valuation Divide Widens Ahead of Micron's Earnings",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T11:55:13+00:00",
-      "title": "Micron’s AI Boom Could Unlock a $640 Billion Cash Flow Machine, But the Market Barely Sees It",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

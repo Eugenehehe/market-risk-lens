@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T19:22:17.090089+00:00",
+  "generated_at": "2026-08-17T19:49:12.968738+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 481.49,
-    "change_pct": -2.807832054905124
+    "price": 480.14,
+    "change_pct": -3.0803391199031083
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T06:48:37.146194+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T07:18:20.755670+00:00",
       "close": 495.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 481.49
+    },
+    {
+      "timestamp": "2026-08-17T19:49:12.968738+00:00",
+      "close": 480.14
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T19:10:06+00:00",
+      "title": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T16:40:06+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T11:59:32+00:00",
       "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T11:43:38+00:00",
-      "title": "Why Is Netflix Stock Falling on Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
