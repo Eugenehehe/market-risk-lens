@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T18:52:50.698650+00:00",
+  "generated_at": "2026-08-17T19:22:17.090089+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 480.18,
-    "change_pct": -3.0722648364957528
+    "price": 481.49,
+    "change_pct": -2.807832054905124
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:57:21.061373+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T06:48:37.146194+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T18:52:50.698650+00:00",
       "close": 480.18
+    },
+    {
+      "timestamp": "2026-08-17T19:22:17.090089+00:00",
+      "close": 481.49
     }
   ],
   "events": [
@@ -562,9 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-17T11:35:00+00:00",
-      "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-17T11:43:38+00:00",
+      "title": "Why Is Netflix Stock Falling on Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T18:52:50.698650+00:00",
+  "generated_at": "2026-08-17T19:22:17.090089+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 306.02,
-    "change_pct": 0.02941849442681388
+    "price": 305.88,
+    "change_pct": -0.016343608014912636
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T05:57:21.061373+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T06:48:37.146194+00:00",
       "close": 305.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T18:52:50.698650+00:00",
       "close": 306.02
+    },
+    {
+      "timestamp": "2026-08-17T19:22:17.090089+00:00",
+      "close": 305.88
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T15:05:03+00:00",
+      "title": "Alibaba Remains Too Cheap To Ignore (Earnings Preview)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,6 +532,14 @@
     {
       "timestamp": "2026-08-17T12:30:36+00:00",
       "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T11:55:13+00:00",
+      "title": "Micron’s AI Boom Could Unlock a $640 Billion Cash Flow Machine, But the Market Barely Sees It",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-17T09:33:15+00:00",
       "title": "David Tepper Cuts Micron Stake, Exits SanDisk as Appaloosa Goes Big on These Magnificent 7 Stocks in Q2",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T06:38:45+00:00",
-      "title": "Alibaba’s AI Pivot Deepens, Plans to Offload Gaming Business For at Least $1.5 Billion: Report",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T05:58:27+00:00",
-      "title": "Assessing Apple's Performance Against Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
