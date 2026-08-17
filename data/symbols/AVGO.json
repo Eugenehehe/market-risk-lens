@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T19:49:12.968738+00:00",
+  "generated_at": "2026-08-17T20:11:04.703410+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 392.87,
-    "change_pct": -0.03053512812031256
+    "price": 392.43,
+    "change_pct": -0.1424972645614364
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T07:18:20.755670+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-15T07:47:53.532655+00:00",
       "close": 392.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T19:49:12.968738+00:00",
       "close": 392.87
+    },
+    {
+      "timestamp": "2026-08-17T20:11:04.703410+00:00",
+      "close": 392.43
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-17T12:41:26+00:00",
       "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T11:45:49+00:00",
+      "title": "Here’s How Much You Would Have Made Owning Broadcom Stock In The Last 15 Years",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-17T04:24:39+00:00",
-      "title": "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
+      "timestamp": "2026-08-17T05:58:41+00:00",
+      "title": "Evaluating Broadcom Against Peers In Semiconductors &amp; Semiconductor Equipment Industry",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-16T18:18:34+00:00",
-      "title": "S&P 500 edges lower as traders weigh AI optimism vs. Iran tensions: Live updates ",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-16T07:00:00+00:00",
-      "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-17T04:24:39+00:00",
+      "title": "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

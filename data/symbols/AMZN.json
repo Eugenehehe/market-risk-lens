@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T19:49:12.968738+00:00",
+  "generated_at": "2026-08-17T20:11:04.703410+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.32,
-    "change_pct": -0.887112126403955
+    "price": 261.31,
+    "change_pct": -0.510184656386814
   },
   "risk": {
-    "score": 58,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T07:18:20.755670+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-15T07:47:53.532655+00:00",
       "close": 262.65
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T19:49:12.968738+00:00",
       "close": 260.32
+    },
+    {
+      "timestamp": "2026-08-17T20:11:04.703410+00:00",
+      "close": 261.31
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-17T15:11:00+00:00",
       "title": "Q2 2026 U.S. Retail Preview: Broadline Retail Drives Growth",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T14:17:22+00:00",
+      "title": "What's Going On With Amazon Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T13:56:36+00:00",
+      "title": "Why Is Target Stock Falling on Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-17T13:35:16+00:00",
+      "title": "2 Consumer Discretionary Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T12:41:26+00:00",
       "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:30:36+00:00",
-      "title": "Bill Ackman Bets Big on Magnificent 7 Stocks, But Only Loves 3 of Them",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:23:48+00:00",
-      "title": "New York’s Factory Activity Expands to 4-Year Highs: Is AI Powering a Manufacturing Boom?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T11:59:32+00:00",
-      "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
