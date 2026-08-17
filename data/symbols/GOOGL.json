@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T16:00:01.161635+00:00",
+  "generated_at": "2026-08-17T16:37:57.137784+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.99,
-    "change_pct": -0.5521827117664024
+    "price": 343.97,
+    "change_pct": -0.557964729690652
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T03:22:18.452681+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-15T04:01:20.635204+00:00",
       "close": 345.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:00:01.161635+00:00",
       "close": 343.99
+    },
+    {
+      "timestamp": "2026-08-17T16:37:57.137784+00:00",
+      "close": 343.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T11:59:32+00:00",
+      "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T09:04:08+00:00",
       "title": "Viking Global Bets Big On SpaceX While Ditching CoreWeave, Alphabet in Q2",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T07:29:03+00:00",
-      "title": "GDV: Deep Discount And Stable Monthly Payout Make This Attractive",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

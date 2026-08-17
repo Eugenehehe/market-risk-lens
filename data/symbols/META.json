@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T16:00:01.161635+00:00",
+  "generated_at": "2026-08-17T16:37:57.137784+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 573.49,
-    "change_pct": -2.773586505043657
+    "price": 569.29,
+    "change_pct": -3.485631940323819
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T03:22:18.452681+00:00",
-      "close": 589.85
-    },
     {
       "timestamp": "2026-08-15T04:01:20.635204+00:00",
       "close": 589.85
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:00:01.161635+00:00",
       "close": 573.49
+    },
+    {
+      "timestamp": "2026-08-17T16:37:57.137784+00:00",
+      "close": 569.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T11:59:32+00:00",
+      "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-16T20:07:07+00:00",
       "title": "Tracking Bill Ackman's Pershing Square 13F Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T17:10:30+00:00",
-      "title": "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

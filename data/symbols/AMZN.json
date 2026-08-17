@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T16:00:01.161635+00:00",
+  "generated_at": "2026-08-17T16:37:57.137784+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 261.08,
-    "change_pct": -0.59775366457262
+    "price": 260.44,
+    "change_pct": -0.8414239482200547
   },
   "risk": {
-    "score": 55,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T03:22:18.452681+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-15T04:01:20.635204+00:00",
       "close": 262.65
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T16:00:01.161635+00:00",
       "close": 261.08
+    },
+    {
+      "timestamp": "2026-08-17T16:37:57.137784+00:00",
+      "close": 260.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T11:59:32+00:00",
+      "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T11:35:00+00:00",
       "title": "Wall Street Lunch: McDonald's Menu Gets Energy Boost With Red Bull",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T06:58:08+00:00",
       "title": "Consumer Data Trips Up Wall Street's Rally as MDxHealth Snatches a Lifeline and Anthropic Redraws the AI Ceiling",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T06:54:54+00:00",
-      "title": "What Makes the AI Music Stop: a $1.5 Trillion Mountain of Hidden Leverage",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
