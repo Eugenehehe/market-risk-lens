@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:11:04.703410+00:00",
+  "generated_at": "2026-08-17T20:44:43.326956+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 305.59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T07:47:53.532655+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T08:10:27.251770+00:00",
       "close": 305.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 305.59
+    },
+    {
+      "timestamp": "2026-08-17T20:44:43.326956+00:00",
+      "close": 305.59
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T16:17:59+00:00",
+      "title": "Don't Expect Massive Upside From Apple At This Entry Point",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-17T11:55:13+00:00",
       "title": "Micron’s AI Boom Could Unlock a $640 Billion Cash Flow Machine, But the Market Barely Sees It",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T10:37:26+00:00",
-      "title": "Reported Aug. 14: 'U.S. Urges Apple Not to Buy Chinese Memory Chips' - WSJ Exclusive",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

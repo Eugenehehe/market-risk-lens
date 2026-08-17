@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:11:04.703410+00:00",
+  "generated_at": "2026-08-17T20:44:43.326956+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 480.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T07:47:53.532655+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T08:10:27.251770+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 480.35
+    },
+    {
+      "timestamp": "2026-08-17T20:44:43.326956+00:00",
+      "close": 480.35
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-17T16:40:06+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-17T15:59:38+00:00",
+      "title": "Infleqtion: The Execution Phase (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T12:11:38+00:00",
       "title": "Microsoft (NASDAQ:MSFT): A Best Dividend Screen Pick with Quality and Sustainability",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T11:59:32+00:00",
-      "title": "Nvidia: One Number In Q2 Decides Where This Stock Goes",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
