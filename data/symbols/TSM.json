@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T23:48:49.598381+00:00",
+  "generated_at": "2026-08-17T00:24:11.464488+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 426.35,
     "change_pct": -0.9616948128876368
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T09:47:20.478694+00:00",
-      "close": 430.49
-    },
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 430.49
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-16T23:48:49.598381+00:00",
       "close": 426.35
+    },
+    {
+      "timestamp": "2026-08-17T00:24:11.464488+00:00",
+      "close": 426.35
     }
   ],
   "events": [
@@ -516,30 +516,6 @@
     {
       "timestamp": "2026-08-15T04:44:40+00:00",
       "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:32:50+00:00",
-      "title": "Viking Global Investors Cuts Share Stake In TSMC By 29.0% To 3.2 Mln",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T12:43:09+00:00",
-      "title": "Softbank Decreases Stake In Taiwan Semiconductor Mfg Ltd By 72% To 565,000 Shares",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T04:36:41+00:00",
-      "title": "Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to Race Ahead: Report",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

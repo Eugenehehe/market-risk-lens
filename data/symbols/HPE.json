@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T23:48:49.598381+00:00",
+  "generated_at": "2026-08-17T00:24:11.464488+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 58.71,
     "change_pct": -1.8555667001002973
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T09:47:20.478694+00:00",
-      "close": 59.82
-    },
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 59.82
@@ -502,26 +498,13 @@
     {
       "timestamp": "2026-08-16T23:48:49.598381+00:00",
       "close": 58.71
-    }
-  ],
-  "events": [
-    {
-      "timestamp": "2026-08-14T11:27:14+00:00",
-      "title": "Eventually Free Cash Flow Will Matter Again",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T02:11:50+00:00",
-      "title": "Is Rigetti Computing (RGTI) Fully Valued Following Grant And Quantum Progress News?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-08-17T00:24:11.464488+00:00",
+      "close": 58.71
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T23:48:49.598381+00:00",
+  "generated_at": "2026-08-17T00:24:11.464488+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 342.27,
     "change_pct": 0.6794917049064653
   },
   "risk": {
-    "score": 56,
+    "score": 50,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T09:47:20.478694+00:00",
-      "close": 339.96
-    },
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 339.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-16T23:48:49.598381+00:00",
       "close": 342.27
+    },
+    {
+      "timestamp": "2026-08-17T00:24:11.464488+00:00",
+      "close": 342.27
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-08-15T04:44:40+00:00",
       "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T18:05:00+00:00",
-      "title": "Friday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:38:49+00:00",
-      "title": "Soros Fund Management Raises Share Stake In Tesla Inc By 63.6% To 86,846 Shares",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:26:29+00:00",
-      "title": "Viking Global Investors Cuts Share Stake In Tesla Inc By 78.0% To 547,816 Shares",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

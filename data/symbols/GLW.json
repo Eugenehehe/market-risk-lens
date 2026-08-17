@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T23:48:49.598381+00:00",
+  "generated_at": "2026-08-17T00:24:11.464488+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 165.99,
     "change_pct": 4.699129557209547
   },
   "risk": {
-    "score": 64,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T09:47:20.478694+00:00",
-      "close": 158.54
-    },
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 158.54
@@ -502,26 +498,13 @@
     {
       "timestamp": "2026-08-16T23:48:49.598381+00:00",
       "close": 165.99
-    }
-  ],
-  "events": [
-    {
-      "timestamp": "2026-08-14T16:35:01+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     },
     {
-      "timestamp": "2026-08-14T01:23:38+00:00",
-      "title": "Why Coherent Stock Jumped Before Its Own Results Landed",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-08-17T00:24:11.464488+00:00",
+      "close": 165.99
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T23:48:49.598381+00:00",
+  "generated_at": "2026-08-17T00:24:11.464488+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 345.9,
     "change_pct": -0.13280979327867648
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T09:47:20.478694+00:00",
-      "close": 346.36
-    },
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 346.36
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-16T23:48:49.598381+00:00",
       "close": 345.9
+    },
+    {
+      "timestamp": "2026-08-17T00:24:11.464488+00:00",
+      "close": 345.9
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-08-15T04:44:40+00:00",
       "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T21:42:05+00:00",
-      "title": "Tracking Berkshire Hathaway Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T19:10:06+00:00",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T18:32:16+00:00",
-      "title": "Bill Ackman Exits Alphabet, Raises Bets on Microsoft & Meta",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

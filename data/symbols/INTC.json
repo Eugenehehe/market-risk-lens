@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T23:48:49.598381+00:00",
+  "generated_at": "2026-08-17T00:24:11.464488+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 102.5,
     "change_pct": -1.9701606732976273
   },
   "risk": {
-    "score": 66,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T09:47:20.478694+00:00",
-      "close": 104.56
-    },
     {
       "timestamp": "2026-08-14T10:43:25.653132+00:00",
       "close": 104.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-16T23:48:49.598381+00:00",
       "close": 102.5
+    },
+    {
+      "timestamp": "2026-08-17T00:24:11.464488+00:00",
+      "close": 102.5
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-08-15T04:44:40+00:00",
       "title": "Stanley Druckenmiller Bets Big on AMZN, AMD — Dumps AVGO, INTC and MU in Q2",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T18:05:00+00:00",
-      "title": "Friday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T18:00:00+00:00",
-      "title": "Friday's session: most active stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:46:05+00:00",
-      "title": "Intel Form4 Filing Shows CEO Lip-Bu Tan Buys 105,263 Shares At $95/Share, Increasing Indirect Holdings To 1.31M Shares",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:42:03+00:00",
-      "title": "Soros Fund Management Reports Share Stake Of 100,000 Shares In Intel Corp",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T16:39:38+00:00",
-      "title": "Coatue Management Reports Share Stake Of 12.1M Shares In Intel",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-14T13:35:24+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
