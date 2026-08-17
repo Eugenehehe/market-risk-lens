@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T13:48:51.928865+00:00",
+  "generated_at": "2026-08-17T14:13:45.111116+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 344.77,
-    "change_pct": -0.3266840127204351
+    "price": 344.6,
+    "change_pct": -0.3758311650766011
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-14T23:14:28.305970+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-14T23:40:46.645105+00:00",
       "close": 345.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-17T13:48:51.928865+00:00",
       "close": 344.77
+    },
+    {
+      "timestamp": "2026-08-17T14:13:45.111116+00:00",
+      "close": 344.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T09:47:07+00:00",
+      "title": "Berkshire Hathaway: The Cash Is Moving, The Philosophy Isn't",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T07:29:03+00:00",
       "title": "GDV: Deep Discount And Stable Monthly Payout Make This Attractive",
