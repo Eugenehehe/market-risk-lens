@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T16:44:06.904717+00:00",
+  "generated_at": "2026-08-18T17:11:36.575696+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 159.77,
-    "change_pct": -7.759367242076087
+    "price": 160.13,
+    "change_pct": -7.551527048091922
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:40:18.947455+00:00",
-      "close": 165.99
-    },
     {
       "timestamp": "2026-08-15T21:57:12.608614+00:00",
       "close": 165.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 159.77
+    },
+    {
+      "timestamp": "2026-08-18T17:11:36.575696+00:00",
+      "close": 160.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T16:35:01+00:00",
+      "title": "Stay informed with the top movers within the S&P500 index on Tuesday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T12:35:01+00:00",
       "title": "Get insights into the top movers in the S&P500 index of Tuesday's pre-market session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T09:43:27+00:00",
       "title": "David Tepper's Latest AI Bet Is CoreWeave",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-16T21:46:20+00:00",
-      "title": "Corning: Strong AI Growth, But Much Success Is Already Priced In",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
