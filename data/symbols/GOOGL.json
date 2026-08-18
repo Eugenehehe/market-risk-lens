@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T17:11:36.575696+00:00",
+  "generated_at": "2026-08-18T17:44:50.484422+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.33,
-    "change_pct": -0.19476744186046613
+    "price": 343.31,
+    "change_pct": -0.20058139534883113
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:57:12.608614+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-15T22:27:43.220191+00:00",
       "close": 345.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T17:11:36.575696+00:00",
       "close": 343.33
+    },
+    {
+      "timestamp": "2026-08-18T17:44:50.484422+00:00",
+      "close": 343.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T10:25:27+00:00",
       "title": "Sandisk's Nvidia Catalyst Just Emerged (Rating Upgrade)",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T01:55:42+00:00",
       "title": "'Google Plans To Stop Making Pixel Products In China in 2027' - Nikkei Asia",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T22:11:15+00:00",
-      "title": "Google is Paying $10 Million for Bankrupt Spirit Airlines' Old Emails and Spreadsheets: Here's Why",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

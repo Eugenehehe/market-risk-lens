@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T17:11:36.575696+00:00",
+  "generated_at": "2026-08-18T17:44:50.484422+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 936.93,
-    "change_pct": -7.39510748702743
+    "price": 936.4,
+    "change_pct": -7.447491969360021
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:57:12.608614+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-15T22:27:43.220191+00:00",
       "close": 971.66
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T17:11:36.575696+00:00",
       "close": 936.93
+    },
+    {
+      "timestamp": "2026-08-18T17:44:50.484422+00:00",
+      "close": 936.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T12:56:23+00:00",
+      "title": "Stocks making the biggest moves midday: Meta, Amylyx, Baidu, Klarna, Coherent, Sandisk & more",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T12:08:20+00:00",
       "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-18T09:48:16+00:00",
       "title": "Netlist: Samsung Bends The Knee, Micron, Alphabet And Super Micro Computer Could Be Next",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T09:44:02+00:00",
+      "title": "Opening Bell: August 18, 2026",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T04:10:14+00:00",
       "title": "Nasdaq 100 Short Exposure Hits $20 Billion as Insiders Near ‘15-Year High’ in Buying: Is a Squeeze Imminent?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T21:39:10+00:00",
-      "title": "Nike, Meta Platforms, INVO Fertility, EyePoint Pharmaceuticals, and Micron: Why These 5 Stocks Are on Investors' Radars Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T18:05:00+00:00",
-      "title": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
