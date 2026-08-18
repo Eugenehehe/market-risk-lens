@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T14:20:05.744969+00:00",
+  "generated_at": "2026-08-18T14:57:35.224101+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.41,
-    "change_pct": -2.488778276521042
+    "price": 219.3,
+    "change_pct": -2.537664992666988
   },
   "risk": {
-    "score": 70,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T20:01:36.551044+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-15T20:33:54.086849+00:00",
       "close": 225.16
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 219.41
+    },
+    {
+      "timestamp": "2026-08-18T14:57:35.224101+00:00",
+      "close": 219.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T10:34:42+00:00",
+      "title": "Nvidia Q2 Preview: AI Momentum And Financing In Focus, Shares Fairly Valued",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T10:25:27+00:00",
+      "title": "Sandisk's Nvidia Catalyst Just Emerged (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T09:55:52+00:00",
       "title": "Nvidia: A Buy Ahead Of Q2 Earnings, With $500 Billion To Keep The AI Train Going",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T07:51:57+00:00",
       "title": "Goldman Sachs: Nvidia Exposure Is Attractive, But Valuation Warrants Caution (Rating Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T23:16:34+00:00",
-      "title": "Samsung Has Thrived Without Directly Relying On Nvidia",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T19:10:06+00:00",
-      "title": "Discover which dow jones stocks are making waves on Monday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T14:20:05.744969+00:00",
+  "generated_at": "2026-08-18T14:57:35.224101+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 768.82,
-    "change_pct": -0.4982722248825344
+    "price": 768.08,
+    "change_pct": -0.5940440291456794
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T20:01:36.551044+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-15T20:33:54.086849+00:00",
       "close": 776.34
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 768.82
+    },
+    {
+      "timestamp": "2026-08-18T14:57:35.224101+00:00",
+      "close": 768.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T10:35:00+00:00",
+      "title": "Markets Track Lower For Third Straight Session",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T10:15:00+00:00",
+      "title": "FOMC Minutes, Canadian Inflation Data, And USD/CAD Technical Analysis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T09:15:00+00:00",
       "title": "The 9% Portfolio That Retires Your Paycheck",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-18T07:17:00+00:00",
       "title": "The Outlook For S&P 500 Dividends In August 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:30:00+00:00",
-      "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:24:14+00:00",
-      "title": "Why Investors Should Stay Bullish Heading Into The Midterm Elections",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T14:20:05.744969+00:00",
+  "generated_at": "2026-08-18T14:57:35.224101+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 302.12,
-    "change_pct": -0.6380319673748636
+    "price": 301.38,
+    "change_pct": -0.8814049858580586
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T20:01:36.551044+00:00",
-      "close": 305.09
-    },
     {
       "timestamp": "2026-08-15T20:33:54.086849+00:00",
       "close": 305.09
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 302.12
+    },
+    {
+      "timestamp": "2026-08-18T14:57:35.224101+00:00",
+      "close": 301.38
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T10:35:00+00:00",
+      "title": "Markets Track Lower For Third Straight Session",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T10:15:00+00:00",
+      "title": "FOMC Minutes, Canadian Inflation Data, And USD/CAD Technical Analysis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T09:13:44+00:00",
       "title": "Prepare For A Spike In Volatility",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-18T03:45:00+00:00",
       "title": "Three Charts - One Conclusion",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T00:55:00+00:00",
-      "title": "ValuEngine Weekly Market Summary And Commentary",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T00:10:00+00:00",
-      "title": "Cumberland's Monday Memo",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
