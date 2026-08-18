@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T18:59:20.537897+00:00",
+  "generated_at": "2026-08-18T19:33:39.163475+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 143.98,
-    "change_pct": -1.8206614387998754
+    "price": 143.63,
+    "change_pct": -2.0593249232867428
   },
   "risk": {
-    "score": 63,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:09:19.560722+00:00",
-      "close": 150.52
-    },
     {
       "timestamp": "2026-08-15T23:33:54.709880+00:00",
       "close": 150.52
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-18T18:59:20.537897+00:00",
       "close": 143.98
+    },
+    {
+      "timestamp": "2026-08-18T19:33:39.163475+00:00",
+      "close": 143.63
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-18T12:00:12+00:00",
       "title": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T11:52:43+00:00",
+      "title": "'Oracle Data Center’s Pipeline Plan Is Rerouted After Rejections; Energy Transfer LP, Which Would Construct And Operate The Pipeline, Is Now Seeking To Build Part Of The 17.8-Mile Conduit On Land Administered By The U.S. Bureau Of Land Management' - Bloomberg News",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

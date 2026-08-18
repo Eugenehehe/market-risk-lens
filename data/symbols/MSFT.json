@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T18:59:20.537897+00:00",
+  "generated_at": "2026-08-18T19:33:39.163475+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 482.6,
-    "change_pct": 0.46840845217028804
+    "price": 483.25,
+    "change_pct": 0.6037264494639372
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:09:19.560722+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T23:33:54.709880+00:00",
       "close": 495.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T18:59:20.537897+00:00",
       "close": 482.6
+    },
+    {
+      "timestamp": "2026-08-18T19:33:39.163475+00:00",
+      "close": 483.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T13:51:10+00:00",
+      "title": "IREN Is Quietly Outpacing CoreWeave on One AI Metric that Matters",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T12:00:12+00:00",
       "title": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T06:05:25+00:00",
       "title": "Soluna Holdings: The $1.3B Question Remains Unanswered",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T19:10:06+00:00",
-      "title": "Discover which dow jones stocks are making waves on Monday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
