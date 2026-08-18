@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:22:46.919136+00:00",
+  "generated_at": "2026-08-18T01:56:11.669190+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 304.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T11:37:53.559519+00:00",
-      "close": 305.09
-    },
     {
       "timestamp": "2026-08-15T11:55:23.488011+00:00",
       "close": 305.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T00:22:46.919136+00:00",
       "close": 304.06
+    },
+    {
+      "timestamp": "2026-08-18T01:56:11.669190+00:00",
+      "close": 304.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-17T20:25:00+00:00",
+      "title": "Consumer Sentiment Falls In August",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T17:31:15+00:00",
       "title": "Three Bubbles, One Liquidity Problem: The Market Is Running Out Of Room",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T13:22:11+00:00",
       "title": "The King Of The AI Bubble",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T13:04:32+00:00",
-      "title": "SanDisk Rips 10%, Micron Rises 6% as AI Memory Frenzy Builds: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
