@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:02:54.304705+00:00",
+  "generated_at": "2026-08-18T21:34:21.608274+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 336.87,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T03:25:17.147104+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-16T04:07:59.981692+00:00",
       "close": 342.27
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T21:02:54.304705+00:00",
       "close": 336.87
+    },
+    {
+      "timestamp": "2026-08-18T21:34:21.608274+00:00",
+      "close": 336.87
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T16:57:01+00:00",
+      "title": "SpaceX: Strap In For A Very Long, Bumpy Ride",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T10:28:28+00:00",
       "title": "Tesla Lands 500-Truck Order From Einride in World's Largest Tesla Semi Deployment",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:45:05+00:00",
-      "title": "GLJ Research Reiterates Sell on Tesla, Maintains $24.86 Price Target",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
