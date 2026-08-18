@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T13:00:24.403519+00:00",
+  "generated_at": "2026-08-18T13:50:28.685761+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1011.75,
-    "change_pct": 4.125928822839264
+    "price": 963.37,
+    "change_pct": -4.781813689152459
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T19:29:51.403505+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-15T19:49:13.654666+00:00",
       "close": 971.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T13:00:24.403519+00:00",
       "close": 1011.75
+    },
+    {
+      "timestamp": "2026-08-18T13:50:28.685761+00:00",
+      "close": 963.37
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-18T12:08:20+00:00",
       "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T08:58:46+00:00",
+      "title": "Sandisk: Perhaps The Old Rules Are Actually Out",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T15:20:00+00:00",
       "title": "Lockheed Martin + Sandisk: Balance And Diversification, Growth And Income",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T13:07:21+00:00",
-      "title": "Micron Crosses $1,000: Here's How to Amplify the Trade with ETFs",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T13:00:24.403519+00:00",
+  "generated_at": "2026-08-18T13:50:28.685761+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 430.97,
-    "change_pct": 1.0836167468042612
+    "price": 415.95,
+    "change_pct": -3.4851613801424763
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T19:29:51.403505+00:00",
-      "close": 426.35
-    },
     {
       "timestamp": "2026-08-15T19:49:13.654666+00:00",
       "close": 426.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T13:00:24.403519+00:00",
       "close": 430.97
+    },
+    {
+      "timestamp": "2026-08-18T13:50:28.685761+00:00",
+      "close": 415.95
     }
   ],
   "events": [

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T13:00:24.403519+00:00",
+  "generated_at": "2026-08-18T13:50:28.685761+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 392.43,
-    "change_pct": -0.1424972645614364
+    "price": 380.19,
+    "change_pct": -3.119027597278501
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T19:29:51.403505+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-15T19:49:13.654666+00:00",
       "close": 392.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T13:00:24.403519+00:00",
       "close": 392.43
+    },
+    {
+      "timestamp": "2026-08-18T13:50:28.685761+00:00",
+      "close": 380.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T09:30:00+00:00",
+      "title": "Accenture Could Be Dead Money",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T08:30:16+00:00",
       "title": "BST: This Income Machine Can Still Work After Reaching $50",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-17T12:41:26+00:00",
       "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T11:45:49+00:00",
-      "title": "Here’s How Much You Would Have Made Owning Broadcom Stock In The Last 15 Years",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T13:00:24.403519+00:00",
+  "generated_at": "2026-08-18T13:50:28.685761+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 480.35,
-    "change_pct": -3.037949132014528
+    "price": 482.23,
+    "change_pct": 0.3913812844800635
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T19:29:51.403505+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T19:49:13.654666+00:00",
       "close": 495.4
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T13:00:24.403519+00:00",
       "close": 480.35
+    },
+    {
+      "timestamp": "2026-08-18T13:50:28.685761+00:00",
+      "close": 482.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T09:30:00+00:00",
+      "title": "Accenture Could Be Dead Money",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T09:13:28+00:00",
+      "title": "Microsoft: The Price Climbed Too Far Too Fast (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T06:30:00+00:00",
       "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-17T15:59:38+00:00",
       "title": "Infleqtion: The Execution Phase (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T15:52:13+00:00",
-      "title": "QUICK SPARK: OpenAI, Anthropic and SpaceX Fuel Harbor’s New AI ETF Strategy Beyond Big Tech",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T13:45:55+00:00",
-      "title": "Why I Like Alphabet's Debt (Rating Upgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
