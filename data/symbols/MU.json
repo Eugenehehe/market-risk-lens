@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:17:08.954066+00:00",
+  "generated_at": "2026-08-18T08:57:36.491958+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1011.75,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T15:57:00.303442+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-15T16:30:48.460932+00:00",
       "close": 971.66
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T08:17:08.954066+00:00",
       "close": 1011.75
+    },
+    {
+      "timestamp": "2026-08-18T08:57:36.491958+00:00",
+      "close": 1011.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T07:52:21+00:00",
+      "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T12:35:15+00:00",
       "title": "The 'Silver Tsunami': Significant Demographic Headwind Incoming",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:35:01+00:00",
-      "title": "What's going on in today's pre-market session: S&P500 movers",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

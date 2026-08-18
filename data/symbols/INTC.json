@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:17:08.954066+00:00",
+  "generated_at": "2026-08-18T08:57:36.491958+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 103.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T15:57:00.303442+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-15T16:30:48.460932+00:00",
       "close": 102.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T08:17:08.954066+00:00",
       "close": 103.49
+    },
+    {
+      "timestamp": "2026-08-18T08:57:36.491958+00:00",
+      "close": 103.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T07:52:21+00:00",
+      "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T20:34:28+00:00",
       "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T17:31:50+00:00",
       "title": "Sector Update: Tech Stocks Rise Monday Afternoon",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T17:31:15+00:00",
-      "title": "Three Bubbles, One Liquidity Problem: The Market Is Running Out Of Room",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
