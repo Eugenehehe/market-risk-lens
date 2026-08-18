@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:22:30.216903+00:00",
+  "generated_at": "2026-08-18T05:00:26.094897+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 729.87,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T13:46:18.420275+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-15T14:02:11.863351+00:00",
       "close": 731.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T04:22:30.216903+00:00",
       "close": 729.87
+    },
+    {
+      "timestamp": "2026-08-18T05:00:26.094897+00:00",
+      "close": 729.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T00:10:00+00:00",
+      "title": "Cumberland's Monday Memo",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-17T20:25:00+00:00",
       "title": "Consumer Sentiment Falls In August",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T13:37:46+00:00",
       "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T13:29:03+00:00",
-      "title": "August 2026 Trading Outlook: Stock Market, Bonds, Fiscal Flows, And Interest Rates",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
