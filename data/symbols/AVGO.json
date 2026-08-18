@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T17:44:50.484422+00:00",
+  "generated_at": "2026-08-18T18:13:31.964963+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 381.07,
-    "change_pct": -2.8947837830950784
+    "price": 380.2,
+    "change_pct": -3.11647937211732
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:27:43.220191+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-15T22:50:45.187043+00:00",
       "close": 392.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T17:44:50.484422+00:00",
       "close": 381.07
+    },
+    {
+      "timestamp": "2026-08-18T18:13:31.964963+00:00",
+      "close": 380.2
     }
   ],
   "events": [

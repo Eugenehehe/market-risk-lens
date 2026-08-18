@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T17:44:50.484422+00:00",
+  "generated_at": "2026-08-18T18:13:31.964963+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 718.06,
-    "change_pct": -1.6180963733267606
+    "price": 716.91,
+    "change_pct": -1.7756586789428264
   },
   "risk": {
-    "score": 63,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:27:43.220191+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-15T22:50:45.187043+00:00",
       "close": 731.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T17:44:50.484422+00:00",
       "close": 718.06
+    },
+    {
+      "timestamp": "2026-08-18T18:13:31.964963+00:00",
+      "close": 716.91
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-18T12:54:22+00:00",
       "title": "Japan's Bond Market Selloff May Drive Treasury Rates Significantly Higher",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T12:40:18+00:00",
+      "title": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T09:13:44+00:00",
       "title": "Prepare For A Spike In Volatility",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:10:07+00:00",
-      "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

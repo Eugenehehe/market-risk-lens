@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T17:44:50.484422+00:00",
+  "generated_at": "2026-08-18T18:13:31.964963+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 213.86,
-    "change_pct": -8.735543891093755
+    "price": 211.22,
+    "change_pct": -9.86216020142534
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:27:43.220191+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-15T22:50:45.187043+00:00",
       "close": 222.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T17:44:50.484422+00:00",
       "close": 213.86
+    },
+    {
+      "timestamp": "2026-08-18T18:13:31.964963+00:00",
+      "close": 211.22
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-18T14:35:02+00:00",
       "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T12:40:18+00:00",
+      "title": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T07:46:49+00:00",
       "title": "What's Going On With Marvell Technology Stock Tuesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T19:05:01+00:00",
-      "title": "Which S&P500 stocks are moving on Monday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

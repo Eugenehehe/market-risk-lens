@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T17:44:50.484422+00:00",
+  "generated_at": "2026-08-18T18:13:31.964963+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 310.08,
-    "change_pct": 1.4692889165221379
+    "price": 310.54,
+    "change_pct": 1.6198174024019352
   },
   "risk": {
-    "score": 62,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:27:43.220191+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T22:50:45.187043+00:00",
       "close": 305.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T17:44:50.484422+00:00",
       "close": 310.08
+    },
+    {
+      "timestamp": "2026-08-18T18:13:31.964963+00:00",
+      "close": 310.54
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-18T02:02:13+00:00",
+      "title": "China's Chip Revenue Hits Record $245 Billion As SMIC and CXMT Lead the Pack: ETFs to Watch",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-17T19:10:06+00:00",
       "title": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T17:00:00+00:00",
-      "title": "S&P 500: The Bull Market That Won't Die",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

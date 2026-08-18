@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T17:44:50.484422+00:00",
+  "generated_at": "2026-08-18T18:13:31.964963+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 768.14,
-    "change_pct": -0.5862787477189491
+    "price": 767.71,
+    "change_pct": -0.641929931277252
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:27:43.220191+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-15T22:50:45.187043+00:00",
       "close": 776.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T17:44:50.484422+00:00",
       "close": 768.14
+    },
+    {
+      "timestamp": "2026-08-18T18:13:31.964963+00:00",
+      "close": 767.71
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-18T12:25:08+00:00",
       "title": "Are Technology Stocks Still Going Parabolic (Part 2)?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T12:08:26+00:00",
+      "title": "Play These Inverse ETFs if Markets Turn Rocky",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T09:13:44+00:00",
       "title": "Prepare For A Spike In Volatility",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:10:07+00:00",
-      "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

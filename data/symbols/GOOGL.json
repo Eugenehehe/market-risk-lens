@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T17:44:50.484422+00:00",
+  "generated_at": "2026-08-18T18:13:31.964963+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.31,
-    "change_pct": -0.20058139534883113
+    "price": 343.8,
+    "change_pct": -0.05813953488371659
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:27:43.220191+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-15T22:50:45.187043+00:00",
       "close": 345.9
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T17:44:50.484422+00:00",
       "close": 343.31
+    },
+    {
+      "timestamp": "2026-08-18T18:13:31.964963+00:00",
+      "close": 343.8
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-18T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T13:53:08+00:00",
+      "title": "XLC: Alphabet And Meta Just Keep Churning",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T11:46:22+00:00",
+      "title": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T06:58:00+00:00",
       "title": "Wall Street Breakfast Podcast: Return Of The Bond Vigilantes?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:30:00+00:00",
-      "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T01:55:42+00:00",
-      "title": "'Google Plans To Stop Making Pixel Products In China in 2027' - Nikkei Asia",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
