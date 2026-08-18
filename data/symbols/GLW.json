@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T11:58:02.689630+00:00",
+  "generated_at": "2026-08-18T13:00:24.403519+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 173.21,
     "change_pct": 4.349659618049273
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T19:02:10.188562+00:00",
-      "close": 165.99
-    },
     {
       "timestamp": "2026-08-15T19:29:51.403505+00:00",
       "close": 165.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T11:58:02.689630+00:00",
       "close": 173.21
+    },
+    {
+      "timestamp": "2026-08-18T13:00:24.403519+00:00",
+      "close": 173.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T12:35:01+00:00",
+      "title": "Get insights into the top movers in the S&P500 index of Tuesday's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T07:52:21+00:00",
       "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
