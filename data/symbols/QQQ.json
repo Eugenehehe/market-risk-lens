@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T16:02:13.020195+00:00",
+  "generated_at": "2026-08-18T16:44:06.904717+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 719.05,
-    "change_pct": -1.48245577979641
+    "price": 718.7,
+    "change_pct": -1.5304095249839
   },
   "risk": {
-    "score": 62,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:19:09.317819+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-15T21:40:18.947455+00:00",
       "close": 731.07
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T16:02:13.020195+00:00",
       "close": 719.05
+    },
+    {
+      "timestamp": "2026-08-18T16:44:06.904717+00:00",
+      "close": 718.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T12:25:08+00:00",
+      "title": "Are Technology Stocks Still Going Parabolic (Part 2)?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T11:43:57+00:00",
+      "title": "What's Going On With Meta Platforms Stock Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T10:35:00+00:00",
       "title": "Markets Track Lower For Third Straight Session",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T08:40:38+00:00",
       "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Rejects Extending Ceasefire With Iran—Home Depot, Super League, Flexsteel in Focus (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:30:00+00:00",
-      "title": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:29:20+00:00",
-      "title": "How The End Of Reserve Management Purchases Might Impact The Treasury Bill Market",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

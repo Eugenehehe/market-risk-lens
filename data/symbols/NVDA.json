@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T16:02:13.020195+00:00",
+  "generated_at": "2026-08-18T16:44:06.904717+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 220.33,
-    "change_pct": -2.079907559664007
+    "price": 219.91,
+    "change_pct": -2.266565930403086
   },
   "risk": {
-    "score": 67,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:19:09.317819+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-15T21:40:18.947455+00:00",
       "close": 225.16
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T16:02:13.020195+00:00",
       "close": 220.33
+    },
+    {
+      "timestamp": "2026-08-18T16:44:06.904717+00:00",
+      "close": 219.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T12:21:21+00:00",
+      "title": "Palantir: Why I'm Doubling Down",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T11:42:51+00:00",
+      "title": "Cathie Wood's ARK Is Quietly Building an AI Picks-and-Shovels Portfolio",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T10:57:06+00:00",
       "title": "Nvidia: Owning This Is Betting On Future Technology Advancements (Earnings Preview)",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T09:10:07+00:00",
       "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:00:00+00:00",
-      "title": "Nvidia: The Cleanest AI Bet Ahead Of Q2 Earnings (Preview)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:30:16+00:00",
-      "title": "BST: This Income Machine Can Still Work After Reaching $50",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

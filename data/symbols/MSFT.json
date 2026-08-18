@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T16:02:13.020195+00:00",
+  "generated_at": "2026-08-18T16:44:06.904717+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 481.7,
-    "change_pct": 0.28104507130217726
+    "price": 481.64,
+    "change_pct": 0.2685541792442958
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:19:09.317819+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T21:40:18.947455+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T16:02:13.020195+00:00",
       "close": 481.7
+    },
+    {
+      "timestamp": "2026-08-18T16:44:06.904717+00:00",
+      "close": 481.64
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-08-18T09:10:07+00:00",
       "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T08:57:57+00:00",
+      "title": "CBRS Stock Popped Nearly 10% Over 5 Sessions, IREN Jumped 15% — Here’s the ‘Situational Awareness’ Strategy Connecting Them",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T17:00:00+00:00",
       "title": "S&P 500: The Bull Market That Won't Die",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T16:40:06+00:00",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

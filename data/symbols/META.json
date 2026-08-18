@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T16:02:13.020195+00:00",
+  "generated_at": "2026-08-18T16:44:06.904717+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 554.71,
-    "change_pct": -2.5062832838286697
+    "price": 550.4,
+    "change_pct": -3.2637924670896656
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T21:19:09.317819+00:00",
-      "close": 589.85
-    },
     {
       "timestamp": "2026-08-15T21:40:18.947455+00:00",
       "close": 589.85
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T16:02:13.020195+00:00",
       "close": 554.71
+    },
+    {
+      "timestamp": "2026-08-18T16:44:06.904717+00:00",
+      "close": 550.4
     }
   ],
   "events": [
