@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T14:57:35.224101+00:00",
+  "generated_at": "2026-08-18T15:38:10.539374+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.04,
-    "change_pct": -0.27906976744185297
+    "price": 342.53,
+    "change_pct": -0.4273255813953547
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T20:33:54.086849+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-15T20:54:45.056953+00:00",
       "close": 345.9
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T14:57:35.224101+00:00",
       "close": 343.04
+    },
+    {
+      "timestamp": "2026-08-18T15:38:10.539374+00:00",
+      "close": 342.53
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-18T09:48:16+00:00",
       "title": "Netlist: Samsung Bends The Knee, Micron, Alphabet And Super Micro Computer Could Be Next",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T09:10:07+00:00",
+      "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-17T16:48:38+00:00",
       "title": "Alphabet: The Cheapest Mega-Cap Tech Company",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T16:17:59+00:00",
-      "title": "Don't Expect Massive Upside From Apple At This Entry Point",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
