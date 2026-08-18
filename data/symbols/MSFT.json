@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T18:13:31.964963+00:00",
+  "generated_at": "2026-08-18T18:59:20.537897+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 482.12,
-    "change_pct": 0.368481315707303
+    "price": 482.6,
+    "change_pct": 0.46840845217028804
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:50:45.187043+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T23:09:19.560722+00:00",
       "close": 495.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T18:13:31.964963+00:00",
       "close": 482.12
+    },
+    {
+      "timestamp": "2026-08-18T18:59:20.537897+00:00",
+      "close": 482.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T12:00:12+00:00",
+      "title": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T09:30:00+00:00",
       "title": "Accenture Could Be Dead Money",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T19:10:06+00:00",
       "title": "Discover which dow jones stocks are making waves on Monday.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T17:00:00+00:00",
-      "title": "S&P 500: The Bull Market That Won't Die",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

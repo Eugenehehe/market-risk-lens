@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T18:13:31.964963+00:00",
+  "generated_at": "2026-08-18T18:59:20.537897+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 336.36,
-    "change_pct": -0.866489832007078
+    "price": 335.7,
+    "change_pct": -1.0610079575596898
   },
   "risk": {
-    "score": 57,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:50:45.187043+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-15T23:09:19.560722+00:00",
       "close": 342.27
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-18T18:13:31.964963+00:00",
       "close": 336.36
+    },
+    {
+      "timestamp": "2026-08-18T18:59:20.537897+00:00",
+      "close": 335.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T18:05:02+00:00",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:01:46+00:00",
+      "title": "Tesla: Back Into Negative Free Cash Flow Territory",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T12:56:23+00:00",
       "title": "Stocks making the biggest moves midday: Meta, Amylyx, Baidu, Klarna, Coherent, Sandisk & more",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-18T08:05:46+00:00",
+      "title": "Tesla’s Steering-Wheel-Free Cybercab Could Hit Austin Streets This Month as Elon Musk Ramps Up Robotaxi Push: TSLA Stock Down 1.38% (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-18T07:46:11+00:00",
       "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
       "source": "CNBC",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-18T06:31:52+00:00",
       "title": "Einride Announces Planned Deployment Of 500 Tesla Semi Trucks On Its Saga AI Fleet Intelligence Platform",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:19:01+00:00",
-      "title": "Former Tesla President Says Roadster Demo Could Be a ‘Not-So-Hidden Attempt’ to Knit TSLA and SPCX Together: ‘Probably Sooner Rather Than Later’",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T05:40:36+00:00",
-      "title": "ChronicleBio Cofounder Fidji Simo Says AI Could Transform Disease Treatment, But Smarter Models Aren’t Enough",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T15:53:15+00:00",
-      "title": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years — but 4 Stocks Beat It Over the Past 5 Years",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

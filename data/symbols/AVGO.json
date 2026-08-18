@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T18:13:31.964963+00:00",
+  "generated_at": "2026-08-18T18:59:20.537897+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 380.2,
-    "change_pct": -3.11647937211732
+    "price": 378.65,
+    "change_pct": -3.51145427209949
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:50:45.187043+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-15T23:09:19.560722+00:00",
       "close": 392.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T18:13:31.964963+00:00",
       "close": 380.2
+    },
+    {
+      "timestamp": "2026-08-18T18:59:20.537897+00:00",
+      "close": 378.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T11:42:44+00:00",
+      "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T09:30:00+00:00",
       "title": "Accenture Could Be Dead Money",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T13:21:30+00:00",
       "title": "Broadcom Is Set To Rewrite The AI Narrative",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T12:41:26+00:00",
-      "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

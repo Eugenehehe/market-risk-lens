@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T18:13:31.964963+00:00",
+  "generated_at": "2026-08-18T18:59:20.537897+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 767.71,
-    "change_pct": -0.641929931277252
+    "price": 767.79,
+    "change_pct": -0.6315762227082744
   },
   "risk": {
     "score": 56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:50:45.187043+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-15T23:09:19.560722+00:00",
       "close": 776.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T18:13:31.964963+00:00",
       "close": 767.71
+    },
+    {
+      "timestamp": "2026-08-18T18:59:20.537897+00:00",
+      "close": 767.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T13:50:44+00:00",
+      "title": "'Meta Exploits Youths on Social Media, States Allege at Trial' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T12:54:22+00:00",
       "title": "Japan's Bond Market Selloff May Drive Treasury Rates Significantly Higher",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T09:15:00+00:00",
       "title": "The 9% Portfolio That Retires Your Paycheck",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:13:44+00:00",
-      "title": "Prepare For A Spike In Volatility",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T18:13:31.964963+00:00",
+  "generated_at": "2026-08-18T18:59:20.537897+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 524.42,
-    "change_pct": -6.206181141794254
+    "price": 527.15,
+    "change_pct": -5.717913864644442
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T22:50:45.187043+00:00",
-      "close": 550.42
-    },
     {
       "timestamp": "2026-08-15T23:09:19.560722+00:00",
       "close": 550.42
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T18:13:31.964963+00:00",
       "close": 524.42
+    },
+    {
+      "timestamp": "2026-08-18T18:59:20.537897+00:00",
+      "close": 527.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T13:37:20+00:00",
+      "title": "You’re Already Funding the AI Bubble — and You’ll Pay for the Bust",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T09:03:46+00:00",
       "title": "What's Going On With Intel Stock Tuesday?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T08:56:22+00:00",
       "title": "What's Going On With AMD Stock Monday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T08:30:00+00:00",
-      "title": "Equipment Companies Will Collect While Hyperscalers Borrow",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
