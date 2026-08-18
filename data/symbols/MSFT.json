@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:41:45.834178+00:00",
+  "generated_at": "2026-08-18T11:03:29.826271+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 480.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T17:40:10.391335+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T17:57:41.354994+00:00",
       "close": 495.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T10:41:45.834178+00:00",
       "close": 480.35
+    },
+    {
+      "timestamp": "2026-08-18T11:03:29.826271+00:00",
+      "close": 480.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T06:30:00+00:00",
+      "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T06:05:25+00:00",
       "title": "Soluna Holdings: The $1.3B Question Remains Unanswered",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T13:45:55+00:00",
       "title": "Why I Like Alphabet's Debt (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T13:37:46+00:00",
-      "title": "Anthropic's Revenue Jumps 14x; Chinese AI Targets Nvidia's Moat",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

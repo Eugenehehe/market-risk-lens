@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:41:45.834178+00:00",
+  "generated_at": "2026-08-18T11:03:29.826271+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 305.59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T17:40:10.391335+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T17:57:41.354994+00:00",
       "close": 305.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T10:41:45.834178+00:00",
       "close": 305.59
+    },
+    {
+      "timestamp": "2026-08-18T11:03:29.826271+00:00",
+      "close": 305.59
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-18T07:52:21+00:00",
       "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T06:30:00+00:00",
+      "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-17T15:20:35+00:00",
       "title": "Apple Memory Headwinds Are Reason To Pause (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T15:05:03+00:00",
-      "title": "Alibaba Remains Too Cheap To Ignore (Earnings Preview)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
