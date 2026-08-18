@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 336.94,
-    "change_pct": -0.6955496610669076
+    "price": 336.2,
+    "change_pct": -0.9136457412319499
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 342.27
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 336.94
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 336.2
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:37:29+00:00",
+      "title": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:23:59+00:00",
+      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-18T08:05:46+00:00",
-      "title": "Tesla’s Steering-Wheel-Free Cybercab Could Hit Austin Streets This Month as Elon Musk Ramps Up Robotaxi Push: TSLA Stock Down 1.38% (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T07:46:11+00:00",
-      "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:31:52+00:00",
-      "title": "Einride Announces Planned Deployment Of 500 Tesla Semi Trucks On Its Saga AI Fleet Intelligence Platform",
+      "timestamp": "2026-08-18T09:45:05+00:00",
+      "title": "GLJ Research Reiterates Sell on Tesla, Maintains $24.86 Price Target",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

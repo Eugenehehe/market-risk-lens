@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 344.51,
-    "change_pct": 0.14825581395347953
+    "price": 344.14,
+    "change_pct": 0.0406976744186105
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 345.9
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 344.51
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 344.14
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-18T19:10:06+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-18T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T15:22:11+00:00",
+      "title": "The Math Of The AI Bubble Is Changing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:37:29+00:00",
+      "title": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-18T11:46:22+00:00",
       "title": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T10:25:27+00:00",
-      "title": "Sandisk's Nvidia Catalyst Just Emerged (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:48:16+00:00",
-      "title": "Netlist: Samsung Bends The Knee, Micron, Alphabet And Super Micro Computer Could Be Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:10:07+00:00",
-      "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.35,
-    "change_pct": -2.5154437580551914
+    "price": 219.29,
+    "change_pct": -2.542109239589352
   },
   "risk": {
     "score": 71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 225.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 219.35
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 219.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T19:10:06+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -530,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-18T15:22:11+00:00",
+      "title": "The Math Of The AI Bubble Is Changing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:23:59+00:00",
+      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-18T13:51:10+00:00",
       "title": "IREN Is Quietly Outpacing CoreWeave on One AI Metric that Matters",
       "source": "Benzinga",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-18T13:37:20+00:00",
       "title": "You’re Already Funding the AI Bubble — and You’ll Pay for the Bust",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T13:21:46+00:00",
-      "title": "Nvidia's Q2 Preview: A $7 Trillion Market Cap Within Reach",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:21:21+00:00",
-      "title": "Palantir: Why I'm Doubling Down",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:00:12+00:00",
-      "title": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

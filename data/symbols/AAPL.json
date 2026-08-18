@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 309.83,
-    "change_pct": 1.3874799568048823
+    "price": 310.93,
+    "change_pct": 1.7474393795608556
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 305.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 309.83
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 310.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T19:10:06+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -517,6 +525,14 @@
       "timestamp": "2026-08-18T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:23:59+00:00",
+      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-18T08:30:00+00:00",
       "title": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T07:52:21+00:00",
-      "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:30:00+00:00",
-      "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

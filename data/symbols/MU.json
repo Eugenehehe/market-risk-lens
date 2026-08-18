@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 937.35,
-    "change_pct": -7.3535952557449935
+    "price": 940.54,
+    "change_pct": -7.038299975290341
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 971.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 937.35
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 940.54
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-18T15:08:45+00:00",
       "title": "Micron: Inventory Does Not Lie (Rating Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:23:59+00:00",
+      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T12:08:20+00:00",
       "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:48:16+00:00",
-      "title": "Netlist: Samsung Bends The Knee, Micron, Alphabet And Super Micro Computer Could Be Next",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 545.12,
-    "change_pct": -4.191785155632111
+    "price": 544.93,
+    "change_pct": -4.22517883192437
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 589.85
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 589.85
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 545.12
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 544.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T14:23:59+00:00",
+      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T14:00:00+00:00",
       "title": "Wall Street Lunch: Meta Faces High-Stakes Federal Trial Over Child Safety",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T11:43:57+00:00",
       "title": "What's Going On With Meta Platforms Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T11:42:44+00:00",
-      "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

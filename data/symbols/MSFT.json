@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T19:33:39.163475+00:00",
+  "generated_at": "2026-08-18T19:53:35.876104+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 483.25,
-    "change_pct": 0.6037264494639372
+    "price": 482.11,
+    "change_pct": 0.3663995003643228
   },
   "risk": {
-    "score": 55,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:33:54.709880+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-15T23:52:51.592059+00:00",
       "close": 495.4
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 483.25
+    },
+    {
+      "timestamp": "2026-08-18T19:53:35.876104+00:00",
+      "close": 482.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-18T15:22:11+00:00",
+      "title": "The Math Of The AI Bubble Is Changing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:23:59+00:00",
+      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T14:10:19+00:00",
+      "title": "'OpenAI Institutes New Safeguards After Hugging Face Breach' - TechCrunch",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T13:51:10+00:00",
       "title": "IREN Is Quietly Outpacing CoreWeave on One AI Metric that Matters",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-18T09:10:07+00:00",
       "title": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:57:57+00:00",
-      "title": "CBRS Stock Popped Nearly 10% Over 5 Sessions, IREN Jumped 15% — Here’s the ‘Situational Awareness’ Strategy Connecting Them",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:30:00+00:00",
-      "title": "The Real Reason Markets Are Rising Despite A Bearish Macro Backdrop",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T06:05:25+00:00",
-      "title": "Soluna Holdings: The $1.3B Question Remains Unanswered",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
