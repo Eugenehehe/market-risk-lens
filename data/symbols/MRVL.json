@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T23:47:36.679804+00:00",
+  "generated_at": "2026-08-18T00:22:46.919136+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 234.33,
     "change_pct": 5.54454553643815
   },
   "risk": {
-    "score": 74,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T11:15:14.578628+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-15T11:37:53.559519+00:00",
       "close": 222.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-17T23:47:36.679804+00:00",
       "close": 234.33
+    },
+    {
+      "timestamp": "2026-08-18T00:22:46.919136+00:00",
+      "close": 234.33
     }
   ],
   "events": [
@@ -549,14 +549,6 @@
       "timestamp": "2026-08-17T10:25:30+00:00",
       "title": "UBS Maintains Buy on Marvell Technology, Lowers Price Target to $300",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-15T06:37:52+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
