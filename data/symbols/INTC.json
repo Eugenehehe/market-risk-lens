@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T15:38:10.539374+00:00",
+  "generated_at": "2026-08-18T16:02:13.020195+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 96.01,
-    "change_pct": -7.227751473572319
+    "price": 96.62,
+    "change_pct": -6.638322543240882
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T20:54:45.056953+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-15T21:19:09.317819+00:00",
       "close": 102.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T15:38:10.539374+00:00",
       "close": 96.01
+    },
+    {
+      "timestamp": "2026-08-18T16:02:13.020195+00:00",
+      "close": 96.62
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-18T14:35:02+00:00",
       "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T11:29:19+00:00",
+      "title": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T09:03:46+00:00",
+      "title": "What's Going On With Intel Stock Tuesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-17T18:05:00+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T18:00:00+00:00",
-      "title": "Which stocks are most active on Monday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T17:40:29+00:00",
-      "title": "Top Midday Gainers",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
