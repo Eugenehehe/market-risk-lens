@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T19:53:35.876104+00:00",
+  "generated_at": "2026-08-18T20:18:24.049715+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.29,
-    "change_pct": -2.542109239589352
+    "price": 219.74,
+    "change_pct": -2.3421181280831926
   },
   "risk": {
-    "score": 71,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-15T23:52:51.592059+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T00:56:44.444809+00:00",
       "close": 225.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T19:53:35.876104+00:00",
       "close": 219.29
+    },
+    {
+      "timestamp": "2026-08-18T20:18:24.049715+00:00",
+      "close": 219.74
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-18T15:46:14+00:00",
+      "title": "SK hynix: Believe In The HBM Leader",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-18T15:22:11+00:00",
       "title": "The Math Of The AI Bubble Is Changing",
       "source": "SeekingAlpha",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T13:51:10+00:00",
       "title": "IREN Is Quietly Outpacing CoreWeave on One AI Metric that Matters",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T13:37:20+00:00",
-      "title": "You’re Already Funding the AI Bubble — and You’ll Pay for the Bust",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
