@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:18:42.661031+00:00",
+  "generated_at": "2026-08-19T09:53:55.862603+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 96.685,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T13:16:15.926793+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-16T13:47:30.507016+00:00",
       "close": 102.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T09:18:42.661031+00:00",
       "close": 96.685
+    },
+    {
+      "timestamp": "2026-08-19T09:53:55.862603+00:00",
+      "close": 96.685
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T08:07:58+00:00",
+      "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T07:52:21+00:00",
       "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T20:34:28+00:00",
-      "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

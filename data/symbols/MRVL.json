@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:18:42.661031+00:00",
+  "generated_at": "2026-08-19T09:53:55.862603+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 216,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T13:16:15.926793+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-16T13:47:30.507016+00:00",
       "close": 222.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T09:18:42.661031+00:00",
       "close": 216
+    },
+    {
+      "timestamp": "2026-08-19T09:53:55.862603+00:00",
+      "close": 216
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T08:07:58+00:00",
+      "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T19:05:01+00:00",
       "title": "Discover which S&P500 stocks are making waves on Tuesday.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T11:29:19+00:00",
       "title": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T10:24:03+00:00",
-      "title": "TD Cowen Maintains Hold on Marvell Technology, Raises Price Target to $225",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
