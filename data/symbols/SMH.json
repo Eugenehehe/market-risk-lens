@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T13:13:38.294983+00:00",
+  "generated_at": "2026-08-19T13:59:31.258340+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 569.77,
-    "change_pct": -4.090427054050883
+    "price": 562.99,
+    "change_pct": -1.189953841023561
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T16:07:55.017993+00:00",
-      "close": 587.82
-    },
     {
       "timestamp": "2026-08-16T16:40:49.813163+00:00",
       "close": 587.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-19T13:13:38.294983+00:00",
       "close": 569.77
+    },
+    {
+      "timestamp": "2026-08-19T13:59:31.258340+00:00",
+      "close": 562.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T09:10:00+00:00",
+      "title": "Equities Hit A Speed Bump As Semis Slide And Yields Climb",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T09:05:52+00:00",
+      "title": "Which Stocks Will Rise With The AI Boom? Part III: Funds And Signals To Watch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T17:41:38+00:00",
       "title": "AI Utilization May Be The Next Driver Of Growth",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T08:30:00+00:00",
       "title": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:25:23+00:00",
-      "title": "Wall Street is All-in on Stocks: BofA Says That’s a Sell Signal",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T21:46:04+00:00",
-      "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

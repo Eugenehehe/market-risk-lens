@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T13:13:38.294983+00:00",
+  "generated_at": "2026-08-19T13:59:31.258340+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 717.51,
-    "change_pct": -1.6934522586213974
+    "price": 715.92,
+    "change_pct": -0.22159969895890752
   },
   "risk": {
-    "score": 64,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T16:07:55.017993+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-16T16:40:49.813163+00:00",
       "close": 731.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T13:13:38.294983+00:00",
       "close": 717.51
+    },
+    {
+      "timestamp": "2026-08-19T13:59:31.258340+00:00",
+      "close": 715.92
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T09:29:10+00:00",
       "title": "Breadth Slips to Neutral-Positive as Selling Pressure Builds",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T09:05:52+00:00",
+      "title": "Which Stocks Will Rise With The AI Boom? Part III: Funds And Signals To Watch",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T15:31:27+00:00",
       "title": "10y10y Yields Are Above 2008 Highs: The S&P 500 Is Becoming The New Bond Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T15:22:11+00:00",
-      "title": "The Math Of The AI Bubble Is Changing",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

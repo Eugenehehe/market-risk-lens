@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T13:13:38.294983+00:00",
+  "generated_at": "2026-08-19T13:59:31.258340+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.74,
-    "change_pct": -2.3421181280831926
+    "price": 218.91,
+    "change_pct": -0.3777191225994403
   },
   "risk": {
-    "score": 69,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T16:07:55.017993+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T16:40:49.813163+00:00",
       "close": 225.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T13:13:38.294983+00:00",
       "close": 219.74
+    },
+    {
+      "timestamp": "2026-08-19T13:59:31.258340+00:00",
+      "close": 218.91
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T09:41:04+00:00",
       "title": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T09:30:00+00:00",
+      "title": "Lumentum: I Have Truly Underestimated This Beast (Upgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T18:00:00+00:00",
       "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T17:25:13+00:00",
-      "title": "AMD: On Dilution And Insider Sales",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
