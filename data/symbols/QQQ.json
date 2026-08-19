@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:15:35.681031+00:00",
+  "generated_at": "2026-08-19T13:13:38.294983+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 717.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T15:49:28.221644+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-16T16:07:55.017993+00:00",
       "close": 731.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T12:15:35.681031+00:00",
       "close": 717.51
+    },
+    {
+      "timestamp": "2026-08-19T13:13:38.294983+00:00",
+      "close": 717.51
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T09:29:10+00:00",
       "title": "Breadth Slips to Neutral-Positive as Selling Pressure Builds",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T08:20:33+00:00",
+      "title": "Global Imbalances And Geopolitical Fragmentation",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T15:22:11+00:00",
       "title": "The Math Of The AI Bubble Is Changing",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T14:23:59+00:00",
-      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
