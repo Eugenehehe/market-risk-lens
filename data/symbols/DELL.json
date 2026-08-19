@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T23:54:27.407731+00:00",
+  "generated_at": "2026-08-19T01:07:22.135638+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 468.65,
     "change_pct": -2.325920676934623
   },
   "risk": {
-    "score": 57,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T07:40:05.619475+00:00",
-      "close": 490.81
-    },
     {
       "timestamp": "2026-08-16T08:00:43.741696+00:00",
       "close": 490.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-18T23:54:27.407731+00:00",
       "close": 468.65
+    },
+    {
+      "timestamp": "2026-08-19T01:07:22.135638+00:00",
+      "close": 468.65
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-18T16:54:28+00:00",
       "title": "Sandisk: Investors Are Ignoring The Ceilings",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-18T12:12:07+00:00",
+      "title": "Team Liquid, Dell Extend Partnership Through 2031",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
