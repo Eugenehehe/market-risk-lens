@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T16:14:52.738516+00:00",
+  "generated_at": "2026-08-19T16:50:25.409095+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 719.15,
-    "change_pct": 0.2285682429513214
+    "price": 717.73,
+    "change_pct": 0.03066159356663878
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T18:01:03.852411+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-16T18:41:26.422593+00:00",
       "close": 731.07
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-19T16:14:52.738516+00:00",
       "close": 719.15
+    },
+    {
+      "timestamp": "2026-08-19T16:50:25.409095+00:00",
+      "close": 717.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T12:20:09+00:00",
+      "title": "Bond Yields Have Soared To Pre-Great Recession Levels, This Doesn't Worry Me",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T12:10:00+00:00",
+      "title": "Markets Trying To Recover From 3-Day Losing Streak",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T10:50:00+00:00",
       "title": "How Much Is AI Contributing To U.S. Economic Growth?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-19T08:11:45+00:00",
       "title": "3 Sectors Investors Should Buy Now as S&P 500 Stumbles — Strategist Sees 15%-18% Upside",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T06:17:51+00:00",
-      "title": "The Fed Can't Save Markets This Time",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T06:02:59+00:00",
-      "title": "Warsh Under Spotlight Amid Bond Market Selloff: The Jackson Hole Preview",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

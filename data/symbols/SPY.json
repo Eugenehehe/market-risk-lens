@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T16:14:52.738516+00:00",
+  "generated_at": "2026-08-19T16:50:25.409095+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 771.63,
-    "change_pct": 0.5446608899602579
+    "price": 770.17,
+    "change_pct": 0.3544204834190934
   },
   "risk": {
-    "score": 55,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T18:01:03.852411+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-16T18:41:26.422593+00:00",
       "close": 776.34
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-19T16:14:52.738516+00:00",
       "close": 771.63
+    },
+    {
+      "timestamp": "2026-08-19T16:50:25.409095+00:00",
+      "close": 770.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T12:20:09+00:00",
+      "title": "Bond Yields Have Soared To Pre-Great Recession Levels, This Doesn't Worry Me",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T12:10:00+00:00",
+      "title": "Markets Trying To Recover From 3-Day Losing Streak",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T10:50:00+00:00",
       "title": "How Much Is AI Contributing To U.S. Economic Growth?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-19T08:32:40+00:00",
       "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T08:20:33+00:00",
-      "title": "Global Imbalances And Geopolitical Fragmentation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T08:11:45+00:00",
-      "title": "3 Sectors Investors Should Buy Now as S&P 500 Stumbles — Strategist Sees 15%-18% Upside",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
