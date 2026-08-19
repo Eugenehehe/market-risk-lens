@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:51:37.610017+00:00",
+  "generated_at": "2026-08-19T06:26:22.832012+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 717.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T10:51:57.278358+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-16T11:12:17.408906+00:00",
       "close": 731.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T05:51:37.610017+00:00",
       "close": 717.51
+    },
+    {
+      "timestamp": "2026-08-19T06:26:22.832012+00:00",
+      "close": 717.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T02:00:00+00:00",
+      "title": "Volatility/Convexity Premia Fall To Lowest YTD Levels On Benign Inflation Data",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-18T15:31:27+00:00",
       "title": "10y10y Yields Are Above 2008 Highs: The S&P 500 Is Becoming The New Bond Market",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T11:43:57+00:00",
       "title": "What's Going On With Meta Platforms Stock Tuesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T10:35:00+00:00",
-      "title": "Markets Track Lower For Third Straight Session",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
