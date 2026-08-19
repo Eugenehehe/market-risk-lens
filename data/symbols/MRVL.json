@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:14:22.718249+00:00",
+  "generated_at": "2026-08-19T15:48:57.604997+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 233.35,
-    "change_pct": 8.032407407407405
+    "price": 233.74,
+    "change_pct": 8.212962962962965
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:28:11.369355+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-16T17:48:34.241440+00:00",
       "close": 222.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T15:14:22.718249+00:00",
       "close": 233.35
+    },
+    {
+      "timestamp": "2026-08-19T15:48:57.604997+00:00",
+      "close": 233.74
     }
   ],
   "events": [
@@ -509,6 +509,38 @@
       "timestamp": "2026-08-19T14:35:02+00:00",
       "title": "Which S&P500 stocks are gapping on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T10:37:43+00:00",
+      "title": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T10:08:12+00:00",
+      "title": "Estee Lauder, Moderna, Merck And Other Big Stocks Moving Higher On Wednesday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T09:19:51+00:00",
+      "title": "Why Marvell Technology Stock Is Surging Wednesday Morning",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T08:28:21+00:00",
+      "title": "Marvell Technology Enters Agreement With Google To Expand TPU Ecosystem, Including AI Inference Accelerators, Storage Controllers, Network Interface Controllers, Memory Interface Controllers And Near-Memory Compute; Company Issued To Google Warrant To Purchase Up To 58,970,907 MRVL Shares At An Exercise Price Of $206.58 Per Share",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-18T16:35:01+00:00",
       "title": "Stay informed with the top movers within the S&P500 index on Tuesday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T14:35:02+00:00",
-      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:40:18+00:00",
-      "title": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:35:01+00:00",
-      "title": "Get insights into the top movers in the S&P500 index of Tuesday's pre-market session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:08:20+00:00",
-      "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,

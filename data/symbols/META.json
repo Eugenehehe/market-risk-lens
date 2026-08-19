@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T15:14:22.718249+00:00",
+  "generated_at": "2026-08-19T15:48:57.604997+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 547.43,
-    "change_pct": 0.6915960049294512
+    "price": 552.41,
+    "change_pct": 1.6075928412456086
   },
   "risk": {
-    "score": 56,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:28:11.369355+00:00",
-      "close": 589.85
-    },
     {
       "timestamp": "2026-08-16T17:48:34.241440+00:00",
       "close": 589.85
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T15:14:22.718249+00:00",
       "close": 547.43
+    },
+    {
+      "timestamp": "2026-08-19T15:48:57.604997+00:00",
+      "close": 552.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T08:11:45+00:00",
+      "title": "3 Sectors Investors Should Buy Now as S&P 500 Stumbles — Strategist Sees 15%-18% Upside",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T07:05:25+00:00",
       "title": "Meta's AI Payoff Has Already Begun",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T13:50:44+00:00",
       "title": "'Meta Exploits Youths on Social Media, States Allege at Trial' - Bloomberg",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:51:53+00:00",
-      "title": "What the Meta Platform trial means for investors",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

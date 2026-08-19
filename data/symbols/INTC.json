@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:14:22.718249+00:00",
+  "generated_at": "2026-08-19T15:48:57.604997+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 93.32,
-    "change_pct": -3.4803744117495095
+    "price": 93.24,
+    "change_pct": -3.5631173398148697
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:28:11.369355+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-16T17:48:34.241440+00:00",
       "close": 102.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T15:14:22.718249+00:00",
       "close": 93.32
+    },
+    {
+      "timestamp": "2026-08-19T15:48:57.604997+00:00",
+      "close": 93.24
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T08:07:58+00:00",
       "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T05:25:02+00:00",
+      "title": "Intel Eyes an Opening in Taiwan Semiconductor’s AI Packaging Fortress",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T09:03:46+00:00",
       "title": "What's Going On With Intel Stock Tuesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T07:52:21+00:00",
-      "title": "Iran Risk and Oil Above $90 Snap the Rally as Memory Chips Do the Heavy Lifting and Reddit Wobbles Into the S&P 500",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
