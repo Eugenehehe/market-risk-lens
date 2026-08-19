@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T17:44:47.567465+00:00",
+  "generated_at": "2026-08-19T18:02:40.255698+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 347.05,
-    "change_pct": 3.0219372458218263
+    "price": 348.3,
+    "change_pct": 3.3930002671653803
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:29:17.075680+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-16T19:48:04.853274+00:00",
       "close": 342.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T17:44:47.567465+00:00",
       "close": 347.05
+    },
+    {
+      "timestamp": "2026-08-19T18:02:40.255698+00:00",
+      "close": 348.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T13:31:00+00:00",
+      "title": "Tesla: No One Is Paying Attention",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T13:09:55+00:00",
       "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T14:23:59+00:00",
       "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T14:01:46+00:00",
-      "title": "Tesla: Back Into Negative Free Cash Flow Territory",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
