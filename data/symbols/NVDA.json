@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T16:50:25.409095+00:00",
+  "generated_at": "2026-08-19T17:15:20.024654+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.17,
-    "change_pct": -0.2593974697369772
+    "price": 219.01,
+    "change_pct": -0.332210794575416
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T18:41:26.422593+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T19:03:44.930750+00:00",
       "close": 225.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T16:50:25.409095+00:00",
       "close": 219.17
+    },
+    {
+      "timestamp": "2026-08-19T17:15:20.024654+00:00",
+      "close": 219.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T16:40:06+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T11:08:43+00:00",
       "title": "Hewlett Packard Enterprise's AI Networking Is Impressive, Even After The Rally",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T09:41:04+00:00",
       "title": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:30:00+00:00",
-      "title": "Lumentum: I Have Truly Underestimated This Beast (Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

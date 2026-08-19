@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T16:50:25.409095+00:00",
+  "generated_at": "2026-08-19T17:15:20.024654+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 446.2,
-    "change_pct": -4.790355275792169
+    "price": 443.54,
+    "change_pct": -5.357943027845935
   },
   "risk": {
-    "score": 72,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T18:41:26.422593+00:00",
-      "close": 490.81
-    },
     {
       "timestamp": "2026-08-16T19:03:44.930750+00:00",
       "close": 490.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T16:50:25.409095+00:00",
       "close": 446.2
+    },
+    {
+      "timestamp": "2026-08-19T17:15:20.024654+00:00",
+      "close": 443.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T16:35:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T14:35:02+00:00",
       "title": "Which S&P500 stocks are gapping on Wednesday?",

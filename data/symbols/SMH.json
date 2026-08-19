@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T16:50:25.409095+00:00",
+  "generated_at": "2026-08-19T17:15:20.024654+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 563.78,
-    "change_pct": -1.0513014023202372
+    "price": 562.4,
+    "change_pct": -1.2935043965108695
   },
   "risk": {
-    "score": 59,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T18:41:26.422593+00:00",
-      "close": 587.82
-    },
     {
       "timestamp": "2026-08-16T19:03:44.930750+00:00",
       "close": 587.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T16:50:25.409095+00:00",
       "close": 563.78
+    },
+    {
+      "timestamp": "2026-08-19T17:15:20.024654+00:00",
+      "close": 562.4
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-19T07:33:24+00:00",
+      "title": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-18T17:41:38+00:00",
       "title": "AI Utilization May Be The Next Driver Of Growth",
       "source": "SeekingAlpha",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T15:42:44+00:00",
       "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T13:37:20+00:00",
-      "title": "You’re Already Funding the AI Bubble — and You’ll Pay for the Bust",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

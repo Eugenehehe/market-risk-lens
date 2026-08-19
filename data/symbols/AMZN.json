@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T16:50:25.409095+00:00",
+  "generated_at": "2026-08-19T17:15:20.024654+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 264.16,
-    "change_pct": 1.8153786856812681
+    "price": 264.37,
+    "change_pct": 1.896319136635194
   },
   "risk": {
-    "score": 65,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T18:41:26.422593+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-16T19:03:44.930750+00:00",
       "close": 262.65
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-19T16:50:25.409095+00:00",
       "close": 264.16
+    },
+    {
+      "timestamp": "2026-08-19T17:15:20.024654+00:00",
+      "close": 264.37
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-19T16:40:06+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-19T11:50:00+00:00",
       "title": "Wall Street Lunch: IBM Advances Quantum Roadmap By Connecting Two Cryogenic Modules",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T11:16:58+00:00",
+      "title": "SpaceX Rolls Out Grok 4.6 on Amazon Bedrock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-19T05:18:56+00:00",
       "title": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T02:32:43+00:00",
-      "title": "Cerebras Stock Takes a Hit as New AI Server Targets Nvidia With Giant Chips and Faster Chatbot Queries",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T22:22:53+00:00",
-      "title": "Tracking Al Gore's Generation Investment Management Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
