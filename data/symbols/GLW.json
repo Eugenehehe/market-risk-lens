@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:48:57.604997+00:00",
+  "generated_at": "2026-08-19T16:14:52.738516+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 152.85,
-    "change_pct": -4.409005628517826
+    "price": 153.5,
+    "change_pct": -4.002501563477178
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:48:34.241440+00:00",
-      "close": 165.99
-    },
     {
       "timestamp": "2026-08-16T18:01:03.852411+00:00",
       "close": 165.99
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T15:48:57.604997+00:00",
       "close": 152.85
+    },
+    {
+      "timestamp": "2026-08-19T16:14:52.738516+00:00",
+      "close": 153.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T11:42:02+00:00",
+      "title": "GGT: Collect 20% Yield From Communications, Multimedia, Sports, And Entertainment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T01:10:00+00:00",
       "title": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-17T19:05:01+00:00",
       "title": "Which S&P500 stocks are moving on Monday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T17:15:26+00:00",
-      "title": "Here's How Much $1000 Invested In Corning 15 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

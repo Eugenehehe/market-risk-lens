@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:48:57.604997+00:00",
+  "generated_at": "2026-08-19T16:14:52.738516+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 363.22,
-    "change_pct": -4.415789473684207
+    "price": 363.7,
+    "change_pct": -4.289473684210532
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:48:34.241440+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-16T18:01:03.852411+00:00",
       "close": 392.99
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-19T15:48:57.604997+00:00",
       "close": 363.22
+    },
+    {
+      "timestamp": "2026-08-19T16:14:52.738516+00:00",
+      "close": 363.7
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-19T10:37:43+00:00",
       "title": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T10:01:22+00:00",
+      "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T08:30:00+00:00",
       "title": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T05:58:48+00:00",
-      "title": "Competitor Analysis: Evaluating Broadcom And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

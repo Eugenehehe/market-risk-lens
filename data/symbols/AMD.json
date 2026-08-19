@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:48:57.604997+00:00",
+  "generated_at": "2026-08-19T16:14:52.738516+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 467.22,
-    "change_pct": -3.544664423295274
+    "price": 467.95,
+    "change_pct": -3.393959412869796
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:48:34.241440+00:00",
-      "close": 514.39
-    },
     {
       "timestamp": "2026-08-16T18:01:03.852411+00:00",
       "close": 514.39
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-19T15:48:57.604997+00:00",
       "close": 467.22
+    },
+    {
+      "timestamp": "2026-08-19T16:14:52.738516+00:00",
+      "close": 467.95
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-19T09:47:58+00:00",
       "title": "Stripe’s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T08:57:13+00:00",
+      "title": "Nvidia Gets a Limited China Break — H200 Chips Reach ByteDance, Tencent as Beijing Eases AI Curbs: Report (UPDATED)",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T11:29:19+00:00",
       "title": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:32:12+00:00",
-      "title": "What's Going On With AMD Stock Tuesday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

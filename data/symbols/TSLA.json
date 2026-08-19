@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T15:48:57.604997+00:00",
+  "generated_at": "2026-08-19T16:14:52.738516+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 346.63,
-    "change_pct": 2.897260070650387
+    "price": 348.43,
+    "change_pct": 3.431590821385111
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:48:34.241440+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-16T18:01:03.852411+00:00",
       "close": 342.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T15:48:57.604997+00:00",
       "close": 346.63
+    },
+    {
+      "timestamp": "2026-08-19T16:14:52.738516+00:00",
+      "close": 348.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T10:01:22+00:00",
+      "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T08:42:01+00:00",
       "title": "Cathie Wood Says Investors Should Avoid Memory Chip Stocks: Micron, SK Hynix in Focus (UPDATED)",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T12:56:23+00:00",
       "title": "Stocks making the biggest moves midday: Meta, Amylyx, Baidu, Klarna, Coherent, Sandisk & more",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T11:17:50+00:00",
-      "title": "Tesla Semi Deployment Triples Einride's Capacity As 500 Units Join Amazon Freight Push",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
