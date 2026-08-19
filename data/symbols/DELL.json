@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T19:15:09.328990+00:00",
+  "generated_at": "2026-08-19T19:43:18.613891+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 433.57,
-    "change_pct": -7.485330203776808
+    "price": 435.71,
+    "change_pct": -7.028699455883924
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T20:32:55.314896+00:00",
-      "close": 490.81
-    },
     {
       "timestamp": "2026-08-16T20:53:35.983639+00:00",
       "close": 490.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T19:15:09.328990+00:00",
       "close": 433.57
+    },
+    {
+      "timestamp": "2026-08-19T19:43:18.613891+00:00",
+      "close": 435.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T19:05:01+00:00",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T16:35:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",

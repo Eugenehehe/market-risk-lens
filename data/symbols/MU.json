@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T19:15:09.328990+00:00",
+  "generated_at": "2026-08-19T19:43:18.613891+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 931.33,
-    "change_pct": -1.0023810536162192
+    "price": 933.2,
+    "change_pct": -0.8036055954759869
   },
   "risk": {
-    "score": 59,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T20:32:55.314896+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-16T20:53:35.983639+00:00",
       "close": 971.66
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T19:15:09.328990+00:00",
       "close": 931.33
+    },
+    {
+      "timestamp": "2026-08-19T19:43:18.613891+00:00",
+      "close": 933.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T11:29:53+00:00",
+      "title": "Cathie Wood Says Elon Musk's Tesla Playbook Explains Why She's Avoiding SK Hynix and Micron",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T09:47:58+00:00",
       "title": "Stripe’s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T06:41:37+00:00",
       "title": "There Is So Much Alpha To Be Harvested In Micron's Options",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T06:15:26+00:00",
-      "title": "SKHY Stock Rips 6% in Premarket on $29 Billion Buyback Plan",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

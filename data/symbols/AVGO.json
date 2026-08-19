@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T19:15:09.328990+00:00",
+  "generated_at": "2026-08-19T19:43:18.613891+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 364.77,
-    "change_pct": -4.00789473684211
+    "price": 363.54,
+    "change_pct": -4.33157894736842
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T20:32:55.314896+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-16T20:53:35.983639+00:00",
       "close": 392.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T19:15:09.328990+00:00",
       "close": 364.77
+    },
+    {
+      "timestamp": "2026-08-19T19:43:18.613891+00:00",
+      "close": 363.54
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T16:35:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T15:09:10+00:00",
+      "title": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T08:07:58+00:00",
       "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T18:02:24+00:00",
-      "title": "Dow rises as Treasury unveils plan to relieve bond market pressure: Live updates",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
