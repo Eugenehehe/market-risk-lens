@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:53:55.862603+00:00",
+  "generated_at": "2026-08-19T10:24:20.820677+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 219.74,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T13:47:30.507016+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T14:08:53.014816+00:00",
       "close": 225.16
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T09:53:55.862603+00:00",
       "close": 219.74
+    },
+    {
+      "timestamp": "2026-08-19T10:24:20.820677+00:00",
+      "close": 219.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T09:41:04+00:00",
+      "title": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T08:07:58+00:00",
       "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Tuesday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T15:46:14+00:00",
-      "title": "SK hynix: Believe In The HBM Leader",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

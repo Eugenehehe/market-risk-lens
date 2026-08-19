@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:53:55.862603+00:00",
+  "generated_at": "2026-08-19T10:24:20.820677+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 300.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T13:47:30.507016+00:00",
-      "close": 305.09
-    },
     {
       "timestamp": "2026-08-16T14:08:53.014816+00:00",
       "close": 305.09
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T09:53:55.862603+00:00",
       "close": 300.23
+    },
+    {
+      "timestamp": "2026-08-19T10:24:20.820677+00:00",
+      "close": 300.23
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T09:29:10+00:00",
       "title": "Breadth Slips to Neutral-Positive as Selling Pressure Builds",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T06:02:59+00:00",
+      "title": "Warsh Under Spotlight Amid Bond Market Selloff: The Jackson Hole Preview",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T12:40:18+00:00",
       "title": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:25:08+00:00",
-      "title": "Are Technology Stocks Still Going Parabolic (Part 2)?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
