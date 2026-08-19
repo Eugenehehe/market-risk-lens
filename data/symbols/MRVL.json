@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T14:43:39.640138+00:00",
+  "generated_at": "2026-08-19T15:14:22.718249+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 235.05,
-    "change_pct": 8.819444444444446
+    "price": 233.35,
+    "change_pct": 8.032407407407405
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:00:24.967289+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-16T17:28:11.369355+00:00",
       "close": 222.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T14:43:39.640138+00:00",
       "close": 235.05
+    },
+    {
+      "timestamp": "2026-08-19T15:14:22.718249+00:00",
+      "close": 233.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T14:35:02+00:00",
+      "title": "Which S&P500 stocks are gapping on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T08:07:58+00:00",
       "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T12:08:20+00:00",
       "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T11:29:19+00:00",
-      "title": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

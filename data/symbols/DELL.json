@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T14:43:39.640138+00:00",
+  "generated_at": "2026-08-19T15:14:22.718249+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 438.51,
-    "change_pct": -6.431238664248373
+    "price": 440.3,
+    "change_pct": -6.049290515309924
   },
   "risk": {
-    "score": 68,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:00:24.967289+00:00",
-      "close": 490.81
-    },
     {
       "timestamp": "2026-08-16T17:28:11.369355+00:00",
       "close": 490.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T14:43:39.640138+00:00",
       "close": 438.51
+    },
+    {
+      "timestamp": "2026-08-19T15:14:22.718249+00:00",
+      "close": 440.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T14:35:02+00:00",
+      "title": "Which S&P500 stocks are gapping on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T08:30:00+00:00",
       "title": "How Tokenomics Might Save AI PCs",

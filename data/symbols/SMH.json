@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T14:43:39.640138+00:00",
+  "generated_at": "2026-08-19T15:14:22.718249+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 564.36,
-    "change_pct": -0.9495059409937334
+    "price": 563.49,
+    "change_pct": -1.1021991329834835
   },
   "risk": {
-    "score": 58,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T17:00:24.967289+00:00",
-      "close": 587.82
-    },
     {
       "timestamp": "2026-08-16T17:28:11.369355+00:00",
       "close": 587.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T14:43:39.640138+00:00",
       "close": 564.36
+    },
+    {
+      "timestamp": "2026-08-19T15:14:22.718249+00:00",
+      "close": 563.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T10:50:00+00:00",
+      "title": "How Much Is AI Contributing To U.S. Economic Growth?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T09:10:00+00:00",
       "title": "Equities Hit A Speed Bump As Semis Slide And Yields Climb",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T11:14:08+00:00",
       "title": "Interest Rates, Crude Prices Dent Wall Street Pre-Bell; Asia, Europe Off",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:30:00+00:00",
-      "title": "AI Is Not A Bubble: 4 Income Ideas To Ride The Wave",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
