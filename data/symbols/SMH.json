@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T19:43:18.613891+00:00",
+  "generated_at": "2026-08-19T20:01:25.771921+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 562.03,
-    "change_pct": -1.358442880460542
+    "price": 560.92,
+    "change_pct": -1.5532583323095372
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T20:53:35.983639+00:00",
-      "close": 587.82
-    },
     {
       "timestamp": "2026-08-16T21:15:13.831068+00:00",
       "close": 587.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T19:43:18.613891+00:00",
       "close": 562.03
+    },
+    {
+      "timestamp": "2026-08-19T20:01:25.771921+00:00",
+      "close": 560.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T15:45:23+00:00",
+      "title": "SOXL: When Expected Semiconductor Returns Are Not Worth The Risk",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T15:09:10+00:00",
       "title": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T17:41:38+00:00",
       "title": "AI Utilization May Be The Next Driver Of Growth",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T17:35:06+00:00",
-      "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T19:43:18.613891+00:00",
+  "generated_at": "2026-08-19T20:01:25.771921+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 520.54,
-    "change_pct": -2.041814862906721
+    "price": 519.67,
+    "change_pct": -2.205536423342558
   },
   "risk": {
-    "score": 67,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T20:53:35.983639+00:00",
-      "close": 550.42
-    },
     {
       "timestamp": "2026-08-16T21:15:13.831068+00:00",
       "close": 550.42
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T19:43:18.613891+00:00",
       "close": 520.54
+    },
+    {
+      "timestamp": "2026-08-19T20:01:25.771921+00:00",
+      "close": 519.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T15:45:23+00:00",
+      "title": "SOXL: When Expected Semiconductor Returns Are Not Worth The Risk",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T15:09:10+00:00",
       "title": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T08:32:12+00:00",
       "title": "What's Going On With AMD Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:25:23+00:00",
-      "title": "Wall Street is All-in on Stocks: BofA Says That’s a Sell Signal",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
