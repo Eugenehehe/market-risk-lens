@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T17:15:20.024654+00:00",
+  "generated_at": "2026-08-19T17:44:47.567465+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.01,
-    "change_pct": -0.332210794575416
+    "price": 219.29,
+    "change_pct": -0.20478747610813697
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:03:44.930750+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T19:29:17.075680+00:00",
       "close": 225.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T17:15:20.024654+00:00",
       "close": 219.01
+    },
+    {
+      "timestamp": "2026-08-19T17:44:47.567465+00:00",
+      "close": 219.29
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-19T16:40:06+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:13:58+00:00",
+      "title": "AMD's Helios Platform And Explosive EPS Growth Make It A Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:09:55+00:00",
+      "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-19T10:21:59+00:00",
+      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-19T10:05:00+00:00",
       "title": "Don't Mail It In Before Labor Day: These 3 Events Could Shake Stock",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:01:22+00:00",
-      "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:47:58+00:00",
-      "title": "Stripe’s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:41:04+00:00",
-      "title": "NVIDIA (NASDAQ:NVDA) Qualifies as an Affordable Growth Pick",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

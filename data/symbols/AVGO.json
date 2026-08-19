@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T17:15:20.024654+00:00",
+  "generated_at": "2026-08-19T17:44:47.567465+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 364.6,
-    "change_pct": -4.052631578947363
+    "price": 364.77,
+    "change_pct": -4.00789473684211
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:03:44.930750+00:00",
-      "close": 392.99
-    },
     {
       "timestamp": "2026-08-16T19:29:17.075680+00:00",
       "close": 392.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T17:15:20.024654+00:00",
       "close": 364.6
+    },
+    {
+      "timestamp": "2026-08-19T17:44:47.567465+00:00",
+      "close": 364.77
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-19T10:37:43+00:00",
       "title": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T10:34:16+00:00",
+      "title": "Marvell surges after deal allows Alphabet to buy up to $12.2 billion in shares",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-18T18:02:24+00:00",
+      "title": "Dow rises as Treasury unveils plan to relieve bond market pressure: Live updates",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-18T11:42:44+00:00",
       "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T09:30:00+00:00",
-      "title": "Accenture Could Be Dead Money",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T08:30:16+00:00",
-      "title": "BST: This Income Machine Can Still Work After Reaching $50",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

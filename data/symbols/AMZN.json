@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T17:15:20.024654+00:00",
+  "generated_at": "2026-08-19T17:44:47.567465+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 264.37,
-    "change_pct": 1.896319136635194
+    "price": 264.21,
+    "change_pct": 1.834650221622658
   },
   "risk": {
-    "score": 66,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:03:44.930750+00:00",
-      "close": 262.65
-    },
     {
       "timestamp": "2026-08-16T19:29:17.075680+00:00",
       "close": 262.65
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T17:15:20.024654+00:00",
       "close": 264.37
+    },
+    {
+      "timestamp": "2026-08-19T17:44:47.567465+00:00",
+      "close": 264.21
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T16:40:06+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:09:55+00:00",
+      "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,6 +532,14 @@
     {
       "timestamp": "2026-08-19T11:16:58+00:00",
       "title": "SpaceX Rolls Out Grok 4.6 on Amazon Bedrock",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T11:00:23+00:00",
+      "title": "A Congress Member Bought Up To $60K In Amazon.com Stock: Here's What You Need To Know",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-19T09:30:40+00:00",
       "title": "Amazon Bets Big on Drone Delivery — Prime Air Targets 500 US Cities as Competition From Wing, Zipline Heats Up",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T08:11:45+00:00",
-      "title": "3 Sectors Investors Should Buy Now as S&P 500 Stumbles — Strategist Sees 15%-18% Upside",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T05:18:56+00:00",
-      "title": "Institutional Investors Added Over 70 Million RIVN Shares as AMZN, UBER Remain Key Holders",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

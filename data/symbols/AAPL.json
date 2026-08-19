@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T17:15:20.024654+00:00",
+  "generated_at": "2026-08-19T17:44:47.567465+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 315.05,
-    "change_pct": 1.6191981421152857
+    "price": 315.75,
+    "change_pct": 1.8449827436054722
   },
   "risk": {
-    "score": 63,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:03:44.930750+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-16T19:29:17.075680+00:00",
       "close": 305.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T17:15:20.024654+00:00",
       "close": 315.05
+    },
+    {
+      "timestamp": "2026-08-19T17:44:47.567465+00:00",
+      "close": 315.75
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-19T16:40:06+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:09:55+00:00",
+      "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T12:34:21+00:00",
+      "title": "Apple Is The Most Underappreciated AI Mega-Cap, Analyst Says",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T11:00:15+00:00",
+      "title": "Alphabet Raises $3.9B in First Australian Bond Sale as AI Spending Surges",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T16:40:06+00:00",
-      "title": "Which dow jones stocks are moving on Tuesday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T14:23:59+00:00",
-      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T13:16:49+00:00",
-      "title": "Apple overhauls Europe app store fees to resolve payments clash",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
