@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T18:49:28.008773+00:00",
+  "generated_at": "2026-08-19T19:15:09.328990+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 483.66,
-    "change_pct": 0.4214853725889256
+    "price": 484.47,
+    "change_pct": 0.5896642650997652
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T20:00:37.092187+00:00",
-      "close": 495.4
-    },
     {
       "timestamp": "2026-08-16T20:32:55.314896+00:00",
       "close": 495.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T18:49:28.008773+00:00",
       "close": 483.66
+    },
+    {
+      "timestamp": "2026-08-19T19:15:09.328990+00:00",
+      "close": 484.47
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T13:50:54+00:00",
       "title": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:21:22+00:00",
+      "title": "OpenAI Announces Its Offering Zero Data Retention For Frontier Models",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,48 +530,40 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-18T22:22:53+00:00",
-      "title": "Tracking Al Gore's Generation Investment Management Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T18:23:06+00:00",
-      "title": "ReNew Energy: The Buy Paid Off, But Now It's Time To Hold (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T17:41:38+00:00",
-      "title": "AI Utilization May Be The Next Driver Of Growth",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T15:22:11+00:00",
-      "title": "The Math Of The AI Bubble Is Changing",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T14:23:59+00:00",
-      "title": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "timestamp": "2026-08-19T12:44:38+00:00",
+      "title": "What's Going On With IREN Stock Wednesday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-18T14:10:19+00:00",
-      "title": "'OpenAI Institutes New Safeguards After Hugging Face Breach' - TechCrunch",
+      "timestamp": "2026-08-19T11:54:51+00:00",
+      "title": "Meta Stock Climbs as Landmark Trial Threatens $1.4 Trillion Penalties",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T10:34:51+00:00",
+      "title": "Replit Rolling Out GPT-5.6 Luna-Powered Free Mode",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T05:58:40+00:00",
+      "title": "Comparative Study: Microsoft And Industry Competitors In Software Industry",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T03:13:03+00:00",
+      "title": "Reported Earlier, \"OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic\" - WSJ",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
