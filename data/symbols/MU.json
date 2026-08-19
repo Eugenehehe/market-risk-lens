@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:54:31.929767+00:00",
+  "generated_at": "2026-08-19T11:22:54.018006+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 940.76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T14:37:37.981634+00:00",
-      "close": 971.66
-    },
     {
       "timestamp": "2026-08-16T14:57:54.114677+00:00",
       "close": 971.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T10:54:31.929767+00:00",
       "close": 940.76
+    },
+    {
+      "timestamp": "2026-08-19T11:22:54.018006+00:00",
+      "close": 940.76
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T08:07:58+00:00",
       "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T06:41:37+00:00",
+      "title": "There Is So Much Alpha To Be Harvested In Micron's Options",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T14:07:25+00:00",
       "title": "What's Going On With Western Digital Stock Tuesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T13:40:20+00:00",
-      "title": "AI Memory Customer Backing: Sandisk, Not Micron Or SK hynix, Extracts Top Value",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
