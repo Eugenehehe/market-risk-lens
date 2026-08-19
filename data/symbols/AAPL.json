@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T18:02:40.255698+00:00",
+  "generated_at": "2026-08-19T18:49:28.008773+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 315.31,
-    "change_pct": 1.7030609940973607
+    "price": 315.08,
+    "change_pct": 1.6288746250362918
   },
   "risk": {
     "score": 64,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:48:04.853274+00:00",
-      "close": 305.93
-    },
     {
       "timestamp": "2026-08-16T20:00:37.092187+00:00",
       "close": 305.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T18:02:40.255698+00:00",
       "close": 315.31
+    },
+    {
+      "timestamp": "2026-08-19T18:49:28.008773+00:00",
+      "close": 315.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T18:05:02+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T16:40:06+00:00",
       "title": "These dow jones stocks are moving in today's session",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-18T19:10:06+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T18:05:02+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
+      "timestamp": "2026-08-19T06:56:12+00:00",
+      "title": "Klarna Stock Tries to Stabilize After 23% Plunge As German Shoppers Spoil the Party",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

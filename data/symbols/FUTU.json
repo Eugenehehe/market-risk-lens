@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T18:02:40.255698+00:00",
+  "generated_at": "2026-08-19T18:49:28.008773+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 110.78,
-    "change_pct": 2.0261558298029225
+    "price": 110.41,
+    "change_pct": 1.6853932584269593
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 48,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:48:04.853274+00:00",
-      "close": 105.23
-    },
     {
       "timestamp": "2026-08-16T20:00:37.092187+00:00",
       "close": 105.23
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T18:02:40.255698+00:00",
       "close": 110.78
+    },
+    {
+      "timestamp": "2026-08-19T18:49:28.008773+00:00",
+      "close": 110.41
     }
   ],
   "events": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:02:40.255698+00:00",
+  "generated_at": "2026-08-19T18:49:28.008773+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 234.34,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:48:04.853274+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-16T20:00:37.092187+00:00",
       "close": 222.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-19T18:02:40.255698+00:00",
       "close": 234.34
+    },
+    {
+      "timestamp": "2026-08-19T18:49:28.008773+00:00",
+      "close": 234.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T18:05:02+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T16:35:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
@@ -522,48 +530,40 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-19T14:19:47+00:00",
+      "title": "Marvell: Jensen Says $1 Trillion; I Disagree",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T14:15:12+00:00",
+      "title": "Marvell Is Very Risky Despite The New AI Deal With Alphabet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:50:54+00:00",
+      "title": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:35:16+00:00",
+      "title": "8 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-19T13:10:27+00:00",
       "title": "Moderna Doubles, Gold Rallies To $4,500 As Dollar Sinks: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T11:08:05+00:00",
-      "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:37:43+00:00",
-      "title": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:34:16+00:00",
-      "title": "Marvell surges after deal allows Alphabet to buy up to $12.2 billion in shares",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:08:12+00:00",
-      "title": "Estee Lauder, Moderna, Merck And Other Big Stocks Moving Higher On Wednesday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:19:51+00:00",
-      "title": "Why Marvell Technology Stock Is Surging Wednesday Morning",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

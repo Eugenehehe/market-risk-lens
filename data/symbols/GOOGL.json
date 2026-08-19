@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-19T18:02:40.255698+00:00",
+  "generated_at": "2026-08-19T18:49:28.008773+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.94,
-    "change_pct": -0.07553747821034129
+    "price": 343.67,
+    "change_pct": -0.15398024404414956
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:48:04.853274+00:00",
-      "close": 345.9
-    },
     {
       "timestamp": "2026-08-16T20:00:37.092187+00:00",
       "close": 345.9
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-19T18:02:40.255698+00:00",
       "close": 343.94
+    },
+    {
+      "timestamp": "2026-08-19T18:49:28.008773+00:00",
+      "close": 343.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T14:15:12+00:00",
+      "title": "Marvell Is Very Risky Despite The New AI Deal With Alphabet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:50:54+00:00",
+      "title": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T11:08:05+00:00",
       "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-19T10:01:22+00:00",
       "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:47:58+00:00",
-      "title": "Stripe’s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:30:40+00:00",
-      "title": "Amazon Bets Big on Drone Delivery — Prime Air Targets 500 US Cities as Competition From Wing, Zipline Heats Up",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T18:02:40.255698+00:00",
+  "generated_at": "2026-08-19T18:49:28.008773+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.64,
-    "change_pct": -0.04550832802403537
+    "price": 219.59,
+    "change_pct": -0.06826249203604196
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:48:04.853274+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T20:00:37.092187+00:00",
       "close": 225.16
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-19T18:02:40.255698+00:00",
       "close": 219.64
+    },
+    {
+      "timestamp": "2026-08-19T18:49:28.008773+00:00",
+      "close": 219.59
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-19T18:05:02+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T18:00:00+00:00",
+      "title": "Which stocks are most active on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-19T16:40:06+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:50:54+00:00",
+      "title": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T13:35:16+00:00",
+      "title": "8 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-19T11:08:43+00:00",
       "title": "Hewlett Packard Enterprise's AI Networking Is Impressive, Even After The Rally",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:37:43+00:00",
-      "title": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:37:10+00:00",
-      "title": "Why Falling AI Prices Could Be Good News for Nvidia Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:21:59+00:00",
-      "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:05:00+00:00",
-      "title": "Don't Mail It In Before Labor Day: These 3 Events Could Shake Stock",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

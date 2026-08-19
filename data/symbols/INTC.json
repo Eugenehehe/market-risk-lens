@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T18:02:40.255698+00:00",
+  "generated_at": "2026-08-19T18:49:28.008773+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 93.27,
-    "change_pct": -3.5320887417903513
+    "price": 93.18,
+    "change_pct": -3.6251745358638843
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T19:48:04.853274+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-16T20:00:37.092187+00:00",
       "close": 102.5
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-19T18:02:40.255698+00:00",
       "close": 93.27
+    },
+    {
+      "timestamp": "2026-08-19T18:49:28.008773+00:00",
+      "close": 93.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T18:05:02+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T18:00:00+00:00",
+      "title": "Which stocks are most active on Wednesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T10:01:22+00:00",
       "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-18T18:00:00+00:00",
       "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T14:35:02+00:00",
-      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T13:35:20+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
