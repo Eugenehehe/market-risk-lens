@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:01:25.771921+00:00",
+  "generated_at": "2026-08-19T20:38:30.002194+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 92.8,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T21:15:13.831068+00:00",
-      "close": 102.5
-    },
     {
       "timestamp": "2026-08-16T21:37:35.408898+00:00",
       "close": 102.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T20:01:25.771921+00:00",
       "close": 92.8
+    },
+    {
+      "timestamp": "2026-08-19T20:38:30.002194+00:00",
+      "close": 92.8
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-19T18:00:00+00:00",
       "title": "Which stocks are most active on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T15:23:44+00:00",
+      "title": "Amtech Systems shares are trading lower after the company reported worse-than-expected Q1 financial results.",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-18T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T18:00:00+00:00",
-      "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
