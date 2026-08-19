@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:57:03.820655+00:00",
+  "generated_at": "2026-08-19T22:29:31.858579+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T22:42:29.414604+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-16T22:58:54.716314+00:00",
       "close": 776.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T21:57:03.820655+00:00",
       "close": 769.06
+    },
+    {
+      "timestamp": "2026-08-19T22:29:31.858579+00:00",
+      "close": 769.06
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-19T16:35:34+00:00",
       "title": "HDV: The Monthly Payout Change Doesn't Solve Its Problems",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T15:13:39+00:00",
+      "title": "President Trump On Xi Visit, Says 'We Will Probably Talk About AI'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-19T11:39:05+00:00",
       "title": "President Trump Says Oil Prices Will Be A Lot Lower When This Is Over",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T11:35:20+00:00",
-      "title": "President Trump Says Had Good Conversation With Canada's Carney Last Night; We've Come To A Deal; Tariffs Will Be Non-Existent For Our Farmers; We Have No Tariffs Going Into Canada; Deal Subject To Finalization Of Documents",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

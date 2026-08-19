@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:57:03.820655+00:00",
+  "generated_at": "2026-08-19T22:29:31.858579+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 217.56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T22:42:29.414604+00:00",
-      "close": 225.16
-    },
     {
       "timestamp": "2026-08-16T22:58:54.716314+00:00",
       "close": 225.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T21:57:03.820655+00:00",
       "close": 217.56
+    },
+    {
+      "timestamp": "2026-08-19T22:29:31.858579+00:00",
+      "close": 217.56
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-19T18:00:00+00:00",
       "title": "Which stocks are most active on Wednesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T16:40:22+00:00",
+      "title": "'China Eases Limits On NVIDIA H200 Chips As AI Race Escalates; Beijing Permits Small Shipments To Help Leading Tech Groups In Drive To Catch Up With U.S. Rivals' - Financial Times",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T13:13:58+00:00",
       "title": "AMD's Helios Platform And Explosive EPS Growth Make It A Buy",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T13:09:55+00:00",
-      "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
