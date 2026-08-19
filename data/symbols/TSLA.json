@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:29:31.858579+00:00",
+  "generated_at": "2026-08-19T22:53:43.761099+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 351.12,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-16T22:58:54.716314+00:00",
-      "close": 342.27
-    },
     {
       "timestamp": "2026-08-16T23:28:34.305726+00:00",
       "close": 342.27
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T22:29:31.858579+00:00",
       "close": 351.12
+    },
+    {
+      "timestamp": "2026-08-19T22:53:43.761099+00:00",
+      "close": 351.12
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-19T18:05:02+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T17:12:20+00:00",
+      "title": "Samsung Tumbled Nearly 8% in Seoul Even as AI Demand Drives Chip Prices Up To 15%",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T16:03:30+00:00",
+      "title": "Elon Musk Is No Longer a Trillionaire, but He Could Still Give Every Person on Earth $69.420 and Stay the World's Richest",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-19T08:42:01+00:00",
       "title": "Cathie Wood Says Investors Should Avoid Memory Chip Stocks: Micron, SK Hynix in Focus (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T03:07:49+00:00",
-      "title": "Tesla Optimus Rival Unitree Robotics Explodes 629% in Shanghai Debut, Briefly Hits $66 Billion Valuation",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T18:05:02+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
