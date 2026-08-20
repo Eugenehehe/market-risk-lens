@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:04:20.237361+00:00",
+  "generated_at": "2026-08-20T17:41:19.063723+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 521.15,
-    "change_pct": 0.28479612061500514
+    "price": 520.05,
+    "change_pct": 0.07312332826601153
   },
   "risk": {
-    "score": 53,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:37:13.198747+00:00",
-      "close": 561.35
-    },
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 562.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T17:04:20.237361+00:00",
       "close": 521.15
+    },
+    {
+      "timestamp": "2026-08-20T17:41:19.063723+00:00",
+      "close": 520.05
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-20T10:03:05+00:00",
       "title": "Oracle: Cheap, But Too Early - The Real Inflection Comes In 2027",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T09:30:11+00:00",
+      "title": "What's Going On With Broadcom Stock Thursday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-19T15:09:10+00:00",
       "title": "I Changed My Mind, Broadcom And Semiconductors Have Peaked For Now",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:50:00+00:00",
-      "title": "How Much Is AI Contributing To U.S. Economic Growth?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

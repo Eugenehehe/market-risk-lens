@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:04:20.237361+00:00",
+  "generated_at": "2026-08-20T17:41:19.063723+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 298.06,
-    "change_pct": -1.213045207477137
+    "price": 297.57,
+    "change_pct": -1.3754474347076884
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:37:13.198747+00:00",
-      "close": 303.58
-    },
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 303.43
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-20T17:04:20.237361+00:00",
       "close": 298.06
+    },
+    {
+      "timestamp": "2026-08-20T17:41:19.063723+00:00",
+      "close": 297.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T13:02:57+00:00",
+      "title": "Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T12:49:43+00:00",
+      "title": "I'm Souring On Bonds As The Debt Hits $40 Trillion",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T12:44:52+00:00",
+      "title": "AAII Sentiment Survey: Neutral Sentiment Slumps",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-20T07:05:00+00:00",
       "title": "The U.S. Treasury Likely Just Launched A Major Market Shift",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T03:40:00+00:00",
-      "title": "Counterintuitive Labor Market Shifts Constrain Measured U.S. Wage Gains",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T23:30:00+00:00",
-      "title": "How Much Is AI Contributing To U.S. Economic Growth?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T20:45:00+00:00",
-      "title": "Fed Minutes Lean Hawkish, But We Don't Expect A Hike",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:04:20.237361+00:00",
+  "generated_at": "2026-08-20T17:41:19.063723+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 92.02,
-    "change_pct": -0.8405172413793127
+    "price": 92.35,
+    "change_pct": -0.4849137931034475
   },
   "risk": {
-    "score": 57,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:37:13.198747+00:00",
-      "close": 103.89
-    },
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 103.13
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T17:04:20.237361+00:00",
       "close": 92.02
+    },
+    {
+      "timestamp": "2026-08-20T17:41:19.063723+00:00",
+      "close": 92.35
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-20T08:48:22+00:00",
       "title": "What's Going On With Intel Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T07:44:01+00:00",
+      "title": "‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T10:01:22+00:00",
       "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T08:16:51+00:00",
-      "title": "Gov’t stakes in private companies mean a less dynamic U.S. economy in the long term: Scott Lincicome",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

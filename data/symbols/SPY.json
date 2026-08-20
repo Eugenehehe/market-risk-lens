@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:04:20.237361+00:00",
+  "generated_at": "2026-08-20T17:41:19.063723+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 766.07,
-    "change_pct": -0.38878631056092905
+    "price": 764.4,
+    "change_pct": -0.6059345174628694
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:37:13.198747+00:00",
-      "close": 773.54
-    },
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 773.41
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-20T17:04:20.237361+00:00",
       "close": 766.07
+    },
+    {
+      "timestamp": "2026-08-20T17:41:19.063723+00:00",
+      "close": 764.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T12:49:43+00:00",
+      "title": "I'm Souring On Bonds As The Debt Hits $40 Trillion",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T12:44:52+00:00",
+      "title": "AAII Sentiment Survey: Neutral Sentiment Slumps",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T08:36:14+00:00",
       "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall as Trump Launches ‘Operation Economic Fury’ on Iran— BULL, WMT, MRK Stock in Focus (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:03:25+00:00",
-      "title": "The Scarcity Trade At The Heart Of Photonics",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:00:00+00:00",
-      "title": "Institutions Are Buying Real Estate Blind",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

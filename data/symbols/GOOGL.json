@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:04:20.237361+00:00",
+  "generated_at": "2026-08-20T17:41:19.063723+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 341.25,
-    "change_pct": -1.0066140635878518
+    "price": 340.74,
+    "change_pct": -1.1545602227895135
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:37:13.198747+00:00",
-      "close": 343.19
-    },
     {
       "timestamp": "2026-08-17T18:01:33.548556+00:00",
       "close": 342.88
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T17:04:20.237361+00:00",
       "close": 341.25
+    },
+    {
+      "timestamp": "2026-08-20T17:41:19.063723+00:00",
+      "close": 340.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T16:40:04+00:00",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T07:11:14+00:00",
       "title": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T05:50:15+00:00",
-      "title": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
