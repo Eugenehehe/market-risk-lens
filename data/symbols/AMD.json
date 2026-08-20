@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T14:50:07.009788+00:00",
+  "generated_at": "2026-08-20T15:20:57.829246+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 467.46,
-    "change_pct": 0.22297500107197887
+    "price": 465.24,
+    "change_pct": -0.25299086660092174
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T15:41:10.656870+00:00",
-      "close": 513.92
-    },
     {
       "timestamp": "2026-08-17T16:00:01.161635+00:00",
       "close": 513.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T14:50:07.009788+00:00",
       "close": 467.46
+    },
+    {
+      "timestamp": "2026-08-20T15:20:57.829246+00:00",
+      "close": 465.24
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T09:45:08+00:00",
       "title": "Nvidia: The Greatest Company At A Fair Price",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T09:25:11+00:00",
+      "title": "What's Going On With AMD Stock Thursday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T15:23:44+00:00",
       "title": "Amtech Systems shares are trading lower after the company reported worse-than-expected Q1 financial results.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T13:13:58+00:00",
-      "title": "AMD's Helios Platform And Explosive EPS Growth Make It A Buy",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

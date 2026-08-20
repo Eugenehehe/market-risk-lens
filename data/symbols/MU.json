@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T14:50:07.009788+00:00",
+  "generated_at": "2026-08-20T15:20:57.829246+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 957.74,
-    "change_pct": 2.2019944403241842
+    "price": 955.9,
+    "change_pct": 2.0056450451123364
   },
   "risk": {
-    "score": 68,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T15:41:10.656870+00:00",
-      "close": 1032.7
-    },
     {
       "timestamp": "2026-08-17T16:00:01.161635+00:00",
       "close": 1027.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T14:50:07.009788+00:00",
       "close": 957.74
+    },
+    {
+      "timestamp": "2026-08-20T15:20:57.829246+00:00",
+      "close": 955.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T10:28:22+00:00",
+      "title": "Sandisk Thesis: Every Byte AI Creates Needs A Home",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T11:29:53+00:00",
       "title": "Cathie Wood Says Elon Musk's Tesla Playbook Explains Why She's Avoiding SK Hynix and Micron",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T08:00:00+00:00",
       "title": "Why Sandisk's 80% Margin Is More Than Just A Cycle Peak",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T07:28:41+00:00",
-      "title": "Jim Cramer Slams Data Center Reliance on Leveraged Retail-Driven SK Hynix, Samsung Stocks: 'Decided By Them, Not Us'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
