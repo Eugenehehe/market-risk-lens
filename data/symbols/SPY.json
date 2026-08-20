@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:15:26.092008+00:00",
+  "generated_at": "2026-08-20T11:46:40.472750+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T13:02:06.030611+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-17T13:48:51.928865+00:00",
       "close": 775.57
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T11:15:26.092008+00:00",
       "close": 769.06
+    },
+    {
+      "timestamp": "2026-08-20T11:46:40.472750+00:00",
+      "close": 769.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T07:05:00+00:00",
+      "title": "The U.S. Treasury Likely Just Launched A Major Market Shift",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T05:59:48+00:00",
       "title": "TJX Companies: Strength In HomeGoods, Canada, And International As MarMaxx Lags",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-19T15:39:03+00:00",
       "title": "President Trump On Canada, Says We May Bring Some Of The Tariffs Down To A Level Where Other Countries Are, Because Canada Was Paying A Higher Tariff",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T15:33:43+00:00",
-      "title": "President Trump, On Canada Trade Talks, Says We Will Probably Have A Deal; I Think We Have A Deal That Is Good For Everyone",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

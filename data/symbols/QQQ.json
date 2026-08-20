@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:15:26.092008+00:00",
+  "generated_at": "2026-08-20T11:46:40.472750+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 716.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T13:02:06.030611+00:00",
-      "close": 731.07
-    },
     {
       "timestamp": "2026-08-17T13:48:51.928865+00:00",
       "close": 732.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T11:15:26.092008+00:00",
       "close": 716.08
+    },
+    {
+      "timestamp": "2026-08-20T11:46:40.472750+00:00",
+      "close": 716.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T07:05:00+00:00",
+      "title": "The U.S. Treasury Likely Just Launched A Major Market Shift",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T03:40:00+00:00",
       "title": "Counterintuitive Labor Market Shifts Constrain Measured U.S. Wage Gains",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T12:10:00+00:00",
       "title": "Markets Trying To Recover From 3-Day Losing Streak",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:29:10+00:00",
-      "title": "Breadth Slips to Neutral-Positive as Selling Pressure Builds",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
