@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T17:41:19.063723+00:00",
+  "generated_at": "2026-08-20T18:03:25.436025+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 244.49,
-    "change_pct": 3.0429468537952475
+    "price": 245.33,
+    "change_pct": 3.396973911577539
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T18:01:33.548556+00:00",
-      "close": 236.44
-    },
     {
       "timestamp": "2026-08-17T18:52:50.698650+00:00",
       "close": 236.97
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T17:41:19.063723+00:00",
       "close": 244.49
+    },
+    {
+      "timestamp": "2026-08-20T18:03:25.436025+00:00",
+      "close": 245.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T13:33:46+00:00",
+      "title": "Credo Technology: Valuation Has Run Ahead Of Fundamentals (Initiating Sell)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T12:35:01+00:00",
       "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T08:23:58+00:00",
       "title": "Marvell: The Deal And The Dilution Are Both Real",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T07:11:14+00:00",
-      "title": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

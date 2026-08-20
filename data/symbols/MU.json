@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T17:41:19.063723+00:00",
+  "generated_at": "2026-08-20T18:03:25.436025+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 954.25,
-    "change_pct": 1.8295708591886672
+    "price": 954.43,
+    "change_pct": 1.8487789521985265
   },
   "risk": {
     "score": 65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T18:01:33.548556+00:00",
-      "close": 1018.58
-    },
     {
       "timestamp": "2026-08-17T18:52:50.698650+00:00",
       "close": 1018.55
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T17:41:19.063723+00:00",
       "close": 954.25
+    },
+    {
+      "timestamp": "2026-08-20T18:03:25.436025+00:00",
+      "close": 954.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T13:33:46+00:00",
+      "title": "Credo Technology: Valuation Has Run Ahead Of Fundamentals (Initiating Sell)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T06:59:01+00:00",
       "title": "Micron’s $50 billion buildout in its hometown of Boise is minting millionaires",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T05:51:50+00:00",
-      "title": "What's Going On With Micron Technology Stock Thursday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
