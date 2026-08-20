@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:37:56.250296+00:00",
+  "generated_at": "2026-08-20T22:00:05.804163+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 974.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T21:40:47.762278+00:00",
-      "close": 1011.75
-    },
     {
       "timestamp": "2026-08-17T22:00:17.778538+00:00",
       "close": 1011.75
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T21:37:56.250296+00:00",
       "close": 974.33
+    },
+    {
+      "timestamp": "2026-08-20T22:00:05.804163+00:00",
+      "close": 974.33
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-20T13:33:46+00:00",
       "title": "Credo Technology: Valuation Has Run Ahead Of Fundamentals (Initiating Sell)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T12:38:28+00:00",
+      "title": "Why Is SK Hynix Stock Surging on Thursday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T10:04:56+00:00",
       "title": "Micron Unveils $10 Billion Research Labs To Advance Memory and AI",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:55:15+00:00",
-      "title": "Micron CEO: Memory is no longer a component in a system, it’s strategic infrastructure for AI",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
