@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T18:03:25.436025+00:00",
+  "generated_at": "2026-08-20T18:55:22.463782+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 340.42,
-    "change_pct": -1.2473891854258512
+    "price": 340.21,
+    "change_pct": -1.3083081921559714
   },
   "risk": {
-    "score": 60,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T18:52:50.698650+00:00",
-      "close": 344.05
-    },
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 344.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T18:03:25.436025+00:00",
       "close": 340.42
+    },
+    {
+      "timestamp": "2026-08-20T18:55:22.463782+00:00",
+      "close": 340.21
     }
   ],
   "events": [
@@ -514,9 +514,41 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-20T14:33:16+00:00",
+      "title": "Broadcom: Marvell Panic Causes A Huge Buying Opportunity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:06:00+00:00",
+      "title": "Hyperscaler AI Capex: What The Headlines Miss",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:02:36+00:00",
+      "title": "Alphabet: The $250 Billion Capex Offload Plan",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T12:05:58+00:00",
+      "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-20T10:10:00+00:00",
       "title": "Alger Growth & Income Fund Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:45:08+00:00",
-      "title": "Nvidia: The Greatest Company At A Fair Price",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:10:00+00:00",
-      "title": "TCW Durable Growth ETF Q2 2026 Performance Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:23:58+00:00",
-      "title": "Marvell: The Deal And The Dilution Are Both Real",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T07:11:14+00:00",
-      "title": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T18:03:25.436025+00:00",
+  "generated_at": "2026-08-20T18:55:22.463782+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 216.82,
-    "change_pct": -0.3401360544217691
+    "price": 216.69,
+    "change_pct": -0.3998896856039713
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T18:52:50.698650+00:00",
-      "close": 225.92
-    },
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 225.68
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-20T18:03:25.436025+00:00",
       "close": 216.82
+    },
+    {
+      "timestamp": "2026-08-20T18:55:22.463782+00:00",
+      "close": 216.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T18:05:01+00:00",
+      "title": "Looking for the most active stocks in the S&P500 index on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:06:00+00:00",
+      "title": "Hyperscaler AI Capex: What The Headlines Miss",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T11:55:05+00:00",
       "title": "QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-20T09:33:10+00:00",
       "title": "RBC Capital Reiterates Outperform on NVIDIA, Maintains $300 Price Target",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:45:38+00:00",
-      "title": "Nvidia FQ2 Preview: I'm Seeing A 50%+ FCF Discount",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:40:29+00:00",
-      "title": "Mark Cuban Fires Back At Jensen Huang’s AI Warning — ‘No Chance Radiologists Get Replaced’ Despite Nvidia CEO’s Prediction",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T18:03:25.436025+00:00",
+  "generated_at": "2026-08-20T18:55:22.463782+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 261.11,
-    "change_pct": -1.779265723743595
+    "price": 261.15,
+    "change_pct": -1.764219079145346
   },
   "risk": {
     "score": 65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T18:52:50.698650+00:00",
-      "close": 259.91
-    },
     {
       "timestamp": "2026-08-17T19:22:17.090089+00:00",
       "close": 260.6
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T18:03:25.436025+00:00",
       "close": 261.11
+    },
+    {
+      "timestamp": "2026-08-20T18:55:22.463782+00:00",
+      "close": 261.15
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T16:40:04+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:06:00+00:00",
+      "title": "Hyperscaler AI Capex: What The Headlines Miss",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T20:47:48+00:00",
       "title": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T19:10:05+00:00",
-      "title": "Which dow jones stocks are moving on Wednesday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
