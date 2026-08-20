@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:58:37.000593+00:00",
+  "generated_at": "2026-08-20T20:37:48.781201+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 340.36,
-    "change_pct": -1.2647946159201728
+    "price": 340.67,
+    "change_pct": -1.1748665583662166
   },
   "risk": {
-    "score": 61,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T20:11:04.703410+00:00",
-      "close": 344
-    },
     {
       "timestamp": "2026-08-17T20:44:43.326956+00:00",
       "close": 344
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:58:37.000593+00:00",
       "close": 340.36
+    },
+    {
+      "timestamp": "2026-08-20T20:37:48.781201+00:00",
+      "close": 340.67
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-20T14:33:16+00:00",
       "title": "Broadcom: Marvell Panic Causes A Huge Buying Opportunity",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:13:09+00:00",
+      "title": "'Anthropic Prepares To File Publicly For Its Potential Mega-IPO As Soon As The End Of August; Expects To Match SpaceX’s Record IPO Size Tr Top It' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:11:26+00:00",
+      "title": "'Anthropic Plans to Change Data Retention Policy for Advanced AI' - Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-20T12:05:58+00:00",
-      "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
+      "timestamp": "2026-08-20T12:18:32+00:00",
+      "title": "Marvell’s Google AI Deal Could Unlock a Staggering $120 Billion Opportunity, Analyst Says",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:12:47+00:00",
-      "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:10:00+00:00",
-      "title": "Alger Growth & Income Fund Q2 2026 Portfolio Review",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

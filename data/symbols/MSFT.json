@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T19:58:37.000593+00:00",
+  "generated_at": "2026-08-20T20:37:48.781201+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 480.94,
-    "change_pct": -0.6958353120934957
+    "price": 481.15,
+    "change_pct": -0.6524746546633375
   },
   "risk": {
     "score": 56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T20:11:04.703410+00:00",
-      "close": 480.35
-    },
     {
       "timestamp": "2026-08-17T20:44:43.326956+00:00",
       "close": 480.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:58:37.000593+00:00",
       "close": 480.94
+    },
+    {
+      "timestamp": "2026-08-20T20:37:48.781201+00:00",
+      "close": 481.15
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T19:10:06+00:00",
       "title": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:13:09+00:00",
+      "title": "'Anthropic Prepares To File Publicly For Its Potential Mega-IPO As Soon As The End Of August; Expects To Match SpaceX’s Record IPO Size Tr Top It' - Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T05:48:16+00:00",
       "title": "Alibaba shares fall 5% as AI spending drives 75% drop in net income",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T01:32:25+00:00",
-      "title": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

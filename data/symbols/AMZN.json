@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T19:58:37.000593+00:00",
+  "generated_at": "2026-08-20T20:37:48.781201+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.03,
-    "change_pct": -2.1855251278964816
+    "price": 260.11,
+    "change_pct": -2.1554318386999505
   },
   "risk": {
     "score": 68,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T20:11:04.703410+00:00",
-      "close": 261.31
-    },
     {
       "timestamp": "2026-08-17T20:44:43.326956+00:00",
       "close": 261.31
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:58:37.000593+00:00",
       "close": 260.03
+    },
+    {
+      "timestamp": "2026-08-20T20:37:48.781201+00:00",
+      "close": 260.11
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-20T16:40:04+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:13:09+00:00",
+      "title": "'Anthropic Prepares To File Publicly For Its Potential Mega-IPO As Soon As The End Of August; Expects To Match SpaceX’s Record IPO Size Tr Top It' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:11:26+00:00",
+      "title": "'Anthropic Plans to Change Data Retention Policy for Advanced AI' - Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:45:08+00:00",
-      "title": "Nvidia: The Greatest Company At A Fair Price",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T07:58:41+00:00",
-      "title": "Rocket Lab CEO Says $8 Billion Iridium Deal Won’t Take on Elon Musk’s Starlink — Don’t Intend to 'Directly Compete,’ But Plans Something That 'Hasn’t Been Seen Before’",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
