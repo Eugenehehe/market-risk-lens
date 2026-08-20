@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T15:20:57.829246+00:00",
+  "generated_at": "2026-08-20T15:55:09.365009+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 522.08,
-    "change_pct": 0.4637558450555357
+    "price": 520.13,
+    "change_pct": 0.08851771316413792
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T16:00:01.161635+00:00",
-      "close": 565.14
-    },
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 563.62
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T15:20:57.829246+00:00",
       "close": 522.08
+    },
+    {
+      "timestamp": "2026-08-20T15:55:09.365009+00:00",
+      "close": 520.13
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-08-20T09:25:11+00:00",
       "title": "What's Going On With AMD Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T08:48:22+00:00",
+      "title": "What's Going On With Intel Stock Thursday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T10:50:00+00:00",
       "title": "How Much Is AI Contributing To U.S. Economic Growth?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T09:30:13+00:00",
-      "title": "What's Going On With AMD Stock Wednesday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

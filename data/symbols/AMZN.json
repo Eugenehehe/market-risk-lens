@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T15:20:57.829246+00:00",
+  "generated_at": "2026-08-20T15:55:09.365009+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.89,
-    "change_pct": -1.8620222690340027
+    "price": 261.44,
+    "change_pct": -1.655130905808
   },
   "risk": {
-    "score": 65,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T16:00:01.161635+00:00",
-      "close": 261.08
-    },
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 260.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T15:20:57.829246+00:00",
       "close": 260.89
+    },
+    {
+      "timestamp": "2026-08-20T15:55:09.365009+00:00",
+      "close": 261.44
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-20T09:45:08+00:00",
       "title": "Nvidia: The Greatest Company At A Fair Price",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T07:46:17+00:00",
+      "title": "Amazon, Target And More On CNBC’s ‘Final Trades’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T01:32:25+00:00",
+      "title": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-19T13:39:51+00:00",
       "title": "Amazon Stock Moves Higher Wednesday: What's Going On?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T13:09:55+00:00",
-      "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T11:50:00+00:00",
-      "title": "Wall Street Lunch: IBM Advances Quantum Roadmap By Connecting Two Cryogenic Modules",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

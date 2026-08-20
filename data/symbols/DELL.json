@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T15:20:57.829246+00:00",
+  "generated_at": "2026-08-20T15:55:09.365009+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 435.89,
-    "change_pct": -0.3793852131185105
+    "price": 435.95,
+    "change_pct": -0.36567249457205575
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T16:00:01.161635+00:00",
-      "close": 481.06
-    },
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 479.01
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T15:20:57.829246+00:00",
       "close": 435.89
+    },
+    {
+      "timestamp": "2026-08-20T15:55:09.365009+00:00",
+      "close": 435.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T10:12:47+00:00",
+      "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T10:10:00+00:00",
       "title": "Alger Growth & Income Fund Q2 2026 Portfolio Review",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-18T16:54:28+00:00",
       "title": "Sandisk: Investors Are Ignoring The Ceilings",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:12:07+00:00",
-      "title": "Team Liquid, Dell Extend Partnership Through 2031",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

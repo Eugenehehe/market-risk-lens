@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T15:20:57.829246+00:00",
+  "generated_at": "2026-08-20T15:55:09.365009+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 480.53,
-    "change_pct": -0.7804918337428579
+    "price": 481.22,
+    "change_pct": -0.6380211021866145
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T16:00:01.161635+00:00",
-      "close": 485.06
-    },
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 481.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T15:20:57.829246+00:00",
       "close": 480.53
+    },
+    {
+      "timestamp": "2026-08-20T15:55:09.365009+00:00",
+      "close": 481.22
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-20T01:32:25+00:00",
+      "title": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-19T13:50:54+00:00",
       "title": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
       "source": "SeekingAlpha",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-19T13:09:55+00:00",
       "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T12:44:38+00:00",
-      "title": "What's Going On With IREN Stock Wednesday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

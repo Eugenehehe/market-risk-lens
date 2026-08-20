@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T15:20:57.829246+00:00",
+  "generated_at": "2026-08-20T15:55:09.365009+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 339.93,
-    "change_pct": -1.3895335344627613
+    "price": 339.54,
+    "change_pct": -1.502668832675802
   },
   "risk": {
-    "score": 62,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T16:00:01.161635+00:00",
-      "close": 343.99
-    },
     {
       "timestamp": "2026-08-17T16:37:57.137784+00:00",
       "close": 343.97
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T15:20:57.829246+00:00",
       "close": 339.93
+    },
+    {
+      "timestamp": "2026-08-20T15:55:09.365009+00:00",
+      "close": 339.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T10:12:47+00:00",
+      "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T10:10:00+00:00",
       "title": "Alger Growth & Income Fund Q2 2026 Portfolio Review",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-19T21:21:28+00:00",
-      "title": "Harry Qelm Baabsman's 2026 Half-Year Letter To Investors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T21:05:00+00:00",
-      "title": "Dividing Our Idea Funnel: Four Moves That Are Nicely Spread",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-20T01:32:25+00:00",
+      "title": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
