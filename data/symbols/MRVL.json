@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:50:55.789817+00:00",
+  "generated_at": "2026-08-20T08:23:29.623098+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 237.27,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T09:42:34.111395+00:00",
-      "close": 222.02
-    },
     {
       "timestamp": "2026-08-17T10:16:14.036572+00:00",
       "close": 222.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T07:50:55.789817+00:00",
       "close": 237.27
+    },
+    {
+      "timestamp": "2026-08-20T08:23:29.623098+00:00",
+      "close": 237.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T07:11:14+00:00",
+      "title": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T19:05:01+00:00",
       "title": "Exploring the top movers within the S&P500 index during today's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T13:50:54+00:00",
       "title": "Marvell Won Alphabet's Deal; Everything Changes (Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T13:35:16+00:00",
-      "title": "8 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
