@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T23:42:07.989867+00:00",
+  "generated_at": "2026-08-20T00:00:12.297639+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 437.55,
     "change_pct": -6.636082364237694
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T00:24:11.464488+00:00",
-      "close": 490.81
-    },
     {
       "timestamp": "2026-08-17T02:02:17.754511+00:00",
       "close": 490.81
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-19T23:42:07.989867+00:00",
       "close": 437.55
+    },
+    {
+      "timestamp": "2026-08-20T00:00:12.297639+00:00",
+      "close": 437.55
     }
   ],
   "events": [
@@ -557,14 +557,6 @@
       "timestamp": "2026-08-18T12:12:07+00:00",
       "title": "Team Liquid, Dell Extend Partnership Through 2031",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-17T14:35:01+00:00",
-      "title": "Which S&P500 stocks are gapping on Monday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
