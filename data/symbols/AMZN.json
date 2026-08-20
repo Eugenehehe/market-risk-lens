@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T18:55:22.463782+00:00",
+  "generated_at": "2026-08-20T19:31:35.660557+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 261.15,
-    "change_pct": -1.764219079145346
+    "price": 261.46,
+    "change_pct": -1.647607583508881
   },
   "risk": {
-    "score": 65,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:22:17.090089+00:00",
-      "close": 260.6
-    },
     {
       "timestamp": "2026-08-17T19:49:12.968738+00:00",
       "close": 260.32
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T18:55:22.463782+00:00",
       "close": 261.15
+    },
+    {
+      "timestamp": "2026-08-20T19:31:35.660557+00:00",
+      "close": 261.46
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-20T14:06:00+00:00",
       "title": "Hyperscaler AI Capex: What The Headlines Miss",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T13:35:18+00:00",
+      "title": "10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T07:46:17+00:00",
       "title": "Amazon, Target And More On CNBC’s ‘Final Trades’",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T01:32:25+00:00",
-      "title": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T20:47:48+00:00",
-      "title": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

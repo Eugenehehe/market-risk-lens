@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T18:55:22.463782+00:00",
+  "generated_at": "2026-08-20T19:31:35.660557+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 315.41,
-    "change_pct": -0.44818988100873147
+    "price": 313.19,
+    "change_pct": -1.1488811034308544
   },
   "risk": {
-    "score": 54,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:22:17.090089+00:00",
-      "close": 305.88
-    },
     {
       "timestamp": "2026-08-17T19:49:12.968738+00:00",
       "close": 305.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T18:55:22.463782+00:00",
       "close": 315.41
+    },
+    {
+      "timestamp": "2026-08-20T19:31:35.660557+00:00",
+      "close": 313.19
     }
   ],
   "events": [
@@ -514,8 +514,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-20T12:05:58+00:00",
       "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T10:30:35+00:00",
+      "title": "What's Going On With Apple Stock Thursday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-20T07:46:03+00:00",
       "title": "Is Fortnite Down? Here’s Why Servers Are Offline as Season 4: Override Arrives (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T07:02:03+00:00",
-      "title": "Wall Street Breakfast Podcast: Moderna's $44B Booster",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T05:50:15+00:00",
-      "title": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

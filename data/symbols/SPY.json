@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T18:55:22.463782+00:00",
+  "generated_at": "2026-08-20T19:31:35.660557+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 763.63,
-    "change_pct": -0.7060567445972943
+    "price": 763.35,
+    "change_pct": -0.7424648271916245
   },
   "risk": {
     "score": 56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:22:17.090089+00:00",
-      "close": 773.47
-    },
     {
       "timestamp": "2026-08-17T19:49:12.968738+00:00",
       "close": 773.21
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T18:55:22.463782+00:00",
       "close": 763.63
+    },
+    {
+      "timestamp": "2026-08-20T19:31:35.660557+00:00",
+      "close": 763.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T14:48:08+00:00",
+      "title": "S&P 500 Just Got The Green Light To 8000",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T14:05:33+00:00",
       "title": "Treasury Blinked: A Bessent Put Too Small To Matter",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T10:18:17+00:00",
       "title": "QUICK SPARK: SPY Gets $1.9B Boost in One Day as QQQ, GLD and SOXL See Outflows",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:52:44+00:00",
-      "title": "Error 404: Quantitative Easing Not Found...Yet",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
