@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:31:56.359160+00:00",
+  "generated_at": "2026-08-20T04:18:37.033354+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 546.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T04:53:11.361212+00:00",
-      "close": 589.85
-    },
     {
       "timestamp": "2026-08-17T05:30:20.425722+00:00",
       "close": 589.85
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T03:31:56.359160+00:00",
       "close": 546.03
+    },
+    {
+      "timestamp": "2026-08-20T04:18:37.033354+00:00",
+      "close": 546.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T23:40:06+00:00",
+      "title": "Meta: The Drawdown Is An Opportunity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T13:34:00+00:00",
       "title": "Enbridge: Buy The 5.5% Yield And Growing Backlog",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T07:40:18+00:00",
       "title": "The business model of social media is at stake in Meta trial: Vanderbilt's Rebecca Haw Allensworth",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T07:05:25+00:00",
-      "title": "Meta's AI Payoff Has Already Begun",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
