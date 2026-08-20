@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T22:37:04.869303+00:00",
+  "generated_at": "2026-08-20T23:00:53.221951+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 112.73,
     "change_pct": 3.025041125936756
   },
   "risk": {
-    "score": 61,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T22:33:48.315034+00:00",
-      "close": 109.5
-    },
     {
       "timestamp": "2026-08-17T22:56:11.195478+00:00",
       "close": 109.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T22:37:04.869303+00:00",
       "close": 112.73
+    },
+    {
+      "timestamp": "2026-08-20T23:00:53.221951+00:00",
+      "close": 112.73
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-20T10:11:55+00:00",
       "title": "Futu Holdings Limited (FUTU) Q2 2026 Earnings Call Transcript",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T08:31:18+00:00",
+      "title": "Futu Hldgs Q2 2026 Earnings Call Transcript",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T07:59:34+00:00",
+      "title": "Futu Rides AI, Chip Frenzy to Record Trading Volume",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T04:20:05+00:00",
+      "title": "Futu Holdings Q2 Sales $918.160M Beat $775.990M Estimate",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

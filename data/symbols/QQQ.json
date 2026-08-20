@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:37:04.869303+00:00",
+  "generated_at": "2026-08-20T23:00:53.221951+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 710.93,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T22:33:48.315034+00:00",
-      "close": 729.87
-    },
     {
       "timestamp": "2026-08-17T22:56:11.195478+00:00",
       "close": 729.87
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T22:37:04.869303+00:00",
       "close": 710.93
+    },
+    {
+      "timestamp": "2026-08-20T23:00:53.221951+00:00",
+      "close": 710.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T16:22:35+00:00",
+      "title": "QUICK SPARK: Dow Falls 700 Points, Nasdaq Drops 1% As Yields Rise Again",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T14:48:08+00:00",
       "title": "S&P 500 Just Got The Green Light To 8000",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T12:19:39+00:00",
       "title": "S&P 500: American Exceptionalism Is Worth The Price",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T11:28:00+00:00",
-      "title": "Markets Move Lower As Bond Futures Edge Higher",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
