@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:31:35.660557+00:00",
+  "generated_at": "2026-08-20T19:58:37.000593+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 710.67,
-    "change_pct": -0.7555021785275451
+    "price": 710.82,
+    "change_pct": -0.7345547983465539
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:49:12.968738+00:00",
-      "close": 730.35
-    },
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 729.87
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:31:35.660557+00:00",
       "close": 710.67
+    },
+    {
+      "timestamp": "2026-08-20T19:58:37.000593+00:00",
+      "close": 710.82
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-20T14:05:33+00:00",
       "title": "Treasury Blinked: A Bessent Put Too Small To Matter",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T11:28:00+00:00",
       "title": "Markets Move Lower As Bond Futures Edge Higher",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T11:16:44+00:00",
-      "title": "The Worst Bond Selloff Since 2007 Gave A Message About The U.S. Stock Market",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

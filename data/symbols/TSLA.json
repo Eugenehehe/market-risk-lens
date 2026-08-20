@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:31:35.660557+00:00",
+  "generated_at": "2026-08-20T19:58:37.000593+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 343.46,
-    "change_pct": -2.1815903394850844
+    "price": 345.09,
+    "change_pct": -1.7173615857826507
   },
   "risk": {
-    "score": 68,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:49:12.968738+00:00",
-      "close": 339.21
-    },
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 339.3
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:31:35.660557+00:00",
       "close": 343.46
+    },
+    {
+      "timestamp": "2026-08-20T19:58:37.000593+00:00",
+      "close": 345.09
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T18:05:01+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Thursday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T20:47:48+00:00",
       "title": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T18:05:02+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

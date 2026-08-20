@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:31:35.660557+00:00",
+  "generated_at": "2026-08-20T19:58:37.000593+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 763.35,
-    "change_pct": -0.7424648271916245
+    "price": 762.4,
+    "change_pct": -0.865992250279557
   },
   "risk": {
-    "score": 56,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:49:12.968738+00:00",
-      "close": 773.21
-    },
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 772.67
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:31:35.660557+00:00",
       "close": 763.35
+    },
+    {
+      "timestamp": "2026-08-20T19:58:37.000593+00:00",
+      "close": 762.4
     }
   ],
   "events": [
@@ -514,9 +514,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-20T14:20:00+00:00",
+      "title": "EPA, In Consultation With DOE, Expands Gasoline Supply To Lower Prices At The Pump",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-20T14:05:33+00:00",
       "title": "Treasury Blinked: A Bessent Put Too Small To Matter",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T11:28:00+00:00",
       "title": "Markets Move Lower As Bond Futures Edge Higher",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T11:16:44+00:00",
-      "title": "The Worst Bond Selloff Since 2007 Gave A Message About The U.S. Stock Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:18:17+00:00",
-      "title": "QUICK SPARK: SPY Gets $1.9B Boost in One Day as QQQ, GLD and SOXL See Outflows",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

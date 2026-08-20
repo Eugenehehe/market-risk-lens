@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:31:35.660557+00:00",
+  "generated_at": "2026-08-20T19:58:37.000593+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 217.24,
-    "change_pct": -0.14708586137157642
+    "price": 216.88,
+    "change_pct": -0.3125574554145971
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:49:12.968738+00:00",
-      "close": 225.49
-    },
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 225.01
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T19:31:35.660557+00:00",
       "close": 217.24
+    },
+    {
+      "timestamp": "2026-08-20T19:58:37.000593+00:00",
+      "close": 216.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T19:10:06+00:00",
+      "title": "Which dow jones stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T18:05:01+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Thursday?",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-20T11:55:05+00:00",
       "title": "QUICK SPARK: Nvidia Partner Ouster Says Humanoid Robots Could Need Up to 12 Cameras Each",
       "source": "Benzinga",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T10:12:47+00:00",
       "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:57:21+00:00",
-      "title": "CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:45:08+00:00",
-      "title": "Nvidia: The Greatest Company At A Fair Price",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

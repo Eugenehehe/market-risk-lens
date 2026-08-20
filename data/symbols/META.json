@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:31:35.660557+00:00",
+  "generated_at": "2026-08-20T19:58:37.000593+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 542.97,
-    "change_pct": -0.5604087687489545
+    "price": 546.14,
+    "change_pct": 0.020145413255678868
   },
   "risk": {
-    "score": 55,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T19:49:12.968738+00:00",
-      "close": 568.67
-    },
     {
       "timestamp": "2026-08-17T20:11:04.703410+00:00",
       "close": 568.97
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T19:31:35.660557+00:00",
       "close": 542.97
+    },
+    {
+      "timestamp": "2026-08-20T19:58:37.000593+00:00",
+      "close": 546.14
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-20T14:06:00+00:00",
       "title": "Hyperscaler AI Capex: What The Headlines Miss",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:04:03+00:00",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T06:00:11+00:00",
       "title": "Meta Platforms: H2 2026 May Disappoint - Value Trap Risks Meet Rich Rebound Prospects",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T05:37:44+00:00",
-      "title": "Meta's AI Spending Could Unlock 'Abundant Revenue,' Analyst Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
