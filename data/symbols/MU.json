@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:00:05.804163+00:00",
+  "generated_at": "2026-08-20T22:37:04.869303+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 974.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T22:00:17.778538+00:00",
-      "close": 1011.75
-    },
     {
       "timestamp": "2026-08-17T22:33:48.315034+00:00",
       "close": 1011.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T22:00:05.804163+00:00",
       "close": 974.33
+    },
+    {
+      "timestamp": "2026-08-20T22:37:04.869303+00:00",
+      "close": 974.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T17:45:00+00:00",
+      "title": "Hedging Exposure In This Volatile Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T15:24:14+00:00",
       "title": "Sandisk: Bulls Are Misjudging Its Valuation And Cyclicality",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T10:12:47+00:00",
       "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:04:56+00:00",
-      "title": "Micron Unveils $10 Billion Research Labs To Advance Memory and AI",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
