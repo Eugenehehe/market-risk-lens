@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:00:12.297639+00:00",
+  "generated_at": "2026-08-20T01:45:33.485767+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T02:02:17.754511+00:00",
-      "close": 776.34
-    },
     {
       "timestamp": "2026-08-17T03:08:55.589744+00:00",
       "close": 776.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T00:00:12.297639+00:00",
       "close": 769.06
+    },
+    {
+      "timestamp": "2026-08-20T01:45:33.485767+00:00",
+      "close": 769.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-19T20:45:00+00:00",
+      "title": "Fed Minutes Lean Hawkish, But We Don't Expect A Hike",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-19T16:35:34+00:00",
       "title": "HDV: The Monthly Payout Change Doesn't Solve Its Problems",
@@ -514,8 +522,32 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-19T15:39:03+00:00",
+      "title": "President Trump On Canada, Says We May Bring Some Of The Tariffs Down To A Level Where Other Countries Are, Because Canada Was Paying A Higher Tariff",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T15:33:43+00:00",
+      "title": "President Trump, On Canada Trade Talks, Says We Will Probably Have A Deal; I Think We Have A Deal That Is Good For Everyone",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-19T15:13:39+00:00",
       "title": "President Trump On Xi Visit, Says 'We Will Probably Talk About AI'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-19T15:12:02+00:00",
+      "title": "U.S.-Canada Trade Deal Expected To Cut Top-Line U.S. Tariff Rates On Canadian Autos To 15%; Expected To Cut Top-Line U.S. Tariff Rates On Canadian Steel, Aluminum To 25% But Also Will Include Some Quota Arrangements",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-19T12:20:09+00:00",
       "title": "Bond Yields Have Soared To Pre-Great Recession Levels, This Doesn't Worry Me",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T12:16:56+00:00",
-      "title": "President Trump Nominates Heidi Overton, MD, PhD, As Next FDA Commissioner",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T12:10:00+00:00",
-      "title": "Markets Trying To Recover From 3-Day Losing Streak",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T12:07:22+00:00",
-      "title": "'FTC Warns Retailers on Using Private Consumer Data to Raise Prices' - WSJ Exclusive",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T11:39:05+00:00",
-      "title": "President Trump Says Oil Prices Will Be A Lot Lower When This Is Over",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
