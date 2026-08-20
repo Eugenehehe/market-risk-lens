@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T16:35:13.971911+00:00",
+  "generated_at": "2026-08-20T17:04:20.237361+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 712.1,
-    "change_pct": -0.5558038208021476
+    "price": 712.27,
+    "change_pct": -0.5320634565970317
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:01:48.283188+00:00",
-      "close": 732.18
-    },
     {
       "timestamp": "2026-08-17T17:37:13.198747+00:00",
       "close": 730.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T16:35:13.971911+00:00",
       "close": 712.1
+    },
+    {
+      "timestamp": "2026-08-20T17:04:20.237361+00:00",
+      "close": 712.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T12:19:39+00:00",
+      "title": "S&P 500: American Exceptionalism Is Worth The Price",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T11:28:00+00:00",
       "title": "Markets Move Lower As Bond Futures Edge Higher",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T08:08:58+00:00",
       "title": "STK: This Tech CEF Is Crushing QQQ, And Is Still Trading At A Discount",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:03:25+00:00",
-      "title": "The Scarcity Trade At The Heart Of Photonics",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

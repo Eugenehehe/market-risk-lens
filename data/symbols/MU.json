@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T16:35:13.971911+00:00",
+  "generated_at": "2026-08-20T17:04:20.237361+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 955.08,
-    "change_pct": 1.9181415102896615
+    "price": 957.52,
+    "change_pct": 2.1785178822010254
   },
   "risk": {
-    "score": 66,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T17:01:48.283188+00:00",
-      "close": 1031.13
-    },
     {
       "timestamp": "2026-08-17T17:37:13.198747+00:00",
       "close": 1018.61
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T16:35:13.971911+00:00",
       "close": 955.08
+    },
+    {
+      "timestamp": "2026-08-20T17:04:20.237361+00:00",
+      "close": 957.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T12:19:39+00:00",
+      "title": "S&P 500: American Exceptionalism Is Worth The Price",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T10:28:22+00:00",
       "title": "Sandisk Thesis: Every Byte AI Creates Needs A Home",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T08:25:08+00:00",
       "title": "SK Hynix vs. Micron: One AI Memory Leader Is Trading at Half the Multiple",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T08:07:58+00:00",
-      "title": "Wall Street Sinks as 30-Year Yield Hits 19-Year High, Chip Names Crumble",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
