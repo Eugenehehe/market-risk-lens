@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:34:28.513330+00:00",
+  "generated_at": "2026-08-20T23:56:13.722149+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 481.15,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T23:25:49.604970+00:00",
-      "close": 480.35
-    },
     {
       "timestamp": "2026-08-17T23:47:36.679804+00:00",
       "close": 480.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T23:34:28.513330+00:00",
       "close": 481.15
+    },
+    {
+      "timestamp": "2026-08-20T23:56:13.722149+00:00",
+      "close": 481.15
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T19:10:06+00:00",
       "title": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T17:58:32+00:00",
+      "title": "'Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing'- Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T05:50:15+00:00",
       "title": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T05:48:16+00:00",
-      "title": "Alibaba shares fall 5% as AI spending drives 75% drop in net income",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

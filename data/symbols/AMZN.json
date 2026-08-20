@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:34:28.513330+00:00",
+  "generated_at": "2026-08-20T23:56:13.722149+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 260.11,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T23:25:49.604970+00:00",
-      "close": 261.31
-    },
     {
       "timestamp": "2026-08-17T23:47:36.679804+00:00",
       "close": 261.31
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T23:34:28.513330+00:00",
       "close": 260.11
+    },
+    {
+      "timestamp": "2026-08-20T23:56:13.722149+00:00",
+      "close": 260.11
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T19:10:06+00:00",
       "title": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T17:58:32+00:00",
+      "title": "'Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing'- Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T14:04:03+00:00",
       "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T13:35:18+00:00",
-      "title": "10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
