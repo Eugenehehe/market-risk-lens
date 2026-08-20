@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:16:52.839714+00:00",
+  "generated_at": "2026-08-20T13:16:04.788902+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 362.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T14:13:45.111116+00:00",
-      "close": 394.36
-    },
     {
       "timestamp": "2026-08-17T14:47:23.105062+00:00",
       "close": 397.73
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T12:16:52.839714+00:00",
       "close": 362.48
+    },
+    {
+      "timestamp": "2026-08-20T13:16:04.788902+00:00",
+      "close": 362.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T08:23:58+00:00",
+      "title": "Marvell: The Deal And The Dilution Are Both Real",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T07:11:14+00:00",
       "title": "Moderna Doubles on Melanoma Vaccine Win, Treasury Steps In to Cap Long-End Yields",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T10:34:16+00:00",
       "title": "Marvell surges after deal allows Alphabet to buy up to $12.2 billion in shares",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T10:01:22+00:00",
-      "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
