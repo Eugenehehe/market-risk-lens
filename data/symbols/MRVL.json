@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-20T13:16:04.788902+00:00",
+  "generated_at": "2026-08-20T14:03:14.307622+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 237.27,
-    "change_pct": 9.847222222222229
+    "price": 236.64,
+    "change_pct": -0.26552029333671845
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T14:47:23.105062+00:00",
-      "close": 237.24
-    },
     {
       "timestamp": "2026-08-17T15:11:20.730109+00:00",
       "close": 239.49
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T13:16:04.788902+00:00",
       "close": 237.27
+    },
+    {
+      "timestamp": "2026-08-20T14:03:14.307622+00:00",
+      "close": 236.64
     }
   ],
   "events": [
