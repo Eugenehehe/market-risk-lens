@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T14:03:14.307622+00:00",
+  "generated_at": "2026-08-20T14:50:07.009788+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 236.64,
-    "change_pct": -0.26552029333671845
+    "price": 243.4,
+    "change_pct": 2.583554600244442
   },
   "risk": {
-    "score": 53,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T15:11:20.730109+00:00",
-      "close": 239.49
-    },
     {
       "timestamp": "2026-08-17T15:41:10.656870+00:00",
       "close": 238.49
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T14:03:14.307622+00:00",
       "close": 236.64
+    },
+    {
+      "timestamp": "2026-08-20T14:50:07.009788+00:00",
+      "close": 243.4
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-20T12:35:01+00:00",
       "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T10:19:04+00:00",
+      "title": "Marvell Technology: Why The $12.2B Deal With Google Is Outrageously Beneficial",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-19T16:35:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T14:35:02+00:00",
-      "title": "Which S&P500 stocks are gapping on Wednesday?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,

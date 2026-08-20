@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T14:03:14.307622+00:00",
+  "generated_at": "2026-08-20T14:50:07.009788+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 142.84,
-    "change_pct": -0.6745010778109961
+    "price": 142.3,
+    "change_pct": -1.0499965231903108
   },
   "risk": {
-    "score": 52,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T15:11:20.730109+00:00",
-      "close": 146.7
-    },
     {
       "timestamp": "2026-08-17T15:41:10.656870+00:00",
       "close": 147.77
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-20T14:03:14.307622+00:00",
       "close": 142.84
+    },
+    {
+      "timestamp": "2026-08-20T14:50:07.009788+00:00",
+      "close": 142.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-20T10:03:05+00:00",
+      "title": "Oracle: Cheap, But Too Early - The Real Inflection Comes In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T09:44:00+00:00",
       "title": "What The Quantinuum-Oracle Partnership Signals For Enterprise Computing",
