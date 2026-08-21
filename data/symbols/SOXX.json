@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:57:38.537267+00:00",
+  "generated_at": "2026-08-21T18:47:06.991404+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 519.88,
-    "change_pct": -0.47286302287739
+    "price": 519.4,
+    "change_pct": -0.5647554321814963
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:44:06.904717+00:00",
-      "close": 527.41
-    },
     {
       "timestamp": "2026-08-18T17:11:36.575696+00:00",
       "close": 527.51
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-21T17:57:38.537267+00:00",
       "close": 519.88
+    },
+    {
+      "timestamp": "2026-08-21T18:47:06.991404+00:00",
+      "close": 519.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T13:50:46+00:00",
+      "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:44:58+00:00",
+      "title": "SOXX: Growth And Profitability May Be Peaking",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T09:57:15+00:00",
       "title": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T10:03:05+00:00",
       "title": "Oracle: Cheap, But Too Early - The Real Inflection Comes In 2027",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:30:11+00:00",
-      "title": "What's Going On With Broadcom Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:25:11+00:00",
-      "title": "What's Going On With AMD Stock Thursday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

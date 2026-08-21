@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:57:38.537267+00:00",
+  "generated_at": "2026-08-21T18:47:06.991404+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 366.81,
-    "change_pct": 0.7636733236271898
+    "price": 366.38,
+    "change_pct": 0.6455511908359357
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:44:06.904717+00:00",
-      "close": 381.04
-    },
     {
       "timestamp": "2026-08-18T17:11:36.575696+00:00",
       "close": 381.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T17:57:38.537267+00:00",
       "close": 366.81
+    },
+    {
+      "timestamp": "2026-08-21T18:47:06.991404+00:00",
+      "close": 366.38
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T13:45:53+00:00",
+      "title": "Marvell: A $120 Billion Diamond In The Rough",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T13:24:43+00:00",
       "title": "Broadcom: You Snooze, You Lose",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T08:36:41+00:00",
       "title": "Buying Marvell Before Broadcom Is A Big Mistake",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:00:54+00:00",
-      "title": "Stocks making the biggest moves premarket: BJ's Wholesale, Broadcom, Ross Stores & more",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

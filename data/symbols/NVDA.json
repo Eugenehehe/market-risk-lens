@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:57:38.537267+00:00",
+  "generated_at": "2026-08-21T18:47:06.991404+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 215.9,
-    "change_pct": -0.43809084620705097
+    "price": 215.11,
+    "change_pct": -0.8023979709476547
   },
   "risk": {
-    "score": 54,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:44:06.904717+00:00",
-      "close": 219.91
-    },
     {
       "timestamp": "2026-08-18T17:11:36.575696+00:00",
       "close": 220.21
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-08-21T17:57:38.537267+00:00",
       "close": 215.9
+    },
+    {
+      "timestamp": "2026-08-21T18:47:06.991404+00:00",
+      "close": 215.11
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-21T18:05:01+00:00",
+      "title": "Which S&P500 stocks are the most active on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T18:00:00+00:00",
+      "title": "Friday's session: most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T16:40:05+00:00",
       "title": "Stay informed with the top movers within the dow jones index on Friday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:50:46+00:00",
+      "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:45:53+00:00",
+      "title": "Marvell: A $120 Billion Diamond In The Rough",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:35:18+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-08-21T12:53:46+00:00",
       "title": "Trading the major week ahead: The Investment Committee's strategy",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:49:12+00:00",
-      "title": "The Boring Way To Own AI Is Now The Cheap Way",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:40:05+00:00",
-      "title": "AI Stocks May Be Ignoring A Growing Risk Seen In Credit Markets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:12:02+00:00",
-      "title": "3 Funds For The Technologies That Could Define The Next Decade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:06:53+00:00",
-      "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T09:57:15+00:00",
-      "title": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

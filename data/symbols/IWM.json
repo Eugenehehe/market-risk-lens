@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:57:38.537267+00:00",
+  "generated_at": "2026-08-21T18:47:06.991404+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 299.76,
-    "change_pct": 0.7021197970907389
+    "price": 299.96,
+    "change_pct": 0.7693082944199903
   },
   "risk": {
-    "score": 56,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:44:06.904717+00:00",
-      "close": 301.1
-    },
     {
       "timestamp": "2026-08-18T17:11:36.575696+00:00",
       "close": 301.14
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-21T17:57:38.537267+00:00",
       "close": 299.76
+    },
+    {
+      "timestamp": "2026-08-21T18:47:06.991404+00:00",
+      "close": 299.96
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-21T13:50:46+00:00",
+      "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T13:12:18+00:00",
       "title": "The Bond Market Will See Through Warsh's Jackson Hole Speech",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:03:32+00:00",
+      "title": "Bitcoin Jumps Above $77,000, Gold Hits 3-Month Highs: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-21T11:40:05+00:00",
       "title": "AI Stocks May Be Ignoring A Growing Risk Seen In Credit Markets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:43:14+00:00",
-      "title": "Bowman Consulting: The Rewards Of Finding An Undervalued, Overlooked Business",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:40:00+00:00",
-      "title": "Markets Try To Bounce Back As Yields Head Higher",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
