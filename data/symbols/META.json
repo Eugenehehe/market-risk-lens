@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T15:45:32.470380+00:00",
+  "generated_at": "2026-08-21T16:14:15.038998+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 548.96,
-    "change_pct": 0.5734386164190308
+    "price": 549.84,
+    "change_pct": 0.7346609750288557
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T14:20:05.744969+00:00",
-      "close": 547.87
-    },
     {
       "timestamp": "2026-08-18T14:57:35.224101+00:00",
       "close": 549.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T15:45:32.470380+00:00",
       "close": 548.96
+    },
+    {
+      "timestamp": "2026-08-21T16:14:15.038998+00:00",
+      "close": 549.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T11:49:12+00:00",
+      "title": "The Boring Way To Own AI Is Now The Cheap Way",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T08:43:17+00:00",
       "title": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T18:54:07+00:00",
       "title": "Top Meta Reporter: Zuckerberg Dropped a Major Hint About Meta’s Next AI Breakthrough and Nobody’s Paying Attention",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T18:17:32+00:00",
-      "title": "Meta Is Now One of Microsoft's Largest AI Customers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

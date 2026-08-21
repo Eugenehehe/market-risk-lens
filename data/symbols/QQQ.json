@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T15:45:32.470380+00:00",
+  "generated_at": "2026-08-21T16:14:15.038998+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 714.82,
-    "change_pct": 0.5471706075141247
+    "price": 713.81,
+    "change_pct": 0.40510317471480484
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T14:20:05.744969+00:00",
-      "close": 718.86
-    },
     {
       "timestamp": "2026-08-18T14:57:35.224101+00:00",
       "close": 717.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T15:45:32.470380+00:00",
       "close": 714.82
+    },
+    {
+      "timestamp": "2026-08-21T16:14:15.038998+00:00",
+      "close": 713.81
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-21T12:01:27+00:00",
       "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T11:53:23+00:00",
+      "title": "Bessent Broke It: Only Warsh Can Fix It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T11:49:12+00:00",
+      "title": "The Boring Way To Own AI Is Now The Cheap Way",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T11:40:05+00:00",
+      "title": "AI Stocks May Be Ignoring A Growing Risk Seen In Credit Markets",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-21T08:30:00+00:00",
       "title": "The S&P 500 Has A Big Math Problem; How I'm Solving It (Technical Analysis)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:28:00+00:00",
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Gain as Scott Bessent Touts 'Toughest Sanctions' for Iran— Ross Stores, Strategy, Flowers Foods in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T07:58:47+00:00",
-      "title": "Jim Cramer Says Stocks and the Economy Are Telling Two Very Different Stories: ‘Jarring Gulf’",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T07:48:52+00:00",
-      "title": "Trump’s Bond Buyback Push Puts Kevin Warsh in a Tough Spot — Peter Schiff Says Treasury ‘Pulled the Rug Out From Under’",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
