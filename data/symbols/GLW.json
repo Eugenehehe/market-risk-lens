@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-20T23:56:13.722149+00:00",
+  "generated_at": "2026-08-21T01:27:26.349099+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 151.45,
     "change_pct": -0.6624688442870341
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 48,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-17T23:47:36.679804+00:00",
-      "close": 173.21
-    },
     {
       "timestamp": "2026-08-18T00:22:46.919136+00:00",
       "close": 173.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-20T23:56:13.722149+00:00",
       "close": 151.45
+    },
+    {
+      "timestamp": "2026-08-21T01:27:26.349099+00:00",
+      "close": 151.45
     }
   ],
   "events": [
@@ -533,38 +533,6 @@
       "timestamp": "2026-08-19T01:10:00+00:00",
       "title": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T19:05:01+00:00",
-      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T16:35:01+00:00",
-      "title": "Stay informed with the top movers within the S&P500 index on Tuesday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:40:18+00:00",
-      "title": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-18T12:35:01+00:00",
-      "title": "Get insights into the top movers in the S&P500 index of Tuesday's pre-market session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
