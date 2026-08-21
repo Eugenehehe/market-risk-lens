@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T13:54:09.136995+00:00",
+  "generated_at": "2026-08-21T14:32:00.268857+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 710.82,
-    "change_pct": -0.015472690700901737
+    "price": 710.8,
+    "change_pct": -0.018285907191983863
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T11:58:02.689630+00:00",
-      "close": 729.87
-    },
     {
       "timestamp": "2026-08-18T13:00:24.403519+00:00",
       "close": 729.87
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T13:54:09.136995+00:00",
       "close": 710.82
+    },
+    {
+      "timestamp": "2026-08-21T14:32:00.268857+00:00",
+      "close": 710.8
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-21T12:01:27+00:00",
       "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T09:37:46+00:00",
+      "title": "War, Inflation, And The Battle For Market Leadership",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T14:48:08+00:00",
       "title": "S&P 500 Just Got The Green Light To 8000",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T14:05:33+00:00",
-      "title": "Treasury Blinked: A Bessent Put Too Small To Matter",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

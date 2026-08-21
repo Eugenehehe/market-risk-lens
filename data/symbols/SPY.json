@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T13:54:09.136995+00:00",
+  "generated_at": "2026-08-21T14:32:00.268857+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 764.58,
-    "change_pct": 0.25963808025177837
+    "price": 764.79,
+    "change_pct": 0.28717545239966835
   },
   "risk": {
     "score": 53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T11:58:02.689630+00:00",
-      "close": 772.67
-    },
     {
       "timestamp": "2026-08-18T13:00:24.403519+00:00",
       "close": 772.67
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T13:54:09.136995+00:00",
       "close": 764.58
+    },
+    {
+      "timestamp": "2026-08-21T14:32:00.268857+00:00",
+      "close": 764.79
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-21T12:01:27+00:00",
       "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T09:37:46+00:00",
+      "title": "War, Inflation, And The Battle For Market Leadership",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T21:00:00+00:00",
       "title": "Margin Debt Falls 5.7% In July",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T17:45:00+00:00",
-      "title": "Hedging Exposure In This Volatile Market",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
