@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T19:59:05.653084+00:00",
+  "generated_at": "2026-08-21T20:33:34.412096+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 473.59,
-    "change_pct": 0.8808085972031421
+    "price": 473.25,
+    "change_pct": 0.8083841901779687
   },
   "risk": {
-    "score": 58,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T18:59:20.537897+00:00",
-      "close": 480.04
-    },
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 480.85
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T19:59:05.653084+00:00",
       "close": 473.59
+    },
+    {
+      "timestamp": "2026-08-21T20:33:34.412096+00:00",
+      "close": 473.25
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-21T06:54:35+00:00",
+      "title": "BMO Capital Initiates Coverage On Advanced Micro Devices with Outperform Rating, Announces Price Target of $550",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T06:29:51+00:00",
       "title": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
       "source": "Benzinga",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T14:48:08+00:00",
       "title": "S&P 500 Just Got The Green Light To 8000",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T12:05:58+00:00",
-      "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

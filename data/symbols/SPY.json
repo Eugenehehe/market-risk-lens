@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T19:59:05.653084+00:00",
+  "generated_at": "2026-08-21T20:33:34.412096+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 766.12,
-    "change_pct": 0.46157880933648254
+    "price": 765.72,
+    "change_pct": 0.4091266719118858
   },
   "risk": {
     "score": 54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T18:59:20.537897+00:00",
-      "close": 767.79
-    },
     {
       "timestamp": "2026-08-18T19:33:39.163475+00:00",
       "close": 768.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T19:59:05.653084+00:00",
       "close": 766.12
+    },
+    {
+      "timestamp": "2026-08-21T20:33:34.412096+00:00",
+      "close": 765.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T15:48:00+00:00",
+      "title": "Rate Fears Overblown",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T15:05:00+00:00",
       "title": "Brad Simpson On Navigating A More Uncertain World",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-21T12:01:27+00:00",
-      "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:53:23+00:00",
-      "title": "Bessent Broke It: Only Warsh Can Fix It",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-21T12:31:00+00:00",
+      "title": "The U.S. Department Of State Has Made A Determination Approving A Possible Foreign Military Sale To The Government Of Norway For UH-60M Black Hawk Helicopters And Related Equipment; Estimated Total Cost Is $2.3B",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
