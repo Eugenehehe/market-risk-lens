@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T19:15:53.992885+00:00",
+  "generated_at": "2026-08-21T19:41:58.626039+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 345.3,
-    "change_pct": 1.3590865060028712
+    "price": 346.15,
+    "change_pct": 1.6085948278392381
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T17:44:50.484422+00:00",
-      "close": 343.31
-    },
     {
       "timestamp": "2026-08-18T18:13:31.964963+00:00",
       "close": 343.8
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-21T19:15:53.992885+00:00",
       "close": 345.3
+    },
+    {
+      "timestamp": "2026-08-21T19:41:58.626039+00:00",
+      "close": 346.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T19:10:05+00:00",
+      "title": "Discover which dow jones stocks are making waves on Friday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T14:51:47+00:00",
+      "title": "SpaceXAI Launches Grok 4.6 On Google Cloud Vertex AI",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T13:45:53+00:00",
       "title": "Marvell: A $120 Billion Diamond In The Rough",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-21T09:00:38+00:00",
       "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:43:17+00:00",
-      "title": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:36:41+00:00",
-      "title": "Buying Marvell Before Broadcom Is A Big Mistake",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
