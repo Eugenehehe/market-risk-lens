@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 234.59,
-    "change_pct": -6.541572048922351
+    "price": 237.56,
+    "change_pct": -5.358352256882193
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 216.46
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 214.98
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 234.59
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 237.56
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-21T14:35:01+00:00",
       "title": "Gapping S&P500 stocks in Friday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:24:43+00:00",
+      "title": "Broadcom: You Snooze, You Lose",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T14:33:16+00:00",
       "title": "Broadcom: Marvell Panic Causes A Huge Buying Opportunity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T13:33:46+00:00",
-      "title": "Credo Technology: Valuation Has Run Ahead Of Fundamentals (Initiating Sell)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

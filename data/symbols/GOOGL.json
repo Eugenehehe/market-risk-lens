@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 345.4,
-    "change_pct": 1.3884404262189065
+    "price": 344.98,
+    "change_pct": 1.265153961311527
   },
   "risk": {
-    "score": 62,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 343.51
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 343.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 345.4
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 344.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T13:24:43+00:00",
+      "title": "Broadcom: You Snooze, You Lose",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T12:21:12+00:00",
       "title": "Alphabet (NASDAQ:GOOGL): Strong Growth and a Technical Setup Point to a Potential Breakout",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T08:30:26+00:00",
       "title": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T06:29:51+00:00",
-      "title": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 553.01,
-    "change_pct": 1.3154278804756059
+    "price": 549.8,
+    "change_pct": 0.7273326860011142
   },
   "risk": {
-    "score": 61,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 554.71
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 550.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 553.01
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 549.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T13:24:43+00:00",
+      "title": "Broadcom: You Snooze, You Lose",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T11:49:12+00:00",
       "title": "The Boring Way To Own AI Is Now The Cheap Way",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-21T09:57:15+00:00",
+      "title": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T08:43:17+00:00",
       "title": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T07:00:01+00:00",
+      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-20T20:05:00+00:00",
       "title": "LPL Financial Reports Monthly Activity for July 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T19:40:28+00:00",
-      "title": "Meta Slips as $200 Billion Youth-Safety Trial Intensifies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T19:00:00+00:00",
-      "title": "4 High-Growth GARP Stocks With Discounted PEG Ratios for 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T18:54:07+00:00",
-      "title": "Top Meta Reporter: Zuckerberg Dropped a Major Hint About Meta’s Next AI Breakthrough and Nobody’s Paying Attention",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

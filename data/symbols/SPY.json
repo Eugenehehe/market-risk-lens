@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765.81,
-    "change_pct": 0.42092840283241006
+    "price": 765.57,
+    "change_pct": 0.38945712037765645
   },
   "risk": {
     "score": 54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 768.53
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 768.41
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 765.81
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 765.57
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-21T13:12:18+00:00",
+      "title": "The Bond Market Will See Through Warsh's Jackson Hole Speech",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T12:52:48+00:00",
       "title": "What Walmart, Lowe's, And La-Z-Boy Earnings Say About The American Consumer",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T12:33:28+00:00",
+      "title": "BZ Analysis: Gold Surged Above $4,600 An Ounce On Friday And Is Up More Than 14% In August, Putting It On Track For Its Biggest Monthly Gain Since 1999; The Metal Is Also Trading Above All Key Moving Averages, Having Broken ​above The Closely Watched 200-Day Moving Average Of Around $4,513",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-21T10:40:00+00:00",
       "title": "Markets Try To Bounce Back As Yields Head Higher",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:06:53+00:00",
-      "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T09:37:46+00:00",
-      "title": "War, Inflation, And The Battle For Market Leadership",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 417.44,
-    "change_pct": 0.3461538461538405
+    "price": 419.62,
+    "change_pct": 0.870192307692319
   },
   "risk": {
-    "score": 53,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 414.68
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 413.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 417.44
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 419.62
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-21T11:12:02+00:00",
       "title": "3 Funds For The Technologies That Could Define The Next Decade",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T11:02:56+00:00",
+      "title": "174K Reasons To Be Bullish On Taiwan Semiconductor Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-19T17:12:20+00:00",
       "title": "Samsung Tumbled Nearly 8% in Seoul Even as AI Demand Drives Chip Prices Up To 15%",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T13:35:16+00:00",
-      "title": "8 Information Technology Stocks With Whale Alerts In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

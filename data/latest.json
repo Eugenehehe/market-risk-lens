@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 214.74,
-    "change_pct": -0.9730228268388208
+    "price": 215.9,
+    "change_pct": -0.43809084620705097
   },
   "risk": {
-    "score": 58,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 220.33
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 219.91
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 214.74
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 215.9
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-21T16:40:05+00:00",
       "title": "Stay informed with the top movers within the dow jones index on Friday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T13:24:43+00:00",
+      "title": "Broadcom: You Snooze, You Lose",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T12:53:46+00:00",
+      "title": "Trading the major week ahead: The Investment Committee's strategy",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-21T09:00:38+00:00",
-      "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:00:00+00:00",
-      "title": "Nvidia: There Is No Plan B",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T07:46:58+00:00",
-      "title": "This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
+      "timestamp": "2026-08-21T09:57:15+00:00",
+      "title": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

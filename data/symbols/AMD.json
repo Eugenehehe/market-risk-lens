@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T17:27:01.888714+00:00",
+  "generated_at": "2026-08-21T17:57:38.537267+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 469.23,
-    "change_pct": -0.04792791641370364
+    "price": 471.54,
+    "change_pct": 0.4441320254337633
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T16:02:13.020195+00:00",
-      "close": 480.29
-    },
     {
       "timestamp": "2026-08-18T16:44:06.904717+00:00",
       "close": 478.38
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T17:27:01.888714+00:00",
       "close": 469.23
+    },
+    {
+      "timestamp": "2026-08-21T17:57:38.537267+00:00",
+      "close": 471.54
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-21T11:12:02+00:00",
       "title": "3 Funds For The Technologies That Could Define The Next Decade",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T09:57:15+00:00",
+      "title": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T12:05:58+00:00",
       "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:45:08+00:00",
-      "title": "Nvidia: The Greatest Company At A Fair Price",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
