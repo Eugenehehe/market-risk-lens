@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:02:27.541312+00:00",
+  "generated_at": "2026-08-21T23:33:53.927746+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 483.24,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T21:54:27.754523+00:00",
-      "close": 481.63
-    },
     {
       "timestamp": "2026-08-18T22:20:54.823537+00:00",
       "close": 481.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T23:02:27.541312+00:00",
       "close": 483.24
+    },
+    {
+      "timestamp": "2026-08-21T23:33:53.927746+00:00",
+      "close": 483.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T16:08:31+00:00",
+      "title": "'Anthropic Taps Google Chip Veteran as Part of Push Into Hardware'- Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T13:45:53+00:00",
       "title": "Marvell: A $120 Billion Diamond In The Rough",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T10:31:09+00:00",
       "title": "Microsoft (NASDAQ:MSFT): A Quality Investing Standout With a Premium Price",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:06:53+00:00",
-      "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
