@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T16:14:15.038998+00:00",
+  "generated_at": "2026-08-21T16:54:40.121816+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 468.94,
-    "change_pct": -0.10970167534694042
+    "price": 469.97,
+    "change_pct": 0.10970167534696262
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T14:57:35.224101+00:00",
-      "close": 477.92
-    },
     {
       "timestamp": "2026-08-18T15:38:10.539374+00:00",
       "close": 480.26
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T16:14:15.038998+00:00",
       "close": 468.94
+    },
+    {
+      "timestamp": "2026-08-21T16:54:40.121816+00:00",
+      "close": 469.97
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-21T07:00:00+00:00",
       "title": "EOS: Looking To Explain Weaker Results, Still A 'Buy'",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T06:29:51+00:00",
+      "title": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T09:45:08+00:00",
       "title": "Nvidia: The Greatest Company At A Fair Price",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:25:11+00:00",
-      "title": "What's Going On With AMD Stock Thursday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

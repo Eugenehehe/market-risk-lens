@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T16:14:15.038998+00:00",
+  "generated_at": "2026-08-21T16:54:40.121816+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 963.39,
-    "change_pct": -1.1228228628904047
+    "price": 966.41,
+    "change_pct": -0.812866277339308
   },
   "risk": {
-    "score": 59,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T14:57:35.224101+00:00",
-      "close": 939.65
-    },
     {
       "timestamp": "2026-08-18T15:38:10.539374+00:00",
       "close": 941.39
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T16:14:15.038998+00:00",
       "close": 963.39
+    },
+    {
+      "timestamp": "2026-08-21T16:54:40.121816+00:00",
+      "close": 966.41
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-21T11:11:21+00:00",
       "title": "Micron Technology (NASDAQ:MU) Flags All Eight Growth Screens as Fundamentals Accelerate",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T11:02:52+00:00",
+      "title": "Insider Transaction: Sumit Sadana Sells $14.01M Worth Of Micron Technology Shares",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-21T06:29:51+00:00",
+      "title": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T05:31:34+00:00",
       "title": "‘No AI Without Memory’: Micron CEO Says the Chip Industry’s Old Boom-Bust Playbook Is Breaking",
       "source": "Benzinga",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T17:45:00+00:00",
       "title": "Hedging Exposure In This Volatile Market",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T15:24:14+00:00",
-      "title": "Sandisk: Bulls Are Misjudging Its Valuation And Cyclicality",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T14:04:03+00:00",
-      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
