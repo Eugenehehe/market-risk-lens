@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:02:36.257196+00:00",
+  "generated_at": "2026-08-21T11:35:54.363645+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 434.78,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T10:03:46.020217+00:00",
-      "close": 479.81
-    },
     {
       "timestamp": "2026-08-18T10:41:45.834178+00:00",
       "close": 479.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T11:02:36.257196+00:00",
       "close": 434.78
+    },
+    {
+      "timestamp": "2026-08-21T11:35:54.363645+00:00",
+      "close": 434.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T06:58:37+00:00",
+      "title": "I'm Downgrading Dell Ahead Of Q2 Earnings (Preview)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T10:12:47+00:00",
       "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-19T09:16:41+00:00",
       "title": "Evercore ISI Group Maintains Outperform on Dell Technologies, Raises Price Target to $550",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T08:30:00+00:00",
-      "title": "How Tokenomics Might Save AI PCs",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
