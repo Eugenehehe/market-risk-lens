@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T19:41:58.626039+00:00",
+  "generated_at": "2026-08-21T19:59:05.653084+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 236.8,
-    "change_pct": -5.661129038683709
+    "price": 237.23,
+    "change_pct": -5.48982112266444
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T18:13:31.964963+00:00",
-      "close": 211.22
-    },
     {
       "timestamp": "2026-08-18T18:59:20.537897+00:00",
       "close": 213.55
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T19:41:58.626039+00:00",
       "close": 236.8
+    },
+    {
+      "timestamp": "2026-08-21T19:59:05.653084+00:00",
+      "close": 237.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T19:05:01+00:00",
+      "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T16:35:01+00:00",
       "title": "Exploring the top movers within the S&P500 index during today's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T10:07:01+00:00",
       "title": "What's Going On With Marvell Technology Stock Friday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:36:41+00:00",
-      "title": "Buying Marvell Before Broadcom Is A Big Mistake",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

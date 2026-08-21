@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T19:41:58.626039+00:00",
+  "generated_at": "2026-08-21T19:59:05.653084+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 215.08,
-    "change_pct": -0.8162324187226067
+    "price": 214.87,
+    "change_pct": -0.9130735531473366
   },
   "risk": {
-    "score": 57,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T18:13:31.964963+00:00",
-      "close": 219.39
-    },
     {
       "timestamp": "2026-08-18T18:59:20.537897+00:00",
       "close": 219.88
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T19:41:58.626039+00:00",
       "close": 215.08
+    },
+    {
+      "timestamp": "2026-08-21T19:59:05.653084+00:00",
+      "close": 214.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T19:10:05+00:00",
+      "title": "Discover which dow jones stocks are making waves on Friday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Friday?",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-21T15:33:43+00:00",
+      "title": "Nvidia: 500 Billion Reasons Why This Is A Strong Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T13:50:46+00:00",
       "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
       "source": "Benzinga",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-21T13:35:18+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:24:43+00:00",
-      "title": "Broadcom: You Snooze, You Lose",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T12:53:46+00:00",
-      "title": "Trading the major week ahead: The Investment Committee's strategy",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
