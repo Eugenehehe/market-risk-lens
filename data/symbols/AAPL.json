@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T15:06:15.325556+00:00",
+  "generated_at": "2026-08-21T15:45:32.470380+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 309.83,
-    "change_pct": -0.4722132990684358
+    "price": 311.35,
+    "change_pct": 0.016061676839074224
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:50:28.685761+00:00",
-      "close": 306.68
-    },
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 309.59
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-21T15:06:15.325556+00:00",
       "close": 309.83
+    },
+    {
+      "timestamp": "2026-08-21T15:45:32.470380+00:00",
+      "close": 311.35
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-21T09:00:38+00:00",
+      "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-21T08:30:26+00:00",
       "title": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T05:48:32+00:00",
+      "title": "Broadcom Steps up NVIDIA Challenge With Potential $100 Billion AI Financing Deal",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-20T20:01:18+00:00",
+      "title": "Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% of Their Income and 'Save Nothing'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-20T19:10:06+00:00",
       "title": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-20T17:45:00+00:00",
       "title": "Hedging Exposure In This Volatile Market",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T16:40:04+00:00",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T16:21:47+00:00",
-      "title": "Congressman Has Bought Nothing but Apple Since 2024, and It's All on Autopilot",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T14:04:03+00:00",
-      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

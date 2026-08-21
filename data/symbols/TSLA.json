@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T15:06:15.325556+00:00",
+  "generated_at": "2026-08-21T15:45:32.470380+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 363.31,
-    "change_pct": 5.2675803320487935
+    "price": 363.49,
+    "change_pct": 5.31973459276216
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:50:28.685761+00:00",
-      "close": 337.35
-    },
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 336.94
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T15:06:15.325556+00:00",
       "close": 363.31
+    },
+    {
+      "timestamp": "2026-08-21T15:45:32.470380+00:00",
+      "close": 363.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T09:00:38+00:00",
+      "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T02:10:00+00:00",
       "title": "BUZZ Investing: Markets Look Through Intra-Period Volatility",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T07:04:41+00:00",
       "title": "Bernie Sanders Warns AI Billionaires Could ‘Obliterate’ Jobs and ‘Destroy the Environment,’ Calls for Data Center Moratorium",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T05:50:15+00:00",
-      "title": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

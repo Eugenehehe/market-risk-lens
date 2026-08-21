@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T15:06:15.325556+00:00",
+  "generated_at": "2026-08-21T15:45:32.470380+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 147.23,
-    "change_pct": 3.632012388259298
+    "price": 147.26,
+    "change_pct": 3.653128739353839
   },
   "risk": {
-    "score": 70,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:50:28.685761+00:00",
-      "close": 144.1
-    },
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 144.44
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T15:06:15.325556+00:00",
       "close": 147.23
+    },
+    {
+      "timestamp": "2026-08-21T15:45:32.470380+00:00",
+      "close": 147.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T08:43:17+00:00",
+      "title": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T10:03:05+00:00",
       "title": "Oracle: Cheap, But Too Early - The Real Inflection Comes In 2027",

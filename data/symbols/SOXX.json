@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T15:06:15.325556+00:00",
+  "generated_at": "2026-08-21T15:45:32.470380+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 515.93,
-    "change_pct": -1.229060974442442
+    "price": 519.36,
+    "change_pct": -0.5724131329568283
   },
   "risk": {
-    "score": 60,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:50:28.685761+00:00",
-      "close": 533.68
-    },
     {
       "timestamp": "2026-08-18T14:20:05.744969+00:00",
       "close": 531.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T15:06:15.325556+00:00",
       "close": 515.93
+    },
+    {
+      "timestamp": "2026-08-21T15:45:32.470380+00:00",
+      "close": 519.36
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-21T08:45:00+00:00",
       "title": "Semiconductors: Best Earnings In The S&P, Worst Tape",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T05:48:32+00:00",
+      "title": "Broadcom Steps up NVIDIA Challenge With Potential $100 Billion AI Financing Deal",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T05:31:34+00:00",
+      "title": "‘No AI Without Memory’: Micron CEO Says the Chip Industry’s Old Boom-Bust Playbook Is Breaking",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-20T08:48:22+00:00",
       "title": "What's Going On With Intel Stock Thursday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T08:03:25+00:00",
-      "title": "The Scarcity Trade At The Heart Of Photonics",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T15:45:23+00:00",
-      "title": "SOXL: When Expected Semiconductor Returns Are Not Worth The Risk",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
