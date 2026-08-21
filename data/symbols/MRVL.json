@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T16:54:40.121816+00:00",
+  "generated_at": "2026-08-21T17:27:01.888714+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 234.44,
-    "change_pct": -6.601330624277912
+    "price": 234.59,
+    "change_pct": -6.541572048922351
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T15:38:10.539374+00:00",
-      "close": 214.86
-    },
     {
       "timestamp": "2026-08-18T16:02:13.020195+00:00",
       "close": 216.46
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T16:54:40.121816+00:00",
       "close": 234.44
+    },
+    {
+      "timestamp": "2026-08-21T17:27:01.888714+00:00",
+      "close": 234.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T16:35:01+00:00",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T14:35:01+00:00",
       "title": "Gapping S&P500 stocks in Friday's session",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T13:33:46+00:00",
       "title": "Credo Technology: Valuation Has Run Ahead Of Fundamentals (Initiating Sell)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T12:35:01+00:00",
-      "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
