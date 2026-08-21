@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T13:03:07.070078+00:00",
+  "generated_at": "2026-08-21T13:54:09.136995+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.11,
-    "change_pct": -2.1554318386999505
+    "price": 259.02,
+    "change_pct": -0.41905347737496434
   },
   "risk": {
-    "score": 68,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T11:35:37.209561+00:00",
-      "close": 261.31
-    },
     {
       "timestamp": "2026-08-18T11:58:02.689630+00:00",
       "close": 261.31
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T13:03:07.070078+00:00",
       "close": 260.11
+    },
+    {
+      "timestamp": "2026-08-21T13:54:09.136995+00:00",
+      "close": 259.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T08:53:47+00:00",
+      "title": "Walmart In No Man's Land",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T08:30:26+00:00",
       "title": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T17:58:32+00:00",
       "title": "'Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing'- Bloomberg",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T16:40:04+00:00",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
