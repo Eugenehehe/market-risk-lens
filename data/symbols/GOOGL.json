@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:12:20.118336+00:00",
+  "generated_at": "2026-08-21T22:43:27.680557+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 344.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T21:02:54.304705+00:00",
-      "close": 344.2
-    },
     {
       "timestamp": "2026-08-18T21:34:21.608274+00:00",
       "close": 344.2
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T22:12:20.118336+00:00",
       "close": 344.82
+    },
+    {
+      "timestamp": "2026-08-21T22:43:27.680557+00:00",
+      "close": 344.82
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-21T19:10:05+00:00",
       "title": "Discover which dow jones stocks are making waves on Friday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T18:00:33+00:00",
+      "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-21T11:00:20+00:00",
       "title": "Recent Report Shows That Rep. David Taylor Sold Up to $50K Worth of Microsoft Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:06:53+00:00",
-      "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

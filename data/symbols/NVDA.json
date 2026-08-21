@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:12:20.118336+00:00",
+  "generated_at": "2026-08-21T22:43:27.680557+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 214.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T21:02:54.304705+00:00",
-      "close": 219.74
-    },
     {
       "timestamp": "2026-08-18T21:34:21.608274+00:00",
       "close": 219.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T22:12:20.118336+00:00",
       "close": 214.72
+    },
+    {
+      "timestamp": "2026-08-21T22:43:27.680557+00:00",
+      "close": 214.72
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-21T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Friday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T18:00:33+00:00",
+      "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T13:45:53+00:00",
       "title": "Marvell: A $120 Billion Diamond In The Rough",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:35:18+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
