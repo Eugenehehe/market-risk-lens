@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:58:57.496608+00:00",
+  "generated_at": "2026-08-21T13:03:07.070078+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 311.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T11:03:29.826271+00:00",
-      "close": 305.59
-    },
     {
       "timestamp": "2026-08-18T11:35:37.209561+00:00",
       "close": 305.59
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T11:58:57.496608+00:00",
       "close": 311.3
+    },
+    {
+      "timestamp": "2026-08-21T13:03:07.070078+00:00",
+      "close": 311.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T08:30:26+00:00",
+      "title": "$1 Million In The S&P 500: An 11-Stock Direct Indexing Strategy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T23:17:41+00:00",
       "title": "Apple's Immunity To Headwinds Is Fading (Rating Downgrade)",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T14:04:03+00:00",
       "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T12:05:58+00:00",
-      "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

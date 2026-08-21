@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:58:57.496608+00:00",
+  "generated_at": "2026-08-21T13:03:07.070078+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 364.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T11:03:29.826271+00:00",
-      "close": 392.43
-    },
     {
       "timestamp": "2026-08-18T11:35:37.209561+00:00",
       "close": 392.43
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T11:58:57.496608+00:00",
       "close": 364.03
+    },
+    {
+      "timestamp": "2026-08-21T13:03:07.070078+00:00",
+      "close": 364.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T08:36:41+00:00",
+      "title": "Buying Marvell Before Broadcom Is A Big Mistake",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T07:00:00+00:00",
       "title": "EOS: Looking To Explain Weaker Results, Still A 'Buy'",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-20T12:05:58+00:00",
       "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:12:47+00:00",
-      "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
