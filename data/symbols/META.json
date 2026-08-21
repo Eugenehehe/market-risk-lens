@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:56:08.886256+00:00",
+  "generated_at": "2026-08-21T21:27:03.285764+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 549.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T19:53:35.876104+00:00",
-      "close": 544.93
-    },
     {
       "timestamp": "2026-08-18T20:18:24.049715+00:00",
       "close": 543.67
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T20:56:08.886256+00:00",
       "close": 549.9
+    },
+    {
+      "timestamp": "2026-08-21T21:27:03.285764+00:00",
+      "close": 549.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T15:40:52+00:00",
+      "title": "'DOJ, TikTok settle for $400 million in children's privacy suit' - Axios",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T13:45:53+00:00",
       "title": "Marvell: A $120 Billion Diamond In The Rough",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T08:25:40+00:00",
       "title": "Meta, Google And Snap Catch a Break as Teen Drops Social Media Addiction Lawsuit Ahead of Key Trial (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T07:00:01+00:00",
-      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
