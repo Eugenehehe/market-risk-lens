@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T14:32:00.268857+00:00",
+  "generated_at": "2026-08-21T15:06:15.325556+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 710.8,
-    "change_pct": -0.018285907191983863
+    "price": 712.44,
+    "change_pct": 0.2123978450761843
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:00:24.403519+00:00",
-      "close": 729.87
-    },
     {
       "timestamp": "2026-08-18T13:50:28.685761+00:00",
       "close": 719.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T14:32:00.268857+00:00",
       "close": 710.8
+    },
+    {
+      "timestamp": "2026-08-21T15:06:15.325556+00:00",
+      "close": 712.44
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-21T12:01:27+00:00",
       "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T10:40:00+00:00",
+      "title": "Markets Try To Bounce Back As Yields Head Higher",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T16:22:35+00:00",
       "title": "QUICK SPARK: Dow Falls 700 Points, Nasdaq Drops 1% As Yields Rise Again",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T14:48:08+00:00",
-      "title": "S&P 500 Just Got The Green Light To 8000",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

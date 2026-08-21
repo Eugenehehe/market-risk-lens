@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T14:32:00.268857+00:00",
+  "generated_at": "2026-08-21T15:06:15.325556+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 90.66,
-    "change_pct": -1.5955714750895411
+    "price": 90.34,
+    "change_pct": -1.9429067621838603
   },
   "risk": {
-    "score": 63,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:00:24.403519+00:00",
-      "close": 103.49
-    },
     {
       "timestamp": "2026-08-18T13:50:28.685761+00:00",
       "close": 97.19
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T14:32:00.268857+00:00",
       "close": 90.66
+    },
+    {
+      "timestamp": "2026-08-21T15:06:15.325556+00:00",
+      "close": 90.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T14:35:01+00:00",
+      "title": "Gapping S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T18:05:01+00:00",
       "title": "Looking for the most active stocks in the S&P500 index on Thursday?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T06:00:15+00:00",
       "title": "Intel: Why I Am Not Buying The Dip",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T18:05:02+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

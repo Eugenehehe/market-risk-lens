@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T14:32:00.268857+00:00",
+  "generated_at": "2026-08-21T15:06:15.325556+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 298.92,
-    "change_pct": 0.4199281083078654
+    "price": 298.98,
+    "change_pct": 0.44008465750664527
   },
   "risk": {
     "score": 54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T13:00:24.403519+00:00",
-      "close": 304.06
-    },
     {
       "timestamp": "2026-08-18T13:50:28.685761+00:00",
       "close": 302.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T14:32:00.268857+00:00",
       "close": 298.92
+    },
+    {
+      "timestamp": "2026-08-21T15:06:15.325556+00:00",
+      "close": 298.98
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-21T12:01:27+00:00",
       "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T10:43:14+00:00",
+      "title": "Bowman Consulting: The Rewards Of Finding An Undervalued, Overlooked Business",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T10:40:00+00:00",
+      "title": "Markets Try To Bounce Back As Yields Head Higher",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-20T14:05:33+00:00",
       "title": "Treasury Blinked: A Bessent Put Too Small To Matter",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T13:02:57+00:00",
-      "title": "Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T12:49:43+00:00",
-      "title": "I'm Souring On Bonds As The Debt Hits $40 Trillion",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
