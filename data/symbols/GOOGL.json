@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:37:10.553164+00:00",
+  "generated_at": "2026-08-22T13:17:37.451460+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 344.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T12:15:35.681031+00:00",
-      "close": 344.2
-    },
     {
       "timestamp": "2026-08-19T13:13:38.294983+00:00",
       "close": 344.2
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-22T12:37:10.553164+00:00",
       "close": 344.82
+    },
+    {
+      "timestamp": "2026-08-22T13:17:37.451460+00:00",
+      "close": 344.82
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-22T12:07:08+00:00",
       "title": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-22T08:18:12+00:00",
+      "title": "FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T16:53:00+00:00",
       "title": "Tim Cook built Apple’s $32M-an-hour growth machine: Can John Ternus keep it going?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T16:08:31+00:00",
-      "title": "'Anthropic Taps Google Chip Veteran as Part of Push Into Hardware'- Bloomberg",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

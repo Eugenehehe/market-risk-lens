@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T12:37:10.553164+00:00",
+  "generated_at": "2026-08-22T13:17:37.451460+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1763.76,
     "change_pct": 0.7684353057458404
   },
   "risk": {
-    "score": 45,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T12:15:35.681031+00:00",
-      "close": 1802.98
-    },
     {
       "timestamp": "2026-08-19T13:13:38.294983+00:00",
       "close": 1802.98
@@ -502,13 +498,65 @@
     {
       "timestamp": "2026-08-22T12:37:10.553164+00:00",
       "close": 1763.76
+    },
+    {
+      "timestamp": "2026-08-22T13:17:37.451460+00:00",
+      "close": 1763.76
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-21T21:58:44+00:00",
+      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T14:38:24+00:00",
+      "title": "Nvidia initiated, Teradyne downgraded: Wall Street's top analyst calls",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T12:30:00+00:00",
+      "title": "Aehr Test Systems to Participate in the Jefferies Semiconductor, IT Hardware & Communications Technology Conference on August 25, 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T20:07:58+00:00",
+      "title": "ASML Gains as TSMC's Spending Forecast Hits $85 Billion",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T19:12:50+00:00",
+      "title": "Paul Tudor Jones Just Liquidated His Entire Stake in Applied Materials Stock. I Don’t Think He’s 100% Bearish on AI Though… Yet",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-20T11:30:37+00:00",
       "title": "If You Invested $1000 In ASML Holding Stock 15 Years Ago, You Would Have This Much Today",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T09:55:00+00:00",
+      "title": "Taiwan Semiconductor vs. ASML: Which Semiconductor Titan Is the Better Buy Today?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
