@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-21T23:55:24.016989+00:00",
+  "generated_at": "2026-08-22T01:15:30.038145+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 149.84,
     "change_pct": -1.0630571145592516
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 47,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T22:46:07.468723+00:00",
-      "close": 159.9
-    },
     {
       "timestamp": "2026-08-18T23:07:10.572380+00:00",
       "close": 159.9
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 149.84
+    },
+    {
+      "timestamp": "2026-08-22T01:15:30.038145+00:00",
+      "close": 149.84
     }
   ],
   "events": [
@@ -517,22 +517,6 @@
       "timestamp": "2026-08-20T09:06:42+00:00",
       "title": "Zayo Expands Strategic Supply Agreement With Corning To Secure Significant Portion Of The Fiber Needed Through Remainder Of The Decade",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T11:42:02+00:00",
-      "title": "GGT: Collect 20% Yield From Communications, Multimedia, Sports, And Entertainment",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-19T01:10:00+00:00",
-      "title": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

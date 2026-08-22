@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:55:24.016989+00:00",
+  "generated_at": "2026-08-22T01:15:30.038145+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 765.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T22:46:07.468723+00:00",
-      "close": 767.45
-    },
     {
       "timestamp": "2026-08-18T23:07:10.572380+00:00",
       "close": 767.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 765.72
+    },
+    {
+      "timestamp": "2026-08-22T01:15:30.038145+00:00",
+      "close": 765.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T20:20:00+00:00",
+      "title": "S&P 500 Snapshot: Stocks End Lower To Snap 3-Week Win Streak",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T17:16:21+00:00",
       "title": "Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T13:50:46+00:00",
       "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:12:18+00:00",
-      "title": "The Bond Market Will See Through Warsh's Jackson Hole Speech",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
