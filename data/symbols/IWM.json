@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:44:19.232977+00:00",
+  "generated_at": "2026-08-22T05:11:56.888785+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 299.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T02:30:44.069725+00:00",
-      "close": 300.23
-    },
     {
       "timestamp": "2026-08-19T03:26:16.077667+00:00",
       "close": 300.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T04:44:19.232977+00:00",
       "close": 299.96
+    },
+    {
+      "timestamp": "2026-08-22T05:11:56.888785+00:00",
+      "close": 299.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T00:25:00+00:00",
+      "title": "The Real Cost Of $40 Trillion In Debt",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T17:16:21+00:00",
       "title": "Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T12:52:48+00:00",
       "title": "What Walmart, Lowe's, And La-Z-Boy Earnings Say About The American Consumer",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T12:01:27+00:00",
-      "title": "Short-Term Breadth Breaks Down as Major ETFs Lose EMA Support",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:44:19.232977+00:00",
+  "generated_at": "2026-08-22T05:11:56.888785+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 713.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T02:30:44.069725+00:00",
-      "close": 717.51
-    },
     {
       "timestamp": "2026-08-19T03:26:16.077667+00:00",
       "close": 717.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T04:44:19.232977+00:00",
       "close": 713.44
+    },
+    {
+      "timestamp": "2026-08-22T05:11:56.888785+00:00",
+      "close": 713.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T00:25:00+00:00",
+      "title": "The Real Cost Of $40 Trillion In Debt",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T21:45:54+00:00",
       "title": "How a 72-Year-Old’s $400,000 in QYLD Now Pays $3,901 a Month, Down From a Steadily Shrinking Peak",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T15:05:00+00:00",
       "title": "Brad Simpson On Navigating A More Uncertain World",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:53:45+00:00",
-      "title": "US Business Growth Hits Fastest Pace Since April 2022: It's 'Booming,' Economist Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
