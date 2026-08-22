@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:11:17.904296+00:00",
+  "generated_at": "2026-08-22T11:35:29.341792+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 299.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T10:54:31.929767+00:00",
-      "close": 300.23
-    },
     {
       "timestamp": "2026-08-19T11:22:54.018006+00:00",
       "close": 300.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T11:11:17.904296+00:00",
       "close": 299.96
+    },
+    {
+      "timestamp": "2026-08-22T11:35:29.341792+00:00",
+      "close": 299.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T07:05:00+00:00",
+      "title": "Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers And Outlook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-22T05:20:00+00:00",
       "title": "Global Trade Buoyed By Surge In Tech Equipment Shipments",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T13:50:46+00:00",
       "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:12:18+00:00",
-      "title": "The Bond Market Will See Through Warsh's Jackson Hole Speech",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:11:17.904296+00:00",
+  "generated_at": "2026-08-22T11:35:29.341792+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 309.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T10:54:31.929767+00:00",
-      "close": 310.03
-    },
     {
       "timestamp": "2026-08-19T11:22:54.018006+00:00",
       "close": 310.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T11:11:17.904296+00:00",
       "close": 309.35
+    },
+    {
+      "timestamp": "2026-08-22T11:35:29.341792+00:00",
+      "close": 309.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T07:12:41+00:00",
+      "title": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T19:10:05+00:00",
       "title": "Discover which dow jones stocks are making waves on Friday.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T11:49:12+00:00",
       "title": "The Boring Way To Own AI Is Now The Cheap Way",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T09:00:38+00:00",
-      "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:11:17.904296+00:00",
+  "generated_at": "2026-08-22T11:35:29.341792+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 765.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T10:54:31.929767+00:00",
-      "close": 767.45
-    },
     {
       "timestamp": "2026-08-19T11:22:54.018006+00:00",
       "close": 767.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T11:11:17.904296+00:00",
       "close": 765.72
+    },
+    {
+      "timestamp": "2026-08-22T11:35:29.341792+00:00",
+      "close": 765.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T07:05:00+00:00",
+      "title": "Flash PMIs Signal Summer Growth Spurt For Advanced Economies: Assessing The Growth Drivers And Outlook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-22T05:20:00+00:00",
       "title": "Global Trade Buoyed By Surge In Tech Equipment Shipments",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T16:47:44+00:00",
       "title": "'Army Secretary Expected To Step Down By Year’s End'- WSJ",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T15:48:00+00:00",
-      "title": "Rate Fears Overblown",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

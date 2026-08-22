@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:11:17.904296+00:00",
+  "generated_at": "2026-08-22T11:35:29.341792+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 90.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T10:54:31.929767+00:00",
-      "close": 96.685
-    },
     {
       "timestamp": "2026-08-19T11:22:54.018006+00:00",
       "close": 96.685
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T11:11:17.904296+00:00",
       "close": 90.07
+    },
+    {
+      "timestamp": "2026-08-22T11:35:29.341792+00:00",
+      "close": 90.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T07:12:41+00:00",
+      "title": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Friday?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-20T18:00:00+00:00",
       "title": "Thursday's session: most active stocks",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T13:35:18+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
