@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:54:46.403079+00:00",
+  "generated_at": "2026-08-22T17:19:04.405183+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 549.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T18:02:40.255698+00:00",
-      "close": 552.61
-    },
     {
       "timestamp": "2026-08-19T18:49:28.008773+00:00",
       "close": 550.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 549.9
+    },
+    {
+      "timestamp": "2026-08-22T17:19:04.405183+00:00",
+      "close": 549.9
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-22T11:00:00+00:00",
       "title": "Nvidia Earnings Report To Keep Next Week Busy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-22T09:01:16+00:00",
+      "title": "Billionaire Activist Investor Dan Loeb’s Anti-Buffett Trade — Third Point Buys This Stock as Berkshire Hathaway Slashes Its Major Stake",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T04:21:20+00:00",
       "title": "Synchrony Financial (SYF) Expands OpenAI Ties, Is The Stock Still Cheap?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T23:39:00+00:00",
-      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
