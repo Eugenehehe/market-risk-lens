@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T11:54:57.107768+00:00",
+  "generated_at": "2026-08-22T12:37:10.553164+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 149.84,
     "change_pct": -1.0630571145592516
   },
   "risk": {
-    "score": 47,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T11:49:04.694334+00:00",
-      "close": 159.9
-    },
     {
       "timestamp": "2026-08-19T12:15:35.681031+00:00",
       "close": 159.9
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-22T11:54:57.107768+00:00",
       "close": 149.84
+    },
+    {
+      "timestamp": "2026-08-22T12:37:10.553164+00:00",
+      "close": 149.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T18:11:13+00:00",
+      "title": "What Do Corning (GLW) AI Fiber Deals Mean For Its Growth Story?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T16:23:00+00:00",
+      "title": "AI Disrupts Glass Fiber Manufacturing: Predictive Maintenance, Digital Twins, and a $6 Billion Infrastructure Deal Signal a New Industrial Era",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T16:07:47+00:00",
+      "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 We Find Risky",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T14:00:00+00:00",
+      "title": "Zayo Stays Ahead of AI Infrastructure Demand Through Long-Term Fiber Supply Agreement with Corning",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-20T13:55:00+00:00",
+      "title": "Can ION Network's Adoption of WL6e Boost CIEN's Optical Momentum?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-20T13:35:18+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",

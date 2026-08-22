@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T11:54:57.107768+00:00",
+  "generated_at": "2026-08-22T12:37:10.553164+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 53.45,
     "change_pct": 1.058801285687272
   },
   "risk": {
-    "score": 45,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T11:49:04.694334+00:00",
-      "close": 55.69
-    },
     {
       "timestamp": "2026-08-19T12:15:35.681031+00:00",
       "close": 55.69
@@ -502,13 +498,73 @@
     {
       "timestamp": "2026-08-22T11:54:57.107768+00:00",
       "close": 53.45
+    },
+    {
+      "timestamp": "2026-08-22T12:37:10.553164+00:00",
+      "close": 53.45
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-20T09:16:35+00:00",
-      "title": "Hewlett-Packard Enterprise: The Surprising Top Choice In Networking",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-22T05:17:38+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Stock Could Be 37% Undervalued Following AI Demand News",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T20:48:12+00:00",
+      "title": "The Cheapest Part Of Dell's Compounding Machine Just Got Expensive",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T16:29:00+00:00",
+      "title": "Zoom Video Gears Up to Report Q2 Earnings: What's in the Cards?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T16:23:00+00:00",
+      "title": "HPE Named a Leader in 2026 Gartner® Magic Quadrant™ for Enterprise Storage Platforms",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T15:15:00+00:00",
+      "title": "Hyperscale Data Center Market Surges to $608.54 billion at a CAGR 24.6% by 2030 | Report by MarketsandMarkets™",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T15:12:00+00:00",
+      "title": "HPQ Set to Report Q3 Earnings: What's in Store for the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T15:00:42+00:00",
+      "title": "Don’t Be Surprised If HP Stock Takes Off on August 26",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-21T14:47:47+00:00",
+      "title": "3 Market-Beating Stocks with Exciting Potential",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
