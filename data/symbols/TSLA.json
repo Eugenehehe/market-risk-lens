@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:15:30.038145+00:00",
+  "generated_at": "2026-08-22T02:29:02.924396+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 362.86,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-18T23:07:10.572380+00:00",
-      "close": 336.87
-    },
     {
       "timestamp": "2026-08-18T23:33:44.264385+00:00",
       "close": 336.87
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T01:15:30.038145+00:00",
       "close": 362.86
+    },
+    {
+      "timestamp": "2026-08-22T02:29:02.924396+00:00",
+      "close": 362.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-21T21:42:59+00:00",
+      "title": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T19:52:06+00:00",
       "title": "Tesla: The Numbers Do Not Justify The Valuation",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T11:49:12+00:00",
       "title": "The Boring Way To Own AI Is Now The Cheap Way",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T09:00:38+00:00",
-      "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
