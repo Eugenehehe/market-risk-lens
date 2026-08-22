@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:11:56.888785+00:00",
+  "generated_at": "2026-08-22T05:43:51.370409+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 237.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T03:26:16.077667+00:00",
-      "close": 216
-    },
     {
       "timestamp": "2026-08-19T04:08:25.878394+00:00",
       "close": 216
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T05:11:56.888785+00:00",
       "close": 237.04
+    },
+    {
+      "timestamp": "2026-08-22T05:43:51.370409+00:00",
+      "close": 237.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T01:23:06+00:00",
+      "title": "Marvell's Outlook Keeps Getting Better, But The Risk-Reward Doesn't (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-21T19:05:01+00:00",
       "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-21T13:35:18+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:24:43+00:00",
-      "title": "Broadcom: You Snooze, You Lose",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
