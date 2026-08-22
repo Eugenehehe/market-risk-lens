@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:57:34.295672+00:00",
+  "generated_at": "2026-08-22T16:31:55.861664+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 713.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-19T17:15:20.024654+00:00",
-      "close": 716.79
-    },
     {
       "timestamp": "2026-08-19T17:44:47.567465+00:00",
       "close": 716.64
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 713.44
+    },
+    {
+      "timestamp": "2026-08-22T16:31:55.861664+00:00",
+      "close": 713.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-22T12:00:00+00:00",
+      "title": "Principal Well-Being Index: More AI Optimism Amid Existing Labor Pressures",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-22T08:00:00+00:00",
       "title": "Weekly Indicators: Interest Rates And Inflation Continue To Dominate",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-22T00:25:00+00:00",
       "title": "The Real Cost Of $40 Trillion In Debt",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T21:45:54+00:00",
-      "title": "How a 72-Year-Old’s $400,000 in QYLD Now Pays $3,901 a Month, Down From a Steadily Shrinking Peak",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
