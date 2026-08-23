@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:18:17.011765+00:00",
+  "generated_at": "2026-08-23T15:42:24.024406+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 713.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T20:37:48.781201+00:00",
-      "close": 710.93
-    },
     {
       "timestamp": "2026-08-20T21:02:42.280507+00:00",
       "close": 710.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-23T15:18:17.011765+00:00",
       "close": 713.44
+    },
+    {
+      "timestamp": "2026-08-23T15:42:24.024406+00:00",
+      "close": 713.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-23T11:07:55+00:00",
+      "title": "Bessent Doubling The Treasury Buyback Program Is Just A Deck Chair Trade",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T10:04:47+00:00",
       "title": "Bessent's Desperation Foreshadows Credit Crisis",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T08:00:00+00:00",
       "title": "Weekly Indicators: Interest Rates And Inflation Continue To Dominate",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T08:00:00+00:00",
-      "title": "Bessent Doubled Buybacks, Yields Went Higher: A Headache For Warsh At Jackson Hole",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
