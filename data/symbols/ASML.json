@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T23:46:04.196373+00:00",
+  "generated_at": "2026-08-23T00:00:54.821090+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1763.76,
     "change_pct": 0.7684353057458404
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 47,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T04:18:37.033354+00:00",
-      "close": 1751.73
-    },
     {
       "timestamp": "2026-08-20T04:58:11.765790+00:00",
       "close": 1751.73
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-22T23:46:04.196373+00:00",
       "close": 1763.76
+    },
+    {
+      "timestamp": "2026-08-23T00:00:54.821090+00:00",
+      "close": 1763.76
     }
   ],
   "events": [
@@ -525,46 +525,6 @@
       "timestamp": "2026-08-21T12:30:00+00:00",
       "title": "Aehr Test Systems to Participate in the Jefferies Semiconductor, IT Hardware & Communications Technology Conference on August 25, 2026",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T20:07:58+00:00",
-      "title": "ASML Gains as TSMC's Spending Forecast Hits $85 Billion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T19:12:50+00:00",
-      "title": "Paul Tudor Jones Just Liquidated His Entire Stake in Applied Materials Stock. I Don’t Think He’s 100% Bearish on AI Though… Yet",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T11:30:37+00:00",
-      "title": "If You Invested $1000 In ASML Holding Stock 15 Years Ago, You Would Have This Much Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:55:00+00:00",
-      "title": "Taiwan Semiconductor vs. ASML: Which Semiconductor Titan Is the Better Buy Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:28:48+00:00",
-      "title": "ASML: The Price Is Fair For Such A Crucial Company",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

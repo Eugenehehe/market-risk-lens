@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T23:46:04.196373+00:00",
+  "generated_at": "2026-08-23T00:00:54.821090+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 560.42,
     "change_pct": -0.39633875411001496
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T04:18:37.033354+00:00",
-      "close": 560.92
-    },
     {
       "timestamp": "2026-08-20T04:58:11.765790+00:00",
       "close": 560.92
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-22T23:46:04.196373+00:00",
       "close": 560.42
+    },
+    {
+      "timestamp": "2026-08-23T00:00:54.821090+00:00",
+      "close": 560.42
     }
   ],
   "events": [
@@ -525,46 +525,6 @@
       "timestamp": "2026-08-21T08:45:00+00:00",
       "title": "Semiconductors: Best Earnings In The S&P, Worst Tape",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T21:31:30+00:00",
-      "title": "US Stock Indices End Lower As Trump’s ‘Economic Warfare’ Threats Push Yields, Oil Higher — WMT, CRWV, SBUX, DE, RKLB In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T21:25:31+00:00",
-      "title": "How Much of Your Portfolio Should Actually Be in DRAM",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T21:20:32+00:00",
-      "title": "The Biggest Risk Facing the Roundhill Memory ETF (DRAM) Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T21:15:32+00:00",
-      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T21:10:39+00:00",
-      "title": "The Biggest Risk Facing the First Trust Nasdaq Semiconductor ETF (FTXL) Right Now",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T23:46:04.196373+00:00",
+  "generated_at": "2026-08-23T00:00:54.821090+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 149.84,
     "change_pct": -1.0630571145592516
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T04:18:37.033354+00:00",
-      "close": 152.46
-    },
     {
       "timestamp": "2026-08-20T04:58:11.765790+00:00",
       "close": 152.46
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-22T23:46:04.196373+00:00",
       "close": 149.84
+    },
+    {
+      "timestamp": "2026-08-23T00:00:54.821090+00:00",
+      "close": 149.84
     }
   ],
   "events": [
@@ -525,38 +525,6 @@
       "timestamp": "2026-08-21T16:07:47+00:00",
       "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 We Find Risky",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T14:00:00+00:00",
-      "title": "Zayo Stays Ahead of AI Infrastructure Demand Through Long-Term Fiber Supply Agreement with Corning",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T13:55:00+00:00",
-      "title": "Can ION Network's Adoption of WL6e Boost CIEN's Optical Momentum?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T13:35:18+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T09:06:42+00:00",
-      "title": "Zayo Expands Strategic Supply Agreement With Corning To Secure Significant Portion Of The Fiber Needed Through Remainder Of The Decade",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

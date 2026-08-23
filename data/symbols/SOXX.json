@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T23:46:04.196373+00:00",
+  "generated_at": "2026-08-23T00:00:54.821090+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 520.05,
     "change_pct": -0.4403177945821901
   },
   "risk": {
-    "score": 54,
+    "score": 50,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T04:18:37.033354+00:00",
-      "close": 519.67
-    },
     {
       "timestamp": "2026-08-20T04:58:11.765790+00:00",
       "close": 519.67
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-22T23:46:04.196373+00:00",
       "close": 520.05
+    },
+    {
+      "timestamp": "2026-08-23T00:00:54.821090+00:00",
+      "close": 520.05
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-08-21T05:31:34+00:00",
       "title": "‘No AI Without Memory’: Micron CEO Says the Chip Industry’s Old Boom-Bust Playbook Is Breaking",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:18:17+00:00",
-      "title": "QUICK SPARK: SPY Gets $1.9B Boost in One Day as QQQ, GLD and SOXL See Outflows",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-20T10:03:05+00:00",
-      "title": "Oracle: Cheap, But Too Early - The Real Inflection Comes In 2027",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
