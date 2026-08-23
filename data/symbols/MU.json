@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:27:44.910303+00:00",
+  "generated_at": "2026-08-23T17:48:52.865263+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 966.78,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T23:00:53.221951+00:00",
-      "close": 974.33
-    },
     {
       "timestamp": "2026-08-20T23:34:28.513330+00:00",
       "close": 974.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-23T17:27:44.910303+00:00",
       "close": 966.78
+    },
+    {
+      "timestamp": "2026-08-23T17:48:52.865263+00:00",
+      "close": 966.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-23T13:12:00+00:00",
+      "title": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T07:13:06+00:00",
       "title": "Wall Street Week Ahead",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T00:35:00+00:00",
       "title": "Micron Fell 7% on Tuesday. Is This an Opportunity to Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T23:07:00+00:00",
-      "title": "Micron CEO gives investors $10 billion reason to listen",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

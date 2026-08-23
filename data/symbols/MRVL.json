@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:27:44.910303+00:00",
+  "generated_at": "2026-08-23T17:48:52.865263+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 237.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-20T23:00:53.221951+00:00",
-      "close": 251.01
-    },
     {
       "timestamp": "2026-08-20T23:34:28.513330+00:00",
       "close": 251.01
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-23T17:27:44.910303+00:00",
       "close": 237.04
+    },
+    {
+      "timestamp": "2026-08-23T17:48:52.865263+00:00",
+      "close": 237.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-23T13:12:00+00:00",
+      "title": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T07:13:06+00:00",
       "title": "Wall Street Week Ahead",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-22T01:23:06+00:00",
       "title": "Marvell's Outlook Keeps Getting Better, But The Risk-Reward Doesn't (Rating Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T23:12:37+00:00",
-      "title": "Broadcom (AVGO) Is Down 6.2% After Google Expands AI Chip Ties With Marvell - What's Changed",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
