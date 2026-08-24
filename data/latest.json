@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:37:42.141769+00:00",
+  "generated_at": "2026-08-24T23:00:15.962719+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 208.48,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T05:43:51.370409+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T06:02:10.435875+00:00",
       "close": 214.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T22:37:42.141769+00:00",
       "close": 208.48
+    },
+    {
+      "timestamp": "2026-08-24T23:00:15.962719+00:00",
+      "close": 208.48
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-24T19:10:06+00:00",
       "title": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T18:21:14+00:00",
+      "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T15:31:12+00:00",
       "title": "Magnificent 7 Built The AI Boom, 'Munificent Seven' Wants to Power It",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T15:20:00+00:00",
-      "title": "Nvidia Earnings Preview: Q2 2027",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
