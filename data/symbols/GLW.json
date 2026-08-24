@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T12:19:47.995814+00:00",
+  "generated_at": "2026-08-24T13:26:38.702858+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 149.84,
     "change_pct": -1.0630571145592516
   },
   "risk": {
-    "score": 43,
+    "score": 45,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T19:59:05.653084+00:00",
-      "close": 149.88
-    },
     {
       "timestamp": "2026-08-21T20:33:34.412096+00:00",
       "close": 149.84
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-24T12:19:47.995814+00:00",
       "close": 149.84
+    },
+    {
+      "timestamp": "2026-08-24T13:26:38.702858+00:00",
+      "close": 149.84
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-24T12:35:00+00:00",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
