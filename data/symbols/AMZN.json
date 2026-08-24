@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:25:11.668280+00:00",
+  "generated_at": "2026-08-24T02:07:33.102037+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 258.63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:35:54.363645+00:00",
-      "close": 260.11
-    },
     {
       "timestamp": "2026-08-21T11:58:57.496608+00:00",
       "close": 260.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T00:25:11.668280+00:00",
       "close": 258.63
+    },
+    {
+      "timestamp": "2026-08-24T02:07:33.102037+00:00",
+      "close": 258.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-23T21:37:26+00:00",
+      "title": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T18:07:00+00:00",
       "title": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-23T12:25:02+00:00",
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T11:22:00+00:00",
-      "title": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock. Is It Still a Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

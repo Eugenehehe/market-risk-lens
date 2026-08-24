@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:25:11.668280+00:00",
+  "generated_at": "2026-08-24T02:07:33.102037+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 473.25,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:35:54.363645+00:00",
-      "close": 469.455
-    },
     {
       "timestamp": "2026-08-21T11:58:57.496608+00:00",
       "close": 469.455
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T00:25:11.668280+00:00",
       "close": 473.25
+    },
+    {
+      "timestamp": "2026-08-24T02:07:33.102037+00:00",
+      "close": 473.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-23T21:37:26+00:00",
+      "title": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T16:50:00+00:00",
       "title": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T12:31:13+00:00",
       "title": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T12:00:33+00:00",
-      "title": "3 Semiconductor Stocks to Buy Before August Ends",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
