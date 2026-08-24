@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T13:26:38.702858+00:00",
+  "generated_at": "2026-08-24T14:11:08.896524+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 146.47,
-    "change_pct": 3.0970648271978707
+    "price": 142.29,
+    "change_pct": -2.8538267221956737
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T20:33:34.412096+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-21T20:56:08.886256+00:00",
       "close": 146.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T13:26:38.702858+00:00",
       "close": 146.47
+    },
+    {
+      "timestamp": "2026-08-24T14:11:08.896524+00:00",
+      "close": 142.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T09:06:15+00:00",
+      "title": "CoreWeave: A Financial Accident In The Making",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T18:10:00+00:00",
       "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T16:52:40+00:00",
       "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom’s Hidden Ledger",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T16:00:03+00:00",
-      "title": "Prediction: CoreWeave Stock Will Double on This Date",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
