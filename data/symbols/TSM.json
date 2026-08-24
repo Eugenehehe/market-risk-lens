@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T23:48:58.068625+00:00",
+  "generated_at": "2026-08-24T00:25:11.668280+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 418.95,
     "change_pct": 0.7091346153846212
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 42,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:02:36.257196+00:00",
-      "close": 416
-    },
     {
       "timestamp": "2026-08-21T11:35:54.363645+00:00",
       "close": 416
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 418.95
+    },
+    {
+      "timestamp": "2026-08-24T00:25:11.668280+00:00",
+      "close": 418.95
     }
   ],
   "events": [
@@ -509,46 +509,6 @@
       "timestamp": "2026-08-23T12:11:00+00:00",
       "title": "First Eagle Overseas Equity ETF Q2 2026 Portfolio Review",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T15:06:03+00:00",
-      "title": "Did Citadel’s $4 Billion AI Stock Selloff Weigh On MU, SNDK, NBIS?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:49:12+00:00",
-      "title": "The Boring Way To Own AI Is Now The Cheap Way",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:12:02+00:00",
-      "title": "3 Funds For The Technologies That Could Define The Next Decade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T11:02:56+00:00",
-      "title": "174K Reasons To Be Bullish On Taiwan Semiconductor Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T06:29:51+00:00",
-      "title": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

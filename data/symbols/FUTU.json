@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T23:48:58.068625+00:00",
+  "generated_at": "2026-08-24T00:25:11.668280+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 123.64,
     "change_pct": 9.677991661492058
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:02:36.257196+00:00",
-      "close": 112.73
-    },
     {
       "timestamp": "2026-08-21T11:35:54.363645+00:00",
       "close": 112.73
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 123.64
+    },
+    {
+      "timestamp": "2026-08-24T00:25:11.668280+00:00",
+      "close": 123.64
     }
   ],
   "events": [
@@ -509,14 +509,6 @@
       "timestamp": "2026-08-23T09:55:19+00:00",
       "title": "Futu Holdings: The China Discount Is Obsolete After Q2 Earnings Report",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T10:45:55+00:00",
-      "title": "Reported Earlier, Bakkt Reports FY2025 GAAP Revenue Of $2.3B, Down 32.1% YoY, As Company Completes Restructuring And Pivots To Digital Financial Infrastructure",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

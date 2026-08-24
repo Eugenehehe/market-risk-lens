@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T23:48:58.068625+00:00",
+  "generated_at": "2026-08-24T00:25:11.668280+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 90.07,
     "change_pct": -2.2359709106697045
   },
   "risk": {
-    "score": 68,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:02:36.257196+00:00",
-      "close": 92.13
-    },
     {
       "timestamp": "2026-08-21T11:35:54.363645+00:00",
       "close": 92.13
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 90.07
+    },
+    {
+      "timestamp": "2026-08-24T00:25:11.668280+00:00",
+      "close": 90.07
     }
   ],
   "events": [
@@ -525,46 +525,6 @@
       "timestamp": "2026-08-22T01:32:01+00:00",
       "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T23:14:05+00:00",
-      "title": "3 American Stocks Showing the Same Setup That Sent Moderna Up 177%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T21:57:00+00:00",
-      "title": "Elon Musk's SpaceX and Tesla Are Building a $16.8 Billion Chip Factory 5 Times Bigger Than Earth's Largest Building. What Does That Mean for Both Stocks?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T21:38:55+00:00",
-      "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T19:33:07+00:00",
-      "title": "Coatue Management Bought 9.72 Million Shares of Hut 8 in Q2. How to Play HUT Stock Now.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T18:05:01+00:00",
-      "title": "Which S&P500 stocks are the most active on Friday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

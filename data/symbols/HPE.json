@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T23:48:58.068625+00:00",
+  "generated_at": "2026-08-24T00:25:11.668280+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 53.45,
     "change_pct": 1.058801285687272
   },
   "risk": {
-    "score": 59,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:02:36.257196+00:00",
-      "close": 52.89
-    },
     {
       "timestamp": "2026-08-21T11:35:54.363645+00:00",
       "close": 52.89
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 53.45
+    },
+    {
+      "timestamp": "2026-08-24T00:25:11.668280+00:00",
+      "close": 53.45
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-08-22T05:17:38+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Stock Could Be 37% Undervalued Following AI Demand News",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T20:48:12+00:00",
-      "title": "The Cheapest Part Of Dell's Compounding Machine Just Got Expensive",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T16:29:00+00:00",
-      "title": "Zoom Video Gears Up to Report Q2 Earnings: What's in the Cards?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T16:23:00+00:00",
-      "title": "HPE Named a Leader in 2026 Gartner® Magic Quadrant™ for Enterprise Storage Platforms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

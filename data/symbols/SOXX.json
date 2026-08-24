@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-23T23:48:58.068625+00:00",
+  "generated_at": "2026-08-24T00:25:11.668280+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 520.05,
     "change_pct": -0.4403177945821901
   },
   "risk": {
-    "score": 50,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 38,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T11:02:36.257196+00:00",
-      "close": 522.35
-    },
     {
       "timestamp": "2026-08-21T11:35:54.363645+00:00",
       "close": 522.35
@@ -502,58 +498,13 @@
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 520.05
+    },
+    {
+      "timestamp": "2026-08-24T00:25:11.668280+00:00",
+      "close": 520.05
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-08-21T13:50:46+00:00",
-      "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T13:44:58+00:00",
-      "title": "SOXX: Growth And Profitability May Be Peaking",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T09:57:15+00:00",
-      "title": "AMD Could Grab a Bigger Slice of the AI Boom As Helios Takes on NVIDIA, Analyst Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T08:45:00+00:00",
-      "title": "Semiconductors: Best Earnings In The S&P, Worst Tape",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T05:48:32+00:00",
-      "title": "Broadcom Steps up NVIDIA Challenge With Potential $100 Billion AI Financing Deal",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-21T05:31:34+00:00",
-      "title": "‘No AI Without Memory’: Micron CEO Says the Chip Industry’s Old Boom-Bust Playbook Is Breaking",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
