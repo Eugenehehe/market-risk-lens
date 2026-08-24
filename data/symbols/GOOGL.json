@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:00:15.962719+00:00",
+  "generated_at": "2026-08-24T23:29:41.627245+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 348.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T06:02:10.435875+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-22T06:55:03.992817+00:00",
       "close": 344.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T23:00:15.962719+00:00",
       "close": 348.06
+    },
+    {
+      "timestamp": "2026-08-24T23:29:41.627245+00:00",
+      "close": 348.06
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-24T19:10:06+00:00",
       "title": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T19:02:05+00:00",
+      "title": "Marvell: Google Strengthens The AI Thesis, But Q2 Must Justify The Premium",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,6 +533,14 @@
       "timestamp": "2026-08-24T16:10:44+00:00",
       "title": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T14:21:05+00:00",
+      "title": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-24T12:22:43+00:00",
       "title": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T12:11:25+00:00",
-      "title": "Netflix Gains Ground as App Bundling, Creator Push Drive Relative Strength",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T10:45:41+00:00",
-      "title": "Meta Stock Faces Litigation Overhang: Expert Says It Lacks Tobacco's Pricing Power",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
