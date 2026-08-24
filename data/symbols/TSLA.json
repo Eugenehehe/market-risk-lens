@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T18:54:59.461869+00:00",
+  "generated_at": "2026-08-24T19:28:54.750514+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 350.27,
-    "change_pct": -3.4696577192305678
+    "price": 351.05,
+    "change_pct": -3.2546987818993567
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:55:24.016989+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-22T01:15:30.038145+00:00",
       "close": 362.86
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T18:54:59.461869+00:00",
       "close": 350.27
+    },
+    {
+      "timestamp": "2026-08-24T19:28:54.750514+00:00",
+      "close": 351.05
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-24T18:05:00+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T14:39:45+00:00",
+      "title": "XPeng Q2: A Better Bet Than Tesla",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T09:28:53+00:00",
       "title": "Bessent's Toolbox Gets a Rest as Gold Prints $4,600 and Ross Stores Cleans Up",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:48:00+00:00",
-      "title": "XPeng Posts Wider-Than-Expected Loss, Stock Falls",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
