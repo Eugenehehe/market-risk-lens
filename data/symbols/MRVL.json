@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 228.99,
-    "change_pct": -3.396051299358749
+    "price": 231.03,
+    "change_pct": -2.5354370570367823
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 228.99
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 231.03
     }
   ],
   "events": [
@@ -522,6 +522,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T12:22:43+00:00",
+      "title": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:56:37+00:00",
+      "title": "Morgan Stanley Maintains Equal-Weight on Marvell Technology, Raises Price Target to $224",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T11:30:43+00:00",
       "title": "Marvell: Doubters Created The Opportunity -- 90x FCF For 45% Growth? Here's Why I'm Bullish",
       "source": "SeekingAlpha",
@@ -530,41 +546,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T10:41:12+00:00",
+      "title": "Wells Fargo Maintains Overweight on Marvell Technology, Raises Price Target to $310",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T09:10:35+00:00",
+      "title": "What's Going On With Marvell Technology Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T08:33:12+00:00",
       "title": "Nvidia Could Swing $282 Billion In Value After Earnings",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:33:05+00:00",
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T07:31:23+00:00",
-      "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T05:46:07+00:00",
-      "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T02:13:29+00:00",
-      "title": "Marvell Technology: A Lot Of Moving Parts",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

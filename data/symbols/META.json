@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 556.91,
-    "change_pct": 1.2747772322240447
+    "price": 560.74,
+    "change_pct": 1.9712675031823945
   },
   "risk": {
-    "score": 61,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 549.9
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 556.91
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 560.74
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-24T14:18:44+00:00",
+      "title": "Alibaba: The Market Got This One Wrong",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T12:57:20+00:00",
       "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T10:03:17+00:00",
+      "title": "Why Is IREN Stock Sliding on Monday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-23T18:45:30+00:00",
       "title": "Nobody Warned Her That Two Retirement Accounts Meant Two RMD Rules, a 25% Penalty",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T18:07:38+00:00",
-      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T14:44:53+00:00",
-      "title": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

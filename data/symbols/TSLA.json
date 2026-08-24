@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 354.07,
-    "change_pct": -2.422421870693936
+    "price": 350.27,
+    "change_pct": -3.4696577192305678
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 362.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 354.07
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 350.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T18:05:00+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T13:28:51+00:00",
       "title": "Tesla: SpaceX Is The Only Hope",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T12:57:20+00:00",
+      "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T12:08:54+00:00",
       "title": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T12:00:43+00:00",
+      "title": "If You Invested $1000 In Tesla Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T06:31:11+00:00",
-      "title": "TSLA Competitor? Xiaomi Joins NIO in Race to Build In-House Chips for Self-Driving Cars",
+      "timestamp": "2026-08-24T08:48:00+00:00",
+      "title": "XPeng Posts Wider-Than-Expected Loss, Stock Falls",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T21:46:42+00:00",
-      "title": "Bernie Sanders Says He Was Labeled 'Radical,' 'Crazy' and an Extremist for His Data Center Moratorium Push: 'Today 75% of Americans Agree'",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T17:17:42+00:00",
-      "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T10:35:00+00:00",
-      "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

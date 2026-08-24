@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 87.22,
-    "change_pct": -3.1642056178527778
+    "price": 87.75,
+    "change_pct": -2.5757743976906777
   },
   "risk": {
-    "score": 72,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 90.07
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 87.22
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 87.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T18:05:00+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T18:00:00+00:00",
+      "title": "Monday's session: most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T13:35:24+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
@@ -522,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T11:00:24+00:00",
+      "title": "Recent Filing Shows That Rep. Nancy Pelosi Bought Over $4.25M Worth of Bloom Energy Stock",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T10:02:51+00:00",
+      "title": "Perplexity Deal Highlights a Pattern in Nvidia's AI Investments",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T07:31:23+00:00",
       "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
       "source": "CNBC",
@@ -532,22 +564,6 @@
     {
       "timestamp": "2026-08-23T15:08:50+00:00",
       "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T07:12:41+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T01:32:01+00:00",
-      "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

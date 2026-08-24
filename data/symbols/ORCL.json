@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 143.38,
-    "change_pct": -2.109647026694894
+    "price": 143.49,
+    "change_pct": -2.0345463234792027
   },
   "risk": {
     "score": 67,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 146.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 143.38
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 143.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T13:52:51+00:00",
+      "title": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T09:06:15+00:00",
       "title": "CoreWeave: A Financial Accident In The Making",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T20:20:53+00:00",
       "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T19:46:46+00:00",
-      "title": "Rillet Raised $100M to Put AI Agents Inside the General Ledger – Not Around It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

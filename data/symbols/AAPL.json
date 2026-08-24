@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 311.83,
-    "change_pct": 0.80168094391464
+    "price": 311.55,
+    "change_pct": 0.7111685792791311
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 309.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 311.83
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 311.55
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-24T12:57:20+00:00",
       "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T10:13:04+00:00",
+      "title": "What's Going On With Apple Stock Monday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T04:37:18+00:00",
+      "title": "Claude Turns 2-Year Wi-Fi Headache Into 10-Minute Fix After Finding 3 Hidden Problems, Boosting Speeds From 90 Mbps to 292 Mbps",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-23T21:37:26+00:00",
       "title": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T15:43:54+00:00",
-      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T12:25:00+00:00",
-      "title": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

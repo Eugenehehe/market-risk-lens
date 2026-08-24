@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T18:03:47.854447+00:00",
+  "generated_at": "2026-08-24T18:54:59.461869+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 488.01,
-    "change_pct": 0.9870871616588062
+    "price": 487.84,
+    "change_pct": 0.9519079546395082
   },
   "risk": {
     "score": 58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:33:53.927746+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-21T23:55:24.016989+00:00",
       "close": 483.24
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 488.01
+    },
+    {
+      "timestamp": "2026-08-24T18:54:59.461869+00:00",
+      "close": 487.84
     }
   ],
   "events": [
@@ -514,8 +514,32 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T14:18:44+00:00",
+      "title": "Alibaba: The Market Got This One Wrong",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T12:57:20+00:00",
       "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T12:22:43+00:00",
+      "title": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:24:41+00:00",
+      "title": "Salesforce To Report Mixed Q2; Investors Remain Skeptical About H2 Acceleration",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T10:03:17+00:00",
+      "title": "Why Is IREN Stock Sliding on Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T09:30:34+00:00",
       "title": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:30:12+00:00",
-      "title": "Berkshire Hathaway Is A Net Buyer Of Stocks, Finally",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:06:15+00:00",
-      "title": "CoreWeave: A Financial Accident In The Making",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:11:16+00:00",
-      "title": "Forget The Cloud Rally: Semiconductors Rule AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T07:18:30+00:00",
-      "title": "AI's Next Bottleneck Isn't Chips, It's Power, With Demand Expected to Soar 1,100% by 2033: Why CEG, VST, GEV Stocks Are in Focus",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
