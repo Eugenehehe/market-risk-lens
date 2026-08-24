@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T16:19:43.668409+00:00",
+  "generated_at": "2026-08-24T17:00:57.034393+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 363.17,
-    "change_pct": -1.433030261907986
+    "price": 360.7,
+    "change_pct": -2.1034061609444987
   },
   "risk": {
-    "score": 62,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:12:20.118336+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-21T22:43:27.680557+00:00",
       "close": 368.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 363.17
+    },
+    {
+      "timestamp": "2026-08-24T17:00:57.034393+00:00",
+      "close": 360.7
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-24T09:13:44+00:00",
       "title": "Broadcom: $100 Billion In AI Revenue Is A Lot To Ask",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T06:20:02+00:00",
+      "title": "What's Going On With Broadcom Stock Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-22T15:20:00+00:00",
       "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T14:00:45+00:00",
-      "title": "D.E. Shaw Just Disclosed a $912 Million SpaceX Stake and a 58% Broadcom Cut in the Same Quarter",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

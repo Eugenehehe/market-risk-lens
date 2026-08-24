@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T16:19:43.668409+00:00",
+  "generated_at": "2026-08-24T17:00:57.034393+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 210.75,
-    "change_pct": -1.8489195230998456
+    "price": 209.72,
+    "change_pct": -2.328614008941876
   },
   "risk": {
-    "score": 65,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:12:20.118336+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-21T22:43:27.680557+00:00",
       "close": 214.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 210.75
+    },
+    {
+      "timestamp": "2026-08-24T17:00:57.034393+00:00",
+      "close": 209.72
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-24T11:09:51+00:00",
       "title": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T10:32:29+00:00",
+      "title": "'Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe' - Bloomberg",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T08:33:05+00:00",
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "timestamp": "2026-08-24T08:33:12+00:00",
+      "title": "Nvidia Could Swing $282 Billion In Value After Earnings",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T08:30:00+00:00",
-      "title": "Dividend Harvesting Portfolio Week 286: $28,600 Allocated, $3,258.87 In Projected Dividends",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T06:45:00+00:00",
-      "title": "Wall Street Breakfast Podcast: AI Plans Weigh On BABA",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-24T08:33:05+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

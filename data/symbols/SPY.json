@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T16:19:43.668409+00:00",
+  "generated_at": "2026-08-24T17:00:57.034393+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765.08,
-    "change_pct": -0.08358146580995651
+    "price": 764.23,
+    "change_pct": -0.19458810008881056
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:12:20.118336+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-21T22:43:27.680557+00:00",
       "close": 765.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 765.08
+    },
+    {
+      "timestamp": "2026-08-24T17:00:57.034393+00:00",
+      "close": 764.23
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-24T12:40:32+00:00",
       "title": "Breadth Rebounds, but Index Trends Still Need Repair",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:41:55+00:00",
+      "title": "'U.S. Eyes China Overcapacity Tariffs of 7.5% Before Xi-Trump Talks' - Bloomberg News",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +546,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T09:46:03+00:00",
+      "title": "President Trump On Canada Says On January First, 2027, Tariffs On All Cars, Trucks, Both Large And Small, Automotive Parts, And Steel, Will Be Increased To 50%;  Build In U.S. And There Are Zero Tariffs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T09:31:29+00:00",
+      "title": "New Zealand Introducing Online Safety Bill To Ban Under-16 Users From Accessing Social Media",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T09:22:19+00:00",
       "title": "QUICK SPARK: $6.4 Billion Pours into S&P 500 ETFs in One Day as QQQ Sees Outflows",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:03:00+00:00",
-      "title": "Q3 Growth Still Firm, But Fresh Headwinds Cloud The Outlook",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:33:05+00:00",
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:20:43+00:00",
-      "title": "Bessent Triggers The Nightmare Scenario For The Bond Market",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

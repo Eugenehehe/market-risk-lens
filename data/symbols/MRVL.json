@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T16:19:43.668409+00:00",
+  "generated_at": "2026-08-24T17:00:57.034393+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 228.98,
-    "change_pct": -3.4002699966250383
+    "price": 228.32,
+    "change_pct": -3.6787040161997964
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:12:20.118336+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-21T22:43:27.680557+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 228.98
+    },
+    {
+      "timestamp": "2026-08-24T17:00:57.034393+00:00",
+      "close": 228.32
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-24T11:30:43+00:00",
       "title": "Marvell: Doubters Created The Opportunity -- 90x FCF For 45% Growth? Here's Why I'm Bullish",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T08:33:12+00:00",
+      "title": "Nvidia Could Swing $282 Billion In Value After Earnings",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-23T18:26:00+00:00",
       "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T13:12:00+00:00",
-      "title": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

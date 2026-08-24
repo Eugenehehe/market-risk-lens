@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T16:19:43.668409+00:00",
+  "generated_at": "2026-08-24T17:00:57.034393+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 507.34,
-    "change_pct": -2.4439957696375303
+    "price": 505.63,
+    "change_pct": -2.7728103067012677
   },
   "risk": {
-    "score": 60,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:12:20.118336+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-21T22:43:27.680557+00:00",
       "close": 520.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 507.34
+    },
+    {
+      "timestamp": "2026-08-24T17:00:57.034393+00:00",
+      "close": 505.63
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-24T07:24:21+00:00",
       "title": "Macro And Earnings, Here's My Thoughts",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T06:20:02+00:00",
+      "title": "What's Going On With Broadcom Stock Monday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
