@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T15:00:50.108805+00:00",
+  "generated_at": "2026-08-24T15:50:01.647359+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 209.75,
-    "change_pct": -2.3146423248882275
+    "price": 210.25,
+    "change_pct": -2.0817809239940366
   },
   "risk": {
-    "score": 69,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T21:27:03.285764+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-21T21:51:02.598945+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T15:00:50.108805+00:00",
       "close": 209.75
+    },
+    {
+      "timestamp": "2026-08-24T15:50:01.647359+00:00",
+      "close": 210.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T11:09:51+00:00",
+      "title": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T10:21:59+00:00",
       "title": "NVIDIA (NASDAQ:NVDA) Pairs High Growth Momentum with a Breakout Setup",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T08:33:05+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T08:30:00+00:00",
       "title": "Dividend Harvesting Portfolio Week 286: $28,600 Allocated, $3,258.87 In Projected Dividends",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-24T06:45:00+00:00",
       "title": "Wall Street Breakfast Podcast: AI Plans Weigh On BABA",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T06:29:43+00:00",
-      "title": "CoreWeave: Nvidia Is Quietly Repricing The Neocloud Window",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T19:00:00+00:00",
-      "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

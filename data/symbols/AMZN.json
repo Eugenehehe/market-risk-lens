@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T15:00:50.108805+00:00",
+  "generated_at": "2026-08-24T15:50:01.647359+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 261.89,
-    "change_pct": 1.2604879557669202
+    "price": 262.91,
+    "change_pct": 1.6548737578780504
   },
   "risk": {
-    "score": 61,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T21:27:03.285764+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-21T21:51:02.598945+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T15:00:50.108805+00:00",
       "close": 261.89
+    },
+    {
+      "timestamp": "2026-08-24T15:50:01.647359+00:00",
+      "close": 262.91
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-24T08:11:16+00:00",
       "title": "Forget The Cloud Rally: Semiconductors Rule AI",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T07:18:30+00:00",
+      "title": "AI's Next Bottleneck Isn't Chips, It's Power, With Demand Expected to Soar 1,100% by 2033: Why CEG, VST, GEV Stocks Are in Focus",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T02:13:21+00:00",
+      "title": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenue Explodes to $750 Million: Report",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-23T16:00:54+00:00",
       "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T15:43:54+00:00",
-      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T15:35:00+00:00",
-      "title": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

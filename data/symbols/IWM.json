@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T15:00:50.108805+00:00",
+  "generated_at": "2026-08-24T15:50:01.647359+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 298.63,
-    "change_pct": -0.4433924523269739
+    "price": 298.61,
+    "change_pct": -0.45006000800105195
   },
   "risk": {
     "score": 54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T21:27:03.285764+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-21T21:51:02.598945+00:00",
       "close": 299.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T15:00:50.108805+00:00",
       "close": 298.63
+    },
+    {
+      "timestamp": "2026-08-24T15:50:01.647359+00:00",
+      "close": 298.61
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-24T12:40:32+00:00",
       "title": "Breadth Rebounds, but Index Trends Still Need Repair",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:22:58+00:00",
+      "title": "S&P 500: Best Time To Do 60-40 In 10 Years",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:06:00+00:00",
+      "title": "Tech Stocks Take A Tumble; Nasdaq Composite Leads Pullback",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-24T07:00:00+00:00",
       "title": "A Bigger Basket Isn't Always A More Diversified One",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T06:30:00+00:00",
-      "title": "Fears On A Quiet Summer Weekend: Is Disruption Ahead? - Weekly Blog # 955",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T04:42:00+00:00",
-      "title": "Weekly Market Pulse: A Debt Crisis?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

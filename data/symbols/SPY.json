@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T15:00:50.108805+00:00",
+  "generated_at": "2026-08-24T15:50:01.647359+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 763.69,
-    "change_pct": -0.26510996186595026
+    "price": 764.34,
+    "change_pct": -0.18022253565271873
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T21:27:03.285764+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-21T21:51:02.598945+00:00",
       "close": 765.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T15:00:50.108805+00:00",
       "close": 763.69
+    },
+    {
+      "timestamp": "2026-08-24T15:50:01.647359+00:00",
+      "close": 764.34
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-24T12:40:32+00:00",
       "title": "Breadth Rebounds, but Index Trends Still Need Repair",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:22:58+00:00",
+      "title": "S&P 500: Best Time To Do 60-40 In 10 Years",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:06:00+00:00",
+      "title": "Tech Stocks Take A Tumble; Nasdaq Composite Leads Pullback",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T09:22:19+00:00",
+      "title": "QUICK SPARK: $6.4 Billion Pours into S&P 500 ETFs in One Day as QQQ Sees Outflows",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T09:03:00+00:00",
       "title": "Q3 Growth Still Firm, But Fresh Headwinds Cloud The Outlook",
       "source": "SeekingAlpha",
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T08:33:05+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T08:20:43+00:00",
       "title": "Bessent Triggers The Nightmare Scenario For The Bond Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:16:00+00:00",
-      "title": "S&P 500 Retreats As Bond Market Bear Scares Investors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T07:24:21+00:00",
-      "title": "Macro And Earnings, Here's My Thoughts",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T07:00:00+00:00",
-      "title": "A Bigger Basket Isn't Always A More Diversified One",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T06:30:00+00:00",
-      "title": "Fears On A Quiet Summer Weekend: Is Disruption Ahead? - Weekly Blog # 955",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

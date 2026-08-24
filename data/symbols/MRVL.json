@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T15:00:50.108805+00:00",
+  "generated_at": "2026-08-24T15:50:01.647359+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 225.52,
-    "change_pct": -4.85993925075936
+    "price": 229.04,
+    "change_pct": -3.374957813027335
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T21:27:03.285764+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-21T21:51:02.598945+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T15:00:50.108805+00:00",
       "close": 225.52
+    },
+    {
+      "timestamp": "2026-08-24T15:50:01.647359+00:00",
+      "close": 229.04
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-24T12:35:00+00:00",
       "title": "These S&P500 stocks are moving in today's pre-market session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T11:30:43+00:00",
+      "title": "Marvell: Doubters Created The Opportunity -- 90x FCF For 45% Growth? Here's Why I'm Bullish",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T08:33:05+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T05:46:07+00:00",
+      "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-23T13:12:00+00:00",
       "title": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T07:13:06+00:00",
-      "title": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T20:13:00+00:00",
-      "title": "Marvell investors must carefully consider latest Google deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T16:48:47+00:00",
-      "title": "Alphabet Could Own 7% of Marvell — But Here’s What Google Has to Do to Get It",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

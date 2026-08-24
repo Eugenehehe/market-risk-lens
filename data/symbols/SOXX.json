@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T15:00:50.108805+00:00",
+  "generated_at": "2026-08-24T15:50:01.647359+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 500.93,
-    "change_pct": -3.6765695606191584
+    "price": 506.17,
+    "change_pct": -2.668974137102187
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T21:27:03.285764+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-21T21:51:02.598945+00:00",
       "close": 520.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T15:00:50.108805+00:00",
       "close": 500.93
+    },
+    {
+      "timestamp": "2026-08-24T15:50:01.647359+00:00",
+      "close": 506.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T10:55:00+00:00",
+      "title": "Where Is Growth?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T08:11:16+00:00",
       "title": "Forget The Cloud Rally: Semiconductors Rule AI",
