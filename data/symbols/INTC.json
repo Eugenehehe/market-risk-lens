@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T19:56:53.220280+00:00",
+  "generated_at": "2026-08-24T20:35:29.309428+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 87.13,
-    "change_pct": -3.2641279005218182
+    "price": 87.26,
+    "change_pct": -3.1197957144443067
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T02:29:02.924396+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-22T03:22:24.836798+00:00",
       "close": 90.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T19:56:53.220280+00:00",
       "close": 87.13
+    },
+    {
+      "timestamp": "2026-08-24T20:35:29.309428+00:00",
+      "close": 87.26
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-24T18:00:00+00:00",
       "title": "Monday's session: most active stocks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T16:10:44+00:00",
+      "title": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T07:31:23+00:00",
       "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T15:08:50+00:00",
-      "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
