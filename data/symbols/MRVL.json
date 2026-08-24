@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:27:53.174695+00:00",
+  "generated_at": "2026-08-24T07:39:59.161002+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 237.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T15:45:32.470380+00:00",
-      "close": 235.52
-    },
     {
       "timestamp": "2026-08-21T16:14:15.038998+00:00",
       "close": 234.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T06:27:53.174695+00:00",
       "close": 237.04
+    },
+    {
+      "timestamp": "2026-08-24T07:39:59.161002+00:00",
+      "close": 237.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T02:13:29+00:00",
+      "title": "Marvell Technology: A Lot Of Moving Parts",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T18:30:17+00:00",
       "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-22T12:31:49+00:00",
       "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T11:00:00+00:00",
-      "title": "Nvidia Earnings Report To Keep Next Week Busy",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
