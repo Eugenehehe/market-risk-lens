@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:35:29.309428+00:00",
+  "generated_at": "2026-08-24T21:03:09.859778+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 142.45,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T03:22:24.836798+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-22T04:03:11.856829+00:00",
       "close": 146.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T20:35:29.309428+00:00",
       "close": 142.45
+    },
+    {
+      "timestamp": "2026-08-24T21:03:09.859778+00:00",
+      "close": 142.45
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-24T09:06:15+00:00",
       "title": "CoreWeave: A Financial Accident In The Making",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T09:04:59+00:00",
+      "title": "Jim Cramer Pushes Back on Nvidia Skeptics Ahead of Earnings — Dan Ives Says Chip Demand Is Crushing Supply 15-To-1",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T02:16:28+00:00",
+      "title": "Trump Says Communities Rejecting Data Centers Are ‘Making a Mistake,’ Says US Leads China In AI ‘By a Lot’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-23T18:10:00+00:00",
       "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-23T11:28:24+00:00",
       "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T22:17:44+00:00",
-      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T20:20:53+00:00",
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:35:29.309428+00:00",
+  "generated_at": "2026-08-24T21:03:09.859778+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 910.43,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T03:22:24.836798+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-22T04:03:11.856829+00:00",
       "close": 966.78
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T20:35:29.309428+00:00",
       "close": 910.43
+    },
+    {
+      "timestamp": "2026-08-24T21:03:09.859778+00:00",
+      "close": 910.43
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-08-24T16:35:00+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T15:40:04+00:00",
+      "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T13:31:04+00:00",
       "title": "The AI Trade Deleveraged, Its Suppliers Didn't",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T13:16:56+00:00",
-      "title": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
