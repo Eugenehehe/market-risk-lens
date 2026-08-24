@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T17:00:57.034393+00:00",
+  "generated_at": "2026-08-24T17:38:49.587327+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 459.32,
-    "change_pct": -2.9434759640781794
+    "price": 457.87,
+    "change_pct": -3.2498679344955095
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:43:27.680557+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-21T23:02:27.541312+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T17:00:57.034393+00:00",
       "close": 459.32
+    },
+    {
+      "timestamp": "2026-08-24T17:38:49.587327+00:00",
+      "close": 457.87
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-24T11:09:51+00:00",
       "title": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T07:31:23+00:00",
+      "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-23T07:13:06+00:00",
       "title": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T16:30:50+00:00",
-      "title": "Nvidia Stock Doesn’t Look as Expensive as You Think",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

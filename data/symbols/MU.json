@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T17:00:57.034393+00:00",
+  "generated_at": "2026-08-24T17:38:49.587327+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 912.05,
-    "change_pct": -5.6610604273981675
+    "price": 907.52,
+    "change_pct": -6.129626181757997
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:43:27.680557+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-21T23:02:27.541312+00:00",
       "close": 966.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T17:00:57.034393+00:00",
       "close": 912.05
+    },
+    {
+      "timestamp": "2026-08-24T17:38:49.587327+00:00",
+      "close": 907.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T16:35:00+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T14:35:01+00:00",
       "title": "Monday's session: gap up and gap down stock in the S&P500 index",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T07:31:23+00:00",
+      "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T02:21:17+00:00",
       "title": "Micron: Don't Get Shaken Out",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-23T21:37:26+00:00",
       "title": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T18:33:00+00:00",
-      "title": "Jim Cramer doubles down on his bold call on memory stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T15:43:54+00:00",
-      "title": "Nvidia’s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

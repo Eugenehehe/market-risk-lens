@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:00:57.034393+00:00",
+  "generated_at": "2026-08-24T17:38:49.587327+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 351.03,
-    "change_pct": 1.8009396206716488
+    "price": 349.35,
+    "change_pct": 1.313728902035849
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:43:27.680557+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-21T23:02:27.541312+00:00",
       "close": 344.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T17:00:57.034393+00:00",
       "close": 351.03
+    },
+    {
+      "timestamp": "2026-08-24T17:38:49.587327+00:00",
+      "close": 349.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T16:40:05+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T09:30:12+00:00",
       "title": "Berkshire Hathaway Is A Net Buyer Of Stocks, Finally",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-23T21:37:26+00:00",
       "title": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-22T12:07:08+00:00",
-      "title": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

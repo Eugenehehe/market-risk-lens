@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:00:57.034393+00:00",
+  "generated_at": "2026-08-24T17:38:49.587327+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 489.04,
-    "change_pct": 1.2002317688933006
+    "price": 487.99,
+    "change_pct": 0.9829484314212378
   },
   "risk": {
-    "score": 60,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T22:43:27.680557+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-21T23:02:27.541312+00:00",
       "close": 483.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T17:00:57.034393+00:00",
       "close": 489.04
+    },
+    {
+      "timestamp": "2026-08-24T17:38:49.587327+00:00",
+      "close": 487.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T16:40:05+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T11:11:52+00:00",
       "title": "Microsoft (NASDAQ:MSFT) Combines Strong Growth with a Promising Technical Setup",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T02:13:21+00:00",
       "title": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenue Explodes to $750 Million: Report",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T18:07:38+00:00",
-      "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
