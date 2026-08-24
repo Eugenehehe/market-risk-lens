@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T19:28:54.750514+00:00",
+  "generated_at": "2026-08-24T19:56:53.220280+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 298.17,
-    "change_pct": -0.5967462328310358
+    "price": 297.94,
+    "change_pct": -0.6734231230830723
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T01:15:30.038145+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-22T02:29:02.924396+00:00",
       "close": 299.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T19:28:54.750514+00:00",
       "close": 298.17
+    },
+    {
+      "timestamp": "2026-08-24T19:56:53.220280+00:00",
+      "close": 297.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T15:30:00+00:00",
+      "title": "Don't Let Debt Fears Derail Market Perspective",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T14:50:32+00:00",
       "title": "Trump Bought Dividend Stocks And Dumped AI (The Real Story)",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T12:40:32+00:00",
       "title": "Breadth Rebounds, but Index Trends Still Need Repair",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T11:22:58+00:00",
-      "title": "S&P 500: Best Time To Do 60-40 In 10 Years",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

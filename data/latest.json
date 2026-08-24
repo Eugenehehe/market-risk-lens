@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T19:28:54.750514+00:00",
+  "generated_at": "2026-08-24T19:56:53.220280+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 209.42,
-    "change_pct": -2.468330849478395
+    "price": 208.5,
+    "change_pct": -2.8967958271236993
   },
   "risk": {
-    "score": 70,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T01:15:30.038145+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T02:29:02.924396+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T19:28:54.750514+00:00",
       "close": 209.42
+    },
+    {
+      "timestamp": "2026-08-24T19:56:53.220280+00:00",
+      "close": 208.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T19:10:06+00:00",
+      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T18:05:00+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T15:20:00+00:00",
+      "title": "Nvidia Earnings Preview: Q2 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T14:18:44+00:00",
       "title": "Alibaba: The Market Got This One Wrong",
       "source": "SeekingAlpha",
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T13:52:51+00:00",
-      "title": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T13:35:24+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "timestamp": "2026-08-24T14:14:24+00:00",
+      "title": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T13:31:04+00:00",
-      "title": "The AI Trade Deleveraged, Its Suppliers Didn't",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T13:29:35+00:00",
-      "title": "Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments",
+      "timestamp": "2026-08-24T13:52:51+00:00",
+      "title": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

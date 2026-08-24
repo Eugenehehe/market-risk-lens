@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T19:28:54.750514+00:00",
+  "generated_at": "2026-08-24T19:56:53.220280+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 488.79,
-    "change_pct": 1.1484976409237735
+    "price": 488.08,
+    "change_pct": 1.0015727174902622
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T01:15:30.038145+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-22T02:29:02.924396+00:00",
       "close": 483.24
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T19:28:54.750514+00:00",
       "close": 488.79
+    },
+    {
+      "timestamp": "2026-08-24T19:56:53.220280+00:00",
+      "close": 488.08
     }
   ],
   "events": [
@@ -522,8 +522,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T14:14:24+00:00",
+      "title": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T12:57:20+00:00",
       "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T12:28:02+00:00",
+      "title": "What's Going on With Nebius Shares on Monday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-24T11:11:52+00:00",
       "title": "Microsoft (NASDAQ:MSFT) Combines Strong Growth with a Promising Technical Setup",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T10:03:17+00:00",
-      "title": "Why Is IREN Stock Sliding on Monday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:30:34+00:00",
-      "title": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

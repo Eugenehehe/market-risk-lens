@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T19:28:54.750514+00:00",
+  "generated_at": "2026-08-24T19:56:53.220280+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 262.12,
-    "change_pct": 1.349418087615506
+    "price": 262.16,
+    "change_pct": 1.3648841975022252
   },
   "risk": {
     "score": 61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T01:15:30.038145+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T02:29:02.924396+00:00",
       "close": 258.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T19:28:54.750514+00:00",
       "close": 262.12
+    },
+    {
+      "timestamp": "2026-08-24T19:56:53.220280+00:00",
+      "close": 262.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T19:10:06+00:00",
+      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T18:05:00+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-24T07:18:30+00:00",
       "title": "AI's Next Bottleneck Isn't Chips, It's Power, With Demand Expected to Soar 1,100% by 2033: Why CEG, VST, GEV Stocks Are in Focus",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T02:13:21+00:00",
-      "title": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenue Explodes to $750 Million: Report",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
