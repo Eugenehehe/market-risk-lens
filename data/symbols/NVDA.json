@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:38:49.587327+00:00",
+  "generated_at": "2026-08-24T18:03:47.854447+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 209.49,
-    "change_pct": -2.4357302533531966
+    "price": 209.83,
+    "change_pct": -2.27738450074515
   },
   "risk": {
-    "score": 70,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:02:27.541312+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-21T23:33:53.927746+00:00",
       "close": 214.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 209.49
+    },
+    {
+      "timestamp": "2026-08-24T18:03:47.854447+00:00",
+      "close": 209.83
     }
   ],
   "events": [
@@ -509,6 +509,38 @@
       "timestamp": "2026-08-24T16:40:05+00:00",
       "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T13:35:24+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T13:31:04+00:00",
+      "title": "The AI Trade Deleveraged, Its Suppliers Didn't",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T13:29:35+00:00",
+      "title": "Nvidia Q2 Preview: The Beat Is Priced In, But I Have Questions About Their AI Investments",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T13:16:56+00:00",
+      "title": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,48 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T11:09:51+00:00",
-      "title": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T11:00:01+00:00",
-      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T10:32:29+00:00",
-      "title": "'Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe' - Bloomberg",
+      "timestamp": "2026-08-24T12:57:20+00:00",
+      "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-24T10:23:10+00:00",
-      "title": "Nvidia exploring price hikes for some of its largest customers: Report",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T10:21:59+00:00",
-      "title": "NVIDIA (NASDAQ:NVDA) Pairs High Growth Momentum with a Breakout Setup",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:30:34+00:00",
-      "title": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
+      "timestamp": "2026-08-24T11:09:51+00:00",
+      "title": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

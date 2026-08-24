@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:38:49.587327+00:00",
+  "generated_at": "2026-08-24T18:03:47.854447+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 706.87,
-    "change_pct": -0.920890334155644
+    "price": 707.47,
+    "change_pct": -0.8367907602601532
   },
   "risk": {
-    "score": 58,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:02:27.541312+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-21T23:33:53.927746+00:00",
       "close": 713.44
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 706.87
+    },
+    {
+      "timestamp": "2026-08-24T18:03:47.854447+00:00",
+      "close": 707.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T13:31:04+00:00",
+      "title": "The AI Trade Deleveraged, Its Suppliers Didn't",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T13:16:56+00:00",
+      "title": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T12:57:20+00:00",
+      "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T12:40:32+00:00",
       "title": "Breadth Rebounds, but Index Trends Still Need Repair",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-24T09:22:19+00:00",
       "title": "QUICK SPARK: $6.4 Billion Pours into S&P 500 ETFs in One Day as QQQ Sees Outflows",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:03:00+00:00",
-      "title": "Q3 Growth Still Firm, But Fresh Headwinds Cloud The Outlook",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:33:05+00:00",
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T08:20:43+00:00",
-      "title": "Bessent Triggers The Nightmare Scenario For The Bond Market",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

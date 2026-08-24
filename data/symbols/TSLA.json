@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T17:38:49.587327+00:00",
+  "generated_at": "2026-08-24T18:03:47.854447+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 355.46,
-    "change_pct": -2.039354020834494
+    "price": 354.07,
+    "change_pct": -2.422421870693936
   },
   "risk": {
-    "score": 67,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-21T23:02:27.541312+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-21T23:33:53.927746+00:00",
       "close": 362.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 355.46
+    },
+    {
+      "timestamp": "2026-08-24T18:03:47.854447+00:00",
+      "close": 354.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T13:28:51+00:00",
+      "title": "Tesla: SpaceX Is The Only Hope",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T12:08:54+00:00",
       "title": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-23T10:35:00+00:00",
       "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T07:13:06+00:00",
-      "title": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
