@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 87.77,
-    "change_pct": 0.5844602337840898
+    "price": 87.81,
+    "change_pct": 0.6303002521200973
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 90.07
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 87.77
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 87.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T18:05:01+00:00",
+      "title": "Which S&P500 stocks are the most active on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T18:00:00+00:00",
+      "title": "These stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T13:35:16+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T12:35:01+00:00",
       "title": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-25T05:07:00+00:00",
-      "title": "Intel: Priced For Potential Of CPUs, Not For The Momentum Of The Foundry (Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:05:00+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:02:46+00:00",
-      "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:00:00+00:00",
-      "title": "Monday's session: most active stocks",
-      "source": "ChartMill",
+      "timestamp": "2026-08-25T06:54:31+00:00",
+      "title": "Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

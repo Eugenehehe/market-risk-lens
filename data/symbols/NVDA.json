@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 212.21,
-    "change_pct": 1.7891404451266357
+    "price": 212.74,
+    "change_pct": 2.0433614735226424
   },
   "risk": {
-    "score": 65,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 214.72
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 212.21
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 212.74
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-25T18:05:01+00:00",
+      "title": "Which S&P500 stocks are the most active on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T18:00:00+00:00",
+      "title": "These stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:11:00+00:00",
+      "title": "Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:07:04+00:00",
+      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,40 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-25T13:23:35+00:00",
-      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:44:31+00:00",
-      "title": "What's Going On With Dell Technologies Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:48:59+00:00",
-      "title": "AI At The Top, Cash At The Bottom: Is The Next Return In Between?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:46:09+00:00",
-      "title": "Cisco Expands Rack-Scale AI Computing With Nvidia, Supermicro",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:41:29+00:00",
-      "title": "Kalshi's Nvidia Compute Markets Hit $4.4M: Is AI Compute the 'New Oil'?",
+      "timestamp": "2026-08-25T13:35:16+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

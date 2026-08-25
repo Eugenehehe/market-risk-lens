@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 351.69,
-    "change_pct": 0.7852127812007392
+    "price": 352.43,
+    "change_pct": 0.9972775469264894
   },
   "risk": {
-    "score": 57,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 362.86
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 351.69
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 352.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T18:05:01+00:00",
+      "title": "Which S&P500 stocks are the most active on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:07:04+00:00",
+      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T11:44:08+00:00",
       "title": "BYD Company: Strong Export Growth Underpins Value",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T07:43:28+00:00",
       "title": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T07:00:00+00:00",
-      "title": "Wall Street Breakfast Podcast: Coffee Rally Hits PSL Season",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T06:29:44+00:00",
-      "title": "Elon Musk's Tesla Hikes Cybertruck Prices by More Than 7% Despite Sluggish Sales",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 259.97,
-    "change_pct": -0.8013126263975101
+    "price": 260.35,
+    "change_pct": -0.6563131987636805
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 259.97
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 260.35
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:07:04+00:00",
+      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-25T03:46:59+00:00",
+      "title": "Trump Administration Proposes Over $100,000 H-1B Fee After Court Struck Down $100,000 Levy",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T02:24:32+00:00",
       "title": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T00:05:09+00:00",
-      "title": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T23:35:07+00:00",
-      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

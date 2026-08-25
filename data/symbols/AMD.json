@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 479.07,
-    "change_pct": 4.887847704955717
+    "price": 480.19,
+    "change_pct": 5.133061117253601
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 479.07
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 480.19
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T16:35:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:11:00+00:00",
+      "title": "Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,6 +533,14 @@
       "timestamp": "2026-08-25T13:30:04+00:00",
       "title": "AMD: More Downside Risks As Insiders Unlock Massive Gains - Reiterate Hold",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T13:00:56+00:00",
+      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-25T11:44:31+00:00",
       "title": "What's Going On With Dell Technologies Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:13:47+00:00",
-      "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:17:03+00:00",
-      "title": "This AMD Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

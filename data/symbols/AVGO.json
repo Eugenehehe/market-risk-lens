@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 356.35,
-    "change_pct": -0.6717582785148779
+    "price": 356.67,
+    "change_pct": -0.582562158546096
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 368.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 356.35
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 356.67
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T14:06:24+00:00",
       "title": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T13:35:16+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T18:21:14+00:00",
       "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:02:46+00:00",
-      "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

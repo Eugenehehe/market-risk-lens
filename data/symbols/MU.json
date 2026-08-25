@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 922.74,
-    "change_pct": 1.3521083444086868
+    "price": 931.16,
+    "change_pct": 2.2769460584558976
   },
   "risk": {
-    "score": 61,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 966.78
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 922.74
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 931.16
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T13:23:35+00:00",
       "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T13:00:56+00:00",
+      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T07:37:25+00:00",
       "title": "Nvidia To Rally More Than 8%? Here Are 10 Top Analyst Forecasts For Tuesday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T03:52:14+00:00",
-      "title": "Nasdaq Tumbles 200 Points as Chip Stocks Slide: Fear & Greed Index Remains In ‘Neutral’ Zone",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

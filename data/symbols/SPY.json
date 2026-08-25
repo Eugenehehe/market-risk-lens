@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T18:27:26.225312+00:00",
+  "generated_at": "2026-08-25T19:09:46.370306+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765,
-    "change_pct": 0.2004008016031955
+    "price": 765.41,
+    "change_pct": 0.25410297719621333
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T18:40:38.608785+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-22T19:04:01.448837+00:00",
       "close": 765.72
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 765
+    },
+    {
+      "timestamp": "2026-08-25T19:09:46.370306+00:00",
+      "close": 765.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T14:10:00+00:00",
+      "title": "America Can't Outgrow $40 Trillion In Debt",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:07:04+00:00",
+      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T13:23:35+00:00",
       "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T10:48:59+00:00",
       "title": "AI At The Top, Cash At The Bottom: Is The Next Return In Between?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:33:56+00:00",
-      "title": "President Trump, On Truth Social Post, Says Iran Has Been Notified That Any Ship Or Boat Placing New Mines Will Be Immediately And Systematically Destroyed; Been Informed By U.S. Navy That All Mines Have Been Removed And/Or Detonated From Within International Waters Of Strait Of Hormuz; Watching Every Square Inch Of Strait And Pickaxe Mountain",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:30:00+00:00",
-      "title": "What The New Section 338 Tariffs Mean For The U.S. And Canada",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
