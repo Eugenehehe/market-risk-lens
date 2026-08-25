@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:32:46.577537+00:00",
+  "generated_at": "2026-08-25T14:24:15.990771+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 516.72,
-    "change_pct": 2.082263226520209
+    "price": 511.84,
+    "change_pct": 1.118179303804956
   },
   "risk": {
-    "score": 67,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:41:05.474767+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 520.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 516.72
+    },
+    {
+      "timestamp": "2026-08-25T14:24:15.990771+00:00",
+      "close": 511.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T09:36:35+00:00",
+      "title": "The Entire AI Trade Hinges On One Number",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T07:07:00+00:00",
       "title": "How AI Is Reshaping The Global Economic Outlook",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T07:24:21+00:00",
       "title": "Macro And Earnings, Here's My Thoughts",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T06:20:02+00:00",
-      "title": "What's Going On With Broadcom Stock Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

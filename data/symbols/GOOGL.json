@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:32:46.577537+00:00",
+  "generated_at": "2026-08-25T14:24:15.990771+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 349.58,
-    "change_pct": 0.4367063150031658
+    "price": 346.96,
+    "change_pct": -0.3160374648049302
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:41:05.474767+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 344.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 349.58
+    },
+    {
+      "timestamp": "2026-08-25T14:24:15.990771+00:00",
+      "close": 346.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T09:21:27+00:00",
+      "title": "Alphabet's Growth Isn't Even Close To Being Over Yet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T09:09:07+00:00",
+      "title": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T08:47:57+00:00",
       "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-24T18:33:19+00:00",
       "title": "Congressman Buys Magnificent Seven Stock, Blue Chip Stock — And a Stock You’ve Never Heard Of",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T16:40:05+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T16:10:44+00:00",
-      "title": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

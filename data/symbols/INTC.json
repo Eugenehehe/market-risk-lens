@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T13:32:46.577537+00:00",
+  "generated_at": "2026-08-25T14:24:15.990771+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 89.94,
-    "change_pct": 3.071281228512479
+    "price": 88.46,
+    "change_pct": 1.3752005500802023
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:41:05.474767+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 90.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 89.94
+    },
+    {
+      "timestamp": "2026-08-25T14:24:15.990771+00:00",
+      "close": 88.46
     }
   ],
   "events": [

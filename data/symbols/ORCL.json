@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:32:46.577537+00:00",
+  "generated_at": "2026-08-25T14:24:15.990771+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.83,
-    "change_pct": 1.670761670761678
+    "price": 143.93,
+    "change_pct": 1.0389610389610615
   },
   "risk": {
-    "score": 64,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:41:05.474767+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 146.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 144.83
+    },
+    {
+      "timestamp": "2026-08-25T14:24:15.990771+00:00",
+      "close": 143.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T09:21:55+00:00",
+      "title": "Oracle: September 10 Will Make Or Break The Bull Case",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T13:52:51+00:00",
       "title": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-23T18:10:00+00:00",
       "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T11:28:24+00:00",
-      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

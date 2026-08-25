@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:32:46.577537+00:00",
+  "generated_at": "2026-08-25T14:24:15.990771+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 766.25,
-    "change_pct": 0.3641269467038688
+    "price": 765.05,
+    "change_pct": 0.206949847407234
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:41:05.474767+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 765.72
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 766.25
+    },
+    {
+      "timestamp": "2026-08-25T14:24:15.990771+00:00",
+      "close": 765.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T09:43:10+00:00",
+      "title": "Operation Economic Outcast Directed At China, Major Escalation Likely",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T09:36:35+00:00",
+      "title": "The Entire AI Trade Hinges On One Number",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T08:59:23+00:00",
       "title": "XPAY: The 20% Payout Is The Feature, The Reset Is The Risk",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-25T07:08:00+00:00",
       "title": "$1 Million Direct Indexing: Single Stock Versus Sector Fund Strategies",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T06:45:00+00:00",
-      "title": "Cross-Asset Volatilities Rise As Treasury Endeavors To Avert Yield Contagion",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T05:12:00+00:00",
-      "title": "Cumberland's Monday Memo",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

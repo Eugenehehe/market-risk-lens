@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:32:46.577537+00:00",
+  "generated_at": "2026-08-25T14:24:15.990771+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 210.57,
-    "change_pct": 1.0024942440521878
+    "price": 213.26,
+    "change_pct": 2.292785878741377
   },
   "risk": {
-    "score": 59,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:41:05.474767+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T15:57:34.295672+00:00",
       "close": 214.72
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 210.57
+    },
+    {
+      "timestamp": "2026-08-25T14:24:15.990771+00:00",
+      "close": 213.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T09:36:35+00:00",
+      "title": "The Entire AI Trade Hinges On One Number",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T09:09:07+00:00",
+      "title": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T08:47:57+00:00",
       "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-24T18:05:00+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:00:00+00:00",
-      "title": "Monday's session: most active stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T16:40:05+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
