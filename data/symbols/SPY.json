@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:10:42.843424+00:00",
+  "generated_at": "2026-08-25T03:59:57.195330+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 763.47,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T09:01:12.083571+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-22T09:36:21.201365+00:00",
       "close": 765.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T03:10:42.843424+00:00",
       "close": 763.47
+    },
+    {
+      "timestamp": "2026-08-25T03:59:57.195330+00:00",
+      "close": 763.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-24T23:23:00+00:00",
+      "title": "World Markets Watchlist: August 24, 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T16:54:21+00:00",
       "title": "Jackson Hole Preview: Warsh And Bessent Collide",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T14:40:21+00:00",
       "title": "Bessent Launches Economic D-Day Against Iran: 5 Things to Know",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T14:00:01+00:00",
-      "title": "Bessent's Iran Economic D-Day And Much Ado About Nothing",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
