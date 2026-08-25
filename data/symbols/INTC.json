@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 88.5,
-    "change_pct": 1.421040568416232
+    "price": 88.18,
+    "change_pct": 1.054320421728172
   },
   "risk": {
-    "score": 62,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 90.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 88.5
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 88.18
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T12:35:01+00:00",
       "title": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T08:30:24+00:00",
+      "title": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-24T13:35:24+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T13:16:56+00:00",
-      "title": "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 309.07,
-    "change_pct": -0.4092285880002544
+    "price": 309.61,
+    "change_pct": -0.2352258812914787
   },
   "risk": {
-    "score": 54,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 309.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 309.07
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 309.61
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T08:47:57+00:00",
       "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T23:35:07+00:00",
+      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T09:59:39+00:00",
       "title": "Cramer’s Stop Trading: Sandisk",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:30:12+00:00",
-      "title": "Berkshire Hathaway Is A Net Buyer Of Stocks, Finally",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 561.83,
-    "change_pct": 0.5026653786984525
+    "price": 564.87,
+    "change_pct": 1.046474186970059
   },
   "risk": {
-    "score": 55,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 549.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 561.83
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 564.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T08:30:24+00:00",
+      "title": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T07:30:00+00:00",
       "title": "My Game Plan For What Some Call A Fat AI Bubble",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T09:31:29+00:00",
       "title": "New Zealand Introducing Online Safety Bill To Ban Under-16 Users From Accessing Social Media",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:30:12+00:00",
-      "title": "Berkshire Hathaway Is A Net Buyer Of Stocks, Finally",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

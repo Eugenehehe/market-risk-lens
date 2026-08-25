@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.91,
-    "change_pct": -0.44262983172433934
+    "price": 261.15,
+    "change_pct": -0.3510512458503534
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 260.91
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 261.15
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-25T00:05:09+00:00",
       "title": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T23:35:07+00:00",
+      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T16:40:05+00:00",
       "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T15:32:34+00:00",
-      "title": "'Amazon plots a new 'Tetromino' warehouse where robots tackle work that's notoriously hard to automate' - Business Insider",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

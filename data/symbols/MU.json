@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 928.99,
-    "change_pct": 2.0385971464033537
+    "price": 926.87,
+    "change_pct": 1.8057401447667543
   },
   "risk": {
-    "score": 67,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 966.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 928.99
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 926.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T10:13:47+00:00",
+      "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T08:47:57+00:00",
       "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
@@ -530,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-25T07:37:25+00:00",
+      "title": "Nvidia To Rally More Than 8%? Here Are 10 Top Analyst Forecasts For Tuesday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T03:52:14+00:00",
+      "title": "Nasdaq Tumbles 200 Points as Chip Stocks Slide: Fear & Greed Index Remains In ‘Neutral’ Zone",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T19:05:01+00:00",
       "title": "Stay informed with the top movers within the S&P500 index on Monday.",
       "source": "ChartMill",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-24T18:05:00+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T16:35:00+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T15:40:04+00:00",
-      "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T14:35:01+00:00",
-      "title": "Monday's session: gap up and gap down stock in the S&P500 index",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,

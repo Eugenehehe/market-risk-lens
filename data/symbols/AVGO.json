@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 359.39,
-    "change_pct": 0.17560486118852747
+    "price": 360.77,
+    "change_pct": 0.5602631285539061
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 368.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 359.39
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 360.77
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-25T09:09:07+00:00",
       "title": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-24T23:35:07+00:00",
+      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-24T06:20:02+00:00",
       "title": "What's Going On With Broadcom Stock Monday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T05:58:36+00:00",
-      "title": "Insights Into Broadcom's Performance Versus Peers In Semiconductors &amp; Semiconductor Equipment Sector",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

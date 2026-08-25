@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T15:13:45.715999+00:00",
+  "generated_at": "2026-08-25T16:02:44.716295+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 210.45,
-    "change_pct": 0.9449347659247875
+    "price": 211.81,
+    "change_pct": 1.5972755180353015
   },
   "risk": {
-    "score": 58,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:31:55.861664+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T16:54:46.403079+00:00",
       "close": 214.72
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 210.45
+    },
+    {
+      "timestamp": "2026-08-25T16:02:44.716295+00:00",
+      "close": 211.81
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-25T10:13:47+00:00",
+      "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T09:36:35+00:00",
       "title": "The Entire AI Trade Hinges On One Number",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T09:30:58+00:00",
+      "title": "What's Going On With Super Micro Computer Stock Tuesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-25T08:30:24+00:00",
+      "title": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T08:00:00+00:00",
       "title": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
       "source": "SeekingAlpha",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-25T07:43:28+00:00",
       "title": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T19:10:06+00:00",
-      "title": "Exploring the top movers within the dow jones index during today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:21:14+00:00",
-      "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:05:00+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
