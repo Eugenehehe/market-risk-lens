@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T19:09:46.370306+00:00",
+  "generated_at": "2026-08-25T19:45:21.602862+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 346.06,
-    "change_pct": -0.5746135723725843
+    "price": 346.95,
+    "change_pct": -0.31891053266678293
   },
   "risk": {
-    "score": 55,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:04:01.448837+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-22T19:31:35.229860+00:00",
       "close": 344.82
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-25T19:09:46.370306+00:00",
       "close": 346.06
+    },
+    {
+      "timestamp": "2026-08-25T19:45:21.602862+00:00",
+      "close": 346.95
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-25T19:10:07+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T13:07:00+00:00",
       "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S. ",
       "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T12:02:37+00:00",
+      "title": "'Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue' - WSJ Exclusive",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T08:10:02+00:00",
       "title": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T08:00:00+00:00",
-      "title": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T07:30:00+00:00",
-      "title": "My Game Plan For What Some Call A Fat AI Bubble",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

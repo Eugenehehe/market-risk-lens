@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T19:09:46.370306+00:00",
+  "generated_at": "2026-08-25T19:45:21.602862+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 212.74,
-    "change_pct": 2.0433614735226424
+    "price": 212.52,
+    "change_pct": 1.9378357636224308
   },
   "risk": {
-    "score": 67,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:04:01.448837+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T19:31:35.229860+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T19:09:46.370306+00:00",
       "close": 212.74
+    },
+    {
+      "timestamp": "2026-08-25T19:45:21.602862+00:00",
+      "close": 212.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T19:10:07+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Tuesday?",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-25T15:14:59+00:00",
+      "title": "Leveraged Single-Stock ETF Closures Went From 3 To 63 In A Year As Money Piles Into Nvidia Bets",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T14:11:00+00:00",
       "title": "Wall Street Lunch: OpenAI's JalapeñO Tops Nvidia's Blackwell In Some Inference Tests",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T14:01:00+00:00",
       "title": "NVIDIA Q2 Earnings And Outlook Matter More This Time - Here's Why",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:46:29+00:00",
-      "title": "CoreWeave: Why Nvidia's Price Hikes Could Be Good News - Buy Under $90",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:35:16+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

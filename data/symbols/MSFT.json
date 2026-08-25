@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T19:09:46.370306+00:00",
+  "generated_at": "2026-08-25T19:45:21.602862+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 490.25,
-    "change_pct": 0.6033120600849484
+    "price": 490.26,
+    "change_pct": 0.6053641419219824
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:04:01.448837+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-22T19:31:35.229860+00:00",
       "close": 483.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T19:09:46.370306+00:00",
       "close": 490.25
+    },
+    {
+      "timestamp": "2026-08-25T19:45:21.602862+00:00",
+      "close": 490.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T19:10:07+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T08:12:10+00:00",
       "title": "SanDisk Could Benefit as Amazon and Microsoft See AI Investments Start to Pay Off",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T08:10:02+00:00",
-      "title": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

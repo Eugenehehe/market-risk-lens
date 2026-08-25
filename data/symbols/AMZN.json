@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T19:09:46.370306+00:00",
+  "generated_at": "2026-08-25T19:45:21.602862+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.35,
-    "change_pct": -0.6563131987636805
+    "price": 260.74,
+    "change_pct": -0.5074979967184312
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:04:01.448837+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T19:31:35.229860+00:00",
       "close": 258.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T19:09:46.370306+00:00",
       "close": 260.35
+    },
+    {
+      "timestamp": "2026-08-25T19:45:21.602862+00:00",
+      "close": 260.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T19:10:07+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-25T12:02:37+00:00",
+      "title": "'Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue' - WSJ Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T08:12:10+00:00",
       "title": "SanDisk Could Benefit as Amazon and Microsoft See AI Investments Start to Pay Off",
       "source": "Benzinga",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T05:56:43+00:00",
       "title": "Bitcoin Beats Nvidia to Become Top-Performing Major Asset Over 10 Years as BTC Surges Above $80,000",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T03:46:59+00:00",
-      "title": "Trump Administration Proposes Over $100,000 H-1B Fee After Court Struck Down $100,000 Levy",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T02:24:32+00:00",
-      "title": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

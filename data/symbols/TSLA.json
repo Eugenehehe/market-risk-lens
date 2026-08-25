@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T19:09:46.370306+00:00",
+  "generated_at": "2026-08-25T19:45:21.602862+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 352.43,
-    "change_pct": 0.9972775469264894
+    "price": 351.23,
+    "change_pct": 0.6533887376415137
   },
   "risk": {
-    "score": 58,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:04:01.448837+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-22T19:31:35.229860+00:00",
       "close": 362.86
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T19:09:46.370306+00:00",
       "close": 352.43
+    },
+    {
+      "timestamp": "2026-08-25T19:45:21.602862+00:00",
+      "close": 351.23
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-08-25T14:07:04+00:00",
       "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T12:02:59+00:00",
+      "title": "Einhorn Vs. Musk: Hedge Fund Manager Says SpaceX IPO Was ‘Meme-ification of the Market’",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T08:30:00+00:00",
       "title": "Tesla: I Want To Buy Back In But The Valuation Won't Let Me",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T07:43:28+00:00",
-      "title": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
