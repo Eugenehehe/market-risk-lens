@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T16:50:48.885029+00:00",
+  "generated_at": "2026-08-25T17:21:31.261927+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 240.9,
-    "change_pct": 5.063456757817608
+    "price": 240.78,
+    "change_pct": 5.01112128745258
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:19:04.405183+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-22T17:41:02.556595+00:00",
       "close": 237.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T16:50:48.885029+00:00",
       "close": 240.9
+    },
+    {
+      "timestamp": "2026-08-25T17:21:31.261927+00:00",
+      "close": 240.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T16:35:01+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T12:35:01+00:00",
       "title": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T07:43:28+00:00",
       "title": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T19:02:05+00:00",
-      "title": "Marvell: Google Strengthens The AI Thesis, But Q2 Must Justify The Premium",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

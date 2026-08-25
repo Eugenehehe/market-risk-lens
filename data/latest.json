@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T16:50:48.885029+00:00",
+  "generated_at": "2026-08-25T17:21:31.261927+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 212.47,
-    "change_pct": 1.913852647736003
+    "price": 212.28,
+    "change_pct": 1.822716807367608
   },
   "risk": {
-    "score": 66,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:19:04.405183+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T17:41:02.556595+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T16:50:48.885029+00:00",
       "close": 212.47
+    },
+    {
+      "timestamp": "2026-08-25T17:21:31.261927+00:00",
+      "close": 212.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T16:40:06+00:00",
+      "title": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T10:48:59+00:00",
       "title": "AI At The Top, Cash At The Bottom: Is The Next Return In Between?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T09:36:35+00:00",
       "title": "The Entire AI Trade Hinges On One Number",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:30:58+00:00",
-      "title": "What's Going On With Super Micro Computer Stock Tuesday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

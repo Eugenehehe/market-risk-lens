@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T16:50:48.885029+00:00",
+  "generated_at": "2026-08-25T17:21:31.261927+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.66,
-    "change_pct": -0.5380241920097562
+    "price": 260.74,
+    "change_pct": -0.5074979967184312
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:19:04.405183+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T17:41:02.556595+00:00",
       "close": 258.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T16:50:48.885029+00:00",
       "close": 260.66
+    },
+    {
+      "timestamp": "2026-08-25T17:21:31.261927+00:00",
+      "close": 260.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T16:40:06+00:00",
+      "title": "Top dow jones movers in Tuesday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T08:10:02+00:00",
       "title": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T19:10:06+00:00",
       "title": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:21:14+00:00",
-      "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
