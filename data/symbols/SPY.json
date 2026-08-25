@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T14:24:15.990771+00:00",
+  "generated_at": "2026-08-25T15:13:45.715999+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765.05,
-    "change_pct": 0.206949847407234
+    "price": 764.58,
+    "change_pct": 0.14538881684937888
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:57:34.295672+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-22T16:31:55.861664+00:00",
       "close": 765.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T14:24:15.990771+00:00",
       "close": 765.05
+    },
+    {
+      "timestamp": "2026-08-25T15:13:45.715999+00:00",
+      "close": 764.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T10:30:00+00:00",
+      "title": "What The New Section 338 Tariffs Mean For The U.S. And Canada",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T09:43:10+00:00",
       "title": "Operation Economic Outcast Directed At China, Major Escalation Likely",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T08:00:00+00:00",
       "title": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T07:08:00+00:00",
-      "title": "$1 Million Direct Indexing: Single Stock Versus Sector Fund Strategies",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

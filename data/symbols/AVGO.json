@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T14:24:15.990771+00:00",
+  "generated_at": "2026-08-25T15:13:45.715999+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 358.49,
-    "change_pct": -0.07525922622365622
+    "price": 359.39,
+    "change_pct": 0.17560486118852747
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:57:34.295672+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-22T16:31:55.861664+00:00",
       "close": 368.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T14:24:15.990771+00:00",
       "close": 358.49
+    },
+    {
+      "timestamp": "2026-08-25T15:13:45.715999+00:00",
+      "close": 359.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T10:44:32+00:00",
+      "title": "SK Hynix: Custom HBM Could Drive The Next Rerating",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T09:09:07+00:00",
       "title": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T05:58:36+00:00",
       "title": "Insights Into Broadcom's Performance Versus Peers In Semiconductors &amp; Semiconductor Equipment Sector",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T18:26:00+00:00",
-      "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

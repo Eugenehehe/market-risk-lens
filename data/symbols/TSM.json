@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T14:24:15.990771+00:00",
+  "generated_at": "2026-08-25T15:13:45.715999+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 415.8,
-    "change_pct": 1.3849604993660503
+    "price": 415.13,
+    "change_pct": 1.2215936798985583
   },
   "risk": {
-    "score": 50,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:57:34.295672+00:00",
-      "close": 418.95
-    },
     {
       "timestamp": "2026-08-22T16:31:55.861664+00:00",
       "close": 418.95
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T14:24:15.990771+00:00",
       "close": 415.8
+    },
+    {
+      "timestamp": "2026-08-25T15:13:45.715999+00:00",
+      "close": 415.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T10:56:18+00:00",
+      "title": "TSMC: The Semiconductor Giant Is Still Sprinting",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T10:44:32+00:00",
+      "title": "SK Hynix: Custom HBM Could Drive The Next Rerating",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T09:30:34+00:00",
       "title": "Nvidia: The Next AI Upgrade Supercycle Is Exclusive - And Bigger Than GPUs",
