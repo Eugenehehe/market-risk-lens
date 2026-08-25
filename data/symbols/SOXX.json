@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:10:07.676140+00:00",
+  "generated_at": "2026-08-25T20:45:46.126429+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 514.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:51:06.000361+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-22T20:10:39.110666+00:00",
       "close": 520.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T20:10:07.676140+00:00",
       "close": 514.06
+    },
+    {
+      "timestamp": "2026-08-25T20:45:46.126429+00:00",
+      "close": 514.06
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-25T15:32:48+00:00",
       "title": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:06:25+00:00",
+      "title": "Nvidia, Blackwell and AI Spending: 4 ETFs in Focus Ahead of Earnings",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T08:10:52+00:00",
       "title": "QUICK SPARK: Gold ETF Leads Inflows as Investors Pull Billions From Mega-Cap ETFs in One Day",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T07:24:20+00:00",
-      "title": "What's Going On With Micron Technology Stock Tuesday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

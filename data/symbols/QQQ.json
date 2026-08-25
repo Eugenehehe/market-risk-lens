@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:10:07.676140+00:00",
+  "generated_at": "2026-08-25T20:45:46.126429+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 710.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:51:06.000361+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-22T20:10:39.110666+00:00",
       "close": 713.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T20:10:07.676140+00:00",
       "close": 710.72
+    },
+    {
+      "timestamp": "2026-08-25T20:45:46.126429+00:00",
+      "close": 710.72
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-08-25T14:07:04+00:00",
       "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T14:06:25+00:00",
+      "title": "Nvidia, Blackwell and AI Spending: 4 ETFs in Focus Ahead of Earnings",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T11:54:45+00:00",
       "title": "IGV: This Could Make Or Break Software",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:00:00+00:00",
-      "title": "Drop In Crude Oil Prices Fuels Markets",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
