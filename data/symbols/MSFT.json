@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T16:02:44.716295+00:00",
+  "generated_at": "2026-08-25T16:50:48.885029+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 489.26,
-    "change_pct": 0.4001559582196057
+    "price": 488.9,
+    "change_pct": 0.32628101208675986
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:54:46.403079+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-22T17:19:04.405183+00:00",
       "close": 483.24
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-25T16:02:44.716295+00:00",
       "close": 489.26
+    },
+    {
+      "timestamp": "2026-08-25T16:50:48.885029+00:00",
+      "close": 488.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T12:23:28+00:00",
+      "title": "Microsoft's AI Rally Has Room To Run",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T11:54:45+00:00",
+      "title": "IGV: This Could Make Or Break Software",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T08:10:02+00:00",
+      "title": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T05:56:43+00:00",
+      "title": "Bitcoin Beats Nvidia to Become Top-Performing Major Asset Over 10 Years as BTC Surges Above $80,000",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T04:50:52+00:00",
       "title": "My Adjusted Recommended Portfolio For 2026 (SCHD Included)",
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-24T14:18:44+00:00",
       "title": "Alibaba: The Market Got This One Wrong",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T14:14:24+00:00",
-      "title": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T12:57:20+00:00",
-      "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T12:28:02+00:00",
-      "title": "What's Going on With Nebius Shares on Monday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T12:22:43+00:00",
-      "title": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

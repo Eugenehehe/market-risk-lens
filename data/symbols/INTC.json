@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T16:02:44.716295+00:00",
+  "generated_at": "2026-08-25T16:50:48.885029+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 88.18,
-    "change_pct": 1.054320421728172
+    "price": 88.53,
+    "change_pct": 1.455420582168232
   },
   "risk": {
-    "score": 59,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:54:46.403079+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-22T17:19:04.405183+00:00",
       "close": 90.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T16:02:44.716295+00:00",
       "close": 88.18
+    },
+    {
+      "timestamp": "2026-08-25T16:50:48.885029+00:00",
+      "close": 88.53
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T12:35:01+00:00",
       "title": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T09:52:27+00:00",
+      "title": "Bloom Energy Stock Rises as Pelosi-Linked Trades Draw Fresh Attention",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-24T15:40:04+00:00",
       "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T13:35:24+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

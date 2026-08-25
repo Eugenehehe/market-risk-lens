@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T16:02:44.716295+00:00",
+  "generated_at": "2026-08-25T16:50:48.885029+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 261.15,
-    "change_pct": -0.3510512458503534
+    "price": 260.66,
+    "change_pct": -0.5380241920097562
   },
   "risk": {
-    "score": 53,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:54:46.403079+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T17:19:04.405183+00:00",
       "close": 258.63
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T16:02:44.716295+00:00",
       "close": 261.15
+    },
+    {
+      "timestamp": "2026-08-25T16:50:48.885029+00:00",
+      "close": 260.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T08:10:02+00:00",
+      "title": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T05:56:43+00:00",
+      "title": "Bitcoin Beats Nvidia to Become Top-Performing Major Asset Over 10 Years as BTC Surges Above $80,000",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T02:24:32+00:00",
       "title": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-24T18:21:14+00:00",
       "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:05:00+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T16:40:05+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T16:02:44.716295+00:00",
+  "generated_at": "2026-08-25T16:50:48.885029+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 477.69,
-    "change_pct": 4.585709750517242
+    "price": 477.13,
+    "change_pct": 4.4631030443682995
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T16:54:46.403079+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-22T17:19:04.405183+00:00",
       "close": 473.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T16:02:44.716295+00:00",
       "close": 477.69
+    },
+    {
+      "timestamp": "2026-08-25T16:50:48.885029+00:00",
+      "close": 477.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T12:00:00+00:00",
+      "title": "AMD: The Easy Money Is Gone",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T10:13:47+00:00",
       "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T05:54:46+00:00",
       "title": "Raymond James Upgrades Advanced Micro Devices to Strong Buy, Raises Price Target to $641",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T03:52:14+00:00",
-      "title": "Nasdaq Tumbles 200 Points as Chip Stocks Slide: Fear & Greed Index Remains In ‘Neutral’ Zone",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
