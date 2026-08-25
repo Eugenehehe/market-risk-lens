@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T12:36:13.002145+00:00",
+  "generated_at": "2026-08-25T13:32:46.577537+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 910.43,
-    "change_pct": -5.828626988559959
+    "price": 934.55,
+    "change_pct": 2.649297584657795
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:19:33.977369+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-22T15:41:05.474767+00:00",
       "close": 966.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 910.43
+    },
+    {
+      "timestamp": "2026-08-25T13:32:46.577537+00:00",
+      "close": 934.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T08:47:57+00:00",
+      "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T08:00:00+00:00",
       "title": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T14:35:01+00:00",
       "title": "Monday's session: gap up and gap down stock in the S&P500 index",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T14:14:24+00:00",
-      "title": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

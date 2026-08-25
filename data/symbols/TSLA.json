@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T12:36:13.002145+00:00",
+  "generated_at": "2026-08-25T13:32:46.577537+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 348.95,
-    "change_pct": -3.833434382406442
+    "price": 350.18,
+    "change_pct": 0.3524860295171184
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:19:33.977369+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-22T15:41:05.474767+00:00",
       "close": 362.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 348.95
+    },
+    {
+      "timestamp": "2026-08-25T13:32:46.577537+00:00",
+      "close": 350.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T08:30:00+00:00",
+      "title": "Tesla: I Want To Buy Back In But The Valuation Won't Let Me",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T07:43:28+00:00",
       "title": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T12:57:20+00:00",
       "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T12:08:54+00:00",
-      "title": "Solar Stocks’ Weighted Gains Mask a Broad Selloff in the Average Name",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

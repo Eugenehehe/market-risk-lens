@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T12:36:13.002145+00:00",
+  "generated_at": "2026-08-25T13:32:46.577537+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 297.97,
-    "change_pct": -0.6634217895719274
+    "price": 299.39,
+    "change_pct": 0.47655804275597013
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T15:19:33.977369+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-22T15:41:05.474767+00:00",
       "close": 299.96
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 297.97
+    },
+    {
+      "timestamp": "2026-08-25T13:32:46.577537+00:00",
+      "close": 299.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T08:48:46+00:00",
+      "title": "Don't Let The Bond Market Spook You",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T08:44:19+00:00",
+      "title": "Why $40 Trillion In Debt Is Really A Tech-Stock Story",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T06:45:00+00:00",
       "title": "Cross-Asset Volatilities Rise As Treasury Endeavors To Avert Yield Contagion",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-24T16:22:50+00:00",
       "title": "Fiscal Dominance: Is It Beginning?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T15:30:00+00:00",
-      "title": "Don't Let Debt Fears Derail Market Perspective",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T14:50:32+00:00",
-      "title": "Trump Bought Dividend Stocks And Dumped AI (The Real Story)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
