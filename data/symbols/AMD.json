@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:12:06.170765+00:00",
+  "generated_at": "2026-08-25T21:45:20.440359+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 479.18,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T20:39:48.766592+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-22T20:59:38.575875+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T21:12:06.170765+00:00",
       "close": 479.18
+    },
+    {
+      "timestamp": "2026-08-25T21:45:20.440359+00:00",
+      "close": 479.18
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T19:05:01+00:00",
       "title": "Top S&P500 movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T16:39:50+00:00",
+      "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T13:30:04+00:00",
       "title": "AMD: More Downside Risks As Insiders Unlock Massive Gains - Reiterate Hold",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:00:56+00:00",
-      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

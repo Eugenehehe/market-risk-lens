@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T21:12:06.170765+00:00",
+  "generated_at": "2026-08-25T21:45:20.440359+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 53.44,
     "change_pct": 1.9263780278466536
   },
   "risk": {
-    "score": 52,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T20:39:48.766592+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-22T20:59:38.575875+00:00",
       "close": 53.45
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-25T21:12:06.170765+00:00",
       "close": 53.44
+    },
+    {
+      "timestamp": "2026-08-25T21:45:20.440359+00:00",
+      "close": 53.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T17:24:35+00:00",
+      "title": "Broadcom: Moving Big Into Vendor Financing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T16:39:50+00:00",
+      "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-23T02:33:40+00:00",
       "title": "Hewlett Packard Enterprise: AI Infrastructure And Juniper Could Unlock The Next Growth Phase",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:12:06.170765+00:00",
+  "generated_at": "2026-08-25T21:45:20.440359+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 261.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T20:39:48.766592+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T20:59:38.575875+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T21:12:06.170765+00:00",
       "close": 261.06
+    },
+    {
+      "timestamp": "2026-08-25T21:45:20.440359+00:00",
+      "close": 261.06
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T19:10:07+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T17:24:35+00:00",
+      "title": "Broadcom: Moving Big Into Vendor Financing",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T08:12:10+00:00",
       "title": "SanDisk Could Benefit as Amazon and Microsoft See AI Investments Start to Pay Off",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T08:10:02+00:00",
-      "title": "Nvidia Earnings Could Trigger a Chilling Reality Check For $1 Trillion AI Boom, Says Analyst: 'Biggest Thing I Am Watching...' (UPDATED)",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
