@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:52:20.261117+00:00",
+  "generated_at": "2026-08-25T18:27:26.225312+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 477.4,
-    "change_pct": 4.522216991975814
+    "price": 479.07,
+    "change_pct": 4.887847704955717
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:58:09.033095+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-22T18:40:38.608785+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 477.4
+    },
+    {
+      "timestamp": "2026-08-25T18:27:26.225312+00:00",
+      "close": 479.07
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T16:35:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T13:49:23+00:00",
+      "title": "Cheapest AI Infrastructure Play Left: Crypto Miners Converting To AI Data Centers",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T09:17:03+00:00",
       "title": "This AMD Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T08:30:24+00:00",
-      "title": "This Chip Stock Could Overtake Intel by 2027—Wall Street Sees 40% Upside as AI Agents Reshape the CPU Market",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

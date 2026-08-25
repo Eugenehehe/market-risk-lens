@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T17:52:20.261117+00:00",
+  "generated_at": "2026-08-25T18:27:26.225312+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 356.97,
-    "change_pct": -0.49894079607536446
+    "price": 356.35,
+    "change_pct": -0.6717582785148779
   },
   "risk": {
-    "score": 54,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:58:09.033095+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-22T18:40:38.608785+00:00",
       "close": 368.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 356.97
+    },
+    {
+      "timestamp": "2026-08-25T18:27:26.225312+00:00",
+      "close": 356.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T14:06:24+00:00",
+      "title": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T13:23:35+00:00",
       "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T18:02:46+00:00",
       "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T13:52:51+00:00",
-      "title": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
