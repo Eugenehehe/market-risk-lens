@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765.23,
-    "change_pct": 0.23052641230172366
+    "price": 764.96,
+    "change_pct": 0.19516156495997805
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 765.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 765.23
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 764.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T13:23:35+00:00",
+      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T11:59:51+00:00",
       "title": "Forget Iran; Bessent Gave Us 1 Trillion Reasons To Buy",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T10:30:00+00:00",
       "title": "What The New Section 338 Tariffs Mean For The U.S. And Canada",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:43:10+00:00",
-      "title": "Operation Economic Outcast Directed At China, Major Escalation Likely",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

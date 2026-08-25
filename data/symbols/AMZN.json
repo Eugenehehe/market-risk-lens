@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 260.74,
-    "change_pct": -0.5074979967184312
+    "price": 260.44,
+    "change_pct": -0.6219712290609358
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 260.74
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 260.44
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T08:12:10+00:00",
+      "title": "SanDisk Could Benefit as Amazon and Microsoft See AI Investments Start to Pay Off",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T22:45:10+00:00",
       "title": "Plug Power: Tangible Margin Progress But More Work Ahead - Hold",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T19:10:06+00:00",
-      "title": "Exploring the top movers within the dow jones index during today's session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

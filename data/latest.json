@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 212.28,
-    "change_pct": 1.822716807367608
+    "price": 212.37,
+    "change_pct": 1.8658864159631694
   },
   "risk": {
     "score": 65,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 214.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 212.28
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 212.37
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T13:23:35+00:00",
+      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T11:44:31+00:00",
+      "title": "What's Going On With Dell Technologies Stock Tuesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T10:13:47+00:00",
       "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:41:27+00:00",
-      "title": "EXCLUSIVE: Watch These 3 AI Bottlenecks Ahead of Nvidia Earnings, Yorkville CEO Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:36:35+00:00",
-      "title": "The Entire AI Trade Hinges On One Number",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.42,
-    "change_pct": 2.0849420849420763
+    "price": 144.84,
+    "change_pct": 1.6777816777816978
   },
   "risk": {
-    "score": 67,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 146.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 145.42
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 144.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T13:23:35+00:00",
+      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T09:21:55+00:00",
       "title": "Oracle: September 10 Will Make Or Break The Bull Case",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-24T02:16:28+00:00",
       "title": "Trump Says Communities Rejecting Data Centers Are ‘Making a Mistake,’ Says US Leads China In AI ‘By a Lot’",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T18:10:00+00:00",
-      "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

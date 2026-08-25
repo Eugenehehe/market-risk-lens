@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 924.84,
-    "change_pct": 1.5827685818788906
+    "price": 924.19,
+    "change_pct": 1.511373746471456
   },
   "risk": {
     "score": 63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 966.78
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 924.84
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 924.19
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-25T13:23:35+00:00",
+      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T10:13:47+00:00",
       "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T09:58:02+00:00",
+      "title": "SanDisk Stock Climbs As NAND Optimism Lifts Memory Stocks",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T03:52:14+00:00",
       "title": "Nasdaq Tumbles 200 Points as Chip Stocks Slide: Fear & Greed Index Remains In ‘Neutral’ Zone",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T19:05:01+00:00",
-      "title": "Stay informed with the top movers within the S&P500 index on Monday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T18:05:00+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

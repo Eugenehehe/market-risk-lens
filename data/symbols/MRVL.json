@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 240.78,
-    "change_pct": 5.01112128745258
+    "price": 241.07,
+    "change_pct": 5.137598674168076
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 240.78
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 241.07
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-25T12:35:01+00:00",
       "title": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T12:05:03+00:00",
+      "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Marvell, AMD, Kura Oncology & more",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T07:52:09+00:00",
       "title": "Marvell: Another Guidance Raise Could Signal A Stronger Growth Trajectory",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T07:43:28+00:00",
-      "title": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

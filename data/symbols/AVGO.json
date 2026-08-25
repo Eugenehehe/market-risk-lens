@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T17:21:31.261927+00:00",
+  "generated_at": "2026-08-25T17:52:20.261117+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 358.36,
-    "change_pct": -0.11149514996097176
+    "price": 356.97,
+    "change_pct": -0.49894079607536446
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T17:41:02.556595+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-22T17:58:09.033095+00:00",
       "close": 368.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 358.36
+    },
+    {
+      "timestamp": "2026-08-25T17:52:20.261117+00:00",
+      "close": 356.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T13:23:35+00:00",
+      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T10:44:32+00:00",
       "title": "SK Hynix: Custom HBM Could Drive The Next Rerating",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T19:31:56+00:00",
+      "title": "Jim Cramer: Long-term interest rates will go lower if we can get inflation under control",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T18:21:14+00:00",
       "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
       "source": "SeekingAlpha",
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-24T18:02:46+00:00",
+      "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-24T13:52:51+00:00",
       "title": "More 'Naked Swimmers' Will Continue To Emerge As The Tide Recedes",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:28:53+00:00",
-      "title": "Bessent's Toolbox Gets a Rest as Gold Prints $4,600 and Ross Stores Cleans Up",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T09:13:44+00:00",
-      "title": "Broadcom: $100 Billion In AI Revenue Is A Lot To Ask",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T06:20:02+00:00",
-      "title": "What's Going On With Broadcom Stock Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
