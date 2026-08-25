@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:52:59.545261+00:00",
+  "generated_at": "2026-08-25T12:36:13.002145+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 456.745,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T14:54:53.354497+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-22T15:19:33.977369+00:00",
       "close": 473.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-25T11:52:59.545261+00:00",
       "close": 456.745
+    },
+    {
+      "timestamp": "2026-08-25T12:36:13.002145+00:00",
+      "close": 456.745
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-25T08:00:00+00:00",
+      "title": "AMD: The AI Tipping Point Is Here (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-24T15:40:04+00:00",
       "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-23T13:12:00+00:00",
       "title": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-23T10:30:00+00:00",
-      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
