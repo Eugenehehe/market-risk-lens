@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:39:39.930807+00:00",
+  "generated_at": "2026-08-25T23:03:00.871360+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 491.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T21:50:34.497517+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-22T22:08:55.951654+00:00",
       "close": 483.24
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T22:39:39.930807+00:00",
       "close": 491.71
+    },
+    {
+      "timestamp": "2026-08-25T23:03:00.871360+00:00",
+      "close": 491.71
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T19:10:07+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T18:17:35+00:00",
+      "title": "RUM Group: Great Risk That Offers Great Potential (Upgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T12:23:28+00:00",
       "title": "Microsoft's AI Rally Has Room To Run",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:54:45+00:00",
-      "title": "IGV: This Could Make Or Break Software",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
