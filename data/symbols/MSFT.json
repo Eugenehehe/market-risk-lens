@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T19:45:21.602862+00:00",
+  "generated_at": "2026-08-25T20:10:07.676140+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 490.26,
-    "change_pct": 0.6053641419219824
+    "price": 491.71,
+    "change_pct": 0.9029160082903998
   },
   "risk": {
-    "score": 55,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:31:35.229860+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-22T19:51:06.000361+00:00",
       "close": 483.24
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T19:45:21.602862+00:00",
       "close": 490.26
+    },
+    {
+      "timestamp": "2026-08-25T20:10:07.676140+00:00",
+      "close": 491.71
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-08-25T16:40:06+00:00",
       "title": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T15:36:48+00:00",
+      "title": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T15:32:48+00:00",
+      "title": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T11:54:45+00:00",
       "title": "IGV: This Could Make Or Break Software",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:44:31+00:00",
-      "title": "What's Going On With Dell Technologies Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T08:12:10+00:00",
-      "title": "SanDisk Could Benefit as Amazon and Microsoft See AI Investments Start to Pay Off",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

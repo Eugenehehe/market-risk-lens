@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T19:45:21.602862+00:00",
+  "generated_at": "2026-08-25T20:10:07.676140+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 479.35,
-    "change_pct": 4.949151058030199
+    "price": 479.18,
+    "change_pct": 4.9119311650921205
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T19:31:35.229860+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-22T19:51:06.000361+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T19:45:21.602862+00:00",
       "close": 479.35
+    },
+    {
+      "timestamp": "2026-08-25T20:10:07.676140+00:00",
+      "close": 479.18
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-25T16:35:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T15:32:48+00:00",
+      "title": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T12:05:03+00:00",
       "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Marvell, AMD, Kura Oncology & more",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T12:00:00+00:00",
-      "title": "AMD: The Easy Money Is Gone",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
