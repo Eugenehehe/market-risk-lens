@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:22:15.951209+00:00",
+  "generated_at": "2026-08-26T08:06:09.519053+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 555.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T05:14:10.847382+00:00",
-      "close": 560.42
-    },
     {
       "timestamp": "2026-08-23T05:47:51.123946+00:00",
       "close": 560.42
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T07:22:15.951209+00:00",
       "close": 555.82
+    },
+    {
+      "timestamp": "2026-08-26T08:06:09.519053+00:00",
+      "close": 555.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T03:25:54+00:00",
+      "title": "America's New Luddites Are Coming For The AI Data Center Boom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T00:02:57+00:00",
       "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T11:54:45+00:00",
       "title": "IGV: This Could Make Or Break Software",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:02:58+00:00",
-      "title": "Easing Bond Yields, Oil Prices Lift Wall Street Pre-Bell; Asia, Europe Up",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
