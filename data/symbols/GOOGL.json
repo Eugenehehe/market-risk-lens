@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:24:37.462622+00:00",
+  "generated_at": "2026-08-26T11:01:03.181940+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 346.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T07:45:07.955577+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T08:11:34.210119+00:00",
       "close": 344.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T10:24:37.462622+00:00",
       "close": 346.96
+    },
+    {
+      "timestamp": "2026-08-26T11:01:03.181940+00:00",
+      "close": 346.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T06:30:00+00:00",
+      "title": "Big Tech Off-Balance Sheet Concerns",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T03:53:53+00:00",
       "title": "The Deep Unknowns Of AI",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T14:38:37+00:00",
       "title": "Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:07:00+00:00",
-      "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S. ",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
