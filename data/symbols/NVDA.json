@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:59:08.030612+00:00",
+  "generated_at": "2026-08-26T09:51:31.998780+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 213.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T06:16:37.252421+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-23T07:06:30.894684+00:00",
       "close": 214.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T08:59:08.030612+00:00",
       "close": 213.05
+    },
+    {
+      "timestamp": "2026-08-26T09:51:31.998780+00:00",
+      "close": 213.05
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-26T07:00:53+00:00",
       "title": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T05:20:00+00:00",
+      "title": "Markets Look Out For Warsh's Jackson Hole Speech, Nvidia Earnings",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T18:00:00+00:00",
       "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T17:48:21+00:00",
-      "title": "How To Retire: Stop Looking For Magic",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
