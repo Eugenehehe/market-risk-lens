@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:39:59.365894+00:00",
+  "generated_at": "2026-08-26T04:24:16.013943+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 555.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T00:00:54.821090+00:00",
-      "close": 560.42
-    },
     {
       "timestamp": "2026-08-23T01:55:13.096603+00:00",
       "close": 560.42
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 555.82
+    },
+    {
+      "timestamp": "2026-08-26T04:24:16.013943+00:00",
+      "close": 555.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T00:02:57+00:00",
+      "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T15:36:48+00:00",
       "title": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-25T11:00:00+00:00",
-      "title": "Drop In Crude Oil Prices Fuels Markets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:36:35+00:00",
-      "title": "The Entire AI Trade Hinges On One Number",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-25T11:02:58+00:00",
+      "title": "Easing Bond Yields, Oil Prices Lift Wall Street Pre-Bell; Asia, Europe Up",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
