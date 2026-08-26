@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:05:07.940470+00:00",
+  "generated_at": "2026-08-26T23:27:23.476309+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 313.45,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:45:11.382154+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-23T12:01:04.551135+00:00",
       "close": 309.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T20:05:07.940470+00:00",
       "close": 313.45
+    },
+    {
+      "timestamp": "2026-08-26T23:27:23.476309+00:00",
+      "close": 313.45
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-26T16:40:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T15:49:27+00:00",
+      "title": "BIGY: Delivering 12% Target Distribution Yield And Competitive Returns",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-26T12:18:33+00:00",
+      "title": "Apple To Hold Apple Event On Sept. 9",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-26T11:27:31+00:00",
       "title": "Apple: The Winter Is Coming",
       "source": "SeekingAlpha",
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T08:00:00+00:00",
-      "title": "SCHD And STK: A 3%+ Income Barbell",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T07:00:53+00:00",
-      "title": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T05:49:38+00:00",
-      "title": "iPhone Buyers Rush in Before Potential Apple Price Increases",
+      "timestamp": "2026-08-26T10:50:53+00:00",
+      "title": "Nvidia Stock: 84% of Benzinga Viewers Have Owned It. Here’s How Many Still Do.",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

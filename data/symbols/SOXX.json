@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:05:07.940470+00:00",
+  "generated_at": "2026-08-26T23:27:23.476309+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 515.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:45:11.382154+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T12:01:04.551135+00:00",
       "close": 520.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T20:05:07.940470+00:00",
       "close": 515.4
+    },
+    {
+      "timestamp": "2026-08-26T23:27:23.476309+00:00",
+      "close": 515.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T17:26:02+00:00",
+      "title": "The AI CapEx Trifecta: Grid, Gear, And Local Pushback",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T14:24:45+00:00",
       "title": "Nvidia Earnings Meets Jackson Hole: 2 ETF Trades for an AI Boom Facing Higher Rates",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T11:00:00+00:00",
       "title": "Drop In Crude Oil Prices Fuels Markets",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:13:47+00:00",
-      "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

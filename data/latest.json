@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:05:07.940470+00:00",
+  "generated_at": "2026-08-26T23:27:23.476309+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 209.66,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:45:11.382154+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-23T12:01:04.551135+00:00",
       "close": 214.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T20:05:07.940470+00:00",
       "close": 209.66
+    },
+    {
+      "timestamp": "2026-08-26T23:27:23.476309+00:00",
+      "close": 209.66
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-26T19:10:06+00:00",
       "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T18:50:24+00:00",
+      "title": "Nvidia Q2: The $10 Trillion Thesis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T18:30:29+00:00",
+      "title": "Nvidia Q2 FY27: I'm Buying This Weakness",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T18:10:38+00:00",
+      "title": "Nvidia: Compressing Multiples And A $260 Technical Target",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T16:40:05+00:00",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T14:37:44+00:00",
-      "title": "SoftBank: A Discounted Bet On The Entire AI Stack",
+      "timestamp": "2026-08-26T17:50:42+00:00",
+      "title": "Nvidia: It's Time To Turn Greedy (Rating Upgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T14:24:45+00:00",
-      "title": "Nvidia Earnings Meets Jackson Hole: 2 ETF Trades for an AI Boom Facing Higher Rates",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:56:01+00:00",
-      "title": "AI Bubble Alert: The Rubber Hits The Road In 2027",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:23:00+00:00",
-      "title": "Broadcom Is The New Nvidia, And That's The Problem",
+      "timestamp": "2026-08-26T17:30:49+00:00",
+      "title": "Nvidia Q2: Results Keep Impressing",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
