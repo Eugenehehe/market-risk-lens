@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T13:10:49.813222+00:00",
+  "generated_at": "2026-08-26T14:04:08.819297+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 261.06,
-    "change_pct": -0.38539321555309813
+    "price": 260.98,
+    "change_pct": -0.030644296330339937
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:46:00.160188+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-23T10:03:12.072890+00:00",
       "close": 258.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T13:10:49.813222+00:00",
       "close": 261.06
+    },
+    {
+      "timestamp": "2026-08-26T14:04:08.819297+00:00",
+      "close": 260.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T09:21:15+00:00",
+      "title": "SpaceX: Explosive Growth Still Can't Justify This Stock Price",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T08:15:00+00:00",
       "title": "Why Amazon's Earnings Matter For Nvidia's Outlook",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T17:24:35+00:00",
       "title": "Broadcom: Moving Big Into Vendor Financing",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T16:40:06+00:00",
-      "title": "Top dow jones movers in Tuesday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

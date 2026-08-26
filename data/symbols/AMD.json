@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-26T13:10:49.813222+00:00",
+  "generated_at": "2026-08-26T14:04:08.819297+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 479.18,
-    "change_pct": 4.9119311650921205
+    "price": 487.97,
+    "change_pct": 1.8343837388872686
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:46:00.160188+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T10:03:12.072890+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T13:10:49.813222+00:00",
       "close": 479.18
+    },
+    {
+      "timestamp": "2026-08-26T14:04:08.819297+00:00",
+      "close": 487.97
     }
   ],
   "events": [

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T13:10:49.813222+00:00",
+  "generated_at": "2026-08-26T14:04:08.819297+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 213.05,
-    "change_pct": 2.1920567920184375
+    "price": 212.18,
+    "change_pct": -0.40835484628022334
   },
   "risk": {
-    "score": 68,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:46:00.160188+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-23T10:03:12.072890+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T13:10:49.813222+00:00",
       "close": 213.05
+    },
+    {
+      "timestamp": "2026-08-26T14:04:08.819297+00:00",
+      "close": 212.18
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T09:21:15+00:00",
+      "title": "SpaceX: Explosive Growth Still Can't Justify This Stock Price",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T08:15:00+00:00",
       "title": "Why Amazon's Earnings Matter For Nvidia's Outlook",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-26T03:48:00+00:00",
       "title": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T19:10:07+00:00",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

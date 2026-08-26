@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T13:10:49.813222+00:00",
+  "generated_at": "2026-08-26T14:04:08.819297+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 570.05,
-    "change_pct": 1.9730957747486677
+    "price": 574.79,
+    "change_pct": 0.8315060082448866
   },
   "risk": {
-    "score": 66,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:46:00.160188+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-23T10:03:12.072890+00:00",
       "close": 549.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T13:10:49.813222+00:00",
       "close": 570.05
+    },
+    {
+      "timestamp": "2026-08-26T14:04:08.819297+00:00",
+      "close": 574.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T08:58:16+00:00",
+      "title": "Meta: Rent Out That Compute, Zuck",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T06:30:00+00:00",
       "title": "Big Tech Off-Balance Sheet Concerns",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T09:25:53+00:00",
       "title": "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:09:24+00:00",
-      "title": "Meta Platforms Rolls Out New Account Security Features For WhatsApp; Upgrades Two-Step Security Verification To Full Password",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
