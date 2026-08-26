@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:24:16.013943+00:00",
+  "generated_at": "2026-08-26T05:04:44.656777+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 765.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T01:55:13.096603+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-23T03:02:26.962790+00:00",
       "close": 765.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T04:24:16.013943+00:00",
       "close": 765.91
+    },
+    {
+      "timestamp": "2026-08-26T05:04:44.656777+00:00",
+      "close": 765.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T00:40:00+00:00",
+      "title": "PCE Price Index Preview And EUR/USD Technical Analysis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T17:35:00+00:00",
       "title": "Don't Sleep On Software",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T15:07:46+00:00",
       "title": "U.S Federal Communications Commission Commissioner Anna M. Gomez Announces Joint Fundraising Committees, Party Committees Can Purchase Advertising TV Air Time At Discount Previously Allowed Only For Candidates",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:10:00+00:00",
-      "title": "America Can't Outgrow $40 Trillion In Debt",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
