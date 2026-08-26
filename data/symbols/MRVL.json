@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:55:33.451444+00:00",
+  "generated_at": "2026-08-26T01:21:31.997658+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 240.38,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-22T22:56:56.296691+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-22T23:25:23.142814+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 240.38
+    },
+    {
+      "timestamp": "2026-08-26T01:21:31.997658+00:00",
+      "close": 240.38
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-25T19:05:01+00:00",
       "title": "Top S&P500 movers in Tuesday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-25T19:00:41+00:00",
+      "title": "Here's How Much $100 Invested In Marvell Technology 10 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T13:00:56+00:00",
       "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T12:35:01+00:00",
-      "title": "Which S&P500 stocks are moving before the opening bell on Tuesday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
