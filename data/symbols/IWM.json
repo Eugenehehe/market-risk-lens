@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T14:04:08.819297+00:00",
+  "generated_at": "2026-08-26T14:57:53.586752+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 299.85,
-    "change_pct": 0.2071984760886325
+    "price": 298.68,
+    "change_pct": -0.1838050997560403
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:03:12.072890+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-23T10:35:43.150646+00:00",
       "close": 299.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T14:04:08.819297+00:00",
       "close": 299.85
+    },
+    {
+      "timestamp": "2026-08-26T14:57:53.586752+00:00",
+      "close": 298.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T09:55:00+00:00",
+      "title": "Warsh's Jackson Hole Silence May Push Long-Term Rates Much Higher",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T08:55:22+00:00",
       "title": "Climbing A Wall Of Worry For All The Right Reasons",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T13:00:56+00:00",
       "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:59:51+00:00",
-      "title": "Forget Iran; Bessent Gave Us 1 Trillion Reasons To Buy",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

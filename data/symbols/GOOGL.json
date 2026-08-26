@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:04:08.819297+00:00",
+  "generated_at": "2026-08-26T14:57:53.586752+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.51,
-    "change_pct": -0.9943509338252166
+    "price": 342.86,
+    "change_pct": -1.181692414111124
   },
   "risk": {
-    "score": 58,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:03:12.072890+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T10:35:43.150646+00:00",
       "close": 344.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T14:04:08.819297+00:00",
       "close": 343.51
+    },
+    {
+      "timestamp": "2026-08-26T14:57:53.586752+00:00",
+      "close": 342.86
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-26T00:27:47+00:00",
+      "title": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a Sickness'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T20:55:03+00:00",
       "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T17:35:00+00:00",
       "title": "Don't Sleep On Software",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T17:24:35+00:00",
-      "title": "Broadcom: Moving Big Into Vendor Financing",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

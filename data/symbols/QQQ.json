@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:04:08.819297+00:00",
+  "generated_at": "2026-08-26T14:57:53.586752+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 711.74,
-    "change_pct": 0.14351643403871517
+    "price": 710.32,
+    "change_pct": -0.056280954524989824
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:03:12.072890+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-23T10:35:43.150646+00:00",
       "close": 713.44
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T14:04:08.819297+00:00",
       "close": 711.74
+    },
+    {
+      "timestamp": "2026-08-26T14:57:53.586752+00:00",
+      "close": 710.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T09:55:00+00:00",
+      "title": "Warsh's Jackson Hole Silence May Push Long-Term Rates Much Higher",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T08:55:22+00:00",
       "title": "Climbing A Wall Of Worry For All The Right Reasons",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-26T05:30:12+00:00",
+      "title": "Stock Market Today: Dow Jones Futures Rise, S&P 500 Slips Ahead of NVDA Q2 as Core PCE Comes in at 3.3% — Zoom, Intuit, Datavault AI in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-26T03:53:53+00:00",
       "title": "The Deep Unknowns Of AI",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T01:05:36+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-25T15:36:48+00:00",
       "title": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:10:00+00:00",
-      "title": "America Can't Outgrow $40 Trillion In Debt",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:07:04+00:00",
-      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:06:25+00:00",
-      "title": "Nvidia, Blackwell and AI Spending: 4 ETFs in Focus Ahead of Earnings",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

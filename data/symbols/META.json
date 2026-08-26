@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:04:08.819297+00:00",
+  "generated_at": "2026-08-26T14:57:53.586752+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 574.79,
-    "change_pct": 0.8315060082448866
+    "price": 583,
+    "change_pct": 2.271730549951756
   },
   "risk": {
-    "score": 57,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:03:12.072890+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-23T10:35:43.150646+00:00",
       "close": 549.9
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T14:04:08.819297+00:00",
       "close": 574.79
+    },
+    {
+      "timestamp": "2026-08-26T14:57:53.586752+00:00",
+      "close": 583
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-25T15:26:48+00:00",
+      "title": "Evercore: META Could Surge Over 50% on $22B AI Opportunity",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T14:07:04+00:00",
       "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
       "source": "Benzinga",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T12:00:00+00:00",
       "title": "AMD: The Easy Money Is Gone",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:25:53+00:00",
-      "title": "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

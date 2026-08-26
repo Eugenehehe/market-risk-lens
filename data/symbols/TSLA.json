@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:04:08.819297+00:00",
+  "generated_at": "2026-08-26T14:57:53.586752+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 348.63,
-    "change_pct": -0.4625267665952948
+    "price": 343.4,
+    "change_pct": -1.9557458957887297
   },
   "risk": {
-    "score": 54,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:03:12.072890+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T10:35:43.150646+00:00",
       "close": 362.86
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T14:04:08.819297+00:00",
       "close": 348.63
+    },
+    {
+      "timestamp": "2026-08-26T14:57:53.586752+00:00",
+      "close": 343.4
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-26T03:48:00+00:00",
       "title": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T00:27:47+00:00",
+      "title": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a Sickness'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T11:44:08+00:00",
       "title": "BYD Company: Strong Export Growth Underpins Value",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:02:00+00:00",
-      "title": "Humanoid Robots Could Match Humans Within 5 Years, RoboStrategy CEO Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
