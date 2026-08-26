@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T18:12:43.935453+00:00",
+  "generated_at": "2026-08-26T20:05:07.940470+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 259.08,
-    "change_pct": -0.758446334176055
+    "price": 260.28,
+    "change_pct": -0.2987818892208782
   },
   "risk": {
-    "score": 57,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:24:30.092222+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-23T11:45:11.382154+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 259.08
+    },
+    {
+      "timestamp": "2026-08-26T20:05:07.940470+00:00",
+      "close": 260.28
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-26T16:40:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T15:42:33+00:00",
+      "title": "Amazon: Proven Capital Allocation At A Good Price",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,48 +530,40 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-26T13:20:32+00:00",
+      "title": "'Nscale Will Use NVIDIA's Vera Rubin Chips, Which Will Start To Come Online Late Next Year, To Meet Anthropic’s Needs' - Bloomberg News",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:14:30+00:00",
+      "title": "'Anthropic to Pay Nscale $45 Billion for AI Computing Power' - Bloomberg",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T12:56:49+00:00",
+      "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T12:49:52+00:00",
+      "title": "Microsoft, Amazon, Google Court Kimi K3 Maker Despite Bessent Blacklist Threat",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-26T12:26:03+00:00",
       "title": "The Government Took Equity In Quantum Stocks, So Should We",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:58:40+00:00",
-      "title": "ASC 842 Is About To Drop A Bomb On AI Hype",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:50:13+00:00",
-      "title": "Amazon's Anthropic Stake Just Bought It Something Credit Markets Couldn't",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:20:00+00:00",
-      "title": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:19:11+00:00",
-      "title": "Alibaba: Buy The AI Spending Panic After Q2",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T09:21:15+00:00",
-      "title": "SpaceX: Explosive Growth Still Can't Justify This Stock Price",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

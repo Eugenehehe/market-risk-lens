@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T18:12:43.935453+00:00",
+  "generated_at": "2026-08-26T20:05:07.940470+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 243.45,
-    "change_pct": 1.2771445211748
+    "price": 245.11,
+    "change_pct": 1.9677177801813883
   },
   "risk": {
-    "score": 61,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:24:30.092222+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-23T11:45:11.382154+00:00",
       "close": 237.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 243.45
+    },
+    {
+      "timestamp": "2026-08-26T20:05:07.940470+00:00",
+      "close": 245.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T13:59:16+00:00",
+      "title": "Marvell Technology, Inc. (MRVL) Presents at The Six Five Summit: AI Unleashed 2026 Transcript",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T13:23:00+00:00",
       "title": "Broadcom Is The New Nvidia, And That's The Problem",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T17:35:00+00:00",
       "title": "Don't Sleep On Software",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T17:24:35+00:00",
-      "title": "Broadcom: Moving Big Into Vendor Financing",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

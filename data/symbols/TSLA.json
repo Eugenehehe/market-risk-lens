@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T18:12:43.935453+00:00",
+  "generated_at": "2026-08-26T20:05:07.940470+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 345.32,
-    "change_pct": -1.4075660242683807
+    "price": 345.82,
+    "change_pct": -1.2648108493932941
   },
   "risk": {
-    "score": 62,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:24:30.092222+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T11:45:11.382154+00:00",
       "close": 362.86
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 345.32
+    },
+    {
+      "timestamp": "2026-08-26T20:05:07.940470+00:00",
+      "close": 345.82
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-26T18:05:01+00:00",
+      "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-26T13:40:30+00:00",
       "title": "Tesla: Potential Merger Has Some Upside, But I'm Still Bearish (Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T12:56:49+00:00",
+      "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-26T00:21:18+00:00",
+      "title": "Elon Musk Says 1 Million Optimus Robots, 1 GW of Solar Could Drive Galaxy-Wide Expansion As SpaceX's Starbase Louisiana Targets First Launch in 2029",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-25T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Tuesday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:07:04+00:00",
-      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:35:17+00:00",
-      "title": "10 Consumer Discretionary Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T12:02:59+00:00",
-      "title": "Einhorn Vs. Musk: Hedge Fund Manager Says SpaceX IPO Was ‘Meme-ification of the Market’",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

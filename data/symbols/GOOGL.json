@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T18:12:43.935453+00:00",
+  "generated_at": "2026-08-26T20:05:07.940470+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 341.66,
-    "change_pct": -1.5275536084851105
+    "price": 342,
+    "change_pct": -1.429559603412489
   },
   "risk": {
-    "score": 63,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:24:30.092222+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T11:45:11.382154+00:00",
       "close": 344.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 341.66
+    },
+    {
+      "timestamp": "2026-08-26T20:05:07.940470+00:00",
+      "close": 342
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T19:10:06+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T16:40:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
@@ -514,56 +522,48 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T13:23:00+00:00",
-      "title": "Broadcom Is The New Nvidia, And That's The Problem",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T12:26:03+00:00",
-      "title": "The Government Took Equity In Quantum Stocks, So Should We",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T12:00:01+00:00",
-      "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:57:40+00:00",
-      "title": "3% Real Yields Are Changing How Retirees Should Invest",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:20:00+00:00",
-      "title": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:01:23+00:00",
-      "title": "Ohio Rep. Michael Rulli Sold Up to $100K Worth of Alphabet Stock",
+      "timestamp": "2026-08-26T15:16:14+00:00",
+      "title": "Banks Fought Stablecoins For Years, JPMorgan Now Evaluates Its Own: 'We Would Evaluate All Options'",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T10:05:56+00:00",
-      "title": "Anthropic's $30 Trillion And The Artificial Intelligence Bubble That Never Was",
+      "timestamp": "2026-08-26T13:55:13+00:00",
+      "title": "Urban Outfitters Earnings Prediction Market Preview: Will $100M Tariff Refund Steal the Show?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:51:23+00:00",
+      "title": "Alphabet Stock Dips Wednesday as Investors Weigh AI Spending Against Cloud Growth",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:46:30+00:00",
+      "title": "What Is Going on With Meta Platforms Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:36:02+00:00",
+      "title": "Google Selects 28 AI Energy Startups For Accelerator In North America And Europe; 2026 Accelerator Cohort To Use AI For Energy Efficiency And Grid Modernizatio",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:23:00+00:00",
+      "title": "Broadcom Is The New Nvidia, And That's The Problem",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

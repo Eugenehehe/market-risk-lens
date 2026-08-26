@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T18:12:43.935453+00:00",
+  "generated_at": "2026-08-26T20:05:07.940470+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 494.4,
-    "change_pct": 0.5470704276911098
+    "price": 496.165,
+    "change_pct": 0.9060218421427457
   },
   "risk": {
-    "score": 55,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T11:24:30.092222+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-23T11:45:11.382154+00:00",
       "close": 483.24
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 494.4
+    },
+    {
+      "timestamp": "2026-08-26T20:05:07.940470+00:00",
+      "close": 496.165
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-26T19:10:06+00:00",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-26T16:40:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:35:18+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T12:56:49+00:00",
+      "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T12:49:52+00:00",
+      "title": "Microsoft, Amazon, Google Court Kimi K3 Maker Despite Bessent Blacklist Threat",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-26T11:58:40+00:00",
       "title": "ASC 842 Is About To Drop A Bomb On AI Hype",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:57:40+00:00",
-      "title": "3% Real Yields Are Changing How Retirees Should Invest",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T10:22:13+00:00",
-      "title": "Microsoft's AI Capacity Is Selling - But Cash Conversion Is Lagging",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T09:12:37+00:00",
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T09:11:16+00:00",
-      "title": "Goldman Sachs Executive Sounds The Alarm, Warns AI Could Cause 'Cognitive Atrophy' on Wall Street: 'There’s a Huge Danger Here'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
