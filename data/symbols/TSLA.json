@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T16:23:59.702185+00:00",
+  "generated_at": "2026-08-26T18:12:43.935453+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 343.85,
-    "change_pct": -1.8272662384011373
+    "price": 345.32,
+    "change_pct": -1.4075660242683807
   },
   "risk": {
-    "score": 65,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:56:49.782475+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T11:24:30.092222+00:00",
       "close": 362.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T16:23:59.702185+00:00",
       "close": 343.85
+    },
+    {
+      "timestamp": "2026-08-26T18:12:43.935453+00:00",
+      "close": 345.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T13:40:30+00:00",
+      "title": "Tesla: Potential Merger Has Some Upside, But I'm Still Bearish (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T08:00:00+00:00",
       "title": "ROBO: For Diversified Exposure In Robotics At Reasonable Valuations",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T12:02:59+00:00",
       "title": "Einhorn Vs. Musk: Hedge Fund Manager Says SpaceX IPO Was ‘Meme-ification of the Market’",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:44:08+00:00",
-      "title": "BYD Company: Strong Export Growth Underpins Value",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

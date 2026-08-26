@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T16:23:59.702185+00:00",
+  "generated_at": "2026-08-26T18:12:43.935453+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 553.57,
-    "change_pct": -0.4048073117196238
+    "price": 555.35,
+    "change_pct": -0.08455974955920986
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:56:49.782475+00:00",
-      "close": 560.42
-    },
     {
       "timestamp": "2026-08-23T11:24:30.092222+00:00",
       "close": 560.42
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T16:23:59.702185+00:00",
       "close": 553.57
+    },
+    {
+      "timestamp": "2026-08-26T18:12:43.935453+00:00",
+      "close": 555.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T12:26:03+00:00",
+      "title": "The Government Took Equity In Quantum Stocks, So Should We",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T11:58:21+00:00",
       "title": "Nvidia Earnings: Top AI Stocks And What We Need To See For A Rally",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T13:49:23+00:00",
       "title": "Cheapest AI Infrastructure Play Left: Crypto Miners Converting To AI Data Centers",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:00:56+00:00",
-      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

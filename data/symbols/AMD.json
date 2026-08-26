@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T16:23:59.702185+00:00",
+  "generated_at": "2026-08-26T18:12:43.935453+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 483.08,
-    "change_pct": 0.8138903960933197
+    "price": 481.51,
+    "change_pct": 0.48624733920448193
   },
   "risk": {
-    "score": 57,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:56:49.782475+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T11:24:30.092222+00:00",
       "close": 473.25
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-26T16:23:59.702185+00:00",
       "close": 483.08
+    },
+    {
+      "timestamp": "2026-08-26T18:12:43.935453+00:00",
+      "close": 481.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T12:00:01+00:00",
+      "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T11:34:36+00:00",
+      "title": "This SolarEdge Analyst Turns Bullish; Here Are Top 2 Upgrades For Wednesday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T10:59:07+00:00",
+      "title": "What Is Going On With AMD Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T07:00:53+00:00",
       "title": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-25T16:39:50+00:00",
       "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T16:35:01+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T15:32:48+00:00",
-      "title": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T15:21:03+00:00",
-      "title": "'OpenAI’s Head of Data Centers Has Left Company' - Wall Street Journal",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
