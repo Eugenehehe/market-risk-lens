@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:02:09.177382+00:00",
+  "generated_at": "2026-08-26T13:10:49.813222+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 350.25,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:14:02.171094+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T09:46:00.160188+00:00",
       "close": 362.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T12:02:09.177382+00:00",
       "close": 350.25
+    },
+    {
+      "timestamp": "2026-08-26T13:10:49.813222+00:00",
+      "close": 350.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T08:00:00+00:00",
+      "title": "ROBO: For Diversified Exposure In Robotics At Reasonable Valuations",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T03:48:00+00:00",
       "title": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T11:02:00+00:00",
       "title": "Humanoid Robots Could Match Humans Within 5 Years, RoboStrategy CEO Says",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:47:11+00:00",
-      "title": "EXCLUSIVE: Tesla's Biggest Robotics Advantage Isn't AI, RoboStrategy CEO Says",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

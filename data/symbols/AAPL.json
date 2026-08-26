@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:02:09.177382+00:00",
+  "generated_at": "2026-08-26T13:10:49.813222+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 309.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:14:02.171094+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-23T09:46:00.160188+00:00",
       "close": 309.35
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T12:02:09.177382+00:00",
       "close": 309.9
+    },
+    {
+      "timestamp": "2026-08-26T13:10:49.813222+00:00",
+      "close": 309.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T08:00:00+00:00",
+      "title": "SCHD And STK: A 3%+ Income Barbell",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T07:00:53+00:00",
       "title": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-25T09:00:01+00:00",
       "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T08:47:57+00:00",
-      "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

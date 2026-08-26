@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:02:09.177382+00:00",
+  "generated_at": "2026-08-26T13:10:49.813222+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 765.91,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T09:14:02.171094+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-23T09:46:00.160188+00:00",
       "close": 765.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T12:02:09.177382+00:00",
       "close": 765.91
+    },
+    {
+      "timestamp": "2026-08-26T13:10:49.813222+00:00",
+      "close": 765.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T08:55:22+00:00",
+      "title": "Climbing A Wall Of Worry For All The Right Reasons",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T07:02:48+00:00",
       "title": "Fueling Retirement: A 3-Engine Blueprint For Income Without K-1s",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T16:06:22+00:00",
       "title": "Wintermute: Bitcoin, XRP, Gold Benefited From 'Debasement Board' Last Week",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T15:40:52+00:00",
-      "title": "FDA Approves Drug To Treat HIV Infection in Newborns",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
