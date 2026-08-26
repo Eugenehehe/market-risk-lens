@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:57:53.586752+00:00",
+  "generated_at": "2026-08-26T16:23:59.702185+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 298.68,
-    "change_pct": -0.1838050997560403
+    "price": 298.48,
+    "change_pct": -0.25064331784914184
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:35:43.150646+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-23T10:56:49.782475+00:00",
       "close": 299.96
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-08-26T14:57:53.586752+00:00",
       "close": 298.68
+    },
+    {
+      "timestamp": "2026-08-26T16:23:59.702185+00:00",
+      "close": 298.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T12:00:00+00:00",
+      "title": "U.S. Spending Stalls As Inflation Makes Slow Progress Towards Target",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T11:35:00+00:00",
+      "title": "U.S. Midterms: Policy Implications Matter More Than Political Outcomes",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T11:05:01+00:00",
+      "title": "The Death Of The Dollar",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T10:38:11+00:00",
+      "title": "Scott Bessent Hasn't Crashed The Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T10:35:00+00:00",
+      "title": "Business Conditions Monthly June 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T10:05:56+00:00",
+      "title": "Anthropic's $30 Trillion And The Artificial Intelligence Bubble That Never Was",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T09:55:00+00:00",
       "title": "Warsh's Jackson Hole Silence May Push Long-Term Rates Much Higher",
@@ -517,54 +565,6 @@
       "timestamp": "2026-08-26T08:55:22+00:00",
       "title": "Climbing A Wall Of Worry For All The Right Reasons",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T03:53:53+00:00",
-      "title": "The Deep Unknowns Of AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T00:40:00+00:00",
-      "title": "PCE Price Index Preview And EUR/USD Technical Analysis",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T15:36:48+00:00",
-      "title": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:10:00+00:00",
-      "title": "America Can't Outgrow $40 Trillion In Debt",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:23:35+00:00",
-      "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:00:56+00:00",
-      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

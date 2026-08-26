@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:57:53.586752+00:00",
+  "generated_at": "2026-08-26T16:23:59.702185+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 936.54,
-    "change_pct": 0.3826489597736238
+    "price": 938.85,
+    "change_pct": 0.6302453455095058
   },
   "risk": {
-    "score": 54,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:35:43.150646+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-23T10:56:49.782475+00:00",
       "close": 966.78
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-26T14:57:53.586752+00:00",
       "close": 936.54
+    },
+    {
+      "timestamp": "2026-08-26T16:23:59.702185+00:00",
+      "close": 938.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T11:58:21+00:00",
+      "title": "Nvidia Earnings: Top AI Stocks And What We Need To See For A Rally",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T11:20:00+00:00",
+      "title": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-25T20:55:03+00:00",
       "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q2 2026 Update",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-25T13:23:35+00:00",
       "title": "S&P 500 Earnings Growth Overstated And Bifurcated",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T13:00:56+00:00",
-      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T10:13:47+00:00",
-      "title": "'OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests' - Bloomberg",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

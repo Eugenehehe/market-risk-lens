@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T14:57:53.586752+00:00",
+  "generated_at": "2026-08-26T16:23:59.702185+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 312.75,
-    "change_pct": 0.9196515004840311
+    "price": 313.28,
+    "change_pct": 1.0906744111003563
   },
   "risk": {
-    "score": 58,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T10:35:43.150646+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-23T10:56:49.782475+00:00",
       "close": 309.35
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-26T14:57:53.586752+00:00",
       "close": 312.75
+    },
+    {
+      "timestamp": "2026-08-26T16:23:59.702185+00:00",
+      "close": 313.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-26T11:27:31+00:00",
+      "title": "Apple: The Winter Is Coming",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T08:00:00+00:00",
       "title": "SCHD And STK: A 3%+ Income Barbell",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-25T14:07:04+00:00",
       "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T09:03:21+00:00",
-      "title": "Apple Introduces The M5 Ultra, Its Most Powerful Chip Ever, And M6, Its First 2nm Chip",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
