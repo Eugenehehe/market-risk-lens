@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:27:23.476309+00:00",
+  "generated_at": "2026-08-27T04:39:38.733594+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 345.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:01:04.551135+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T12:57:04.820115+00:00",
       "close": 362.86
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T23:27:23.476309+00:00",
       "close": 345.82
+    },
+    {
+      "timestamp": "2026-08-27T04:39:38.733594+00:00",
+      "close": 345.82
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-08-26T13:40:30+00:00",
       "title": "Tesla: Potential Merger Has Some Upside, But I'm Still Bearish (Upgrade)",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T13:13:07+00:00",
+      "title": "Reported Earlier: 'Japan's Terra Charge To Roll Out Tesla-Compatible EV Charging Stations; Service Provider To Build Up Network Of 2,500 NACS Chargers By Fiscal 2033' - Nikkei",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T05:21:00+00:00",
-      "title": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
+      "timestamp": "2026-08-26T06:33:35+00:00",
+      "title": "Elon Musk Teases Tesla Vehicle 'Way Cooler Than a Minivan'—Is the Robovan Finally Coming?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-26T03:48:00+00:00",
-      "title": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T00:27:47+00:00",
-      "title": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a Sickness'",
+      "timestamp": "2026-08-26T05:21:00+00:00",
+      "title": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

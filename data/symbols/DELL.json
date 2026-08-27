@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T23:27:23.476309+00:00",
+  "generated_at": "2026-08-27T04:39:38.733594+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 463.82,
     "change_pct": 2.728682170542629
   },
   "risk": {
-    "score": 70,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:01:04.551135+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T12:57:04.820115+00:00",
       "close": 442.08
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-26T23:27:23.476309+00:00",
       "close": 463.82
+    },
+    {
+      "timestamp": "2026-08-27T04:39:38.733594+00:00",
+      "close": 463.82
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-26T19:05:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T14:00:30+00:00",
+      "title": "Dell Stock Climbs After UBS Raises Target",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-26T08:55:15+00:00",
+      "title": "UBS Maintains Neutral on Dell Technologies, Raises Price Target to $455",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,14 +565,6 @@
       "timestamp": "2026-08-25T05:05:00+00:00",
       "title": "ValuEngine Weekly Market Summary And Commentary",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-24T11:38:28+00:00",
-      "title": "Morgan Stanley Maintains Equal-Weight on Dell Technologies, Raises Price Target to $434",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
