@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 576.14,
-    "change_pct": 1.0683273397070536
+    "price": 570.76,
+    "change_pct": -0.9338008123025654
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 549.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 576.14
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 570.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T06:58:47+00:00",
+      "title": "Reported Earlier, Trump Administration Weighing New Round Of Sweeping Tariffs On Semiconductors - Politico Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T21:53:04+00:00",
       "title": "Tracking Ruane, Cunniff, & Goldfarb's Portfolio - Q2 2026 Update",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-26T13:25:00+00:00",
       "title": "Wall Street Lunch: Meta Settles Minors' Addiction, Data Privacy Claims For $12.7B",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:23:00+00:00",
-      "title": "Broadcom Is The New Nvidia, And That's The Problem",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 345.82,
-    "change_pct": -1.2648108493932941
+    "price": 352.28,
+    "change_pct": 1.8680238274246586
   },
   "risk": {
-    "score": 61,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 362.86
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 345.82
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 352.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T09:08:09+00:00",
+      "title": "Would You Let Elon Musk’s Grok Bot Control Your Bank Account? Elon Musk Says He’ll Cover You If the AI Messes Up (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T03:10:00+00:00",
+      "title": "How Investors Can Participate In AI",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T18:05:01+00:00",
       "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-26T08:00:00+00:00",
       "title": "ROBO: For Diversified Exposure In Robotics At Reasonable Valuations",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T06:33:35+00:00",
-      "title": "Elon Musk Teases Tesla Vehicle 'Way Cooler Than a Minivan'—Is the Robovan Finally Coming?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T05:21:00+00:00",
-      "title": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

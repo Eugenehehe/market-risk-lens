@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 313.45,
-    "change_pct": 1.1455308163923927
+    "price": 314.46,
+    "change_pct": 0.32222044983249987
   },
   "risk": {
-    "score": 60,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 309.35
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 313.45
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 314.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T06:58:47+00:00",
+      "title": "Reported Earlier, Trump Administration Weighing New Round Of Sweeping Tariffs On Semiconductors - Politico Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T00:24:30+00:00",
+      "title": "Nvidia Revenue Set to Increase 18X in 4 Years; Analyst Says 'Never in History' Has a Company Grown This Fast",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T19:10:06+00:00",
       "title": "Explore the top gainers and losers within the dow jones index in today's session.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-26T12:18:33+00:00",
       "title": "Apple To Hold Apple Event On Sept. 9",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:27:31+00:00",
-      "title": "Apple: The Winter Is Coming",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T10:50:53+00:00",
-      "title": "Nvidia Stock: 84% of Benzinga Viewers Have Owned It. Here’s How Many Still Do.",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

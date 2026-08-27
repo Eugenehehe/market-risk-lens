@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 463.82,
-    "change_pct": 2.728682170542629
+    "price": 466.6,
+    "change_pct": 0.599370445431413
   },
   "risk": {
-    "score": 72,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 442.08
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 463.82
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 466.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T12:00:57+00:00",
+      "title": "Dell Technologies (NYSE:DELL) Clears Minervini Trend Template With High Growth Momentum",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T10:00:00+00:00",
+      "title": "Harbor Dividend Growth Leaders ETF Q2 2026 Portfolio Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T08:14:12+00:00",
+      "title": "Dell Beat Last Quarter's EPS Estimate by 65% — Can It Repeat That Next Time?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T19:05:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-25T16:39:50+00:00",
       "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T16:35:01+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:44:31+00:00",
-      "title": "What's Going On With Dell Technologies Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T05:05:00+00:00",
-      "title": "ValuEngine Weekly Market Summary And Commentary",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

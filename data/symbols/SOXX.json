@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 515.4,
-    "change_pct": 0.2606699607049734
+    "price": 522.03,
+    "change_pct": 1.2863795110593657
   },
   "risk": {
-    "score": 53,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 520.05
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 515.4
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 522.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T10:27:54+00:00",
+      "title": "KSTR: Exposure To China's Chips And Potential Diversifier For SOXX",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T09:33:37+00:00",
+      "title": "What's Going On With Broadcom Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T06:58:47+00:00",
+      "title": "Reported Earlier, Trump Administration Weighing New Round Of Sweeping Tariffs On Semiconductors - Politico Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T00:30:00+00:00",
+      "title": "Technology's Slide Stops At Seven",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T17:26:02+00:00",
       "title": "The AI CapEx Trifecta: Grid, Gear, And Local Pushback",
@@ -533,38 +565,6 @@
       "timestamp": "2026-08-26T03:19:24+00:00",
       "title": "Warren Buffett-Style Cash Flow Stocks Could Face Heavy Downside in OpenAI Era, Warns Dwarkesh Patel",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T15:36:48+00:00",
-      "title": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T15:32:48+00:00",
-      "title": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T14:06:25+00:00",
-      "title": "Nvidia, Blackwell and AI Spending: 4 ETFs in Focus Ahead of Earnings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-25T11:00:00+00:00",
-      "title": "Drop In Crude Oil Prices Fuels Markets",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

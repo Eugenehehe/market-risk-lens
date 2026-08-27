@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 496.37,
-    "change_pct": 0.9477130829147251
+    "price": 499.98,
+    "change_pct": 0.7272800531861412
   },
   "risk": {
-    "score": 58,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 483.24
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 496.37
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 499.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T06:58:47+00:00",
+      "title": "Reported Earlier, Trump Administration Weighing New Round Of Sweeping Tariffs On Semiconductors - Politico Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T06:16:45+00:00",
+      "title": "AI Arms Race Fuels More Cyberattacks — and More Spending, CrowdStrike Says",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T19:10:06+00:00",
       "title": "Explore the top gainers and losers within the dow jones index in today's session.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-26T13:35:18+00:00",
       "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T12:56:49+00:00",
-      "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T12:49:52+00:00",
-      "title": "Microsoft, Amazon, Google Court Kimi K3 Maker Despite Bessent Blacklist Threat",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

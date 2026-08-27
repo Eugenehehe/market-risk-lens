@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-27T04:39:38.733594+00:00",
+  "generated_at": "2026-08-27T15:31:34.983263+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 355.59,
-    "change_pct": -0.32236362617033
+    "price": 368.99,
+    "change_pct": 3.7683849377091683
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T12:57:04.820115+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-23T13:35:45.599370+00:00",
       "close": 368.45
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 355.59
+    },
+    {
+      "timestamp": "2026-08-27T15:31:34.983263+00:00",
+      "close": 368.99
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-27T11:00:14+00:00",
+      "title": "Nvidia Beats Again - But Cash Flow Must Keep Up With Blackwell's Growth",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T10:00:00+00:00",
+      "title": "Harbor Dividend Growth Leaders ETF Q2 2026 Portfolio Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T09:33:37+00:00",
+      "title": "What's Going On With Broadcom Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T09:01:10+00:00",
+      "title": "Kyndryl Expands Partnership With Broadcom To Provide Consulting Services For VMware Cloud Foundation",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T05:31:57+00:00",
+      "title": "Nvidia Stock Climbs Over 7% in Thursday Pre-Market: What’s Lifting Micron, Intel and Other Chip Stocks?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T02:56:54+00:00",
+      "title": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T00:17:01+00:00",
+      "title": "CrowdStrike Posts Best Quarter Ever, but Cathie Wood's Ark Sells Shares Amid Cloudflare, Cerebras Buys",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-26T13:56:01+00:00",
       "title": "AI Bubble Alert: The Rubber Hits The Road In 2027",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:23:00+00:00",
-      "title": "Broadcom Is The New Nvidia, And That's The Problem",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:20:00+00:00",
-      "title": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T09:27:35+00:00",
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T09:00:59+00:00",
-      "title": "EXCLUSIVE: God Bless America ETF Exec Says Nvidia Wins No Matter Who Leads AI Race: 'Pioneers Die With Arrows in Their Backs'",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T08:59:45+00:00",
-      "title": "Broadcom Fell 12.6% on Its Last Beat — Can It Avoid a Repeat in September?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T08:53:06+00:00",
-      "title": "RBC Capital Reiterates Sector Perform on Broadcom, Maintains $400 Price Target",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T08:14:46+00:00",
-      "title": "Broadcom: Firing On All Fronts, But Is The Price Really Justified?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
