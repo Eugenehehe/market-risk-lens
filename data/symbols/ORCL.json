@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T15:31:34.983263+00:00",
+  "generated_at": "2026-08-28T00:34:33.882656+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 148.25,
-    "change_pct": -0.4164707462887107
+    "price": 151.94,
+    "change_pct": 2.0622019211392395
   },
   "risk": {
-    "score": 54,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T13:35:45.599370+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-23T13:57:55.410110+00:00",
       "close": 146.47
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 148.25
+    },
+    {
+      "timestamp": "2026-08-28T00:34:33.882656+00:00",
+      "close": 151.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T13:00:02+00:00",
+      "title": "Nvidia's Unusual Move Answers AI Trade’s Key Question; $40 Trillion US Debt Bomb Ticks; Key Fed Speech Awaited",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T12:47:06+00:00",
+      "title": "ETJ: Very High Tech Exposure Could Be A Risk",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T10:15:05+00:00",
+      "title": "Broadcom Expands Collaboration With Google Cloud, Cloud Network Insights  Now Enabled By Broadcom's AppNeta",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-26T16:19:15+00:00",
       "title": "Oracle Corporation (ORCL) Presents at Deutsche Bank 2026 Technology Conference Transcript",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-08-26T13:25:00+00:00",
       "title": "Wall Street Lunch: Meta Settles Minors' Addiction, Data Privacy Claims For $12.7B",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:23:00+00:00",
-      "title": "Broadcom Is The New Nvidia, And That's The Problem",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T12:41:58+00:00",
-      "title": "'We think it's a good opportunity': Citi's Tyler Radke on a bull case for Oracle",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:34:56+00:00",
-      "title": "Oracle: Why I Am Staying Strong After Q4 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-27T15:31:34.983263+00:00",
+  "generated_at": "2026-08-28T00:34:33.882656+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 568.51,
-    "change_pct": 2.292315166345782
+    "price": 573,
+    "change_pct": 3.1002033215179026
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T13:35:45.599370+00:00",
-      "close": 560.42
-    },
     {
       "timestamp": "2026-08-23T13:57:55.410110+00:00",
       "close": 560.42
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 568.51
+    },
+    {
+      "timestamp": "2026-08-28T00:34:33.882656+00:00",
+      "close": 573
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T13:25:23+00:00",
+      "title": "Nvidia's Best Day Since April 2025, Cybersecurity Stocks Go Vertical: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T12:23:44+00:00",
+      "title": "Nvidia's Halo Effect: Let's Look At How Much Of Today's Chip Rally Is Real",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T11:09:00+00:00",
+      "title": "Wall Street Lunch: Trump Administration Weighs Broader Semiconductor Tariffs",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T11:02:16+00:00",
+      "title": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T10:47:52+00:00",
+      "title": "Bitcoin ETFs Pull In $2.8B as Investors Rotate From AI Into the ‘Debasement Trade’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T06:34:52+00:00",
+      "title": "3 Paths That Could Push the S&P 500 up to 39%",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-27T00:30:00+00:00",
       "title": "Technology's Slide Stops At Seven",
@@ -517,54 +565,6 @@
       "timestamp": "2026-08-26T17:26:02+00:00",
       "title": "The AI CapEx Trifecta: Grid, Gear, And Local Pushback",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T14:24:45+00:00",
-      "title": "Nvidia Earnings Meets Jackson Hole: 2 ETF Trades for an AI Boom Facing Higher Rates",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T12:26:03+00:00",
-      "title": "The Government Took Equity In Quantum Stocks, So Should We",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T11:58:21+00:00",
-      "title": "Nvidia Earnings: Top AI Stocks And What We Need To See For A Rally",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T05:37:54+00:00",
-      "title": "What's Going On With Taiwan Semiconductor Stock Wednesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T03:25:54+00:00",
-      "title": "America's New Luddites Are Coming For The AI Data Center Boom",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T00:02:57+00:00",
-      "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

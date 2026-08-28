@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T15:31:34.983263+00:00",
+  "generated_at": "2026-08-28T00:34:33.882656+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 18.37,
-    "change_pct": -2.235231506120272
+    "price": 18.15,
+    "change_pct": -3.4060670569451834
   },
   "risk": {
-    "score": 54,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T13:35:45.599370+00:00",
-      "close": 19.4
-    },
     {
       "timestamp": "2026-08-23T13:57:55.410110+00:00",
       "close": 19.4
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 18.37
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-08-25T06:45:00+00:00",
-      "title": "Cross-Asset Volatilities Rise As Treasury Endeavors To Avert Yield Contagion",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-08-28T00:34:33.882656+00:00",
+      "close": 18.15
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

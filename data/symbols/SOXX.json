@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27T15:31:34.983263+00:00",
+  "generated_at": "2026-08-28T00:34:33.882656+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 522.03,
-    "change_pct": 1.2863795110593657
+    "price": 525.43,
+    "change_pct": 1.9460613116026426
   },
   "risk": {
-    "score": 61,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T13:35:45.599370+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T13:57:55.410110+00:00",
       "close": 520.05
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 522.03
+    },
+    {
+      "timestamp": "2026-08-28T00:34:33.882656+00:00",
+      "close": 525.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-27T12:23:44+00:00",
+      "title": "Nvidia's Halo Effect: Let's Look At How Much Of Today's Chip Rally Is Real",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T11:02:16+00:00",
+      "title": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-27T10:49:32+00:00",
+      "title": "Why Is AMD Stock Trending Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-27T10:27:54+00:00",
       "title": "KSTR: Exposure To China's Chips And Potential Diversifier For SOXX",
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-26T17:26:02+00:00",
       "title": "The AI CapEx Trifecta: Grid, Gear, And Local Pushback",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T14:24:45+00:00",
-      "title": "Nvidia Earnings Meets Jackson Hole: 2 ETF Trades for an AI Boom Facing Higher Rates",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T10:59:07+00:00",
-      "title": "What Is Going On With AMD Stock on Wednesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T03:19:24+00:00",
-      "title": "Warren Buffett-Style Cash Flow Stocks Could Face Heavy Downside in OpenAI Era, Warns Dwarkesh Patel",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

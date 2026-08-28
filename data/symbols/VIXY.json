@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-27T15:31:34.983263+00:00",
+  "generated_at": "2026-08-28T00:34:33.882656+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 17.56,
-    "change_pct": -1.5143017386427315
+    "price": 17.35,
+    "change_pct": -2.692091979809297
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T13:35:45.599370+00:00",
-      "close": 18.21
-    },
     {
       "timestamp": "2026-08-23T13:57:55.410110+00:00",
       "close": 18.21
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 17.56
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-08-25T06:45:00+00:00",
-      "title": "Cross-Asset Volatilities Rise As Treasury Endeavors To Avert Yield Contagion",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-08-28T00:34:33.882656+00:00",
+      "close": 17.35
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
