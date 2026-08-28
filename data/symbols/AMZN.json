@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T12:11:09.620314+00:00",
+  "generated_at": "2026-08-28T22:21:49.978842+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 256.26,
-    "change_pct": -1.5444905486399207
+    "price": 266.43,
+    "change_pct": 3.9686256146101773
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:30:11.865454+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-23T14:53:51.313668+00:00",
       "close": 258.63
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 256.26
+    },
+    {
+      "timestamp": "2026-08-28T22:21:49.978842+00:00",
+      "close": 266.43
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-28T01:57:58+00:00",
-      "title": "Nvidia Is Becoming The AI Nation-State",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T19:10:06+00:00",
-      "title": "Thursday's session: top gainers and losers in the dow jones index",
+      "timestamp": "2026-08-28T19:10:06+00:00",
+      "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T18:08:58+00:00",
-      "title": "Nvidia: The 'Coiled Spring' Poised To Jump",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T18:05:01+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
+      "timestamp": "2026-08-28T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T16:40:07+00:00",
-      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "timestamp": "2026-08-28T18:05:02+00:00",
+      "title": "Most active S&P500 stocks in Friday's session",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T14:17:53+00:00",
-      "title": "'Anthropic Considers Letting Shareholders Sell In IPO, Departing from SpaceX Playbook' - The Information",
-      "source": "Benzinga",
+      "timestamp": "2026-08-28T16:40:06+00:00",
+      "title": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T13:55:36+00:00",
-      "title": "AI Is Nearly The Only Thing Keeping The U.S. Economy Afloat",
+      "timestamp": "2026-08-28T16:35:01+00:00",
+      "title": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T15:00:15+00:00",
+      "title": "SentinelOne: Stay On The Sidelines",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T13:34:18+00:00",
-      "title": "Datadog: Growing Into A 400x P/E Will Be Difficult",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-28T12:43:45+00:00",
+      "title": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T12:07:05+00:00",
+      "title": "AI Stocks Enter a High-Stakes Earnings Gauntlet",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

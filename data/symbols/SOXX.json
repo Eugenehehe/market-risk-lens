@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T12:11:09.620314+00:00",
+  "generated_at": "2026-08-28T22:21:49.978842+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 525.43,
-    "change_pct": 1.9460613116026426
+    "price": 508.62,
+    "change_pct": -3.199284395637847
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:30:11.865454+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T14:53:51.313668+00:00",
       "close": 520.05
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 525.43
+    },
+    {
+      "timestamp": "2026-08-28T22:21:49.978842+00:00",
+      "close": 508.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-28T16:00:41+00:00",
+      "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T12:11:24+00:00",
+      "title": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T12:04:38+00:00",
+      "title": "Why Is AMD Stock Sliding on Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T10:03:17+00:00",
+      "title": "Micron Technology Consolidation: Soaring Memory Revenue Meets Fresh Policy Uncertainty",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T09:05:00+00:00",
+      "title": "2026 Thematic Mid-Year Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-28T00:00:00+00:00",
       "title": "A Market In Transition",
@@ -525,46 +565,6 @@
       "timestamp": "2026-08-27T11:02:16+00:00",
       "title": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T10:49:32+00:00",
-      "title": "Why Is AMD Stock Trending Today?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T10:27:54+00:00",
-      "title": "KSTR: Exposure To China's Chips And Potential Diversifier For SOXX",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T09:33:37+00:00",
-      "title": "What's Going On With Broadcom Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T06:58:47+00:00",
-      "title": "Reported Earlier, Trump Administration Weighing New Round Of Sweeping Tariffs On Semiconductors - Politico Exclusive",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T00:30:00+00:00",
-      "title": "Technology's Slide Stops At Seven",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

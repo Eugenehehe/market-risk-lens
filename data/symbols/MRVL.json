@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T12:11:09.620314+00:00",
+  "generated_at": "2026-08-28T22:21:49.978842+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 241.45,
-    "change_pct": -1.4932071314919915
+    "price": 216.62,
+    "change_pct": -10.28370262994408
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:30:11.865454+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-23T14:53:51.313668+00:00",
       "close": 237.04
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 241.45
+    },
+    {
+      "timestamp": "2026-08-28T22:21:49.978842+00:00",
+      "close": 216.62
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-28T10:37:36+00:00",
-      "title": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
+      "timestamp": "2026-08-28T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-28T06:00:00+00:00",
-      "title": "Wall Street Breakfast Podcast: Marvell Beats, Street Shrugs",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-28T18:05:02+00:00",
+      "title": "Most active S&P500 stocks in Friday's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-28T00:03:17+00:00",
-      "title": "Marvell Technology, Inc. 2027 Q2 - Results - Earnings Call Presentation",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-28T16:35:01+00:00",
+      "title": "Top S&P500 movers in Friday's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T22:09:15+00:00",
-      "title": "Marvell Technology, Inc. (MRVL) Q2 2027 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T19:00:44+00:00",
-      "title": "Marvell Q2: I Agree With The Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T18:15:02+00:00",
-      "title": "Marvell Q2: Not Good Enough",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T13:35:25+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "timestamp": "2026-08-28T16:00:41+00:00",
+      "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T11:23:30+00:00",
-      "title": "Jackson Hole Could End In 3 Ways",
+      "timestamp": "2026-08-28T15:06:38+00:00",
+      "title": "Marvell: It's Down 10%, But This May Not Be The Dip To Buy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T14:35:01+00:00",
+      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T13:05:26+00:00",
+      "title": "Marvell’s Google AI Chip Deal Could Drive $120 Billion in Long-Term Revenue: Analyst",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T12:46:43+00:00",
+      "title": "Nasdaq 100 Falls As Warsh Revives Rate Hike Bets: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

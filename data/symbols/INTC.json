@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T12:11:09.620314+00:00",
+  "generated_at": "2026-08-28T22:21:49.978842+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 92.09,
-    "change_pct": 4.363100634632833
+    "price": 89.47,
+    "change_pct": -2.845042892822247
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:30:11.865454+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-23T14:53:51.313668+00:00",
       "close": 90.07
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 92.09
+    },
+    {
+      "timestamp": "2026-08-28T22:21:49.978842+00:00",
+      "close": 89.47
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-28T18:05:02+00:00",
+      "title": "Most active S&P500 stocks in Friday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T18:00:00+00:00",
+      "title": "These stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T12:35:01+00:00",
+      "title": "Friday's pre-market session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-28T10:37:36+00:00",
       "title": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T10:16:35+00:00",
+      "title": "Nvidia Warns Of AI Power Bottleneck — And Bloom Energy Could Benefit",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,41 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-27T13:35:25+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T13:20:30+00:00",
-      "title": "The IV Crush Is Only Half The Story: How Options Get So Expensive Before Earnings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T12:31:15+00:00",
-      "title": "QUICK SPARK: Nvidia's Next Rally Could Create Another Fourteen Intels in Market Value",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T10:58:18+00:00",
-      "title": "Why Is Intel Stock Surging on Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T06:58:47+00:00",
-      "title": "Reported Earlier, Trump Administration Weighing New Round Of Sweeping Tariffs On Semiconductors - Politico Exclusive",
-      "source": "Benzinga",
+      "timestamp": "2026-08-27T18:02:06+00:00",
+      "title": "S&P 500 falls, but heads for winning week as Warsh says Fed committed to fighting inflation: Live updates",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

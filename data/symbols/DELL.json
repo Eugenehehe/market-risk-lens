@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T12:11:09.620314+00:00",
+  "generated_at": "2026-08-28T22:21:49.978842+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 472.26,
-    "change_pct": 1.8196714242594059
+    "price": 456.24,
+    "change_pct": -3.392199212298308
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:30:11.865454+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T14:53:51.313668+00:00",
       "close": 442.08
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 472.26
+    },
+    {
+      "timestamp": "2026-08-28T22:21:49.978842+00:00",
+      "close": 456.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-28T12:12:31+00:00",
+      "title": "Why Is Dell Stock Sliding Ahead of Q2 Earnings?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-27T16:59:32+00:00",
       "title": "Dell Technologies Inc. (DELL) Discusses Scaling AI Networks From 800G to 1.6T and Key Differences From Traditional Data Centers Transcript",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-26T08:55:15+00:00",
       "title": "UBS Maintains Neutral on Dell Technologies, Raises Price Target to $455",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T06:40:02+00:00",
-      "title": "Hewlett Packard Enterprise: The $80 Bull Flag Setup Ahead Of Q3 Earnings",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

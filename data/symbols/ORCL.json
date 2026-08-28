@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-28T12:11:09.620314+00:00",
+  "generated_at": "2026-08-28T22:21:49.978842+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 151.94,
-    "change_pct": 2.0622019211392395
+    "price": 150.85,
+    "change_pct": -0.717388442806377
   },
   "risk": {
-    "score": 67,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:30:11.865454+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-23T14:53:51.313668+00:00",
       "close": 146.47
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 151.94
+    },
+    {
+      "timestamp": "2026-08-28T22:21:49.978842+00:00",
+      "close": 150.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-28T12:15:10+00:00",
+      "title": "Nvidia Crushed Earnings: Doubling My Oracle Position",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T12:11:24+00:00",
+      "title": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T11:25:08+00:00",
+      "title": "Oracle: Get Paid 7% While Betting On The Stock's Rebound",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T10:16:35+00:00",
+      "title": "Nvidia Warns Of AI Power Bottleneck — And Bloom Energy Could Benefit",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-27T13:00:02+00:00",
       "title": "Nvidia's Unusual Move Answers AI Trade’s Key Question; $40 Trillion US Debt Bomb Ticks; Key Fed Speech Awaited",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-08-26T16:19:15+00:00",
       "title": "Oracle Corporation (ORCL) Presents at Deutsche Bank 2026 Technology Conference Transcript",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:56:01+00:00",
-      "title": "AI Bubble Alert: The Rubber Hits The Road In 2027",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:45:29+00:00",
-      "title": "Oracle Stock Is Rising Today: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:35:18+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T13:25:00+00:00",
-      "title": "Wall Street Lunch: Meta Settles Minors' Addiction, Data Privacy Claims For $12.7B",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
