@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T00:34:33.882656+00:00",
+  "generated_at": "2026-08-28T12:11:09.620314+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 935.39,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T13:57:55.410110+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-23T14:30:11.865454+00:00",
       "close": 966.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-28T00:34:33.882656+00:00",
       "close": 935.39
+    },
+    {
+      "timestamp": "2026-08-28T12:11:09.620314+00:00",
+      "close": 935.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-28T10:37:36+00:00",
+      "title": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-27T18:05:01+00:00",
       "title": "What's going on in today's session: S&P500 most active stocks",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-27T09:30:45+00:00",
       "title": "Nvidia’s AI Boom Hits Its First Margin Wall: Memory Prices",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T08:43:01+00:00",
-      "title": "NVIDIA’s Biggest AI Bottleneck Isn’t Demand—It’s Memory",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
