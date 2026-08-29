@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:28:05.401903+00:00",
+  "generated_at": "2026-08-29T15:15:28.979314+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 465.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T15:42:24.024406+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T15:59:36.354418+00:00",
       "close": 473.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 465.58
+    },
+    {
+      "timestamp": "2026-08-29T15:15:28.979314+00:00",
+      "close": 465.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-29T06:37:14+00:00",
+      "title": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-28T12:11:24+00:00",
       "title": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-27T12:31:15+00:00",
       "title": "QUICK SPARK: Nvidia's Next Rally Could Create Another Fourteen Intels in Market Value",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T11:49:46+00:00",
-      "title": "Nvidia: A 16.0x P/E Is A Crime",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

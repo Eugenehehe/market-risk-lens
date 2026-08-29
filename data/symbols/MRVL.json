@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:28:05.401903+00:00",
+  "generated_at": "2026-08-29T15:15:28.979314+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 216.62,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T15:42:24.024406+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-23T15:59:36.354418+00:00",
       "close": 237.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 216.62
+    },
+    {
+      "timestamp": "2026-08-29T15:15:28.979314+00:00",
+      "close": 216.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-29T06:37:14+00:00",
+      "title": "What Moved Markets This Week",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-28T19:05:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-28T13:32:43+00:00",
       "title": "Craig-Hallum Maintains Buy on Marvell Technology, Raises Price Target to $300",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T13:05:26+00:00",
-      "title": "Marvell’s Google AI Chip Deal Could Drive $120 Billion in Long-Term Revenue: Analyst",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
