@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-29T15:15:28.979314+00:00",
+  "generated_at": "2026-08-29T18:37:42.465122+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 456.24,
     "change_pct": -3.392199212298308
   },
   "risk": {
-    "score": 70,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T15:59:36.354418+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T16:36:11.876456+00:00",
       "close": 442.08
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 456.24
+    },
+    {
+      "timestamp": "2026-08-29T18:37:42.465122+00:00",
+      "close": 456.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-29T11:00:00+00:00",
+      "title": "Broadcom, Palo Alto Networks Headline Earnings Amid A Tight Economic Calendar",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-28T12:12:31+00:00",
       "title": "Why Is Dell Stock Sliding Ahead of Q2 Earnings?",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:15:28.979314+00:00",
+  "generated_at": "2026-08-29T18:37:42.465122+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 932.86,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T15:59:36.354418+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-23T16:36:11.876456+00:00",
       "close": 966.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 932.86
+    },
+    {
+      "timestamp": "2026-08-29T18:37:42.465122+00:00",
+      "close": 932.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-29T08:01:13+00:00",
+      "title": "Benzinga Bulls and Bears: Nvidia, CrowdStrike, Intuit",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T03:58:13+00:00",
       "title": "The Memory Shortage Gets Worse In 2027",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-28T10:37:36+00:00",
       "title": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T10:03:17+00:00",
-      "title": "Micron Technology Consolidation: Soaring Memory Revenue Meets Fresh Policy Uncertainty",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
