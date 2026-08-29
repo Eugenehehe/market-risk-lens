@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:21:49.978842+00:00",
+  "generated_at": "2026-08-29T03:46:09.750468+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 508.62,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:53:51.313668+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T15:18:17.011765+00:00",
       "close": 520.05
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 508.62
+    },
+    {
+      "timestamp": "2026-08-29T03:46:09.750468+00:00",
+      "close": 508.62
     }
   ],
   "events": [
     {
       "timestamp": "2026-08-28T16:00:41+00:00",
       "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T13:29:33+00:00",
+      "title": "Why Is Broadcom Stock Sliding Ahead of Earnings?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-27T12:23:44+00:00",
       "title": "Nvidia's Halo Effect: Let's Look At How Much Of Today's Chip Rally Is Real",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T11:02:16+00:00",
-      "title": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

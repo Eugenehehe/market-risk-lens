@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:21:49.978842+00:00",
+  "generated_at": "2026-08-29T03:46:09.750468+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 368.79,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:53:51.313668+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-23T15:18:17.011765+00:00",
       "close": 368.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 368.79
+    },
+    {
+      "timestamp": "2026-08-29T03:46:09.750468+00:00",
+      "close": 368.79
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-28T15:25:11+00:00",
       "title": "Broadcom: I Am Hedging Before Q3, You Should Too",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-28T13:29:33+00:00",
+      "title": "Why Is Broadcom Stock Sliding Ahead of Earnings?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-27T19:00:44+00:00",
       "title": "Marvell Q2: I Agree With The Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-27T18:15:02+00:00",
-      "title": "Marvell Q2: Not Good Enough",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

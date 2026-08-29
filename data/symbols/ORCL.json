@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-28T22:21:49.978842+00:00",
+  "generated_at": "2026-08-29T03:46:09.750468+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 150.85,
     "change_pct": -0.717388442806377
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:53:51.313668+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-23T15:18:17.011765+00:00",
       "close": 146.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 150.85
+    },
+    {
+      "timestamp": "2026-08-29T03:46:09.750468+00:00",
+      "close": 150.85
     }
   ],
   "events": [
@@ -557,14 +557,6 @@
       "timestamp": "2026-08-27T10:15:05+00:00",
       "title": "Broadcom Expands Collaboration With Google Cloud, Cloud Network Insights  Now Enabled By Broadcom's AppNeta",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T16:19:15+00:00",
-      "title": "Oracle Corporation (ORCL) Presents at Deutsche Bank 2026 Technology Conference Transcript",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

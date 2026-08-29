@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-28T22:21:49.978842+00:00",
+  "generated_at": "2026-08-29T03:46:09.750468+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 456.24,
     "change_pct": -3.392199212298308
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T14:53:51.313668+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T15:18:17.011765+00:00",
       "close": 442.08
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 456.24
+    },
+    {
+      "timestamp": "2026-08-29T03:46:09.750468+00:00",
+      "close": 456.24
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-08-27T08:14:12+00:00",
       "title": "Dell Beat Last Quarter's EPS Estimate by 65% — Can It Repeat That Next Time?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T19:05:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T14:00:30+00:00",
-      "title": "Dell Stock Climbs After UBS Raises Target",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-26T08:55:15+00:00",
-      "title": "UBS Maintains Neutral on Dell Technologies, Raises Price Target to $455",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
