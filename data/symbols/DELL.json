@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T07:01:57.259470+00:00",
+  "generated_at": "2026-08-30T12:47:59.489866+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 456.24,
     "change_pct": -3.392199212298308
   },
   "risk": {
-    "score": 66,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T18:08:50.352922+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T18:47:31.303778+00:00",
       "close": 442.08
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 456.24
+    },
+    {
+      "timestamp": "2026-08-30T12:47:59.489866+00:00",
+      "close": 456.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T05:58:38+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T14:16:10+00:00",
       "title": "Dell Stock Analysis: Options and Technicals Send Mixed Signals Ahead of Earnings",

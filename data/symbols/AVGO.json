@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:01:57.259470+00:00",
+  "generated_at": "2026-08-30T12:47:59.489866+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 368.79,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T18:08:50.352922+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-23T18:47:31.303778+00:00",
       "close": 368.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 368.79
+    },
+    {
+      "timestamp": "2026-08-30T12:47:59.489866+00:00",
+      "close": 368.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T05:58:38+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T18:15:09+00:00",
       "title": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-28T12:10:00+00:00",
       "title": "Nvidia Earnings And The Ecosystem: The 70% Guide, And Everything It Sets In Motion",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T10:37:36+00:00",
-      "title": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T07:01:57.259470+00:00",
+  "generated_at": "2026-08-30T12:47:59.489866+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 52.31,
     "change_pct": -3.859584635177349
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T18:08:50.352922+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-23T18:47:31.303778+00:00",
       "close": 53.45
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 52.31
+    },
+    {
+      "timestamp": "2026-08-30T12:47:59.489866+00:00",
+      "close": 52.31
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-30T05:58:38+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

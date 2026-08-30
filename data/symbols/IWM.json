@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:01:57.259470+00:00",
+  "generated_at": "2026-08-30T12:47:59.489866+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 295.75,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T18:08:50.352922+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-23T18:47:31.303778+00:00",
       "close": 299.96
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 295.75
+    },
+    {
+      "timestamp": "2026-08-30T12:47:59.489866+00:00",
+      "close": 295.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T07:10:00+00:00",
+      "title": "Druckenmiller Warning: The Bond Market Already Priced It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-30T07:05:00+00:00",
+      "title": "Jackson Hole Just Changed The Game",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T11:51:53+00:00",
       "title": "The August Labor Market Report To Cement The September Fed Hike",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-08-29T10:23:17+00:00",
       "title": "Warsh At Jackson Hole: 4 Indicators The Fed Is Watching",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T09:30:00+00:00",
-      "title": "Core PCE Makes Inflation Look Stickier Than It Is",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T08:30:00+00:00",
-      "title": "Jackson Hole Conclusion: The U.S. Treasury Is Now Alone",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
