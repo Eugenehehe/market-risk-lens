@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:23:48.089825+00:00",
+  "generated_at": "2026-08-30T07:01:57.259470+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T17:48:52.865263+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-23T18:08:50.352922+00:00",
       "close": 765.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 769.35
+    },
+    {
+      "timestamp": "2026-08-30T07:01:57.259470+00:00",
+      "close": 769.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-29T22:35:31+00:00",
+      "title": "The 1-Minute Market Report, August 29, 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T11:51:53+00:00",
       "title": "The August Labor Market Report To Cement The September Fed Hike",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-08-29T09:30:00+00:00",
       "title": "Core PCE Makes Inflation Look Stickier Than It Is",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T08:30:00+00:00",
-      "title": "Jackson Hole Conclusion: The U.S. Treasury Is Now Alone",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

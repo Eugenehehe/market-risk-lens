@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:23:48.089825+00:00",
+  "generated_at": "2026-08-30T07:01:57.259470+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 217.55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T17:48:52.865263+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-23T18:08:50.352922+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 217.55
+    },
+    {
+      "timestamp": "2026-08-30T07:01:57.259470+00:00",
+      "close": 217.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T00:30:00+00:00",
+      "title": "Two Tech Stocks Take The Season",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T18:15:09+00:00",
       "title": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-29T08:01:13+00:00",
       "title": "Benzinga Bulls and Bears: Nvidia, CrowdStrike, Intuit",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T06:37:14+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

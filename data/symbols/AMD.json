@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T01:23:48.089825+00:00",
+  "generated_at": "2026-08-30T07:01:57.259470+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 465.58,
     "change_pct": -2.3265571569429655
   },
   "risk": {
-    "score": 63,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T17:48:52.865263+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T18:08:50.352922+00:00",
       "close": 473.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 465.58
+    },
+    {
+      "timestamp": "2026-08-30T07:01:57.259470+00:00",
+      "close": 465.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T00:30:00+00:00",
+      "title": "Two Tech Stocks Take The Season",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T06:37:14+00:00",
       "title": "What Moved Markets This Week",
