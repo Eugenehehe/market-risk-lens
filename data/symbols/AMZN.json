@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:47:59.489866+00:00",
+  "generated_at": "2026-08-30T16:59:54.713525+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 266.43,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T18:47:31.303778+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-23T19:11:01.613406+00:00",
       "close": 258.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 266.43
+    },
+    {
+      "timestamp": "2026-08-30T16:59:54.713525+00:00",
+      "close": 266.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T10:27:53+00:00",
+      "title": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T01:48:13+00:00",
       "title": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-28T15:00:15+00:00",
       "title": "SentinelOne: Stay On The Sidelines",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:43:45+00:00",
-      "title": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
