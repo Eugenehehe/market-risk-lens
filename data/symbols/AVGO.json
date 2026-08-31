@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T19:41:26.033632+00:00",
+  "generated_at": "2026-08-31T23:25:27.501077+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 369.76,
-    "change_pct": 0.26302231622332695
+    "price": 370.34,
+    "change_pct": 0.420293391903237
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 368.45
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 369.76
+    },
+    {
+      "timestamp": "2026-08-31T23:25:27.501077+00:00",
+      "close": 370.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T15:58:41+00:00",
+      "title": "Marvell: Market's Myopia On Alphabet Deal's Potential Is Baffling",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T15:48:33+00:00",
+      "title": "Nvidia: Analyzing Its Datacenter Customers In A Changing Environment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T13:45:31+00:00",
       "title": "AI Power Demand Doubles By 2027: Here's Ways To Position",
@@ -549,22 +565,6 @@
       "timestamp": "2026-08-31T01:58:39+00:00",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-30T15:16:19+00:00",
-      "title": "S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-30T10:07:00+00:00",
-      "title": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T19:41:26.033632+00:00",
+  "generated_at": "2026-08-31T23:25:27.501077+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 462.3,
-    "change_pct": 1.3282482903734794
+    "price": 456.01,
+    "change_pct": -0.05041206382605523
   },
   "risk": {
-    "score": 61,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 442.08
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 462.3
+    },
+    {
+      "timestamp": "2026-08-31T23:25:27.501077+00:00",
+      "close": 456.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T15:15:54+00:00",
+      "title": "Dell Technologies Could Swing $28.9 Billion After Earnings",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T14:48:00+00:00",
       "title": "Dell Earnings Preview: Fiscal Q2 2027",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-30T15:16:19+00:00",
       "title": "S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-30T11:30:26+00:00",
-      "title": "Dell Q2: $51.3 Billion In Backlog; Now Show Me The Profits",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

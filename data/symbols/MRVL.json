@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T19:41:26.033632+00:00",
+  "generated_at": "2026-08-31T23:25:27.501077+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 211.9,
-    "change_pct": -2.1789308466438895
+    "price": 211.66,
+    "change_pct": -2.289723940541044
   },
   "risk": {
-    "score": 68,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 211.9
+    },
+    {
+      "timestamp": "2026-08-31T23:25:27.501077+00:00",
+      "close": 211.66
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-08-31T18:05:00+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T16:26:37+00:00",
+      "title": "Marvell Technology: Greater Clarity Does Not Impress",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T16:07:18+00:00",
+      "title": "Marvell: Why I Think The Stock Is Ready For Another Leg Higher (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T15:58:41+00:00",
+      "title": "Marvell: Market's Myopia On Alphabet Deal's Potential Is Baffling",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-08-31T08:00:00+00:00",
       "title": "Marvell: Why I'm Buying The Market's Fear",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T07:41:43+00:00",
-      "title": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T06:40:45+00:00",
-      "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T02:50:02+00:00",
-      "title": "Nasdaq Falls Over 100 Points Following Warsh’s Remarks: Investor Sentiment Weakens, Fear & Greed Index Moves to ‘Neutral’ Zone",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T19:41:26.033632+00:00",
+  "generated_at": "2026-08-31T23:25:27.501077+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 338.76,
-    "change_pct": -2.2591534666320356
+    "price": 339.35,
+    "change_pct": -2.088923511930507
   },
   "risk": {
-    "score": 69,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 344.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 338.76
+    },
+    {
+      "timestamp": "2026-08-31T23:25:27.501077+00:00",
+      "close": 339.35
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-08-31T19:10:18+00:00",
       "title": "Top dow jones movers in Monday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T17:02:14+00:00",
+      "title": "Warren Buffett Set Berkshire Hathaway Up for Years: Top 5 Stocks Yield $589 Million Each Quarter",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T17:00:02+00:00",
+      "title": "MapQuest vs. Trump: OG of Maps Keeps Lake Ontario Name, Sees Download Surge and Stock Boost for Parent",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,48 +538,32 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T13:35:37+00:00",
-      "title": "Marvell Q2: Buying This Dip Looks Premature",
+      "timestamp": "2026-08-31T16:26:37+00:00",
+      "title": "Marvell Technology: Greater Clarity Does Not Impress",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T12:32:51+00:00",
-      "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T11:30:40+00:00",
-      "title": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+      "timestamp": "2026-08-31T16:18:08+00:00",
+      "title": "Trump’s Truth Social ETF Manager Is Betting Big on AI, Crypto and New ETFs",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T08:29:20+00:00",
-      "title": "After The Fed: Analysis Of Warsh On AI, Inflation And The Unknowns (Video)",
+      "timestamp": "2026-08-31T15:58:41+00:00",
+      "title": "Marvell: Market's Myopia On Alphabet Deal's Potential Is Baffling",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T08:11:23+00:00",
-      "title": "CrowdStrike's Falcon Platform Now Available On Google Cloud",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T06:48:20+00:00",
-      "title": "Global Phone Shipments Drop, but Apple Positioned for Record iOS Market Share Gain",
+      "timestamp": "2026-08-31T13:48:27+00:00",
+      "title": "Inside Google’s 260 Million Pound UK App Store Settlement: What It Means for Alphabet Stock",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

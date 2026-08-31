@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T19:41:26.033632+00:00",
+  "generated_at": "2026-08-31T23:25:27.501077+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 415.34,
-    "change_pct": -0.5221306763747879
+    "price": 415.32,
+    "change_pct": -0.5269208660662938
   },
   "risk": {
-    "score": 41,
+    "score": 43,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:30:18.622500+00:00",
-      "close": 418.95
-    },
     {
       "timestamp": "2026-08-23T21:51:08.168076+00:00",
       "close": 418.95
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 415.34
+    },
+    {
+      "timestamp": "2026-08-31T23:25:27.501077+00:00",
+      "close": 415.32
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-08-31T15:19:05+00:00",
       "title": "AMD: Still Eating Intel's Lunch",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T14:58:35+00:00",
+      "title": "Billionaire Investor Raises TSMC Stake 67% as Profit Soars 77%, Revenue Climbs 36%",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
