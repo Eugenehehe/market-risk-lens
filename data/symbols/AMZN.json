@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 266.43,
-    "change_pct": 3.9686256146101773
+    "price": 259.38,
+    "change_pct": -2.646098412340958
   },
   "risk": {
-    "score": 64,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 258.63
@@ -502,21 +498,73 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 266.43
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 259.38
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-30T10:27:53+00:00",
-      "title": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+      "timestamp": "2026-08-31T19:10:18+00:00",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T16:40:05+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T13:33:02+00:00",
+      "title": "Amazon Web Services Accelerates Middle East AI Push with Saudi Cloud Region Launch",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T12:32:51+00:00",
+      "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T01:48:13+00:00",
-      "title": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
+      "timestamp": "2026-08-31T12:19:23+00:00",
+      "title": "Oil Rises As US Strikes Iran; Warsh's Hawkishness Reverberates; Weak Stock Market Seasonality Ahead",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T12:00:00+00:00",
+      "title": "LG CNS Targets U.S. Ad Market with Agentic AI-Powered Marketing Solution",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T11:30:00+00:00",
+      "title": "The AI Tide Hits Hawaii - Power & Fiber Bottlenecks Report Now Available — Covers PTC 2026 Conference Insights on AI Infrastructure, Mentioning Alibaba, Amazon, Microsoft, NVIDIA, and 35 Other Organizations",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AMZN live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=AMZN&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "AMZN quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

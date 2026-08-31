@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 513.53,
-    "change_pct": 1.6770284718647277
+    "price": 509.11,
+    "change_pct": -0.8607092088096069
   },
   "risk": {
-    "score": 60,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 483.24
@@ -502,52 +498,72 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 513.53
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 509.11
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-30T20:10:00+00:00",
-      "title": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+      "timestamp": "2026-08-31T14:11:00+00:00",
+      "title": "Nomura Value Fund Q2 2026 Portfolio Activity",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T13:27:18+00:00",
-      "title": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
+      "timestamp": "2026-08-31T12:32:51+00:00",
+      "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T10:27:53+00:00",
-      "title": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+      "timestamp": "2026-08-31T12:19:23+00:00",
+      "title": "Oil Rises As US Strikes Iran; Warsh's Hawkishness Reverberates; Weak Stock Market Seasonality Ahead",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T10:27:12+00:00",
+      "title": "Bill Ackman Saw Microsoft Before the Chart Did",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T09:15:39+00:00",
+      "title": "Two Covered Call ETFs Built To Weather The Sell-Off",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T09:55:14+00:00",
-      "title": "I Agree, 'Saaspocalypse Is Nonsense'- 3 Stocks I'm Buying",
+      "timestamp": "2026-08-31T08:29:20+00:00",
+      "title": "After The Fed: Analysis Of Warsh On AI, Inflation And The Unknowns (Video)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T00:30:00+00:00",
-      "title": "Two Tech Stocks Take The Season",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-31T05:58:39+00:00",
+      "title": "Competitor Analysis: Evaluating Microsoft And Competitors In Software Industry",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T15:16:04+00:00",
-      "title": "Steve Ballmer is $65 Billion Richer than Bill Gates. Here’s Why.",
+      "timestamp": "2026-08-31T03:29:12+00:00",
+      "title": "Bill Gates Won't Pick Crypto to Diversify Away From the Dollar, Calls It 'Pure Mania-Driven Asset' — Here's What the Billionaire Would Choose Instead",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -565,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MSFT live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/company-news?symbol=MSFT&from=2026-08-29&to=2026-08-31&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "MSFT quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

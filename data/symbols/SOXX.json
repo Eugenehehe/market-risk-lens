@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 508.66,
-    "change_pct": -3.1916715832746356
+    "price": 510.28,
+    "change_pct": 0.32637332389602314
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 47,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 520.05
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 508.66
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 510.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T13:35:37+00:00",
+      "title": "Marvell Q2: Buying This Dip Looks Premature",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T12:42:19+00:00",
+      "title": "Software Is Back: 5 Stocks To Buy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T09:27:33+00:00",
+      "title": "AMD Expands Global AI Footprint With New Saudi Platform",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T11:43:52+00:00",
       "title": "Kevin Warsh: Almost Like Powell From 2022",

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 456.24,
-    "change_pct": -3.392199212298308
+    "price": 462.3,
+    "change_pct": 1.3282482903734794
   },
   "risk": {
-    "score": 68,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 442.08
@@ -502,36 +498,72 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 456.24
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 462.3
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-30T11:30:26+00:00",
-      "title": "Dell Q2: $51.3 Billion In Backlog; Now Show Me The Profits",
+      "timestamp": "2026-08-31T14:48:00+00:00",
+      "title": "Dell Earnings Preview: Fiscal Q2 2027",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T05:58:38+00:00",
-      "title": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T14:16:10+00:00",
-      "title": "Dell Stock Analysis: Options and Technicals Send Mixed Signals Ahead of Earnings",
+      "timestamp": "2026-08-31T13:35:48+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T11:00:00+00:00",
-      "title": "Broadcom, Palo Alto Networks Headline Earnings Amid A Tight Economic Calendar",
+      "timestamp": "2026-08-31T08:28:54+00:00",
+      "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:16:08+00:00",
+      "title": "Snowflake To Rally More Than 23%? Here Are 10 Top Analyst Forecasts For Monday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T07:36:24+00:00",
+      "title": "Hewlett Packard Enterprise Q3: Margins Matter More Than AI Orders",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T01:58:39+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-30T15:16:19+00:00",
+      "title": "S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-30T11:30:26+00:00",
+      "title": "Dell Q2: $51.3 Billion In Backlog; Now Show Me The Profits",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
@@ -549,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "DELL live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=DELL&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "DELL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

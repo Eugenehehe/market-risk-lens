@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 716.43,
-    "change_pct": -0.6489994591671211
+    "price": 715.46,
+    "change_pct": -0.13539354856718644
   },
   "risk": {
-    "score": 56,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 713.44
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 716.43
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 715.46
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-30T22:24:14+00:00",
-      "title": "Tech Rallies In September, I'm Adding Software And Chip Stocks",
+      "timestamp": "2026-08-31T14:50:00+00:00",
+      "title": "3 Lessons From A Tumultuous 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T16:00:00+00:00",
-      "title": "S&P 500: Don't Believe Everything You Read About September",
+      "timestamp": "2026-08-31T14:05:00+00:00",
+      "title": "No Rate-Hiking Map From The Federal Reserve",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T09:55:00+00:00",
-      "title": "The Jobs Report May Force A September Rate Hike And Send Rates Soaring",
+      "timestamp": "2026-08-31T14:00:14+00:00",
+      "title": "Oil Jumps Near $90 On Iran Risk, California Utilities Crater: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T13:52:01+00:00",
+      "title": "Bessent Is Right To Call For Rebalance As EU Trade Deficits With China Surge",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T07:10:00+00:00",
-      "title": "Druckenmiller Warning: The Bond Market Already Priced It",
+      "timestamp": "2026-08-31T13:11:02+00:00",
+      "title": "What I'm Watching In September: Rate Volatility, Rotation Trades, And Cooler Inflation",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T07:05:00+00:00",
-      "title": "Jackson Hole Just Changed The Game",
+      "timestamp": "2026-08-31T13:10:00+00:00",
+      "title": "Clear Market Moves From A Clear Message From Chair Warsh",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T05:00:00+00:00",
-      "title": "SCHD And QQQ: The New 60-40 Portfolio (Bitcoin And Gold Edition)",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-31T12:34:24+00:00",
+      "title": "US Banks Want a Bigger Piece Of The AI Trade: Here's How They're Getting It",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T22:35:31+00:00",
-      "title": "The 1-Minute Market Report, August 29, 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T11:51:53+00:00",
-      "title": "The August Labor Market Report To Cement The September Fed Hike",
+      "timestamp": "2026-08-31T12:32:51+00:00",
+      "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "QQQ live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/quote?symbol=QQQ&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "QQQ quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

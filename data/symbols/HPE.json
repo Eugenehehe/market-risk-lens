@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.33,
-    "change_pct": -3.822826686270908
+    "price": 52.46,
+    "change_pct": 0.286752055056394
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 53.45
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 52.33
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 52.46
     }
   ],
   "events": [
     {
+      "timestamp": "2026-08-31T08:28:54+00:00",
+      "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:16:08+00:00",
+      "title": "Snowflake To Rally More Than 23%? Here Are 10 Top Analyst Forecasts For Monday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-31T07:36:24+00:00",
       "title": "Hewlett Packard Enterprise Q3: Margins Matter More Than AI Orders",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T06:50:53+00:00",
+      "title": "B of A Securities Maintains Buy on Hewlett Packard, Raises Price Target to $82",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T01:58:39+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

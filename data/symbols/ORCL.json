@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 150.85,
-    "change_pct": -0.717388442806377
+    "price": 150.16,
+    "change_pct": -0.45740802121312374
   },
   "risk": {
-    "score": 42,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 146.47
@@ -502,9 +498,69 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 150.85
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 150.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T12:41:34+00:00",
+      "title": "Trump Warns Against Killing the Data Center 'Golden Goose': 5 Stocks to Watch",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T12:32:51+00:00",
+      "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T11:30:40+00:00",
+      "title": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T09:22:40+00:00",
+      "title": "Big Short Legend Steve Eisman Warns OpenAI Failure Could Trigger 'Immediate Recession'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:29:20+00:00",
+      "title": "After The Fed: Analysis Of Warsh On AI, Inflation And The Unknowns (Video)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T05:17:38+00:00",
+      "title": "Nvidia CEO Jensen Huang Defends America’s AI Data Center Boom, Says It’s ‘Bringing Manufacturing Back’ After Decades Of Offshoring",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-30T15:16:19+00:00",
+      "title": "S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-30T09:55:14+00:00",
       "title": "I Agree, 'Saaspocalypse Is Nonsense'- 3 Stocks I'm Buying",
@@ -525,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "ORCL live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/company-news?symbol=ORCL&from=2026-08-29&to=2026-08-31&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "ORCL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

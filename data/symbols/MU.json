@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 932.86,
-    "change_pct": -0.2704754166711232
+    "price": 945.39,
+    "change_pct": 1.3431811847436803
   },
   "risk": {
-    "score": 45,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 966.78
@@ -502,37 +498,73 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 932.86
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 945.39
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-29T18:15:09+00:00",
-      "title": "Broadcom Stock Faces Valuation Test as Fiscal Q3 Earnings Approach",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T14:16:10+00:00",
-      "title": "Dell Stock Analysis: Options and Technicals Send Mixed Signals Ahead of Earnings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T08:01:13+00:00",
-      "title": "Benzinga Bulls and Bears: Nvidia, CrowdStrike, Intuit",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T03:58:13+00:00",
-      "title": "The Memory Shortage Gets Worse In 2027",
+      "timestamp": "2026-08-31T14:17:40+00:00",
+      "title": "Micron Technology: The Center Of Gravity For The Memory Supercycle",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T13:35:48+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T12:41:34+00:00",
+      "title": "Trump Warns Against Killing the Data Center 'Golden Goose': 5 Stocks to Watch",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T09:18:57+00:00",
+      "title": "Soaring AI Memory Demand Positions Micron for Massive Year-Over-Year Earnings Growth",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:58:06+00:00",
+      "title": "SK Hynix, Micron Lead A New ETF That Targets Memory, Photonics",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:36:58+00:00",
+      "title": "MU and SNDK are ‘Just Unbelievable’ Bargains as Mizuho Reiterates Bullish Stance on Memory Stocks",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:29:20+00:00",
+      "title": "After The Fed: Analysis Of Warsh On AI, Inflation And The Unknowns (Video)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T03:23:23+00:00",
+      "title": "Elon Musk Says 'Riptide Is Already Underway' as Cathie Wood Bets on Double-Digit US Growth Fueled by AI",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MU live fetch failed: 503 Server Error: Service Unavailable for url: https://finnhub.io/api/v1/company-news?symbol=MU&from=2026-08-29&to=2026-08-31&token=d97olrhr01qp265kbl9gd97olrhr01qp265kbla0. Keeping previous snapshot."
+  "narrative": "MU quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

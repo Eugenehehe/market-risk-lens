@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 89.47,
-    "change_pct": -2.845042892822247
+    "price": 89.75,
+    "change_pct": 0.31295406281435234
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 43,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 90.07
@@ -502,9 +498,38 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 89.47
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 89.75
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-31T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T15:19:05+00:00",
+      "title": "AMD: Still Eating Intel's Lunch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T07:41:43+00:00",
+      "title": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
@@ -516,5 +541,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "INTC live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "INTC quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

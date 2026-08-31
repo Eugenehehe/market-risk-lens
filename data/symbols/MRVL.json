@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 216.62,
-    "change_pct": -10.28370262994408
+    "price": 211.9,
+    "change_pct": -2.1789308466438895
   },
   "risk": {
-    "score": 70,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 237.04
@@ -502,45 +498,73 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 216.62
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 211.9
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-30T22:24:14+00:00",
-      "title": "Tech Rallies In September, I'm Adding Software And Chip Stocks",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-31T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T20:17:24+00:00",
-      "title": "Marvell Technology: I Vehemently Disagree With The Market Here",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T09:00:34+00:00",
-      "title": "5 Stocks Investors Couldn't Stop Buzzing About This Week: NVDA, MRVL, CRM and More",
+      "timestamp": "2026-08-31T13:35:48+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T08:01:13+00:00",
-      "title": "Benzinga Bulls and Bears: Nvidia, CrowdStrike, Intuit",
+      "timestamp": "2026-08-31T13:35:37+00:00",
+      "title": "Marvell Q2: Buying This Dip Looks Premature",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T08:58:06+00:00",
+      "title": "SK Hynix, Micron Lead A New ETF That Targets Memory, Photonics",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T06:37:14+00:00",
-      "title": "What Moved Markets This Week",
+      "timestamp": "2026-08-31T08:00:00+00:00",
+      "title": "Marvell: Why I'm Buying The Market's Fear",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T07:41:43+00:00",
+      "title": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T06:40:45+00:00",
+      "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T02:50:02+00:00",
+      "title": "Nasdaq Falls Over 100 Points Following Warsh’s Remarks: Investor Sentiment Weakens, Fear & Greed Index Moves to ‘Neutral’ Zone",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MRVL live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "MRVL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

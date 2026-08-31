@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 417.56,
-    "change_pct": -2.279428972618769
+    "price": 415.34,
+    "change_pct": -0.5221306763747879
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 41,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 418.95
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 418.95
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 417.56
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 415.34
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-31T15:19:05+00:00",
+      "title": "AMD: Still Eating Intel's Lunch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

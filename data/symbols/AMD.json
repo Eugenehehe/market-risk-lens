@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 465.62,
-    "change_pct": -2.3181656072335133
+    "price": 469.05,
+    "change_pct": 0.7453069289917957
   },
   "risk": {
-    "score": 61,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:00:28.103609+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T21:30:18.622500+00:00",
       "close": 473.25
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 465.62
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 469.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T15:19:05+00:00",
+      "title": "AMD: Still Eating Intel's Lunch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T14:15:23+00:00",
+      "title": "Cisco and AMD Team With HUMAIN On Saudi AI Infrastructure",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T09:27:33+00:00",
+      "title": "AMD Expands Global AI Footprint With New Saudi Platform",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T08:29:20+00:00",
       "title": "After The Fed: Analysis Of Warsh On AI, Inflation And The Unknowns (Video)",
@@ -517,6 +541,14 @@
       "timestamp": "2026-08-31T07:41:43+00:00",
       "title": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T07:18:21+00:00",
+      "title": "Facebook Finds Another ETF Home",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

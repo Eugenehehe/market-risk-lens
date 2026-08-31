@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T13:40:37.471572+00:00",
+  "generated_at": "2026-08-31T19:41:26.033632+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 319.7,
-    "change_pct": 1.6275669146163185
+    "price": 316.11,
+    "change_pct": -1.1229277447607044
   },
   "risk": {
-    "score": 62,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 309.35
@@ -502,61 +498,73 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 319.7
+    },
+    {
+      "timestamp": "2026-08-31T19:41:26.033632+00:00",
+      "close": 316.11
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-30T10:07:00+00:00",
-      "title": "Wall Street Brunch: Jobs And More AI Litmus Test Earnings",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-31T19:10:18+00:00",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T05:58:38+00:00",
-      "title": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-31T18:05:00+00:00",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T08:26:16+00:00",
-      "title": "Apple: CEO Changes, But Double Compounding Does Not",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-08-31T16:40:05+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T08:08:30+00:00",
-      "title": "Apple: Low Margin Guidance Doesn't Concern Me",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T01:24:45+00:00",
-      "title": "Tim Cook’s final days as Apple CEO set the stage for John Ternus",
+      "timestamp": "2026-08-31T13:18:15+00:00",
+      "title": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
       "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T01:18:23+00:00",
-      "title": "Apple CEO Tim Cook clears the runway for his successor",
+      "timestamp": "2026-08-31T12:19:23+00:00",
+      "title": "Oil Rises As US Strikes Iran; Warsh's Hawkishness Reverberates; Weak Stock Market Seasonality Ahead",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T11:30:40+00:00",
+      "title": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T09:28:41+00:00",
+      "title": "End of an era at Apple: Tim Cook's last day as CEO",
       "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-29T01:12:49+00:00",
-      "title": "PayPal deal talks collapse over price gap",
-      "source": "CNBC",
+      "timestamp": "2026-08-31T09:15:39+00:00",
+      "title": "Two Covered Call ETFs Built To Weather The Sell-Off",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -573,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AAPL live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "AAPL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }
