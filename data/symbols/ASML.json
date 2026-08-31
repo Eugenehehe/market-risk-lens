@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T06:06:19.132450+00:00",
+  "generated_at": "2026-08-31T13:40:37.471572+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1696.16,
-    "change_pct": -2.2391801776358577
+    "price": 1696.2,
+    "change_pct": -2.2368747154195012
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 1763.76
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 1763.76
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 1696.16
+    },
+    {
+      "timestamp": "2026-08-31T13:40:37.471572+00:00",
+      "close": 1696.2
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-31T08:11:20+00:00",
+      "title": "ASML (NASDAQ:ASML) Embodies Quality Investing with Strong Returns and Cash Generation",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

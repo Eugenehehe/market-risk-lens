@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T06:06:19.132450+00:00",
+  "generated_at": "2026-08-31T13:40:37.471572+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 17.66,
-    "change_pct": 1.786743515850131
+    "price": 17.67,
+    "change_pct": 1.8443804034582234
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 18.21
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 18.21
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 17.66
+    },
+    {
+      "timestamp": "2026-08-31T13:40:37.471572+00:00",
+      "close": 17.67
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-08-31T09:05:00+00:00",
+      "title": "Weekly Commentary: Money Matters",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

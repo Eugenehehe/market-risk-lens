@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T06:06:19.132450+00:00",
+  "generated_at": "2026-08-31T13:40:37.471572+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.31,
-    "change_pct": -3.859584635177349
+    "price": 52.33,
+    "change_pct": -3.822826686270908
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T20:42:36.640732+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-23T21:00:28.103609+00:00",
       "close": 53.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 52.31
+    },
+    {
+      "timestamp": "2026-08-31T13:40:37.471572+00:00",
+      "close": 52.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T07:36:24+00:00",
+      "title": "Hewlett Packard Enterprise Q3: Margins Matter More Than AI Orders",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-30T05:58:38+00:00",
       "title": "Wall Street Week Ahead",
