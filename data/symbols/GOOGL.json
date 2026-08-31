@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 346.59,
     "change_pct": 1.7437252311756968
   },
   "risk": {
-    "score": 64,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 344.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 346.59
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 346.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T20:10:00+00:00",
+      "title": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-30T10:27:53+00:00",
       "title": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
@@ -525,46 +533,6 @@
       "timestamp": "2026-08-29T01:00:01+00:00",
       "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T19:10:06+00:00",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:40:06+00:00",
-      "title": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T13:50:25+00:00",
-      "title": "Alphabet has the four pillars in AI, says Glenview Trust's Bill Stone",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T13:05:26+00:00",
-      "title": "Marvell’s Google AI Chip Deal Could Drive $120 Billion in Long-Term Revenue: Analyst",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:10:00+00:00",
-      "title": "Nvidia Earnings And The Ecosystem: The 70% Guide, And Everything It Sets In Motion",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

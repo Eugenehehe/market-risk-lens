@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 465.58,
     "change_pct": -2.3265571569429655
   },
   "risk": {
-    "score": 65,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 465.58
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 465.58
     }
   ],
   "events": [
@@ -517,38 +517,6 @@
       "timestamp": "2026-08-29T06:37:14+00:00",
       "title": "What Moved Markets This Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:11:24+00:00",
-      "title": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:07:05+00:00",
-      "title": "AI Stocks Enter a High-Stakes Earnings Gauntlet",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:04:38+00:00",
-      "title": "Why Is AMD Stock Sliding on Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T06:32:56+00:00",
-      "title": "Billionaire Activist Investor Dan Loeb's Third Point Builds 4-Stock Bitcoin-To-AI Basket",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 508.62,
     "change_pct": -3.199284395637847
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 520.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 508.62
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 508.62
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-08-29T00:30:00+00:00",
       "title": "Strong Results, Sharper Scrutiny As The AI Trade Gets Tested",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:00:41+00:00",
-      "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T13:29:33+00:00",
-      "title": "Why Is Broadcom Stock Sliding Ahead of Earnings?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:11:24+00:00",
-      "title": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:04:38+00:00",
-      "title": "Why Is AMD Stock Sliding on Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T10:03:17+00:00",
-      "title": "Micron Technology Consolidation: Soaring Memory Revenue Meets Fresh Policy Uncertainty",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T09:05:00+00:00",
-      "title": "2026 Thematic Mid-Year Update",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

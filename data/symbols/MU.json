@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 932.86,
     "change_pct": -0.2704754166711232
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 45,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 966.78
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 932.86
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 932.86
     }
   ],
   "events": [
@@ -533,38 +533,6 @@
       "timestamp": "2026-08-29T03:58:13+00:00",
       "title": "The Memory Shortage Gets Worse In 2027",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:00:41+00:00",
-      "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T13:35:17+00:00",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:46:39+00:00",
-      "title": "Nvidia Just Validated Micron's Biggest AI Bull Case",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:11:24+00:00",
-      "title": "Cathie Wood Trims AMD After a 120% Rally — Is the AI Trade Getting Too Crowded?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

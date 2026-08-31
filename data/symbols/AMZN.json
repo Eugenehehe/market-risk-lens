@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 266.43,
     "change_pct": 3.9686256146101773
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 258.63
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 266.43
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 266.43
     }
   ],
   "events": [
@@ -517,54 +517,6 @@
       "timestamp": "2026-08-29T01:48:13+00:00",
       "title": "Trump Signs Order to Create US Space Academy, Eyes Moon Landing Before End of Presidency",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T19:10:06+00:00",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T19:05:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T18:05:02+00:00",
-      "title": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:40:06+00:00",
-      "title": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:35:01+00:00",
-      "title": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T15:00:15+00:00",
-      "title": "SentinelOne: Stay On The Sidelines",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

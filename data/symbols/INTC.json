@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 89.47,
     "change_pct": -2.845042892822247
   },
   "risk": {
-    "score": 67,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 90.07
@@ -502,50 +498,13 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 89.47
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 89.47
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-08-28T18:05:02+00:00",
-      "title": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T18:00:00+00:00",
-      "title": "These stocks are the most active in today's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T12:35:01+00:00",
-      "title": "Friday's pre-market session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T10:37:36+00:00",
-      "title": "Nvidia's Guide Ignites a Broad AI Bid Ahead of Warsh's Jackson Hole Debut",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T10:16:35+00:00",
-      "title": "Nvidia Warns Of AI Power Bottleneck — And Bloom Energy Could Benefit",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

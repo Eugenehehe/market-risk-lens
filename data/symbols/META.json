@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 578.02,
     "change_pct": 1.2116967256172284
   },
   "risk": {
-    "score": 60,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 549.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 578.02
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 578.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T20:10:00+00:00",
+      "title": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-30T09:50:11+00:00",
       "title": "Meta's AI Strategy Is Misunderstood By The Market",
@@ -540,30 +548,6 @@
     {
       "timestamp": "2026-08-29T01:00:01+00:00",
       "title": "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T17:00:00+00:00",
-      "title": "Meta Buys Away Its Distraction At Minimal Cost",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:13:18+00:00",
-      "title": "The Week That Was: August 28, 2026",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T15:07:05+00:00",
-      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
       "source": "CNBC",
       "event_type": "news",
       "severity": 3,

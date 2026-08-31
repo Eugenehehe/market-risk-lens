@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 513.53,
     "change_pct": 1.6770284718647277
   },
   "risk": {
-    "score": 64,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 483.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 513.53
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 513.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T20:10:00+00:00",
+      "title": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-30T13:27:18+00:00",
       "title": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
@@ -541,30 +549,6 @@
       "timestamp": "2026-08-29T15:16:04+00:00",
       "title": "Steve Ballmer is $65 Billion Richer than Bill Gates. Here’s Why.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T19:10:06+00:00",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:40:06+00:00",
-      "title": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T14:03:18+00:00",
-      "title": "Microsoft: The Rerating Is Probably Over For Now (Rating Downgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

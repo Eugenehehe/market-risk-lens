@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 319.7,
     "change_pct": 1.6275669146163185
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 309.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 319.7
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 319.7
     }
   ],
   "events": [
@@ -557,14 +557,6 @@
       "timestamp": "2026-08-29T01:12:49+00:00",
       "title": "PayPal deal talks collapse over price gap",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T19:10:06+00:00",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

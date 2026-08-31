@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T22:07:12.969698+00:00",
+  "generated_at": "2026-08-31T00:35:33.725555+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 216.62,
     "change_pct": -10.28370262994408
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T19:52:50.519831+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-23T20:15:03.927750+00:00",
       "close": 237.04
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 216.62
+    },
+    {
+      "timestamp": "2026-08-31T00:35:33.725555+00:00",
+      "close": 216.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-30T20:17:24+00:00",
+      "title": "Marvell Technology: I Vehemently Disagree With The Market Here",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-29T09:00:34+00:00",
       "title": "5 Stocks Investors Couldn't Stop Buzzing About This Week: NVDA, MRVL, CRM and More",
@@ -525,46 +533,6 @@
       "timestamp": "2026-08-29T06:37:14+00:00",
       "title": "What Moved Markets This Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T19:05:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T18:05:02+00:00",
-      "title": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:35:01+00:00",
-      "title": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:26:48+00:00",
-      "title": "CNBC TechCheck Evening Edition: August 28, 2026",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-28T16:00:41+00:00",
-      "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
