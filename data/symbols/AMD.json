@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T07:40:20.952905+00:00",
+  "generated_at": "2026-09-01T12:45:18.586055+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 470.72,
     "change_pct": 1.1039993126852554
   },
   "risk": {
-    "score": 57,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:38:11.261041+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-23T22:57:42.772095+00:00",
       "close": 473.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-01T07:40:20.952905+00:00",
       "close": 470.72
+    },
+    {
+      "timestamp": "2026-09-01T12:45:18.586055+00:00",
+      "close": 470.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T06:59:11+00:00",
+      "title": "AMD: Buy This Post-Earnings Pullback",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T15:19:05+00:00",
       "title": "AMD: Still Eating Intel's Lunch",

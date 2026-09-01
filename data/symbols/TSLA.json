@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:40:20.952905+00:00",
+  "generated_at": "2026-09-01T12:45:18.586055+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 367.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:10:12.831215+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-23T22:38:11.261041+00:00",
       "close": 362.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-01T07:40:20.952905+00:00",
       "close": 367.95
+    },
+    {
+      "timestamp": "2026-09-01T12:45:18.586055+00:00",
+      "close": 367.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T08:24:43+00:00",
+      "title": "Rising Rates and $90 Oil Break the August Winning Streak",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T19:05:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-31T13:35:48+00:00",
       "title": "9 Consumer Discretionary Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T13:18:15+00:00",
-      "title": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

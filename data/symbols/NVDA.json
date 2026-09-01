@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:40:20.952905+00:00",
+  "generated_at": "2026-09-01T12:45:18.586055+00:00",
   "snapshot": {
     "symbol": "NVDA",
     "price": 220.78,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:10:12.831215+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-23T22:38:11.261041+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-01T07:40:20.952905+00:00",
       "close": 220.78
+    },
+    {
+      "timestamp": "2026-09-01T12:45:18.586055+00:00",
+      "close": 220.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T08:24:43+00:00",
+      "title": "Rising Rates and $90 Oil Break the August Winning Streak",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T20:00:18+00:00",
       "title": "Nvidia: AI Boom Times Still Ahead",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-31T16:18:08+00:00",
       "title": "Trump’s Truth Social ETF Manager Is Betting Big on AI, Crypto and New ETFs",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T15:59:16+00:00",
-      "title": "3 Market Predictions For September",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
