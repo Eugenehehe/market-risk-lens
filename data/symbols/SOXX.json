@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T23:25:27.501077+00:00",
+  "generated_at": "2026-09-01T01:58:05.192290+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 511.04,
     "change_pct": 0.47579725531832207
   },
   "risk": {
-    "score": 50,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T21:51:08.168076+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-23T22:10:12.831215+00:00",
       "close": 520.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-08-31T23:25:27.501077+00:00",
       "close": 511.04
+    },
+    {
+      "timestamp": "2026-09-01T01:58:05.192290+00:00",
+      "close": 511.04
     }
   ],
   "events": [
@@ -533,22 +533,6 @@
       "timestamp": "2026-08-31T09:27:33+00:00",
       "title": "AMD Expands Global AI Footprint With New Saudi Platform",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T11:43:52+00:00",
-      "title": "Kevin Warsh: Almost Like Powell From 2022",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-29T00:30:00+00:00",
-      "title": "Strong Results, Sharper Scrutiny As The AI Trade Gets Tested",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
