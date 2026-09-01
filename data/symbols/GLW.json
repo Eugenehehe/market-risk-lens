@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T12:45:18.586055+00:00",
+  "generated_at": "2026-09-01T16:58:12.401245+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 148.73,
-    "change_pct": -0.16780775943079362
+    "price": 144.09,
+    "change_pct": -3.11974719289988
   },
   "risk": {
-    "score": 36,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:57:42.772095+00:00",
-      "close": 149.84
-    },
     {
       "timestamp": "2026-08-23T23:27:49.374861+00:00",
       "close": 149.84
@@ -502,9 +498,78 @@
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 148.73
+    },
+    {
+      "timestamp": "2026-09-01T16:58:12.401245+00:00",
+      "close": 144.09
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-01T12:35:00+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T12:08:00+00:00",
+      "title": "Sandisk, Marvell, Robinhood, Novartis, Dell, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T21:04:40+00:00",
+      "title": "Reflecting On Electronic Components Stocks’ Q2 Earnings: Corning (NYSE:GLW)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T18:10:24+00:00",
+      "title": "Corning (GLW): 3 Reasons We Love This Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T15:15:38+00:00",
+      "title": "Corning (GLW) In Focus Following Fiber Growth Forecast As Fair Value Stays In View",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T14:31:00+00:00",
+      "title": "WDAY's Operating Margin Expands: Will the Improvement Continue?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T14:05:42+00:00",
+      "title": "Corning (GLW) Gains Recognition In The Global Fiber Optical Cable Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T13:00:00+00:00",
+      "title": "AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

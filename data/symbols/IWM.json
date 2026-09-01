@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T12:45:18.586055+00:00",
+  "generated_at": "2026-09-01T16:58:12.401245+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 293.93,
-    "change_pct": -0.6153846153846176
+    "price": 291.04,
+    "change_pct": -0.9832272990167645
   },
   "risk": {
-    "score": 55,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:57:42.772095+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-23T23:27:49.374861+00:00",
       "close": 299.96
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 293.93
+    },
+    {
+      "timestamp": "2026-09-01T16:58:12.401245+00:00",
+      "close": 291.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T12:35:00+00:00",
+      "title": "U.S. Manufacturing Remains Robust, But Jobs Market Stays Subdued",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T10:46:20+00:00",
+      "title": "The AI Infrastructure Buildout Is Hitting Major Roadblocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T10:30:00+00:00",
+      "title": "Macro Insights: Signals From Jackson Hole, Historic Bond Selloff And The September Outlook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T08:22:18+00:00",
       "title": "AI CapEx Is Distorting The GDP Growth Picture",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-01T00:10:00+00:00",
       "title": "Cumberland's Monday Memo",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T20:06:38+00:00",
-      "title": "How Stock Picking Can Compress The Path To A $1 Million Portfolio",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T17:30:08+00:00",
-      "title": "Will There Be Panic Before The Midterms",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T17:04:57+00:00",
-      "title": "Venezuela Will Refill America's Oil Reserves",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

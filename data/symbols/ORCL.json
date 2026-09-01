@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T12:45:18.586055+00:00",
+  "generated_at": "2026-09-01T16:58:12.401245+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 149.12,
-    "change_pct": -1.146834603911162
+    "price": 141.27,
+    "change_pct": -5.264216738197424
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:38:11.261041+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-23T22:57:42.772095+00:00",
       "close": 146.47
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 149.12
+    },
+    {
+      "timestamp": "2026-09-01T16:58:12.401245+00:00",
+      "close": 141.27
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-31T18:03:41+00:00",
-      "title": "Oracle May Remain A Chronic Underperformer",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-01T15:00:02+00:00",
+      "title": "Oracle (ORCL) Earnings Expected to Grow: Should You Buy?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T12:41:34+00:00",
-      "title": "Trump Warns Against Killing the Data Center 'Golden Goose': 5 Stocks to Watch",
-      "source": "Benzinga",
+      "timestamp": "2026-09-01T14:58:35+00:00",
+      "title": "Wall Street Warns AI Stocks Are Starting to Trade Like Interest-Rate-Sensitive Credit",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T12:32:51+00:00",
-      "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-01T14:00:00+00:00",
+      "title": "Ambient Clinical Analytics Joins Oracle's Partner Program",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T11:30:40+00:00",
-      "title": "Nvidia's AI Boom Is Starting to Resemble 1980s Japan, Former NYT Tokyo Bureau Chief Warns",
-      "source": "Benzinga",
+      "timestamp": "2026-09-01T14:00:00+00:00",
+      "title": "InnoFin Solutions Joins Ascend Partners to Accelerate Office of the CFO Digital Transformation",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T09:22:40+00:00",
-      "title": "Big Short Legend Steve Eisman Warns OpenAI Failure Could Trigger 'Immediate Recession'",
-      "source": "Benzinga",
+      "timestamp": "2026-09-01T13:37:32+00:00",
+      "title": "This Week In Cloud AI - AI-Driven Optical Networks Reshape Global Market Dynamics",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T08:29:20+00:00",
-      "title": "After The Fed: Analysis Of Warsh On AI, Inflation And The Unknowns (Video)",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-01T13:25:11+00:00",
+      "title": "Oracle cutting 3,000 India jobs as Microsoft places 500 on PIPs",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T05:17:38+00:00",
-      "title": "Nvidia CEO Jensen Huang Defends America’s AI Data Center Boom, Says It’s ‘Bringing Manufacturing Back’ After Decades Of Offshoring",
-      "source": "Benzinga",
+      "timestamp": "2026-09-01T13:00:00+00:00",
+      "title": "Asure Tax Now Available on Oracle Marketplace",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-30T15:16:19+00:00",
-      "title": "S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week",
-      "source": "Benzinga",
+      "timestamp": "2026-09-01T12:30:00+00:00",
+      "title": "Duke Executive Education and Simplilearn Launch Professional Certificate in Applied Generative AI and Agentic AI",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

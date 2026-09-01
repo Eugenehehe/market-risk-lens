@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T12:45:18.586055+00:00",
+  "generated_at": "2026-09-01T16:58:12.401245+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1696.01,
-    "change_pct": -0.008843505329692025
+    "price": 1663.54,
+    "change_pct": -1.9144934286944082
   },
   "risk": {
-    "score": 37,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:57:42.772095+00:00",
-      "close": 1763.76
-    },
     {
       "timestamp": "2026-08-23T23:27:49.374861+00:00",
       "close": 1763.76
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 1696.01
+    },
+    {
+      "timestamp": "2026-09-01T16:58:12.401245+00:00",
+      "close": 1663.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-08-31T17:05:00+00:00",
+      "title": "Does ASML's Dominant Position in EUV Signal Further Upside?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-08-31T13:00:00+00:00",
+      "title": "ASML reports transactions under its current share buyback program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-08-31T08:11:20+00:00",
       "title": "ASML (NASDAQ:ASML) Embodies Quality Investing with Strong Returns and Cash Generation",

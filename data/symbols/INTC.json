@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T12:45:18.586055+00:00",
+  "generated_at": "2026-09-01T16:58:12.401245+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 89.51,
-    "change_pct": 0.044707723259196364
+    "price": 89.08,
+    "change_pct": -0.4803932521506016
   },
   "risk": {
-    "score": 41,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:38:11.261041+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-23T22:57:42.772095+00:00",
       "close": 90.07
@@ -502,29 +498,73 @@
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 89.51
+    },
+    {
+      "timestamp": "2026-09-01T16:58:12.401245+00:00",
+      "close": 89.08
     }
   ],
   "events": [
     {
-      "timestamp": "2026-08-31T18:05:00+00:00",
-      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "timestamp": "2026-09-01T14:15:16+00:00",
+      "title": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T14:08:00+00:00",
+      "title": "Archive Intel Partners With Zocks to Streamline AI Compliance Reviews",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T14:08:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Microsoft, Intel, Bank of America, AMREP and United Bancorp",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T14:05:00+00:00",
+      "title": "Waymo, NVIDIA, Tesla and More Join A3’s Advanced Vision & AI Conference",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T12:35:00+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T15:19:05+00:00",
-      "title": "AMD: Still Eating Intel's Lunch",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-01T12:33:59+00:00",
+      "title": "Palantir Vs. Intel: Choose One for The Rest of 2026",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-08-31T07:41:43+00:00",
-      "title": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
-      "source": "ChartMill",
+      "timestamp": "2026-09-01T12:30:00+00:00",
+      "title": "Duke Executive Education and Simplilearn Launch Professional Certificate in Applied Generative AI and Agentic AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T12:08:00+00:00",
+      "title": "Sandisk, Marvell, Robinhood, Novartis, Dell, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

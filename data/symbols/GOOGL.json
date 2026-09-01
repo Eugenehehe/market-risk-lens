@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T12:45:18.586055+00:00",
+  "generated_at": "2026-09-01T16:58:12.401245+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 339.35,
-    "change_pct": -2.088923511930507
+    "price": 335.65,
+    "change_pct": -1.0903197288934852
   },
   "risk": {
-    "score": 67,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:38:11.261041+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T22:57:42.772095+00:00",
       "close": 344.82
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 339.35
+    },
+    {
+      "timestamp": "2026-09-01T16:58:12.401245+00:00",
+      "close": 335.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T13:00:00+00:00",
+      "title": "Fervo Energy and Google Sign 396 MW PPA",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T09:29:53+00:00",
+      "title": "Marvell Is Putting The Pedal To The Metal",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T08:58:16+00:00",
+      "title": "Tesla: This Week's Cybercab Launch Has A Lot To Prove",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T05:30:16+00:00",
+      "title": "What's Going On With Broadcom Stock Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T01:53:37+00:00",
+      "title": "Can MSFT Stock Compound Its Way Higher?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T01:37:02+00:00",
       "title": "Alphabet: Question Marks Behind The AI Boom",
@@ -514,57 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-08-31T22:38:07+00:00",
+      "title": "Anthropic Signs $35 Billion Cloud Agreement With Nvidia-Backed Lambda in Deal Where Chip Giant Holds the Lease: Report",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-08-31T20:06:38+00:00",
       "title": "How Stock Picking Can Compress The Path To A $1 Million Portfolio",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T19:10:18+00:00",
-      "title": "Top dow jones movers in Monday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T17:02:14+00:00",
-      "title": "Warren Buffett Set Berkshire Hathaway Up for Years: Top 5 Stocks Yield $589 Million Each Quarter",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T17:00:02+00:00",
-      "title": "MapQuest vs. Trump: OG of Maps Keeps Lake Ontario Name, Sees Download Surge and Stock Boost for Parent",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T16:40:05+00:00",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T16:26:37+00:00",
-      "title": "Marvell Technology: Greater Clarity Does Not Impress",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T16:18:08+00:00",
-      "title": "Trump’s Truth Social ETF Manager Is Betting Big on AI, Crypto and New ETFs",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
