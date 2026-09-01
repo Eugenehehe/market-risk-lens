@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T16:58:12.401245+00:00",
+  "generated_at": "2026-09-01T19:50:03.857837+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 709.22,
-    "change_pct": -1.0519560243317128
+    "price": 707.97,
+    "change_pct": -1.2263519169596448
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T22:57:42.772095+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-23T23:27:49.374861+00:00",
       "close": 713.44
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 709.22
+    },
+    {
+      "timestamp": "2026-09-01T19:50:03.857837+00:00",
+      "close": 707.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T15:00:02+00:00",
+      "title": "4.1% Unemployment Is Hiding Something",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T14:39:00+00:00",
       "title": "Invesco S&P 500 Equal Weight ETF (RSP) Reaches $100 Billion AUM Milestone",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-01T14:12:59+00:00",
+      "title": "Wake Me Up When September Ends: The Bond Trap",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-01T14:06:22+00:00",
       "title": "Tesla Falls 3% as Mixed European Registrations Land Ahead of Cybercab Launch",
       "source": "Yahoo",
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-01T13:40:41+00:00",
-      "title": "‘Your Stock Doesn’t Know Your Name’: Wes Moss on Owning Too Much Apple, Google",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:28:27+00:00",
-      "title": "Crypto Stocks Slide as Bitcoin and Ethereum Hold Flat: Circle Internet and Bitmine Fall 4%, Coinbase Drops 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:17:31+00:00",
-      "title": "GoPro Soars 78% as Markiplier Stake Pushes Shares Above $1.50",
-      "source": "Yahoo",
+      "timestamp": "2026-09-01T13:48:00+00:00",
+      "title": "U.S. Growth Stocks: Semiconductor Surge Redraws The Risk Map",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
