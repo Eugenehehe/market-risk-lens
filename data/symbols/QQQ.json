@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T19:50:03.857837+00:00",
+  "generated_at": "2026-09-01T22:07:28.910746+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 707.97,
-    "change_pct": -1.2263519169596448
+    "price": 707.64,
+    "change_pct": -1.2723924326134228
   },
   "risk": {
-    "score": 60,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T23:27:49.374861+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 713.44
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 707.97
+    },
+    {
+      "timestamp": "2026-09-01T22:07:28.910746+00:00",
+      "close": 707.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T17:26:00+00:00",
+      "title": "Two Fronts, Zero Wins: The Failure Of US Interventions",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T16:47:07+00:00",
+      "title": "Markets Agree With Trump, Not Warsh",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T15:30:00+00:00",
+      "title": "Equity Volatility Falls To Near 1-Year Low Post Jackson Hole",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T15:00:02+00:00",
       "title": "4.1% Unemployment Is Hiding Something",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-01T14:12:59+00:00",
       "title": "Wake Me Up When September Ends: The Bond Trap",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T14:06:22+00:00",
-      "title": "Tesla Falls 3% as Mixed European Registrations Land Ahead of Cybercab Launch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T14:03:37+00:00",
-      "title": "Applied Digital Drops 4% as Rising Yields Hit AI Infrastructure, Cipher Mining Sinks 6%, Core Scientific Slides 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:48:00+00:00",
-      "title": "U.S. Growth Stocks: Semiconductor Surge Redraws The Risk Map",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T19:50:03.857837+00:00",
+  "generated_at": "2026-09-01T22:07:28.910746+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 426.98,
-    "change_pct": -6.3660884629722965
+    "price": 425,
+    "change_pct": -6.80028946733624
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T23:27:49.374861+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 442.08
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 426.98
+    },
+    {
+      "timestamp": "2026-09-01T22:07:28.910746+00:00",
+      "close": 425
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-01T21:00:00+00:00",
+      "title": "Get insights into the top gainers and losers of Tuesday's after-hours session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T19:05:01+00:00",
       "title": "Exploring the top movers within the S&P500 index during today's session.",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-01T17:06:34+00:00",
+      "title": "12 Information Technology Stocks Moving In Tuesday's After-Market Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-01T15:36:00+00:00",
       "title": "Dell Reports Tuesday With Our Model Flashing Green",
       "source": "Yahoo",
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-01T13:58:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Dell, Nvidia, Hewlett Packard, Super Micro Computer and Lenovo",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:35:18+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "timestamp": "2026-09-01T13:59:55+00:00",
+      "title": "Deutsche Bank Initiates Coverage On Dell Technologies with Hold Rating, Announces Price Target of $480",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:15:00+00:00",
-      "title": "DataAgent Emerges from Stealth and Launches Remediation-First Platform with $10 Million Pre-Seed Funding",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

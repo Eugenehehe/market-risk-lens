@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T19:50:03.857837+00:00",
+  "generated_at": "2026-09-01T22:07:28.910746+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 460.44,
-    "change_pct": -2.1838885112168693
+    "price": 459.61,
+    "change_pct": -2.360214140040795
   },
   "risk": {
-    "score": 68,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T23:48:58.068625+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-24T00:25:11.668280+00:00",
       "close": 473.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 460.44
+    },
+    {
+      "timestamp": "2026-09-01T22:07:28.910746+00:00",
+      "close": 459.61
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-01T17:44:01+00:00",
       "title": "AMD's Instinct Systems Are Now Live in Saudi Arabia -- Here's What the Next 250 Megawatts Are Worth to the Stock",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T17:05:59+00:00",
+      "title": "AMD: There's Little Upside Here",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-01T15:29:00+00:00",
       "title": "Seagate's YTD Gains are Double the Industry: Is the Stock Still a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T14:48:44+00:00",
-      "title": "Cathie Wood Sold $26 Million of Palantir to Buy These Two Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

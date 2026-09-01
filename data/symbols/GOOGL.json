@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T19:50:03.857837+00:00",
+  "generated_at": "2026-09-01T22:07:28.910746+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 334.32,
-    "change_pct": -1.4822454692795084
+    "price": 335.02,
+    "change_pct": -1.2759687638131845
   },
   "risk": {
-    "score": 62,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-23T23:27:49.374861+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-23T23:48:58.068625+00:00",
       "close": 344.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 334.32
+    },
+    {
+      "timestamp": "2026-09-01T22:07:28.910746+00:00",
+      "close": 335.02
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-09-01T14:13:24+00:00",
       "title": "Anthropic Announces Claude Fable 5.1 And Mythos 5.1",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-01T13:36:06+00:00",
+      "title": "Google Is ‘Just the Beginning’: Rezolve AI Teases More Infrastructure Deals",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-01T10:31:46+00:00",
       "title": "Fervo Energy Stock Jumps 24% After Google Signs Utah Geothermal Power Deal",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T10:08:03+00:00",
-      "title": "Waymo To Rolls Out Paid Robotaxis Rides For Public In Denver, San Diego, Tempa",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
