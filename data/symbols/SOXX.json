@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T17:17:52.580809+00:00",
+  "generated_at": "2026-09-02T19:52:36.407957+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 500.87,
-    "change_pct": 0.11193060302612245
+    "price": 501.03,
+    "change_pct": 0.1439107753193003
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T05:48:06.670144+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-24T06:27:53.174695+00:00",
       "close": 520.05
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-02T17:17:52.580809+00:00",
       "close": 500.87
+    },
+    {
+      "timestamp": "2026-09-02T19:52:36.407957+00:00",
+      "close": 501.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T13:28:32+00:00",
+      "title": "Broadcom Is Top Pick For AI’s Next Big Shift: Analyst",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T13:48:00+00:00",
       "title": "U.S. Growth Stocks: Semiconductor Surge Redraws The Risk Map",
@@ -557,14 +565,6 @@
       "timestamp": "2026-08-31T12:42:19+00:00",
       "title": "Software Is Back: 5 Stocks To Buy",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T09:27:33+00:00",
-      "title": "AMD Expands Global AI Footprint With New Saudi Platform",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
