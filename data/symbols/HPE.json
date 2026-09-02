@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T09:00:23.286239+00:00",
+  "generated_at": "2026-09-02T13:32:34.070905+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 50.87,
-    "change_pct": -2.622511485451773
+    "price": 50.65,
+    "change_pct": -0.43247493611165977
   },
   "risk": {
-    "score": 71,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T04:09:43.435539+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-24T05:00:55.243383+00:00",
       "close": 53.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-02T09:00:23.286239+00:00",
       "close": 50.87
+    },
+    {
+      "timestamp": "2026-09-02T13:32:34.070905+00:00",
+      "close": 50.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T12:35:01+00:00",
+      "title": "Wednesday's pre-market session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T18:30:02+00:00",
       "title": "Unusual Options Volume in Hewlett Packard Enterprise Co Ahead of Earnings Shows Investors Bullish on HPE",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-01T13:58:20+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:58:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Dell, Nvidia, Hewlett Packard, Super Micro Computer and Lenovo",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

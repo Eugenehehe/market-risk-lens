@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T09:00:23.286239+00:00",
+  "generated_at": "2026-09-02T13:32:34.070905+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 217.44,
-    "change_pct": -1.5128181900534443
+    "price": 219.63,
+    "change_pct": 1.0071743929359833
   },
   "risk": {
-    "score": 63,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T03:15:14.194178+00:00",
-      "close": 214.72
-    },
     {
       "timestamp": "2026-08-24T04:09:43.435539+00:00",
       "close": 214.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-02T09:00:23.286239+00:00",
       "close": 217.44
+    },
+    {
+      "timestamp": "2026-09-02T13:32:34.070905+00:00",
+      "close": 219.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T10:31:13+00:00",
+      "title": "NVIDIA (NASDAQ:NVDA) Screens as High-Growth Trend Template Stock",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T06:57:31+00:00",
       "title": "Iran Strikes Send Oil to $95 as Rate Fears Redden Wall Street, Dell's AI Server Blowout Steals the After-Hours",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-02T03:12:39+00:00",
       "title": "MongoDB (MDB) Stock Looks Above Fair Value On Cash Flow And Sales",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T03:12:19+00:00",
-      "title": "Top 3 Defensive Stocks To Watch In September 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

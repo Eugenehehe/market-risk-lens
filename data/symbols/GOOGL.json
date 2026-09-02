@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T09:00:23.286239+00:00",
+  "generated_at": "2026-09-02T13:32:34.070905+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 335.02,
-    "change_pct": -1.2759687638131845
+    "price": 333.3,
+    "change_pct": -0.5134021849441783
   },
   "risk": {
-    "score": 61,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T03:15:14.194178+00:00",
-      "close": 344.82
-    },
     {
       "timestamp": "2026-08-24T04:09:43.435539+00:00",
       "close": 344.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-02T09:00:23.286239+00:00",
       "close": 335.02
+    },
+    {
+      "timestamp": "2026-09-02T13:32:34.070905+00:00",
+      "close": 333.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T07:23:30+00:00",
+      "title": "Fervo Energy's Google Deal Might Be The Proof Bears Needed To See",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T05:00:00+00:00",
+      "title": "Solar Power Purchase Contracts Dominate First Half Of 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T02:45:23+00:00",
       "title": "Why Fervo Energy Stock Skyrocketed Today",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-01T23:23:38+00:00",
       "title": "Google prepares Gemini 3.8 Flash to narrow AI coding gap, WSJ reports",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T23:07:11+00:00",
-      "title": "Stock Market Today, Sept. 1: Fervo Energy Surges 28% on 396-Megawatt Google Power Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T22:49:53+00:00",
-      "title": "Meta May Overtake Google Search This Year. That Makes Its AI Capex Harder to Dismiss",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
