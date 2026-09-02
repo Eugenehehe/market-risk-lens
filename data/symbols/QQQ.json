@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T00:10:46.979118+00:00",
+  "generated_at": "2026-09-02T04:35:16.986212+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 707.64,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T00:25:11.668280+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-24T02:07:33.102037+00:00",
       "close": 713.44
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-02T00:10:46.979118+00:00",
       "close": 707.64
+    },
+    {
+      "timestamp": "2026-09-02T04:35:16.986212+00:00",
+      "close": 707.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T00:15:00+00:00",
+      "title": "Big Debt And Massive AI Bet Not Yet A Threat",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-01T18:30:54+00:00",
       "title": "TDAQ: A 17% Yielding Covered Call ETF Really Can Outperform QQQ, But Not In The Long Run",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-01T14:17:00+00:00",
       "title": "Pre-Market Futures Lower to Start September",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T14:14:08+00:00",
-      "title": "Stock Market Today: Dow Falls As Oil Prices Climb; This Medical Technology Name Hits A Buy Point (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
