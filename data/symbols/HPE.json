@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T19:52:36.407957+00:00",
+  "generated_at": "2026-09-02T22:14:16.257382+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 52.2,
-    "change_pct": 2.614507568311386
+    "price": 51.83,
+    "change_pct": 1.8871633575781477
   },
   "risk": {
-    "score": 71,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T06:27:53.174695+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-24T07:39:59.161002+00:00",
       "close": 53.45
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-02T19:52:36.407957+00:00",
       "close": 52.2
+    },
+    {
+      "timestamp": "2026-09-02T22:14:16.257382+00:00",
+      "close": 51.83
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T21:43:16+00:00",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Surprises With Q2 CY2026 Sales, Provides Optimistic Revenue Guidance for Next Quarter",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T21:11:18+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Brings AI Native Stadium Upgrade Into The Spotlight",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T21:06:00+00:00",
+      "title": "HPE and Oracle Deepen Networking Collaboration to Accelerate Gigawatt-Scale AI Infrastructure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T21:05:00+00:00",
+      "title": "HPE Reports Fiscal 2026 Third Quarter Results",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T18:23:52+00:00",
       "title": "Dell’s Record $60.9 Billion AI Order Quarter Leaves Stock Investors Unimpressed—Here’s Why",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-02T17:24:45+00:00",
       "title": "HPE Earnings Prediction Market Preview: Will Antonio Neri Say ‘Self Driving’ Again?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T16:40:04+00:00",
-      "title": "HPE vs. AMD: Which Stock Is the Better Value Option?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T15:50:00+00:00",
-      "title": "Soft Private Payrolls Data for August",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T15:41:48+00:00",
-      "title": "Deutsche Bank Initiates Coverage of Hewlett Packard Enterprise (HPE) with Buy Recommendation",
-      "source": "Fintel",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T15:12:00+00:00",
-      "title": "ADP Brings +38K Private-Sector Jobs in August",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

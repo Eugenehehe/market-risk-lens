@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T19:52:36.407957+00:00",
+  "generated_at": "2026-09-02T22:14:16.257382+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 456.23,
-    "change_pct": -0.7354061051761285
+    "price": 457.06,
+    "change_pct": -0.554818215443531
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T06:27:53.174695+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-24T07:39:59.161002+00:00",
       "close": 473.25
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-02T19:52:36.407957+00:00",
       "close": 456.23
+    },
+    {
+      "timestamp": "2026-09-02T22:14:16.257382+00:00",
+      "close": 457.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T21:36:00+00:00",
+      "title": "Top Stock Reports for AMD, Costco & AstraZeneca",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T20:20:50+00:00",
+      "title": "Jensen Huang Says the $3.5 Billion MediaTek Deal Is Not Circular. The Decade Long Roadmap Is the Real Tell.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T20:06:37+00:00",
+      "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T19:47:00+00:00",
       "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-02T17:24:47+00:00",
       "title": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T16:40:04+00:00",
-      "title": "HPE vs. AMD: Which Stock Is the Better Value Option?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T16:20:43+00:00",
-      "title": "Cramer Says Nvidia at 23 Times Earnings Needs a Half Trillion Dollar Buyback",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T15:19:00+00:00",
-      "title": "Micron Stock Soars 685% in a Year: Is the Momentum Still Sustainable?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

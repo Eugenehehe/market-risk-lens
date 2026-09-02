@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T19:52:36.407957+00:00",
+  "generated_at": "2026-09-02T22:14:16.257382+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 355.63,
-    "change_pct": -0.12918082507230588
+    "price": 357.01,
+    "change_pct": 0.25836165014463397
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T05:48:06.670144+00:00",
-      "close": 362.86
-    },
     {
       "timestamp": "2026-08-24T06:27:53.174695+00:00",
       "close": 362.86
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-02T19:52:36.407957+00:00",
       "close": 355.63
+    },
+    {
+      "timestamp": "2026-09-02T22:14:16.257382+00:00",
+      "close": 357.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T21:49:25+00:00",
+      "title": "Morgan Stanley Warns Tesla Stock Could Sink If Cybercab Launch Falls Short",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T21:27:28+00:00",
+      "title": "Morgan Stanley Doubles Down as Tesla Stock Faces Big Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T21:02:50+00:00",
+      "title": "Tesla's Cybercab to take center stage at Austin event",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T19:28:56+00:00",
       "title": "Musk’s $30 Trillion AI Forecast Hinges on a Timeline Even NVIDIA Says Is Unrealistic",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-02T18:05:01+00:00",
       "title": "Wednesday's session: most active stock in the S&P500 index",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T17:45:58+00:00",
-      "title": "Tesla's Cybercab Event Has 'More At Stake' Than Past Product Demos, Morgan Stanley",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T17:25:01+00:00",
-      "title": "Ford’s Garage Earns Recognition of 2026 Inc. 5000 List",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T17:00:00+00:00",
-      "title": "Konko AI Secures $6 Million to Scale Interoperable AI Platform that Gives Doctors More Time for Patient Care",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
