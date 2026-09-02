@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:35:16.986212+00:00",
+  "generated_at": "2026-09-02T09:00:23.286239+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 459.61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T03:15:14.194178+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-24T04:09:43.435539+00:00",
       "close": 473.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-02T04:35:16.986212+00:00",
       "close": 459.61
+    },
+    {
+      "timestamp": "2026-09-02T09:00:23.286239+00:00",
+      "close": 459.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-02T06:57:31+00:00",
+      "title": "Iran Strikes Send Oil to $95 as Rate Fears Redden Wall Street, Dell's AI Server Blowout Steals the After-Hours",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T00:02:26+00:00",
       "title": "Credo Technology Group Q1 Earnings Call Highlights",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-01T16:45:00+00:00",
       "title": "Can Qualcomm's Tie-Up With HUMAIN for AI PC Lift Its Shares?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T16:30:24+00:00",
-      "title": "AMD vs. Alphabet: One Stock Could Be the Surprise AI Winner",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

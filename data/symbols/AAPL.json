@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:35:16.986212+00:00",
+  "generated_at": "2026-09-02T09:00:23.286239+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 325.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T02:07:33.102037+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-24T03:15:14.194178+00:00",
       "close": 309.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-02T04:35:16.986212+00:00",
       "close": 325.13
+    },
+    {
+      "timestamp": "2026-09-02T09:00:23.286239+00:00",
+      "close": 325.13
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-02T03:19:07+00:00",
       "title": "Dow Jones Futures Fall, Oil Prices Keep Rising; Dell, Credo, Palo Alto Are Earnings Movers Late",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T01:21:25+00:00",
+      "title": "Apple: Cook Avoided The AI Trap, Ternus Should Too",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-01T19:53:24+00:00",
       "title": "AAPL Stock Sees Best Day In Over A Month – CEO John Ternus Reportedly Touts 'Phenomenal' iPhone Launch In First Memo To Employees",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T19:20:42+00:00",
-      "title": "Apple new CEO Ternus teases \"phenomenal\" iPhone launch in first memo",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
