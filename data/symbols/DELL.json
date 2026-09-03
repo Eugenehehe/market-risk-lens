@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T13:37:43.076443+00:00",
+  "generated_at": "2026-09-03T17:13:29.541098+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 484.92,
-    "change_pct": -1.479073547338472
+    "price": 514.64,
+    "change_pct": 4.5591223080048815
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 442.08
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-03T13:37:43.076443+00:00",
       "close": 484.92
+    },
+    {
+      "timestamp": "2026-09-03T17:13:29.541098+00:00",
+      "close": 514.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T15:01:04+00:00",
+      "title": "Bullish Option Traders Might Like This Play On Dell Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T14:40:32+00:00",
+      "title": "Dell Just Jumped 16% and One Strategist Says That Is the Whole Tech Argument Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T14:24:02+00:00",
+      "title": "Are investors underappreciating Broadcom's strong performance?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T14:11:32+00:00",
+      "title": "Why HPE Stock Is Falling Amid Fiscal Q3 Earnings Beat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T14:00:44+00:00",
+      "title": "Dell Stock Is Surging on Its $95 Billion AI Backlog. Could DELL Hit $600 Next?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T14:00:24+00:00",
       "title": "Why NetApp Stock Is Falling Despite A Big Earnings Beat",
@@ -514,56 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T13:37:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Dell",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:05:46+00:00",
-      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T11:44:23+00:00",
-      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T10:35:52+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T10:27:18+00:00",
-      "title": "Broadcom just took a page from Dell and Nvidia",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T09:00:20+00:00",
-      "title": "Broadcom Redraws the AI Silicon Runway While Dell's 16% Sprint Pulls Wall Street Off the Mat",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T08:17:07+00:00",
-      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Investors Eye Jobs Data",
+      "timestamp": "2026-09-03T14:00:00+00:00",
+      "title": "Data Center Solutions Market Surges to $1,336.55 billion at a CAGR 20.1% by 2031 | Report by MarketsandMarkets™",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

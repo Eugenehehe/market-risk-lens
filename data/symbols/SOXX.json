@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T13:37:43.076443+00:00",
+  "generated_at": "2026-09-03T17:13:29.541098+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 490.1,
-    "change_pct": -2.26148691767708
+    "price": 500.54,
+    "change_pct": -0.179483088704524
   },
   "risk": {
-    "score": 63,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 520.05
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-03T13:37:43.076443+00:00",
       "close": 490.1
+    },
+    {
+      "timestamp": "2026-09-03T17:13:29.541098+00:00",
+      "close": 500.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T09:21:13+00:00",
+      "title": "The Bond Market Might Be Getting Out Of Control",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T05:52:14+00:00",
+      "title": "Why Is Broadcom Stock Falling Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T01:34:16+00:00",
+      "title": "Nvidia's 8% Grip on the S&P 500 Is Unlike Anything Wall Street Has Seen: Jensen Huang-Led Chipmaker is 'Making History,' Says This Commentator",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T13:28:32+00:00",
       "title": "Broadcom Is Top Pick For AI’s Next Big Shift: Analyst",

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T13:37:43.076443+00:00",
+  "generated_at": "2026-09-03T17:13:29.541098+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 140.65,
-    "change_pct": -2.4144869215291687
+    "price": 144.85,
+    "change_pct": 0.4995490182474249
   },
   "risk": {
-    "score": 66,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 149.84
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 149.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-03T13:37:43.076443+00:00",
       "close": 140.65
+    },
+    {
+      "timestamp": "2026-09-03T17:13:29.541098+00:00",
+      "close": 144.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T14:04:00+00:00",
+      "title": "CIEN Q3 Earnings Beat on AI-Led Cloud Demand, Top Line Climbs 37% Y/Y",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-02T15:58:40+00:00",
       "title": "Corning (GLW) is Well Positioned for Strong Earnings Growth",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T13:37:43.076443+00:00",
+  "generated_at": "2026-09-03T17:13:29.541098+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 148.27,
-    "change_pct": 1.7289879931389418
+    "price": 154.16,
+    "change_pct": 5.77015437392796
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 146.47
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-03T13:37:43.076443+00:00",
       "close": 148.27
+    },
+    {
+      "timestamp": "2026-09-03T17:13:29.541098+00:00",
+      "close": 154.16
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-03T13:50:08+00:00",
-      "title": "HPE and Oracle expand AI data center networking deal",
+      "timestamp": "2026-09-03T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T15:29:49+00:00",
+      "title": "U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. What To Know.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T13:37:00+00:00",
-      "title": "Where Will Oracle Stock Be in 5 Years?",
+      "timestamp": "2026-09-03T14:43:00+00:00",
+      "title": "Oracle Stock Could Be Software’s Next Big Winner",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T10:16:38+00:00",
-      "title": "HPE Raises 2026 and 2027 Guidance, Expands Oracle Networking Agreement",
+      "timestamp": "2026-09-03T14:23:00+00:00",
+      "title": "The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T10:02:24+00:00",
-      "title": "Buy, Borrow, Die. How Larry Ellison Can Borrow Against Oracle Stock Instead of Selling It",
+      "timestamp": "2026-09-03T14:20:36+00:00",
+      "title": "Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T07:00:00+00:00",
-      "title": "The Bond Market Is Changing Fast. Investors Need a New Playbook.",
+      "timestamp": "2026-09-03T14:17:42+00:00",
+      "title": "Andvari Associates Strategic Investment in Martin Marietta Materials (MLM)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T05:05:51+00:00",
-      "title": "CPI FIM (BDL:ORCL) Stock Looks Reasonable After Its 112% Run",
+      "timestamp": "2026-09-03T14:17:37+00:00",
+      "title": "Snowflake Soars 23% as AI-Fueled Guidance Raise Tops Estimates, Oracle Advances 3%, Cloudflare Edges Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T23:03:19+00:00",
-      "title": "Hewlett Packard Enterprise Q3 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T22:52:23+00:00",
-      "title": "1 Software Stock Worth Investigating and 2 We Avoid",
+      "timestamp": "2026-09-03T13:52:22+00:00",
+      "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

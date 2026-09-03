@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T13:37:43.076443+00:00",
+  "generated_at": "2026-09-03T17:13:29.541098+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 921.34,
-    "change_pct": -3.633587147519035
+    "price": 942.85,
+    "change_pct": -1.3837754162831617
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 966.78
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-03T13:37:43.076443+00:00",
       "close": 921.34
+    },
+    {
+      "timestamp": "2026-09-03T17:13:29.541098+00:00",
+      "close": 942.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T15:41:45+00:00",
+      "title": "Micron's 11% Drop Hasn't Shaken Wall Street's Bull Case",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T15:35:00+00:00",
+      "title": "The Fed's September Decision Could Hit Micron Harder Than Its Own Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T15:15:33+00:00",
+      "title": "SEMI’s CEO Has Watched Four Decades of Chip Cycles. He Says This One Only Goes Up.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T14:44:00+00:00",
+      "title": "Can PENG Turn Integrated Memory Growth Into an Edge Over Competitors?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T14:16:00+00:00",
+      "title": "Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T13:58:00+00:00",
       "title": "Zacks Earnings Trends Highlights: Alphabet, Micron and Nvidia",
@@ -514,57 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T13:30:04+00:00",
-      "title": "If You Invested $1000 in Micron 10 Years Ago, This Is How Much You'd Have Now",
+      "timestamp": "2026-09-03T13:44:00+00:00",
+      "title": "China Is Grabbing Memory Market Share. This Stock Could Be a Big Loser.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T12:39:22+00:00",
-      "title": "Semiconductor Market Splits as AI Heavyweights Mask a Broad Chip Selloff",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T10:50:00+00:00",
-      "title": "A Once-in-a-Lifetime Investment Opportunity: The 3 Best Stocks to Take Advantage of the AI Build-Out",
+      "timestamp": "2026-09-03T13:37:16+00:00",
+      "title": "How Micron Technology (MU) is Shaping the AI Landscape",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T10:35:52+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T10:22:00+00:00",
-      "title": "Micron and China Chip Makers Fight for Market Share. There’s One Big Loser.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T09:20:00+00:00",
-      "title": "Micron Technology Stock Has Stumbled, but Here's Why I'm Not Buying the Dip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T08:06:08+00:00",
-      "title": "Micron: The AI Memory Shortage Has Spread Beyond HBM",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

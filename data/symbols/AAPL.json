@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T13:37:43.076443+00:00",
+  "generated_at": "2026-09-03T17:13:29.541098+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 324.86,
-    "change_pct": -0.03077301821761136
+    "price": 328.25,
+    "change_pct": 1.0124322993599222
   },
   "risk": {
-    "score": 51,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 309.35
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 309.35
@@ -502,12 +498,48 @@
     {
       "timestamp": "2026-09-03T13:37:43.076443+00:00",
       "close": 324.86
+    },
+    {
+      "timestamp": "2026-09-03T17:13:29.541098+00:00",
+      "close": 328.25
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-03T16:40:07+00:00",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T15:47:46+00:00",
+      "title": "Jefferies Revamps Apple Stock Target On Setback",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T15:00:58+00:00",
+      "title": "Apple Is Late to AI. That Could Be Its Biggest Opportunity",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T14:00:00+00:00",
       "title": "Jamf Named a Customers’ Choice in the 2026 Gartner Peer Insights™ \"Voice of the Customer\" for Endpoint Management Tools",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T13:59:13+00:00",
+      "title": "Apple Dividend Scorecard: Can a 0.32% Yield Still Earn an A?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -522,48 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-03T13:51:22+00:00",
+      "title": "Apple's App Rules Just Picked Up a $2.7 Billion Legal Risk",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T13:45:00+00:00",
       "title": "Tim Cook’s final words of warning as Apple CEO: US now at risk from ‘hundred-year flood’ — even Elon Musk is worried",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:32:03+00:00",
-      "title": "Berkshire Hathaway Just Poured Billions Into One Stock. Here’s Why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:03:58+00:00",
-      "title": "Apple faces £2bn UK lawsuit over app tracking rules",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:00:00+00:00",
-      "title": "How Apple's John Ternus inherited a 'reckoning' with China",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T11:35:00+00:00",
-      "title": "Broadcom and Snowflake Perfectly Sum Up the AI Trade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T11:13:46+00:00",
-      "title": "Top Funds Sink Their Teeth Into Apple Stock. Sweet Breakout Ahead?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
