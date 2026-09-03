@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T22:14:16.257382+00:00",
+  "generated_at": "2026-09-03T00:19:46.657615+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 17.28,
     "change_pct": -2.921348314606742
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T07:39:59.161002+00:00",
-      "close": 18.21
-    },
     {
       "timestamp": "2026-08-24T08:26:11.804141+00:00",
       "close": 18.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-02T22:14:16.257382+00:00",
       "close": 17.28
+    },
+    {
+      "timestamp": "2026-09-03T00:19:46.657615+00:00",
+      "close": 17.28
     }
   ],
   "events": [
@@ -517,14 +517,6 @@
       "timestamp": "2026-09-01T10:39:05+00:00",
       "title": "This September Volatility Trade Has Worked 5 Years In a Row",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-08-31T09:05:00+00:00",
-      "title": "Weekly Commentary: Money Matters",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

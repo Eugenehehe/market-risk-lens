@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:14:16.257382+00:00",
+  "generated_at": "2026-09-03T00:19:46.657615+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 765.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T07:39:59.161002+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-24T08:26:11.804141+00:00",
       "close": 765.72
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-02T22:14:16.257382+00:00",
       "close": 765.16
+    },
+    {
+      "timestamp": "2026-09-03T00:19:46.657615+00:00",
+      "close": 765.16
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-02T19:12:46+00:00",
       "title": "Lucid’s CEO Promised a $1.4 Billion Turnaround, Then This Happened",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-02T18:05:14+00:00",
+      "title": "Venezuela Deal Has Potential To Provide 2 Decades Of US And Global Economic Stability",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-02T15:55:52+00:00",
       "title": "Reddit Rallies 7% as Baird Says Renewal Risk Is Already Priced In, Pinterest Holds Flat",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T15:10:25+00:00",
-      "title": "Next Phase Of AI–Elon Musk’s 1 Billion Robots",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
