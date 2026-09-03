@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:44:11.735633+00:00",
+  "generated_at": "2026-09-03T09:13:52.817551+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 51.83,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T09:23:39.936042+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-24T10:09:43.220068+00:00",
       "close": 53.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-03T04:44:11.735633+00:00",
       "close": 51.83
+    },
+    {
+      "timestamp": "2026-09-03T09:13:52.817551+00:00",
+      "close": 51.83
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T05:01:00+00:00",
+      "title": "Hewlett Packard Enterprise Co (HPE) (Q3 2026) Earnings Call Highlights: Record Revenue and EPS ...",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T01:48:33+00:00",
       "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-02T21:54:43+00:00",
       "title": "Hewlett Packard Enterprise Company (HPE) Q3 2026 Earnings Call Transcript",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T21:52:00+00:00",
-      "title": "HPE Earnings Soar but Supply Constraints Aren’t Going Away",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
