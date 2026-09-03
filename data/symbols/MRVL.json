@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T19:53:23.509434+00:00",
+  "generated_at": "2026-09-03T22:11:10.595461+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 207.29,
-    "change_pct": 0.3922898101511141
+    "price": 208.83,
+    "change_pct": 1.1381247578458042
   },
   "risk": {
-    "score": 54,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T11:21:17.179842+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-24T11:50:12.450385+00:00",
       "close": 237.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 207.29
+    },
+    {
+      "timestamp": "2026-09-03T22:11:10.595461+00:00",
+      "close": 208.83
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-03T17:22:39+00:00",
       "title": "Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T16:48:25+00:00",
+      "title": "Broadcom: Not Out Of The Woods, Just Cheaper (Rating Upgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-03T13:35:19+00:00",
       "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:22:12+00:00",
-      "title": "Marvell Technology Knows Synopsys Is a Huge Threat",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

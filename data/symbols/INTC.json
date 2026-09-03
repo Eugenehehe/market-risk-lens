@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T19:53:23.509434+00:00",
+  "generated_at": "2026-09-03T22:11:10.595461+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 91.88,
-    "change_pct": 2.0322043309272564
+    "price": 91.67,
+    "change_pct": 1.7990005552470878
   },
   "risk": {
-    "score": 67,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T11:21:17.179842+00:00",
-      "close": 90.07
-    },
     {
       "timestamp": "2026-08-24T11:50:12.450385+00:00",
       "close": 90.07
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 91.88
+    },
+    {
+      "timestamp": "2026-09-03T22:11:10.595461+00:00",
+      "close": 91.67
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-03T18:59:32+00:00",
+      "title": "Investor Who Went 30 Years Without a Loss Just Bet $125 Million on Bitcoin",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Thursday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T17:44:00+00:00",
+      "title": "Can ARM's AGI CPU Push Unlock $15B in Revenues by FY'31?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-03T13:53:00+00:00",
       "title": "Assessment of the Global 6G Communications Optical and Optronic Opportunities 2026,  Reveals Why 6G Optical Isn't a New Market, But an Opportunity Layer on Today's Infrastructure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:31:00+00:00",
-      "title": "Memory Costs Rise: Can NVIDIA Protect Its 70%+ Gross Margin?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:24:46+00:00",
-      "title": "AMD is Quietly Eating Intel’s Lunch",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

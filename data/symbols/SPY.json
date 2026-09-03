@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T19:53:23.509434+00:00",
+  "generated_at": "2026-09-03T22:11:10.595461+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.21,
-    "change_pct": 1.052067541429258
+    "price": 773.17,
+    "change_pct": 1.0468398766271036
   },
   "risk": {
     "score": 59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T11:50:12.450385+00:00",
-      "close": 765.72
-    },
     {
       "timestamp": "2026-08-24T12:19:47.995814+00:00",
       "close": 765.72
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 773.21
+    },
+    {
+      "timestamp": "2026-09-03T22:11:10.595461+00:00",
+      "close": 773.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T18:48:59+00:00",
+      "title": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T18:43:45+00:00",
+      "title": "Data Center Stocks Rally With Bitcoin: Cipher Mining Jumps 12%, TeraWulf Surges 8%, IREN Rises 4%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T18:40:25+00:00",
+      "title": "SunPower Soars 60% on $26.2M Raise: Is This a Short Squeeze in Progress?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T18:03:42+00:00",
       "title": "SpaceX Rises 7% as Starship Test 14 Approaches, Tesla Jumps 7%, Rocket Lab Ticks Up",
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-03T17:32:03+00:00",
+      "title": "The $3 Trillion AI Footnote: What Big Tech Isn't Telling You On Page 1",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T17:27:32+00:00",
       "title": "Ciena Tumbles 10% as In-Line Guidance Overshadows Earnings Beat, Arista Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:25:57+00:00",
-      "title": "Campbell’s Slides 9% on 36% Dividend Cut, General Mills Falls 4%, Kraft Heinz Drops 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:20:59+00:00",
-      "title": "Bloom Energy Spikes 8% as Risk-On Tape Lifts High-Beta Names, FuelCell Ticks Up, Plug Power Stays Flat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:18:35+00:00",
-      "title": "Crypto Treasury Stocks Rally as Bitcoin Fund Jumps 5%: Strategy Surges 14%, Bitmine Climbs 12%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T16:38:00+00:00",
-      "title": "U.S.-Canada Trade Spat Could Bring More Tariffs Next Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
