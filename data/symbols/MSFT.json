@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 510.95,
-    "change_pct": 2.844088402238243
+    "price": 510.93,
+    "change_pct": 2.8400627994042082
   },
   "risk": {
     "score": 73,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 483.24
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 483.24
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 510.95
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 510.93
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-03T16:40:07+00:00",
+      "timestamp": "2026-09-03T19:10:05+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T18:05:26+00:00",
+      "title": "Wall Street Nears Record Highs With Help From Mag 7",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T16:41:10+00:00",
+      "title": "How Far Can Amazon Stock Fall When The Business Is Fine?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T16:39:00+00:00",
+      "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T16:38:05+00:00",
+      "title": "Dow Adds 650 Points in Midday Rally",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-03T15:33:45+00:00",
       "title": "This Is The Biggest Reason I Keep Accumulating Amazon Stock After Jumping 10% This Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:18:56+00:00",
-      "title": "Who Really Got Rights to Venezuela’s 65 Billion Barrels Of Oil Prize?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:11:00+00:00",
-      "title": "Microsoft Spotlights AI and Cloud With New Reporting Structure. It’s a Big Deal.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:30:00+00:00",
-      "title": "Cypress Creek Energy's Ostrea Solar Reaches Commercial Operation, Helping Power Nation's Fastest-Growing State Economy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:14:20+00:00",
-      "title": "Microsoft Corporation (MSFT) Generates Revenues and Profits Beyond AI Theme",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

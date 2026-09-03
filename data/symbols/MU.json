@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 942.85,
-    "change_pct": -1.3837754162831617
+    "price": 954.22,
+    "change_pct": -0.19454438959083387
   },
   "risk": {
-    "score": 62,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 966.78
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 966.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 942.85
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 954.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T17:35:00+00:00",
+      "title": "Snowflake Q2 Earnings Beat on Product Revenues and AI Strength",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T15:41:45+00:00",
       "title": "Micron's 11% Drop Hasn't Shaken Wall Street's Bull Case",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-03T14:36:03+00:00",
+      "title": "Micron, SanDisk Lag Tech Rally as China Grabs Memory Market Share",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T14:16:00+00:00",
       "title": "Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead?",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-03T13:58:00+00:00",
       "title": "Zacks Earnings Trends Highlights: Alphabet, Micron and Nvidia",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:44:00+00:00",
-      "title": "China Is Grabbing Memory Market Share. This Stock Could Be a Big Loser.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:37:16+00:00",
-      "title": "How Micron Technology (MU) is Shaping the AI Landscape",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

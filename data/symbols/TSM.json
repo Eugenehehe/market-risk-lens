@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 414.37,
-    "change_pct": -0.2719614921780966
+    "price": 416.39,
+    "change_pct": 0.2141997593261058
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T11:21:17.179842+00:00",
-      "close": 418.95
-    },
     {
       "timestamp": "2026-08-24T11:50:12.450385+00:00",
       "close": 418.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 414.37
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 416.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T13:35:19+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T12:39:22+00:00",
       "title": "Semiconductor Market Splits as AI Heavyweights Mask a Broad Chip Selloff",
@@ -517,6 +525,14 @@
       "timestamp": "2026-09-03T11:12:15+00:00",
       "title": "Something Is Wrong With AMD",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T11:00:26+00:00",
+      "title": "Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Apple Stock",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-02T18:27:10+00:00",
       "title": "Dell Technologies: The Sovereign AI Wave Is Just Beginning",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T13:53:36+00:00",
-      "title": "Stifel Initiates Coverage On Taiwan Semiconductor with Buy Rating, Announces Price Target of $515",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T10:30:25+00:00",
-      "title": "$100 Invested In Taiwan Semiconductor 20 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

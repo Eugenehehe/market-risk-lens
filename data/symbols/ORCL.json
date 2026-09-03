@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 154.16,
-    "change_pct": 5.77015437392796
+    "price": 154.76,
+    "change_pct": 6.181818181818177
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 146.47
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 154.16
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 154.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T19:05:01+00:00",
+      "title": "Thursday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T17:35:00+00:00",
+      "title": "Snowflake Q2 Earnings Beat on Product Revenues and AI Strength",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T16:39:00+00:00",
+      "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T16:35:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-03T14:20:36+00:00",
       "title": "Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:17:42+00:00",
-      "title": "Andvari Associates Strategic Investment in Martin Marietta Materials (MLM)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:17:37+00:00",
-      "title": "Snowflake Soars 23% as AI-Fueled Guidance Raise Tops Estimates, Oracle Advances 3%, Cloudflare Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:52:22+00:00",
-      "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

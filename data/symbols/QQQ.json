@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 716.77,
-    "change_pct": 1.061699847724329
+    "price": 717.24,
+    "change_pct": 1.1279679657097752
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 713.44
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 713.44
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 716.77
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 717.24
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-03T13:47:45+00:00",
+      "title": "Wall Street Rallies as Fed’s Waller Hints at September Rate Hold: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T12:35:27+00:00",
       "title": "24-Hour Trading Is A Terrible Idea",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T12:26:44+00:00",
+      "title": "Snowflake Signals Surging AI Data Cloud Demand; Broadcom Sees Strong Chip Demand Through 2028; Yen Strengthens",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-03T09:48:07+00:00",
       "title": "Fed’s Waller Favors Holding Rates in September — Unless August Inflation Runs Hot",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T09:21:13+00:00",
-      "title": "The Bond Market Might Be Getting Out Of Control",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T09:11:33+00:00",
-      "title": "The Bond Market Will End The War In Iran",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

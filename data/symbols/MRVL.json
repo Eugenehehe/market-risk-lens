@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 211.11,
-    "change_pct": 2.2423479271600266
+    "price": 207.29,
+    "change_pct": 0.3922898101511141
   },
   "risk": {
-    "score": 68,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 237.04
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 237.04
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 211.11
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 207.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T17:32:00+00:00",
+      "title": "ALAB Stock Down 24% in a Month: Should Investors Buy the Dip or Wait?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T17:31:28+00:00",
+      "title": "Jim Cramer Explains Why He Isn’t Ready to Pull the Trigger on Marvell (MRVL) Stock Yet",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T17:22:39+00:00",
+      "title": "Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T14:44:00+00:00",
       "title": "Can PENG Turn Integrated Memory Growth Into an Edge Over Competitors?",
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-03T13:35:19+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T13:22:12+00:00",
       "title": "Marvell Technology Knows Synopsys Is a Huge Threat",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T12:39:22+00:00",
-      "title": "Semiconductor Market Splits as AI Heavyweights Mask a Broad Chip Selloff",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T11:47:00+00:00",
-      "title": "Broadcom: The Market Is Overreacting Again, And Now There's A Path To $30 In EPS",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T11:28:13+00:00",
-      "title": "Jim Cramer's Says This Stock Is Primed for a “Huge Move”",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T10:41:24+00:00",
-      "title": "Marvell's Next AI Growth Phase",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

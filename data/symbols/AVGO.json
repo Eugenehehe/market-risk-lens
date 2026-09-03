@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T17:13:29.541098+00:00",
+  "generated_at": "2026-09-03T19:53:23.509434+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 355.41,
-    "change_pct": -3.221326652870049
+    "price": 357.31,
+    "change_pct": -2.7039538176669264
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:53:07.591946+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-24T11:21:17.179842+00:00",
       "close": 368.45
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 355.41
+    },
+    {
+      "timestamp": "2026-09-03T19:53:23.509434+00:00",
+      "close": 357.31
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-03T16:35:01+00:00",
-      "title": "These S&P500 stocks are moving in today's session",
+      "timestamp": "2026-09-03T19:05:01+00:00",
+      "title": "Thursday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T15:55:14+00:00",
-      "title": "Broadcom Forecasts Steep Ramp In AI Revenue",
+      "timestamp": "2026-09-03T18:08:00+00:00",
+      "title": "Nvidia, Tesla, Robinhood, Snowflake, Ultragenyx, Ciena, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T15:48:12+00:00",
-      "title": "Broadcom 2027 Guidance Meets Expectations; 2028 Sets a High Bar, RBC Says",
+      "timestamp": "2026-09-03T18:05:01+00:00",
+      "title": "Which S&P500 stocks are the most active on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T18:00:37+00:00",
+      "title": "Nvidia Is Paying $14 Billion for a Company That Gives Its Best Work Away for Free",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T15:39:27+00:00",
-      "title": "Broadcom Guide to Double Fiscal 2027 AI Revenue is Conservative, Truist Says",
+      "timestamp": "2026-09-03T17:54:03+00:00",
+      "title": "Stock Market Midday, Sept. 3: Stocks Rally as Treasury Yields Fall, Broadcom Falls Despite Earnings Beat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T15:30:40+00:00",
-      "title": "This One Metric Is Why I’m Going to Keep Buying Nvidia Hand-Over-Fist",
+      "timestamp": "2026-09-03T17:49:00+00:00",
+      "title": "AVGO Q3 Earnings Beat Estimates, Revenues Rise on Strong AI Demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T15:25:44+00:00",
-      "title": "Top Midday Stories: Nvidia to Acquire Hugging Face for $12.93 Billion; Broadcom Q3 Adjusted Earnings, Guidance Top Estimates",
+      "timestamp": "2026-09-03T17:48:26+00:00",
+      "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T15:13:40+00:00",
-      "title": "AVGO Stock Sinks To Near 5-Month Lows Despite Exploding AI Sales — Wall Street Reactions Are Mixed",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:05:44+00:00",
-      "title": "Why Broadcom Stock Dropped Today",
+      "timestamp": "2026-09-03T17:23:53+00:00",
+      "title": "Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
