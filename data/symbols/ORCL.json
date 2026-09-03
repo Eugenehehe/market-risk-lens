@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T09:13:52.817551+00:00",
+  "generated_at": "2026-09-03T13:37:43.076443+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.75,
-    "change_pct": 3.1347296914803424
+    "price": 148.27,
+    "change_pct": 1.7289879931389418
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T09:23:39.936042+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-24T10:09:43.220068+00:00",
       "close": 146.47
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 145.75
+    },
+    {
+      "timestamp": "2026-09-03T13:37:43.076443+00:00",
+      "close": 148.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T13:50:08+00:00",
+      "title": "HPE and Oracle expand AI data center networking deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T13:37:00+00:00",
+      "title": "Where Will Oracle Stock Be in 5 Years?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T10:16:38+00:00",
+      "title": "HPE Raises 2026 and 2027 Guidance, Expands Oracle Networking Agreement",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T10:02:24+00:00",
+      "title": "Buy, Borrow, Die. How Larry Ellison Can Borrow Against Oracle Stock Instead of Selling It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T07:00:00+00:00",
+      "title": "The Bond Market Is Changing Fast. Investors Need a New Playbook.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T05:05:51+00:00",
       "title": "CPI FIM (BDL:ORCL) Stock Looks Reasonable After Its 112% Run",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-02T22:52:23+00:00",
       "title": "1 Software Stock Worth Investigating and 2 We Avoid",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T21:48:23+00:00",
-      "title": "Winners And Losers Of Q2: Workday (NASDAQ:WDAY) Vs The Rest Of The Finance and HR Software Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T21:44:00+00:00",
-      "title": "Zoom Appoints Former Oracle CFO Jeff Epstein to Board of Directors; Jonathan Chadwick to Retire",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T21:07:14+00:00",
-      "title": "HPE Earnings Top Estimates Amid Oracle AI Data Center Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T21:06:00+00:00",
-      "title": "HPE and Oracle Deepen Networking Collaboration to Accelerate Gigawatt-Scale AI Infrastructure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T21:03:01+00:00",
-      "title": "Oracle Is Down 25%. Jefferies Says the Worst May Be Priced In",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

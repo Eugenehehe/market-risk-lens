@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T09:13:52.817551+00:00",
+  "generated_at": "2026-09-03T13:37:43.076443+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 367.24,
-    "change_pct": -0.6600302964726246
+    "price": 346.28,
+    "change_pct": -5.7074392767672455
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T09:23:39.936042+00:00",
-      "close": 368.45
-    },
     {
       "timestamp": "2026-08-24T10:09:43.220068+00:00",
       "close": 368.45
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 367.24
+    },
+    {
+      "timestamp": "2026-09-03T13:37:43.076443+00:00",
+      "close": 346.28
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-03T07:18:01+00:00",
-      "title": "Broadcom's AI Revenue Just Soared 221%, and Profits Tripled. So, Why Is the Stock Flat?",
+      "timestamp": "2026-09-03T14:07:19+00:00",
+      "title": "Stock Market Today: Dow Up On Fed Governor Remarks; Nvidia Rallies On Hugging Face Deal (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T03:52:50+00:00",
-      "title": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus",
+      "timestamp": "2026-09-03T13:30:00+00:00",
+      "title": "US stocks look for a breather after rough start to September",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T03:23:53+00:00",
-      "title": "Billionaire Dan Loeb Exited Nvidia and Broadcom. Is He Calling the Top in AI Chips?",
+      "timestamp": "2026-09-03T13:22:00+00:00",
+      "title": "ETFs to Buy as Broadcom Slides Despite Better-Than-Expected Q3 Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T02:34:24+00:00",
-      "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses' OpenAI, Anthropic: Analyst Says Some Risks Remain Unresolved",
+      "timestamp": "2026-09-03T13:18:22+00:00",
+      "title": "Broadcom Is Sitting at $370 and Wall Street Suddenly Has Doubts About Its AI Business",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T01:48:33+00:00",
-      "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "timestamp": "2026-09-03T13:05:46+00:00",
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T00:12:50+00:00",
-      "title": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus",
+      "timestamp": "2026-09-03T12:35:02+00:00",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T11:44:23+00:00",
+      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T23:55:30+00:00",
-      "title": "Billionaire has bold take on 'hot money' rotation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T23:21:01+00:00",
-      "title": "Broadcom Earnings: AI Chip Sales Tripled. Here’s the $34.8 Billion Number Investors Need to Watch.",
+      "timestamp": "2026-09-03T11:35:00+00:00",
+      "title": "Broadcom and Snowflake Perfectly Sum Up the AI Trade",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

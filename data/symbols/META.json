@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T09:13:52.817551+00:00",
+  "generated_at": "2026-09-03T13:37:43.076443+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 592.85,
-    "change_pct": 2.4734676945414424
+    "price": 616.42,
+    "change_pct": 3.9757105507295165
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 549.9
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 549.9
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 592.85
+    },
+    {
+      "timestamp": "2026-09-03T13:37:43.076443+00:00",
+      "close": 616.42
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-03T03:36:37+00:00",
-      "title": "AGIX Vs. CHAT: I'm Buying The Loser",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T23:03:18+00:00",
-      "title": "Broadcom Q3 Earnings Call Highlights",
+      "timestamp": "2026-09-03T14:01:00+00:00",
+      "title": "Assessment of the U.S. Nuclear Power and Small Modular Reactor Market 2026 Now Available — Reveals Why Big Tech Is Becoming an Active Force in Nuclear Project Formation, Not Just a Power Buyer",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T21:31:00+00:00",
-      "title": "Broadcom’s Outlook Shows Surging AI Chip Sales",
+      "timestamp": "2026-09-03T14:00:49+00:00",
+      "title": "Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T21:15:00+00:00",
-      "title": "Edwards Lifesciences to Present at the Deutsche Bank Healthcare Summit",
+      "timestamp": "2026-09-03T13:35:03+00:00",
+      "title": "Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T20:53:11+00:00",
-      "title": "META Stock Jumps To Best Day In Nearly A Month — Meta Platforms Unveils Most Powerful AI Model To Compete With AI Rivals",
+      "timestamp": "2026-09-03T13:21:32+00:00",
+      "title": "For all their talk about AI, few companies are quantifying gains",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T20:46:10+00:00",
-      "title": "US judge rejects bid to break up Google's ad business",
+      "timestamp": "2026-09-03T13:05:00+00:00",
+      "title": "AbbVie to Present at the Morgan Stanley 24th Annual Global Healthcare Conference",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T20:26:26+00:00",
-      "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
+      "timestamp": "2026-09-03T13:00:00+00:00",
+      "title": "Amdocs CEO Shimie Hortig and CFO Tal Rozenfeld to Speak at the Goldman Sachs Communacopia + Technology Conference and Citi's 2026 Global TMT Conference in September",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T18:41:38+00:00",
-      "title": "U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",
+      "timestamp": "2026-09-03T10:35:52+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T10:00:00+00:00",
+      "title": "Meta Platforms May Have Escaped the Worst of a Landmark Teen-Safety Lawsuit. But the Ramifications Could Be Much Worse for Snap.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

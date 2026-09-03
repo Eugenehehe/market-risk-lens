@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T09:13:52.817551+00:00",
+  "generated_at": "2026-09-03T13:37:43.076443+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 492.2,
-    "change_pct": 15.811764705882347
+    "price": 484.92,
+    "change_pct": -1.479073547338472
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T09:23:39.936042+00:00",
-      "close": 442.08
-    },
     {
       "timestamp": "2026-08-24T10:09:43.220068+00:00",
       "close": 442.08
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 492.2
+    },
+    {
+      "timestamp": "2026-09-03T13:37:43.076443+00:00",
+      "close": 484.92
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-03T06:14:40+00:00",
-      "title": "Dell Technologies (DELL) Enters New Consumer Segments With The Dell 14S",
+      "timestamp": "2026-09-03T14:00:24+00:00",
+      "title": "Why NetApp Stock Is Falling Despite A Big Earnings Beat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T01:48:33+00:00",
-      "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "timestamp": "2026-09-03T13:37:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Dell",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T01:43:53+00:00",
-      "title": "Dell Technologies (DELL) Raises the Bar Again as AI Demand Fuels Another Strong Quarter",
+      "timestamp": "2026-09-03T13:05:46+00:00",
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-03T01:32:16+00:00",
-      "title": "Dell Technologies Inc. 2027 Q2 - Results - Earnings Call Presentation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T00:12:50+00:00",
-      "title": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus",
+      "timestamp": "2026-09-03T11:44:23+00:00",
+      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T23:30:47+00:00",
-      "title": "Trump Accounts Get Major Corporate Boost: American Airlines Offers $1,000 Match, Dell Starts $250 Payments",
+      "timestamp": "2026-09-03T10:35:52+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Snowflake to Advance, Broadcom to Decline",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T21:45:36+00:00",
-      "title": "NetApp Stock Slides Despite Earnings Beat",
+      "timestamp": "2026-09-03T10:27:18+00:00",
+      "title": "Broadcom just took a page from Dell and Nvidia",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-02T21:32:53+00:00",
-      "title": "Why “Phenomenal” Results Still Only Get Dell a Hold Rating",
+      "timestamp": "2026-09-03T09:00:20+00:00",
+      "title": "Broadcom Redraws the AI Silicon Runway While Dell's 16% Sprint Pulls Wall Street Off the Mat",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T08:17:07+00:00",
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Investors Eye Jobs Data",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

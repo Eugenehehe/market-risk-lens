@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T09:13:52.817551+00:00",
+  "generated_at": "2026-09-03T13:37:43.076443+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 415.5,
-    "change_pct": 0.36231884057971175
+    "price": 408.63,
+    "change_pct": -1.6534296028880902
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 418.95
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 418.95
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 415.5
+    },
+    {
+      "timestamp": "2026-09-03T13:37:43.076443+00:00",
+      "close": 408.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T12:39:22+00:00",
+      "title": "Semiconductor Market Splits as AI Heavyweights Mask a Broad Chip Selloff",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T08:42:03+00:00",
+      "title": "EWT: High AI Potential, Tremendous Geopolitical Risks As China Preps For A Blockade",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T03:36:37+00:00",
       "title": "AGIX Vs. CHAT: I'm Buying The Loser",

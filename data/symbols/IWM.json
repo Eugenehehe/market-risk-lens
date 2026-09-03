@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T09:13:52.817551+00:00",
+  "generated_at": "2026-09-03T13:37:43.076443+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 294.01,
-    "change_pct": 1.183879960078471
+    "price": 295.47,
+    "change_pct": 0.49658174892011075
   },
   "risk": {
-    "score": 60,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T10:09:43.220068+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-24T10:53:07.591946+00:00",
       "close": 299.96
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 294.01
+    },
+    {
+      "timestamp": "2026-09-03T13:37:43.076443+00:00",
+      "close": 295.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T10:05:56+00:00",
+      "title": "Market Breadth Rebounds, but Short-Term Trend Damage Remains",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T09:11:33+00:00",
+      "title": "The Bond Market Will End The War In Iran",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T09:00:00+00:00",
+      "title": "Value And Small Caps Stage A Comeback - Will It Last This Time?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T07:11:42+00:00",
+      "title": "Corporate Profits Doubled. Why Didn't Household Income Fall?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T02:50:00+00:00",
       "title": "September Market Digest",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-02T23:50:00+00:00",
       "title": "U.S. Small-Cap Equities - Why Now May Be The Moment To Lean In",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T18:05:14+00:00",
-      "title": "Venezuela Deal Has Potential To Provide 2 Decades Of US And Global Economic Stability",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T16:08:31+00:00",
-      "title": "Bessent Is Not Making A Mistake",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T13:21:20+00:00",
-      "title": "Nvidia Jumps On AI Bid, Software Stocks Dip: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-02T12:30:35+00:00",
-      "title": "This Is Your Last Chance To Buy Gold",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
