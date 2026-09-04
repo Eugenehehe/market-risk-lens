@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T16:56:56.606669+00:00",
+  "generated_at": "2026-09-04T19:21:29.131961+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 771.17,
-    "change_pct": -0.258675323667501
+    "price": 769.81,
+    "change_pct": -0.43457454376140126
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T16:19:43.668409+00:00",
-      "close": 765.08
-    },
     {
       "timestamp": "2026-08-24T17:00:57.034393+00:00",
       "close": 764.23
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-04T16:56:56.606669+00:00",
       "close": 771.17
+    },
+    {
+      "timestamp": "2026-09-04T19:21:29.131961+00:00",
+      "close": 769.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T18:11:07+00:00",
+      "title": "ChargePoint Climbs 7% as CEO Says Rally Is ‘the Beginning of the Momentum’; EVgo Ticks Up, Blink Charging Holds Flat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T16:51:10+00:00",
+      "title": "Trade Desk Falls 4% on 15% Workforce Cut; AppLovin Ascends 3%, Magnite Pulls Back",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T16:24:40+00:00",
+      "title": "Netflix Falls 4% as Rate Repricing Pressures Long-Duration Growth; Disney Dips, Warner Bros. Discovery Sits Tight",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T16:20:33+00:00",
+      "title": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T16:12:48+00:00",
       "title": "IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2%",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-04T15:48:39+00:00",
       "title": "GPIX Is Paying 8% and Trailing SPY by Just Half a Point. Has Goldman Finally Fixed the Covered-Call ETF?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:37:41+00:00",
-      "title": "SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:07:22+00:00",
-      "title": "Trump Reacts to Jobs Data: 'Lower The Rate or I’ll Stop Trading With Countries'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:00:36+00:00",
-      "title": "SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:57:20+00:00",
-      "title": "Adobe Sinks 7% as Internal CEO Pick Lands Ahead of Earnings, Workday Falls 4%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

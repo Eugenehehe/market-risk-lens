@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T16:56:56.606669+00:00",
+  "generated_at": "2026-09-04T19:21:29.131961+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 257.31,
-    "change_pct": -0.6141367323290736
+    "price": 258.2,
+    "change_pct": -0.2703746620316694
   },
   "risk": {
-    "score": 55,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:00:50.108805+00:00",
-      "close": 261.89
-    },
     {
       "timestamp": "2026-08-24T15:50:01.647359+00:00",
       "close": 262.91
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-04T16:56:56.606669+00:00",
       "close": 257.31
+    },
+    {
+      "timestamp": "2026-09-04T19:21:29.131961+00:00",
+      "close": 258.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T17:37:30+00:00",
+      "title": "Should You Worry That IBM Has Gone Quiet On Its AI Total?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T17:14:55+00:00",
+      "title": "Does Google Stock's Cloud Margin Justify Its AI Bill?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T15:50:13+00:00",
       "title": "Wall Street Is Misreading Alphabet’s Supposed Achilles Heel",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-04T15:05:00+00:00",
       "title": "Snowflake Gains 17% Post Q2 Earnings: Buy, Sell or Hold the Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:50:00+00:00",
-      "title": "Here Are the First 3 Stocks I'm Buying if the Market Crashes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:47:00+00:00",
-      "title": "Disney Stock Is Trading at a Discount: Should You Buy, Sell or Hold?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

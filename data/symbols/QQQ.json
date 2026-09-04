@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T16:56:56.606669+00:00",
+  "generated_at": "2026-09-04T19:21:29.131961+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 719.42,
-    "change_pct": 0.2438446639820624
+    "price": 717.82,
+    "change_pct": 0.020900971198467566
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:50:01.647359+00:00",
-      "close": 708.32
-    },
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 708.68
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-04T16:56:56.606669+00:00",
       "close": 719.42
+    },
+    {
+      "timestamp": "2026-09-04T19:21:29.131961+00:00",
+      "close": 717.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T13:32:31+00:00",
+      "title": "SanDisk Jumps 10%, Lululemon Crashes 17%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T12:15:14+00:00",
       "title": "Interest Rates May Be Going Higher With Or Without The Fed",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-04T10:24:04+00:00",
       "title": "The AI Collapse Nobody Is Ready For",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T10:15:16+00:00",
-      "title": "Labor Shock: 162,000 Jobs, But This Is No Hiring Boom",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T16:56:56.606669+00:00",
+  "generated_at": "2026-09-04T19:21:29.131961+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 321.22,
-    "change_pct": -2.1297340117607533
+    "price": 321.96,
+    "change_pct": -1.904268608512838
   },
   "risk": {
-    "score": 68,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:00:50.108805+00:00",
-      "close": 313
-    },
     {
       "timestamp": "2026-08-24T15:50:01.647359+00:00",
       "close": 311.96
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-04T16:56:56.606669+00:00",
       "close": 321.22
+    },
+    {
+      "timestamp": "2026-09-04T19:21:29.131961+00:00",
+      "close": 321.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T18:05:02+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T17:14:55+00:00",
+      "title": "Does Google Stock's Cloud Margin Justify Its AI Bill?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T16:17:00+00:00",
+      "title": "Oura Revenue Surges as Smart-Ring Company Looks to Go Public. Apple Is a Risk.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T15:42:09+00:00",
       "title": "Apple Is at $325. Is This Overbought or the Start of a Re-Rating?",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-04T15:00:00+00:00",
       "title": "Academy Moves Forward With Lee, Wolski-David",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:44:09+00:00",
-      "title": "Nvidia and Apple Are Both Winning in 2026 And Doing It Because Of This Contrarian AI Move",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:40:50+00:00",
-      "title": "Apple's Memory Costs Quadrupled and Ternus Sets the Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:37:18+00:00",
-      "title": "Apple's First Foldable Could Launch With a Supply Problem",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:35:00+00:00",
-      "title": "Meet the Low-Cost Vanguard ETF With 26.2% Invested in Nvidia and Alphabet, While VOO Has Just 13.4%.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
