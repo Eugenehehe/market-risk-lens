@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T22:11:10.595461+00:00",
+  "generated_at": "2026-09-04T00:07:17.015753+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 454.64,
-    "change_pct": -0.5294709666126995
+    "price": 456.16,
+    "change_pct": -0.19691069006256834
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T11:50:12.450385+00:00",
-      "close": 473.25
-    },
     {
       "timestamp": "2026-08-24T12:19:47.995814+00:00",
       "close": 473.25
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 454.64
+    },
+    {
+      "timestamp": "2026-09-04T00:07:17.015753+00:00",
+      "close": 456.16
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-03T21:19:52+00:00",
+      "title": "Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T21:12:46+00:00",
+      "title": "Why Is AMD (AMD) Becoming More Important In Secure AI Infrastructure?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T21:09:38+00:00",
+      "title": "AMD (AMD) Stock May Be 24% Undervalued On Saudi AI Expansion",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T21:09:05+00:00",
+      "title": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T21:06:48+00:00",
+      "title": "Do You Still Own The NVIDIA You Bought?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T20:43:05+00:00",
+      "title": "What Happens To Qualcomm Stock If The New Revenue Earns Less?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T18:53:00+00:00",
+      "title": "Could a $10,000 Investment in AMD Double by the End of 2028?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-03T18:00:37+00:00",
       "title": "Nvidia Is Paying $14 Billion for a Company That Gives Its Best Work Away for Free",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:23:00+00:00",
-      "title": "ASUS Advances AI Factories with Integrated Infrastructure and Operational Governance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:49:00+00:00",
-      "title": "ASUS Expands AI Infrastructure Ecosystem from Cloud to Edge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:30:40+00:00",
-      "title": "This One Metric Is Why I’m Going to Keep Buying Nvidia Hand-Over-Fist",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:30:06+00:00",
-      "title": "Why Is Advanced Micro (AMD) Down 5.2% Since Last Earnings Report?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:06:00+00:00",
-      "title": "Better AI Infrastructure Stock: Nvidia vs. AMD",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:05:56+00:00",
-      "title": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T13:53:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights AMD, Costco, AstraZeneca, Peoples Bancorp of North Carolina and Spruce Power",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AMD live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "AMD quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

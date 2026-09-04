@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T22:11:10.595461+00:00",
+  "generated_at": "2026-09-04T00:07:17.015753+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 258.95,
-    "change_pct": 1.5569848615577753
+    "price": 258.9,
+    "change_pct": 1.5373754804298256
   },
   "risk": {
     "score": 63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T11:21:17.179842+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-24T11:50:12.450385+00:00",
       "close": 258.63
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 258.95
+    },
+    {
+      "timestamp": "2026-09-04T00:07:17.015753+00:00",
+      "close": 258.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T21:28:13+00:00",
+      "title": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T21:13:00+00:00",
+      "title": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T21:12:03+00:00",
+      "title": "SpaceX Reclaims $2 Trillion Market Cap As Tech Rally, Cybercab Ties Boost Investor Confidence",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T20:52:00+00:00",
+      "title": "Top Analyst Reports for Amazon, AbbVie & Alibaba",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-03T20:22:24+00:00",
+      "title": "The Gap Between HD Stock And Its Own Numbers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T19:10:05+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
@@ -528,46 +568,6 @@
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:53:00+00:00",
-      "title": "Should You Bet on GLW Stock Amid Rising Earnings Estimate Revisions?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:00:38+00:00",
-      "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T16:41:10+00:00",
-      "title": "How Far Can Amazon Stock Fall When The Business Is Fine?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T16:39:00+00:00",
-      "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T15:50:36+00:00",
-      "title": "Google Was Found to Hold an Illegal Monopoly and Kept It Anyway. Is the Antitrust Nightmare Finally Over?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     }
   ],
   "cross_market": [],
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AMZN live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20). Keeping previous snapshot."
+  "narrative": "AMZN quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

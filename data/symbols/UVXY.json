@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T22:11:10.595461+00:00",
+  "generated_at": "2026-09-04T00:07:17.015753+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 17.41,
     "change_pct": -3.116304952698934
   },
   "risk": {
-    "score": 61,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T12:19:47.995814+00:00",
-      "close": 19.4
-    },
     {
       "timestamp": "2026-08-24T13:26:38.702858+00:00",
       "close": 19.4
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-09-03T22:11:10.595461+00:00",
       "close": 17.41
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-09-01T15:30:00+00:00",
-      "title": "Equity Volatility Falls To Near 1-Year Low Post Jackson Hole",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-09-04T00:07:17.015753+00:00",
+      "close": 17.41
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

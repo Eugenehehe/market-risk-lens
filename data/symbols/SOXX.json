@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T22:11:10.595461+00:00",
+  "generated_at": "2026-09-04T00:07:17.015753+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 502.2,
     "change_pct": 0.15156349712825978
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T12:19:47.995814+00:00",
-      "close": 520.05
-    },
     {
       "timestamp": "2026-08-24T13:26:38.702858+00:00",
       "close": 520.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-03T22:11:10.595461+00:00",
       "close": 502.2
+    },
+    {
+      "timestamp": "2026-09-04T00:07:17.015753+00:00",
+      "close": 502.2
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-09-02T13:28:32+00:00",
       "title": "Broadcom Is Top Pick For AI’s Next Big Shift: Analyst",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T13:48:00+00:00",
-      "title": "U.S. Growth Stocks: Semiconductor Surge Redraws The Risk Map",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T09:16:33+00:00",
-      "title": "What's Going On With Intel Stock Tuesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T08:22:18+00:00",
-      "title": "AI CapEx Is Distorting The GDP Growth Picture",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-01T05:30:16+00:00",
-      "title": "What's Going On With Broadcom Stock Tuesday?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

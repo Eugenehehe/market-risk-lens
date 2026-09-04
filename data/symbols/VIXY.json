@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T22:11:10.595461+00:00",
+  "generated_at": "2026-09-04T00:07:17.015753+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 16.95,
     "change_pct": -1.909722222222232
   },
   "risk": {
-    "score": 54,
+    "score": 50,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T12:19:47.995814+00:00",
-      "close": 18.21
-    },
     {
       "timestamp": "2026-08-24T13:26:38.702858+00:00",
       "close": 18.21
@@ -502,26 +498,13 @@
     {
       "timestamp": "2026-09-03T22:11:10.595461+00:00",
       "close": 16.95
-    }
-  ],
-  "events": [
-    {
-      "timestamp": "2026-09-01T15:30:00+00:00",
-      "title": "Equity Volatility Falls To Near 1-Year Low Post Jackson Hole",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     },
     {
-      "timestamp": "2026-09-01T10:39:05+00:00",
-      "title": "This September Volatility Trade Has Worked 5 Years In a Row",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-09-04T00:07:17.015753+00:00",
+      "close": 16.95
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
