@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T13:24:36.121442+00:00",
+  "generated_at": "2026-09-04T16:56:56.606669+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 146,
-    "change_pct": 1.2974398112814756
+    "price": 152.57,
+    "change_pct": 4.499999999999993
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:50:01.647359+00:00",
-      "close": 145.3
-    },
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 145.41
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 146
+    },
+    {
+      "timestamp": "2026-09-04T16:56:56.606669+00:00",
+      "close": 152.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T15:30:22+00:00",
+      "title": "Owens Corning (OC) Down 10.6% Since Last Earnings Report: Can It Rebound?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T14:20:00+00:00",
+      "title": "Ciena Outlines Strong 2027 Outlook: What's Fueling the Momentum?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T13:29:10+00:00",
       "title": "US firms pledge $2bn for South Korea’s chip, clean energy sectors",
@@ -517,6 +533,14 @@
       "timestamp": "2026-09-04T08:44:09+00:00",
       "title": "1 Profitable Stock with Impressive Fundamentals and 2 Facing Challenges",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T04:35:14+00:00",
+      "title": "South Korea Lands $2 Billion From 4 US Companies as Trump Turns Up Pressure on Foreign Chipmakers: GLW, APD, ACLS Among Stocks in Focus",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

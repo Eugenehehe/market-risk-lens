@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T13:24:36.121442+00:00",
+  "generated_at": "2026-09-04T16:56:56.606669+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 154.04,
-    "change_pct": 5.687821612349908
+    "price": 158.53,
+    "change_pct": 2.91482731757986
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:00:50.108805+00:00",
-      "close": 143.05
-    },
     {
       "timestamp": "2026-08-24T15:50:01.647359+00:00",
       "close": 143.98
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 154.04
+    },
+    {
+      "timestamp": "2026-09-04T16:56:56.606669+00:00",
+      "close": 158.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T15:42:47+00:00",
+      "title": "Oracle Stock Climbs Ahead Of Earnings After OpenAI Astra Release",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T15:05:00+00:00",
+      "title": "Snowflake Gains 17% Post Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T14:59:56+00:00",
+      "title": "Crusoe signs $13 billion AI cloud deal with market maker Jane Street: Bloomberg",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T13:37:50+00:00",
       "title": "This Week In Cloud AI - Opti9 Expands Canadian Reach with Strategic Hut 8 Acquisition",
@@ -538,32 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-04T07:45:00+00:00",
-      "title": "What We’ve Learned Since 9/11",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T04:54:34+00:00",
-      "title": "ORCL Stock Spikes On New HPE Equipment Deal: Retail Turns Bullish Ahead Of Q1 Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T03:08:52+00:00",
-      "title": "Oracle (ORCL) Stock Gets Fair Value Trim As Analysts Split On AI And Capex",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T02:10:00+00:00",
-      "title": "CDT Insider Sentiment August 2026 - An AI Mountain Of Worry",
+      "timestamp": "2026-09-04T09:10:00+00:00",
+      "title": "Why I Really Like Oracle Ahead Of Q1 Earnings",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

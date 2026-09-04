@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T13:24:36.121442+00:00",
+  "generated_at": "2026-09-04T16:56:56.606669+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 208.83,
-    "change_pct": 1.1381247578458042
+    "price": 221.73,
+    "change_pct": 6.177273380261439
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:00:50.108805+00:00",
-      "close": 225.52
-    },
     {
       "timestamp": "2026-08-24T15:50:01.647359+00:00",
       "close": 229.04
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 208.83
+    },
+    {
+      "timestamp": "2026-09-04T16:56:56.606669+00:00",
+      "close": 221.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T14:31:54+00:00",
+      "title": "Qualcomm Lost a Third of Its Value in 3 Months. One Wall Street Pro Sees 140% Upside From Here",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T14:29:00+00:00",
+      "title": "Tesla, Lululemon, AMC,  Guidewire, Trade Desk, UiPath, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T13:16:00+00:00",
+      "title": "Here’s the Real Reason Nvidia Is Buying Hugging Face",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T12:53:00+00:00",
       "title": "Is Marvell Technology a Millionaire-Maker Stock?",
@@ -522,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-04T12:09:15+00:00",
+      "title": "The Market Made Credo Cheap, Again",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-04T11:27:04+00:00",
       "title": "Update: Market Chatter: Nvidia Increases Equity Investments to $99 Billion",
       "source": "Yahoo",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-04T11:21:00+00:00",
       "title": "Coherent, Sandisk, Lululemon, Zscaler, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T00:21:03+00:00",
-      "title": "Does Marvell (MRVL) Signal Patience or Urgency With Its AI Data Center Timeline and Buybacks?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T21:19:52+00:00",
-      "title": "Should You Buy Marvell Stock Because Its Operating Margin Keeps Widening?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T21:06:48+00:00",
-      "title": "Do You Still Own The NVIDIA You Bought?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:32:00+00:00",
-      "title": "ALAB Stock Down 24% in a Month: Should Investors Buy the Dip or Wait?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T13:24:36.121442+00:00",
+  "generated_at": "2026-09-04T16:56:56.606669+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 552.6,
-    "change_pct": 0.38511844208690693
+    "price": 567.22,
+    "change_pct": 2.645674990951874
   },
   "risk": {
-    "score": 54,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:50:01.647359+00:00",
-      "close": 547.19
-    },
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 548.22
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 552.6
+    },
+    {
+      "timestamp": "2026-09-04T16:56:56.606669+00:00",
+      "close": 567.22
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-04T10:24:04+00:00",
+      "title": "The AI Collapse Nobody Is Ready For",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-04T08:11:54+00:00",
       "title": "The AI Boom Is Eating Its Own Margins",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T07:08:08+00:00",
+      "title": "Taiwan Semiconductor Scrambles to Feed the AI Boom",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-03T12:22:00+00:00",
       "title": "ETFs to Buy as Broadcom Slides Despite Better-Than-Expected Q3 Earnings",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T11:25:07+00:00",
-      "title": "Oil, Interest Rates Limit Wall Street Pre-Bell; Asia, Europe Muted",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T09:58:36+00:00",
-      "title": "ServiceNow Faces A Reality Check",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

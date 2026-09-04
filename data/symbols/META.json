@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T13:24:36.121442+00:00",
+  "generated_at": "2026-09-04T16:56:56.606669+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 610.68,
-    "change_pct": 3.0075061145314885
+    "price": 611.15,
+    "change_pct": 0.07696338507894307
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:50:01.647359+00:00",
-      "close": 555.02
-    },
     {
       "timestamp": "2026-08-24T16:19:43.668409+00:00",
       "close": 555.63
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 610.68
+    },
+    {
+      "timestamp": "2026-09-04T16:56:56.606669+00:00",
+      "close": 611.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T15:50:13+00:00",
+      "title": "Wall Street Is Misreading Alphabet’s Supposed Achilles Heel",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T15:40:49+00:00",
+      "title": "Update: Market Chatter: Meta Platforms Addresses Safety Concerns as Hatch AI Agent Nears Launch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T15:37:41+00:00",
+      "title": "SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T14:59:56+00:00",
+      "title": "Crusoe signs $13 billion AI cloud deal with market maker Jane Street: Bloomberg",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T13:30:43+00:00",
       "title": "Arista Networks Offers Entry After 42% Gain Amid Earnings Beat; Data Center Demand Surging",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-04T12:50:00+00:00",
       "title": "Every Hyperscaler Raised Capex Again. These 3 Boring Industrials Get Paid No Matter Who Wins the AI Race.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T12:42:20+00:00",
-      "title": "Jim Cramer says it's time to buy the Magnificent Seven again",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T09:41:49+00:00",
-      "title": "Meta Platforms (NASDAQ:META): A Growth-at-a-Reasonable-Price Opportunity Per Peter Lynch",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T07:52:01+00:00",
-      "title": "Liftoff Mobile: A Fine Business, Fair Price, But I Think Smadex Is The Better Trade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T07:45:00+00:00",
-      "title": "What We’ve Learned Since 9/11",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T13:24:36.121442+00:00",
+  "generated_at": "2026-09-04T16:56:56.606669+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 510.12,
-    "change_pct": 2.6770258846262163
+    "price": 500.92,
+    "change_pct": -1.8034972163412544
   },
   "risk": {
-    "score": 72,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T15:00:50.108805+00:00",
-      "close": 488.34
-    },
     {
       "timestamp": "2026-08-24T15:50:01.647359+00:00",
       "close": 489.36
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 510.12
+    },
+    {
+      "timestamp": "2026-09-04T16:56:56.606669+00:00",
+      "close": 500.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T15:50:13+00:00",
+      "title": "Wall Street Is Misreading Alphabet’s Supposed Achilles Heel",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T15:37:41+00:00",
+      "title": "SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T15:04:39+00:00",
+      "title": "Microsoft CEO Makes Major $43 Million Stock Move",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T15:02:16+00:00",
+      "title": "Market Chatter: Abu Dhabi AI Firm G42 Held Talks to Sell Majority Stake to US Companies",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T14:46:00+00:00",
+      "title": "Will Nebius Group's Mega AI Deals Power Its 2027 Growth Story?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T13:41:00+00:00",
       "title": "Industry-Leading Email Signature Platform Crossware Is Now Available Through Ingram Micro's Xvantage Platform as Part of the Microsoft Marketplace Private Offers",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-04T13:30:43+00:00",
       "title": "Arista Networks Offers Entry After 42% Gain Amid Earnings Beat; Data Center Demand Surging",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T13:21:01+00:00",
-      "title": "Satya Nadella Just Sold $43 Million of Microsoft Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T13:19:37+00:00",
-      "title": "Google Cloud Trails Azure by $4.6 Billion--But Growth Still Has Leverage",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T13:17:50+00:00",
-      "title": "Chevron’s Dividend Looks Great at $104 Oil—What Happens When Oil Falls?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T13:13:36+00:00",
-      "title": "Goldman Sachs Warns AI Stock Investors of New Risk",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T13:13:23+00:00",
-      "title": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
