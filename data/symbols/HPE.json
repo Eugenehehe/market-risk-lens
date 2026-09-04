@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:07:17.015753+00:00",
+  "generated_at": "2026-09-04T04:27:31.116993+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 54.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T13:26:38.702858+00:00",
-      "close": 53.45
-    },
     {
       "timestamp": "2026-08-24T14:11:08.896524+00:00",
       "close": 51.97
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-04T00:07:17.015753+00:00",
       "close": 54.44
+    },
+    {
+      "timestamp": "2026-09-04T04:27:31.116993+00:00",
+      "close": 54.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T22:02:00+00:00",
+      "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T21:15:13+00:00",
       "title": "Stock Market Today, Sept. 3: HPE Jumps 5%, Raises Fiscal Outlook on Record AI Server Demand",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-03T18:05:01+00:00",
       "title": "Which S&P500 stocks are the most active on Thursday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T17:52:00+00:00",
-      "title": "HPE’s Results Were a Blowout, but Problems Lie Ahead",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

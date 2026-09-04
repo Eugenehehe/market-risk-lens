@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:07:17.015753+00:00",
+  "generated_at": "2026-09-04T04:27:31.116993+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 295.19,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T13:26:38.702858+00:00",
-      "close": 299.96
-    },
     {
       "timestamp": "2026-08-24T14:11:08.896524+00:00",
       "close": 298.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-04T00:07:17.015753+00:00",
       "close": 295.19
+    },
+    {
+      "timestamp": "2026-09-04T04:27:31.116993+00:00",
+      "close": 295.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-03T23:34:37+00:00",
+      "title": "Benign Or Malign? Reasons For The Rise In Long-Term U.S. Interest Rates",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-03T17:32:03+00:00",
       "title": "The $3 Trillion AI Footnote: What Big Tech Isn't Telling You On Page 1",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-03T10:05:56+00:00",
       "title": "Market Breadth Rebounds, but Short-Term Trend Damage Remains",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T09:21:13+00:00",
-      "title": "The Bond Market Might Be Getting Out Of Control",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
