@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T19:21:29.131961+00:00",
+  "generated_at": "2026-09-04T21:36:11.947080+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 427.18,
-    "change_pct": 2.4387904366801827
+    "price": 428.91,
+    "change_pct": 2.8536485935589218
   },
   "risk": {
-    "score": 70,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:00:57.034393+00:00",
-      "close": 408.9
-    },
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 407.76
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-04T19:21:29.131961+00:00",
       "close": 427.18
+    },
+    {
+      "timestamp": "2026-09-04T21:36:11.947080+00:00",
+      "close": 428.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T13:35:13+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T11:01:21+00:00",
+      "title": "Insider Move: Shu-Hua Fang Invests $154K In Taiwan Semiconductor Stock",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T07:08:08+00:00",
       "title": "Taiwan Semiconductor Scrambles to Feed the AI Boom",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-03T10:46:31+00:00",
       "title": "Jensen Huang Says AI Is a 'Five-Layer Cake.' Nvidia Is Just One Slice",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T08:42:03+00:00",
-      "title": "EWT: High AI Potential, Tremendous Geopolitical Risks As China Preps For A Blockade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T03:36:37+00:00",
-      "title": "AGIX Vs. CHAT: I'm Buying The Loser",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

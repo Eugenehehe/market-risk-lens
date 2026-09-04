@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T19:21:29.131961+00:00",
+  "generated_at": "2026-09-04T21:36:11.947080+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 156.92,
-    "change_pct": 1.8696442482472042
+    "price": 158.78,
+    "change_pct": 3.077122825240197
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T16:19:43.668409+00:00",
-      "close": 144.28
-    },
     {
       "timestamp": "2026-08-24T17:00:57.034393+00:00",
       "close": 143.45
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-04T19:21:29.131961+00:00",
       "close": 156.92
+    },
+    {
+      "timestamp": "2026-09-04T21:36:11.947080+00:00",
+      "close": 158.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T19:30:41+00:00",
+      "title": "Oracle Jumps Before Its $638 Billion Backlog Faces Reality",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T19:22:57+00:00",
+      "title": "3 REITs Getting Paid as Big Tech Builds Out AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T19:16:00+00:00",
+      "title": "CauzzyAI and Unilever Prestige Partner to Accelerate AI Innovation Across Prestige Beauty",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T18:33:34+00:00",
+      "title": "Oracle's Next Earnings Report Could Move the Stock 11%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T18:18:32+00:00",
+      "title": "Top 3 AI Stocks To Watch In September 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T18:08:47+00:00",
+      "title": "Lone Star JV Acquires 2M SF Of R&D Space In Silicon Valley",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T17:52:00+00:00",
       "title": "NuScale Just Turned AI on Itself. Here's What That Means for the Stock.",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-09-04T17:37:30+00:00",
       "title": "Should You Worry That IBM Has Gone Quiet On Its AI Total?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:24:15+00:00",
-      "title": "What Pays Adobe Stock Owners While The Freemium Bet Waits",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:22:30+00:00",
-      "title": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:19:37+00:00",
-      "title": "Oracle's Successive Layoffs to Generate Funds for AI Infrastructure Buildout Carry Execution Risk, RBC Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T16:21:54+00:00",
-      "title": "Oracle Heads Into Q1 Results With AI Investment, Stargate in Focus, RBC Capital Markets Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:42:47+00:00",
-      "title": "Oracle Stock Climbs Ahead Of Earnings After OpenAI Astra Release",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:40:00+00:00",
-      "title": "OpenAI Has Launched GPT-6 Astra. These Stocks Will Benefit.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
