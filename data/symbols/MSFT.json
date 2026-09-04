@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:36:11.947080+00:00",
+  "generated_at": "2026-09-04T23:18:26.892359+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:00:57.034393+00:00",
-      "close": 489.04
-    },
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 487.99
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 499.7
+    },
+    {
+      "timestamp": "2026-09-04T23:18:26.892359+00:00",
+      "close": 499.7
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-04T22:00:00+00:00",
       "title": "Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T21:39:22+00:00",
+      "title": "The Gap Between CRWD Stock And Its Own Numbers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T19:22:57+00:00",
       "title": "3 REITs Getting Paid as Big Tech Builds Out AI",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:10:06+00:00",
-      "title": "Which dow jones stocks are moving on Friday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

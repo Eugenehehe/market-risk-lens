@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:36:11.947080+00:00",
+  "generated_at": "2026-09-04T23:18:26.892359+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:38:49.587327+00:00",
-      "close": 52.2
-    },
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 52.34
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 52
+    },
+    {
+      "timestamp": "2026-09-04T23:18:26.892359+00:00",
+      "close": 52
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-04T21:51:33+00:00",
       "title": "Cisco Systems Stock Rose On More Than Its AI Orders",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T21:14:47+00:00",
+      "title": "How Much Track Is Left For ANET Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T08:39:53+00:00",
       "title": "Argus Research Reiterates Buy on Hewlett Packard, Maintains $70 Price Target",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T04:54:34+00:00",
-      "title": "ORCL Stock Spikes On New HPE Equipment Deal: Retail Turns Bullish Ahead Of Q1 Report",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

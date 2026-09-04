@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-04T21:36:11.947080+00:00",
+  "generated_at": "2026-09-04T23:18:26.892359+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 519.86,
     "change_pct": 3.51652727996814
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:38:49.587327+00:00",
-      "close": 504.75
-    },
     {
       "timestamp": "2026-08-24T18:03:47.854447+00:00",
       "close": 506.43
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 519.86
+    },
+    {
+      "timestamp": "2026-09-04T23:18:26.892359+00:00",
+      "close": 519.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T16:50:53+00:00",
+      "title": "Investors Put $182.6 Billion Into ETFs in August — but Pulled Money Out of Chip Funds",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T10:24:04+00:00",
       "title": "The AI Collapse Nobody Is Ready For",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:36:11.947080+00:00",
+  "generated_at": "2026-09-04T23:18:26.892359+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1016.59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:00:57.034393+00:00",
-      "close": 912.05
-    },
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 907.52
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 1016.59
+    },
+    {
+      "timestamp": "2026-09-04T23:18:26.892359+00:00",
+      "close": 1016.59
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-04T21:52:46+00:00",
       "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T21:34:01+00:00",
+      "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T18:05:02+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:44:47+00:00",
-      "title": "Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

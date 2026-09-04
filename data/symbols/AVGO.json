@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:36:11.947080+00:00",
+  "generated_at": "2026-09-04T23:18:26.892359+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 357.895,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:00:57.034393+00:00",
-      "close": 360.7
-    },
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 360.61
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 357.895
+    },
+    {
+      "timestamp": "2026-09-04T23:18:26.892359+00:00",
+      "close": 357.895
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-04T21:27:52+00:00",
       "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T21:16:00+00:00",
+      "title": "Top Research Reports for Apple, Broadcom & Shell",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T16:00:25+00:00",
       "title": "If You Invested $1000 In Broadcom Stock 15 Years Ago, You Would Have This Much Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:40:00+00:00",
-      "title": "OpenAI Has Launched GPT-6 Astra. These Stocks Will Benefit.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

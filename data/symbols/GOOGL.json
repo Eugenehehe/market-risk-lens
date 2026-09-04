@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:36:11.947080+00:00",
+  "generated_at": "2026-09-04T23:18:26.892359+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 338.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T17:00:57.034393+00:00",
-      "close": 351.03
-    },
     {
       "timestamp": "2026-08-24T17:38:49.587327+00:00",
       "close": 349.35
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 338.46
+    },
+    {
+      "timestamp": "2026-09-04T23:18:26.892359+00:00",
+      "close": 338.46
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-04T21:07:00+00:00",
       "title": "5-star analyst resets Broadcom stock price target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T20:30:24+00:00",
+      "title": "Elon Musk Touts a ‘Storm’ of Tesla Cybercabs in Austin, Says They Offer Better ‘Operational Efficiency’ Than Waymo",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-04T17:52:00+00:00",
       "title": "NuScale Just Turned AI on Itself. Here's What That Means for the Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:45:35+00:00",
-      "title": "Commvault’s (CVLT) AI Recovery Bet Meets A Margin Reality Check",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
