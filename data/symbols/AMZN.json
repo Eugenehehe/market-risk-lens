@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:27:31.116993+00:00",
+  "generated_at": "2026-09-04T08:59:32.081686+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 258.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T12:19:47.995814+00:00",
-      "close": 258.63
-    },
     {
       "timestamp": "2026-08-24T13:26:38.702858+00:00",
       "close": 258.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-04T04:27:31.116993+00:00",
       "close": 258.9
+    },
+    {
+      "timestamp": "2026-09-04T08:59:32.081686+00:00",
+      "close": 258.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-04T04:11:30+00:00",
+      "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T03:17:44+00:00",
       "title": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney",
@@ -517,6 +525,14 @@
       "timestamp": "2026-09-04T02:33:00+00:00",
       "title": "Microsoft drops $101.9 billion surprise as AI reshapes company",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T02:10:00+00:00",
+      "title": "CDT Insider Sentiment August 2026 - An AI Mountain Of Worry",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-03T22:23:00+00:00",
       "title": "Snowflake (SNOW) Stock Soars 16% After Q2 Earnings: Is It Still a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T22:00:17+00:00",
-      "title": "Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T21:28:13+00:00",
-      "title": "Walmart Jumps Nearly 2.8% as Justice Department Widens Beef-Pricing Review",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:27:31.116993+00:00",
+  "generated_at": "2026-09-04T08:59:32.081686+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 154.04,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T13:26:38.702858+00:00",
-      "close": 146.47
-    },
     {
       "timestamp": "2026-08-24T14:11:08.896524+00:00",
       "close": 142.29
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-04T04:27:31.116993+00:00",
       "close": 154.04
+    },
+    {
+      "timestamp": "2026-09-04T08:59:32.081686+00:00",
+      "close": 154.04
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-04T04:54:34+00:00",
+      "title": "ORCL Stock Spikes On New HPE Equipment Deal: Retail Turns Bullish Ahead Of Q1 Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-04T03:08:52+00:00",
       "title": "Oracle (ORCL) Stock Gets Fair Value Trim As Analysts Split On AI And Capex",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T02:10:00+00:00",
+      "title": "CDT Insider Sentiment August 2026 - An AI Mountain Of Worry",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-03T21:10:52+00:00",
       "title": "AI demand is 'exceptional,' but the supply chain is not: HPE CEO",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T20:57:00+00:00",
-      "title": "Down 55% From Its High, Is Oracle a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T19:05:01+00:00",
-      "title": "Thursday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
