@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:06:17.857201+00:00",
+  "generated_at": "2026-09-05T05:42:57.253173+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 770.19,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T18:54:59.461869+00:00",
-      "close": 764.13
-    },
     {
       "timestamp": "2026-08-24T19:28:54.750514+00:00",
       "close": 764.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-05T01:06:17.857201+00:00",
       "close": 770.19
+    },
+    {
+      "timestamp": "2026-09-05T05:42:57.253173+00:00",
+      "close": 770.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-05T00:30:00+00:00",
+      "title": "7 Reasons To Avoid Benchmark Treasuries",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T22:18:49+00:00",
       "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",
@@ -514,9 +522,33 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-04T21:35:00+00:00",
+      "title": "Jobs Growth Update: Modest Improvement In August",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-04T21:26:01+00:00",
       "title": "Your Future Proof Guide: The ETF Oasis Agenda",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T21:25:00+00:00",
+      "title": "The Big Four Recession Indicators: Employment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-04T20:50:00+00:00",
+      "title": "Employment Report: 162K Jobs Added In August, Better Than Expected",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-04T19:20:00+00:00",
       "title": "This Is the Most Expensive Market in Decades. Is It Really Safe to Invest Right Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:18:51+00:00",
-      "title": "Japan Has Not Done This Since 1990. If It Happens, the Cheap Money Propping Up US Stocks Gets Expensive",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:07:25+00:00",
-      "title": "SK Hynix Surges 7% as Memory Bid Widens Beyond NAND; Seagate Rallies 5%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:02:47+00:00",
-      "title": "Snowflake Falls 5% as Traders Take Profits on Its Guidance Surge; Datadog Holds Steady",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:16:43+00:00",
-      "title": "Trump Media Falls 5%, Rumble Slips 3%: Is Alternative Media Losing Its Retail Bid?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
