@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:57:10.222282+00:00",
+  "generated_at": "2026-09-05T15:51:49.040808+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1016.59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T19:56:53.220280+00:00",
-      "close": 909.57
-    },
     {
       "timestamp": "2026-08-24T20:35:29.309428+00:00",
       "close": 910.43
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-05T12:57:10.222282+00:00",
       "close": 1016.59
+    },
+    {
+      "timestamp": "2026-09-05T15:51:49.040808+00:00",
+      "close": 1016.59
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-05T12:05:00+00:00",
+      "title": "Recent News From Nvidia and SK Hynix Reveals Exactly What the Market Expects for Micron Technology's Future",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-05T10:26:00+00:00",
       "title": "China's Biggest Memory Chip Stock Is Almost as Good as Micron",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-05T09:00:00+00:00",
+      "title": "Micron: Nothing Is Over Yet",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-04T21:52:46+00:00",
       "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T21:34:01+00:00",
-      "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:48:27+00:00",
-      "title": "Analyst Has Strong Take on Micron, SanDisk Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

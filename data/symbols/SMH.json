@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:57:10.222282+00:00",
+  "generated_at": "2026-09-05T15:51:49.040808+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 567.01,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T20:35:29.309428+00:00",
-      "close": 546.8
-    },
     {
       "timestamp": "2026-08-24T21:03:09.859778+00:00",
       "close": 546.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-05T12:57:10.222282+00:00",
       "close": 567.01
+    },
+    {
+      "timestamp": "2026-09-05T15:51:49.040808+00:00",
+      "close": 567.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-05T09:44:04+00:00",
+      "title": "August NFP Behind Her, Goldilocks Looks To Upcoming Inflation Data",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-05T06:12:18+00:00",
       "title": "Semis Survived Hawkish August Jobs Data: CPI's Next",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T07:08:08+00:00",
       "title": "Taiwan Semiconductor Scrambles to Feed the AI Boom",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T00:10:00+00:00",
-      "title": "Second Quarter Earnings Show Breadth",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
