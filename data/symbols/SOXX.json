@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:26:30.629056+00:00",
+  "generated_at": "2026-09-05T12:57:10.222282+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 519.86,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T19:56:53.220280+00:00",
-      "close": 505.89
-    },
     {
       "timestamp": "2026-08-24T20:35:29.309428+00:00",
       "close": 506.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-05T09:26:30.629056+00:00",
       "close": 519.86
+    },
+    {
+      "timestamp": "2026-09-05T12:57:10.222282+00:00",
+      "close": 519.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-05T06:12:18+00:00",
+      "title": "Semis Survived Hawkish August Jobs Data: CPI's Next",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T18:05:14+00:00",
       "title": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T00:10:00+00:00",
       "title": "Second Quarter Earnings Show Breadth",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T14:05:56+00:00",
-      "title": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:26:30.629056+00:00",
+  "generated_at": "2026-09-05T12:57:10.222282+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T19:56:53.220280+00:00",
-      "close": 52.28
-    },
     {
       "timestamp": "2026-08-24T20:35:29.309428+00:00",
       "close": 52.43
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-05T09:26:30.629056+00:00",
       "close": 52
+    },
+    {
+      "timestamp": "2026-09-05T12:57:10.222282+00:00",
+      "close": 52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-05T11:10:08+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Stock Looks Below Fair Value As Its 315% Run Continues",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T21:51:33+00:00",
       "title": "Cisco Systems Stock Rose On More Than Its AI Orders",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-04T11:43:13+00:00",
       "title": "Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T08:39:53+00:00",
-      "title": "Argus Research Reiterates Buy on Hewlett Packard, Maintains $70 Price Target",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
