@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:40:48.976185+00:00",
+  "generated_at": "2026-09-05T23:20:36.060458+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 357.895,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T22:00:54.015725+00:00",
-      "close": 358.76
-    },
     {
       "timestamp": "2026-08-24T22:37:42.141769+00:00",
       "close": 358.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-05T21:40:48.976185+00:00",
       "close": 357.895
+    },
+    {
+      "timestamp": "2026-09-05T23:20:36.060458+00:00",
+      "close": 357.895
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-05T17:45:00+00:00",
       "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-05T16:40:05+00:00",
+      "title": "Michael Dell’s Net Worth Up $110 Billion So Far 2026: Why the Surge May Continue",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-05T05:30:17+00:00",
       "title": "Broadcom: The $350 Billion AI Signal Has A $29 Billion Footnote",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-05T02:37:59+00:00",
-      "title": "Broadcom: The Market Has It Wrong",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

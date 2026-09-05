@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:40:48.976185+00:00",
+  "generated_at": "2026-09-05T23:20:36.060458+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 616.77,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T22:37:42.141769+00:00",
-      "close": 559.02
-    },
     {
       "timestamp": "2026-08-24T23:00:15.962719+00:00",
       "close": 559.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-05T21:40:48.976185+00:00",
       "close": 616.77
+    },
+    {
+      "timestamp": "2026-09-05T23:20:36.060458+00:00",
+      "close": 616.77
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-09-05T15:33:00+00:00",
       "title": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-05T15:02:14+00:00",
+      "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-04T21:07:00+00:00",
       "title": "5-star analyst resets Broadcom stock price target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:51:39+00:00",
-      "title": "Magnificent Seven Flash Strong Signal Never Seen Before",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
