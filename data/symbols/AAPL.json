@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:51:49.040808+00:00",
+  "generated_at": "2026-09-05T17:48:47.424307+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 319.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T19:56:53.220280+00:00",
-      "close": 310.66
-    },
     {
       "timestamp": "2026-08-24T20:35:29.309428+00:00",
       "close": 310.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-05T15:51:49.040808+00:00",
       "close": 319.97
+    },
+    {
+      "timestamp": "2026-09-05T17:48:47.424307+00:00",
+      "close": 319.97
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-05T00:00:01+00:00",
+      "title": "The Look Ahead: September 4, 2026",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-04T23:46:59+00:00",
       "title": "Jim Cramer Believes Nvidia Corp. (NASDAQ:NVDA) Buying Back Half A Trillion Worth In Stock Would Be Great",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-04T23:07:00+00:00",
       "title": "Jim Cramer flagged one stock quietly concentrating portfolios",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T23:05:06+00:00",
-      "title": "The Only Account the IRS Never Taxes Going In, Growing, or Coming Out: 3 ETFs That Belong Inside It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
