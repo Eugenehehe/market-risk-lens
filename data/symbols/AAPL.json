@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:48:47.424307+00:00",
+  "generated_at": "2026-09-05T19:35:27.502220+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 319.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T20:35:29.309428+00:00",
-      "close": 310.34
-    },
     {
       "timestamp": "2026-08-24T21:03:09.859778+00:00",
       "close": 310.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-05T17:48:47.424307+00:00",
       "close": 319.97
+    },
+    {
+      "timestamp": "2026-09-05T19:35:27.502220+00:00",
+      "close": 319.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-05T17:05:34+00:00",
+      "title": "Apple (AAPL) Draws New £2 Billion UK ATT Lawsuit With Wider Europe Stakes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-05T13:10:00+00:00",
       "title": "Morgan Stanley estimates Apple foldable iPhone could generate $14 billion in December-quarter revenue",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-04T23:17:00+00:00",
       "title": "Self-Driving’s Next Task: Potholes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T23:07:00+00:00",
-      "title": "Jim Cramer flagged one stock quietly concentrating portfolios",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
