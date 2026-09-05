@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-05T19:35:27.502220+00:00",
+  "generated_at": "2026-09-05T21:40:48.976185+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1714.88,
     "change_pct": 4.172665366695227
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T22:00:54.015725+00:00",
-      "close": 1740.13
-    },
     {
       "timestamp": "2026-08-24T22:37:42.141769+00:00",
       "close": 1740.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-05T19:35:27.502220+00:00",
       "close": 1714.88
+    },
+    {
+      "timestamp": "2026-09-05T21:40:48.976185+00:00",
+      "close": 1714.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-05T19:20:00+00:00",
+      "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-04T23:51:22+00:00",
       "title": "Why ASML Holding Stock Bumped 4% Higher Today",
