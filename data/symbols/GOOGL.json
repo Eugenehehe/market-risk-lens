@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:20:36.060458+00:00",
+  "generated_at": "2026-09-06T01:07:20.676670+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 338.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T22:37:42.141769+00:00",
-      "close": 348.06
-    },
     {
       "timestamp": "2026-08-24T23:00:15.962719+00:00",
       "close": 348.06
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-05T23:20:36.060458+00:00",
       "close": 338.46
+    },
+    {
+      "timestamp": "2026-09-06T01:07:20.676670+00:00",
+      "close": 338.46
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-05T19:40:00+00:00",
       "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-05T16:00:50+00:00",
+      "title": "Elon Musk Says Chess Will Be ‘Fully Solved’ One Day — Chess.com Fires Back With a Brutal Two-Word Roast",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-05T09:25:58+00:00",
       "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-05T09:20:00+00:00",
-      "title": "Is Greg Abel Betting on Lower Interest Rates? The Berkshire Hathaway CEO Just Trimmed Bank Stocks Like Bank of America and Bought 3 Stocks That Would Benefit From Lower Yields.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

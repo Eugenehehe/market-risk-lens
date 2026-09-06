@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-05T23:20:36.060458+00:00",
+  "generated_at": "2026-09-06T01:07:20.676670+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1714.88,
     "change_pct": 4.172665366695227
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T23:00:15.962719+00:00",
-      "close": 1740.13
-    },
     {
       "timestamp": "2026-08-24T23:29:41.627245+00:00",
       "close": 1740.13
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-05T23:20:36.060458+00:00",
       "close": 1714.88
+    },
+    {
+      "timestamp": "2026-09-06T01:07:20.676670+00:00",
+      "close": 1714.88
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-09-04T13:35:13+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T21:45:03+00:00",
-      "title": "ASML (ASML) Stock Sinks As Market Gains: What You Should Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-03T21:17:50+00:00",
-      "title": "Protolabs CEO sees big impact from US reshoring despite potential tariffs",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
