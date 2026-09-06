@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:07:20.676670+00:00",
+  "generated_at": "2026-09-06T05:55:22.625757+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 338.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-24T23:00:15.962719+00:00",
-      "close": 348.06
-    },
     {
       "timestamp": "2026-08-24T23:29:41.627245+00:00",
       "close": 348.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-06T01:07:20.676670+00:00",
       "close": 338.46
+    },
+    {
+      "timestamp": "2026-09-06T05:55:22.625757+00:00",
+      "close": 338.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-06T00:14:30+00:00",
+      "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-05T19:40:00+00:00",
       "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-05T09:48:00+00:00",
       "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-05T09:25:58+00:00",
-      "title": "LULU, AVGO, DELL, SNOW, GOOGL: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
