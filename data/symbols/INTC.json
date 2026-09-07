@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T09:51:03.416975+00:00",
+  "generated_at": "2026-09-07T15:22:22.441811+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 95.8,
-    "change_pct": 4.505290716701205
+    "price": 95.82,
+    "change_pct": 4.527108105159794
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T06:36:29.951896+00:00",
-      "close": 87.26
-    },
     {
       "timestamp": "2026-08-25T07:28:29.407948+00:00",
       "close": 87.26
@@ -502,44 +498,72 @@
     {
       "timestamp": "2026-09-07T09:51:03.416975+00:00",
       "close": 95.8
+    },
+    {
+      "timestamp": "2026-09-07T15:22:22.441811+00:00",
+      "close": 95.82
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-06T23:30:01+00:00",
-      "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
+      "timestamp": "2026-09-07T14:02:00+00:00",
+      "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-06T15:35:11+00:00",
-      "title": "China Is Still Chasing Nvidia’s 3-Year-Old Chip — While Nvidia Has Moved Generations Ahead",
+      "timestamp": "2026-09-07T11:03:00+00:00",
+      "title": "Nvidia just sent a strong signal to AMD and Intel investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-06T05:18:32+00:00",
-      "title": "Intel (INTC) Enters Trusted AI Standards as Enterprise Infrastructure Role Grows",
+      "timestamp": "2026-09-07T10:25:35+00:00",
+      "title": "Intel: The $23 Billion Dilution I'm Willing To Accept",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T08:25:39+00:00",
+      "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-05T23:40:17+00:00",
-      "title": "Why Intel Stock Climbed This Week",
+      "timestamp": "2026-09-07T07:06:03+00:00",
+      "title": "Trump Again Touts Intel Stock Gains in AI Image, Claims He Made ‘Hundreds of Billions'",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-05T22:58:25+00:00",
-      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "timestamp": "2026-09-07T06:04:55+00:00",
+      "title": "Intel's Comeback Is About To Face Its Biggest Test",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T04:12:00+00:00",
+      "title": "Bloom Energy Up 52% Since Pelosi's Bottom Buy: What Does She Know?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T03:42:18+00:00",
+      "title": "Nvidia’s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
