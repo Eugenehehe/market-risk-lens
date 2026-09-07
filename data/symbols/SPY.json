@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:22:22.441811+00:00",
+  "generated_at": "2026-09-07T19:18:39.779813+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 770.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T08:10:18.626064+00:00",
-      "close": 763.47
-    },
     {
       "timestamp": "2026-08-25T09:00:05.157359+00:00",
       "close": 763.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-07T15:22:22.441811+00:00",
       "close": 770.23
+    },
+    {
+      "timestamp": "2026-09-07T19:18:39.779813+00:00",
+      "close": 770.23
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-07T11:29:18+00:00",
       "title": "Tesla Wants to Be Seen as an AI Company",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T11:24:23+00:00",
+      "title": "Inside The Magic Box: Earnings Are Strong, Just Not As Strong As They Look",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-07T08:14:08+00:00",
       "title": "The Coming 10 Year Decline In Stocks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T07:30:00+00:00",
-      "title": "SPHD: Why SCHD Is Better For High Dividends And Low Volatility",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

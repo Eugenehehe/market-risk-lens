@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T15:22:22.441811+00:00",
+  "generated_at": "2026-09-07T19:18:39.779813+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 223.59,
     "change_pct": 7.067950007182877
   },
   "risk": {
-    "score": 70,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T07:28:29.407948+00:00",
-      "close": 229.29
-    },
     {
       "timestamp": "2026-08-25T08:10:18.626064+00:00",
       "close": 229.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-07T15:22:22.441811+00:00",
       "close": 223.59
+    },
+    {
+      "timestamp": "2026-09-07T19:18:39.779813+00:00",
+      "close": 223.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-07T15:07:00+00:00",
+      "title": "How Nvidia’s Investment Juggernaut Can Jump from Big to Enormous",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T14:38:52+00:00",
       "title": "Broadcom vs Marvell: One of These AI Chip Stocks Is a Clear Winner",
@@ -517,6 +525,14 @@
       "timestamp": "2026-09-07T09:00:00+00:00",
       "title": "Broadcom: Market Is In Disbelief; Don't Be Mistaken",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T06:37:16+00:00",
+      "title": "Top Wall Street analysts like these 3 stocks for the long haul",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
