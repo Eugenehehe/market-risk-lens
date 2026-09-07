@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T19:18:39.779813+00:00",
+  "generated_at": "2026-09-07T22:06:26.937587+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 524.18,
-    "change_pct": 1.5085497395379344
+    "price": 524.14,
+    "change_pct": 1.5008036561513505
   },
   "risk": {
     "score": 63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T08:10:18.626064+00:00",
-      "close": 433.19
-    },
     {
       "timestamp": "2026-08-25T09:00:05.157359+00:00",
       "close": 433.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-07T19:18:39.779813+00:00",
       "close": 524.18
+    },
+    {
+      "timestamp": "2026-09-07T22:06:26.937587+00:00",
+      "close": 524.14
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-07T13:52:56+00:00",
       "title": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here’s What That Means for Your Portfolio",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T13:35:15+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-06T18:30:02+00:00",
-      "title": "Dell Stock Exploded Over 300% — Its 150% EPS Growth Could Send It Even Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-06T16:45:06+00:00",
-      "title": "Dell COO Jeff Clarke Reveals AI Boom Runs on Endless Scrambling for Scarce Parts: 'This Is What We Do' and 'We Love It' (CORRECTED)",
-      "source": "Yahoo",
+      "timestamp": "2026-09-06T22:02:37+00:00",
+      "title": "Trump Says He's Made 'Hundreds of Billions' on Stocks, But Not for Himself: 'I Do This for Our Country'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
