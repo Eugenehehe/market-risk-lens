@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T04:51:47.096600+00:00",
+  "generated_at": "2026-09-07T09:51:03.416975+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 52,
     "change_pct": -4.481998530492282
   },
   "risk": {
-    "score": 66,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T06:36:29.951896+00:00",
-      "close": 52.43
-    },
     {
       "timestamp": "2026-08-25T07:28:29.407948+00:00",
       "close": 52.43
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-07T04:51:47.096600+00:00",
       "close": 52
+    },
+    {
+      "timestamp": "2026-09-07T09:51:03.416975+00:00",
+      "close": 52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-07T08:33:09+00:00",
+      "title": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T03:31:30+00:00",
+      "title": "Dell and HPE Just Posted Record AI Numbers. Why Did Their Stocks Split?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-06T13:30:12+00:00",
       "title": "SMCI Stock Is at a Crossroads. The Next Move Could Be Huge",
