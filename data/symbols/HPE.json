@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 52,
     "change_pct": -4.481998530492282
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 52.43
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 52.43
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 52
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 52
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-09-05T11:10:08+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Stock Looks Below Fair Value As Its 315% Run Continues",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T21:51:33+00:00",
-      "title": "Cisco Systems Stock Rose On More Than Its AI Orders",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T21:14:47+00:00",
-      "title": "How Much Track Is Left For ANET Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:05:01+00:00",
-      "title": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:15:00+00:00",
-      "title": "DELL Stock Hits 52-Week High: Does it Have More Room to Run?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:05:14+00:00",
-      "title": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:59:00+00:00",
-      "title": "ANET Rises 37.3% in Six Months: Is There More Room to Grow?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

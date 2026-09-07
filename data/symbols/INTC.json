@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 95.8,
     "change_pct": 4.505290716701205
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T04:48:15.925714+00:00",
-      "close": 87.26
-    },
     {
       "timestamp": "2026-08-25T05:19:56.496429+00:00",
       "close": 87.26
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 95.8
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 95.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-06T23:30:01+00:00",
+      "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-06T15:35:11+00:00",
+      "title": "China Is Still Chasing Nvidia’s 3-Year-Old Chip — While Nvidia Has Moved Generations Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-06T05:18:32+00:00",
+      "title": "Intel (INTC) Enters Trusted AI Standards as Enterprise Infrastructure Role Grows",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-05T23:40:17+00:00",
       "title": "Why Intel Stock Climbed This Week",
@@ -517,54 +541,6 @@
       "timestamp": "2026-09-05T22:58:25+00:00",
       "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T23:55:13+00:00",
-      "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T21:27:52+00:00",
-      "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:52:23+00:00",
-      "title": "Mizuho Resets Intel Target For the Rest of 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:08:47+00:00",
-      "title": "Lone Star JV Acquires 2M SF Of R&D Space In Silicon Valley",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:05:02+00:00",
-      "title": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:00:00+00:00",
-      "title": "Curious about the most active stocks on Friday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

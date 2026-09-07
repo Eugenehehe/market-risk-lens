@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 519.86,
     "change_pct": 3.51652727996814
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 506.18
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 506.18
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 519.86
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 519.86
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-09-05T06:12:18+00:00",
       "title": "Semis Survived Hawkish August Jobs Data: CPI's Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:05:14+00:00",
-      "title": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:08:58+00:00",
-      "title": "ETF Zoo: Industry Scale, Speculation, and Sports Betting",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T16:50:53+00:00",
-      "title": "Investors Put $182.6 Billion Into ETFs in August — but Pulled Money Out of Chip Funds",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:12:07+00:00",
-      "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T10:24:04+00:00",
-      "title": "The AI Collapse Nobody Is Ready For",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T08:11:54+00:00",
-      "title": "The AI Boom Is Eating Its Own Margins",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

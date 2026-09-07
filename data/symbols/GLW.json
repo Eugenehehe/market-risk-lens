@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 154.3,
     "change_pct": 5.684931506849322
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 145.55
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 145.55
@@ -502,74 +498,13 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 154.3
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 154.3
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-09-04T21:08:03+00:00",
-      "title": "Corning (GLW) Stock Looks Below Fair Value As Its 393% Run Continues",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:36:50+00:00",
-      "title": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:05:01+00:00",
-      "title": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T15:30:22+00:00",
-      "title": "Owens Corning (OC) Down 10.6% Since Last Earnings Report: Can It Rebound?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T14:20:00+00:00",
-      "title": "Ciena Outlines Strong 2027 Outlook: What's Fueling the Momentum?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T13:29:10+00:00",
-      "title": "US firms pledge $2bn for South Korea’s chip, clean energy sectors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T08:44:09+00:00",
-      "title": "1 Profitable Stock with Impressive Fundamentals and 2 Facing Challenges",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T04:35:14+00:00",
-      "title": "South Korea Lands $2 Billion From 4 US Companies as Trump Turns Up Pressure on Foreign Chipmakers: GLW, APD, ACLS Among Stocks in Focus",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

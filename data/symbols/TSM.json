@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 428.91,
     "change_pct": 2.8536485935589218
   },
   "risk": {
-    "score": 73,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 410.12
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 410.12
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 428.91
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 428.91
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-09-05T04:02:14+00:00",
       "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T21:45:03+00:00",
-      "title": "TSMC (TSM) Increases Despite Market Slip: Here's What You Need to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:50:00+00:00",
-      "title": "Prediction: Taiwan Semiconductor Stock Will Surge by 22% Before 2026 Ends",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T18:35:14+00:00",
-      "title": "ASML Plans 40% Japan Workforce Expansion to Support Chip Boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:10:57+00:00",
-      "title": "ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

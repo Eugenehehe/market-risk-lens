@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 223.55,
     "change_pct": 7.048795671120045
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T04:48:15.925714+00:00",
-      "close": 229.29
-    },
     {
       "timestamp": "2026-08-25T05:19:56.496429+00:00",
       "close": 229.29
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 223.55
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 223.55
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-09-05T02:14:10+00:00",
       "title": "FormFactor, Entegris, Penguin Solutions, Teradyne, and Marvell Technology Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T23:58:56+00:00",
-      "title": "Marvell Raised Its Outlook but Fell as Google Chip Revenue Stayed Distant. Has the AI Payoff Been Priced In? (Ready for review)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T21:27:52+00:00",
-      "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T19:05:01+00:00",
-      "title": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:42:00+00:00",
-      "title": "Lupin Receives U.S. FDA Approval for Modafinil Tablets, USP",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:21:50+00:00",
-      "title": "Why Marvell Stock Rallied Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:04:21+00:00",
-      "title": "Memory, Other AI-Related Stocks Lead the Market’s Top Performers Friday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

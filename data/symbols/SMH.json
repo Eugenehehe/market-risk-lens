@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T22:27:29.498827+00:00",
+  "generated_at": "2026-09-07T00:14:48.843999+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 567.01,
     "change_pct": 2.6076728193991983
   },
   "risk": {
-    "score": 71,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 546.8
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 546.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 567.01
+    },
+    {
+      "timestamp": "2026-09-07T00:14:48.843999+00:00",
+      "close": 567.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-06T19:46:45+00:00",
+      "title": "SMHX: Top Holdings Are Expanding The Market, Not Competing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-05T12:47:05+00:00",
       "title": "The \"Warsh Vs. The White House\" Trade",
@@ -524,46 +532,6 @@
     {
       "timestamp": "2026-09-05T06:12:18+00:00",
       "title": "Semis Survived Hawkish August Jobs Data: CPI's Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T17:08:58+00:00",
-      "title": "ETF Zoo: Industry Scale, Speculation, and Sports Betting",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T16:50:53+00:00",
-      "title": "Investors Put $182.6 Billion Into ETFs in August — but Pulled Money Out of Chip Funds",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T11:06:19+00:00",
-      "title": "Tech Strength Lifts Wall Street Pre-Bell; Asia Up, Europe Muted",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T10:24:04+00:00",
-      "title": "The AI Collapse Nobody Is Ready For",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-04T08:11:54+00:00",
-      "title": "The AI Boom Is Eating Its Own Margins",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
