@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:14:48.843999+00:00",
+  "generated_at": "2026-09-07T04:51:47.096600+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 477.57,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 456.745
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 456.745
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 477.57
+    },
+    {
+      "timestamp": "2026-09-07T04:51:47.096600+00:00",
+      "close": 477.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-07T02:46:01+00:00",
+      "title": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-06T23:30:01+00:00",
       "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-05T12:38:43+00:00",
       "title": "Broadcom’s Upcoming Report Is the AI Infrastructure Trade’s Next Pivotal Test",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-05T02:24:14+00:00",
-      "title": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

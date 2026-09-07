@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:14:48.843999+00:00",
+  "generated_at": "2026-09-07T04:51:47.096600+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 319.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T04:48:15.925714+00:00",
-      "close": 310.34
-    },
     {
       "timestamp": "2026-08-25T05:19:56.496429+00:00",
       "close": 310.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 319.97
+    },
+    {
+      "timestamp": "2026-09-07T04:51:47.096600+00:00",
+      "close": 319.97
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-06T23:48:34+00:00",
       "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-06T23:44:33+00:00",
+      "title": "I'm Buying Consumer Experience Like Delta, Carnival, And Avoiding Discretionary Stocks",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-06T19:47:00+00:00",
       "title": "The 'Waffle House Index' is real, and Apple is filming it",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-06T19:00:00+00:00",
-      "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

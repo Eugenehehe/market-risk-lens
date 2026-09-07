@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T00:14:48.843999+00:00",
+  "generated_at": "2026-09-07T04:51:47.096600+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 121.75,
     "change_pct": -0.213097287107622
   },
   "risk": {
-    "score": 36,
+    "score": 38,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:53:05.260372+00:00",
-      "close": 115.81
-    },
     {
       "timestamp": "2026-08-25T06:36:29.951896+00:00",
       "close": 115.81
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 121.75
+    },
+    {
+      "timestamp": "2026-09-07T04:51:47.096600+00:00",
+      "close": 121.75
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-07T02:31:00+00:00",
+      "title": "Tapas Strickland joins Moomoo Australia and New Zealand as chief market strategist",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:14:48.843999+00:00",
+  "generated_at": "2026-09-07T04:51:47.096600+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 499.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 487.31
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 487.31
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 499.7
+    },
+    {
+      "timestamp": "2026-09-07T04:51:47.096600+00:00",
+      "close": 499.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-07T00:29:34+00:00",
+      "title": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-06T21:21:05+00:00",
       "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-06T08:30:00+00:00",
       "title": "What I Found By Analyzing How Seeking Alpha Analysts Rated The Mag 7",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-05T23:50:00+00:00",
-      "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

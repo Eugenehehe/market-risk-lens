@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T00:14:48.843999+00:00",
+  "generated_at": "2026-09-07T04:51:47.096600+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 158.78,
     "change_pct": 3.077122825240197
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T05:19:56.496429+00:00",
-      "close": 142.45
-    },
     {
       "timestamp": "2026-08-25T05:53:05.260372+00:00",
       "close": 142.45
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 158.78
+    },
+    {
+      "timestamp": "2026-09-07T04:51:47.096600+00:00",
+      "close": 158.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-06T19:00:00+00:00",
+      "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-06T18:00:03+00:00",
+      "title": "Short Trading Week, CPI and Other Key Things to Watch this Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-06T16:41:17+00:00",
       "title": "Wall Street Brunch: Make Or Break Inflation For The Fed",
@@ -514,32 +530,40 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-06T06:37:20+00:00",
-      "title": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-06T16:39:40+00:00",
+      "title": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-05T11:00:00+00:00",
-      "title": "Oracle, Adobe Results In Focus As Earnings Season Winds Down",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-06T15:30:03+00:00",
+      "title": "1 Momentum Signal Suggests the Software Apocalypse Is Over. Don’t Rush to Buy Just Yet.",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-05T09:55:33+00:00",
-      "title": "Oracle: Market's Mispricing Is Starting To Unwind",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-06T13:10:16+00:00",
+      "title": "Broadcom And 2 Top Growth Stocks To Watch",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-05T00:17:27+00:00",
-      "title": "What Could IonQ (IONQ) Gain From Adding Two Veteran Board Members?",
+      "timestamp": "2026-09-06T13:04:29+00:00",
+      "title": "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-06T12:00:00+00:00",
+      "title": "What to Expect in Markets This Week: Fresh Inflation Data; Apple’s Fall Launch Event and Oracle Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
