@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T20:13:49.124003+00:00",
+  "generated_at": "2026-09-08T22:43:23.380235+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 528.4,
     "change_pct": 1.6427499711460625
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T13:32:46.577537+00:00",
-      "close": 516.72
-    },
     {
       "timestamp": "2026-08-25T14:24:15.990771+00:00",
       "close": 511.84
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-08T20:13:49.124003+00:00",
       "close": 528.4
+    },
+    {
+      "timestamp": "2026-09-08T22:43:23.380235+00:00",
+      "close": 528.4
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-08T08:00:00+00:00",
       "title": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T05:39:47+00:00",
+      "title": "Intel Hits 1 Million-Wafer Milestone With ASML’s Next-Gen Chip Technology",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
