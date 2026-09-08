@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T17:34:01.744281+00:00",
+  "generated_at": "2026-09-08T20:13:49.124003+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 441.49,
-    "change_pct": 2.933016250495446
+    "price": 439,
+    "change_pct": 2.3524748781795557
   },
   "risk": {
-    "score": 74,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T12:36:13.002145+00:00",
-      "close": 410.12
-    },
     {
       "timestamp": "2026-08-25T13:32:46.577537+00:00",
       "close": 415.83
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-08T17:34:01.744281+00:00",
       "close": 441.49
+    },
+    {
+      "timestamp": "2026-09-08T20:13:49.124003+00:00",
+      "close": 439
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-08T08:32:14+00:00",
       "title": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Fall as Oil Tops $99 Despite Trump’s Price Drop Prediction— ASML, NVS, CASY in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T07:29:57+00:00",
+      "title": "AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-08T04:27:30+00:00",
+      "title": "Apple’s First Foldable iPhone Could Be Huge—but Should You Be an Early Buyer?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-08T03:50:00+00:00",
       "title": "Baron Durable Advantage Fund Q2 2026 Top Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T21:37:35+00:00",
-      "title": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T20:44:00+00:00",
-      "title": "Tracking Chase Coleman's Tiger Global Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

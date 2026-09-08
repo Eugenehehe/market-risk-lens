@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T17:34:01.744281+00:00",
+  "generated_at": "2026-09-08T20:13:49.124003+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 529.75,
-    "change_pct": 1.0703247224024048
+    "price": 533.88,
+    "change_pct": 1.8582821383599901
   },
   "risk": {
-    "score": 59,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:52:59.545261+00:00",
-      "close": 433.19
-    },
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 433.19
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-08T17:34:01.744281+00:00",
       "close": 529.75
+    },
+    {
+      "timestamp": "2026-09-08T20:13:49.124003+00:00",
+      "close": 533.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T19:10:00+00:00",
+      "title": "Why Today's AI Boom Differs From the Internet Bubble",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-08T15:33:17+00:00",
       "title": "Super Micro Climbs 4%, Hewlett Packard Enterprise Advances 5%: Is the Margin Beat Already Guided Away?",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-08T13:35:21+00:00",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-08T12:37:56+00:00",
       "title": "The Enterprise AI Fight Has a New Challenger and It Is Not Who You Would Expect",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-08T12:16:04+00:00",
       "title": "Bloom Energy Joins the S&P 500 as The Trade Desk Leaves",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T11:26:57+00:00",
-      "title": "Sandisk: NAND Just Had A Game-Changing Week",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T06:50:02+00:00",
-      "title": "Why Lenovo Is A Better Buy Than Dell And HP Inc.",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
