@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 53.29,
-    "change_pct": 2.480769230769231
+    "price": 55.35,
+    "change_pct": 6.442307692307692
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:52:59.545261+00:00",
-      "close": 52.43
-    },
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 52.43
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 53.29
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 55.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T15:33:17+00:00",
+      "title": "Super Micro Climbs 4%, Hewlett Packard Enterprise Advances 5%: Is the Margin Beat Already Guided Away?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T15:04:18+00:00",
+      "title": "Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI Infrastructure Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:20:29+00:00",
+      "title": "SMCI Outworks Its Peers And Costs Less",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T16:36:00+00:00",
       "title": "NetApp Q1 Beat and Raised Guidance Put AI Storage Growth in Focus",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-07T15:50:08+00:00",
       "title": "Super Micro Has Gained 35% in 2026. What Would It Take to Get SMCI Stock Up to $50?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T14:15:02+00:00",
-      "title": "Interpreting Hewlett Packard Enterprise (HPE) International Revenue Trends",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T11:02:38+00:00",
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) Posts Accelerating Growth and Improving Fundamentals",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T10:02:14+00:00",
-      "title": "Dell and HPE Posted Record Revenue. Here’s Why the Market Rewarded 1 and Punished the Other.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T08:33:09+00:00",
-      "title": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 160.46,
-    "change_pct": 3.992222942320156
+    "price": 168.63,
+    "change_pct": 9.287103046014256
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:52:59.545261+00:00",
-      "close": 145.55
-    },
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 145.55
@@ -502,12 +498,72 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 160.46
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 168.63
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-07T17:09:19+00:00",
-      "title": "Caterpillar vs. Corning: Which Stock Is a Better Buy in 2026?",
+      "timestamp": "2026-09-08T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T15:27:00+00:00",
+      "title": "Ciena Stock Down 14% in the Past Month: Time to Buy, Hold or Sell?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:47:39+00:00",
+      "title": "Verizon Just Locked In 80 Million Miles of Fiber Through 2032",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:41:05+00:00",
+      "title": "Corning Stock Climbs On Multibillion-Dollar Verizon Network Deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:35:01+00:00",
+      "title": "These S&P500 stocks are gapping in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:20:29+00:00",
+      "title": "GLW Stock Just Shot Up 6% Today – What’s The Verizon Connection?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T13:50:00+00:00",
+      "title": "Corning Stock Rises on Multi-Billion-Dollar Verizon Pact for 80 Million Miles of Fiber",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T13:49:48+00:00",
+      "title": "Corning stock rises on multi-billion fiber deal with Verizon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

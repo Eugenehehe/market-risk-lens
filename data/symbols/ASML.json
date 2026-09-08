@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1760.94,
-    "change_pct": 2.6859022205635297
+    "price": 1766.53,
+    "change_pct": 3.0118725508490263
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:52:59.545261+00:00",
-      "close": 1740.13
-    },
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 1740.13
@@ -502,53 +498,73 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 1760.94
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 1766.53
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-08T06:50:00+00:00",
-      "title": "Wall Street Breakfast Podcast: Canada's Tariffs Go Live",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T16:28:00+00:00",
-      "title": "ASML Bets Big on AI & Capacity Expansion: Should You Buy the Stock?",
+      "timestamp": "2026-09-08T15:23:43+00:00",
+      "title": "Morgan Stanley turns more selective on European chip stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T12:46:53+00:00",
-      "title": "Brent Jumps to $97, German AfD Party Wins Big: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T12:24:38+00:00",
-      "title": "ASML Holding N.V. (ASML) Well Positioned as AI Fuels Chip Complexity",
+      "timestamp": "2026-09-08T13:32:21+00:00",
+      "title": "Intel Climbs 5% on High-NA EUV Production Lead, ASML and Taiwan Semiconductor Advance 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T12:00:00+00:00",
-      "title": "ASML reports transactions under its current share buyback program",
+      "timestamp": "2026-09-08T13:21:32+00:00",
+      "title": "Intel Just Hit a Key Milestone in Its Foundry Comeback",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T10:59:05+00:00",
-      "title": "After Nvidia's Blowout, The AI Trade's Next Leg Is One Layer Down",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-08T13:17:18+00:00",
+      "title": "Mistral Lands $3 Billion AI Windfall: Samsung and BlackRock Join Investor List",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T12:52:08+00:00",
+      "title": "TSMC and Samsung commit to ASML High NA EUV machines for AI chips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T12:23:48+00:00",
+      "title": "Mistral raises €3B to bet big on sovereign AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T12:17:14+00:00",
+      "title": "ASML Stock Rises 3% on TSMC and Samsung Commitments",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T12:11:54+00:00",
+      "title": "TSMC, Samsung and Intel Just Gave ASML a Powerful Endorsement",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

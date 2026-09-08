@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 167.1,
-    "change_pct": 5.2399546542385655
+    "price": 162.54,
+    "change_pct": 2.368056430280885
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 69,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:23:02.193957+00:00",
-      "close": 142.45
-    },
     {
       "timestamp": "2026-08-25T11:52:59.545261+00:00",
       "close": 142.45
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 167.1
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 162.54
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-08T12:35:00+00:00",
-      "title": "These S&P500 stocks are moving in today's pre-market session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T06:30:00+00:00",
-      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T04:35:50+00:00",
-      "title": "You're Telling Me That Circular Financing Can Reduce The Risk Of A Bubble?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T00:03:00+00:00",
-      "title": "EU regulators send early warning to Oracle ahead of earnings",
+      "timestamp": "2026-09-08T15:43:23+00:00",
+      "title": "S&P 500 Second Quarter Earnings Outpace Forecast as Reporting Season Nears End, Oppenheimer Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T21:25:00+00:00",
-      "title": "Energy Transfer Just Delayed a New Mexico Pipeline. Here's Why I'm Not Worried Yet.",
+      "timestamp": "2026-09-08T15:26:00+00:00",
+      "title": "Snowflake Expands in Cloud Analytics: Can It Challenge DELL & ORCL?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T20:57:51+00:00",
-      "title": "Oracle’s AI Earnings Story Is Improving, but the Cash Flow Test Remains",
+      "timestamp": "2026-09-08T15:07:10+00:00",
+      "title": "What investors 'really' need to see from Oracle earnings this week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T20:37:01+00:00",
-      "title": "Oracle Stock Is 54% Below Its High. The Last Time It Fell That Far, Getting Back Took More Than a Decade.",
+      "timestamp": "2026-09-08T15:00:00+00:00",
+      "title": "Nucleus Research Releases 2026 LCAP Technology Value Matrix",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T16:33:00+00:00",
-      "title": "BofA stays bullish on a cloud titan that is down 25%",
+      "timestamp": "2026-09-08T14:50:00+00:00",
+      "title": "Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:46:00+00:00",
+      "title": "Care Management Solutions Market Report Now Available — Forecasts Market Growth from $22.56B (2026) to $42.62B by 2031, Profiling Optum, Epic Systems, Oracle, Philips, Veradigm, and 20 Other Key Players",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:43:25+00:00",
+      "title": "Cramer Begs Trump Not to Sell Chipmaker That Is Up 311% in a Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:43:00+00:00",
+      "title": "Oracle's $638 Billion Backlog Meets Its Balance Sheet on Thursday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

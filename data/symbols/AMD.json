@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 491.28,
-    "change_pct": 2.8707833406621086
+    "price": 511.34,
+    "change_pct": 7.071214691040062
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:23:02.193957+00:00",
-      "close": 456.745
-    },
     {
       "timestamp": "2026-08-25T11:52:59.545261+00:00",
       "close": 456.745
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 491.28
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 511.34
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-08T08:00:01+00:00",
-      "title": "AMD Is Not Expensive, It Is Early",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-08T16:35:01+00:00",
+      "title": "These S&P500 stocks are moving in today's session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-08T06:30:00+00:00",
-      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T21:36:21+00:00",
-      "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027",
+      "timestamp": "2026-09-08T15:02:52+00:00",
+      "title": "Advanced Micro Devices Sees AI Boom Fueling MI450, Helios and Server CPU Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T19:26:52+00:00",
-      "title": "Nvidia, Microsoft at Center of $7 Trillion AI Boom",
+      "timestamp": "2026-09-08T15:00:32+00:00",
+      "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T19:21:33+00:00",
-      "title": "Cathie Wood Is Moving Money From Palantir Into Rocket Lab and Fintech",
+      "timestamp": "2026-09-08T14:54:00+00:00",
+      "title": "Can Intel's AI PC Innovation With ASU Strengthen Its Market Position?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T17:30:18+00:00",
-      "title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be",
+      "timestamp": "2026-09-08T14:36:31+00:00",
+      "title": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T17:24:03+00:00",
-      "title": "Cathie Wood Dumps $25 Million of Palantir Shares. Should PLTR Investors Worry?",
+      "timestamp": "2026-09-08T14:34:09+00:00",
+      "title": "Queen of Capital Gains: Pelosi Bets $3 Million on Bloom Energy — Then It Got Added to the S&P 500",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T16:50:14+00:00",
-      "title": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI",
+      "timestamp": "2026-09-08T14:11:00+00:00",
+      "title": "Qualcomm, Amgen, Novartis, Corning, Boeing, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:05:00+00:00",
+      "title": "Forget AMD: This AI Hardware Stock Is the Smarter Bet Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

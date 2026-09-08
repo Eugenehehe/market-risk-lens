@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 436.24,
-    "change_pct": 1.7089832365764446
+    "price": 441.49,
+    "change_pct": 2.933016250495446
   },
   "risk": {
-    "score": 64,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:52:59.545261+00:00",
-      "close": 410.12
-    },
     {
       "timestamp": "2026-08-25T12:36:13.002145+00:00",
       "close": 410.12
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 436.24
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 441.49
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T08:32:14+00:00",
+      "title": "Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Fall as Oil Tops $99 Despite Trump’s Price Drop Prediction— ASML, NVS, CASY in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-08T06:50:00+00:00",
       "title": "Wall Street Breakfast Podcast: Canada's Tariffs Go Live",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-08T05:28:41+00:00",
+      "title": "Taiwan Semiconductor, ASML Join Forces to Make Advanced Chips Cheaper, Faster",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-08T03:50:00+00:00",
       "title": "Baron Durable Advantage Fund Q2 2026 Top Contributors And Detractors",
       "source": "SeekingAlpha",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-07T20:44:00+00:00",
       "title": "Tracking Chase Coleman's Tiger Global Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T19:25:38+00:00",
-      "title": "TSMC's $265 Billion U.S. Bet Is Becoming Part of Taiwan's Chip Diplomacy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T16:24:45+00:00",
-      "title": "Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

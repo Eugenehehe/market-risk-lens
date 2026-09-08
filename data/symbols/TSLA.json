@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T13:45:09.246218+00:00",
+  "generated_at": "2026-09-08T17:34:01.744281+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 358.48,
-    "change_pct": 1.242657026660643
+    "price": 367.73,
+    "change_pct": 3.8550610031631294
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:23:02.193957+00:00",
-      "close": 348.95
-    },
     {
       "timestamp": "2026-08-25T11:52:59.545261+00:00",
       "close": 348.95
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-08T13:45:09.246218+00:00",
       "close": 358.48
+    },
+    {
+      "timestamp": "2026-09-08T17:34:01.744281+00:00",
+      "close": 367.73
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-08T09:00:52+00:00",
-      "title": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T08:51:00+00:00",
-      "title": "Company News for Sep 8, 2026",
+      "timestamp": "2026-09-08T15:38:16+00:00",
+      "title": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-08T08:31:35+00:00",
-      "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
+      "timestamp": "2026-09-08T15:17:04+00:00",
+      "title": "Uber Technologies Poised to Benefit From Long-Term Trend for Autonomous Vehicles, Wedbush Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-08T06:30:00+00:00",
-      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T06:21:28+00:00",
-      "title": "Tesla: Elon Is Going For The Robotaxi Moonshot",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T05:36:55+00:00",
-      "title": "Ross Gerber Recommends Tesla Owners Let TSLA ‘Take The Risk’ In Elon Musk’s Airbnb-Like Robotaxi Program",
+      "timestamp": "2026-09-08T15:14:00+00:00",
+      "title": "Can Tesla Overcome Mixed August Registration Trends Across Europe?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T20:59:00+00:00",
-      "title": "Crypto Investors Rotate From Bitcoin Into Altcoins as Rate Risks Rise",
+      "timestamp": "2026-09-08T15:07:00+00:00",
+      "title": "Is Tesla's Cybercab Certification Facing a Regulatory Roadblock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T20:46:03+00:00",
-      "title": "Tesla Stock May Have A European Catalyst Investors Are Missing",
+      "timestamp": "2026-09-08T15:00:00+00:00",
+      "title": "Antioch Raises $32M to Bring Software Speed to Physical AI Development",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:48:00+00:00",
+      "title": "Over the Air Updates Market for Automotive Report Now Available — See Why Volvo's 2.5M-Vehicle Rollout and BMW's 12M Remote Upgrades Signal OTA Has Become Core to Vehicle Strategy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:41:02+00:00",
+      "title": "Most Drivers Are Overpaying. Lemonade CEO Says Two-Thirds Subsidize the Highest-Mileage Third.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T14:29:06+00:00",
+      "title": "Tesla's 2021 Bitcoin Bet: What Is It Worth Today?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
