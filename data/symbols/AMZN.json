@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T09:23:29.295803+00:00",
+  "generated_at": "2026-09-08T13:45:09.246218+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 258.51,
-    "change_pct": -0.15063731170334993
+    "price": 257.43,
+    "change_pct": -0.4177788093303825
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T10:15:29.946518+00:00",
-      "close": 262.07
-    },
     {
       "timestamp": "2026-08-25T10:53:41.393727+00:00",
       "close": 262.07
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-08T09:23:29.295803+00:00",
       "close": 258.51
+    },
+    {
+      "timestamp": "2026-09-08T13:45:09.246218+00:00",
+      "close": 257.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T09:00:52+00:00",
+      "title": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T06:30:00+00:00",
+      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T06:29:44+00:00",
+      "title": "Amazon: The Conglomerate Of The AI Industry",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-08T05:20:00+00:00",
       "title": "Amazon's 39% AWS Operating Margin the Single Best Reason to Buy the Stock in September",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-08T02:54:01+00:00",
       "title": "Peter Thiel's Fund's Single Biggest Reported Position Is Amazon. $10,000 Invested in Amazon 10 Years Ago Is Worth About $66,000 Today.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T22:31:00+00:00",
-      "title": "Scene of Fatal Amazon Plane Crash in Miami Is ‘Devastating’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T21:54:15+00:00",
-      "title": "Amazon's 250-Flight Air Network Faces a Fatal Miami Investigation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T21:46:01+00:00",
-      "title": "SoftBank Explodes 11.2% as AI Mania Roars Back Across Asia",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

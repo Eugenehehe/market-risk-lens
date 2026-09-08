@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T09:23:29.295803+00:00",
+  "generated_at": "2026-09-08T13:45:09.246218+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 338.46,
-    "change_pct": -1.1737911702873305
+    "price": 335.25,
+    "change_pct": -0.9484134018790891
   },
   "risk": {
-    "score": 60,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T10:53:41.393727+00:00",
-      "close": 348.06
-    },
     {
       "timestamp": "2026-08-25T11:23:02.193957+00:00",
       "close": 348.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-08T09:23:29.295803+00:00",
       "close": 338.46
+    },
+    {
+      "timestamp": "2026-09-08T13:45:09.246218+00:00",
+      "close": 335.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T06:30:00+00:00",
+      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T22:35:00+00:00",
       "title": "Warren Buffett Told CNBC 'I Initiated It' About Berkshire's Alphabet Bet, and New Reporting Says He's Still Calling the Shots on Stocks. Here's What That Means for Reading Greg Abel's Tenure.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-07T17:41:02+00:00",
       "title": "Google-Backed Pixxel Raises $100 Million in India's Biggest Space-Tech Round",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T16:20:00+00:00",
-      "title": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

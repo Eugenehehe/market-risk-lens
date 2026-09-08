@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T09:23:29.295803+00:00",
+  "generated_at": "2026-09-08T13:45:09.246218+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 223.55,
-    "change_pct": 7.048795671120045
+    "price": 225.29,
+    "change_pct": 0.7783493625586946
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T10:53:41.393727+00:00",
-      "close": 229.29
-    },
     {
       "timestamp": "2026-08-25T11:23:02.193957+00:00",
       "close": 229.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-08T09:23:29.295803+00:00",
       "close": 223.55
+    },
+    {
+      "timestamp": "2026-09-08T13:45:09.246218+00:00",
+      "close": 225.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T08:00:00+00:00",
+      "title": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T18:14:21+00:00",
       "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-07T06:37:16+00:00",
       "title": "Top Wall Street analysts like these 3 stocks for the long haul",
       "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-06T18:34:01+00:00",
-      "title": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

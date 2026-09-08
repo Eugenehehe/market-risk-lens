@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T09:23:29.295803+00:00",
+  "generated_at": "2026-09-08T13:45:09.246218+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 519.86,
-    "change_pct": 3.51652727996814
+    "price": 526.97,
+    "change_pct": 1.367675912745736
   },
   "risk": {
-    "score": 66,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:23:02.193957+00:00",
-      "close": 506.18
-    },
     {
       "timestamp": "2026-08-25T11:52:59.545261+00:00",
       "close": 506.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-08T09:23:29.295803+00:00",
       "close": 519.86
+    },
+    {
+      "timestamp": "2026-09-08T13:45:09.246218+00:00",
+      "close": 526.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T08:00:00+00:00",
+      "title": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T13:30:22+00:00",
       "title": "Which Optics Stock Has Dominated in 2026: Applied Optoelectronics, Lumentum, or Coherent?",

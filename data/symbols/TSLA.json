@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T09:23:29.295803+00:00",
+  "generated_at": "2026-09-08T13:45:09.246218+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 354.08,
-    "change_pct": -5.921113812389578
+    "price": 358.48,
+    "change_pct": 1.242657026660643
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T10:53:41.393727+00:00",
-      "close": 348.95
-    },
     {
       "timestamp": "2026-08-25T11:23:02.193957+00:00",
       "close": 348.95
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-08T09:23:29.295803+00:00",
       "close": 354.08
+    },
+    {
+      "timestamp": "2026-09-08T13:45:09.246218+00:00",
+      "close": 358.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T09:00:52+00:00",
+      "title": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T08:51:00+00:00",
+      "title": "Company News for Sep 8, 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T08:31:35+00:00",
+      "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA,  NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T06:30:00+00:00",
+      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T06:21:28+00:00",
+      "title": "Tesla: Elon Is Going For The Robotaxi Moonshot",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T05:36:55+00:00",
+      "title": "Ross Gerber Recommends Tesla Owners Let TSLA ‘Take The Risk’ In Elon Musk’s Airbnb-Like Robotaxi Program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T20:59:00+00:00",
       "title": "Crypto Investors Rotate From Bitcoin Into Altcoins as Rate Risks Rise",
@@ -514,56 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-07T19:12:00+00:00",
-      "title": "Goldman Sachs Delivers Stark Message on Tesla Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T19:09:59+00:00",
-      "title": "Cybercab Could Transform Tesla, But Regulatory Risks Loom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T18:30:02+00:00",
-      "title": "Howmet Aerospace Stock Is Sliding on SpaceX Fears. Here’s Why That Could Be a Buying Opportunity.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T17:54:00+00:00",
-      "title": "Is Tesla Stock Under $360 a Share an Obvious Buy in September?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T17:35:03+00:00",
-      "title": "Billionaire has 5-word response to Elon Musk's Tesla chart",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T17:07:00+00:00",
-      "title": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T17:00:20+00:00",
-      "title": "Tesla Plus SpaceX Could Become a ‘Must-Have’ Investment, Ross Gerber Says",
+      "timestamp": "2026-09-07T20:46:03+00:00",
+      "title": "Tesla Stock May Have A European Catalyst Investors Are Missing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

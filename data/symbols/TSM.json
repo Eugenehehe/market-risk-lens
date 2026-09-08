@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T09:23:29.295803+00:00",
+  "generated_at": "2026-09-08T13:45:09.246218+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 428.91,
-    "change_pct": 2.8536485935589218
+    "price": 436.24,
+    "change_pct": 1.7089832365764446
   },
   "risk": {
-    "score": 73,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T11:23:02.193957+00:00",
-      "close": 410.12
-    },
     {
       "timestamp": "2026-08-25T11:52:59.545261+00:00",
       "close": 410.12
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-08T09:23:29.295803+00:00",
       "close": 428.91
+    },
+    {
+      "timestamp": "2026-09-08T13:45:09.246218+00:00",
+      "close": 436.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-08T06:50:00+00:00",
+      "title": "Wall Street Breakfast Podcast: Canada's Tariffs Go Live",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T06:05:00+00:00",
+      "title": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T06:04:00+00:00",
+      "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-08T03:50:00+00:00",
       "title": "Baron Durable Advantage Fund Q2 2026 Top Contributors And Detractors",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-07T16:24:45+00:00",
       "title": "Arm Expands Into AI Accelerators With Samsung — But It’s Not the Data Center Goldmine Investors Hope For",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T16:18:25+00:00",
-      "title": "South Korea’s ‘AI for All’ Is Great for Chipmakers, but It Will Run Into Wall of Reality",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T14:26:02+00:00",
-      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-07T13:30:05+00:00",
-      "title": "Wall Street Analysts Think TSMC (TSM) Is a Good Investment: Is It?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
