@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-08T00:21:24.980790+00:00",
+  "generated_at": "2026-09-08T04:54:58.409483+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 223.55,
     "change_pct": 7.048795671120045
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T09:45:36.098176+00:00",
-      "close": 229.29
-    },
     {
       "timestamp": "2026-08-25T10:15:29.946518+00:00",
       "close": 229.29
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-08T00:21:24.980790+00:00",
       "close": 223.55
+    },
+    {
+      "timestamp": "2026-09-08T04:54:58.409483+00:00",
+      "close": 223.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-07T18:14:21+00:00",
+      "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T17:39:33+00:00",
+      "title": "Marvell's AI Business Is Booming. Photonics Could Be Next",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-07T16:50:14+00:00",
+      "title": "Nvidia Is No Longer Just a Chip Company. It’s the Infrastructure Platform for All of AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-07T15:07:00+00:00",
       "title": "How Nvidia’s Investment Juggernaut Can Jump from Big to Enormous",

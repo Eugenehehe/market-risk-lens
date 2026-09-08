@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T00:21:24.980790+00:00",
+  "generated_at": "2026-09-08T04:54:58.409483+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 154.3,
     "change_pct": 5.684931506849322
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T10:15:29.946518+00:00",
-      "close": 145.55
-    },
     {
       "timestamp": "2026-08-25T10:53:41.393727+00:00",
       "close": 145.55
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-08T00:21:24.980790+00:00",
       "close": 154.3
+    },
+    {
+      "timestamp": "2026-09-08T04:54:58.409483+00:00",
+      "close": 154.3
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-07T17:09:19+00:00",
+      "title": "Caterpillar vs. Corning: Which Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
