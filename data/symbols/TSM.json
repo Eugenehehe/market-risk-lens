@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:41:00.248152+00:00",
+  "generated_at": "2026-09-09T05:19:06.296709+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 439,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T15:13:45.715999+00:00",
-      "close": 415.13
-    },
     {
       "timestamp": "2026-08-25T16:02:44.716295+00:00",
       "close": 415.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-09T00:41:00.248152+00:00",
       "close": 439
+    },
+    {
+      "timestamp": "2026-09-09T05:19:06.296709+00:00",
+      "close": 439
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-08T21:11:35+00:00",
       "title": "AMD Guides to $70 Billion of 2027 Data Center Revenue",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T20:55:13+00:00",
+      "title": "Tracking Prem Watsa's Fairfax Financial Holdings Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-08T20:29:45+00:00",
       "title": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T17:00:37+00:00",
-      "title": "ASML Shares Jump on Breakthrough Chipmaking Plans With Intel and TSMC",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

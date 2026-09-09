@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:41:00.248152+00:00",
+  "generated_at": "2026-09-09T05:19:06.296709+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 493.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T14:24:15.990771+00:00",
-      "close": 486.77
-    },
     {
       "timestamp": "2026-08-25T15:13:45.715999+00:00",
       "close": 489.84
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-09T00:41:00.248152+00:00",
       "close": 493.95
+    },
+    {
+      "timestamp": "2026-09-09T05:19:06.296709+00:00",
+      "close": 493.95
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-08T23:58:01+00:00",
       "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-08T23:45:00+00:00",
+      "title": "ValuEngine Weekly Commentary: Advancing Nuclear Energy And Evaluating Its Current Place Within Dynamic Asset Strategies",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-08T19:30:27+00:00",
       "title": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T19:15:28+00:00",
-      "title": "Will Direct TPU Sales Re-Rate Google Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
