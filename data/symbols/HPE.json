@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 56.03,
-    "change_pct": 7.750000000000012
+    "price": 56.71,
+    "change_pct": 1.2136355523826525
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:50:48.885029+00:00",
-      "close": 53.66
-    },
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 53.57
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 56.03
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 56.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T11:54:59+00:00",
+      "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T09:41:16+00:00",
+      "title": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T03:35:45+00:00",
       "title": "Hewlett Packard (HPE) Reported $12.2B of Revenue and $1.0B of Free Cash Flow. Can Networking Margins Offset the Inventory Build?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-08T21:42:16+00:00",
       "title": "Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:50:43+00:00",
-      "title": "Is Dell Making Money Where You Think It Is?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T19:05:01+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

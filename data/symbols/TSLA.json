@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 368.16,
-    "change_pct": 3.9765024853140707
+    "price": 372.68,
+    "change_pct": 1.2277270751847036
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:02:44.716295+00:00",
-      "close": 354.1
-    },
     {
       "timestamp": "2026-08-25T16:50:48.885029+00:00",
       "close": 356.2
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 368.16
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 372.68
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-09T10:54:00+00:00",
+      "title": "Is Tesla Stock a Buy in September 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:45:00+00:00",
+      "title": "‘Humanity is dying out’: Elon Musk warns America needs more babies — and a major Social Security risk emerges beneath it",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:39:00+00:00",
+      "title": "Palantir vs. Tesla: Which AI Stock Should You Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:35:49+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T08:39:15+00:00",
+      "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T07:30:14+00:00",
+      "title": "Uber: The Stock Price Is Running On Hope",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T07:09:00+00:00",
+      "title": "Solar Stocks Stumble Over 'Stroke Of A Pen'",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-09T02:05:08+00:00",
       "title": "TSLA Stock Slips Overnight Even As Musk Hypes Cybercab Speed And Cathie Wood’s ARK Sees Trillions Ahead",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:49:45+00:00",
-      "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:38:45+00:00",
-      "title": "Tesla Cybercab Could Beat Waymo on Cost by Up to 30 Cents A Mile, Goldman Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T19:13:51+00:00",
-      "title": "Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T19:00:00+00:00",
-      "title": "James Altucher: Elon Musk's Next Move Could Eclipse Everything He's Ever Built, and It May Be His Last",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T18:36:13+00:00",
-      "title": "SpaceX Stock Shrugs Off First 2 Share Unlocks — Will Round 3 Break the Streak?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T18:31:34+00:00",
-      "title": "Lucid Just Dropped 33% in a Month. Is It Time to Sell?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T18:05:00+00:00",
-      "title": "Which S&P500 stocks are the most active on Tuesday?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

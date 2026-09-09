@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 439,
-    "change_pct": 2.3524748781795557
+    "price": 437.97,
+    "change_pct": -0.23462414578586666
   },
   "risk": {
-    "score": 69,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:50:48.885029+00:00",
-      "close": 415.81
-    },
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 415.14
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 439
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 437.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T09:38:50+00:00",
+      "title": "Micron: Debunking The Bear Case Behind Yesterday's Selloff",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T07:30:17+00:00",
+      "title": "TSMC's Arizona Bet Was My Biggest Worry In July - Now It's My Best Argument",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T00:03:07+00:00",
       "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-08T20:49:45+00:00",
       "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:33:00+00:00",
-      "title": "An AI chip machine so pricey, three rivals had to say yes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:29:45+00:00",
-      "title": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

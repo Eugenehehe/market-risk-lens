@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1000.26,
-    "change_pct": -1.6063506428353636
+    "price": 1035.98,
+    "change_pct": 3.571071521404434
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:02:44.716295+00:00",
-      "close": 926.87
-    },
     {
       "timestamp": "2026-08-25T16:50:48.885029+00:00",
       "close": 926.49
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 1000.26
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 1035.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T10:35:49+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:07:00+00:00",
+      "title": "Can Micron Catch Up to Nvidia's $5.5 Trillion Market Cap?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T09:38:50+00:00",
+      "title": "Micron: Debunking The Bear Case Behind Yesterday's Selloff",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T09:27:32+00:00",
+      "title": "MUU: Micron's New Contracts Complicate The 2X Upside Case",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T09:08:01+00:00",
+      "title": "This Little-Known AI Storage Stock Will Join the S&P 500 (Not Micron or Sandisk). History Says This Will Happen Next.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T08:30:00+00:00",
       "title": "Bull of the Day: Seagate Technology (STX)",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-09T05:27:01+00:00",
       "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking – Trading Gauge Posts First Dip Since April",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:57:42+00:00",
-      "title": "STX Stock: The Math Hidden In Its Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:45:58+00:00",
-      "title": "Can SanDisk Stock Keep Climbing When It Cannot Make Enough To Sell?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:00:42+00:00",
-      "title": "Druckenmiller Exited Micron and Bought Alphabet. The AI Risks Moved With Him",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T21:45:07+00:00",
-      "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T21:33:48+00:00",
-      "title": "Micron and Sandisk Soar as Goldman Sees New Memory Stock Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

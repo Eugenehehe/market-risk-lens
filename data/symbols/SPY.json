@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765.96,
-    "change_pct": -0.5492151287344704
+    "price": 764.15,
+    "change_pct": -0.23630476787300791
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:50:48.885029+00:00",
-      "close": 765.68
-    },
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 765.23
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 765.96
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 764.15
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-09T11:44:10+00:00",
+      "title": "Breadth Slips Back to a Negative Bias as SPY and IWM Lose Short-Term Support",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T11:43:24+00:00",
+      "title": "Oracle Is The Disruptive Cloud Wildcard: Do You Buy It?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:02:00+00:00",
+      "title": "Has AI Made S&P 500 Index Funds Too Dangerous to Touch?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T09:00:12+00:00",
+      "title": "Upcoming Volatility Will Create Opportunities",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T08:55:00+00:00",
+      "title": "Summer 2026 Ends With Teen Jobs Still On Long-Term Downtrend",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T07:37:58+00:00",
+      "title": "Oil Hits $100: The Market Is Watching The Wrong Number",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T06:05:00+00:00",
+      "title": "​From Apple To NVIDIA: Big Tech's Volatility Calendar Is Loaded",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-09T06:00:00+00:00",
       "title": "How to Profit From Sharp Stock Moves—Up or Down",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T05:48:03+00:00",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T04:00:00+00:00",
-      "title": "When Markets Are Closed, What Is Your International ETF Really Worth?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T02:50:00+00:00",
-      "title": "Global PMI Signals Fastest Employment Growth For Over 3 Years",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T02:00:00+00:00",
-      "title": "Our September Perspective",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T00:45:00+00:00",
-      "title": "The U.S. Information Sector Payroll Slump May Not Be What You Thought",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:45:00+00:00",
-      "title": "ValuEngine Weekly Commentary: Advancing Nuclear Energy And Evaluating Its Current Place Within Dynamic Asset Strategies",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T22:46:39+00:00",
-      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

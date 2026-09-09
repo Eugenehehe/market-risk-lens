@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 528.4,
-    "change_pct": 1.6427499711460625
+    "price": 534.34,
+    "change_pct": 1.1241483724451218
   },
   "risk": {
-    "score": 60,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:50:48.885029+00:00",
-      "close": 513.79
-    },
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 512.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 528.4
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 534.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T08:00:00+00:00",
+      "title": "Quality Control: When Profits Run Ahead Of Cash",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-08T19:36:08+00:00",
       "title": "Is Qualcomm on a Tear? Inside QCOM's 2026 Comeback — and the ETFs That Hold the Most",

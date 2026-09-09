@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T09:54:23.997707+00:00",
+  "generated_at": "2026-09-09T14:09:24.275341+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 613.48,
-    "change_pct": -0.5334241289297381
+    "price": 645.66,
+    "change_pct": 5.245484775379783
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:50:48.885029+00:00",
-      "close": 566.62
-    },
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 565.92
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-09T09:54:23.997707+00:00",
       "close": 613.48
+    },
+    {
+      "timestamp": "2026-09-09T14:09:24.275341+00:00",
+      "close": 645.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T12:35:01+00:00",
+      "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T11:58:15+00:00",
+      "title": "Premarket movers: Meta Jumps on AI agent launch, NETGEAR surges",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T11:26:10+00:00",
+      "title": "Vistra Has Edged Lower Throughout 2026: One Bank Says It’s On The Verge of Doubling",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:35:49+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Premarket Wednesday; Meta Platforms to Advance, Intel to Decline",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T10:28:00+00:00",
+      "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T08:46:30+00:00",
+      "title": "META Stock Rises Premarket: Zuckerberg Says Threads Is ‘Either Bigger Than X’ Or Close In Scale",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T07:09:51+00:00",
       "title": "Meta Muse AI Launch: Shopify, Y Combinator CEOs Praise New Tool As Alexandr Wang Touts Major App Integrations",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T04:44:50+00:00",
-      "title": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T01:00:28+00:00",
-      "title": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:58:01+00:00",
-      "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T21:20:23+00:00",
-      "title": "Why AMD Stock Popped Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T21:11:35+00:00",
-      "title": "AMD Guides to $70 Billion of 2027 Data Center Revenue",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:53:32+00:00",
-      "title": "Meta Launches Simple-To-Use Muse Personal AI Agent",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T20:48:36+00:00",
-      "title": "AMD Reveals AI Numbers That Sent Its Stock Soaring",
-      "source": "Yahoo",
+      "timestamp": "2026-09-09T06:44:00+00:00",
+      "title": "Meta: The Market Is Asleep At The Wheel",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
