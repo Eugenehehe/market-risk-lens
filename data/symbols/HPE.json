@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T14:09:24.275341+00:00",
+  "generated_at": "2026-09-09T17:49:57.957742+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 56.71,
-    "change_pct": 1.2136355523826525
+    "price": 58.27,
+    "change_pct": 3.9978582902016724
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T17:21:31.261927+00:00",
-      "close": 53.57
-    },
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 53.34
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-09T14:09:24.275341+00:00",
       "close": 56.71
+    },
+    {
+      "timestamp": "2026-09-09T17:49:57.957742+00:00",
+      "close": 58.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T14:18:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Dell, Hewlett Packard and Nvidia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T13:55:50+00:00",
+      "title": "Hewlett Packard Enterprise (HPE)’s AI Boom Fuels Growth, Margins, and Healthier Outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T13:24:36+00:00",
+      "title": "Albertsons names Meg Whitman executive chair to spur growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T11:54:59+00:00",
       "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-08T23:45:58+00:00",
       "title": "Can SanDisk Stock Keep Climbing When It Cannot Make Enough To Sell?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:40:19+00:00",
-      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T23:24:00+00:00",
-      "title": "Dell vs. HPE: Which Top AI Server Stock Is the Better Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T21:42:16+00:00",
-      "title": "Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

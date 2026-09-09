@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T14:09:24.275341+00:00",
+  "generated_at": "2026-09-09T17:49:57.957742+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 576.81,
-    "change_pct": 0.5368378854164746
+    "price": 574.63,
+    "change_pct": 0.15686821327105527
   },
   "risk": {
-    "score": 55,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T17:21:31.261927+00:00",
-      "close": 553.96
-    },
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 554.06
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-09T14:09:24.275341+00:00",
       "close": 576.81
+    },
+    {
+      "timestamp": "2026-09-09T17:49:57.957742+00:00",
+      "close": 574.63
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-09T11:20:00+00:00",
+      "title": "Welcome Back, Balanced Portfolio",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-09T08:00:00+00:00",
       "title": "Quality Control: When Profits Run Ahead Of Cash",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T06:56:06+00:00",
+      "title": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-08T08:00:00+00:00",
       "title": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T06:30:00+00:00",
-      "title": "Nvidia Braces For AI Bubble Burst - Hugging Face Is The Bridge It Needs To Survive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T06:07:31+00:00",
-      "title": "Opportunities At New Lucrative Sector Edges",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

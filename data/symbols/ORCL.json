@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T14:09:24.275341+00:00",
+  "generated_at": "2026-09-09T17:49:57.957742+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 161.31,
-    "change_pct": -0.7445237509229652
+    "price": 163.41,
+    "change_pct": 0.5476249077036588
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
+    "error": "502 Server Error: Bad Gateway for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T16:50:48.885029+00:00",
-      "close": 144.95
-    },
     {
       "timestamp": "2026-08-25T17:21:31.261927+00:00",
       "close": 145.42
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-09T14:09:24.275341+00:00",
       "close": 161.31
+    },
+    {
+      "timestamp": "2026-09-09T17:49:57.957742+00:00",
+      "close": 163.41
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-09T11:43:24+00:00",
-      "title": "Oracle Is The Disruptive Cloud Wildcard: Do You Buy It?",
+      "timestamp": "2026-09-09T15:40:38+00:00",
+      "title": "Michael Burry Sells NVDA, PLTR December 2026 Puts Amid Portfolio-Wide Cuts – Says He’s ‘Pulling Back’ On Risk",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T10:05:00+00:00",
-      "title": "Bloom Energy Delivered Power to an Oracle Data Center in 55 Days. Here's Why That Number Matters More Than the Revenue Beat.",
+      "timestamp": "2026-09-09T15:37:26+00:00",
+      "title": "Amazon and Oracle Are Extremely Anxious About The Upcoming Fed Meeting",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T08:39:15+00:00",
-      "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
+      "timestamp": "2026-09-09T15:00:52+00:00",
+      "title": "Oracle Stock: Wall Street Sees Massive Upside. Here’s My Price Target",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T08:30:44+00:00",
-      "title": "Oracle: OpenAI's Astra Marks A Shift In Perception (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T05:45:00+00:00",
-      "title": "The U.S.-China Worry List: Here’s What Could Rattle the Fragile Detente",
+      "timestamp": "2026-09-09T14:27:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Oracle, Merck, Union Pacific, CVD Equipment and Koil Energy Solutions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T03:51:18+00:00",
-      "title": "Oracle (ORCL) To Report Earnings Tomorrow: Here Is What To Expect",
+      "timestamp": "2026-09-09T14:27:00+00:00",
+      "title": "Agentforce ARR Hits $1.5B: Can It Boost Salesforce's Revenue Growth?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T02:48:53+00:00",
-      "title": "Dow Futures Slip, S&P 500, Nasdaq Futures Climb As Oil Nears $100 A Barrel: RKLB, AMD, ORCL, SMR Stocks In Focus",
+      "timestamp": "2026-09-09T14:25:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-09T00:14:58+00:00",
-      "title": "Oracle: Watch September 10 For Whether The AI Story Is Still Just Contracts",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-09T14:14:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Oracle",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T13:59:00+00:00",
+      "title": "OpenAI Gets Back in the Game With Astra. These 2 Stocks Are Winners.",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
