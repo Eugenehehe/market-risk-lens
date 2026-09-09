@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T17:49:57.957742+00:00",
+  "generated_at": "2026-09-09T20:04:26.669581+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 291.06,
-    "change_pct": -1.225099263582996
+    "price": 290.65,
+    "change_pct": -1.3642379611090494
   },
   "risk": {
-    "score": 60,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T17:52:20.261117+00:00",
-      "close": 298.75
-    },
     {
       "timestamp": "2026-08-25T18:27:26.225312+00:00",
       "close": 298.73
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-09T17:49:57.957742+00:00",
       "close": 291.06
+    },
+    {
+      "timestamp": "2026-09-09T20:04:26.669581+00:00",
+      "close": 290.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T13:42:25+00:00",
+      "title": "Major Market Top Sign: Insiders Are Cashing Out",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T13:04:58+00:00",
+      "title": "Oil Tops $100, Meta and Cloudflare Jump On AI Breakthroughs: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T12:38:24+00:00",
       "title": "The Japanese Yen Is Sending A Warning To Stocks",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-09T10:30:00+00:00",
       "title": "Sticky Inflation Keeps Wall Street Guessing Ahead Of Friday's CPI Release",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T10:03:51+00:00",
-      "title": "Don't Fight Bessent's Japan Bet",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T09:00:12+00:00",
-      "title": "Upcoming Volatility Will Create Opportunities",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

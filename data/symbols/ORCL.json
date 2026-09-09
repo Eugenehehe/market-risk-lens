@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T17:49:57.957742+00:00",
+  "generated_at": "2026-09-09T20:04:26.669581+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 163.41,
-    "change_pct": 0.5476249077036588
+    "price": 161.72,
+    "change_pct": -0.49224710804824934
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -20,13 +20,9 @@
   "options_summary": {
     "source": "Yahoo Finance public options chain",
     "status": "failed",
-    "error": "502 Server Error: Bad Gateway for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
+    "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T17:21:31.261927+00:00",
-      "close": 145.42
-    },
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 144.84
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-09T17:49:57.957742+00:00",
       "close": 163.41
+    },
+    {
+      "timestamp": "2026-09-09T20:04:26.669581+00:00",
+      "close": 161.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T17:38:53+00:00",
+      "title": "ORCL Stock Sees Price Target Cut Ahead Of Earnings: Analyst Says Bad News Is Priced In",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T17:24:00+00:00",
+      "title": "Why the Fragile Trump-Xi Truce Could Break Before the U.S.-China D.C. Summit",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T16:49:46+00:00",
+      "title": "Oracle’s Disruptive Nature is Very Compelling",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T16:39:22+00:00",
+      "title": "OpenAI to Spend $750 Billion on Compute by 2030 — But It’s Short on Capacity",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T15:40:38+00:00",
       "title": "Michael Burry Sells NVDA, PLTR December 2026 Puts Amid Portfolio-Wide Cuts – Says He’s ‘Pulling Back’ On Risk",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-09T14:27:00+00:00",
       "title": "The Zacks Analyst Blog Highlights Oracle, Merck, Union Pacific, CVD Equipment and Koil Energy Solutions",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:27:00+00:00",
-      "title": "Agentforce ARR Hits $1.5B: Can It Boost Salesforce's Revenue Growth?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:25:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:14:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Oracle",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T13:59:00+00:00",
-      "title": "OpenAI Gets Back in the Game With Astra. These 2 Stocks Are Winners.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

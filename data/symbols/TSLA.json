@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T17:49:57.957742+00:00",
+  "generated_at": "2026-09-09T20:04:26.669581+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 368.78,
-    "change_pct": 0.16840504128639022
+    "price": 367.81,
+    "change_pct": -0.095067362016521
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T17:21:31.261927+00:00",
-      "close": 352.88
-    },
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 353.54
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-09T17:49:57.957742+00:00",
       "close": 368.78
+    },
+    {
+      "timestamp": "2026-09-09T20:04:26.669581+00:00",
+      "close": 367.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T18:05:00+00:00",
+      "title": "What's going on in today's session: S&P500 most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T17:13:00+00:00",
+      "title": "PayrollOrg Brings Payroll Leaders Together in San Antonio for 2026 Payroll Leaders Conference",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T16:54:30+00:00",
+      "title": "45 Tesla Cybercabs Are Now Roaming Austin. Here's What That Means for the Robotaxi Business Wall Street Has Been Waiting For.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T16:00:10+00:00",
+      "title": "Entrepreneurs could hold the key to Tesla's Cybercab plans",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T14:43:41+00:00",
+      "title": "Tesla: Continue Shorting Such A Poor Investment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T14:43:00+00:00",
       "title": "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-09T14:04:02+00:00",
       "title": "Ford Finally Runs Out Of EVs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T13:57:40+00:00",
-      "title": "Bond yields tick higher as oil tops $100: AlphaCheck",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T13:37:00+00:00",
-      "title": "Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wide Approval?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T13:08:25+00:00",
-      "title": "Michael Dell passes Jeff Bezos to become world's third-richest person",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T13:06:56+00:00",
-      "title": "Cathie Wood Grows Robinhood Stake; Sheds More AMD, Palantir",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T13:00:00+00:00",
-      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

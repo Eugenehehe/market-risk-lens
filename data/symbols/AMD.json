@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T17:49:57.957742+00:00",
+  "generated_at": "2026-09-09T20:04:26.669581+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 523.16,
-    "change_pct": 3.4444576264483606
+    "price": 521.095,
+    "change_pct": 3.036145054771233
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T17:21:31.261927+00:00",
-      "close": 476.73
-    },
     {
       "timestamp": "2026-08-25T17:52:20.261117+00:00",
       "close": 477.4
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-09T17:49:57.957742+00:00",
       "close": 523.16
+    },
+    {
+      "timestamp": "2026-09-09T20:04:26.669581+00:00",
+      "close": 521.095
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T19:05:01+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T17:16:30+00:00",
+      "title": "Did You Already Pay For NVIDIA's Bigger Guide?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T16:54:00+00:00",
+      "title": "AMD Rises 8% in a Month: Should You Buy, Sell or Hold the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T16:35:01+00:00",
       "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
@@ -514,56 +538,32 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-09T16:06:21+00:00",
+      "title": "Should You Buy Intel Stock Because The Comeback Is Working?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T16:00:51+00:00",
+      "title": "Could Marvell Be the Next AI Stock to Deliver 100% Upside?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T15:51:53+00:00",
+      "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-09T15:40:36+00:00",
       "title": "Broadcom Stock Slipped While Its Revenue Schedule Got Longer",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T15:36:47+00:00",
-      "title": "Guidance Upside Drives Advanced Micro Devices (AMD) Higher, Hurting Non Owners",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:45:21+00:00",
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:05:42+00:00",
-      "title": "NVDA Stock Is Running. Is There Fuel Left?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:05:00+00:00",
-      "title": "Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:04:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Alphabet, AMD, Micron, Dell and Cisco",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:04:00+00:00",
-      "title": "Apple, Jersey Mike’s, Casey’s, Meta, ServiceTitan, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
