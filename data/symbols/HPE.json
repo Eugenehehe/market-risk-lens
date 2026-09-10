@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T19:57:27.720133+00:00",
+  "generated_at": "2026-09-10T22:23:20.727987+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 55.3,
-    "change_pct": -6.112054329371819
+    "price": 55.22,
+    "change_pct": -6.247877758913411
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T22:03:09.007685+00:00",
-      "close": 53.44
-    },
     {
       "timestamp": "2026-08-25T22:39:39.930807+00:00",
       "close": 53.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-10T19:57:27.720133+00:00",
       "close": 55.3
+    },
+    {
+      "timestamp": "2026-09-10T22:23:20.727987+00:00",
+      "close": 55.22
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-10T19:05:01+00:00",
       "title": "Thursday's session: top gainers and losers in the S&P500 index",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T17:17:15+00:00",
+      "title": "Hewlett Packard Enterprise Company (HPE) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T12:39:00+00:00",
-      "title": "HIVE Digital Technologies adds senior VP of revenue as daily revenue tops $1M",
+      "timestamp": "2026-09-10T13:00:02+00:00",
+      "title": "3 High-Momentum AI Hardware Stocks to Buy Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T08:23:58+00:00",
-      "title": "Iridium Communications: The $54 Deal Price Overstates The Upside",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T00:57:38+00:00",
-      "title": "How Far Can Arista Networks Stock Move On You In A Year?",
+      "timestamp": "2026-09-10T12:39:00+00:00",
+      "title": "HIVE Digital Technologies adds senior VP of revenue as daily revenue tops $1M",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
