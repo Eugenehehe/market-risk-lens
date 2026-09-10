@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T17:25:28.929057+00:00",
+  "generated_at": "2026-09-10T19:57:27.720133+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 506.41,
-    "change_pct": -2.818104184457726
+    "price": 504.28,
+    "change_pct": -3.226858826125767
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T21:12:06.170765+00:00",
-      "close": 479.18
-    },
     {
       "timestamp": "2026-08-25T21:45:20.440359+00:00",
       "close": 479.18
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 506.41
+    },
+    {
+      "timestamp": "2026-09-10T19:57:27.720133+00:00",
+      "close": 504.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T17:26:00+00:00",
+      "title": "An Nvidia Move Just Put AMD and Intel on the Defensive",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T16:00:04+00:00",
+      "title": "Nvidia Has the AI Hype. AMD Has the Valuation. I’d Buy This Stock.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T15:43:00+00:00",
       "title": "Celestica vs. Corning: Which AI Infrastructure Stock is a Better Buy?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-10T14:29:00+00:00",
       "title": "MRVL Stock Rises 8.6% Since Q2 Results: Time to Hold or Fold?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:01:35+00:00",
-      "title": "Intel Sinks 6% as Profit Taking Hits a Parabolic Run; NVIDIA and AMD Retreat 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T13:52:16+00:00",
-      "title": "Meta Platforms upgraded, Okta downgraded: Wall Street's top analyst calls",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

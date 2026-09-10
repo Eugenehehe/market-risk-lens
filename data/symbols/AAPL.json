@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T17:25:28.929057+00:00",
+  "generated_at": "2026-09-10T19:57:27.720133+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 324.01,
-    "change_pct": 2.7494133316420477
+    "price": 326.07,
+    "change_pct": 3.402676476184441
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T20:45:46.126429+00:00",
-      "close": 309.9
-    },
     {
       "timestamp": "2026-08-25T21:12:06.170765+00:00",
       "close": 309.9
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 324.01
+    },
+    {
+      "timestamp": "2026-09-10T19:57:27.720133+00:00",
+      "close": 326.07
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-10T16:40:07+00:00",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "timestamp": "2026-09-10T19:10:07+00:00",
+      "title": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T15:48:18+00:00",
-      "title": "Apple Prioritizing Volume Over Margins With Modest Pricing Strategy, Morgan Stanley Says",
+      "timestamp": "2026-09-10T19:05:01+00:00",
+      "title": "Thursday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T18:05:01+00:00",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T17:34:56+00:00",
+      "title": "AAPL’s Foldable iPhone Has Wall Street Split — Retail Calls Duo Reveal A ‘Modern Day Steve Jobs Moment’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T15:30:00+00:00",
-      "title": "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends.",
+      "timestamp": "2026-09-10T17:31:51+00:00",
+      "title": "Apple's Foldable Duo Represents 'Notable Form-Factor Change' for iPhone Lineup, UBS Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T15:28:37+00:00",
-      "title": "Apple's foldable iPhone is 'not new': AT&T CEO",
+      "timestamp": "2026-09-10T17:27:53+00:00",
+      "title": "Apple Stock Alert: UBS Issues Urgent Message After $1,999 Foldable iPhone Launch",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T15:28:16+00:00",
-      "title": "Apple's iPhone Duo, AI Strategy Strengthen Growth Outlook, Morgan Stanley Says",
+      "timestamp": "2026-09-10T17:24:41+00:00",
+      "title": "Apple, IBD Stock Of The Day, Rebounds Bullishly After iPhone Duo Debut",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T15:22:26+00:00",
-      "title": "Stock Market Today: Dow Slides As Oil Rocks Higher; Sandisk Slumps As SpaceX Rises (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:20:56+00:00",
-      "title": "Apple dips its toe into AI, but will AI companies compete in hardware?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:18:10+00:00",
-      "title": "Apple's Foldable iPhone Duo Is Here, What We Know",
+      "timestamp": "2026-09-10T17:20:02+00:00",
+      "title": "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T17:25:28.929057+00:00",
+  "generated_at": "2026-09-10T19:57:27.720133+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 563.27,
-    "change_pct": -1.9188911525535812
+    "price": 560.44,
+    "change_pct": -2.4116735447247795
   },
   "risk": {
-    "score": 66,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T21:45:20.440359+00:00",
-      "close": 555.82
-    },
     {
       "timestamp": "2026-08-25T22:03:09.007685+00:00",
       "close": 555.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 563.27
+    },
+    {
+      "timestamp": "2026-09-10T19:57:27.720133+00:00",
+      "close": 560.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T14:46:22+00:00",
+      "title": "Oil Prices And Geopolitics Run Through U.S. Economy, And Globe (Video)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T14:26:59+00:00",
+      "title": "Stock Market Today: Nasdaq 100 Tumbles as Oil Spikes 6%, Yields Hit 19-Year High",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T12:00:33+00:00",
       "title": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-09T12:15:23+00:00",
       "title": "Analog Devices to Buy Alif Semiconductor for $1.35 Billion",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T11:20:00+00:00",
-      "title": "Welcome Back, Balanced Portfolio",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T08:00:00+00:00",
-      "title": "Quality Control: When Profits Run Ahead Of Cash",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

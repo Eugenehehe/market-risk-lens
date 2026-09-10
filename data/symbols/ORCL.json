@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T17:25:28.929057+00:00",
+  "generated_at": "2026-09-10T19:57:27.720133+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 156.73,
-    "change_pct": -3.031615417929845
+    "price": 153.66,
+    "change_pct": -4.931015281816498
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T21:12:06.170765+00:00",
-      "close": 144.76
-    },
     {
       "timestamp": "2026-08-25T21:45:20.440359+00:00",
       "close": 144.76
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 156.73
+    },
+    {
+      "timestamp": "2026-09-10T19:57:27.720133+00:00",
+      "close": 153.66
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-10T18:05:01+00:00",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T17:01:02+00:00",
+      "title": "CoreWeave Sinks 5% Despite Burry Pulling In His AI Short, Oracle Eases Into Earnings, Cloudflare Holds Steady",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T16:52:16+00:00",
+      "title": "Is Microsoft Stock Overvalued At 28x Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-10T15:50:36+00:00",
       "title": "Traders Are Paying More to Bet on Oracle Than to Protect Against It. Here’s Why That Is Backwards",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T15:20:00+00:00",
+      "title": "Oracle Earnings Preview: Chart Has Improved, But Free Cash Flow Is Still Grim",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-10T15:00:00+00:00",
       "title": "Can MSFT Stock Rally on the Back of Dynamics 365 Business Applications?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:30:03+00:00",
-      "title": "Salesforce Just Gave Investors a Reason to Rethink This Beaten-Down Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:24:00+00:00",
-      "title": "AI’s next winners are the companies receiving funds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:00:30+00:00",
-      "title": "AI Companies’ Debt Now Equals 68% of New Long-Term U.S. Treasury Borrowing This Year, JPMorgan Finds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T13:55:02+00:00",
-      "title": "Wall Street Analysts Believe Oracle (ORCL) Could Rally 53.94%: Here's is How to Trade",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
