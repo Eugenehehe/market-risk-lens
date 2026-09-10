@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:31:44.669688+00:00",
+  "generated_at": "2026-09-10T05:10:35.441160+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 290.64,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T19:45:21.602862+00:00",
-      "close": 299.04
-    },
     {
       "timestamp": "2026-08-25T20:10:07.676140+00:00",
       "close": 299.28
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-10T00:31:44.669688+00:00",
       "close": 290.64
+    },
+    {
+      "timestamp": "2026-09-10T05:10:35.441160+00:00",
+      "close": 290.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-09T23:35:00+00:00",
+      "title": "Is A Rate Hike Certain? Not So Fast...",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T23:15:00+00:00",
+      "title": "Money Supply Growth Accelerated In July To A 59-Month High",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T17:40:57+00:00",
       "title": "The Treasury Is Losing Its Two-Front War",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-09T12:38:24+00:00",
       "title": "The Japanese Yen Is Sending A Warning To Stocks",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T12:04:40+00:00",
-      "title": "Facing Booze Ban, Canada Digs In, Can American Voters Force A Resolution?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T11:44:10+00:00",
-      "title": "Breadth Slips Back to a Negative Bias as SPY and IWM Lose Short-Term Support",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
