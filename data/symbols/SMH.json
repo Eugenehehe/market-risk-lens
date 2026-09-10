@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T13:52:37.337950+00:00",
+  "generated_at": "2026-09-10T17:25:28.929057+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 558.11,
-    "change_pct": -2.8173919100106137
+    "price": 563.27,
+    "change_pct": -1.9188911525535812
   },
   "risk": {
-    "score": 73,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T21:12:06.170765+00:00",
-      "close": 555.82
-    },
     {
       "timestamp": "2026-08-25T21:45:20.440359+00:00",
       "close": 555.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-10T13:52:37.337950+00:00",
       "close": 558.11
+    },
+    {
+      "timestamp": "2026-09-10T17:25:28.929057+00:00",
+      "close": 563.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T12:00:33+00:00",
+      "title": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T22:55:50+00:00",
       "title": "From Farmland to Fast Trading, ETFs Are Doing It All",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-09T08:00:00+00:00",
       "title": "Quality Control: When Profits Run Ahead Of Cash",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T06:56:06+00:00",
-      "title": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

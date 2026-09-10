@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T13:52:37.337950+00:00",
+  "generated_at": "2026-09-10T17:25:28.929057+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 515.17,
-    "change_pct": -3.163533834586474
+    "price": 520.35,
+    "change_pct": -2.1898496240601473
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T21:12:06.170765+00:00",
-      "close": 514.06
-    },
     {
       "timestamp": "2026-08-25T21:45:20.440359+00:00",
       "close": 514.06
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-10T13:52:37.337950+00:00",
       "close": 515.17
+    },
+    {
+      "timestamp": "2026-09-10T17:25:28.929057+00:00",
+      "close": 520.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T12:00:33+00:00",
+      "title": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T07:48:37+00:00",
+      "title": "What's Going On With AMD Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T22:55:50+00:00",
       "title": "From Farmland to Fast Trading, ETFs Are Doing It All",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-09T11:20:00+00:00",
       "title": "Welcome Back, Balanced Portfolio",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T08:00:00+00:00",
-      "title": "Quality Control: When Profits Run Ahead Of Cash",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T05:51:44+00:00",
-      "title": "Broadcom Says AI’s Biggest Bottleneck Is Moving From Silicon to Electricity",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
