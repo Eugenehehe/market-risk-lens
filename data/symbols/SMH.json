@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:10:35.441160+00:00",
+  "generated_at": "2026-09-10T09:45:15.658024+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 574.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T20:10:07.676140+00:00",
-      "close": 555.82
-    },
     {
       "timestamp": "2026-08-25T20:45:46.126429+00:00",
       "close": 555.82
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-10T05:10:35.441160+00:00",
       "close": 574.29
+    },
+    {
+      "timestamp": "2026-09-10T09:45:15.658024+00:00",
+      "close": 574.29
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-09T22:55:50+00:00",
       "title": "From Farmland to Fast Trading, ETFs Are Doing It All",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-09T21:00:04+00:00",
+      "title": "ETF League Tables: VanEck Gains",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-09T06:56:06+00:00",
       "title": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-08T19:36:08+00:00",
-      "title": "Is Qualcomm on a Tear? Inside QCOM's 2026 Comeback — and the ETFs That Hold the Most",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

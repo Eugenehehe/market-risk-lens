@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:10:35.441160+00:00",
+  "generated_at": "2026-09-10T09:45:15.658024+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 106.24,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T19:45:21.602862+00:00",
-      "close": 87.54
-    },
     {
       "timestamp": "2026-08-25T20:10:07.676140+00:00",
       "close": 87.48
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-10T05:10:35.441160+00:00",
       "close": 106.24
+    },
+    {
+      "timestamp": "2026-09-10T09:45:15.658024+00:00",
+      "close": 106.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T04:24:23+00:00",
+      "title": "Intel stock surges 9% as surprising turnaround takes shape",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-09T23:02:12+00:00",
       "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-09T19:01:47+00:00",
       "title": "Intel Rises After a $120 Target Meets 59% AI Growth",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T18:05:00+00:00",
-      "title": "What's going on in today's session: S&P500 most active stocks",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
