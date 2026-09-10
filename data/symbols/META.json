@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T09:45:15.658024+00:00",
+  "generated_at": "2026-09-10T13:52:37.337950+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 653.69,
-    "change_pct": 6.5544109017408925
+    "price": 643.27,
+    "change_pct": -1.5940277501568123
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 63,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T20:45:46.126429+00:00",
-      "close": 570.05
-    },
     {
       "timestamp": "2026-08-25T21:12:06.170765+00:00",
       "close": 570.05
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 653.69
+    },
+    {
+      "timestamp": "2026-09-10T13:52:37.337950+00:00",
+      "close": 643.27
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-10T11:35:57+00:00",
+      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Inflation Data Due.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T11:05:57+00:00",
+      "title": "JPMorgan upgrades Meta on AI models and agents, sees ’meaningful headroom’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T10:39:43+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell; AeroVironment to Rise, American Eagle to Fall",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:26:01+00:00",
+      "title": "2 Trillion-Dollar Companies Poised to Become Wall Street's Next Stock-Split Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:11:54+00:00",
+      "title": "Meta's Muse Cracks the AI-Monetization Wall as Oil Holds Above $100 and Apple Unfolds the iPhone Duo",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:08:01+00:00",
+      "title": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T08:28:51+00:00",
+      "title": "Vistra: Cogentrix And Meta Can Offset A Softer ERCOT Outlook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-10T06:56:00+00:00",
       "title": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T06:30:00+00:00",
-      "title": "Tec-Do Organized MARS2 Workshop at ECCV 2026 to Advance Multimodal Reasoning for Agentic Commerce",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T06:12:40+00:00",
-      "title": "META Vs GOOGL: Cathie Wood’s ARK Makes A Nearly $56M Mega-Cap Tech Rotation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T03:25:00+00:00",
-      "title": "Baron Opportunity Fund Q2 2026 Top Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T03:09:05+00:00",
-      "title": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T03:05:00+00:00",
-      "title": "The AI Buildout Continues To Exceed Expectations",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T01:36:57+00:00",
-      "title": "Dow Jones Futures Rise: Oil Prices Keep Climbing But Market Hasn't Broken Yet. Inflation Data Due.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T01:02:03+00:00",
-      "title": "Walmart Eyes CTV, AI and Self-Service Tools to Build a Bigger Ad Business",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

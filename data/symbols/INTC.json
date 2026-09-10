@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T09:45:15.658024+00:00",
+  "generated_at": "2026-09-10T13:52:37.337950+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 106.24,
-    "change_pct": 1.6942662965444555
+    "price": 100.05,
+    "change_pct": -5.826430722891562
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T20:10:07.676140+00:00",
-      "close": 87.48
-    },
     {
       "timestamp": "2026-08-25T20:45:46.126429+00:00",
       "close": 87.48
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 106.24
+    },
+    {
+      "timestamp": "2026-09-10T13:52:37.337950+00:00",
+      "close": 100.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T12:35:01+00:00",
+      "title": "Which S&P500 stocks are moving before the opening bell on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:10:46+00:00",
+      "title": "Intel Jumped, But The Reason Behind It Doesn't Add Up",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T04:24:23+00:00",
       "title": "Intel stock surges 9% as surprising turnaround takes shape",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-09T20:51:16+00:00",
       "title": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T19:03:49+00:00",
-      "title": "Jim Cramer on Intel (INTC) Corporation, Earnings Performance, and Government Stake",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T19:01:47+00:00",
-      "title": "Intel Rises After a $120 Target Meets 59% AI Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

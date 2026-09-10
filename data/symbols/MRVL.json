@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T09:45:15.658024+00:00",
+  "generated_at": "2026-09-10T13:52:37.337950+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 235.01,
-    "change_pct": 4.258905993522921
+    "price": 229.15,
+    "change_pct": -2.4935109144291645
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T20:10:07.676140+00:00",
-      "close": 240.38
-    },
     {
       "timestamp": "2026-08-25T20:45:46.126429+00:00",
       "close": 240.38
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 235.01
+    },
+    {
+      "timestamp": "2026-09-10T13:52:37.337950+00:00",
+      "close": 229.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T12:35:01+00:00",
+      "title": "Which S&P500 stocks are moving before the opening bell on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T11:29:47+00:00",
+      "title": "Piper Sandler lists 5 chip stocks to buy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:30:07+00:00",
+      "title": "Broadcom: The Performance And Economic Benefits Of OpenAI's JalapeñO Inference Chip",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T06:02:06+00:00",
       "title": "Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-09T19:05:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T18:32:00+00:00",
-      "title": "Marvel Biosciences Announces Extension to Closing Date of Private Placement",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T17:41:00+00:00",
-      "title": "Marvell: Its Current Situation Does Not Justify The Market's Valuation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T17:26:43+00:00",
-      "title": "Marvell's CEO Calls It the Switzerland of the AI Market",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

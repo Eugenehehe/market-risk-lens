@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T09:45:15.658024+00:00",
+  "generated_at": "2026-09-10T13:52:37.337950+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1027.77,
-    "change_pct": 2.7502849259192663
+    "price": 985.84,
+    "change_pct": -4.079706549130635
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T20:10:07.676140+00:00",
-      "close": 932.97
-    },
     {
       "timestamp": "2026-08-25T20:45:46.126429+00:00",
       "close": 932.97
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 1027.77
+    },
+    {
+      "timestamp": "2026-09-10T13:52:37.337950+00:00",
+      "close": 985.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T11:34:00+00:00",
+      "title": "Buy the Stocks Dip or Foldable iPhone? How to Spend Trump’s $5,000 Handout.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T11:08:00+00:00",
+      "title": "Value Has Outperformed Growth in 2026: 3 Surprising Tech Stocks Leading the Way",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T10:39:43+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell; AeroVironment to Rise, American Eagle to Fall",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:26:01+00:00",
+      "title": "2 Trillion-Dollar Companies Poised to Become Wall Street's Next Stock-Split Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T06:30:00+00:00",
+      "title": "Janus Henderson Global Sustainable Equity (ADR) Managed Account Q2 2026 Portfolio Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T03:24:51+00:00",
       "title": "Micron: The Show Goes On",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-09T22:15:00+00:00",
       "title": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T22:05:08+00:00",
-      "title": "SanDisk Traded Its Best Prices For Something Rarer",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T20:20:00+00:00",
-      "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T19:42:00+00:00",
-      "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T19:42:00+00:00",
-      "title": "Micron, Visa, and Other Growth Stocks Look Ready for a Revival—Here Are the Signs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T19:37:00+00:00",
-      "title": "Apple, ServiceTitan, Meta, Micron, Casey’s, Jersey Mike’s, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

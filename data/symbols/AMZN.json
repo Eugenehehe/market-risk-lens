@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T09:45:15.658024+00:00",
+  "generated_at": "2026-09-10T13:52:37.337950+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 252.4,
-    "change_pct": -1.778417714130065
+    "price": 251.61,
+    "change_pct": -0.3129952456418339
   },
   "risk": {
-    "score": 65,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T19:45:21.602862+00:00",
-      "close": 260.74
-    },
     {
       "timestamp": "2026-08-25T20:10:07.676140+00:00",
       "close": 261.06
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 252.4
+    },
+    {
+      "timestamp": "2026-09-10T13:52:37.337950+00:00",
+      "close": 251.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T11:47:22+00:00",
+      "title": "Amazon books 6 more Arianespace launches for Kuiper satellites",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T10:46:42+00:00",
+      "title": "Anthropic Discloses Fourth Unauthorized System Hack During Cybersecurity Tests",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:24:27+00:00",
+      "title": "Market Chatter: Anthropic Grants EU Cybersecurity Agency Access to Mythos Model",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T09:21:34+00:00",
+      "title": "‘Conventional Wisdom Isn’t Wise’: Ramsey Tells Retirees to Dump Bonds, The Numbers Back Him Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T08:00:00+00:00",
+      "title": "A University’s Distaste for Hedge Funds Created This New ETF. It’s Still Risky.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T04:20:00+00:00",
       "title": "Baron Opportunity Fund Q2 2026 Adds And Trims",
@@ -525,46 +565,6 @@
       "timestamp": "2026-09-10T03:05:00+00:00",
       "title": "The AI Buildout Continues To Exceed Expectations",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T01:37:00+00:00",
-      "title": "Qualcomm’s $60 billion deal reveals what comes after smartphones",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T23:52:13+00:00",
-      "title": "MercadoLibre: How A Formidable Moat Is Born",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T22:53:44+00:00",
-      "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T22:20:00+00:00",
-      "title": "Do Amazon and Alphabet's Combined $420 Billion in Capital Expenditures Make Sense?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T22:01:49+00:00",
-      "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
