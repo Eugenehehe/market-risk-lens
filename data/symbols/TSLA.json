@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:52:25.905744+00:00",
+  "generated_at": "2026-09-11T09:17:21.183066+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 363.56,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:03:00.871360+00:00",
-      "close": 350.25
-    },
     {
       "timestamp": "2026-08-25T23:33:38.842851+00:00",
       "close": 350.25
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T04:52:25.905744+00:00",
       "close": 363.56
+    },
+    {
+      "timestamp": "2026-09-11T09:17:21.183066+00:00",
+      "close": 363.56
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T07:50:00+00:00",
+      "title": "BYD Outsold Tesla by Roughly 77,000 EVs Again in Q2. Can Tesla Close the Gap?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T04:50:19+00:00",
+      "title": "Tesla Looks Expensive And Waymo Is Pulling Away",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T21:45:05+00:00",
       "title": "Tesla (TSLA) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-10T18:47:07+00:00",
       "title": "Tesla Stock Slips as China's Auto Attack Expands Beyond EVs",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T18:37:12+00:00",
-      "title": "Tesla Slips as China Turns Factory Surplus Into a Global Threat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T18:05:01+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T04:52:25.905744+00:00",
+  "generated_at": "2026-09-11T09:17:21.183066+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 113.51,
     "change_pct": -2.766832276854536
   },
   "risk": {
-    "score": 57,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 125.63
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 125.63
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-11T04:52:25.905744+00:00",
       "close": 113.51
+    },
+    {
+      "timestamp": "2026-09-11T09:17:21.183066+00:00",
+      "close": 113.51
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-10T13:55:03+00:00",
+      "title": "Does Futu Holdings (FUTU) Have the Potential to Rally 33.68% as Wall Street Analysts Expect?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

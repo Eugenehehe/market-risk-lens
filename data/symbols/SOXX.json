@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:52:25.905744+00:00",
+  "generated_at": "2026-09-11T09:17:21.183066+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 517.43,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 514.06
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 514.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T04:52:25.905744+00:00",
       "close": 517.43
+    },
+    {
+      "timestamp": "2026-09-11T09:17:21.183066+00:00",
+      "close": 517.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T04:46:09+00:00",
+      "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T15:03:59+00:00",
       "title": "Fitch Says AI Bust Could Crash US Stocks 35%, Trigger Recession",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-09T14:45:21+00:00",
       "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T12:58:59+00:00",
-      "title": "ARTY: Right Theme But Wrong Companies",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
