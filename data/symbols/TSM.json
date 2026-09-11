@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T13:38:50.162236+00:00",
+  "generated_at": "2026-09-11T17:14:39.907358+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 430.77,
-    "change_pct": 0.6401420461182639
+    "price": 432.82,
+    "change_pct": 1.1190804382870345
   },
   "risk": {
-    "score": 56,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T01:21:31.997658+00:00",
-      "close": 417.41
-    },
     {
       "timestamp": "2026-08-26T02:42:27.711946+00:00",
       "close": 417.41
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-11T13:38:50.162236+00:00",
       "close": 430.77
+    },
+    {
+      "timestamp": "2026-09-11T17:14:39.907358+00:00",
+      "close": 432.82
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-11T12:57:02+00:00",
       "title": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T12:48:20+00:00",
+      "title": "Why Micron Needs To Be In An AI Portfolio",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +546,25 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T04:46:09+00:00",
-      "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
+      "timestamp": "2026-09-11T11:15:00+00:00",
+      "title": "Baron Global Durable Advantage ETF Q2 2026 Portfolio Activity",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T01:25:00+00:00",
-      "title": "Baron Emerging Markets Fund Q2 2026 Contributors And Detractors",
+      "timestamp": "2026-09-11T10:43:03+00:00",
+      "title": "Apple: Why iPhone Duo Will Likely Dominate The Foldables Market",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T01:02:00+00:00",
-      "title": "Defiance Launches AIFR, the First U.S.-Listed ETF Dedicated to Semiconductor Foundries",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T21:45:05+00:00",
-      "title": "TSMC (TSM) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "source": "Yahoo",
+      "timestamp": "2026-09-11T06:52:25+00:00",
+      "title": "AI Demand Keeps Breaking Records at Taiwan Semiconductor",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

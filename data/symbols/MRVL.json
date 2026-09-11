@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T13:38:50.162236+00:00",
+  "generated_at": "2026-09-11T17:14:39.907358+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 231.13,
-    "change_pct": 1.8373281635530425
+    "price": 238.24,
+    "change_pct": 4.970038773352137
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:55:33.451444+00:00",
-      "close": 240.38
-    },
     {
       "timestamp": "2026-08-26T01:21:31.997658+00:00",
       "close": 240.38
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-11T13:38:50.162236+00:00",
       "close": 231.13
+    },
+    {
+      "timestamp": "2026-09-11T17:14:39.907358+00:00",
+      "close": 238.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T13:47:11+00:00",
+      "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T13:12:00+00:00",
+      "title": "MRVL Rides on the AI Capex Wave: What's Ahead for Investors?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T12:52:50+00:00",
+      "title": "What Happens To NVIDIA Stock If The Buyers It Funds Cannot Pay?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T12:09:36+00:00",
+      "title": "Piper Sandler Says Marvell Could Be a Major AI Chip Winner",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T12:00:53+00:00",
+      "title": "Top Funds Aren't Fooling Around. Witness Massive Bets On CrowdStrike And Beyond.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T09:58:33+00:00",
+      "title": "Marvell's AI Story Is Shifting Where It Matters Most",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T05:02:09+00:00",
       "title": "Qualcomm Vs. Marvell: The Better AI Business Is The Worse Stock",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-09-10T22:00:12+00:00",
       "title": "Marvell Calls Itself the ‘Switzerland’ of AI, and Says It Works With Everybody",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T19:28:01+00:00",
-      "title": "Prediction: Marvell Technology Stock Will Jump 150% in 5 Years. Here’s the Math.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T19:08:05+00:00",
-      "title": "Advanced Micro Devices vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T18:17:07+00:00",
-      "title": "Marvell Technology vs. Broadcom: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T17:32:55+00:00",
-      "title": "Can Marvell Stock Make You Money Before Its Hyperscaler Deal Pays Off?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T17:13:04+00:00",
-      "title": "Stocks making big moves yesterday: SoFi, Marvell Technology, Lululemon, Cloudflare, and Victoria's Secret",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:30:32+00:00",
-      "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

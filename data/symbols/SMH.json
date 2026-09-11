@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T13:38:50.162236+00:00",
+  "generated_at": "2026-09-11T17:14:39.907358+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 565.96,
-    "change_pct": 1.0137788248732793
+    "price": 571.12,
+    "change_pct": 1.9347469122581673
   },
   "risk": {
-    "score": 59,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T01:21:31.997658+00:00",
-      "close": 555.82
-    },
     {
       "timestamp": "2026-08-26T02:42:27.711946+00:00",
       "close": 555.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T13:38:50.162236+00:00",
       "close": 565.96
+    },
+    {
+      "timestamp": "2026-09-11T17:14:39.907358+00:00",
+      "close": 571.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T11:11:07+00:00",
+      "title": "Easing Oil Bills, Tech Optimism Lift Wall Street Pre-Bell, Asia off, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T06:52:25+00:00",
+      "title": "AI Demand Keeps Breaking Records at Taiwan Semiconductor",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T04:46:09+00:00",
       "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-10T12:00:33+00:00",
       "title": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T11:10:27+00:00",
-      "title": "Oil, Bond Yields Cap Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T22:55:50+00:00",
-      "title": "From Farmland to Fast Trading, ETFs Are Doing It All",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

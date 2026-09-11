@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T13:38:50.162236+00:00",
+  "generated_at": "2026-09-11T17:14:39.907358+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 523.02,
-    "change_pct": 1.0803393695765662
+    "price": 529.4,
+    "change_pct": 2.3133563960342496
   },
   "risk": {
-    "score": 59,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T01:21:31.997658+00:00",
-      "close": 514.06
-    },
     {
       "timestamp": "2026-08-26T02:42:27.711946+00:00",
       "close": 514.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T13:38:50.162236+00:00",
       "close": 523.02
+    },
+    {
+      "timestamp": "2026-09-11T17:14:39.907358+00:00",
+      "close": 529.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T06:02:44+00:00",
+      "title": "As the Rotation Dies, Wall Street Is Blaming the Wrong Flaw in Small Caps",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T05:30:00+00:00",
       "title": "The New Chip Rally Comes With a Warning Attached",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-10T15:03:59+00:00",
       "title": "Fitch Says AI Bust Could Crash US Stocks 35%, Trigger Recession",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:01:35+00:00",
-      "title": "Intel Sinks 6% as Profit Taking Hits a Parabolic Run; NVIDIA and AMD Retreat 3%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

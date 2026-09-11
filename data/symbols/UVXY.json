@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T13:38:50.162236+00:00",
+  "generated_at": "2026-09-11T17:14:39.907358+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 18.12,
-    "change_pct": -6.2596999482669275
+    "price": 17.99,
+    "change_pct": -6.932229694774961
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T01:21:31.997658+00:00",
-      "close": 18.95
-    },
     {
       "timestamp": "2026-08-26T02:42:27.711946+00:00",
       "close": 18.95
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-11T13:38:50.162236+00:00",
       "close": 18.12
+    },
+    {
+      "timestamp": "2026-09-11T17:14:39.907358+00:00",
+      "close": 17.99
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-11T10:45:00+00:00",
+      "title": "Markets Turn Higher As Investors Overlook Inflation Numbers",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
