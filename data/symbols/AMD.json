@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T17:14:39.907358+00:00",
+  "generated_at": "2026-09-11T19:48:03.794464+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 512.38,
-    "change_pct": 1.743447180301816
+    "price": 515.43,
+    "change_pct": 2.3490865766481184
   },
   "risk": {
-    "score": 64,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T01:21:31.997658+00:00",
-      "close": 479.18
-    },
     {
       "timestamp": "2026-08-26T02:42:27.711946+00:00",
       "close": 479.18
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 512.38
+    },
+    {
+      "timestamp": "2026-09-11T19:48:03.794464+00:00",
+      "close": 515.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T17:02:03+00:00",
+      "title": "AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T16:40:12+00:00",
+      "title": "The Better Nvidia Killer: Broadcom or AMD?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T15:48:11+00:00",
       "title": "AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options Tied To These Stocks",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-11T14:20:00+00:00",
       "title": "Leopold Aschenbrenner's Situational Awareness buying options after collapse",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:17:44+00:00",
-      "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T13:44:23+00:00",
-      "title": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

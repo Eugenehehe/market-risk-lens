@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T17:14:39.907358+00:00",
+  "generated_at": "2026-09-11T19:48:03.794464+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 571.12,
-    "change_pct": 1.9347469122581673
+    "price": 568.64,
+    "change_pct": 1.4921110873134857
   },
   "risk": {
-    "score": 66,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 555.82
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 555.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 571.12
+    },
+    {
+      "timestamp": "2026-09-11T19:48:03.794464+00:00",
+      "close": 568.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T12:53:39+00:00",
+      "title": "S&P 500 Snaps 4-Day Decline as Oil Cools, Dell Jumps 11%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T11:28:20+00:00",
+      "title": "Iran War, Inflation Fears Trigger $40 Billion Large-Cap Exodus — But VOO, QQQ Buck the Trend",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T11:11:07+00:00",
       "title": "Easing Oil Bills, Tech Optimism Lift Wall Street Pre-Bell, Asia off, Europe Up",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-10T14:46:22+00:00",
       "title": "Oil Prices And Geopolitics Run Through U.S. Economy, And Globe (Video)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:26:59+00:00",
-      "title": "Stock Market Today: Nasdaq 100 Tumbles as Oil Spikes 6%, Yields Hit 19-Year High",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T12:00:33+00:00",
-      "title": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T17:14:39.907358+00:00",
+  "generated_at": "2026-09-11T19:48:03.794464+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 765.6,
-    "change_pct": 1.0252959106923587
+    "price": 764.85,
+    "change_pct": 0.9263291239459903
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 765.91
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 765.91
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 765.6
+    },
+    {
+      "timestamp": "2026-09-11T19:48:03.794464+00:00",
+      "close": 764.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T18:05:50+00:00",
+      "title": "Storage Stocks Slide as Profit Taking Follows Big Run: Seagate Falls 4%, SanDisk Drops 3%, Micron Holds Flat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T17:56:53+00:00",
+      "title": "Ciena Climbs 5% as Post-Earnings Selloff Reverses; Arista Networks Rises 5%, Cisco Jumps 4%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T17:43:31+00:00",
+      "title": "Affirm Rallies 5% as Midweek Selloff Unwinds; Klarna and PayPal Tick Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T17:13:25+00:00",
+      "title": "AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T16:50:43+00:00",
+      "title": "TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T15:56:30+00:00",
       "title": "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-11T14:59:48+00:00",
       "title": "Chewy Slides 6% on Second Downgrade in Two Days as JPMorgan Cuts Target to $24; Petco Stays Put, Freshpet Nudges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:41:17+00:00",
-      "title": "Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:30:00+00:00",
-      "title": "CPI +3.4%, as Expected: Wherefor Go Fed Rates?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T13:26:59+00:00",
-      "title": "Meta at $645: Recent Momentum Makes One Thing Very Clear",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T13:25:37+00:00",
-      "title": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T13:22:31+00:00",
-      "title": "GameStop Climbs 4% as Ryan Cohen Buys One Million Shares, Take-Two and Roblox Hold Steady",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

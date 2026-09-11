@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T17:14:39.907358+00:00",
+  "generated_at": "2026-09-11T19:48:03.794464+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 238.24,
-    "change_pct": 4.970038773352137
+    "price": 236.05,
+    "change_pct": 4.005111032781117
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T01:21:31.997658+00:00",
-      "close": 240.38
-    },
     {
       "timestamp": "2026-08-26T02:42:27.711946+00:00",
       "close": 240.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 238.24
+    },
+    {
+      "timestamp": "2026-09-11T19:48:03.794464+00:00",
+      "close": 236.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T16:54:59+00:00",
+      "title": "Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T13:47:11+00:00",
       "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-11T05:02:09+00:00",
       "title": "Qualcomm Vs. Marvell: The Better AI Business Is The Worse Stock",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T22:00:12+00:00",
-      "title": "Marvell Calls Itself the ‘Switzerland’ of AI, and Says It Works With Everybody",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

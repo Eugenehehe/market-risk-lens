@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T17:14:39.907358+00:00",
+  "generated_at": "2026-09-11T19:48:03.794464+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 529.4,
-    "change_pct": 2.3133563960342496
+    "price": 526.9,
+    "change_pct": 1.8301992540053824
   },
   "risk": {
-    "score": 69,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 514.06
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 514.06
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 529.4
+    },
+    {
+      "timestamp": "2026-09-11T19:48:03.794464+00:00",
+      "close": 526.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T13:05:43+00:00",
+      "title": "What's Going On With AMD Stock Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T11:28:20+00:00",
+      "title": "Iran War, Inflation Fears Trigger $40 Billion Large-Cap Exodus — But VOO, QQQ Buck the Trend",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T06:02:44+00:00",
       "title": "As the Rotation Dies, Wall Street Is Blaming the Wrong Flaw in Small Caps",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-10T15:42:50+00:00",
       "title": "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:05:00+00:00",
-      "title": "Top Semiconductor ETFs That Investors May Buy in September",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:03:59+00:00",
-      "title": "Fitch Says AI Bust Could Crash US Stocks 35%, Trigger Recession",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

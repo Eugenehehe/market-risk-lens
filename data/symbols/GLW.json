@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T17:14:39.907358+00:00",
+  "generated_at": "2026-09-11T19:48:03.794464+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 166.86,
-    "change_pct": 2.2927905836194196
+    "price": 166.02,
+    "change_pct": 1.777832270720947
   },
   "risk": {
-    "score": 69,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 147.16
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 147.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 166.86
+    },
+    {
+      "timestamp": "2026-09-11T19:48:03.794464+00:00",
+      "close": 166.02
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-09-11T13:31:00+00:00",
       "title": "Can Ciena Sustain Its Strong Growth Amid Rising Optical Demand?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T17:50:00+00:00",
+      "title": "Corning Just Locked In a Massive Verizon Fiber Deal as AI Infrastructure Expands",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-10T13:35:16+00:00",
       "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T12:33:04+00:00",
-      "title": "1 of Wall Street’s Favorite Stocks to Own for Decades and 2 We Ignore",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
