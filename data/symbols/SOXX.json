@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 517.43,
-    "change_pct": -2.7387218045112904
+    "price": 523.02,
+    "change_pct": 1.0803393695765662
   },
   "risk": {
-    "score": 72,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:55:33.451444+00:00",
-      "close": 514.06
-    },
     {
       "timestamp": "2026-08-26T01:21:31.997658+00:00",
       "close": 514.06
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 517.43
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 523.02
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-11T05:30:00+00:00",
+      "title": "The New Chip Rally Comes With a Warning Attached",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-11T04:46:09+00:00",
       "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T19:46:35+00:00",
+      "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T16:47:26+00:00",
+      "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T15:42:50+00:00",
+      "title": "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-10T15:05:00+00:00",
+      "title": "Top Semiconductor ETFs That Investors May Buy in September",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,48 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T12:00:33+00:00",
-      "title": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T07:48:37+00:00",
-      "title": "What's Going On With AMD Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T22:55:50+00:00",
-      "title": "From Farmland to Fast Trading, ETFs Are Doing It All",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T18:39:06+00:00",
-      "title": "Are Chip Stocks a New Short-Term Safety Play?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T15:11:39+00:00",
-      "title": "Nvidia and Meta Are Hungry for HBM. SK Hynix Is on the Menu — These ETFs Could Cash In",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T14:45:21+00:00",
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
+      "timestamp": "2026-09-10T14:01:35+00:00",
+      "title": "Intel Sinks 6% as Profit Taking Hits a Parabolic Run; NVIDIA and AMD Retreat 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 100.32,
-    "change_pct": -5.572289156626509
+    "price": 102.17,
+    "change_pct": 1.8440988835725758
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 87.48
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 87.48
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 100.32
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 102.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T12:36:03+00:00",
+      "title": "AI Chip Stocks Diverge Ahead of Nvidia Earnings as AMD and Intel Surge",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T12:25:16+00:00",
+      "title": "Investors Should Know Exactly What to Do With Intel",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T19:57:33+00:00",
       "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-10T18:00:00+00:00",
       "title": "Most active stocks in Thursday's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T17:32:55+00:00",
-      "title": "Can Marvell Stock Make You Money Before Its Hyperscaler Deal Pays Off?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T17:26:00+00:00",
-      "title": "An Nvidia Move Just Put AMD and Intel on the Defensive",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

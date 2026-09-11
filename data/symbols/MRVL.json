@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 226.96,
-    "change_pct": -3.425386153780685
+    "price": 231.13,
+    "change_pct": 1.8373281635530425
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 240.38
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 240.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 226.96
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 231.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T05:02:09+00:00",
+      "title": "Qualcomm Vs. Marvell: The Better AI Business Is The Worse Stock",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T22:00:12+00:00",
       "title": "Marvell Calls Itself the ‘Switzerland’ of AI, and Says It Works With Everybody",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-10T15:30:32+00:00",
       "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:30:00+00:00",
-      "title": "Optical Circuit Switching Market Size to Hit USD 4.93 Billion by 2035, at 28.51% CAGR – Research by SNS Insider",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

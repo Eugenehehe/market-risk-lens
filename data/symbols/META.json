@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 644.38,
-    "change_pct": -1.4242224907831003
+    "price": 660.05,
+    "change_pct": 2.4317949036282815
   },
   "risk": {
-    "score": 62,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:55:33.451444+00:00",
-      "close": 570.05
-    },
     {
       "timestamp": "2026-08-26T01:21:31.997658+00:00",
       "close": 570.05
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 644.38
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 660.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T11:20:28+00:00",
+      "title": "Meta reversing course on flat org structure in Applied AI division",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T09:14:32+00:00",
+      "title": "Market Chatter: Meta Platforms in Talks With South Korea on Teen Social Media Restrictions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T09:00:07+00:00",
+      "title": "Scoop: TikTok rejects Meta ads amid settlement pressure campaign",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T06:11:07+00:00",
       "title": "PLTR Stock Wins Whether We’re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-11T03:07:00+00:00",
       "title": "JPMorgan resets Meta stock price target for the rest of 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T01:28:12+00:00",
-      "title": "Meta’s $18 Billion Settlement Removes a Massive Risk, But May Reshape Teen Engagement",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T01:22:13+00:00",
-      "title": "Should You Buy AppLovin Stock For Its Widening Margin?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T00:53:47+00:00",
-      "title": "Why Is AppLovin Stock Trading Near Its Low While Revenue Keeps Growing?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

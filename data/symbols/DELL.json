@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 506.62,
-    "change_pct": -5.348902382064457
+    "price": 542.03,
+    "change_pct": 6.989459555485378
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 451.5
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 451.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 506.62
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 542.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T08:18:50+00:00",
+      "title": "DELL Stock Rebounds Premarket: Analyst Sees 26% Upside Despite Fresh Debt And Major Insider Selling",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T03:33:00+00:00",
       "title": "Evercore ISI revamps Dell stock price target to $650",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-10T15:49:00+00:00",
       "title": "Dell faces widening supply shortages as high AI demand persists",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:05:00+00:00",
-      "title": "Dell's AI Server Orders Reached $61 Billion in the Second Quarter, and the Pipeline Keeps Growing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

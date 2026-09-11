@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 287.7,
-    "change_pct": -1.0115606936416222
+    "price": 291.03,
+    "change_pct": 1.1574556830031169
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:55:33.451444+00:00",
-      "close": 299.23
-    },
     {
       "timestamp": "2026-08-26T01:21:31.997658+00:00",
       "close": 299.23
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 287.7
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 291.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T08:30:00+00:00",
+      "title": "AI Apocalypse Narrative Is A Sales Pitch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T06:30:00+00:00",
+      "title": "Chart Of The Day: Can Stocks Handle Rising Rates? It Depends",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T04:46:09+00:00",
       "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-10T14:46:22+00:00",
       "title": "Oil Prices And Geopolitics Run Through U.S. Economy, And Globe (Video)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T14:26:59+00:00",
-      "title": "Stock Market Today: Nasdaq 100 Tumbles as Oil Spikes 6%, Yields Hit 19-Year High",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T11:15:00+00:00",
-      "title": "Investors Continue To Brace For Interest Rate Hikes",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

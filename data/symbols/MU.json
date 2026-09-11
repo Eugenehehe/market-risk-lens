@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 977.41,
-    "change_pct": -4.899928972435463
+    "price": 980.71,
+    "change_pct": 0.33762699378971917
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 932.97
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 932.97
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 977.41
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 980.71
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-11T08:01:24+00:00",
-      "title": "Micron Technology (NASDAQ:MU): Strong Growth Meets a High-Quality Technical Setup",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T07:18:11+00:00",
-      "title": "SK Hynix, Samsung Shares Dip In Korea After DeepSeek Debuts AI Tech That Uses Less Memory – Micron, SanDisk Hold Up",
+      "timestamp": "2026-09-11T12:34:00+00:00",
+      "title": "Micron Bets on Long-Term SCA Deals: Can It Lower Earnings Cyclicality?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T06:11:07+00:00",
-      "title": "PLTR Stock Wins Whether We’re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
+      "timestamp": "2026-09-11T12:30:37+00:00",
+      "title": "The Next Phase of the AI Boom Could Be Great News for NVIDIA, Micron, and SanDisk",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T05:30:00+00:00",
-      "title": "The New Chip Rally Comes With a Warning Attached",
+      "timestamp": "2026-09-11T12:13:39+00:00",
+      "title": "Micron Stock in Focus -- Unveils Massive Employee Rewards After Record Profits",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T04:54:13+00:00",
-      "title": "Why Micron Stock Just Sank",
+      "timestamp": "2026-09-11T11:56:55+00:00",
+      "title": "Micron offers Taiwan workers up to 68-month bonuses as strike threat looms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-11T04:46:09+00:00",
-      "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
+      "timestamp": "2026-09-11T10:38:02+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Oracle to Rise, Adobe to Fall",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T09:50:00+00:00",
+      "title": "These 2 Hardware Leaders Will Cash In on the Next Data Center Memory Crunch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T09:18:42+00:00",
+      "title": "Micron's Q4 Might Change The Game (Preview)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-10T23:35:00+00:00",
-      "title": "The Scarcity Trade Is Starting To Eat The Capital Cycle",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T23:01:00+00:00",
-      "title": "Micron Is Down 19% From Its High. History Suggests a $5,000 Investment Today Could Be Worth This Much by 2030.",
+      "timestamp": "2026-09-11T08:33:52+00:00",
+      "title": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

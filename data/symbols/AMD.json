@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T09:17:21.183066+00:00",
+  "generated_at": "2026-09-11T13:38:50.162236+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 503.6,
-    "change_pct": -3.3573532657192984
+    "price": 504.69,
+    "change_pct": 0.21644162033358505
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:33:38.842851+00:00",
-      "close": 479.18
-    },
     {
       "timestamp": "2026-08-25T23:55:33.451444+00:00",
       "close": 479.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 503.6
+    },
+    {
+      "timestamp": "2026-09-11T13:38:50.162236+00:00",
+      "close": 504.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T12:36:03+00:00",
+      "title": "AI Chip Stocks Diverge Ahead of Nvidia Earnings as AMD and Intel Surge",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T04:46:09+00:00",
       "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-10T18:30:13+00:00",
       "title": "AMD Falls 2.5% After Declaring a $2 Trillion AI Prize",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T18:10:51+00:00",
-      "title": "Cathie Wood Is Selling AMD Before MI450 Arrives. Is She About to Miss Another Nvidia?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
