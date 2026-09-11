@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:19:39.975604+00:00",
+  "generated_at": "2026-09-11T04:52:25.905744+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 287.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T23:03:00.871360+00:00",
-      "close": 299.23
-    },
     {
       "timestamp": "2026-08-25T23:33:38.842851+00:00",
       "close": 299.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 287.7
+    },
+    {
+      "timestamp": "2026-09-11T04:52:25.905744+00:00",
+      "close": 287.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T20:15:00+00:00",
+      "title": "Producer Price Index: Up 0.4% In August, Better Than Expected",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T17:34:05+00:00",
       "title": "A Complete Mess: Middle East Escalations And Diesel Out Of Control",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-10T09:54:42+00:00",
       "title": "Five Reasons The Market Could Crack -- And Why I'm Still Invested",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T09:53:45+00:00",
-      "title": "Breadth Turns Negative as Decliners Dominate and Small Caps Slide",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

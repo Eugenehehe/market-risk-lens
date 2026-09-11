@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:19:39.975604+00:00",
+  "generated_at": "2026-09-11T04:52:25.905744+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 708.69,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-25T22:39:39.930807+00:00",
-      "close": 710.72
-    },
     {
       "timestamp": "2026-08-25T23:03:00.871360+00:00",
       "close": 710.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 708.69
+    },
+    {
+      "timestamp": "2026-09-11T04:52:25.905744+00:00",
+      "close": 708.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-10T20:15:00+00:00",
+      "title": "Producer Price Index: Up 0.4% In August, Better Than Expected",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-10T17:34:05+00:00",
       "title": "A Complete Mess: Middle East Escalations And Diesel Out Of Control",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-10T11:15:00+00:00",
       "title": "Investors Continue To Brace For Interest Rate Hikes",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T11:08:13+00:00",
-      "title": "Trump’s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
