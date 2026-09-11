@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T19:48:03.794464+00:00",
+  "generated_at": "2026-09-11T22:01:16.956025+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 150.49,
-    "change_pct": -1.6019353995030627
+    "price": 150.28,
+    "change_pct": -1.7392441480319043
   },
   "risk": {
-    "score": 63,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 144.76
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 144.76
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 150.49
+    },
+    {
+      "timestamp": "2026-09-11T22:01:16.956025+00:00",
+      "close": 150.28
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-11T19:04:06+00:00",
+      "title": "Is Salesforce Stock Cheap Because Software Is Dying?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T19:00:00+00:00",
+      "title": "Is ORCL a Buy Following 121% IaaS Growth in Q1 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:13:29+00:00",
+      "title": "Oracle Nearly Erases 7% Jump Despite $664 Billion AI Backlog",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-11T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:00:00+00:00",
+      "title": "Dell and HPE Stocks Are Surging on the AI Spending Boom",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-11T17:16:06+00:00",
       "title": "Oracle Margin Pressure, Modest Guidance Raise Leave Morgan Stanley Needing More Visibility",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T17:05:43+00:00",
-      "title": "Stock Market Today: Dow Jumps Nearly 600 Points After CPI Surprise; Shipping Name Breaks Out (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T17:05:00+00:00",
-      "title": "In today's session, there are S&P500 stocks with remarkable trading volume.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T16:53:19+00:00",
-      "title": "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T16:30:56+00:00",
-      "title": "Prediction: This Could Be an Unexpected AI Winner Through 2030",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

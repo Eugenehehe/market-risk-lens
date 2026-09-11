@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T19:48:03.794464+00:00",
+  "generated_at": "2026-09-11T22:01:16.956025+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.32,
-    "change_pct": 11.0467222021007
+    "price": 62.09,
+    "change_pct": 12.441144512857672
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T03:39:59.365894+00:00",
-      "close": 53.44
-    },
     {
       "timestamp": "2026-08-26T04:24:16.013943+00:00",
       "close": 53.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 61.32
+    },
+    {
+      "timestamp": "2026-09-11T22:01:16.956025+00:00",
+      "close": 62.09
     }
   ],
   "events": [
@@ -514,9 +514,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-11T18:14:14+00:00",
+      "title": "Dell, HPE and HP Surge as AI Demand Fuels Hardware Boom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-11T18:05:02+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:00:00+00:00",
+      "title": "Dell and HPE Stocks Are Surging on the AI Spending Boom",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-11T16:27:14+00:00",
       "title": "DELL, HPE Stocks Lead S&P 500 Gains: Oracle’s $95B Capex Plan Lifts AI Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T16:06:00+00:00",
-      "title": "Is Ciena a Buy as 30% Growth Meets Its Premium Forward Valuation?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:51:18+00:00",
-      "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

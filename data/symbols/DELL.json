@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T19:48:03.794464+00:00",
+  "generated_at": "2026-09-11T22:01:16.956025+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 558.34,
-    "change_pct": 10.208835024278562
+    "price": 567.29,
+    "change_pct": 11.975445106786143
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 451.5
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 451.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 558.34
+    },
+    {
+      "timestamp": "2026-09-11T22:01:16.956025+00:00",
+      "close": 567.29
     }
   ],
   "events": [
@@ -509,6 +509,46 @@
       "timestamp": "2026-09-11T19:05:01+00:00",
       "title": "Top S&P500 movers in Friday's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:21:45+00:00",
+      "title": "Investing.com’s stocks of the week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:14:14+00:00",
+      "title": "Dell, HPE and HP Surge as AI Demand Fuels Hardware Boom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:13:57+00:00",
+      "title": "Can Apple Stock's Premium Survive The Memory Squeeze On Its Margin?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:04:15+00:00",
+      "title": "Dell stock hits all-time high on RBC Capital outperform rating",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T18:00:00+00:00",
+      "title": "Dell and HPE Stocks Are Surging on the AI Spending Boom",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-09-11T17:05:00+00:00",
       "title": "In today's session, there are S&P500 stocks with remarkable trading volume.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T16:35:01+00:00",
-      "title": "Stay informed with the top movers within the S&P500 index on Friday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T16:27:14+00:00",
-      "title": "DELL, HPE Stocks Lead S&P 500 Gains: Oracle’s $95B Capex Plan Lifts AI Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T15:05:00+00:00",
-      "title": "Dell shares jump 11% to all-time high on RBC Outperform initiation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:51:18+00:00",
-      "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:48:05+00:00",
-      "title": "Dell Technologies Positioned to Benefit From AI Infrastructure Spending Cycle, RBC Says",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

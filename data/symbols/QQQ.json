@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T19:48:03.794464+00:00",
+  "generated_at": "2026-09-11T22:01:16.956025+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 715.7,
-    "change_pct": 0.9891489932128295
+    "price": 714.88,
+    "change_pct": 0.8734425489282938
   },
   "risk": {
-    "score": 58,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 710.72
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 710.72
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 715.7
+    },
+    {
+      "timestamp": "2026-09-11T22:01:16.956025+00:00",
+      "close": 714.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-11T17:07:36+00:00",
+      "title": "The Fed Is Likely Cornered Into A Rate Hike",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T16:51:32+00:00",
+      "title": "Surging Healthcare Costs Are A Serious Threat To The American Economy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-11T14:45:36+00:00",
       "title": "AI Is Going Rogue: 3 Stocks I'm Buying",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-11T13:14:24+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Inflation Data Release",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T13:10:19+00:00",
-      "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T12:53:39+00:00",
-      "title": "S&P 500 Snaps 4-Day Decline as Oil Cools, Dell Jumps 11%: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T19:48:03.794464+00:00",
+  "generated_at": "2026-09-11T22:01:16.956025+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 102.96,
-    "change_pct": 2.6315789473684292
+    "price": 102.94,
+    "change_pct": 2.611642743221698
   },
   "risk": {
-    "score": 72,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T02:42:27.711946+00:00",
-      "close": 87.48
-    },
     {
       "timestamp": "2026-08-26T03:39:59.365894+00:00",
       "close": 87.48
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 102.96
+    },
+    {
+      "timestamp": "2026-09-11T22:01:16.956025+00:00",
+      "close": 102.94
     }
   ],
   "events": [
@@ -514,9 +514,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-11T18:01:00+00:00",
+      "title": "1 Thing I Wish I'd Known About the Stock Market When I First Started Investing",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-11T18:00:00+00:00",
       "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-11T17:52:26+00:00",
+      "title": "Should Qualcomm Stockholders Worry About Its Shrinking Revenue?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-11T15:00:52+00:00",
       "title": "Prediction: This AI Stock Could Be the Next One to Shock Wall Street",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T14:17:44+00:00",
-      "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T13:44:23+00:00",
-      "title": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
