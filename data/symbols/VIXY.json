@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T22:01:16.956025+00:00",
+  "generated_at": "2026-09-12T00:10:36.849667+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 17.3,
     "change_pct": -4.735682819383258
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T04:24:16.013943+00:00",
-      "close": 18.01
-    },
     {
       "timestamp": "2026-08-26T05:04:44.656777+00:00",
       "close": 18.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-11T22:01:16.956025+00:00",
       "close": 17.3
+    },
+    {
+      "timestamp": "2026-09-12T00:10:36.849667+00:00",
+      "close": 17.3
     }
   ],
   "events": [
@@ -509,14 +509,6 @@
       "timestamp": "2026-09-11T10:45:00+00:00",
       "title": "Markets Turn Higher As Investors Overlook Inflation Numbers",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-09T09:20:37+00:00",
-      "title": "Don't Mistake the Market Calm for Safety, Experts Warn",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
