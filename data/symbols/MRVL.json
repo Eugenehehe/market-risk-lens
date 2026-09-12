@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:48:58.797347+00:00",
+  "generated_at": "2026-09-12T12:25:10.570380+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 236.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T05:46:48.781718+00:00",
-      "close": 240.38
-    },
     {
       "timestamp": "2026-08-26T06:21:01.002184+00:00",
       "close": 240.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-12T08:48:58.797347+00:00",
       "close": 236.1
+    },
+    {
+      "timestamp": "2026-09-12T12:25:10.570380+00:00",
+      "close": 236.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-12T11:06:13+00:00",
+      "title": "Jim Cramer on Why Marvell (MRVL) Plunged",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-12T04:04:33+00:00",
       "title": "Marvell: Most Potent Setup Of The AI Factory Decade",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-11T16:54:59+00:00",
       "title": "Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T15:01:02+00:00",
-      "title": "Marvell Stock Is Up 180% This Year: BofA Says the Real AI Opportunity Is 5 Times Bigger",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
