@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:51:52.347074+00:00",
+  "generated_at": "2026-09-12T19:54:13.727163+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 150.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T08:06:09.519053+00:00",
-      "close": 144.76
-    },
     {
       "timestamp": "2026-08-26T08:59:08.030612+00:00",
       "close": 144.76
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-12T17:51:52.347074+00:00",
       "close": 150.28
+    },
+    {
+      "timestamp": "2026-09-12T19:54:13.727163+00:00",
+      "close": 150.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-12T16:16:00+00:00",
+      "title": "Larry Ellison Cancels His Plan to Sell Oracle Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-12T15:52:54+00:00",
+      "title": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-12T15:13:28+00:00",
       "title": "Jim Cramer on Oracle: $664B Backlog Signals Major Shift in Company’s Growth Trajectory",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-12T08:49:43+00:00",
       "title": "Benzinga Bulls and Bears: GameStop, Marvell, Robinhood",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T08:15:38+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T04:51:05+00:00",
-      "title": "Why Power Integrations (POWI) Stock Is Trading Up Today",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

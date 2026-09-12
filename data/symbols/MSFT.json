@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:51:52.347074+00:00",
+  "generated_at": "2026-09-12T19:54:13.727163+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 495.63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T08:06:09.519053+00:00",
-      "close": 491.71
-    },
     {
       "timestamp": "2026-08-26T08:59:08.030612+00:00",
       "close": 491.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-12T17:51:52.347074+00:00",
       "close": 495.63
+    },
+    {
+      "timestamp": "2026-09-12T19:54:13.727163+00:00",
+      "close": 495.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-12T15:52:54+00:00",
+      "title": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-12T14:34:16+00:00",
       "title": "$2.3 Billion in Daily Profits: Why Betting Against the Magnificent 7 Keeps Failing",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-12T03:20:00+00:00",
       "title": "How The Rise Of Frontier Tech Baskets Could Impact Equities",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T00:34:00+00:00",
-      "title": "Microsoft Stock Is Flat So Far in 2026. Is a Rally Coming to End the Year?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
