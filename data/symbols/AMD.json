@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:55:36.198455+00:00",
+  "generated_at": "2026-09-12T23:49:45.890798+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 516.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T09:51:31.998780+00:00",
-      "close": 479.18
-    },
     {
       "timestamp": "2026-08-26T10:24:37.462622+00:00",
       "close": 479.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-12T21:55:36.198455+00:00",
       "close": 516.13
+    },
+    {
+      "timestamp": "2026-09-12T23:49:45.890798+00:00",
+      "close": 516.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-12T21:20:00+00:00",
+      "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-12T17:07:02+00:00",
       "title": "Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Production & More",
@@ -516,6 +524,14 @@
     {
       "timestamp": "2026-09-12T14:50:41+00:00",
       "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-12T14:00:02+00:00",
+      "title": "Why AMD Stock Forecast Has Room to Run",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-12T08:15:38+00:00",
       "title": "What Moved Markets This Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T04:51:05+00:00",
-      "title": "Why Power Integrations (POWI) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T04:11:05+00:00",
-      "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
