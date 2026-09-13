@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:41:56.956765+00:00",
+  "generated_at": "2026-09-13T12:19:09.802970+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 516.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T11:38:21.465461+00:00",
-      "close": 479.18
-    },
     {
       "timestamp": "2026-08-26T12:02:09.177382+00:00",
       "close": 479.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-13T06:41:56.956765+00:00",
       "close": 516.13
+    },
+    {
+      "timestamp": "2026-09-13T12:19:09.802970+00:00",
+      "close": 516.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-13T10:05:00+00:00",
+      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-12T23:54:30+00:00",
       "title": "Advanced Micro Devices, Inc. (AMD)’s Halo Station Could Strengthen Its AI Position, but Near-Term Revenue Impact May Be Limited",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-12T12:39:01+00:00",
       "title": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T10:05:01+00:00",
-      "title": "AMD’s CFO, Jean Hu, Just Announced Fantastic News for Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
