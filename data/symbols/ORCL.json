@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:54:40.630108+00:00",
+  "generated_at": "2026-09-13T21:15:25.425247+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 150.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T14:04:08.819297+00:00",
-      "close": 149.66
-    },
     {
       "timestamp": "2026-08-26T14:57:53.586752+00:00",
       "close": 148.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-13T18:54:40.630108+00:00",
       "close": 150.28
+    },
+    {
+      "timestamp": "2026-09-13T21:15:25.425247+00:00",
+      "close": 150.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-13T18:03:00+00:00",
+      "title": "Barclays resets Oracle stock price target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-13T14:53:40+00:00",
       "title": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-12T21:03:00+00:00",
       "title": "Morgan Stanley revamps Oracle stock price target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T18:33:28+00:00",
-      "title": "Oracle’s Ellison cancels plan to sell up to 50 mln shares",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:54:40.630108+00:00",
+  "generated_at": "2026-09-13T21:15:25.425247+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 365.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T14:04:08.819297+00:00",
-      "close": 348.63
-    },
     {
       "timestamp": "2026-08-26T14:57:53.586752+00:00",
       "close": 343.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-13T18:54:40.630108+00:00",
       "close": 365.44
+    },
+    {
+      "timestamp": "2026-09-13T21:15:25.425247+00:00",
+      "close": 365.44
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-13T17:16:40+00:00",
       "title": "New Tesla Roadster Uses SpaceX Tech. Will It Impact the Stock Price?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-13T16:42:11+00:00",
+      "title": "Tracking Ron Baron's BAMCO Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-13T09:41:48+00:00",
       "title": "Cybersecurity Stocks May See Upside Even As AI Industry’s ‘Pace The Frontier’ Push Triggers Chipmaker Sell-Off Risks",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-13T09:18:55+00:00",
-      "title": "Obama Warns AI Could be ‘Dangerous’ If Not Managed Properly, Calls for Democrats to Prioritize Oversight: Report",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

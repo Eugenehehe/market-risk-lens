@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:54:40.630108+00:00",
+  "generated_at": "2026-09-13T21:15:25.425247+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 764.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T14:57:53.586752+00:00",
-      "close": 765.8
-    },
     {
       "timestamp": "2026-08-26T16:23:59.702185+00:00",
       "close": 764.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-13T18:54:40.630108+00:00",
       "close": 764.29
+    },
+    {
+      "timestamp": "2026-09-13T21:15:25.425247+00:00",
+      "close": 764.29
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-13T18:00:24+00:00",
       "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-13T16:00:00+00:00",
+      "title": "S&P500: A Flood Of Bad News Tests The Inflection Point (Technical Analysis)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-13T00:30:00+00:00",
       "title": "Market Valuation: Is The Market Still Overvalued?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-13T00:30:00+00:00",
-      "title": "Crestmont P/E And Market Valuation: August 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
