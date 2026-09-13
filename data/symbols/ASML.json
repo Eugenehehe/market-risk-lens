@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-12T23:49:45.890798+00:00",
+  "generated_at": "2026-09-13T01:27:45.215484+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1698.3,
     "change_pct": 0.6441748694760552
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 48,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T11:01:03.181940+00:00",
-      "close": 1744.16
-    },
     {
       "timestamp": "2026-08-26T11:38:21.465461+00:00",
       "close": 1744.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-12T23:49:45.890798+00:00",
       "close": 1698.3
+    },
+    {
+      "timestamp": "2026-09-13T01:27:45.215484+00:00",
+      "close": 1698.3
     }
   ],
   "events": [
@@ -533,38 +533,6 @@
       "timestamp": "2026-09-11T04:46:09+00:00",
       "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T21:00:49+00:00",
-      "title": "What is ASML? The company that makes chip-printing machines",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T16:10:37+00:00",
-      "title": "Applied Materials CEO Says the AI Boom Is Nowhere Near Over. His Order Book Is the Proof",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:31:39+00:00",
-      "title": "3 Chip Equipment Stocks Set to Win the Memory Boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:10:00+00:00",
-      "title": "Micron Stock Slips as Intel-Backed Start-up Takes Aim at Memory-Chip Market",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

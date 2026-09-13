@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12T23:49:45.890798+00:00",
+  "generated_at": "2026-09-13T01:27:45.215484+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 568.53,
     "change_pct": 1.4724780466909504
   },
   "risk": {
-    "score": 62,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T11:01:03.181940+00:00",
-      "close": 555.82
-    },
     {
       "timestamp": "2026-08-26T11:38:21.465461+00:00",
       "close": 555.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-12T23:49:45.890798+00:00",
       "close": 568.53
+    },
+    {
+      "timestamp": "2026-09-13T01:27:45.215484+00:00",
+      "close": 568.53
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-09-11T04:46:09+00:00",
       "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T22:15:18+00:00",
-      "title": "Forget SMH: The Chip Fund That Charges 0.15% Is Beating It by 22 Points This Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-10T15:05:00+00:00",
-      "title": "Top Semiconductor ETFs That Investors May Buy in September",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
