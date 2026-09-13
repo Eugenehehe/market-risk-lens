@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:19:09.802970+00:00",
+  "generated_at": "2026-09-13T16:28:33.194953+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 516.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T12:02:09.177382+00:00",
-      "close": 479.18
-    },
     {
       "timestamp": "2026-08-26T13:10:49.813222+00:00",
       "close": 479.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-13T12:19:09.802970+00:00",
       "close": 516.13
+    },
+    {
+      "timestamp": "2026-09-13T16:28:33.194953+00:00",
+      "close": 516.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-13T15:36:09+00:00",
+      "title": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO — and It’s Still Not Enough",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-13T10:05:00+00:00",
       "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-12T13:37:09+00:00",
       "title": "Qualcomm Lost Apple’s Modem Business. Amazon Just Offered a $60 Billion Escape Route.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T12:39:01+00:00",
-      "title": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

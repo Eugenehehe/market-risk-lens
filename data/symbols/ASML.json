@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T12:19:09.802970+00:00",
+  "generated_at": "2026-09-13T16:28:33.194953+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1698.3,
     "change_pct": 0.6441748694760552
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 50,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T13:10:49.813222+00:00",
-      "close": 1744.16
-    },
     {
       "timestamp": "2026-08-26T14:04:08.819297+00:00",
       "close": 1749.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-13T12:19:09.802970+00:00",
       "close": 1698.3
+    },
+    {
+      "timestamp": "2026-09-13T16:28:33.194953+00:00",
+      "close": 1698.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-13T12:50:01+00:00",
+      "title": "Applied Materials vs. ASML: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-12T12:06:02+00:00",
       "title": "Semiconductor Equipment Stocks Face ASML and Applied Materials Earnings Test After High-Quality Pullback",
