@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 516.13,
-    "change_pct": 2.4880857823669444
+    "price": 497.07,
+    "change_pct": -3.6928680758723575
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T23:27:23.476309+00:00",
-      "close": 480.93
-    },
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 480.93
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 516.13
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 497.07
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-14T11:49:33+00:00",
-      "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
+      "timestamp": "2026-09-14T16:53:00+00:00",
+      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T11:05:18+00:00",
-      "title": "Bank of Korea Says the AI Chip Trade Is Now a Financial Stability Problem",
+      "timestamp": "2026-09-14T16:15:19+00:00",
+      "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:51:00+00:00",
-      "title": "Intel, AMD, Marvell, Oracle, CrowdStrike, and More Stocks That Explain Today’s Market",
+      "timestamp": "2026-09-14T16:05:36+00:00",
+      "title": "Memory Falls Hardest as AI Chiefs Ask the Industry to Slow Down",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:37:31+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Fall Pre-Bell Monday; Nebius Group, AMD to Open Lower",
+      "timestamp": "2026-09-14T15:14:00+00:00",
+      "title": "All Eyes Set on September FOMC Meet",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T09:36:37+00:00",
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "timestamp": "2026-09-14T14:45:00+00:00",
+      "title": "CBRS Expands AI Inference Reach: Can It Challenge NVDA & GOOGL?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T08:43:30+00:00",
-      "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+      "timestamp": "2026-09-14T14:40:40+00:00",
+      "title": "AI Trade Stumbles as CEOs Talk Model Slowdown",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T08:25:33+00:00",
-      "title": "Stocktwits Tech Watch: Anthropic's AI Slowdown Row, Salesforce And Snap Events, And A Central Bank Rate Call In Focus This Week",
+      "timestamp": "2026-09-14T14:39:00+00:00",
+      "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T03:35:00+00:00",
-      "title": "Viral AI Doomer Tweet: Engineered Panic?",
+      "timestamp": "2026-09-14T14:25:00+00:00",
+      "title": "Pre-Markets Lower on AI Concerns, Iran War",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

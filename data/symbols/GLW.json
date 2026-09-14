@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 166.4,
-    "change_pct": 2.0107896027464545
+    "price": 145.24,
+    "change_pct": -12.716346153846148
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 152.78
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 152.08
@@ -502,61 +498,73 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 166.4
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 145.24
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-14T12:35:00+00:00",
-      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "timestamp": "2026-09-14T17:49:50+00:00",
+      "title": "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T16:53:00+00:00",
+      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T16:35:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T08:54:05+00:00",
-      "title": "GLW Stock Drops Premarket As Corning Launches $2B Equity Offering",
+      "timestamp": "2026-09-14T16:06:00+00:00",
+      "title": "Corning Stock Is Today’s Worst in the S&P 500. It’s Not Just the AI Selloff.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T06:43:26+00:00",
-      "title": "The AI Trade Is Rotating From Memory To Interconnects, And Corning Is The Best Way To Play It",
+      "timestamp": "2026-09-14T14:35:01+00:00",
+      "title": "Gapping S&P500 stocks in Monday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T14:07:00+00:00",
+      "title": "Wall Street Lunch: Tesla's Roadster Could Be Ready To Take Flight",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T06:24:24+00:00",
-      "title": "Corning Incorporated: Priced For The Ambition, Not The Confident Case",
+      "timestamp": "2026-09-14T12:47:36+00:00",
+      "title": "Corning: AI-Slowdown Fears, Equity Distribution News Hit Hard, EPS Growth Remains",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-12T10:57:59+00:00",
-      "title": "Jim Cramer Might Come Back To This AI Stock Later",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T08:15:38+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T04:02:00+00:00",
-      "title": "Corning Sees $20B Run Rate Early as Verizon Deal Fuels Data-Center Growth",
-      "source": "Yahoo",
+      "timestamp": "2026-09-14T12:35:00+00:00",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

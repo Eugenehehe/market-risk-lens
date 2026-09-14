@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1698.3,
-    "change_pct": 0.6441748694760552
+    "price": 1593.61,
+    "change_pct": -6.164399693811462
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 1745.64
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 1728.51
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 1698.3
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 1593.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T15:12:19+00:00",
+      "title": "Europe’s AI Trade Hits Reverse",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T14:52:29+00:00",
+      "title": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T14:24:44+00:00",
+      "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T12:50:01+00:00",
+      "title": "Advanced Micro Devices vs. ASML: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T12:19:00+00:00",
+      "title": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T12:00:00+00:00",
+      "title": "ASML reports transactions under its current share buyback program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T11:50:58+00:00",
       "title": "ASML Fell For a Month Straight: A Prominent Wall Street Ratings Agency Says It Will Return 70% From Today",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-09-14T11:23:32+00:00",
       "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T10:19:49+00:00",
-      "title": "AI stocks slide after top industry CEOs call for slowdown of technology’s development",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T10:13:57+00:00",
-      "title": "Anthropic CEO Urges AI Industry to Slow Development Pace; Chip Stocks Slide",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T08:30:11+00:00",
-      "title": "European Chip Stocks Follow Asia Lower Amid AI Worries",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-13T12:50:01+00:00",
-      "title": "Applied Materials vs. ASML: Which Tech Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T12:06:02+00:00",
-      "title": "Semiconductor Equipment Stocks Face ASML and Applied Materials Earnings Test After High-Quality Pullback",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T09:20:00+00:00",
-      "title": "Warren Buffett Loves Wide Moats: 3 AI Infrastructure Stocks That Fit the Bill",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

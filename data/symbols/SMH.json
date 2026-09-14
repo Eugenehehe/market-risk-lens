@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 568.53,
-    "change_pct": 1.4724780466909504
+    "price": 545.21,
+    "change_pct": -4.101806413030085
   },
   "risk": {
-    "score": 46,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 555.77
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 568.51
@@ -502,9 +498,46 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 568.53
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 545.21
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-14T12:46:00+00:00",
+      "title": "Can Stocks Overcome These 3 Bearish Narratives?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T11:06:36+00:00",
+      "title": "Forget An AI Slowdown, I'm Worried About A Double Hawk Instead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T10:24:12+00:00",
+      "title": "AI's 'Slowdown' Fear Is A Gift",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T10:03:46+00:00",
+      "title": "Situational Awareness, Options Bets, And Pacing AI Frontier",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

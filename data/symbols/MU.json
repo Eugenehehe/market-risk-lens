@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 975.26,
-    "change_pct": -0.2199691020145056
+    "price": 929.22,
+    "change_pct": -4.720792404076857
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T23:27:23.476309+00:00",
-      "close": 938.4
-    },
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 938.4
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 975.26
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 929.22
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-14T11:49:33+00:00",
-      "title": "Major Tech Stocks Fall as AI Leaders Warn of Risks From Rapid Advances",
+      "timestamp": "2026-09-14T18:05:01+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T17:46:00+00:00",
+      "title": "Micron Drops Nearly 6% as Its $50 Billion Forecast Meets AI Spending Doubts",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T11:23:32+00:00",
-      "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
+      "timestamp": "2026-09-14T17:40:30+00:00",
+      "title": "Why Direxion Daily Semiconductor Bull 3X ETF Dropped Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T11:15:14+00:00",
-      "title": "Wall Street Fear Index Jumps as Brutal AI Selloff Hits Market",
+      "timestamp": "2026-09-14T17:37:54+00:00",
+      "title": "Wall Street hit by tech sell-off after AI bosses push for slowdown",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:43:00+00:00",
-      "title": "This Memory Sector Sleeper Stock Nears a Profitability Turning Point",
+      "timestamp": "2026-09-14T16:59:27+00:00",
+      "title": "Stock Market Today: Dow Tries For A Gain, Trump Hits Out At AI Fears; This Fuel Play Clears Entry (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:37:31+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Fall Pre-Bell Monday; Nebius Group, AMD to Open Lower",
+      "timestamp": "2026-09-14T16:53:00+00:00",
+      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:13:57+00:00",
-      "title": "Anthropic CEO Urges AI Industry to Slow Development Pace; Chip Stocks Slide",
+      "timestamp": "2026-09-14T16:44:59+00:00",
+      "title": "Stock Market Midday, Sept. 14: Tech Stocks Slide on Dire AI Warnings, Micron Drops 5%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:11:00+00:00",
-      "title": "AI Stocks Are Tumbling. 3 Reasons Not to Panic.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T09:36:37+00:00",
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "timestamp": "2026-09-14T16:38:47+00:00",
+      "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

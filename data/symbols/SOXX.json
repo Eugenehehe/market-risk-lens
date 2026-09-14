@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 527.07,
-    "change_pct": 1.8630539396633505
+    "price": 501.52,
+    "change_pct": -4.847553455897713
   },
   "risk": {
-    "score": 51,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 515.4
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 522.03
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 527.07
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 501.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T14:09:55+00:00",
+      "title": "Why Pacing The Frontier 'AI' Won't Work",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T10:24:12+00:00",
+      "title": "AI's 'Slowdown' Fear Is A Gift",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T10:03:46+00:00",
+      "title": "Situational Awareness, Options Bets, And Pacing AI Frontier",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T09:26:22+00:00",
+      "title": "Why Is Broadcom Stock Falling Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T07:13:52+00:00",
+      "title": "Why Is AMD Stock Falling Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T02:20:18+00:00",
       "title": "MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown",

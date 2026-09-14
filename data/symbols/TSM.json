@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 433.24,
-    "change_pct": 1.2172044015606565
+    "price": 422.44,
+    "change_pct": -2.4928446126858073
   },
   "risk": {
-    "score": 60,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 417.69
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 424.19
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 433.24
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 422.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T12:19:00+00:00",
+      "title": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T00:46:01+00:00",
       "title": "Amazon and 2 Other AI Stocks to Buy With $5,000",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-12T13:44:00+00:00",
       "title": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting-Edge Chip. 1 Stock Offers Far Greater Upside.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T01:03:00+00:00",
-      "title": "David Tepper makes surprising double bet on AI's biggest bottleneck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T13:01:47.434565+00:00",
+  "generated_at": "2026-09-14T18:33:02.397017+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 648.03,
-    "change_pct": 0.5664359539402142
+    "price": 667.79,
+    "change_pct": 3.049241547459225
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 576.14
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 570.76
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-14T13:01:47.434565+00:00",
       "close": 648.03
+    },
+    {
+      "timestamp": "2026-09-14T18:33:02.397017+00:00",
+      "close": 667.79
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-14T11:18:24+00:00",
-      "title": "Data Centers At The Ballot Box: Why Google Holds The Edge In The Power War Against Amazon And Meta",
+      "timestamp": "2026-09-14T16:53:00+00:00",
+      "title": "Alger Russell Innovation Index Updates for Third Quarter 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T11:05:18+00:00",
-      "title": "Bank of Korea Says the AI Chip Trade Is Now a Financial Stability Problem",
+      "timestamp": "2026-09-14T16:49:00+00:00",
+      "title": "The Winners and Losers in an AI Slowdown",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T10:14:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Meta, Marvell, Amphenol, SandRidge and BK Technologies",
+      "timestamp": "2026-09-14T16:44:59+00:00",
+      "title": "Stock Market Midday, Sept. 14: Tech Stocks Slide on Dire AI Warnings, Micron Drops 5%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T21:32:58+00:00",
-      "title": "KQQQ: Why I'd Own This Over QQQI Right Now",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-13T17:41:04+00:00",
-      "title": "Threads might be bigger than X, says Zuckerberg",
+      "timestamp": "2026-09-14T16:15:19+00:00",
+      "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T16:50:00+00:00",
-      "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+      "timestamp": "2026-09-14T16:00:11+00:00",
+      "title": "Prediction: Meta Stock Has More Upside Than Its Valuation Suggests",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T15:17:00+00:00",
-      "title": "Jim Cramer says big tech stock could double in 3–5 years",
+      "timestamp": "2026-09-14T15:33:25+00:00",
+      "title": "Cathie Wood buys $27.9 million of surging megacap stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T15:00:00+00:00",
-      "title": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-14T14:41:24+00:00",
+      "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T14:24:44+00:00",
+      "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
