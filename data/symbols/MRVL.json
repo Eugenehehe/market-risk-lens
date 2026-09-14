@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T06:17:05.471804+00:00",
+  "generated_at": "2026-09-14T13:01:47.434565+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 236.1,
     "change_pct": 4.0271413464927575
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T20:05:07.940470+00:00",
-      "close": 245.11
-    },
     {
       "timestamp": "2026-08-26T23:27:23.476309+00:00",
       "close": 245.11
@@ -502,60 +498,72 @@
     {
       "timestamp": "2026-09-14T06:17:05.471804+00:00",
       "close": 236.1
+    },
+    {
+      "timestamp": "2026-09-14T13:01:47.434565+00:00",
+      "close": 236.1
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-13T17:33:00+00:00",
-      "title": "Bank of America has strong message for Marvell stock investors",
+      "timestamp": "2026-09-14T12:35:00+00:00",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T11:46:34+00:00",
+      "title": "Nvidia, chip stocks fall as AI CEOs call for slowdown",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T10:05:00+00:00",
-      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
+      "timestamp": "2026-09-14T11:19:21+00:00",
+      "title": "Friday's Oil-Relief Rally Meets a Weekend of Saudi Pipeline Fires, AI Pause Calls and Anthropic's Two-Trillion IPO Whisper",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T11:18:33+00:00",
+      "title": "Credo Technology Group vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-12T13:37:09+00:00",
-      "title": "Qualcomm Lost Apple’s Modem Business. Amazon Just Offered a $60 Billion Escape Route.",
+      "timestamp": "2026-09-14T11:15:14+00:00",
+      "title": "Wall Street Fear Index Jumps as Brutal AI Selloff Hits Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-12T11:06:13+00:00",
-      "title": "Jim Cramer on Why Marvell (MRVL) Plunged",
+      "timestamp": "2026-09-14T11:09:13+00:00",
+      "title": "Marvell Technology Shares Fall 7.6% as AI Development Debate Weighs on Chip Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-12T08:49:43+00:00",
-      "title": "Benzinga Bulls and Bears: GameStop, Marvell, Robinhood",
-      "source": "Benzinga",
+      "timestamp": "2026-09-14T10:51:00+00:00",
+      "title": "Intel, AMD, Marvell, Oracle, CrowdStrike, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-12T04:04:33+00:00",
-      "title": "Marvell: Most Potent Setup Of The AI Factory Decade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T04:03:05+00:00",
-      "title": "IPG Photonics, Intel, Marvell Technology, Semtech, and Penguin Solutions Shares Are Soaring, What You Need To Know",
+      "timestamp": "2026-09-14T10:14:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Meta, Marvell, Amphenol, SandRidge and BK Technologies",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

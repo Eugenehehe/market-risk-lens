@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T06:17:05.471804+00:00",
+  "generated_at": "2026-09-14T13:01:47.434565+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 62.09,
     "change_pct": 12.441144512857672
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T23:27:23.476309+00:00",
-      "close": 55.23
-    },
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 55.23
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-14T06:17:05.471804+00:00",
       "close": 62.09
+    },
+    {
+      "timestamp": "2026-09-14T13:01:47.434565+00:00",
+      "close": 62.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T12:35:00+00:00",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T11:32:00+00:00",
+      "title": "HPE Stock Is Downgraded After Rising 159% This Year. Why?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T11:19:21+00:00",
+      "title": "Friday's Oil-Relief Rally Meets a Weekend of Saudi Pipeline Fires, AI Pause Calls and Anthropic's Two-Trillion IPO Whisper",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T10:23:01+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T08:33:00+00:00",
+      "title": "Integrated Systems Market Outlook 2026-2035 - Featuring Profiles of Cisco Systems, Hewlett Packard Enterprise, and Oracle Corporation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T08:06:08+00:00",
+      "title": "Hewlett Packard Enterprise: At 16x FCF Stock Looks Ready To Inflect Higher",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T01:01:59+00:00",
       "title": "Hewlett Packard Enterprise Sees AI, Networking Demand Outrun Supply as 2027 Targets Rise",
@@ -517,30 +565,6 @@
       "timestamp": "2026-09-13T20:02:03+00:00",
       "title": "Hewlett Packard Enterprise Raises 2027 Outlook as AI Networking Demand Surges",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T12:05:00+00:00",
-      "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T10:56:48+00:00",
-      "title": "Jim Cramer Turned Out Right For This Particular AI Stock That’s Up Since Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T08:15:38+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
