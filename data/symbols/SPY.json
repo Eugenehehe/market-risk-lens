@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 762.07,
-    "change_pct": -0.290465660940209
+    "price": 760.88,
+    "change_pct": -0.4461657224351989
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T15:31:34.983263+00:00",
-      "close": 770.28
-    },
     {
       "timestamp": "2026-08-28T00:34:33.882656+00:00",
       "close": 771.1
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 762.07
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 760.88
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-14T17:45:52+00:00",
       "title": "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T17:05:22+00:00",
+      "title": "Open Your Eyes: The Energy Crisis Isn't Coming, It's Already Here",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-14T15:44:02+00:00",
       "title": "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T15:40:49+00:00",
-      "title": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

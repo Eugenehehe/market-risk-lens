@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 667.79,
-    "change_pct": 3.049241547459225
+    "price": 665.6,
+    "change_pct": 2.7112942302053966
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T15:31:34.983263+00:00",
-      "close": 570.76
-    },
     {
       "timestamp": "2026-08-28T00:34:33.882656+00:00",
       "close": 571.1
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 667.79
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 665.6
     }
   ],
   "events": [
@@ -554,16 +554,16 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T14:41:24+00:00",
-      "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
-      "source": "Yahoo",
+      "timestamp": "2026-09-14T15:22:03+00:00",
+      "title": "Meta Platforms: AI Spending Is Starting To Pay Off",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T14:24:44+00:00",
-      "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models",
+      "timestamp": "2026-09-14T14:41:24+00:00",
+      "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

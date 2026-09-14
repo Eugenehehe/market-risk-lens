@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 56.71,
-    "change_pct": -8.664841359317121
+    "price": 55.41,
+    "change_pct": -10.758576260267361
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T15:31:34.983263+00:00",
-      "close": 55.14
-    },
     {
       "timestamp": "2026-08-28T00:34:33.882656+00:00",
       "close": 54.41
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 56.71
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 55.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T18:05:01+00:00",
       "title": "These S&P500 stocks are the most active in today's session",
@@ -525,14 +533,6 @@
       "timestamp": "2026-09-14T16:53:00+00:00",
       "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T16:35:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

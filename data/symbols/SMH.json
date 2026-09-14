@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 545.21,
-    "change_pct": -4.101806413030085
+    "price": 541.5,
+    "change_pct": -4.754366524193965
   },
   "risk": {
-    "score": 68,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T15:31:34.983263+00:00",
-      "close": 568.51
-    },
     {
       "timestamp": "2026-08-28T00:34:33.882656+00:00",
       "close": 573
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 545.21
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 541.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T17:48:43+00:00",
+      "title": "QQQI: A Dull Market Is The One Regime This Strategy Can't Monetize",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T14:25:39+00:00",
+      "title": "The AI Labs Said Slow Down... The Market Sold Memory Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T12:46:00+00:00",
       "title": "Can Stocks Overcome These 3 Bearish Narratives?",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 347.47,
-    "change_pct": 2.649926144756276
+    "price": 349.39,
+    "change_pct": 3.2171344165435656
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 342
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 340.41
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 347.47
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 349.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T19:10:05+00:00",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T17:49:58+00:00",
       "title": "Sector Update: Consumer Stocks Advance Monday Afternoon",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-14T16:59:20+00:00",
       "title": "Can Palantir Deploy Fast Enough To Move Its Stock Higher?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T16:49:00+00:00",
-      "title": "The Winners and Losers in an AI Slowdown",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

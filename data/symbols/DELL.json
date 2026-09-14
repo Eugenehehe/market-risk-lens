@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 545.24,
-    "change_pct": -3.8869008796206472
+    "price": 534.28,
+    "change_pct": -5.818893334978581
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-27T04:39:38.733594+00:00",
-      "close": 463.82
-    },
     {
       "timestamp": "2026-08-27T15:31:34.983263+00:00",
       "close": 466.6
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 545.24
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 534.28
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-14T14:25:39+00:00",
+      "title": "The AI Labs Said Slow Down... The Market Sold Memory Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-14T14:19:00+00:00",
       "title": "Can SMCI Expand Its Market Opportunity With DCBBS and DLC?",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-14T14:04:18+00:00",
       "title": "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T13:33:00+00:00",
-      "title": "Oracle’s $664 billion backlog sends a signal to Dell, HPE",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

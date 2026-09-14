@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T18:33:02.397017+00:00",
+  "generated_at": "2026-09-14T22:00:41.389106+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 255,
-    "change_pct": -0.693200405015959
+    "price": 253.54,
+    "change_pct": -1.2617805125009651
   },
   "risk": {
-    "score": 56,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T23:27:23.476309+00:00",
-      "close": 260.28
-    },
     {
       "timestamp": "2026-08-27T04:39:38.733594+00:00",
       "close": 260.28
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-14T18:33:02.397017+00:00",
       "close": 255
+    },
+    {
+      "timestamp": "2026-09-14T22:00:41.389106+00:00",
+      "close": 253.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T19:10:05+00:00",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T17:49:58+00:00",
       "title": "Sector Update: Consumer Stocks Advance Monday Afternoon",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-14T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Monday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T16:09:53+00:00",
-      "title": "Amazon makes a major logistics move after Miami crash",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
