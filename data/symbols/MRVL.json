@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T23:12:49.838683+00:00",
+  "generated_at": "2026-09-14T01:09:39.004735+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 236.1,
     "change_pct": 4.0271413464927575
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T16:23:59.702185+00:00",
-      "close": 240.93
-    },
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 243.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 236.1
+    },
+    {
+      "timestamp": "2026-09-14T01:09:39.004735+00:00",
+      "close": 236.1
     }
   ],
   "events": [
@@ -556,14 +556,6 @@
     {
       "timestamp": "2026-09-12T04:03:05+00:00",
       "title": "IPG Photonics, Intel, Marvell Technology, Semtech, and Penguin Solutions Shares Are Soaring, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T23:04:22+00:00",
-      "title": "Marvell Is Winning Custom AI Business. TSMC May Be the Safer Way to Play It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

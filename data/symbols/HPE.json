@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T23:12:49.838683+00:00",
+  "generated_at": "2026-09-14T01:09:39.004735+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 62.09,
     "change_pct": 12.441144512857672
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T18:12:43.935453+00:00",
-      "close": 54.69
-    },
     {
       "timestamp": "2026-08-26T20:05:07.940470+00:00",
       "close": 55.22
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 62.09
+    },
+    {
+      "timestamp": "2026-09-14T01:09:39.004735+00:00",
+      "close": 62.09
     }
   ],
   "events": [
@@ -533,38 +533,6 @@
       "timestamp": "2026-09-12T08:15:38+00:00",
       "title": "What Moved Markets This Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T21:05:43+00:00",
-      "title": "Stock Market Today, Sept. 11: HPE Surges on AI Infrastructure Demand and Recently Raised Guidance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T20:49:23+00:00",
-      "title": "How Far Could Cisco Stock Swing On You As AI Networking Orders Grow?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T20:40:38+00:00",
-      "title": "What Did Dell Technologies Say Before Its Stock Quadrupled?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T20:10:43+00:00",
-      "title": "RBC Drops Jaw Dropping Price Target on Dell Stock",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T23:12:49.838683+00:00",
+  "generated_at": "2026-09-14T01:09:39.004735+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1698.3,
     "change_pct": 0.6441748694760552
   },
   "risk": {
-    "score": 50,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T18:12:43.935453+00:00",
-      "close": 1741.9
-    },
     {
       "timestamp": "2026-08-26T20:05:07.940470+00:00",
       "close": 1745.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 1698.3
+    },
+    {
+      "timestamp": "2026-09-14T01:09:39.004735+00:00",
+      "close": 1698.3
     }
   ],
   "events": [
@@ -525,22 +525,6 @@
       "timestamp": "2026-09-12T09:20:00+00:00",
       "title": "Warren Buffett Loves Wide Moats: 3 AI Infrastructure Stocks That Fit the Bill",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T11:15:00+00:00",
-      "title": "Baron Global Durable Advantage ETF Q2 2026 Portfolio Activity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T04:46:09+00:00",
-      "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

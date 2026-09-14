@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:12:49.838683+00:00",
+  "generated_at": "2026-09-14T01:09:39.004735+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 567.29,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T16:23:59.702185+00:00",
-      "close": 464.52
-    },
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 464.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 567.29
+    },
+    {
+      "timestamp": "2026-09-14T01:09:39.004735+00:00",
+      "close": 567.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-13T21:00:00+00:00",
+      "title": "Nvidia Gets the AI Hype. Dell Gets the Billionaire Fortune",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-13T11:40:55+00:00",
       "title": "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-12T11:00:00+00:00",
       "title": "MarketBeat Week in Review – 09/07 - 09/11",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T10:58:14+00:00",
-      "title": "Jim Cramer Compares Dell (DELL) to Dallas Cowboys Star CeeDee Lamb",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:12:49.838683+00:00",
+  "generated_at": "2026-09-14T01:09:39.004735+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 150.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T16:23:59.702185+00:00",
-      "close": 147.77
-    },
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 147.98
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 150.28
+    },
+    {
+      "timestamp": "2026-09-14T01:09:39.004735+00:00",
+      "close": 150.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-13T22:20:00+00:00",
+      "title": "Down 50% Over the Past Year, Is It Time to Back Up the Truck and Buy Oracle Stock as Revenue Surges?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-13T20:49:38+00:00",
       "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-12T22:50:25+00:00",
       "title": "Larry Ellison Cancels Plan to Sell 50 Million ORCL Shares Worth $7.5 Billion",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-12T21:20:00+00:00",
-      "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

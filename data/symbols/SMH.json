@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T23:12:49.838683+00:00",
+  "generated_at": "2026-09-14T01:09:39.004735+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 568.53,
     "change_pct": 1.4724780466909504
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T18:12:43.935453+00:00",
-      "close": 555.35
-    },
     {
       "timestamp": "2026-08-26T20:05:07.940470+00:00",
       "close": 555.77
@@ -502,58 +498,13 @@
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 568.53
+    },
+    {
+      "timestamp": "2026-09-14T01:09:39.004735+00:00",
+      "close": 568.53
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-09-11T21:55:31+00:00",
-      "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T12:53:39+00:00",
-      "title": "S&P 500 Snaps 4-Day Decline as Oil Cools, Dell Jumps 11%: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T11:28:20+00:00",
-      "title": "Iran War, Inflation Fears Trigger $40 Billion Large-Cap Exodus — But VOO, QQQ Buck the Trend",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T11:11:07+00:00",
-      "title": "Easing Oil Bills, Tech Optimism Lift Wall Street Pre-Bell, Asia off, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T06:52:25+00:00",
-      "title": "AI Demand Keeps Breaking Records at Taiwan Semiconductor",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-11T04:46:09+00:00",
-      "title": "Buy Hardware, Sell Software: Pricing Power Picks The Winner",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
