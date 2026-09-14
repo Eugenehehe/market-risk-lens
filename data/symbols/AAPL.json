@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:09:39.004735+00:00",
+  "generated_at": "2026-09-14T06:17:05.471804+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 332.27,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T16:23:59.702185+00:00",
-      "close": 313.28
-    },
     {
       "timestamp": "2026-08-26T18:12:43.935453+00:00",
       "close": 312.96
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-14T01:09:39.004735+00:00",
       "close": 332.27
+    },
+    {
+      "timestamp": "2026-09-14T06:17:05.471804+00:00",
+      "close": 332.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T01:56:04+00:00",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T01:44:47+00:00",
+      "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-13T23:53:17+00:00",
       "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-13T19:39:26+00:00",
       "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-13T17:47:00+00:00",
-      "title": "Apple CEO rejects biggest fear over iPhone Duo launch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-13T17:36:00+00:00",
-      "title": "Warren Buffett Made Apple Berkshire Hathaway's Single Largest Stock Position: $10,000 Invested 10 Years Ago Would Be Worth Roughly $122,400 Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

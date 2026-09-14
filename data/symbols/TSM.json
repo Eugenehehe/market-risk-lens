@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T01:09:39.004735+00:00",
+  "generated_at": "2026-09-14T06:17:05.471804+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 433.24,
     "change_pct": 1.2172044015606565
   },
   "risk": {
-    "score": 56,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-26T20:05:07.940470+00:00",
-      "close": 417.69
-    },
     {
       "timestamp": "2026-08-26T23:27:23.476309+00:00",
       "close": 417.69
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-14T01:09:39.004735+00:00",
       "close": 433.24
+    },
+    {
+      "timestamp": "2026-09-14T06:17:05.471804+00:00",
+      "close": 433.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T00:46:01+00:00",
+      "title": "Amazon and 2 Other AI Stocks to Buy With $5,000",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-13T15:17:11+00:00",
+      "title": "Robots Everywhere: Goldman Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-13T15:00:00+00:00",
       "title": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
