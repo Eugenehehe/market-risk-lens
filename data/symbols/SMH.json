@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T14:59:09.745002+00:00",
+  "generated_at": "2026-09-15T18:53:01.694837+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 542.53,
-    "change_pct": 0.19021237303784577
+    "price": 541.01,
+    "change_pct": -0.09048938134811335
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T10:28:05.401903+00:00",
-      "close": 553.11
-    },
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 553.11
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-15T14:59:09.745002+00:00",
       "close": 542.53
+    },
+    {
+      "timestamp": "2026-09-15T18:53:01.694837+00:00",
+      "close": 541.01
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-15T03:52:41+00:00",
+      "title": "Beyond Nvidia: Why Software Stocks Just Crushed Semiconductors in a Historic 25-Year Shift",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-15T00:38:54+00:00",
       "title": "Bond Yields Near 5% as ETF Investors Keep Buying",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-14T17:48:43+00:00",
       "title": "QQQI: A Dull Market Is The One Regime This Strategy Can't Monetize",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T15:58:49+00:00",
-      "title": "Trump Calls AI Backlash a ‘Sick Conspiracy.’ China Is the Only One Happy, He Says",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
