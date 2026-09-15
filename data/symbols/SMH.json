@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-14T22:00:41.389106+00:00",
+  "generated_at": "2026-09-15T00:29:37.760424+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 541.5,
     "change_pct": -4.754366524193965
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T00:34:33.882656+00:00",
-      "close": 573
-    },
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 573
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-14T22:00:41.389106+00:00",
       "close": 541.5
+    },
+    {
+      "timestamp": "2026-09-15T00:29:37.760424+00:00",
+      "close": 541.5
     }
   ],
   "events": [
@@ -530,6 +530,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-14T11:11:50+00:00",
+      "title": "AI, Oil, Bond Yield Concerns Damp Wall Street Pre-Bell; Asia, Europe Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-14T11:06:36+00:00",
       "title": "Forget An AI Slowdown, I'm Worried About A Double Hawk Instead",
       "source": "SeekingAlpha",
@@ -541,6 +549,14 @@
       "timestamp": "2026-09-14T10:24:12+00:00",
       "title": "AI's 'Slowdown' Fear Is A Gift",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T10:20:02+00:00",
+      "title": "Should You Invest in the VanEck Semiconductor ETF (SMH)?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

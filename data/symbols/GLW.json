@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:00:41.389106+00:00",
+  "generated_at": "2026-09-15T00:29:37.760424+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 143.6,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T00:34:33.882656+00:00",
-      "close": 152.8
-    },
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 152.8
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-14T22:00:41.389106+00:00",
       "close": 143.6
+    },
+    {
+      "timestamp": "2026-09-15T00:29:37.760424+00:00",
+      "close": 143.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T20:52:46+00:00",
+      "title": "US Equity Markets End Lower as 10-Year Yield Tops 5%, Oil Advances",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T19:41:44+00:00",
+      "title": "Why Corning Plunged Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T19:05:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-14T14:07:00+00:00",
       "title": "Wall Street Lunch: Tesla's Roadster Could Be Ready To Take Flight",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T12:47:36+00:00",
-      "title": "Corning: AI-Slowdown Fears, Equity Distribution News Hit Hard, EPS Growth Remains",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T12:35:00+00:00",
-      "title": "These S&P500 stocks are moving in today's pre-market session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
