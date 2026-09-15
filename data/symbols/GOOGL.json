@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 349.39,
-    "change_pct": 3.2171344165435656
+    "price": 344.46,
+    "change_pct": -1.4110306534245387
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T22:21:49.978842+00:00",
-      "close": 346.59
-    },
     {
       "timestamp": "2026-08-29T03:46:09.750468+00:00",
       "close": 346.59
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 349.39
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 344.46
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-15T09:06:43+00:00",
-      "title": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T07:08:35+00:00",
-      "title": "Worldline launches UCP payment handler for agentic commerce payments",
+      "timestamp": "2026-09-15T12:37:54+00:00",
+      "title": "Latest News In Cloud AI - Bitdeer AI Expands With New AI Cloud Data Center",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T04:35:00+00:00",
-      "title": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
+      "timestamp": "2026-09-15T12:35:00+00:00",
+      "title": "2 Stocks That Will Cash In When Anthropic Goes Public",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T03:07:00+00:00",
-      "title": "YouTube TV just gave subscribers a reason to look elsewhere",
+      "timestamp": "2026-09-15T12:19:42+00:00",
+      "title": "Cathie Wood Makes Striking Switch Between AI Stock Giants",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T03:00:00+00:00",
-      "title": "Asia is leading the Agentic revolution by helping SMBs. What organizations around the world can learn.",
+      "timestamp": "2026-09-15T12:05:00+00:00",
+      "title": "Palantir's CEO Revealed the Biggest Opportunity in Its Future. And It Has Little to Do with AI Models",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T00:22:09+00:00",
-      "title": "Does Snap’s New CCO Shift Signal a Deeper Pivot in Its Ad Strategy Narrative (SNAP)?",
+      "timestamp": "2026-09-15T12:00:43+00:00",
+      "title": "Fifty-Five Analysts Cover Meta and None Say Sell",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T22:16:01+00:00",
-      "title": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
+      "timestamp": "2026-09-15T11:35:00+00:00",
+      "title": "The AI Company You Haven't Heard of -- But Should Keep on Your Radar",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T21:29:46+00:00",
-      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+      "timestamp": "2026-09-15T11:30:00+00:00",
+      "title": "Planted Raises $31.8 Million to Accelerate Autonomous Power Deployment",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T10:35:00+00:00",
+      "title": "Alphabet May Have Just Gotten Its Biggest Competitor Yet. And It's Not OpenAI or Anthropic.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 333.08,
-    "change_pct": 0.24377765070575652
+    "price": 330.17,
+    "change_pct": -0.8736639846283034
   },
   "risk": {
-    "score": 52,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T12:11:09.620314+00:00",
-      "close": 314.58
-    },
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 319.7
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 333.08
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 330.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T13:05:00+00:00",
+      "title": "Cloudflare Helps End the Search-or-AI-Training Tradeoff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T09:40:00+00:00",
+      "title": "Apple’s Outstanding Comedy Widow’s Bay triumphs as the most decorated freshman comedy in Emmy history and Apple TV leads as the most awarded network at the 78th Primetime Emmy Awards",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T09:36:44+00:00",
+      "title": "Apple: The New iPhone Cycle Cannot Justify This Valuation",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T06:55:18+00:00",
+      "title": "Gene Munster Says iPhone 18 Pre-Order Wait Times Are Climbing, Calls It a 'Favorable Sign for Demand'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T05:27:40+00:00",
+      "title": "Apple Gives Siri AI Makeover With iOS 27, Caps Usage; Gene Munster Flags 'Way to Long, 5-15 Seconds' Response Time",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T04:11:25+00:00",
       "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-14T21:04:54+00:00",
       "title": "Maryland Seeks To Reinstate Digital Ad Tax",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T20:56:20+00:00",
-      "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T18:21:10+00:00",
-      "title": "Apple's Siri Upgrade Does Not Require Every User to Buy Another iPhone",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T18:05:01+00:00",
-      "title": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T18:05:00+00:00",
-      "title": "Jamf Announces Same-Day Support For macOS Golden Gate 27, iOS 27 And Other OS 27 Releases",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T17:30:28+00:00",
-      "title": "Apple Duo Foldable iPhone a ‘Must Have Product,’ Gary Black Says ‘Don’t Underestimate the Power of the $AAPL Marketing Machine’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

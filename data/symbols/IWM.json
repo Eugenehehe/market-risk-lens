@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 287.91,
-    "change_pct": -0.3392294645020444
+    "price": 284.35,
+    "change_pct": -1.2364975165850445
   },
   "risk": {
-    "score": 53,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T03:46:09.750468+00:00",
-      "close": 295.75
-    },
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 295.75
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 287.91
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 284.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T13:18:06+00:00",
+      "title": "Breadth Weakens Again, but the Broader Trend Remains Neutral With a Negative Bias",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T09:48:00+00:00",
+      "title": "BRICS Just Voted To De-Dollarize, The Dollar Went Up",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T08:30:00+00:00",
+      "title": "A-Shares Search For Bottom As Broad Market Exposure Gains Appeal",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T08:30:00+00:00",
+      "title": "China Lost 19-1: The Trump-Xi Meeting Could Test A New Alignment",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T03:40:00+00:00",
       "title": "Global PMI Hint At Stubborn Inflation Amid Energy And Supply Chain Pressures",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-14T23:50:00+00:00",
       "title": "Finding Value Opportunities Among Highly Rated Stocks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T18:15:45+00:00",
-      "title": "The Fed May Be Forced Into An Irrelevant Hike",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T17:05:22+00:00",
-      "title": "Open Your Eyes: The Energy Crisis Isn't Coming, It's Already Here",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:45:00+00:00",
-      "title": "EM Equities: Back To Overweight",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:25:39+00:00",
-      "title": "The AI Labs Said Slow Down... The Market Sold Memory Stocks",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

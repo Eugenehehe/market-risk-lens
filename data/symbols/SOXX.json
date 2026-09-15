@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 497.4,
-    "change_pct": -5.629233308668691
+    "price": 499.23,
+    "change_pct": 0.3679131483715459
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T03:46:09.750468+00:00",
-      "close": 508.62
-    },
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 508.62
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 497.4
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 499.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T11:11:13+00:00",
+      "title": "Broadcom CEO Hock Tan defends $230B AI chip revenue target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T09:28:31+00:00",
+      "title": "Sam Altman’s AI Nightmare Splits ETF Trade: Build Vs. Control",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T08:30:00+00:00",
+      "title": "A-Shares Search For Bottom As Broad Market Exposure Gains Appeal",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T07:41:16+00:00",
+      "title": "Why AI Executives Might Actually Want To Slow The Arms Race",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T06:49:24+00:00",
+      "title": "Anthropic And OpenAI: \"Pacing The Frontier\" Or Running Out Of Steps?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T06:15:08+00:00",
+      "title": "AI Fears Hammer Chip Stocks, but Broadcom CEO Says Demand Isn’t Cracking",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T20:02:02+00:00",
       "title": "AI Stocks Tumble, Software Soars as Doomsday Warnings Ripple Through Market",
@@ -517,54 +565,6 @@
       "timestamp": "2026-09-14T19:08:56+00:00",
       "title": "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You’re Missing Out On",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T16:43:30+00:00",
-      "title": "Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T16:06:19+00:00",
-      "title": "Most of the Market Is Rising Despite AI Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:52:29+00:00",
-      "title": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:09:55+00:00",
-      "title": "Why Pacing The Frontier 'AI' Won't Work",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T13:23:34+00:00",
-      "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T10:24:12+00:00",
-      "title": "AI's 'Slowdown' Fear Is A Gift",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

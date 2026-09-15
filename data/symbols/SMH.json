@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 541.5,
-    "change_pct": -4.754366524193965
+    "price": 542.53,
+    "change_pct": 0.19021237303784577
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T03:46:09.750468+00:00",
-      "close": 553.11
-    },
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 553.11
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 541.5
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 542.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T11:07:15+00:00",
+      "title": "Rising Bond Yields, Oil Prices Depress Wall Street Pre-Bell; Asia, Europe Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T08:30:00+00:00",
+      "title": "A-Shares Search For Bottom As Broad Market Exposure Gains Appeal",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T07:41:16+00:00",
+      "title": "Why AI Executives Might Actually Want To Slow The Arms Race",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T06:49:24+00:00",
+      "title": "Anthropic And OpenAI: \"Pacing The Frontier\" Or Running Out Of Steps?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T00:38:54+00:00",
       "title": "Bond Yields Near 5% as ETF Investors Keep Buying",
@@ -530,41 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T14:25:39+00:00",
-      "title": "The AI Labs Said Slow Down... The Market Sold Memory Stocks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T12:46:00+00:00",
-      "title": "Can Stocks Overcome These 3 Bearish Narratives?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T11:11:50+00:00",
-      "title": "AI, Oil, Bond Yield Concerns Damp Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T11:06:36+00:00",
-      "title": "Forget An AI Slowdown, I'm Worried About A Double Hawk Instead",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T10:24:12+00:00",
-      "title": "AI's 'Slowdown' Fear Is A Gift",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-14T15:58:49+00:00",
+      "title": "Trump Calls AI Backlash a ‘Sick Conspiracy.’ China Is the Only One Happy, He Says",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.79,
-    "change_pct": -3.6531807293053054
+    "price": 143.33,
+    "change_pct": -1.00835693072725
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T22:21:49.978842+00:00",
-      "close": 150.85
-    },
     {
       "timestamp": "2026-08-29T03:46:09.750468+00:00",
       "close": 150.85
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 144.79
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 143.33
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-15T11:07:44+00:00",
+      "title": "Jim Cramer Said This AI Stock Has A Clever Technology Chief",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T10:05:00+00:00",
+      "title": "Oracle Stock Sank After Earnings -- Is It a Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T09:10:54+00:00",
+      "title": "Why Is ORCL Stock Slipping Premarket?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-15T09:06:43+00:00",
       "title": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T08:10:39+00:00",
+      "title": "Oracle: OpenAI Could Walk Away",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-14T21:53:54+00:00",
       "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T21:29:46+00:00",
-      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T21:04:28+00:00",
-      "title": "AI Stocks Tumble, Frontier Lab Execs Call for AI Slowdown, and Ellison Pulls the Plug on 50M ORCL Sale",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T20:39:07+00:00",
-      "title": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T20:00:00+00:00",
-      "title": "Rimini Street and Datacom Announce Strategic Partnership to Accelerate AI Adoption and Drive IT Optimisation Across ANZ",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

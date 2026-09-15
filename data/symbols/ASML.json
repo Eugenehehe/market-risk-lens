@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1575.15,
-    "change_pct": -7.251369016074893
+    "price": 1581,
+    "change_pct": 0.37139320064754067
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T03:46:09.750468+00:00",
-      "close": 1696.16
-    },
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 1696.16
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 1575.15
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 1581
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T11:00:49+00:00",
+      "title": "Lam Research Vs. Applied Materials: Who Actually Helps ASML Share Prices Rise Higher?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T09:45:34+00:00",
+      "title": "Chip Stocks Mixed After Monday Rout",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T04:00:00+00:00",
       "title": "EUCLYD Raises Over €200 Million to Break the AI Efficiency Wall",
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T15:12:19+00:00",
-      "title": "Europe’s AI Trade Hits Reverse",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:52:29+00:00",
-      "title": "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:24:44+00:00",
-      "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models",
-      "source": "Yahoo",
+      "timestamp": "2026-09-14T15:24:46+00:00",
+      "title": "Billionaire Investor Adds To ASML, Exits Rivals KLA and Lam — Plus Nvidia, Broadcom",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 344.72,
-    "change_pct": -4.7708500234813105
+    "price": 341.34,
+    "change_pct": -0.980505917846386
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T22:21:49.978842+00:00",
-      "close": 368.79
-    },
     {
       "timestamp": "2026-08-29T03:46:09.750468+00:00",
       "close": 368.79
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 344.72
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 341.34
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-15T09:06:43+00:00",
-      "title": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
+      "timestamp": "2026-09-15T12:39:02+00:00",
+      "title": "Broadcom CEO Sends Urgent Message on AI Slowdown Fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T12:26:58+00:00",
+      "title": "Broadcom’s Real Constraint Isn’t Demand. It’s Supply.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T12:08:55+00:00",
+      "title": "AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T11:30:11+00:00",
+      "title": "Should you buy the SOX pullback? Citi weighs in",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T11:11:13+00:00",
+      "title": "Broadcom CEO Hock Tan defends $230B AI chip revenue target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T11:00:47+00:00",
+      "title": "Broadcom (NASDAQ:AVGO): Dividend Quality and Growth for Income Investors",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T06:05:00+00:00",
-      "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
-      "source": "Yahoo",
+      "timestamp": "2026-09-15T09:28:31+00:00",
+      "title": "Sam Altman’s AI Nightmare Splits ETF Trade: Build Vs. Control",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T03:16:31+00:00",
-      "title": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T02:56:26+00:00",
-      "title": "Marvell Technology: Qualcomm Just Entered Its AWS Territory, But The Buy Case Still Holds",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T23:27:00+00:00",
-      "title": "3 Stocks That Offer AI Exposure and Dividends",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T21:00:15+00:00",
-      "title": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T19:49:45+00:00",
-      "title": "Broadcom buys its Irvine office building",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T19:09:09+00:00",
-      "title": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
-      "source": "Yahoo",
+      "timestamp": "2026-09-15T09:06:43+00:00",
+      "title": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

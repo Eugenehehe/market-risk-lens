@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T10:08:19.483383+00:00",
+  "generated_at": "2026-09-15T14:59:09.745002+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 210.96,
-    "change_pct": -3.3579183654771083
+    "price": 212.39,
+    "change_pct": 0.6778536215396258
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T22:21:49.978842+00:00",
-      "close": 217.55
-    },
     {
       "timestamp": "2026-08-29T03:46:09.750468+00:00",
       "close": 217.55
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 210.96
+    },
+    {
+      "timestamp": "2026-09-15T14:59:09.745002+00:00",
+      "close": 212.39
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-15T09:06:43+00:00",
-      "title": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T07:48:00+00:00",
-      "title": "3 Top Stocks Poised to Capitalize on the AI Infrastructure Boom",
+      "timestamp": "2026-09-15T13:06:00+00:00",
+      "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T07:39:00+00:00",
-      "title": "NuScale Power Is Closing In on a Deal That Could Transform the Small Modular Reactor Industry",
+      "timestamp": "2026-09-15T13:00:00+00:00",
+      "title": "Vertical Data Secures $192 Million AI Infrastructure Commitment for Global AI Developer",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T07:31:01+00:00",
-      "title": "Is a Sandisk Stock Split Coming?",
+      "timestamp": "2026-09-15T12:52:18+00:00",
+      "title": "Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T07:05:00+00:00",
-      "title": "80 Years of History Warn What a September Rate Hike Could Mean for Stocks",
+      "timestamp": "2026-09-15T12:48:23+00:00",
+      "title": "Hedge Fund That Nearly Collapsed Bets Big on AMD Again",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T06:05:00+00:00",
-      "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+      "timestamp": "2026-09-15T12:37:56+00:00",
+      "title": "Anthropic moving forward with $2 trillion IPO on Nasdaq",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T05:27:02+00:00",
-      "title": "Arm Stock Is Down More Than 40%. Here's Why I'm Staying on the Sidelines.",
+      "timestamp": "2026-09-15T12:35:00+00:00",
+      "title": "2 Stocks That Will Cash In When Anthropic Goes Public",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T04:35:00+00:00",
-      "title": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
+      "timestamp": "2026-09-15T12:32:00+00:00",
+      "title": "How Deep Does the AI Doom and Gloom Run? ‘We Don’t Know’ Is the Only Sure Answer.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T12:30:05+00:00",
+      "title": "What Will $5,000 Invested in Nvidia Stock Be Worth in 5 Years?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
