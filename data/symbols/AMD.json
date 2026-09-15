@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T18:53:01.694837+00:00",
+  "generated_at": "2026-09-15T21:53:25.608730+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 503.02,
-    "change_pct": 1.947670294481263
+    "price": 504.2,
+    "change_pct": 2.1868223181532587
   },
   "risk": {
-    "score": 66,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T10:28:05.401903+00:00",
-      "close": 465.58
-    },
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 465.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 503.02
+    },
+    {
+      "timestamp": "2026-09-15T21:53:25.608730+00:00",
+      "close": 504.2
     }
   ],
   "events": [
@@ -514,9 +514,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-15T17:38:41+00:00",
+      "title": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-15T17:00:43+00:00",
       "title": "Prediction: AMD Could Be Closing the Gap in the AI Chip Race",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T16:35:04+00:00",
+      "title": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-15T14:23:03+00:00",
       "title": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory – AMD, Intel To Validate New Server Technology",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T14:15:00+00:00",
-      "title": "AMD's Recent Surge Still Matters: Putting These ETFs in Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T13:48:00+00:00",
-      "title": "Micron vs. AMD: Which AI Chip Stock Is the Better Investment Bet?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

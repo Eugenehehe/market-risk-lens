@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T18:53:01.694837+00:00",
+  "generated_at": "2026-09-15T21:53:25.608730+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 543.06,
-    "change_pct": 1.6433330837762883
+    "price": 543.51,
+    "change_pct": 1.7275585835142548
   },
   "risk": {
     "score": 64,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T10:28:05.401903+00:00",
-      "close": 456.24
-    },
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 456.24
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 543.06
+    },
+    {
+      "timestamp": "2026-09-15T21:53:25.608730+00:00",
+      "close": 543.51
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-15T16:57:22+00:00",
       "title": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T16:35:04+00:00",
+      "title": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-15T15:28:00+00:00",
+      "title": "Harbor PanAgora Dynamic Large Cap Core ETF Q2 2026 Portfolio Review",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-15T15:27:09+00:00",
       "title": "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-15T15:06:00+00:00",
       "title": "Penguin Edge Wind-Down Pressures Revenue: Can AI Drive PENG's Growth?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T15:01:46+00:00",
-      "title": "Would You Still Want Dell If The AI Orders Slowed?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T14:47:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights United Health, Dell Technologies and The Goldman Sachs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

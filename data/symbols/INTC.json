@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T18:53:01.694837+00:00",
+  "generated_at": "2026-09-15T21:53:25.608730+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 96.78,
-    "change_pct": -0.42185410021606806
+    "price": 97.14,
+    "change_pct": -0.05144562197756386
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T10:28:05.401903+00:00",
-      "close": 89.47
-    },
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 89.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 96.78
+    },
+    {
+      "timestamp": "2026-09-15T21:53:25.608730+00:00",
+      "close": 97.14
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-15T18:00:00+00:00",
       "title": "Tuesday's session: most active stocks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T17:38:41+00:00",
+      "title": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T15:27:00+00:00",
-      "title": "AI Doom Is Viral and Alarming. The Big Lesson for the Stock Market.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T15:00:00+00:00",
-      "title": "DeSalvo Leads Americas' Growth For Perion",
-      "source": "Yahoo",
+      "timestamp": "2026-09-15T15:28:00+00:00",
+      "title": "Harbor PanAgora Dynamic Large Cap Core ETF Q2 2026 Portfolio Review",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

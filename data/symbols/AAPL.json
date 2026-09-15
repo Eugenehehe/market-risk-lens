@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T18:53:01.694837+00:00",
+  "generated_at": "2026-09-15T21:53:25.608730+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 330.26,
-    "change_pct": -0.846643449021256
+    "price": 331.34,
+    "change_pct": -0.5223970217365204
   },
   "risk": {
-    "score": 57,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T03:46:09.750468+00:00",
-      "close": 319.7
-    },
     {
       "timestamp": "2026-08-29T10:28:05.401903+00:00",
       "close": 319.7
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 330.26
+    },
+    {
+      "timestamp": "2026-09-15T21:53:25.608730+00:00",
+      "close": 331.34
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-15T17:49:00+00:00",
       "title": "Apple Stock: New CEO, Foldable iPhone-Time to Buy the Dip?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T17:38:41+00:00",
+      "title": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-15T14:10:00+00:00",
       "title": "Wall Street Lunch: AI Regulation Hopes Fade After Trump Calls AI Concerns A 'Hoax'",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T13:51:49+00:00",
-      "title": "Apple: The iPhone Duo Holds The Key To China's Recovery",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

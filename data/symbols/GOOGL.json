@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T18:53:01.694837+00:00",
+  "generated_at": "2026-09-15T21:53:25.608730+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 344.02,
-    "change_pct": -1.5369644237098967
+    "price": 344.98,
+    "change_pct": -1.2621998339963802
   },
   "risk": {
-    "score": 63,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T10:28:05.401903+00:00",
-      "close": 346.59
-    },
     {
       "timestamp": "2026-08-29T15:15:28.979314+00:00",
       "close": 346.59
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 344.02
+    },
+    {
+      "timestamp": "2026-09-15T21:53:25.608730+00:00",
+      "close": 344.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T19:10:06+00:00",
+      "title": "Discover which dow jones stocks are making waves on Tuesday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T17:49:00+00:00",
       "title": "Apple Stock: New CEO, Foldable iPhone-Time to Buy the Dip?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-15T16:40:05+00:00",
       "title": "Uncover the latest developments among dow jones stocks in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T16:37:29+00:00",
-      "title": "Alibaba’s (BABA) Short-Term Capex Drag Creates a 30% Valuation Discount",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

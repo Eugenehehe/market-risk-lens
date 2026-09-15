@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T18:53:01.694837+00:00",
+  "generated_at": "2026-09-15T21:53:25.608730+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 757.03,
-    "change_pct": -0.5059930606665985
+    "price": 757.39,
+    "change_pct": -0.458679423825048
   },
   "risk": {
-    "score": 55,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T15:15:28.979314+00:00",
-      "close": 769.35
-    },
     {
       "timestamp": "2026-08-29T18:37:42.465122+00:00",
       "close": 769.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 757.03
+    },
+    {
+      "timestamp": "2026-09-15T21:53:25.608730+00:00",
+      "close": 757.39
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-15T17:52:10+00:00",
       "title": "Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T17:22:50+00:00",
+      "title": "Why 6% Inflation Is Possible By November",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-15T16:35:04+00:00",
+      "title": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-15T16:08:48+00:00",
       "title": "12 Investment Must Reads for This Week (Sept. 15, 2026)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T16:03:15+00:00",
-      "title": "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T15:59:53+00:00",
-      "title": "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
