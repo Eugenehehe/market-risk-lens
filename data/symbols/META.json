@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:29:37.760424+00:00",
+  "generated_at": "2026-09-15T05:13:20.611407+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 665.6,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T12:11:09.620314+00:00",
-      "close": 571.1
-    },
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 578.02
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-15T00:29:37.760424+00:00",
       "close": 665.6
+    },
+    {
+      "timestamp": "2026-09-15T05:13:20.611407+00:00",
+      "close": 665.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T22:09:45+00:00",
+      "title": "Megaprojects: A Cross-Sector Industrial Capex Cycle",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T21:29:46+00:00",
       "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-14T18:39:00+00:00",
       "title": "Meta Gains - But Its 12-Point Margin Slide Still Demands Answers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T16:53:00+00:00",
-      "title": "Alger Russell Innovation Index Updates for Third Quarter 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

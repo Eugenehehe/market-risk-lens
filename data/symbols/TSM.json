@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T00:29:37.760424+00:00",
+  "generated_at": "2026-09-15T05:13:20.611407+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 418.01,
     "change_pct": -3.5153725417782278
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T12:11:09.620314+00:00",
-      "close": 427.3
-    },
     {
       "timestamp": "2026-08-28T22:21:49.978842+00:00",
       "close": 417.52
@@ -502,44 +498,72 @@
     {
       "timestamp": "2026-09-15T00:29:37.760424+00:00",
       "close": 418.01
+    },
+    {
+      "timestamp": "2026-09-15T05:13:20.611407+00:00",
+      "close": 418.01
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-14T12:19:00+00:00",
-      "title": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
+      "timestamp": "2026-09-14T22:09:45+00:00",
+      "title": "Megaprojects: A Cross-Sector Industrial Capex Cycle",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-14T00:46:01+00:00",
-      "title": "Amazon and 2 Other AI Stocks to Buy With $5,000",
+      "timestamp": "2026-09-14T20:37:00+00:00",
+      "title": "5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T15:17:11+00:00",
-      "title": "Robots Everywhere: Goldman Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
+      "timestamp": "2026-09-14T18:17:46+00:00",
+      "title": "ASML Drops 5.4% as Customers Prepare for $400 Million Machines",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T15:00:00+00:00",
-      "title": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-14T17:18:39+00:00",
+      "title": "TSMC Falls 3.3% as Its 2028 Chip Roadmap Precedes High-NA Adoption",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-13T11:05:00+00:00",
-      "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027",
+      "timestamp": "2026-09-14T16:15:19+00:00",
+      "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T13:00:00+00:00",
+      "title": "Alchip Technologies Showcases Advanced ASIC Design and Packaging at AI Infra Summit 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T13:00:00+00:00",
+      "title": "GSME Joined TSMC OIP Value Chain Alliance in North America",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-14T12:45:00+00:00",
+      "title": "Buy These 5 Top-Ranked Wide Moat Stocks to Strengthen Your Portfolio",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

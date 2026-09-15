@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:29:37.760424+00:00",
+  "generated_at": "2026-09-15T05:13:20.611407+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 218.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T00:34:33.882656+00:00",
-      "close": 241.45
-    },
     {
       "timestamp": "2026-08-28T12:11:09.620314+00:00",
       "close": 241.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-15T00:29:37.760424+00:00",
       "close": 218.82
+    },
+    {
+      "timestamp": "2026-09-15T05:13:20.611407+00:00",
+      "close": 218.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-14T23:55:30+00:00",
+      "title": "Applied Materials, Lam Research, Monolithic Power Systems, Marvell Technology, and MACOM Shares Are Falling, What You Need To Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T19:09:20+00:00",
       "title": "Marvell stock plunges as a new threat hits the AI trade",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-14T14:29:00+00:00",
       "title": "ADI's Communications Segment Surges on AI Demand: What's Ahead?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T14:25:00+00:00",
-      "title": "Pre-Markets Lower on AI Concerns, Iran War",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
