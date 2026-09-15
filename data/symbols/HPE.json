@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:13:20.611407+00:00",
+  "generated_at": "2026-09-15T10:08:19.483383+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 55.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-28T22:21:49.978842+00:00",
-      "close": 52.31
-    },
     {
       "timestamp": "2026-08-29T03:46:09.750468+00:00",
       "close": 52.31
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-15T05:13:20.611407+00:00",
       "close": 55.41
+    },
+    {
+      "timestamp": "2026-09-15T10:08:19.483383+00:00",
+      "close": 55.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-15T09:06:43+00:00",
+      "title": "Wall Street Sells the AI-Pause Weekend as Brent Punches Through $106 and the Ten-Year Cracks 5% for the First Time Since 2023",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-14T23:39:30+00:00",
       "title": "Why Hewlett Packard Enterprise (HPE) Shares Are Trading Lower Today",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-14T19:12:36+00:00",
       "title": "Should You Buy SanDisk Stock Because It Has Started Retiring Its Own Shares?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-14T19:05:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
