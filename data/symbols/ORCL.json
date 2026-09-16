@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:55:20.652892+00:00",
+  "generated_at": "2026-09-16T03:44:07.999144+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 140.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T18:37:42.465122+00:00",
-      "close": 150.85
-    },
     {
       "timestamp": "2026-08-29T21:12:57.865286+00:00",
       "close": 150.85
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-15T23:55:20.652892+00:00",
       "close": 140.35
+    },
+    {
+      "timestamp": "2026-09-16T03:44:07.999144+00:00",
+      "close": 140.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T00:18:12+00:00",
+      "title": "Oracle (ORCL) Introduced Java 27 With Post Quantum Cryptography",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T22:07:00+00:00",
+      "title": "Larry Ellison makes $7.5 billion surprise call on Oracle stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T21:00:28+00:00",
       "title": "Oracle Drops as Its $664 Billion Backlog Meets Reality",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-15T18:05:00+00:00",
       "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T17:48:39+00:00",
-      "title": "Should You Buy Adobe Stock At $260?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T15:44:14+00:00",
-      "title": "WAY Stock Surges On Reported Sale Buzz — RBC Flags This Tech Giant As The ‘Obvious First Name’",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
