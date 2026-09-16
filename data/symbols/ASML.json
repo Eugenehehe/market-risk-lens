@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1609.38,
-    "change_pct": 1.1247392364340136
+    "price": 1602.5,
+    "change_pct": 0.6924372282403723
   },
   "risk": {
-    "score": 59,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 1696.16
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 1696.16
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 1609.38
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 1602.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T15:11:00+00:00",
+      "title": "ASML Holding (ASML) Faces Fresh Questions Over Future AI Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T13:40:11+00:00",
+      "title": "ASML Vs. Taiwan Semiconductor Manufacturing: One Is More Misunderstood",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T11:45:01+00:00",
       "title": "ASML vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy in 2026?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-15T19:30:16+00:00",
       "title": "ASML Gains as a 110-Machine Bottleneck Defines 2028",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T17:38:41+00:00",
-      "title": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T14:34:06+00:00",
-      "title": "ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 518.67,
-    "change_pct": 2.8698928996429895
+    "price": 521.03,
+    "change_pct": 3.337961126537081
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T01:23:48.089825+00:00",
-      "close": 465.58
-    },
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 465.58
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 518.67
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 521.03
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-16T09:23:48+00:00",
-      "title": "Celestica: The Market Just Handed Investors An $11 Billion Gift",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-16T16:35:00+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T07:24:37+00:00",
-      "title": "2 S&P 500 Stocks for Long-Term Investors and 1 Facing Challenges",
+      "timestamp": "2026-09-16T15:11:39+00:00",
+      "title": "OpenAI’s CFO Just Explained Why Nvidia Is No Longer the Only Option",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T03:50:56+00:00",
-      "title": "AMDW: Advanced Micro Devices' Growth Thesis Is Compelling, The ETF's Structure Is Not",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T03:07:00+00:00",
-      "title": "Bank of America makes bold chip call after AI sell-off",
+      "timestamp": "2026-09-16T15:00:34+00:00",
+      "title": "This AI Stock Could Be Worth Far More Than Investors Think",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T01:11:46+00:00",
-      "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
+      "timestamp": "2026-09-16T13:40:11+00:00",
+      "title": "ASML Vs. Taiwan Semiconductor Manufacturing: One Is More Misunderstood",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T00:53:31+00:00",
-      "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
+      "timestamp": "2026-09-16T13:35:44+00:00",
+      "title": "Wall Street Sees 56% Upside in Broadcom After Summer Selloff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T21:55:12+00:00",
-      "title": "JEPQ’s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can’t Budget on It",
+      "timestamp": "2026-09-16T13:15:32+00:00",
+      "title": "Think Nvidia Is Overpriced? The Irony Keeps Me Buying Again and Again",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-15T21:45:03+00:00",
-      "title": "Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today",
+      "timestamp": "2026-09-16T13:00:16+00:00",
+      "title": "The AI Stock That Could Beat NVIDIA by 2027",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T12:58:28+00:00",
+      "title": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

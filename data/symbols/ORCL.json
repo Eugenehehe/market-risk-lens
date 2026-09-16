@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.59,
-    "change_pct": 3.0210188813680094
+    "price": 142.9,
+    "change_pct": 1.8168863555397374
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T01:23:48.089825+00:00",
-      "close": 150.85
-    },
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 150.85
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 144.59
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 142.9
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-16T14:56:00+00:00",
+      "title": "Oracle Beats Q1 Estimates as AI Optimism Grows: How to Play the Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T14:15:00+00:00",
+      "title": "How worried should software, semiconductor stocks be about AI risks?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T13:54:00+00:00",
+      "title": "Why OpenAI’s $1.2 Trillion Valuation Can Lift Oracle, CoreWeave From AI Gloom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T13:00:00+00:00",
+      "title": "Identity Named to 2026 Inc. 5000 List of America’s Fastest-Growing Private Companies",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T12:35:00+00:00",
+      "title": "Prediction: $1,000 Invested in Oracle Stock Could Be Worth This Much by 2030",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T12:03:43+00:00",
+      "title": "Oracle CFO Hilary Maxson addresses layoffs at first company meeting",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T10:15:35+00:00",
+      "title": "Here’s How Much You Would Have Made Owning Oracle Stock In The Last 20 Years",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-16T10:00:00+00:00",
       "title": "Why human emotion is the biggest threat to your portfolio",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T09:23:48+00:00",
-      "title": "Celestica: The Market Just Handed Investors An $11 Billion Gift",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T08:32:44+00:00",
-      "title": "Why Are Nasdaq Futures Rising Premarket? INTC, SKHY, ORCL, SPCX, ASTS, CRCL, COIN Stocks In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T07:47:13+00:00",
-      "title": "Hewlett Packard Enterprise: Buy The AI Infrastructure Breakout, But Respect The Rally",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T07:30:58+00:00",
-      "title": "Oracle: Strong Q1, Bad Timing (Rating Downgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T06:14:47+00:00",
-      "title": "ORCL Stock Falls For Fifth Straight Session: Traders Eye OpenAI Funding News, Potential Japan Cloud Deal As Catalysts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T02:34:24+00:00",
-      "title": "How much Oracle stock is Larry Ellison using as loan collateral?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T00:18:12+00:00",
-      "title": "Oracle (ORCL) Introduced Java 27 With Post Quantum Cryptography",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 550.84,
-    "change_pct": 1.610374278283011
+    "price": 549.33,
+    "change_pct": 1.3318330228182518
   },
   "risk": {
-    "score": 63,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 553.11
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 553.11
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 550.84
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 549.33
     }
   ],
   "events": [
@@ -514,9 +514,33 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-16T07:13:57+00:00",
+      "title": "Taiwan Semiconductor Executive Calls AI Toddler With Superpowers",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T03:24:11+00:00",
+      "title": "S&P 500 Warning Signs: 3 Top-Performing ETFs Caught in a $1 Trillion AI Tug-of-War",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-15T16:35:04+00:00",
       "title": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-15T16:17:26+00:00",
+      "title": "Elon Musk Flags Taiwan as AI’s Weak Link. These Semiconductor ETFs Could Offer a Hedge",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-15T07:41:16+00:00",
       "title": "Why AI Executives Might Actually Want To Slow The Arms Race",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T06:49:24+00:00",
-      "title": "Anthropic And OpenAI: \"Pacing The Frontier\" Or Running Out Of Steps?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T03:52:41+00:00",
-      "title": "Beyond Nvidia: Why Software Stocks Just Crushed Semiconductors in a Historic 25-Year Shift",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T00:38:54+00:00",
-      "title": "Bond Yields Near 5% as ETF Investors Keep Buying",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

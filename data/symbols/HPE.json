@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 57.11,
-    "change_pct": 2.201145311381536
+    "price": 57.32,
+    "change_pct": 2.576950608446671
   },
   "risk": {
-    "score": 68,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 52.31
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 52.31
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 57.11
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 57.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T14:31:39+00:00",
+      "title": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T07:47:13+00:00",
       "title": "Hewlett Packard Enterprise: Buy The AI Infrastructure Breakout, But Respect The Rally",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-15T15:59:59+00:00",
       "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T15:27:09+00:00",
-      "title": "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

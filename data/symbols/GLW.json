@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 147.37,
-    "change_pct": 2.6467925053980768
+    "price": 144.98,
+    "change_pct": 0.9820993243713882
   },
   "risk": {
-    "score": 72,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 148.98
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 148.98
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 147.37
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 144.98
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-16T14:15:00+00:00",
+      "title": "Salesforce, Intel, Dell, J.B. Hunt, Expedia, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-16T12:35:00+00:00",
       "title": "Wondering what's happening in today's S&P500  pre-market session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:26:12+00:00",
+      "title": "UTG: Opportunity Coming As Pessimism Peaks On Rate Hike Fears",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:00:00+00:00",
+      "title": "Intel, Dell, J.B. Hunt, Strategy, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-15T10:19:02+00:00",
       "title": "Corning: One Hit After Another",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T09:40:29+00:00",
-      "title": "Mizuho Maintains Outperform on Corning, Lowers Price Target to $180",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T08:12:56+00:00",
-      "title": "US Stock Market Today: S&P 500 Futures Fall As Inflation And Rate Worries Build",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T07:49:46+00:00",
-      "title": "Jim Cramer: Buy This Energy Stock, It Is ‘Terrific’",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

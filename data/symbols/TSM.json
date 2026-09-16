@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T13:52:01.885691+00:00",
+  "generated_at": "2026-09-16T17:52:45.019059+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 418.14,
-    "change_pct": 1.0610271903323198
+    "price": 417.8,
+    "change_pct": 0.9788519637462301
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 417.52
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 417.52
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 418.14
+    },
+    {
+      "timestamp": "2026-09-16T17:52:45.019059+00:00",
+      "close": 417.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T12:14:38+00:00",
+      "title": "EOD: Distribution Growth Is Nice But Sector Allocation Might Not Be Ideal",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:56:51+00:00",
+      "title": "Why Intel Stock Is Cheap Under $100",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T07:13:57+00:00",
+      "title": "Taiwan Semiconductor Executive Calls AI Toddler With Superpowers",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T21:48:27+00:00",
       "title": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-15T20:20:18+00:00",
       "title": "Taiwan Semiconductor Issues Blunt Warning on AI",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T20:00:37+00:00",
-      "title": "There Is One Thing ASML’s $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T17:49:00+00:00",
-      "title": "Apple Stock: New CEO, Foldable iPhone-Time to Buy the Dip?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T17:38:41+00:00",
-      "title": "Intel: No Bad Products, Just Bad Prices (Rating Downgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
