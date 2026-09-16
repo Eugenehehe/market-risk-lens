@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T17:52:45.019059+00:00",
+  "generated_at": "2026-09-16T20:44:44.224406+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 142.9,
-    "change_pct": 1.8168863555397374
+    "price": 143.16,
+    "change_pct": 2.00213751335947
   },
   "risk": {
-    "score": 65,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 150.85
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 150.85
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 142.9
+    },
+    {
+      "timestamp": "2026-09-16T20:44:44.224406+00:00",
+      "close": 143.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T18:05:00+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T17:19:45+00:00",
+      "title": "Oracle Rallies 2% as Restructuring Helps Finance the AI Sprint",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T17:04:38+00:00",
+      "title": "Did Salesforce Telegraph Its Own Massive Rally?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T17:00:23+00:00",
+      "title": "DTE Is Sitting on an AI-Era Power Opportunity",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T14:56:00+00:00",
       "title": "Oracle Beats Q1 Estimates as AI Optimism Grows: How to Play the Stock",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-16T13:00:00+00:00",
       "title": "Identity Named to 2026 Inc. 5000 List of America’s Fastest-Growing Private Companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T12:35:00+00:00",
-      "title": "Prediction: $1,000 Invested in Oracle Stock Could Be Worth This Much by 2030",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T12:03:43+00:00",
-      "title": "Oracle CFO Hilary Maxson addresses layoffs at first company meeting",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T10:15:35+00:00",
-      "title": "Here’s How Much You Would Have Made Owning Oracle Stock In The Last 20 Years",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T10:00:00+00:00",
-      "title": "Why human emotion is the biggest threat to your portfolio",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

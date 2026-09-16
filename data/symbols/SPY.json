@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T17:52:45.019059+00:00",
+  "generated_at": "2026-09-16T20:44:44.224406+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 759.69,
-    "change_pct": 0.3036744609778319
+    "price": 754.05,
+    "change_pct": -0.44098813028955464
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T12:47:59.489866+00:00",
-      "close": 769.35
-    },
     {
       "timestamp": "2026-08-30T16:59:54.713525+00:00",
       "close": 769.35
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 759.69
+    },
+    {
+      "timestamp": "2026-09-16T20:44:44.224406+00:00",
+      "close": 754.05
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-16T17:59:00+00:00",
+      "title": "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T17:56:10+00:00",
+      "title": "GE Vernova Climbs 5% as CEO Sees Backlog Hitting $200B Early; Eaton and Quanta Services Edge Higher",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T17:53:18+00:00",
+      "title": "TeraWulf Rallies 7% as AI Hosting Bid Returns; Core Scientific Jumps 7%, IREN Rises 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T16:56:15+00:00",
+      "title": "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T16:49:36+00:00",
+      "title": "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T16:46:08+00:00",
+      "title": "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T16:25:00+00:00",
+      "title": "Wall Street Lunch: Fed Hikes And Isn't Done",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-16T16:03:06+00:00",
       "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T16:00:21+00:00",
-      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T15:59:23+00:00",
-      "title": "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T15:35:24+00:00",
-      "title": "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T14:46:15+00:00",
-      "title": "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T14:36:18+00:00",
-      "title": "SpaceX Rises 5% as Starship’s First Orbital Attempt Gets Launch Date; Rocket Lab and AST SpaceMobile Hold Steady",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T14:35:00+00:00",
-      "title": "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T14:31:39+00:00",
-      "title": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

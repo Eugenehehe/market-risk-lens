@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T17:52:45.019059+00:00",
+  "generated_at": "2026-09-16T20:44:44.224406+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 340.82,
-    "change_pct": 0.4568632652459659
+    "price": 339.51,
+    "change_pct": 0.0707401184897094
   },
   "risk": {
-    "score": 54,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T07:01:57.259470+00:00",
-      "close": 368.79
-    },
     {
       "timestamp": "2026-08-30T12:47:59.489866+00:00",
       "close": 368.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 340.82
+    },
+    {
+      "timestamp": "2026-09-16T20:44:44.224406+00:00",
+      "close": 339.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T17:05:00+00:00",
+      "title": "Hock Tan Just Guided Broadcom's AI Revenue to Reach $230 Billion by 2028. Should You Believe Him?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T15:11:39+00:00",
       "title": "OpenAI’s CFO Just Explained Why Nvidia Is No Longer the Only Option",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-16T13:15:32+00:00",
       "title": "Think Nvidia Is Overpriced? The Irony Keeps Me Buying Again and Again",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T13:08:00+00:00",
-      "title": "Prediction: This Is What a $5,000 Investment in Broadcom Will Be Worth by 2028",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

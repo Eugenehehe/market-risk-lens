@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T17:52:45.019059+00:00",
+  "generated_at": "2026-09-16T20:44:44.224406+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 144.98,
-    "change_pct": 0.9820993243713882
+    "price": 144.16,
+    "change_pct": 0.4109493626802241
   },
   "risk": {
-    "score": 58,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T12:47:59.489866+00:00",
-      "close": 148.98
-    },
     {
       "timestamp": "2026-08-30T16:59:54.713525+00:00",
       "close": 148.98
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 144.98
+    },
+    {
+      "timestamp": "2026-09-16T20:44:44.224406+00:00",
+      "close": 144.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T17:06:00+00:00",
+      "title": "Lumentum Stock Leads the S&P 500 While Corning Can’t Keep Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T14:15:00+00:00",
       "title": "Salesforce, Intel, Dell, J.B. Hunt, Expedia, and More Stocks That Explain Today’s Market",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-16T11:00:02+00:00",
+      "title": "Market Weakness Is Growing: Time to Look at Bear Call Spreads?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-16T11:00:00+00:00",
       "title": "Intel, Dell, J.B. Hunt, Strategy, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-15T20:07:31+00:00",
       "title": "Stocks making big moves yesterday: Corning, Baldwin Insurance Group, Gartner, Jabil, and Accenture",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T15:59:53+00:00",
-      "title": "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T10:19:02+00:00",
-      "title": "Corning: One Hit After Another",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
