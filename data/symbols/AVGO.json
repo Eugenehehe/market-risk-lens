@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T08:51:27.528838+00:00",
+  "generated_at": "2026-09-16T13:52:01.885691+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 339.27,
-    "change_pct": -1.5809932699002216
+    "price": 341.91,
+    "change_pct": 0.7781413033866924
   },
   "risk": {
-    "score": 63,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T23:22:26.791958+00:00",
-      "close": 368.79
-    },
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 368.79
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-16T08:51:27.528838+00:00",
       "close": 339.27
+    },
+    {
+      "timestamp": "2026-09-16T13:52:01.885691+00:00",
+      "close": 341.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T11:52:19+00:00",
+      "title": "Broadcom CEO pushes back on AI slowdown fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T10:00:13+00:00",
+      "title": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in September",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T02:02:31+00:00",
       "title": "Blackstone Sees Earnings Boom Fueling AI, Infrastructure and Fundraising Growth",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-15T20:26:37+00:00",
       "title": "What Was Qualcomm Stock Telling You Before It Ran?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T19:28:39+00:00",
-      "title": "Broadcom CEO Doubles Down on Massive AI Growth Target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T19:18:26+00:00",
-      "title": "Broadcom (AVGO) Could Be 47% Below Fair Value On Buybacks And Revenue Guidance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

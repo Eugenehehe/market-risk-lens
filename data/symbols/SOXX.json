@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T08:51:27.528838+00:00",
+  "generated_at": "2026-09-16T13:52:01.885691+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 498.85,
-    "change_pct": 0.2915158825894659
+    "price": 508.29,
+    "change_pct": 1.8923524105442402
   },
   "risk": {
-    "score": 53,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T01:23:48.089825+00:00",
-      "close": 508.62
-    },
     {
       "timestamp": "2026-08-30T07:01:57.259470+00:00",
       "close": 508.62
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-16T08:51:27.528838+00:00",
       "close": 498.85
+    },
+    {
+      "timestamp": "2026-09-16T13:52:01.885691+00:00",
+      "close": 508.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T08:50:00+00:00",
+      "title": "3 Stocks I'd Buy If The Feds Hike Rates",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-15T18:24:12+00:00",
       "title": "Nasdaq Falls 0.8%. Energy Is Pretty Much the Only Show in Town.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-15T09:28:31+00:00",
       "title": "Sam Altman’s AI Nightmare Splits ETF Trade: Build Vs. Control",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T08:30:00+00:00",
-      "title": "A-Shares Search For Bottom As Broad Market Exposure Gains Appeal",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

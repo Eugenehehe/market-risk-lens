@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T08:51:27.528838+00:00",
+  "generated_at": "2026-09-16T13:52:01.885691+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 543.51,
-    "change_pct": 1.7275585835142548
+    "price": 569.91,
+    "change_pct": 4.857316332726169
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T23:22:26.791958+00:00",
-      "close": 456.24
-    },
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 456.24
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-16T08:51:27.528838+00:00",
       "close": 543.51
+    },
+    {
+      "timestamp": "2026-09-16T13:52:01.885691+00:00",
+      "close": 569.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T12:35:00+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T09:23:48+00:00",
+      "title": "Celestica: The Market Just Handed Investors An $11 Billion Gift",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T09:07:11+00:00",
+      "title": "DELL Stock Rises Premarket Despite Silver Lake’s $42.5M Proposed Stock Sale",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T03:51:57+00:00",
       "title": "Why Did DELL, CRWD, CVX Stocks Jump To 52-Week Highs Today?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-15T21:18:54+00:00",
       "title": "Was Arista Networks Stock's Surge Visible Before It Happened?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T19:17:40+00:00",
-      "title": "How Much Slowdown Is Rubrik Stock Priced For?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T18:40:17+00:00",
-      "title": "3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T16:57:22+00:00",
-      "title": "Dell Technologies (DELL) Rallies on Bullish RBC Outlook: Is the Stock a Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

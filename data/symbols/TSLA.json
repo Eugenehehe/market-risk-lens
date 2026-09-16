@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T08:51:27.528838+00:00",
+  "generated_at": "2026-09-16T13:52:01.885691+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 356.58,
-    "change_pct": -0.6657937989247187
+    "price": 360.4,
+    "change_pct": 1.0712883504403026
   },
   "risk": {
-    "score": 56,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T23:22:26.791958+00:00",
-      "close": 348.75
-    },
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 348.75
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-16T08:51:27.528838+00:00",
       "close": 356.58
+    },
+    {
+      "timestamp": "2026-09-16T13:52:01.885691+00:00",
+      "close": 360.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-16T10:10:00+00:00",
+      "title": "One Wall Street Analyst Just Said Tesla Stock Could Be Worth $840: Time to Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T08:11:04+00:00",
+      "title": "Update: Market Chatter: NHTSA Presses Tesla On Cybercab Human Controls",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T06:57:00+00:00",
+      "title": "Elon Musk Promised \"Over a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T06:20:00+00:00",
       "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-15T21:02:00+00:00",
       "title": "SpaceX or Tesla: Which Elon Musk Stock Should Investors Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T20:57:35+00:00",
-      "title": "TSLA Edges Lower After Regulator Asks If Wheel-Less Cybercab Can Be Driven By A Human",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T20:28:00+00:00",
-      "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T20:14:02+00:00",
-      "title": "Tesla’s Cybercab Launch Fizzles, Leaving Waymo as the Robotaxi Leader",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T08:51:27.528838+00:00",
+  "generated_at": "2026-09-16T13:52:01.885691+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 248.42,
-    "change_pct": -2.0194052220556924
+    "price": 247.93,
+    "change_pct": -0.1972465985025318
   },
   "risk": {
-    "score": 67,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T21:12:57.865286+00:00",
-      "close": 266.43
-    },
     {
       "timestamp": "2026-08-29T23:22:26.791958+00:00",
       "close": 266.43
@@ -502,12 +498,40 @@
     {
       "timestamp": "2026-09-16T08:51:27.528838+00:00",
       "close": 248.42
+    },
+    {
+      "timestamp": "2026-09-16T13:52:01.885691+00:00",
+      "close": 247.93
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-16T08:17:00+00:00",
+      "title": "What the Anthropic IPO Means for Amazon and Alphabet Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T07:30:00+00:00",
+      "title": "Wall Street Breakfast Podcast: SK Hynix Eyes U.S. Memory Play-Report",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-16T07:06:38+00:00",
       "title": "Amazon announces pay increase for frontline staff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T07:03:00+00:00",
+      "title": "Billionaires are flocking to these 3 Florida localities—here’s how much they save in taxes",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-16T03:50:00+00:00",
       "title": "Is Amazon Stock a Buy After Its Best Quarter in Years?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T03:18:41+00:00",
-      "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T22:11:00+00:00",
-      "title": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T22:04:55+00:00",
-      "title": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting — AMZN, META, MU, TSLA, PLTR In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

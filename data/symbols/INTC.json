@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T08:51:27.528838+00:00",
+  "generated_at": "2026-09-16T13:52:01.885691+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 97.14,
-    "change_pct": -0.05144562197756386
+    "price": 101.56,
+    "change_pct": 4.550133827465519
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-29T23:22:26.791958+00:00",
-      "close": 89.47
-    },
     {
       "timestamp": "2026-08-30T01:23:48.089825+00:00",
       "close": 89.47
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-16T08:51:27.528838+00:00",
       "close": 97.14
+    },
+    {
+      "timestamp": "2026-09-16T13:52:01.885691+00:00",
+      "close": 101.56
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-16T04:00:03+00:00",
-      "title": "INTW: Intel's Foundry Renaissance Makes This Leveraged ETF A Tactical Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T01:11:46+00:00",
-      "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T00:53:31+00:00",
-      "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T20:28:00+00:00",
-      "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T20:26:37+00:00",
-      "title": "What Was Qualcomm Stock Telling You Before It Ran?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T19:50:29+00:00",
-      "title": "What Would It Take For Micron Technology Stock To Keep Climbing?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T18:26:57+00:00",
-      "title": "Intel Has 4 Major Tailwinds According to This Wall Street Analyst, Yet 1 Red Flag Caused a Price Target Cut",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T18:05:00+00:00",
-      "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+      "timestamp": "2026-09-16T12:35:00+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:48:53+00:00",
+      "title": "Intel Rises 3% on SK Hynix Talks Over Ohio Capacity",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:43:42+00:00",
+      "title": "SK Hynix in talks with Intel to manufacture memory chips in the U.S.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:27:56+00:00",
+      "title": "SK Hynix Pushes Back On Intel U.S. Chip Deal Report, Says ‘Nothing Has Been Finalized’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T11:05:40+00:00",
+      "title": "Taiwan Semiconductor Vs. ASML: There’s Actually One True Dominant Picks-and-Shovels Play",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T10:09:00+00:00",
+      "title": "Intel Stock Surges. How an SK Hynix Tie-Up Would Make It a Memory Chip Play.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T10:08:02+00:00",
+      "title": "SK Hynix and Intel Shares Rise Following Report of US Memory Chip Manufacturing Talks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T08:32:44+00:00",
+      "title": "Why Are Nasdaq Futures Rising Premarket? INTC, SKHY, ORCL, SPCX, ASTS, CRCL, COIN Stocks In Focus",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
