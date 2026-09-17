@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:31:01.400351+00:00",
+  "generated_at": "2026-09-17T06:36:11.003474+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 283.92,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T22:07:12.969698+00:00",
-      "close": 295.75
-    },
     {
       "timestamp": "2026-08-31T00:35:33.725555+00:00",
       "close": 295.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-17T01:31:01.400351+00:00",
       "close": 283.92
+    },
+    {
+      "timestamp": "2026-09-17T06:36:11.003474+00:00",
+      "close": 283.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T01:35:00+00:00",
+      "title": "Global Goods Export Growth Hits Joint Highest Since Mid-2021",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T21:05:00+00:00",
       "title": "Federal Reserve Hikes 25bp, Suggests Another To Come",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-16T16:45:36+00:00",
       "title": "Warsh United The Fed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T16:30:55+00:00",
-      "title": "Warsh Hiked, And Bond Yields Fell",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

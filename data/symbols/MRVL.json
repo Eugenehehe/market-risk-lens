@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:31:01.400351+00:00",
+  "generated_at": "2026-09-17T06:36:11.003474+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 229.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-30T19:44:45.369938+00:00",
-      "close": 216.62
-    },
     {
       "timestamp": "2026-08-30T22:07:12.969698+00:00",
       "close": 216.62
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-17T01:31:01.400351+00:00",
       "close": 229.71
+    },
+    {
+      "timestamp": "2026-09-17T06:36:11.003474+00:00",
+      "close": 229.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T00:51:58+00:00",
+      "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T18:43:26+00:00",
       "title": "Bank of America Makes Massive Call on AI Chip Market",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-16T13:35:44+00:00",
       "title": "Wall Street Sees 56% Upside in Broadcom After Summer Selloff",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T12:50:30+00:00",
-      "title": "Broadcom: Buy The Tantrum - Again",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
