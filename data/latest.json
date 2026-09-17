@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T19:58:47.657942+00:00",
+  "generated_at": "2026-09-17T22:48:04.882582+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.46,
-    "change_pct": 2.5993454885460565
+    "price": 219.34,
+    "change_pct": 2.5432445067788745
   },
   "risk": {
     "score": 71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T19:41:26.033632+00:00",
-      "close": 219.8
-    },
     {
       "timestamp": "2026-08-31T23:25:27.501077+00:00",
       "close": 220.78
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-17T19:58:47.657942+00:00",
       "close": 219.46
+    },
+    {
+      "timestamp": "2026-09-17T22:48:04.882582+00:00",
+      "close": 219.34
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-17T16:40:06+00:00",
       "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T16:02:45+00:00",
+      "title": "Palantir Stock: The AI Token Boom Is Hiding A Bigger Opportunity",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-17T13:40:00+00:00",
       "title": "Bill Ackman's Pershing Square Took a New Stake in Netflix in 2026, Years After a Money-Losing Bet on the Stock. Why He Says This Time Is Different.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T13:28:20+00:00",
-      "title": "Nebius Stock Jumps On Cloud Computing Price Hikes",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

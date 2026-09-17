@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T19:58:47.657942+00:00",
+  "generated_at": "2026-09-17T22:48:04.882582+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 285.69,
-    "change_pct": 0.6234150464919708
+    "price": 285.43,
+    "change_pct": 0.5318399549168795
   },
   "risk": {
     "score": 55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T19:41:26.033632+00:00",
-      "close": 293.87
-    },
     {
       "timestamp": "2026-08-31T23:25:27.501077+00:00",
       "close": 293.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-17T19:58:47.657942+00:00",
       "close": 285.69
+    },
+    {
+      "timestamp": "2026-09-17T22:48:04.882582+00:00",
+      "close": 285.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T15:40:56+00:00",
+      "title": "Not Your Puppet: Fed Chooses A Rate Hike Over Trump's 1% Target",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T13:46:21+00:00",
       "title": "An Inflection Point? OpenAI And Anthropic Cry For Uncle Sam",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-17T11:29:35+00:00",
       "title": "Gold: As AI Tech Depreciates And Dollar Burns, Hoard Shiny Rocks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T11:00:00+00:00",
-      "title": "Macro Insights: Yield Surges Vs. Energy Shocks, And Navigating Market Chaos",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

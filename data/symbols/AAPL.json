@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T19:58:47.657942+00:00",
+  "generated_at": "2026-09-17T22:48:04.882582+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 337.02,
-    "change_pct": 1.3868415510965182
+    "price": 337,
+    "change_pct": 1.3808248849312532
   },
   "risk": {
     "score": 62,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T06:06:19.132450+00:00",
-      "close": 319.7
-    },
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 316.11
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-17T19:58:47.657942+00:00",
       "close": 337.02
+    },
+    {
+      "timestamp": "2026-09-17T22:48:04.882582+00:00",
+      "close": 337
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-17T19:10:06+00:00",
       "title": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T18:05:33+00:00",
+      "title": "Apple's Quality Is Tempting, But I'm Put Off By The Valuation",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-17T12:00:00+00:00",
       "title": "Apple Touts Big Emmy Wins: Will Marketing Do A Big Job?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T11:42:00+00:00",
-      "title": "Why Stocks Are Loving the Fed’s Rate Hike Even If Trump Hates It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
