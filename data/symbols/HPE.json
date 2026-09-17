@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T16:53:45.309450+00:00",
+  "generated_at": "2026-09-17T19:58:47.657942+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.88,
-    "change_pct": 9.174311926605515
+    "price": 61.07,
+    "change_pct": 7.745236414961187
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T13:40:37.471572+00:00",
-      "close": 52.33
-    },
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 52.46
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-17T16:53:45.309450+00:00",
       "close": 61.88
+    },
+    {
+      "timestamp": "2026-09-17T19:58:47.657942+00:00",
+      "close": 61.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T19:05:01+00:00",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T16:35:01+00:00",
+      "title": "Which S&P500 stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T01:01:09+00:00",
       "title": "Did AI Servers Really Quadruple Dell Stock?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-16T10:48:43+00:00",
       "title": "How Agentic AI Could Drive HPE Stock Much Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T07:47:13+00:00",
-      "title": "Hewlett Packard Enterprise: Buy The AI Infrastructure Breakout, But Respect The Rally",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T22:08:05+00:00",
-      "title": "Can Arista's Third Guidance Raise Still Make You Money?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

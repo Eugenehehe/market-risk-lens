@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T16:53:45.309450+00:00",
+  "generated_at": "2026-09-17T19:58:47.657942+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 496.17,
-    "change_pct": 1.1972261880481394
+    "price": 498.11,
+    "change_pct": 1.5929023047114077
   },
   "risk": {
-    "score": 60,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T06:06:19.132450+00:00",
-      "close": 513.53
-    },
     {
       "timestamp": "2026-08-31T19:41:26.033632+00:00",
       "close": 509.11
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-17T16:53:45.309450+00:00",
       "close": 496.17
+    },
+    {
+      "timestamp": "2026-09-17T19:58:47.657942+00:00",
+      "close": 498.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T19:10:06+00:00",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T16:40:06+00:00",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T12:05:01+00:00",
       "title": "Advanced Micro Devices vs. Texas Instruments: Which Tech Stock Is a Better Buy in 2026?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-17T11:28:00+00:00",
       "title": "This Quantum Start-Up Just Sold a Computer in an Untapped Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T11:20:01+00:00",
-      "title": "22.4% of Billionaire Bill Ackman’s Pershing Square Capital Management Is Invested in These 2 Artificial Intelligence (AI) Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T10:42:49+00:00",
-      "title": "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation – NOK Stock Rises Premarket",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
