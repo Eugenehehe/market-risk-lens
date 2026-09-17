@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-17T12:03:46.236320+00:00",
+  "generated_at": "2026-09-17T16:53:45.309450+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 502.06,
-    "change_pct": 0.6434800040092226
+    "price": 519.88,
+    "change_pct": 3.549376568537621
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T06:06:19.132450+00:00",
-      "close": 508.62
-    },
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 508.66
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 502.06
+    },
+    {
+      "timestamp": "2026-09-17T16:53:45.309450+00:00",
+      "close": 519.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T10:56:05+00:00",
+      "title": "SOXX: $22 Billion Of Google TPU Financing Comes With A Catch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T07:58:36+00:00",
+      "title": "What's Going On With AMD Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T05:49:33+00:00",
+      "title": "What's Going On With Micron Technology Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T14:46:15+00:00",
       "title": "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T10:00:00+00:00",
-      "title": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T08:50:00+00:00",
-      "title": "3 Stocks I'd Buy If The Feds Hike Rates",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T18:24:12+00:00",
-      "title": "Nasdaq Falls 0.8%. Energy Is Pretty Much the Only Show in Town.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T16:35:04+00:00",
-      "title": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-16T12:08:28+00:00",
+      "title": "What's Going On With AMD Stock Wednesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

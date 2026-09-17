@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-17T12:03:46.236320+00:00",
+  "generated_at": "2026-09-17T16:53:45.309450+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 926.55,
-    "change_pct": -0.11319534282019372
+    "price": 978.1,
+    "change_pct": 5.563650099832729
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T00:35:33.725555+00:00",
-      "close": 932.86
-    },
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 932.86
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 926.55
+    },
+    {
+      "timestamp": "2026-09-17T16:53:45.309450+00:00",
+      "close": 978.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T12:02:58+00:00",
+      "title": "A $2.75 Billion Reason Why Micron Stock In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:54:19+00:00",
+      "title": "U.S. semiconductor industry faces shortage of 157,000 workers by 2030",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:28:00+00:00",
+      "title": "1 AI Stock Poised to Outperform Micron and Sandisk on the Next Infrastructure Surge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:22:17+00:00",
+      "title": "2 Cash-Producing Stocks Worth Your Attention and 1 We Find Risky",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T09:19:54+00:00",
+      "title": "Modi pitches India as global chipmaking hub",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T09:01:17+00:00",
+      "title": "SK Hynix Stock Rises as Intel Ohio Talks Reignite Memory Trade",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T07:01:00+00:00",
       "title": "Zacks Earnings Trends Highlights: Micron  and Nvidia",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T01:41:00+00:00",
-      "title": "Micron vs. Sandisk: Which AI Memory Stock Benefits More From Nvidia's $279 Billion Warning?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T22:17:00+00:00",
-      "title": "Michael Burry reveals his verdict on the ongoing AI bubble",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T20:50:00+00:00",
-      "title": "A Broad-Based Earnings Growth Picture as Revisions Stay Positive",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:30:21+00:00",
-      "title": "The $75,000 Retirement Budget That JEPQ May Struggle to Support in 10 Years",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:25:09+00:00",
-      "title": "Micron Gains as Memory Scarcity Threatens Its Customers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:02:58+00:00",
-      "title": "Is Micron Stock Cheap, Or Are Its Profits Borrowed?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T18:04:58+00:00",
-      "title": "Micron Technology Has Just Shared Great News",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-17T05:49:33+00:00",
+      "title": "What's Going On With Micron Technology Stock Thursday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T12:03:46.236320+00:00",
+  "generated_at": "2026-09-17T16:53:45.309450+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 563.29,
-    "change_pct": 3.639307464444075
+    "price": 591.27,
+    "change_pct": 4.967246001171688
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T00:35:33.725555+00:00",
-      "close": 456.24
-    },
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 456.24
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 563.29
+    },
+    {
+      "timestamp": "2026-09-17T16:53:45.309450+00:00",
+      "close": 591.27
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-17T12:02:58+00:00",
+      "title": "A $2.75 Billion Reason Why Micron Stock In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:04:33+00:00",
+      "title": "Jim Cramer on Advanced Micro Devices (AMD): “Buy It”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-17T07:22:54+00:00",
       "title": "The Fed Hikes, Warsh Says Nothing Else, and Wall Street Fills In the Blanks",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T07:21:49+00:00",
+      "title": "Bernie Sanders Slams AI CEOs Over Political Spending: 'You Should Not be Spending Money Trying to Defeat' AI Regulation",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-16T20:31:17+00:00",
       "title": "Dell Jumps 4.7% as a 45-Watt Inference Option Joins Its Racks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:45:23+00:00",
-      "title": "Jim Cramer Says the AI Slowdown Is Fake. Dell Is His Evidence.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:15:05+00:00",
-      "title": "Goldman's AI Server Forecast Sends Dell Stock Jumping",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T17:31:33+00:00",
-      "title": "What Happens To Apple Stock If Its Margin Keeps Slipping?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

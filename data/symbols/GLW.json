@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-17T12:03:46.236320+00:00",
+  "generated_at": "2026-09-17T16:53:45.309450+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 144.16,
-    "change_pct": 0.4109493626802241
+    "price": 148.91,
+    "change_pct": 3.294950055493895
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T06:06:19.132450+00:00",
-      "close": 148.98
-    },
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 149.01
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 144.16
+    },
+    {
+      "timestamp": "2026-09-17T16:53:45.309450+00:00",
+      "close": 148.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-17T12:35:01+00:00",
+      "title": "Thursday's pre-market session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T10:11:00+00:00",
+      "title": "OpenAI Reveals 6 ‘Concerning’ Incidents. Why AI Stocks Are Rising Anyway.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T08:39:31+00:00",
+      "title": "GlobalFoundries And Marvell Technology Expand Multi-Year Agreement To Increase Capacity For GFS's Silicon Germanium Technology At Its Burlington, Vermont, Facility To Support Demand For Optical Connectivity",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-16T23:38:41+00:00",
       "title": "Is Ciena's Pricing Power Real, Or Just A Parts Shortage?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-16T14:15:00+00:00",
       "title": "Salesforce, Intel, Dell, J.B. Hunt, Expedia, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T12:35:00+00:00",
-      "title": "Wondering what's happening in today's S&P500  pre-market session?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T11:26:12+00:00",
-      "title": "UTG: Opportunity Coming As Pessimism Peaks On Rate Hike Fears",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T11:00:02+00:00",
-      "title": "Market Weakness Is Growing: Time to Look at Bear Call Spreads?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

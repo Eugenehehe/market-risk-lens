@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T12:03:46.236320+00:00",
+  "generated_at": "2026-09-17T16:53:45.309450+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 545.56,
-    "change_pct": 0.6364022061942975
+    "price": 560.71,
+    "change_pct": 2.776963120463405
   },
   "risk": {
-    "score": 56,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T06:06:19.132450+00:00",
-      "close": 553.11
-    },
     {
       "timestamp": "2026-08-31T13:40:37.471572+00:00",
       "close": 553.15
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 545.56
+    },
+    {
+      "timestamp": "2026-09-17T16:53:45.309450+00:00",
+      "close": 560.71
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-17T12:40:34+00:00",
+      "title": "What to Watch: AIFR",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:10:47+00:00",
+      "title": "Easing Oil, Bond Yields Buoy Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T08:00:00+00:00",
+      "title": "A Trillion-Dollar Blind Spot: Why AI's Focus Must Shift From The Cloud To Your Living Room",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-16T14:40:57+00:00",
       "title": "New ETF Coverage: KCHP",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-16T12:52:00+00:00",
+      "title": "S&P 500 Gains, Crude Falls Ahead Of Fed's Expected First Hike Since 2023: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-09-16T03:24:11+00:00",
       "title": "S&P 500 Warning Signs: 3 Top-Performing ETFs Caught in a $1 Trillion AI Tug-of-War",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T16:35:04+00:00",
-      "title": "The AI Slowdown Call: Another Reason To Hedge, Not To Exit",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T16:17:26+00:00",
-      "title": "Elon Musk Flags Taiwan as AI’s Weak Link. These Semiconductor ETFs Could Offer a Hedge",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T11:07:15+00:00",
-      "title": "Rising Bond Yields, Oil Prices Depress Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-15T08:30:00+00:00",
-      "title": "A-Shares Search For Bottom As Broad Market Exposure Gains Appeal",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

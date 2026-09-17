@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-17T12:03:46.236320+00:00",
+  "generated_at": "2026-09-17T16:53:45.309450+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 512.5,
-    "change_pct": 1.6461721539071883
+    "price": 549.26,
+    "change_pct": 7.172682926829266
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-08-31T00:35:33.725555+00:00",
-      "close": 465.58
-    },
     {
       "timestamp": "2026-08-31T06:06:19.132450+00:00",
       "close": 465.58
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 512.5
+    },
+    {
+      "timestamp": "2026-09-17T16:53:45.309450+00:00",
+      "close": 549.26
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-17T06:18:00+00:00",
-      "title": "Baron Technology ETF Q2 2026 Portfolio Activity",
+      "timestamp": "2026-09-17T12:11:06+00:00",
+      "title": "Nebius Stock Jumps 9% After Raising GPU Rates",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T12:05:01+00:00",
+      "title": "Advanced Micro Devices vs. Texas Instruments: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:16:04+00:00",
+      "title": "Marvell Technology Dropped By 25% in 3 Months: This Trusted Analyst Says 75% Returns Are Coming In The Next Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T11:04:33+00:00",
+      "title": "Jim Cramer on Advanced Micro Devices (AMD): “Buy It”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T10:42:49+00:00",
+      "title": "Intel: Too Expensive Despite The Fast Growth",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T00:51:58+00:00",
-      "title": "Is It Too Early To Buy Marvell Stock After Its Three-Month Fall?",
+      "timestamp": "2026-09-17T10:38:00+00:00",
+      "title": "AMD, Intel, Amazon, Generac, Lennar, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T23:55:53+00:00",
-      "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
-      "source": "Yahoo",
+      "timestamp": "2026-09-17T10:25:58+00:00",
+      "title": "Huawei Takes Aim at Nvidia, AMD with Over 10 new AI Chipsets — But Can the Chinese Tech Giant Close the Gap?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-16T21:29:59+00:00",
-      "title": "Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T20:11:40+00:00",
-      "title": "Advanced Micro Devices (AMD) Shares Climbed, So What Is Drawing Attention Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:30:04+00:00",
-      "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:22:17+00:00",
-      "title": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T19:02:58+00:00",
-      "title": "Is Micron Stock Cheap, Or Are Its Profits Borrowed?",
+      "timestamp": "2026-09-17T08:47:00+00:00",
+      "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
