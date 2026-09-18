@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.91,
-    "change_pct": -3.7718307988578337
+    "price": 146.13,
+    "change_pct": -2.9616840427651336
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 141.27
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 140.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 144.91
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 146.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T14:35:01+00:00",
+      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T11:15:19+00:00",
       "title": "Meta Vs. Oracle: The Laggards of AI Capex Payback Velocity",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-18T09:52:34+00:00",
+      "title": "AI Capex Boom Risks 'Massive Capital Destruction' in the US, Warns Veteran Market Strategist: 'You Could Get Some News Item That Suddenly…'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T09:45:08+00:00",
       "title": "Oracle Tells Employees 'Doing More With Less' Isn’t The Goal After Recent Layoffs, CFO Urges 'Thoughtful' Spending: Report",
       "source": "Yahoo",
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-18T09:43:26+00:00",
+      "title": "Oracle, CoreWeave Dump on AI's $3.6 Trillion Financing Bill",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T08:32:00+00:00",
       "title": "S&P kept Oracle investment grade. Its own numbers don’t support that call.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:13:00+00:00",
-      "title": "Our Oracle Stock Pick Is Down, But Stabilizing. Buy More.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T06:45:00+00:00",
-      "title": "Microsoft: Don't Let The Smaller Dividend Hike Fool You - I See $600+ Long-Term",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T05:45:46+00:00",
-      "title": "SoftBank Raises Arm Margin Loan to $25 Billion as AI Bets Grow",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 586.68,
-    "change_pct": -0.2923181509177475
+    "price": 579.49,
+    "change_pct": -1.5142760027192281
   },
   "risk": {
-    "score": 53,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 437.7
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 426.98
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 586.68
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 579.49
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-18T11:13:47+00:00",
       "title": "Michael Dell's $6.25 Billion Bet on Compounding Wins Over Wall Street and Parents",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:28:53+00:00",
+      "title": "Investing In Everpure: Growth Potential You Can't Ignore",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-17T18:13:00+00:00",
       "title": "Lenovo, MemryX Partnership to Expand Sovereign Edge AI in Saudi Arabia",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T17:00:11+00:00",
-      "title": "Dell’s AI Backlog Surge Positions Stock for $600+ as Server Revenue Doubles",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

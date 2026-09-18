@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 365.35,
-    "change_pct": -0.23211359912614915
+    "price": 362.48,
+    "change_pct": -1.0158383397050663
   },
   "risk": {
-    "score": 52,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 357.04
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 356.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 365.35
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 362.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T11:15:00+00:00",
+      "title": "BUZZ Investing: Rising Oil Prices And Treasury Yields Pressure Equities",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T11:05:00+00:00",
       "title": "Tesla Trades at 331 Times Trailing Earnings While Facing Growing Competition From China's BYD. Is Elon Musk's Premium Valuation Still Justified?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-18T08:23:01+00:00",
       "title": "The “Magnificent Seven” Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:11:34+00:00",
-      "title": "Tesla (TSLA) Teases Deeper Integration And Roadster Reveal With New Chip Push",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

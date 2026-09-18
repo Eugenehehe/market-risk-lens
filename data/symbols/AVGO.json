@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 358.53,
-    "change_pct": 3.2335156924848674
+    "price": 354.35,
+    "change_pct": 2.0299452922545314
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 370.81
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 369.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 358.53
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 354.35
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-18T13:00:05+00:00",
       "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T12:34:18+00:00",
+      "title": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-18T08:10:33+00:00",
+      "title": "Forget the AI Bubble: VanEck’s Nick Frasse Explains How MU, SK Hynix, ASML, and TSMC Control the Pace of 'Token Factories'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T08:05:00+00:00",
       "title": "Own Broadcom by Sept. 21 to Qualify for Its Sept. 30 Dividend. Here's How Many Shares You'd Need for $5,000 in Yearly Dividends.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T22:17:00+00:00",
-      "title": "Salesforce CEO warns AI companies not to repeat this costly mistake",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T22:15:09+00:00",
-      "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

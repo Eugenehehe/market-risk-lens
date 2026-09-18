@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 283,
-    "change_pct": -0.8513470903549036
+    "price": 283.45,
+    "change_pct": -0.6936902217706709
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 291.04
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 290.45
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 283
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 283.45
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-18T11:55:50+00:00",
+      "title": "U.S. Housing Market: From Bad To Worse",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T11:50:35+00:00",
       "title": "Breadth Rebounds Sharply, but the Market Is Not Repaired Yet",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T11:05:00+00:00",
+      "title": "K-Shaped Economy: Reality Or Media-Driven Perception",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:04:31+00:00",
+      "title": "QUICK SPARK: $30B Flows Into ETFs, IVV Leads With $6.5B Inflows",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T09:45:00+00:00",
+      "title": "How Today's Economy Rhymes With The Late '90s",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-18T08:30:00+00:00",
       "title": "The More The Fed Hikes, The More Income I Earn",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:15:40+00:00",
-      "title": "The Consumer Is Back, I'm Taking A Tactical Position In Staples",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T07:30:00+00:00",
-      "title": "The S&P 500 Could Go Nowhere For A Decade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T07:06:46+00:00",
-      "title": "The Outlook And Oddities In Monetary Policy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T04:29:33+00:00",
-      "title": "24/7 Wall Street: Democratization Of Trading Vs. Behavioral Trap",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

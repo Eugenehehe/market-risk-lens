@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.19,
-    "change_pct": 0.24574049803407494
+    "price": 60.67,
+    "change_pct": -0.6061598951507152
   },
   "risk": {
-    "score": 52,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 51.03
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 50.98
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 61.19
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 60.67
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-18T11:12:40+00:00",
       "title": "2 Safe-and-Steady Stocks for Long-Term Investors and 1 We Ignore",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:28:53+00:00",
+      "title": "Investing In Everpure: Growth Potential You Can't Ignore",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-17T15:08:55+00:00",
       "title": "Did NetApp Borrow Its Record Quarter From The Rest Of The Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T14:53:46+00:00",
-      "title": "AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

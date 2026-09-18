@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 354.71,
-    "change_pct": 2.124780468142684
+    "price": 349.46,
+    "change_pct": 0.6132496473094662
   },
   "risk": {
-    "score": 67,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 335.65
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 334.32
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 354.71
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 349.46
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-18T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T12:35:00+00:00",
       "title": "Top S&P500 movers in Friday's pre-market session",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T11:54:27+00:00",
+      "title": "Rates Could Reach 4.5% On AI Spending, And Semiconductors Get Paid First",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,33 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T09:26:01+00:00",
-      "title": "Warren Buffett's Successor, Greg Abel, Is Wagering Heavily on an AI-Driven Future",
-      "source": "Yahoo",
+      "timestamp": "2026-09-18T10:19:16+00:00",
+      "title": "Google Adds Nobel Laureate Philippe Aghion As Academic Advisor And Ajay Agrawal As Visiting Fellow To AI & Economy Program; Names Anu Madgavkar And Daniel Rock Research Directors",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T08:23:01+00:00",
-      "title": "The “Magnificent Seven” Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:13:21+00:00",
-      "title": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:05:00+00:00",
-      "title": "Own Broadcom by Sept. 21 to Qualify for Its Sept. 30 Dividend. Here's How Many Shares You'd Need for $5,000 in Yearly Dividends.",
-      "source": "Yahoo",
+      "timestamp": "2026-09-18T09:52:34+00:00",
+      "title": "AI Capex Boom Risks 'Massive Capital Destruction' in the US, Warns Veteran Market Strategist: 'You Could Get Some News Item That Suddenly…'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

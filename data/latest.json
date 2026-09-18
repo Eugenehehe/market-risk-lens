@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.41,
-    "change_pct": 0.03191392358894429
+    "price": 219.87,
+    "change_pct": 0.24163399288774645
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 219.65
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 217.69
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 219.41
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 219.87
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T16:40:06+00:00",
+      "title": "Which dow jones stocks are moving on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T13:16:50+00:00",
+      "title": "Nvidia stock is at he top of the laggards, says MAI Capital’s Chris Grisanti",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T12:50:54+00:00",
       "title": "NVIDIA (NASDAQ:NVDA): High-Growth Leadership and Strong Momentum",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-18T12:20:00+00:00",
       "title": "I Don't Plan to Claim Social Security at 62, but This 1 Thing Could Change My Mind",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T12:19:11+00:00",
-      "title": "Here’s When Nividia’s Dominance Fades, Opening Broadcom’s Era of Dominance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T12:17:39+00:00",
-      "title": "Karp Says AI Labs May Need Nationalizing to Escape Lawsuits",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

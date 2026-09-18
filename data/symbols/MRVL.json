@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 240.43,
-    "change_pct": -0.1370659578002975
+    "price": 237.42,
+    "change_pct": -1.387273633493935
   },
   "risk": {
-    "score": 52,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 209.1
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 210.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 240.43
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 237.42
     }
   ],
   "events": [
@@ -514,9 +514,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-18T12:26:16+00:00",
+      "title": "Applied Optoelectronics Is Entering Its Most Important Growth Phase",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T10:43:51+00:00",
       "title": "GlobalFoundries and Marvell agree on SiGe technology expansion",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:39:47+00:00",
+      "title": "Jim Cramer Flags 'Boatload' of Bullish Option Buying in Micron, Sandisk, Intel",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-17T20:58:17+00:00",
       "title": "SentinelOne, Marvell Technology, FormFactor, Teradyne, and Intel Shares Are Soaring, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T20:16:00+00:00",
-      "title": "Generac, Nebius, CoreWeave, Nokia, Lucid, Paramount, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T19:44:03+00:00",
-      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

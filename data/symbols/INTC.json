@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T14:04:20.588585+00:00",
+  "generated_at": "2026-09-18T17:38:52.384161+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 108.49,
-    "change_pct": -0.2849264705882426
+    "price": 107.1,
+    "change_pct": -1.5625
   },
   "risk": {
-    "score": 53,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T16:58:12.401245+00:00",
-      "close": 89.08
-    },
     {
       "timestamp": "2026-09-01T19:50:03.857837+00:00",
       "close": 89.08
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 108.49
+    },
+    {
+      "timestamp": "2026-09-18T17:38:52.384161+00:00",
+      "close": 107.1
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-18T11:05:00+00:00",
       "title": "Intel, Netflix, Berkshire Hathaway, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:39:47+00:00",
+      "title": "Jim Cramer Flags 'Boatload' of Bullish Option Buying in Micron, Sandisk, Intel",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T06:00:00+00:00",
-      "title": "Apple’s Chip Strategy Keeps Paying Dividends",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T03:33:00+00:00",
-      "title": "SK Hynix has a $4 billion problem Intel could help solve",
-      "source": "Yahoo",
+      "timestamp": "2026-09-18T07:55:33+00:00",
+      "title": "Why Is Intel Stock Gaining Friday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
