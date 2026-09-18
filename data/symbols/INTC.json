@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 108.8,
-    "change_pct": 7.669470559129143
+    "price": 108.49,
+    "change_pct": -0.2849264705882426
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 89.51
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 89.08
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 108.8
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 108.49
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-18T12:57:58+00:00",
+      "title": "Options traders buy AI chip calls after Fed rate hike",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T12:27:38+00:00",
+      "title": "One stock is up 540%, and it's not alone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T11:05:00+00:00",
+      "title": "Intel, Netflix, Berkshire Hathaway, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T09:30:00+00:00",
+      "title": "Can Trump’s Deals Survive the Next Congress?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T08:13:21+00:00",
       "title": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T08:00:00+00:00",
+      "title": "Intel: More Foundry Rumors, Less Financial Details",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-18T03:33:00+00:00",
       "title": "SK Hynix has a $4 billion problem Intel could help solve",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T02:17:04+00:00",
-      "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T23:24:04+00:00",
-      "title": "Why Intel Stock Jumped 7.6% Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T23:00:03+00:00",
-      "title": "Why Was Micron Technology Stock Up Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T21:40:43+00:00",
-      "title": "Stock Market Today, Sept. 17: Intel Surges 8% on Rumored SK Hynix Talks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T21:32:19+00:00",
-      "title": "Update: US Equity Indexes Rise, Big Tech Perks Up After Fed's Commitment to Controlling Inflation Sinks Treasury Yields",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

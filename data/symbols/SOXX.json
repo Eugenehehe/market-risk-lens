@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 519.1,
-    "change_pct": 3.3940166513962478
+    "price": 523.67,
+    "change_pct": 0.880369870930453
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 511.04
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 501.52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 519.1
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 523.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T13:20:48+00:00",
+      "title": "Portfolio Fit: CCML",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T12:40:49+00:00",
+      "title": "Portfolio Fit: AIFR",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T02:17:04+00:00",
       "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-17T07:58:36+00:00",
       "title": "What's Going On With AMD Stock Thursday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T05:49:33+00:00",
-      "title": "What's Going On With Micron Technology Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T14:46:15+00:00",
-      "title": "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

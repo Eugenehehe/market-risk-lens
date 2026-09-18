@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 347.3,
-    "change_pct": 2.294483225825461
+    "price": 358.53,
+    "change_pct": 3.2335156924848674
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 370.34
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 370.81
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 347.3
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 358.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T13:00:05+00:00",
+      "title": "Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T12:19:11+00:00",
+      "title": "Here’s When Nividia’s Dominance Fades, Opening Broadcom’s Era of Dominance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T11:37:30+00:00",
+      "title": "AI Chips Update - BrainChip Expands Edge AI Capabilities With New Development Card",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T09:51:12+00:00",
+      "title": "Broadcom (NASDAQ:AVGO): A Compelling Affordable Growth Story With Elite Expansion and Reasonable Forward Valuation",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T08:53:00+00:00",
       "title": "Nvidia vs. Broadcom: Whose AI Revenue Actually Grows Faster From Here?",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-17T22:15:09+00:00",
       "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T21:42:37+00:00",
-      "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T20:00:07+00:00",
-      "title": "Even With $262,000 in VYM, You Wouldn’t Get a $500 Check Every Month",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T19:17:15+00:00",
-      "title": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T18:50:00+00:00",
-      "title": "Meta’s AI chips and Meta One strengthen Bank of America’s outlook",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

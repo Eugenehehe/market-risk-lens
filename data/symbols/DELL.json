@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 588.4,
-    "change_pct": 4.4577393527312825
+    "price": 586.68,
+    "change_pct": -0.2923181509177475
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 456.01
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 437.7
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 588.4
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 586.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T11:50:28+00:00",
+      "title": "Jim Cramer Says Hewlett Packard Enterprise (HPE) Has the “Horses” but Remains a Dell (DELL) “Fan”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T11:41:00+00:00",
+      "title": "Dell InnovateFest 2026 Champions Inclusive and Independent Living for Persons with Disabilities Through AI and Cloud-Native Innovation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T11:13:47+00:00",
+      "title": "Michael Dell's $6.25 Billion Bet on Compounding Wins Over Wall Street and Parents",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T20:20:44+00:00",
       "title": "Should You Buy HP Stock For The Shares It Keeps Retiring?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-17T17:00:11+00:00",
       "title": "Dell’s AI Backlog Surge Positions Stock for $600+ as Server Revenue Doubles",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T15:08:55+00:00",
-      "title": "Did NetApp Borrow Its Record Quarter From The Rest Of The Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T14:53:46+00:00",
-      "title": "AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T13:00:00+00:00",
-      "title": "Techademy Names Dara Elavia Chief Revenue Officer to Accelerate Global Enterprise Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

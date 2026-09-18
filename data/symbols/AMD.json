@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 545.09,
-    "change_pct": 6.359024390243917
+    "price": 549.91,
+    "change_pct": 0.8842576455264206
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T07:40:20.952905+00:00",
-      "close": 470.72
-    },
     {
       "timestamp": "2026-09-01T12:45:18.586055+00:00",
       "close": 470.72
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 545.09
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 549.91
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-18T08:13:21+00:00",
-      "title": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T06:00:00+00:00",
-      "title": "Apple’s Chip Strategy Keeps Paying Dividends",
+      "timestamp": "2026-09-18T12:58:34+00:00",
+      "title": "Stock Market Today: Dow Falls As Oil Erases Losses; Buffett Departs Berkshire (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T03:09:01+00:00",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+      "timestamp": "2026-09-18T12:40:49+00:00",
+      "title": "Portfolio Fit: AIFR",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T02:17:04+00:00",
-      "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+      "timestamp": "2026-09-18T12:27:38+00:00",
+      "title": "One stock is up 540%, and it's not alone",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T00:42:50+00:00",
-      "title": "Dow Jones Futures Fall After S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
+      "timestamp": "2026-09-18T11:46:08+00:00",
+      "title": "Dow Jones Futures: After S&P 500, Nasdaq Rebound, What's Next? Moderna, AMD, SpaceX Flash Buy Signals.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T23:35:49+00:00",
-      "title": "Why AMD Stock Jumped Today",
+      "timestamp": "2026-09-18T10:57:00+00:00",
+      "title": "GMKtec Unveils EVO-X5 Pro at IFA 2026 with AMD Ryzen(TM) AI Max Processors, Introducing the World's First Desktop AI Supercomputer Capable of Running a 300B-Parameter LLM Fully Offline",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T23:21:09+00:00",
-      "title": "Nebius Group (NBIS) Raises AI Cloud Prices As Compute Demand Tests Customer Costs",
+      "timestamp": "2026-09-18T10:13:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T21:40:43+00:00",
-      "title": "Stock Market Today, Sept. 17: Intel Surges 8% on Rumored SK Hynix Talks",
+      "timestamp": "2026-09-18T09:22:13+00:00",
+      "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T08:28:32+00:00",
+      "title": "Why Are Nasdaq, S&P 500 And Dow Futures Rising Premarket? NVDA, CRWV, AMD, SPCX, BE Stocks In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

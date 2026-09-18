@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 977.5,
-    "change_pct": 5.498893745615452
+    "price": 989.64,
+    "change_pct": 1.2419437340153383
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 958.73
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 944.11
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 977.5
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 989.64
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-18T08:13:21+00:00",
-      "title": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T05:20:10+00:00",
-      "title": "Micron's Largest Production Base Faces Strike Threats as Bonus Falls 'Short of Expectations,' Workers Demand Bigger Cut of AI-Driven Profits: Report",
+      "timestamp": "2026-09-18T12:27:38+00:00",
+      "title": "One stock is up 540%, and it's not alone",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T02:17:04+00:00",
-      "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+      "timestamp": "2026-09-18T11:59:39+00:00",
+      "title": "Stock Market Today: Dow Wavers As Oil Extends Losses; Apple, AMD In Buy Zones (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T23:00:03+00:00",
-      "title": "Why Was Micron Technology Stock Up Today?",
+      "timestamp": "2026-09-18T11:37:30+00:00",
+      "title": "AI Chips Update - BrainChip Expands Edge AI Capabilities With New Development Card",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T22:31:00+00:00",
-      "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
+      "timestamp": "2026-09-18T11:27:00+00:00",
+      "title": "Micron Faces Growing China Threat. It’s a Bigger Problem for Memory-Chip Rivals.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T21:40:50+00:00",
-      "title": "SPMO: Becoming A Memory Trade",
+      "timestamp": "2026-09-18T10:12:00+00:00",
+      "title": "What China’s Fresh Memory-Chip Push Means for Micron and SK Hynix",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:10:00+00:00",
+      "title": "Micron Is Still 22% Below Its All-Time High Heading Into Earnings -- Buying Opportunity or Warning Sign?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T08:40:41+00:00",
+      "title": "Micron: Sept. 30 Could Reveal How Big Its Next Buyback Really Is",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-17T21:14:17+00:00",
-      "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T20:21:59+00:00",
-      "title": "AMD Leads Chip Stocks Higher Amid Sector Rebound",
-      "source": "Yahoo",
+      "timestamp": "2026-09-18T08:13:21+00:00",
+      "title": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

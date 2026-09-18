@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 430.26,
-    "change_pct": 3.0020109164033304
+    "price": 431.33,
+    "change_pct": 0.24868684051504442
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 415.32
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 415.82
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 430.26
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 431.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T12:40:49+00:00",
+      "title": "Portfolio Fit: AIFR",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T10:12:22+00:00",
+      "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Ramping 2nm Production And Spending More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T09:22:13+00:00",
+      "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T03:17:16+00:00",
       "title": "Taiwan Semiconductor Manufacturing (TSM) Could Be 14% Overvalued As 2nm MediaTek Win Lands",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-17T12:40:34+00:00",
       "title": "What to Watch: AIFR",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T10:07:59+00:00",
-      "title": "Why Is Tower Semiconductor Stock Soaring Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T04:01:00+00:00",
-      "title": "Intel Considers Rejoining the Memory-Making Biz",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T21:29:59+00:00",
-      "title": "Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

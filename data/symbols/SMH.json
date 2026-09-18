@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T09:53:54.089406+00:00",
+  "generated_at": "2026-09-18T14:04:20.588585+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 560.61,
-    "change_pct": 2.7586333308893707
+    "price": 564.11,
+    "change_pct": 0.6243199372112596
   },
   "risk": {
-    "score": 73,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T12:45:18.586055+00:00",
-      "close": 556.63
-    },
     {
       "timestamp": "2026-09-01T16:58:12.401245+00:00",
       "close": 547
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 560.61
+    },
+    {
+      "timestamp": "2026-09-18T14:04:20.588585+00:00",
+      "close": 564.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T11:14:14+00:00",
+      "title": "Easing Oil Prices, Tech Rally Lift Wall Street Pre-Bell; Asia Up, Europe Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T02:15:00+00:00",
       "title": "Pace The Frontier: What The AI Slowdown Debate Means For Investors",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-16T14:40:57+00:00",
       "title": "New ETF Coverage: KCHP",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-16T12:52:00+00:00",
-      "title": "S&P 500 Gains, Crude Falls Ahead Of Fed's Expected First Hike Since 2023: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
