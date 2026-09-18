@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T17:38:52.384161+00:00",
+  "generated_at": "2026-09-18T19:57:50.633778+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 362.48,
-    "change_pct": -1.0158383397050663
+    "price": 364.88,
+    "change_pct": -0.3604587657017988
   },
   "risk": {
-    "score": 59,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T19:50:03.857837+00:00",
-      "close": 356.18
-    },
     {
       "timestamp": "2026-09-01T22:07:28.910746+00:00",
       "close": 356.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-18T17:38:52.384161+00:00",
       "close": 362.48
+    },
+    {
+      "timestamp": "2026-09-18T19:57:50.633778+00:00",
+      "close": 364.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T18:05:00+00:00",
+      "title": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T11:15:00+00:00",
       "title": "BUZZ Investing: Rising Oil Prices And Treasury Yields Pressure Equities",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-18T08:40:00+00:00",
       "title": "Inside Tesla’s Shanghai Gigafactory. What Its Largest Plant Means for the Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:23:01+00:00",
-      "title": "The “Magnificent Seven” Stocks Have Seen Valuations Tumble. Stocks to Avoid or Once-in-a-Decade Buying Opportunity?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

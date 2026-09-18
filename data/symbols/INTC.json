@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T17:38:52.384161+00:00",
+  "generated_at": "2026-09-18T19:57:50.633778+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 107.1,
-    "change_pct": -1.5625
+    "price": 108.32,
+    "change_pct": -0.4411764705882337
   },
   "risk": {
-    "score": 63,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T19:50:03.857837+00:00",
-      "close": 89.08
-    },
     {
       "timestamp": "2026-09-01T22:07:28.910746+00:00",
       "close": 88.97
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-18T17:38:52.384161+00:00",
       "close": 107.1
+    },
+    {
+      "timestamp": "2026-09-18T19:57:50.633778+00:00",
+      "close": 108.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T18:05:00+00:00",
+      "title": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T18:00:00+00:00",
+      "title": "Friday's session: most active stocks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T12:57:58+00:00",
       "title": "Options traders buy AI chip calls after Fed rate hike",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-18T08:13:21+00:00",
       "title": "Relief Rally: Wall Street Decides a Hawkish Fed It Understands Beats a Fed It Doesn't",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T08:00:00+00:00",
-      "title": "Intel: More Foundry Rumors, Less Financial Details",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T07:55:33+00:00",
-      "title": "Why Is Intel Stock Gaining Friday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

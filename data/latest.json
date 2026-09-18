@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T17:38:52.384161+00:00",
+  "generated_at": "2026-09-18T19:57:50.633778+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 219.87,
-    "change_pct": 0.24163399288774645
+    "price": 221.88,
+    "change_pct": 1.158019513084696
   },
   "risk": {
-    "score": 52,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T19:50:03.857837+00:00",
-      "close": 217.69
-    },
     {
       "timestamp": "2026-09-01T22:07:28.910746+00:00",
       "close": 217.44
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-18T17:38:52.384161+00:00",
       "close": 219.87
+    },
+    {
+      "timestamp": "2026-09-18T19:57:50.633778+00:00",
+      "close": 221.88
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-18T18:05:00+00:00",
+      "title": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-18T16:40:06+00:00",
       "title": "Which dow jones stocks are moving on Friday?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T13:53:49+00:00",
+      "title": "SpaceX: Don't Wait Till It Potentially Becomes The Largest AI Cloud",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-18T12:26:00+00:00",
       "title": "Jensen Huang just gave Nvidia investors a massive 2027 signal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T12:26:00+00:00",
-      "title": "If a Recession Is Coming, History Says This 1 No-Brainer ETF Is the Smartest Buy Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T12:20:00+00:00",
-      "title": "I Don't Plan to Claim Social Security at 62, but This 1 Thing Could Change My Mind",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
