@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:49:53.179707+00:00",
+  "generated_at": "2026-09-18T05:19:03.355994+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 977.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T01:58:05.192290+00:00",
-      "close": 958.73
-    },
     {
       "timestamp": "2026-09-01T07:40:20.952905+00:00",
       "close": 958.73
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-18T00:49:53.179707+00:00",
       "close": 977.5
+    },
+    {
+      "timestamp": "2026-09-18T05:19:03.355994+00:00",
+      "close": 977.5
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-17T22:31:00+00:00",
       "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-17T21:40:50+00:00",
+      "title": "SPMO: Becoming A Memory Trade",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-17T18:37:03+00:00",
       "title": "Micron Jumps 5.5% as Labor Claims AI's Margin Windfall",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T18:02:00+00:00",
-      "title": "The Memory Shortage Is Not Over: More Upside for Micron and Sandisk?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
