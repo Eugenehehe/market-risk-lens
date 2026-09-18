@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T19:57:50.633778+00:00",
+  "generated_at": "2026-09-18T22:27:10.431319+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 150.84,
-    "change_pct": 2.0568335588633246
+    "price": 150.13,
+    "change_pct": 1.5764546684708947
   },
   "risk": {
-    "score": 67,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T22:07:28.910746+00:00",
-      "close": 145.56
-    },
     {
       "timestamp": "2026-09-02T00:10:46.979118+00:00",
       "close": 145.56
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-18T19:57:50.633778+00:00",
       "close": 150.84
+    },
+    {
+      "timestamp": "2026-09-18T22:27:10.431319+00:00",
+      "close": 150.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T19:16:00+00:00",
+      "title": "Bet on These Photonics ETFs to Exploit the Next Wave of AI Revolution",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T18:13:00+00:00",
+      "title": "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T16:22:01+00:00",
+      "title": "Jim Cramer Says to Wait For Corning (GLW) to Fall Further",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T23:20:33+00:00",
       "title": "Corning (GLW) Completes SDM4 Multicore Fiber Specification For AI Data Centers",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-17T15:28:00+00:00",
       "title": "Corning Rides on Expanding Partner Base: Will it Boost Prospects?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T13:50:38+00:00",
-      "title": "Corning (GLW) Rallied on Strong Long-Term Outlook Upgrade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T13:45:15+00:00",
-      "title": "Corning’s (GLW) Leadership Advantage in Adapting to Tech Transitions",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T12:35:01+00:00",
-      "title": "Thursday's pre-market session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
