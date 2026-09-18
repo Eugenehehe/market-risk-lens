@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:19:03.355994+00:00",
+  "generated_at": "2026-09-18T09:53:54.089406+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 337,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-01T01:58:05.192290+00:00",
-      "close": 316.85
-    },
     {
       "timestamp": "2026-09-01T07:40:20.952905+00:00",
       "close": 316.85
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-18T05:19:03.355994+00:00",
       "close": 337
+    },
+    {
+      "timestamp": "2026-09-18T09:53:54.089406+00:00",
+      "close": 337
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T06:00:00+00:00",
+      "title": "Apple’s Chip Strategy Keeps Paying Dividends",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T03:17:15+00:00",
+      "title": "Berkshire Hathaway (BRK.A) Moved Today, What Is Drawing Fresh Attention?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-17T23:20:00+00:00",
       "title": "Warren Buffett Has More Than 50% of His Portfolio in These 3 Stocks. Which One Is the Best Buy Today?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-17T20:07:24+00:00",
       "title": "Apple iPhone 18 Pro Sales Helped By Carrier Promotions",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T19:13:00+00:00",
-      "title": "Apple's iPhone 18 lineup keeps Bank of America bullish",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T19:10:06+00:00",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
