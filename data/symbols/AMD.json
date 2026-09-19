@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:31:25.459925+00:00",
+  "generated_at": "2026-09-19T04:58:16.992396+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 559.82,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T00:10:46.979118+00:00",
-      "close": 459.61
-    },
     {
       "timestamp": "2026-09-02T04:35:16.986212+00:00",
       "close": 459.61
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T00:31:25.459925+00:00",
       "close": 559.82
+    },
+    {
+      "timestamp": "2026-09-19T04:58:16.992396+00:00",
+      "close": 559.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T01:36:29+00:00",
+      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T21:38:30+00:00",
       "title": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-18T19:14:01+00:00",
       "title": "AMD: Gambling With Limited Upside (Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T18:58:32+00:00",
-      "title": "Stock Market Today: Dow Wavers As Oil Extends Losses; Apple, AMD In Buy Zones (Live Coverage)",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
