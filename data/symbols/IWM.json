@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:58:16.992396+00:00",
+  "generated_at": "2026-09-19T09:22:49.798333+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 284.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T09:00:23.286239+00:00",
-      "close": 290.57
-    },
     {
       "timestamp": "2026-09-02T13:32:34.070905+00:00",
       "close": 291.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T04:58:16.992396+00:00",
       "close": 284.1
+    },
+    {
+      "timestamp": "2026-09-19T09:22:49.798333+00:00",
+      "close": 284.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T04:06:11+00:00",
+      "title": "Opportunities At New Lucrative Sector Edges: Precious Metal And Energy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T00:20:00+00:00",
       "title": "Full-Time Employment Has Been Flat For More Than 3 Years",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-18T10:04:31+00:00",
       "title": "QUICK SPARK: $30B Flows Into ETFs, IVV Leads With $6.5B Inflows",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T09:45:00+00:00",
-      "title": "How Today's Economy Rhymes With The Late '90s",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
