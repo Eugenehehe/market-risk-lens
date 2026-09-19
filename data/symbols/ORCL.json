@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:32:45.966169+00:00",
+  "generated_at": "2026-09-19T18:50:10.291850+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 147.61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T19:52:36.407957+00:00",
-      "close": 146
-    },
     {
       "timestamp": "2026-09-02T22:14:16.257382+00:00",
       "close": 145.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T16:32:45.966169+00:00",
       "close": 147.61
+    },
+    {
+      "timestamp": "2026-09-19T18:50:10.291850+00:00",
+      "close": 147.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T14:21:00+00:00",
+      "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T14:02:51+00:00",
       "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-18T22:19:45+00:00",
       "title": "Workday Or Autodesk: Is The Louder AI Story The Better Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T20:21:08+00:00",
-      "title": "Oracle Slides 3.4% as Buy Call Meets a Capital Burden",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

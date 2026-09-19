@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:32:45.966169+00:00",
+  "generated_at": "2026-09-19T18:50:10.291850+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1679.92,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T19:52:36.407957+00:00",
-      "close": 1683.61
-    },
     {
       "timestamp": "2026-09-02T22:14:16.257382+00:00",
       "close": 1682.3
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-19T16:32:45.966169+00:00",
       "close": 1679.92
+    },
+    {
+      "timestamp": "2026-09-19T18:50:10.291850+00:00",
+      "close": 1679.92
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-18T17:18:00+00:00",
       "title": "KLAC Gains From AI Infrastructure: Can It Outpace AMAT & ASML?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T16:05:00+00:00",
+      "title": "2 Stocks Breaking Out Post-FOMC With One Thing in Common",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-17T13:00:04+00:00",
       "title": "ASML Holding N.V. (ASML) is Attracting Investor Attention: Here is What You Should Know",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T09:58:17+00:00",
-      "title": "ASML Showcases Holistic Lithography Solutions At SEMICON India 2026 To Support Growing Local Semiconductor Ecosystem",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
