@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:50:10.291850+00:00",
+  "generated_at": "2026-09-19T21:08:18.570092+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 336.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T19:52:36.407957+00:00",
-      "close": 325.1
-    },
     {
       "timestamp": "2026-09-02T22:14:16.257382+00:00",
       "close": 324.96
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-19T18:50:10.291850+00:00",
       "close": 336.13
+    },
+    {
+      "timestamp": "2026-09-19T21:08:18.570092+00:00",
+      "close": 336.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T19:13:00+00:00",
+      "title": "Cramer strongly recommends buying beaten-down 90s tech legend",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-19T18:50:00+00:00",
+      "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T16:03:00+00:00",
       "title": "Apple gets bullish Wall Street call as iPhone demand jumps",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-19T10:30:30+00:00",
       "title": "Warren Buffett found the most boring way to bet on AI",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T09:00:00+00:00",
-      "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T08:30:24+00:00",
-      "title": "Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

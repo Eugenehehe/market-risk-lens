@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:50:10.291850+00:00",
+  "generated_at": "2026-09-19T21:08:18.570092+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 493.78,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T22:14:16.257382+00:00",
-      "close": 496.82
-    },
     {
       "timestamp": "2026-09-03T00:19:46.657615+00:00",
       "close": 496.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T18:50:10.291850+00:00",
       "close": 493.78
+    },
+    {
+      "timestamp": "2026-09-19T21:08:18.570092+00:00",
+      "close": 493.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T18:50:00+00:00",
+      "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T15:05:00+00:00",
       "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-19T08:50:00+00:00",
       "title": "Sam Altman Admits the AI Industry Has Done \"a Terrible Job\" Explaining Its Benefits Amid Growing Backlash. Should That Worry Nvidia and Microsoft Investors?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T05:12:26+00:00",
-      "title": "Nvidia-backed Nscale Wants to Ride the AI Infrastructure Boom to Wall Street: Files for NYSE IPO",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

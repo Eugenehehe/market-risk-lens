@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:50:10.291850+00:00",
+  "generated_at": "2026-09-19T21:08:18.570092+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 253.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T19:52:36.407957+00:00",
-      "close": 255.11
-    },
     {
       "timestamp": "2026-09-02T22:14:16.257382+00:00",
       "close": 254.98
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T18:50:10.291850+00:00",
       "close": 253.71
+    },
+    {
+      "timestamp": "2026-09-19T21:08:18.570092+00:00",
+      "close": 253.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T18:50:00+00:00",
+      "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T16:47:00+00:00",
       "title": "Bank of America resets Amazon stock forecast on delivery plan",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-19T08:56:42+00:00",
       "title": "How AI concerns moved to the center of the midterm debate",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T08:28:01+00:00",
-      "title": "These 15 Words From Amazon’s Andy Jassy May Eliminate Nvidia’s Biggest Risk",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
