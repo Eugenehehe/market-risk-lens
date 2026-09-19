@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:27:10.431319+00:00",
+  "generated_at": "2026-09-19T00:31:25.459925+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 568.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T00:10:46.979118+00:00",
-      "close": 425
-    },
     {
       "timestamp": "2026-09-02T04:35:16.986212+00:00",
       "close": 425
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-18T22:27:10.431319+00:00",
       "close": 568.06
+    },
+    {
+      "timestamp": "2026-09-19T00:31:25.459925+00:00",
+      "close": 568.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-18T23:06:33+00:00",
+      "title": "Jim Stock Used This Stock As An Indicator Of Investor Sentiment Towards AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T23:06:22+00:00",
+      "title": "Jim Cramer Said The Strength In Oracle (ORCL)’s Shares Was A “Positive Sign”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T19:53:26+00:00",
       "title": "Should You Buy NetApp Stock For The Shares It Keeps Retiring?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-18T14:51:25+00:00",
       "title": "The Options Market Says Dell Stock Can Halve Or Double",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T14:31:01+00:00",
-      "title": "How Much Does Arista Networks Stock Move When The Market Moves?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T13:25:00+00:00",
-      "title": "Snowflake's Product Revenue Accelerates: Can It Outpace DELL & ORCL?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
