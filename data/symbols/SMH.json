@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:15:16.285042+00:00",
+  "generated_at": "2026-09-19T16:32:45.966169+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 573,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T17:17:52.580809+00:00",
-      "close": 549.77
-    },
     {
       "timestamp": "2026-09-02T19:52:36.407957+00:00",
       "close": 550.23
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T13:15:16.285042+00:00",
       "close": 573
+    },
+    {
+      "timestamp": "2026-09-19T16:32:45.966169+00:00",
+      "close": 573
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T10:27:25+00:00",
+      "title": "Big Phase Transition Of AI Alpha",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T23:35:58+00:00",
       "title": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",
@@ -517,6 +525,14 @@
       "timestamp": "2026-09-18T17:25:40+00:00",
       "title": "Why XLK’s Next Rebalance Won’t Fix Its Massive Concentration Problem",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-18T15:15:33+00:00",
+      "title": "$3.2T Chip Boom: Which Semiconductor ETFs Get The Biggest Slice?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-18T12:40:49+00:00",
-      "title": "Portfolio Fit: AIFR",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T11:54:27+00:00",
-      "title": "Rates Could Reach 4.5% On AI Spending, And Semiconductors Get Paid First",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T11:35:00+00:00",
-      "title": "Inflection Points: AI Monetization, Market Volatility, And Valuation Disconnects",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-18T12:55:21+00:00",
+      "title": "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

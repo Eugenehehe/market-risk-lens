@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:15:16.285042+00:00",
+  "generated_at": "2026-09-19T16:32:45.966169+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 568.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-02T17:17:52.580809+00:00",
-      "close": 462.85
-    },
     {
       "timestamp": "2026-09-02T19:52:36.407957+00:00",
       "close": 490.29
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-19T13:15:16.285042+00:00",
       "close": 568.06
+    },
+    {
+      "timestamp": "2026-09-19T16:32:45.966169+00:00",
+      "close": 568.06
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-19T05:13:01+00:00",
       "title": "Sandisk Joins the S&P 100 on Monday -- the Same Day Nike Leaves It",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-19T05:12:26+00:00",
+      "title": "Nvidia-backed Nscale Wants to Ride the AI Infrastructure Boom to Wall Street: Files for NYSE IPO",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-18T19:15:18+00:00",
       "title": "Did SMCI Stock Just Rise For The Wrong Reason?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T18:01:44+00:00",
-      "title": "Super Micro Computer And SMCX: Impressive AI Growth, Yet Far From A Smooth Ride",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
