@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:43:23.395633+00:00",
+  "generated_at": "2026-09-20T17:41:45.175604+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 761.69,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T19:53:23.509434+00:00",
-      "close": 773.21
-    },
     {
       "timestamp": "2026-09-03T22:11:10.595461+00:00",
       "close": 773.17
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-20T14:43:23.395633+00:00",
       "close": 761.69
+    },
+    {
+      "timestamp": "2026-09-20T17:41:45.175604+00:00",
+      "close": 761.69
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-20T13:06:20+00:00",
       "title": "How to Build $3,250 a Month in Dividend Income to Cover a Married Couple’s Social Security Checks, Starting From Zero",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-20T13:05:00+00:00",
+      "title": "Wall Street Brunch: U.S.-China Summit In Spotlight",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-19T23:59:00+00:00",
       "title": "PAPI: Differentiated Approach And Monthly Pay",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T16:05:00+00:00",
-      "title": "Is Berkshire Hathaway Stock a Better Buy Than an S&P 500 Index Fund?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

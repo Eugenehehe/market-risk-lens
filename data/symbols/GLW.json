@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:43:23.395633+00:00",
+  "generated_at": "2026-09-20T17:41:45.175604+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 150.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T19:53:23.509434+00:00",
-      "close": 145.64
-    },
     {
       "timestamp": "2026-09-03T22:11:10.595461+00:00",
       "close": 146
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-20T14:43:23.395633+00:00",
       "close": 150.13
+    },
+    {
+      "timestamp": "2026-09-20T17:41:45.175604+00:00",
+      "close": 150.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T18:42:59+00:00",
+      "title": "Corning Stock Has Fallen 41% From Its Peak. Does the Springboard Plan Still Make GLW Worth Owning?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T06:44:07+00:00",
       "title": "What Moved Markets This Week",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-18T16:11:49+00:00",
       "title": "Fed Raises Rates, Yields Hit 2007 Highs as Fuel Costs Set Records: This Week On Wall Street",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T14:01:39+00:00",
-      "title": "Lumentum Climbs 3% as Optics Buying Extends; Coherent Rises 5%, Corning Jumps 3%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
