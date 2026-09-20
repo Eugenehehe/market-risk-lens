@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:46:59.260348+00:00",
+  "generated_at": "2026-09-20T21:54:50.300874+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 108.6,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T00:07:17.015753+00:00",
-      "close": 91.67
-    },
     {
       "timestamp": "2026-09-04T04:27:31.116993+00:00",
       "close": 91.67
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-20T19:46:59.260348+00:00",
       "close": 108.6
+    },
+    {
+      "timestamp": "2026-09-20T21:54:50.300874+00:00",
+      "close": 108.6
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-20T19:26:00+00:00",
+      "title": "Why I'm Avoiding This Popular AI Stock Despite Its Growth Story",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T22:01:01+00:00",
       "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-19T06:44:07+00:00",
       "title": "What Moved Markets This Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T05:29:54+00:00",
-      "title": "Applied Materials vs. Intel: Examining Revenue Growth Trajectories of These Artificial Intelligence Companies",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
