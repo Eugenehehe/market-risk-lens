@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-19T23:02:05.759590+00:00",
+  "generated_at": "2026-09-20T01:00:18.054566+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1679.92,
     "change_pct": 3.0834463418974334
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 71,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T04:44:11.735633+00:00",
-      "close": 1682.3
-    },
     {
       "timestamp": "2026-09-03T09:13:52.817551+00:00",
       "close": 1682.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-19T23:02:05.759590+00:00",
       "close": 1679.92
+    },
+    {
+      "timestamp": "2026-09-20T01:00:18.054566+00:00",
+      "close": 1679.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-19T17:30:02+00:00",
+      "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-18T17:18:00+00:00",
       "title": "KLAC Gains From AI Infrastructure: Can It Outpace AMAT & ASML?",
@@ -541,30 +549,6 @@
       "timestamp": "2026-09-18T08:10:33+00:00",
       "title": "Forget the AI Bubble: VanEck’s Nick Frasse Explains How MU, SK Hynix, ASML, and TSMC Control the Pace of 'Token Factories'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T18:36:16+00:00",
-      "title": "ASML Gains 1.5% as 110 EUV Machines Test Assembly Speed",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T16:59:47+00:00",
-      "title": "Chasing ASML’s Dominance: Canon and Nikon Are Doing Something The Market Misses",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-17T13:00:04+00:00",
-      "title": "ASML Holding N.V. (ASML) is Attracting Investor Attention: Here is What You Should Know",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
