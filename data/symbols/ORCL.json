@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:03:44.464418+00:00",
+  "generated_at": "2026-09-20T11:14:58.941382+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 147.61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T13:37:43.076443+00:00",
-      "close": 148.27
-    },
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 154.16
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-20T06:03:44.464418+00:00",
       "close": 147.61
+    },
+    {
+      "timestamp": "2026-09-20T11:14:58.941382+00:00",
+      "close": 147.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-20T05:38:09+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-20T04:54:35+00:00",
+      "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-20T00:20:00+00:00",
       "title": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them.",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-19T13:10:57+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Stock May Be 34% Undervalued On Fresh AI Demand News",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T12:00:00+00:00",
-      "title": "Oracle: OpenAI Just Blinked",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T08:30:24+00:00",
-      "title": "Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

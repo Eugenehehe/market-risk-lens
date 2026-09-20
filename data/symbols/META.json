@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:03:44.464418+00:00",
+  "generated_at": "2026-09-20T11:14:58.941382+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 665.75,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T13:37:43.076443+00:00",
-      "close": 616.42
-    },
     {
       "timestamp": "2026-09-03T17:13:29.541098+00:00",
       "close": 612.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-20T06:03:44.464418+00:00",
       "close": 665.75
+    },
+    {
+      "timestamp": "2026-09-20T11:14:58.941382+00:00",
+      "close": 665.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-20T05:38:09+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T18:50:00+00:00",
       "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-19T11:00:00+00:00",
       "title": "Costco, BlackBerry To Headline Earnings In A Muted Week",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T09:00:00+00:00",
-      "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
