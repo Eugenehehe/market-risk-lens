@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:14:58.941382+00:00",
+  "generated_at": "2026-09-20T14:43:23.395633+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 568.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T17:13:29.541098+00:00",
-      "close": 514.64
-    },
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 511.33
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-20T11:14:58.941382+00:00",
       "close": 568.06
+    },
+    {
+      "timestamp": "2026-09-20T14:43:23.395633+00:00",
+      "close": 568.06
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-19T14:27:34+00:00",
       "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-19T13:25:00+00:00",
+      "title": "Priced for a Pullback or More Gains? These 3 Stocks Are Testing the Limits",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-18T19:53:26+00:00",
       "title": "Should You Buy NetApp Stock For The Shares It Keeps Retiring?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T19:24:37+00:00",
-      "title": "Where AAPL Stock's $510 Billion Of Shareholder Cash Came From",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

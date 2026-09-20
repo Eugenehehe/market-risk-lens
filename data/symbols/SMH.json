@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:14:58.941382+00:00",
+  "generated_at": "2026-09-20T14:43:23.395633+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 573,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T17:13:29.541098+00:00",
-      "close": 550.49
-    },
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 551.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-20T11:14:58.941382+00:00",
       "close": 573
+    },
+    {
+      "timestamp": "2026-09-20T14:43:23.395633+00:00",
+      "close": 573
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-20T09:00:00+00:00",
+      "title": "Semis: Market Has Completely Misunderstood The Potential AI Slowdown",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T10:27:25+00:00",
       "title": "Big Phase Transition Of AI Alpha",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-18T13:20:48+00:00",
       "title": "Portfolio Fit: CCML",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T12:55:21+00:00",
-      "title": "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

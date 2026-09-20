@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:14:58.941382+00:00",
+  "generated_at": "2026-09-20T14:43:23.395633+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 108.6,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T17:13:29.541098+00:00",
-      "close": 90.66
-    },
     {
       "timestamp": "2026-09-03T19:53:23.509434+00:00",
       "close": 91.88
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-20T11:14:58.941382+00:00",
       "close": 108.6
+    },
+    {
+      "timestamp": "2026-09-20T14:43:23.395633+00:00",
+      "close": 108.6
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-09-19T17:11:52+00:00",
       "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-19T11:00:00+00:00",
+      "title": "MarketBeat Week in Review – 09/14 - 09/18",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-19T05:29:54+00:00",
       "title": "Applied Materials vs. Intel: Examining Revenue Growth Trajectories of These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T04:45:49+00:00",
-      "title": "UBS now expects AI capex to reach nearly $1tn this year and around $1.4tn by 2027",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
