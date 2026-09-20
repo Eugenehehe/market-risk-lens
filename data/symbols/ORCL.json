@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:41:45.175604+00:00",
+  "generated_at": "2026-09-20T19:46:59.260348+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 147.61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-03T22:11:10.595461+00:00",
-      "close": 154.04
-    },
     {
       "timestamp": "2026-09-04T00:07:17.015753+00:00",
       "close": 154.04
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-20T17:41:45.175604+00:00",
       "close": 147.61
+    },
+    {
+      "timestamp": "2026-09-20T19:46:59.260348+00:00",
+      "close": 147.61
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-09-20T14:37:00+00:00",
       "title": "Oracle CEO sends AI wake-up call to employees",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-20T13:25:08+00:00",
+      "title": "The AI Boom Has A New Problem: The Cost Of Capital",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-20T08:01:35+00:00",
+      "title": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
+      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-19T22:09:00+00:00",
       "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T14:21:00+00:00",
-      "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T14:02:51+00:00",
-      "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
