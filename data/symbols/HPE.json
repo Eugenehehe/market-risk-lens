@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-20T23:52:01.094804+00:00",
+  "generated_at": "2026-09-21T02:33:46.702889+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 60.76,
     "change_pct": -0.4587155963302725
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T08:59:32.081686+00:00",
-      "close": 54.44
-    },
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 54.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-20T23:52:01.094804+00:00",
       "close": 60.76
+    },
+    {
+      "timestamp": "2026-09-21T02:33:46.702889+00:00",
+      "close": 60.76
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-09-19T03:03:00+00:00",
       "title": "Meg Whitman, Albuquerque resident and ex-eBay chief, to lead Albertsons board",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T23:06:33+00:00",
-      "title": "Jim Stock Used This Stock As An Indicator Of Investor Sentiment Towards AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T19:53:26+00:00",
-      "title": "Should You Buy NetApp Stock For The Shares It Keeps Retiring?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T19:15:18+00:00",
-      "title": "Did SMCI Stock Just Rise For The Wrong Reason?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T18:01:44+00:00",
-      "title": "Super Micro Computer And SMCX: Impressive AI Growth, Yet Far From A Smooth Ride",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T16:55:00+00:00",
-      "title": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

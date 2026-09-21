@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T23:52:01.094804+00:00",
+  "generated_at": "2026-09-21T02:33:46.702889+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 573,
     "change_pct": 2.21009257772784
   },
   "risk": {
-    "score": 68,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T08:59:32.081686+00:00",
-      "close": 552.6
-    },
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 552.6
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-20T23:52:01.094804+00:00",
       "close": 573
+    },
+    {
+      "timestamp": "2026-09-21T02:33:46.702889+00:00",
+      "close": 573
     }
   ],
   "events": [
@@ -517,54 +517,6 @@
       "timestamp": "2026-09-19T10:27:25+00:00",
       "title": "Big Phase Transition Of AI Alpha",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T23:35:58+00:00",
-      "title": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T17:25:40+00:00",
-      "title": "Why XLK’s Next Rebalance Won’t Fix Its Massive Concentration Problem",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T15:15:33+00:00",
-      "title": "$3.2T Chip Boom: Which Semiconductor ETFs Get The Biggest Slice?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T14:40:48+00:00",
-      "title": "KCHP’s 0.65% Fee Is Steep, but Only If You Already Own EWY",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T13:38:00+00:00",
-      "title": "BofA Sees Global Chip Market Nearly Doubling: Semiconductor ETFs to Buy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-18T13:20:48+00:00",
-      "title": "Portfolio Fit: CCML",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

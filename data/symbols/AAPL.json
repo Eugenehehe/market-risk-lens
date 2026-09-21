@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:52:01.094804+00:00",
+  "generated_at": "2026-09-21T02:33:46.702889+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 336.13,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T08:59:32.081686+00:00",
-      "close": 328.21
-    },
     {
       "timestamp": "2026-09-04T13:24:36.121442+00:00",
       "close": 328.21
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-20T23:52:01.094804+00:00",
       "close": 336.13
+    },
+    {
+      "timestamp": "2026-09-21T02:33:46.702889+00:00",
+      "close": 336.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-20T23:39:48+00:00",
+      "title": "Apple (AAPL)’s New CEO Bets Big on a $1,999 Foldable iPhone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-20T21:01:23+00:00",
       "title": "10 Years Later: 5 Low-Risk Stocks for the Next Year",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-20T13:00:22+00:00",
       "title": "Turning 73 Forces a Withdrawal From This Stock Whether the Owner Wants the Cash or Not",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-20T11:10:00+00:00",
-      "title": "Greg Abel Recently Plowed $4.2 Billion Into Warren Buffett's Favorite Stock, and It Wasn't Apple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
