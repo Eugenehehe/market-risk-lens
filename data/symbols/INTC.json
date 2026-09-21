@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T08:11:11.226387+00:00",
+  "generated_at": "2026-09-21T15:07:12.827473+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 108.6,
-    "change_pct": -0.18382352941176405
+    "price": 122.84,
+    "change_pct": 13.112338858195226
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T16:56:56.606669+00:00",
-      "close": 95.59
-    },
     {
       "timestamp": "2026-09-04T19:21:29.131961+00:00",
       "close": 94.84
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 108.6
+    },
+    {
+      "timestamp": "2026-09-21T15:07:12.827473+00:00",
+      "close": 122.84
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-20T19:26:00+00:00",
-      "title": "Why I'm Avoiding This Popular AI Stock Despite Its Growth Story",
+      "timestamp": "2026-09-21T14:35:02+00:00",
+      "title": "Monday's session: gap up and gap down stock in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T13:50:33+00:00",
+      "title": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-19T22:01:01+00:00",
-      "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
+      "timestamp": "2026-09-21T13:07:00+00:00",
+      "title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-19T17:11:52+00:00",
-      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "timestamp": "2026-09-21T13:02:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Intel, SK Hynix, Nvidia, Microsoft and Apple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-19T11:00:00+00:00",
-      "title": "MarketBeat Week in Review – 09/14 - 09/18",
+      "timestamp": "2026-09-21T12:43:05+00:00",
+      "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-19T09:00:00+00:00",
-      "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
+      "timestamp": "2026-09-21T12:35:01+00:00",
+      "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T12:35:00+00:00",
+      "title": "Intel and Arm Stocks Are Jumping. Thank Meta’s Muse AI Agent.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-19T08:30:24+00:00",
-      "title": "Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T08:13:41+00:00",
-      "title": "Intel Corporation (INTC)’s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
+      "timestamp": "2026-09-21T12:30:36+00:00",
+      "title": "My AMD Price Prediction Comes Down to One Crucial Growth Opportunity",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T06:44:07+00:00",
-      "title": "What Moved Markets This Week",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

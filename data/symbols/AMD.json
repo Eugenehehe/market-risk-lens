@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T08:11:11.226387+00:00",
+  "generated_at": "2026-09-21T15:07:12.827473+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 559.82,
-    "change_pct": 2.7023060412042055
+    "price": 613.98,
+    "change_pct": 9.674538244435716
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T16:56:56.606669+00:00",
-      "close": 476.54
-    },
     {
       "timestamp": "2026-09-04T19:21:29.131961+00:00",
       "close": 471.88
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 559.82
+    },
+    {
+      "timestamp": "2026-09-21T15:07:12.827473+00:00",
+      "close": 613.98
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-21T05:06:09+00:00",
-      "title": "AMD Stock Jumped 8% Last Week. It Could Bring 325% More, Here’s How.",
+      "timestamp": "2026-09-21T14:35:02+00:00",
+      "title": "Monday's session: gap up and gap down stock in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T13:50:33+00:00",
+      "title": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-21T02:23:32+00:00",
-      "title": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
+      "timestamp": "2026-09-21T13:37:53+00:00",
+      "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-20T23:47:03+00:00",
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "timestamp": "2026-09-21T13:22:00+00:00",
+      "title": "Company News for Sep 21, 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-20T19:28:28+00:00",
-      "title": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
+      "timestamp": "2026-09-21T13:00:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights AMD, Linde, Amgen and INNOVATE",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-20T17:04:35+00:00",
-      "title": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "timestamp": "2026-09-21T12:46:00+00:00",
+      "title": "MindWalk Brings OpenFold3 into Production in Minutes with AMD Inference Microservices on Vultr Kubernetes Engine",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-20T15:13:44+00:00",
-      "title": "3 AI Hardware Stocks Linked To Nvidia And US China Trade Talks",
+      "timestamp": "2026-09-21T12:43:05+00:00",
+      "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-20T08:53:12+00:00",
-      "title": "Broadcom: 5 Reasons To Buy This Dip",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-20T03:33:00+00:00",
-      "title": "Jim Cramer sends a blunt message to AMD stock investors",
-      "source": "Yahoo",
+      "timestamp": "2026-09-21T12:35:01+00:00",
+      "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

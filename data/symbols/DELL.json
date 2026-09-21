@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T08:11:11.226387+00:00",
+  "generated_at": "2026-09-21T15:07:12.827473+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 568.06,
-    "change_pct": -3.4568320870156377
+    "price": 573.63,
+    "change_pct": 0.9805302256803872
   },
   "risk": {
-    "score": 70,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T16:56:56.606669+00:00",
-      "close": 522.25
-    },
     {
       "timestamp": "2026-09-04T19:21:29.131961+00:00",
       "close": 518.01
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 568.06
+    },
+    {
+      "timestamp": "2026-09-21T15:07:12.827473+00:00",
+      "close": 573.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-21T13:27:00+00:00",
+      "title": "Dell Technologies Introduces XPS Googlebook: The First XPS Laptop Built for Gemini Intelligence",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T13:15:02+00:00",
+      "title": "Dell Technologies Inc. (DELL) Hits Fresh High: Is There Still Room to Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T11:55:00+00:00",
+      "title": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-19T14:27:34+00:00",
       "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
