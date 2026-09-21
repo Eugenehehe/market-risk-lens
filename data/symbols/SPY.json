@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T19:58:53.233158+00:00",
+  "generated_at": "2026-09-21T23:11:08.830201+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 773.83,
-    "change_pct": 1.5938242592130614
+    "price": 773.5,
+    "change_pct": 1.5504995470598137
   },
   "risk": {
     "score": 63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T21:36:11.947080+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-04T23:18:26.892359+00:00",
       "close": 770.19
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-21T19:58:53.233158+00:00",
       "close": 773.83
+    },
+    {
+      "timestamp": "2026-09-21T23:11:08.830201+00:00",
+      "close": 773.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-21T22:04:54+00:00",
+      "title": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club —  AMD, ARM, META, AMZN, PSKY In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T19:06:31+00:00",
+      "title": "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T18:55:47+00:00",
+      "title": "Redwire Surges 8% but Is Still Down 3% in a Month: Will the Bulls or Bears Win?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T18:09:12+00:00",
+      "title": "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-21T18:01:05+00:00",
       "title": "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-21T15:45:55+00:00",
       "title": "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T15:40:02+00:00",
-      "title": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T15:00:40+00:00",
-      "title": "Super Micro Computer Looks Very Intriguing Right Now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T14:18:00+00:00",
-      "title": "Trading Week Starts Up on Quiet Pre-Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T14:14:18+00:00",
-      "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
