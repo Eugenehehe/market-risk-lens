@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T15:07:12.827473+00:00",
+  "generated_at": "2026-09-21T19:58:53.233158+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 60.67,
-    "change_pct": -0.1481237656352774
+    "price": 61.64,
+    "change_pct": 1.4483212639894605
   },
   "risk": {
-    "score": 46,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T19:21:29.131961+00:00",
-      "close": 51.6
-    },
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-21T15:07:12.827473+00:00",
       "close": 60.67
+    },
+    {
+      "timestamp": "2026-09-21T19:58:53.233158+00:00",
+      "close": 61.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-21T16:29:00+00:00",
+      "title": "Can SMCI's Record Backlog Sustain Revenue Momentum in FY27?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T14:28:52+00:00",
+      "title": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-21T11:55:00+00:00",
       "title": "Buy Top-Ranked DELL, SMCI & HPE to Form a Powerful AI-Server Portfolio",

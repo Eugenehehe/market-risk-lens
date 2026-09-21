@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T15:07:12.827473+00:00",
+  "generated_at": "2026-09-21T19:58:53.233158+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 736.21,
-    "change_pct": 2.045879825351715
+    "price": 741.72,
+    "change_pct": 2.809619516251982
   },
   "risk": {
-    "score": 67,
+    "score": 73,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T19:21:29.131961+00:00",
-      "close": 717.82
-    },
     {
       "timestamp": "2026-09-04T21:36:11.947080+00:00",
       "close": 718.96
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-21T15:07:12.827473+00:00",
       "close": 736.21
+    },
+    {
+      "timestamp": "2026-09-21T19:58:53.233158+00:00",
+      "close": 741.72
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-09-21T13:23:24+00:00",
       "title": "Exchange-Traded Funds Rise, Equity Futures up Pre-Bell Monday as Oil Prices Decline",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T10:55:53+00:00",
+      "title": "SpaceX’s Nasdaq-100 Weight Just More Than Doubled. Here’s Where ETF Money Is Heading",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-21T06:02:21+00:00",
       "title": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran — MRVL, AAPL, ACN in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T05:58:03+00:00",
-      "title": "Reported Earlier, 'Chinese rare earth shipments to US drop ahead of Trump-Xi summit' - Financial Times",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
