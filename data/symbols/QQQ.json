@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:33:46.702889+00:00",
+  "generated_at": "2026-09-21T08:11:11.226387+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 721.45,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T13:24:36.121442+00:00",
-      "close": 717.67
-    },
     {
       "timestamp": "2026-09-04T16:56:56.606669+00:00",
       "close": 719.42
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 721.45
+    },
+    {
+      "timestamp": "2026-09-21T08:11:11.226387+00:00",
+      "close": 721.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-21T04:37:04+00:00",
+      "title": "Biotech Week Ahead: XLV Beats The Market — Here Are The Stocks, Readouts And Events To Watch Next",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-20T20:20:01+00:00",
       "title": "If the AI Bubble Bursts as the Dot-Com Did, History Says the QQQ Might Not Recover Until 2042",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-20T01:54:01+00:00",
       "title": "History Says Buying the Nasdaq-100 at the Dot-Com Peak Still (Eventually) Turned $10,000 Into About $72,000",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T19:26:58+00:00",
-      "title": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

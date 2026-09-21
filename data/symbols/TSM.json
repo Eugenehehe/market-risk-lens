@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:33:46.702889+00:00",
+  "generated_at": "2026-09-21T08:11:11.226387+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 434.67,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T13:24:36.121442+00:00",
-      "close": 417.01
-    },
     {
       "timestamp": "2026-09-04T16:56:56.606669+00:00",
       "close": 428.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 434.67
+    },
+    {
+      "timestamp": "2026-09-21T08:11:11.226387+00:00",
+      "close": 434.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-21T05:19:36+00:00",
+      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-20T21:41:29+00:00",
       "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-19T17:30:02+00:00",
       "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T12:51:04+00:00",
-      "title": "Taiwan Semiconductor (NYSE:TSM): High Growth Momentum Meets a Breakout Setup",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
