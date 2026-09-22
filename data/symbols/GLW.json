@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:46:36.753859+00:00",
+  "generated_at": "2026-09-22T12:05:08.287402+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 158.98,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T05:42:57.253173+00:00",
-      "close": 154.3
-    },
     {
       "timestamp": "2026-09-05T09:26:30.629056+00:00",
       "close": 154.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 158.98
+    },
+    {
+      "timestamp": "2026-09-22T12:05:08.287402+00:00",
+      "close": 158.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T08:21:17+00:00",
+      "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T01:42:25+00:00",
       "title": "Why Corning (GLW) Stock Is Trading Up Today",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-21T12:35:01+00:00",
       "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T12:13:16+00:00",
-      "title": "AI Networking Bet Sends Qualcomm, Lumentum Shares Higher",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
