@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T16:52:40.311603+00:00",
+  "generated_at": "2026-09-22T19:58:59.175655+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 567.59,
-    "change_pct": 1.4749526227339382
+    "price": 572.93,
+    "change_pct": 2.4296492294489713
   },
   "risk": {
-    "score": 62,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T12:57:10.222282+00:00",
-      "close": 519.86
-    },
     {
       "timestamp": "2026-09-05T15:51:49.040808+00:00",
       "close": 519.86
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 567.59
+    },
+    {
+      "timestamp": "2026-09-22T19:58:59.175655+00:00",
+      "close": 572.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T14:55:00+00:00",
+      "title": "Don't Sleep On Analog Semiconductors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T14:31:40+00:00",
+      "title": "AMD: I Still Prefer Nvidia Or SOXX To This $1 Trillion Challenger",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T11:06:06+00:00",
       "title": "Undercovered Dozen: Rithm Capital, Sterling Infrastructure, Corning And More",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-22T04:44:42+00:00",
       "title": "PSI: A Semiconductor ETF Built Around More Than Nvidia",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:53:14+00:00",
-      "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:16:27+00:00",
-      "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

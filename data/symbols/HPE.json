@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T16:52:40.311603+00:00",
+  "generated_at": "2026-09-22T19:58:59.175655+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 60.82,
-    "change_pct": -1.5060728744939245
+    "price": 61.24,
+    "change_pct": -0.8259109311740898
   },
   "risk": {
-    "score": 63,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T12:57:10.222282+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-05T15:51:49.040808+00:00",
       "close": 52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 60.82
+    },
+    {
+      "timestamp": "2026-09-22T19:58:59.175655+00:00",
+      "close": 61.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T17:01:49+00:00",
+      "title": "Can Dell's Margins Catch Up With Its Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T15:42:00+00:00",
       "title": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-21T14:28:52+00:00",
       "title": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T12:30:25+00:00",
-      "title": "Here's How Much $100 Invested In Hewlett Packard 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

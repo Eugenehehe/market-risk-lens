@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T16:52:40.311603+00:00",
+  "generated_at": "2026-09-22T19:58:59.175655+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 603.47,
-    "change_pct": 1.248259315806255
+    "price": 607.83,
+    "change_pct": 1.9797661191550908
   },
   "risk": {
-    "score": 60,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T12:57:10.222282+00:00",
-      "close": 567.01
-    },
     {
       "timestamp": "2026-09-05T15:51:49.040808+00:00",
       "close": 567.01
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 603.47
+    },
+    {
+      "timestamp": "2026-09-22T19:58:59.175655+00:00",
+      "close": 607.83
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T14:55:00+00:00",
+      "title": "Don't Sleep On Analog Semiconductors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T11:06:06+00:00",
       "title": "Undercovered Dozen: Rithm Capital, Sterling Infrastructure, Corning And More",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-21T13:51:25+00:00",
       "title": "Nasdaq 100 Rallies, Intel Soars 14%: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T11:17:27+00:00",
-      "title": "Easing Oil Bills, Pending Xi US Visit Buoy Wall Street Pre-Bell; Asia, Europe Up",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
