@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T19:58:59.175655+00:00",
+  "generated_at": "2026-09-22T22:52:34.454526+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 379.34,
-    "change_pct": 1.076472155608843
+    "price": 378.9,
+    "change_pct": 0.9592326139088669
   },
   "risk": {
-    "score": 59,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T15:51:49.040808+00:00",
-      "close": 354.08
-    },
     {
       "timestamp": "2026-09-05T17:48:47.424307+00:00",
       "close": 354.08
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-22T19:58:59.175655+00:00",
       "close": 379.34
+    },
+    {
+      "timestamp": "2026-09-22T22:52:34.454526+00:00",
+      "close": 378.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T20:33:00+00:00",
+      "title": "The Robotaxi payday Tesla promised owners isn't coming",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T19:24:59+00:00",
+      "title": "Saudi Arabia Plans To Compete With Tesla",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T18:16:59+00:00",
+      "title": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T17:23:35+00:00",
       "title": "How to organize AI governance: Is it a job for the pope?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-22T16:40:16+00:00",
       "title": "As Trump and Xi meet, TD Cowen says the auto stock sell-off on Chinese car fears is 'overdone'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T16:25:00+00:00",
-      "title": "Wall Street Loves This EV Stock. Here's Why I'm Not Buying.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T15:52:39+00:00",
-      "title": "Bitcoin News: X Launches Cashtag Partner Program",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T15:19:00+00:00",
-      "title": "Robotaxi competition revs up as Uber makes $10B investment in autonomous vehicles",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

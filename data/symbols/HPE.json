@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T19:58:59.175655+00:00",
+  "generated_at": "2026-09-22T22:52:34.454526+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.24,
-    "change_pct": -0.8259109311740898
+    "price": 61.03,
+    "change_pct": -1.165991902834007
   },
   "risk": {
-    "score": 57,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T15:51:49.040808+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-05T17:48:47.424307+00:00",
       "close": 52
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-22T19:58:59.175655+00:00",
       "close": 61.24
+    },
+    {
+      "timestamp": "2026-09-22T22:52:34.454526+00:00",
+      "close": 61.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T20:47:00+00:00",
+      "title": "Best Value Stocks to Buy Now with the Stock Market at New Highs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T19:27:08+00:00",
+      "title": "Has Arista Networks Stock Quietly Become A Different Bet?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T18:58:18+00:00",
+      "title": "What Are You Really Paying For SanDisk's AI Flash Boom?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T17:01:49+00:00",
       "title": "Can Dell's Margins Catch Up With Its Stock?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-22T09:29:28+00:00",
       "title": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T19:00:00+00:00",
-      "title": "Beyond NVIDIA: 2 AI Data Center Stocks to Buy for More Upside",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:29:00+00:00",
-      "title": "Can SMCI's Record Backlog Sustain Revenue Momentum in FY27?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T14:28:52+00:00",
-      "title": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
