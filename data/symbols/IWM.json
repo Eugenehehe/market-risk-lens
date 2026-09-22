@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T23:11:08.830201+00:00",
+  "generated_at": "2026-09-22T01:36:41.826615+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 285.58,
     "change_pct": 0.5209433298134281
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 45,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T23:18:26.892359+00:00",
-      "close": 296.01
-    },
     {
       "timestamp": "2026-09-05T01:06:17.857201+00:00",
       "close": 296.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 285.58
+    },
+    {
+      "timestamp": "2026-09-22T01:36:41.826615+00:00",
+      "close": 285.58
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-09-20T08:40:00+00:00",
       "title": "The Fed Rate Hike Won't Fix The Inflation It Targets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T12:04:15+00:00",
-      "title": "The 1-Minute Market Report September 19, 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T10:35:26+00:00",
-      "title": "The Fed Hikes: Enhancing My 5.2% Yielding Fixed Income Portfolio",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T10:20:00+00:00",
-      "title": "The Fed Is Setting Financials Up For Another 2022",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T08:15:11+00:00",
-      "title": "A Mess In The West? Canada's EU Alliance Creates New Investment Opportunities",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T08:00:00+00:00",
-      "title": "Wednesday's Fed Funds Rate Hike Is No Panacea",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

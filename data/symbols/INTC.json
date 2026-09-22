@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:11:08.830201+00:00",
+  "generated_at": "2026-09-22T01:36:41.826615+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 121.78,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T23:18:26.892359+00:00",
-      "close": 95.8
-    },
     {
       "timestamp": "2026-09-05T01:06:17.857201+00:00",
       "close": 95.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 121.78
+    },
+    {
+      "timestamp": "2026-09-22T01:36:41.826615+00:00",
+      "close": 121.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-21T23:20:00+00:00",
+      "title": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-21T21:13:25+00:00",
       "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-21T19:53:00+00:00",
       "title": "Update: US Equity Indexes Jump as Communication Services, Technology Giants Surge Amid Sliding Crude Oil Prices",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T19:50:01+00:00",
-      "title": "Intel's CEO Just Gave Micron Technology Investors Great News",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T23:11:08.830201+00:00",
+  "generated_at": "2026-09-22T01:36:41.826615+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 596.03,
     "change_pct": 4.019197207678871
   },
   "risk": {
-    "score": 70,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T23:18:26.892359+00:00",
-      "close": 567.01
-    },
     {
       "timestamp": "2026-09-05T01:06:17.857201+00:00",
       "close": 567.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 596.03
+    },
+    {
+      "timestamp": "2026-09-22T01:36:41.826615+00:00",
+      "close": 596.03
     }
   ],
   "events": [
@@ -532,14 +532,6 @@
     {
       "timestamp": "2026-09-20T09:00:00+00:00",
       "title": "Semis: Market Has Completely Misunderstood The Potential AI Slowdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T10:27:25+00:00",
-      "title": "Big Phase Transition Of AI Alpha",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

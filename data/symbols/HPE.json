@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T23:11:08.830201+00:00",
+  "generated_at": "2026-09-22T01:36:41.826615+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 61.75,
     "change_pct": 1.6293614219881514
   },
   "risk": {
-    "score": 64,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-04T23:18:26.892359+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-05T01:06:17.857201+00:00",
       "close": 52
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 61.75
+    },
+    {
+      "timestamp": "2026-09-22T01:36:41.826615+00:00",
+      "close": 61.75
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-09-21T10:22:25+00:00",
       "title": "3 S&P 500 Stocks to Target This Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T16:13:26+00:00",
-      "title": "Hewlett Packard Enterprise (HPE) Wins Top Zacks Rank, Is It Still Undervalued?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T13:10:57+00:00",
-      "title": "Hewlett Packard Enterprise (HPE) Stock May Be 34% Undervalued On Fresh AI Demand News",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-19T03:03:00+00:00",
-      "title": "Meg Whitman, Albuquerque resident and ex-eBay chief, to lead Albertsons board",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
