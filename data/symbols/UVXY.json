@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T01:36:41.826615+00:00",
+  "generated_at": "2026-09-22T06:46:36.753859+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 17.38,
     "change_pct": -0.8556759840273931
   },
   "risk": {
-    "score": 41,
+    "score": 43,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T01:06:17.857201+00:00",
-      "close": 17.53
-    },
     {
       "timestamp": "2026-09-05T05:42:57.253173+00:00",
       "close": 17.53
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-22T01:36:41.826615+00:00",
       "close": 17.38
+    },
+    {
+      "timestamp": "2026-09-22T06:46:36.753859+00:00",
+      "close": 17.38
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-22T00:30:00+00:00",
+      "title": "Oil-Rates Correlation Jumps To A 35-Year High",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

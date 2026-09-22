@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:36:41.826615+00:00",
+  "generated_at": "2026-09-22T06:46:36.753859+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T01:06:17.857201+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-05T05:42:57.253173+00:00",
       "close": 770.19
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-22T01:36:41.826615+00:00",
       "close": 773.5
+    },
+    {
+      "timestamp": "2026-09-22T06:46:36.753859+00:00",
+      "close": 773.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T05:55:14+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T00:30:00+00:00",
+      "title": "Oil-Rates Correlation Jumps To A 35-Year High",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T23:15:00+00:00",
+      "title": "World Markets Watchlist: September 21, 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-21T22:04:54+00:00",
       "title": "Nasdaq Ends Nearly 3% Higher As AI Stocks Pop, AMD Enters $1 Trillion Club —  AMD, ARM, META, AMZN, PSKY In Focus",
@@ -522,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-21T18:59:16+00:00",
+      "title": "The S&P 500 Just Lost Its Favorite Engine (Rating Reiteration)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-21T18:55:47+00:00",
       "title": "Redwire Surges 8% but Is Still Down 3% in a Month: Will the Bulls or Bears Win?",
       "source": "Yahoo",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-21T18:09:12+00:00",
       "title": "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T18:01:05+00:00",
-      "title": "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:54:14+00:00",
-      "title": "S&P 500 Will ‘Easily’ Top 8,000 Before Historic Crash, ‘Black Swan’ Fund Manager Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:46:52+00:00",
-      "title": "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T15:45:55+00:00",
-      "title": "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

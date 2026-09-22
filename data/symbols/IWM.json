@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T01:36:41.826615+00:00",
+  "generated_at": "2026-09-22T06:46:36.753859+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 285.58,
     "change_pct": 0.5209433298134281
   },
   "risk": {
-    "score": 45,
+    "score": 49,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T01:06:17.857201+00:00",
-      "close": 296.01
-    },
     {
       "timestamp": "2026-09-05T05:42:57.253173+00:00",
       "close": 296.01
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-22T01:36:41.826615+00:00",
       "close": 285.58
+    },
+    {
+      "timestamp": "2026-09-22T06:46:36.753859+00:00",
+      "close": 285.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T00:30:00+00:00",
+      "title": "Oil-Rates Correlation Jumps To A 35-Year High",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-21T23:15:00+00:00",
+      "title": "World Markets Watchlist: September 21, 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-20T18:48:33+00:00",
       "title": "AI's Power Bottleneck Is Here, Profiting Is The Hard Part",
