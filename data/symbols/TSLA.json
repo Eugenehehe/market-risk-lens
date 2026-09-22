@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T12:05:08.287402+00:00",
+  "generated_at": "2026-09-22T16:52:40.311603+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 375.3,
-    "change_pct": 3.0279737557306508
+    "price": 378.43,
+    "change_pct": 0.833999467092994
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T09:26:30.629056+00:00",
-      "close": 354.08
-    },
     {
       "timestamp": "2026-09-05T12:57:10.222282+00:00",
       "close": 354.08
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-22T12:05:08.287402+00:00",
       "close": 375.3
+    },
+    {
+      "timestamp": "2026-09-22T16:52:40.311603+00:00",
+      "close": 378.43
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-22T07:05:00+00:00",
-      "title": "September Stagnation Marked By Record-Low Yields, High Duration Risk And High Valuations",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T06:02:01+00:00",
-      "title": "TSLA, SPCX, AAPL Could Be Next To ‘Rip’ After Meta’s Muse Rally, Analyst Says — Here Are The Catalysts",
+      "timestamp": "2026-09-22T15:19:00+00:00",
+      "title": "Robotaxi competition revs up as Uber makes $10B investment in autonomous vehicles",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T05:21:38+00:00",
-      "title": "SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla ‘Physical AI’ Flywheel, Musk ‘Effectively’ Ships Grok 4.7 On Time",
+      "timestamp": "2026-09-22T14:51:36+00:00",
+      "title": "Goldman, Morgan Stanley Ride $17.2B China Tech Boom as AI Truce Odds Sit at 10%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T01:15:36+00:00",
-      "title": "What Could A Space Exploration Technologies (SPCX) Merger Mean For Investors?",
+      "timestamp": "2026-09-22T14:23:00+00:00",
+      "title": "Tesla, Waymo, and Zoox are driving a nightmarish year for these 2 stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T01:12:24+00:00",
-      "title": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To ‘Physical AI’ Pivot Despite Optimus Delays",
+      "timestamp": "2026-09-22T14:15:00+00:00",
+      "title": "Robotaxi competition revs up, weighing on Uber and Lyft stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-21T23:24:16+00:00",
-      "title": "Robotaxis crash less. So why isn't your insurance cheaper?",
+      "timestamp": "2026-09-22T14:03:00+00:00",
+      "title": "The Magnificent 7 are back: Meta’s AI bet leads the charge",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-21T21:30:14+00:00",
-      "title": "Tesla Audits Chinese Suppliers as Elon Musk’s Optimus Robot Moves Closer to Mass Production: Report",
+      "timestamp": "2026-09-22T13:22:58+00:00",
+      "title": "SpaceX Just Got a Major AI Vote of Confidence From Wall Street",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-21T19:46:11+00:00",
-      "title": "Tesla Gains 3% as Fremont Bias Claims Reach Trial",
+      "timestamp": "2026-09-22T13:03:00+00:00",
+      "title": "Tesla's top priority gets a cold splash of reality from China",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T13:00:00+00:00",
+      "title": "ClickHouse Appoints Mike Scarpelli, Former Snowflake and ServiceNow CFO, to Board of Directors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

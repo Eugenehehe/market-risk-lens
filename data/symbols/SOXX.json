@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T12:05:08.287402+00:00",
+  "generated_at": "2026-09-22T16:52:40.311603+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 559.34,
-    "change_pct": 4.928058228750443
+    "price": 567.59,
+    "change_pct": 1.4749526227339382
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T09:26:30.629056+00:00",
-      "close": 519.86
-    },
     {
       "timestamp": "2026-09-05T12:57:10.222282+00:00",
       "close": 519.86
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-22T12:05:08.287402+00:00",
       "close": 559.34
+    },
+    {
+      "timestamp": "2026-09-22T16:52:40.311603+00:00",
+      "close": 567.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T11:06:06+00:00",
+      "title": "Undercovered Dozen: Rithm Capital, Sterling Infrastructure, Corning And More",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T08:55:00+00:00",
+      "title": "AI Optimism Returns, Pushing Inflation Risks Into The Background",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T07:45:21+00:00",
+      "title": "What's Going On With AMD Stock Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T07:36:54+00:00",
+      "title": "SOXX: Earnings Growth Still Supports A Buy, But The Macro Regime Will Decide The Multiple",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T07:25:47+00:00",
+      "title": "Custom Chips May Outpace GPUs By 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T04:44:42+00:00",
       "title": "PSI: A Semiconductor ETF Built Around More Than Nvidia",
@@ -525,46 +565,6 @@
       "timestamp": "2026-09-21T16:16:27+00:00",
       "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T15:24:10+00:00",
-      "title": "Arm Surges 13% as Meta’s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T13:37:53+00:00",
-      "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T11:25:07+00:00",
-      "title": "“Our Targets Haven’t Changed”: Broadcom’s CEO Pushes Back on the AI Slowdown Scare",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T11:03:14+00:00",
-      "title": "Markets News, Sept. 21, 2026: Nasdaq Closes at Record as Tech Stocks Climb; AMD Snags $1 Trillion Market Cap; Oil Prices, Bond Yields Fall",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T08:26:51+00:00",
-      "title": "What's Going On With AMD Stock Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

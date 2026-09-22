@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T12:05:08.287402+00:00",
+  "generated_at": "2026-09-22T16:52:40.311603+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 158.98,
-    "change_pct": 5.894891094384858
+    "price": 158.96,
+    "change_pct": -0.012580198767131456
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T09:26:30.629056+00:00",
-      "close": 154.3
-    },
     {
       "timestamp": "2026-09-05T12:57:10.222282+00:00",
       "close": 154.3
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-22T12:05:08.287402+00:00",
       "close": 158.98
+    },
+    {
+      "timestamp": "2026-09-22T16:52:40.311603+00:00",
+      "close": 158.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T13:30:00+00:00",
+      "title": "Ciena Expands Global Subsea Footprint With ACE & ECHO Upgrades",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T12:30:02+00:00",
+      "title": "Here's How Much You'd Have If You Invested $1000 in Corning a Decade Ago",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T11:06:06+00:00",
+      "title": "Undercovered Dozen: Rithm Capital, Sterling Infrastructure, Corning And More",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T08:21:17+00:00",
       "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-21T16:46:52+00:00",
       "title": "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:35:01+00:00",
-      "title": "Discover which S&P500 stocks are making waves on Monday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T13:01:00+00:00",
-      "title": "Why This AI Bottleneck Means Ciena Stock Has 58% Upside",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T12:35:01+00:00",
-      "title": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

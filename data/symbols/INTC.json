@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-22T12:05:08.287402+00:00",
+  "generated_at": "2026-09-22T16:52:40.311603+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 121.78,
-    "change_pct": 12.136279926335192
+    "price": 121.33,
+    "change_pct": -0.36951880440138085
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T09:26:30.629056+00:00",
-      "close": 95.8
-    },
     {
       "timestamp": "2026-09-05T12:57:10.222282+00:00",
       "close": 95.8
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-22T12:05:08.287402+00:00",
       "close": 121.78
+    },
+    {
+      "timestamp": "2026-09-22T16:52:40.311603+00:00",
+      "close": 121.33
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-22T09:30:00+00:00",
-      "title": "Odessa Appoints Mathew Abraham as Chief Executive Officer",
+      "timestamp": "2026-09-22T15:47:24+00:00",
+      "title": "Google Pushes ChromeOS Upmarket as Apple Moves Down",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T09:29:28+00:00",
-      "title": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T06:18:21+00:00",
-      "title": "Astera Labs Stock Jumped 12% Yesterday. The Street Sees 14% More Upside, Here’s Why.",
+      "timestamp": "2026-09-22T15:22:00+00:00",
+      "title": "Can Intel's Core Ultra Expansion With Googlebook Benefit the Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T05:15:05+00:00",
-      "title": "Intel (INTC) Sees AI CPU Demand Squeeze As CEO Flags 50% Fulfillment",
+      "timestamp": "2026-09-22T15:12:17+00:00",
+      "title": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T04:44:42+00:00",
-      "title": "PSI: A Semiconductor ETF Built Around More Than Nvidia",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T01:50:51+00:00",
-      "title": "ARM, Intel, AMD Surge As Meta’s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
+      "timestamp": "2026-09-22T14:44:00+00:00",
+      "title": "Is ASE Technology's $10.5B CapEx Plan Key to Capturing AI Demand?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T01:03:18+00:00",
-      "title": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
+      "timestamp": "2026-09-22T14:32:01+00:00",
+      "title": "AMD Just Crossed $1 Trillion. Is it Still Worth Buying Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-22T00:22:25+00:00",
-      "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+      "timestamp": "2026-09-22T12:54:55+00:00",
+      "title": "BlackBerry Jumps 7% as Coretura Selects QNX-Based Alloy Kore for Truck Platform; Aptiv Edges Higher, Mobileye Barely Budges",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T12:52:06+00:00",
+      "title": "The return of the AI rally: What's fueling the latest push into tech?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T12:33:17+00:00",
+      "title": "Google Just Made a Big Move to Challenge Apple in Laptops",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
