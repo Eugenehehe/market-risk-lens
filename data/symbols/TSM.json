@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:56:49.265557+00:00",
+  "generated_at": "2026-09-23T11:09:54.948543+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 452,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T21:40:48.976185+00:00",
-      "close": 428.91
-    },
     {
       "timestamp": "2026-09-05T23:20:36.060458+00:00",
       "close": 428.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-23T05:56:49.265557+00:00",
       "close": 452
+    },
+    {
+      "timestamp": "2026-09-23T11:09:54.948543+00:00",
+      "close": 452
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T22:03:37+00:00",
+      "title": "Intel vs. TSMC: One Chip Stock Controls 72.5% of the Foundry Market. The Other Is Mounting a Comeback.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T19:05:33+00:00",
       "title": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-22T02:37:48+00:00",
       "title": "Stocks rise on AI buzz, drop in oil prices",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T21:45:35+00:00",
-      "title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

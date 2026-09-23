@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T05:56:49.265557+00:00",
+  "generated_at": "2026-09-23T11:09:54.948543+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 16.48,
     "change_pct": -2.715466351829998
   },
   "risk": {
-    "score": 58,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T21:40:48.976185+00:00",
-      "close": 17
-    },
     {
       "timestamp": "2026-09-05T23:20:36.060458+00:00",
       "close": 17
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-23T05:56:49.265557+00:00",
       "close": 16.48
+    },
+    {
+      "timestamp": "2026-09-23T11:09:54.948543+00:00",
+      "close": 16.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T03:03:10+00:00",
+      "title": "VIXY: A High-Conviction Tactical October Hedge, Not A Long-Term Buy (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T00:30:00+00:00",
       "title": "Oil-Rates Correlation Jumps To A 35-Year High",
