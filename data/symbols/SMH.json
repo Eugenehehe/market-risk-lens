@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T11:09:54.948543+00:00",
+  "generated_at": "2026-09-23T15:26:51.128157+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 607.46,
-    "change_pct": 1.9176887069442872
+    "price": 601.03,
+    "change_pct": -1.0585059098541572
   },
   "risk": {
-    "score": 66,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T23:20:36.060458+00:00",
-      "close": 567.01
-    },
     {
       "timestamp": "2026-09-06T01:07:20.676670+00:00",
       "close": 567.01
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 607.46
+    },
+    {
+      "timestamp": "2026-09-23T15:26:51.128157+00:00",
+      "close": 601.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T11:15:39+00:00",
+      "title": "US-Iran, Tech Outlooks Pause Wall Street Pre-Bell, Asia Mixed, Europe Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T10:53:57+00:00",
+      "title": "The S&P 500 Is Following The Midterm Playbook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T06:35:00+00:00",
       "title": "What's Really Driving The Rise In Treasury Yields?",
@@ -522,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-22T18:21:10+00:00",
+      "title": "Signals the AI Stock Rally Could Continue Into Year End",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T16:40:49+00:00",
+      "title": "Michael Burry Bets Against the Memory Boom: These ETFs Could Be Exposed if He’s Right",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-22T14:55:00+00:00",
       "title": "Don't Sleep On Analog Semiconductors",
       "source": "SeekingAlpha",
@@ -533,38 +565,6 @@
       "timestamp": "2026-09-22T11:09:42+00:00",
       "title": "Tech Rally Pauses, But Soft Oil Lifts Wall Street Pre-Bell; Asia, Europe Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T11:06:06+00:00",
-      "title": "Undercovered Dozen: Rithm Capital, Sterling Infrastructure, Corning And More",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T10:46:00+00:00",
-      "title": "Is The AI Build-Out Still On Track, And What Is The Semiconductor Selloff Telling Investors?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T08:55:00+00:00",
-      "title": "AI Optimism Returns, Pushing Inflation Risks Into The Background",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T07:25:47+00:00",
-      "title": "Custom Chips May Outpace GPUs By 2027",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

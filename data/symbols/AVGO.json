@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T11:09:54.948543+00:00",
+  "generated_at": "2026-09-23T15:26:51.128157+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 364.54,
-    "change_pct": 0.5183918822037059
+    "price": 356.79,
+    "change_pct": -2.1259669720744
   },
   "risk": {
-    "score": 55,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T23:20:36.060458+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-06T01:07:20.676670+00:00",
       "close": 357.895
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 364.54
+    },
+    {
+      "timestamp": "2026-09-23T15:26:51.128157+00:00",
+      "close": 356.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T13:00:24+00:00",
+      "title": "Nvidia Stock Set For 40% Surge: 3 Catalysts That Could Drive the Next Big Move",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T11:37:32+00:00",
+      "title": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T11:00:20+00:00",
+      "title": "Rep. Rick Allen Has Sold Up to $50K Worth Of Rollins Stock: Here’s What You Should Know",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T08:23:49+00:00",
       "title": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom’s Grip On State-Backed Data Centers",
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-23T05:58:38+00:00",
+      "title": "Market Analysis: Broadcom And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-23T05:20:00+00:00",
       "title": "Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T03:21:08+00:00",
-      "title": "Broadcom: Hard To Ignore The Numbers, Buy Before The Market Catches Up",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T02:13:43+00:00",
-      "title": "Broadcom (AVGO) Is Up 7.4% After Massive Buybacks And AI Chip Deals With Hyperscalers - Has The Bull Case Changed?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T22:20:44+00:00",
-      "title": "Broadcom Just Named Its Next AI Customer. It Isn’t Google.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T19:44:12+00:00",
-      "title": "Should You Sell Your Marvell Stock Now That Higher Forecasts Are Not Enough?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

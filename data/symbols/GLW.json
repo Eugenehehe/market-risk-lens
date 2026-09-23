@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T11:09:54.948543+00:00",
+  "generated_at": "2026-09-23T15:26:51.128157+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 159.69,
-    "change_pct": 0.44659705623348867
+    "price": 155.64,
+    "change_pct": -2.5361638173962087
   },
   "risk": {
-    "score": 54,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T23:20:36.060458+00:00",
-      "close": 154.3
-    },
     {
       "timestamp": "2026-09-06T01:07:20.676670+00:00",
       "close": 154.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 159.69
+    },
+    {
+      "timestamp": "2026-09-23T15:26:51.128157+00:00",
+      "close": 155.64
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T11:01:47+00:00",
+      "title": "Corning: The AI Fiber Demand Makes The Premium Worth Paying",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T04:19:57+00:00",
       "title": "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
@@ -516,6 +524,14 @@
     {
       "timestamp": "2026-09-22T18:14:52+00:00",
       "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T13:45:00+00:00",
+      "title": "Meta Platforms’ Petal Cable Puts Corning at the Center of AI’s Bandwidth Boom",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-22T08:21:17+00:00",
       "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T01:42:25+00:00",
-      "title": "Why Corning (GLW) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T19:05:01+00:00",
-      "title": "Monday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T11:09:54.948543+00:00",
+  "generated_at": "2026-09-23T15:26:51.128157+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 452,
-    "change_pct": 1.5410881969717405
+    "price": 450.34,
+    "change_pct": -0.36725663716814516
   },
   "risk": {
-    "score": 63,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T23:20:36.060458+00:00",
-      "close": 428.91
-    },
     {
       "timestamp": "2026-09-06T01:07:20.676670+00:00",
       "close": 428.91
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 452
+    },
+    {
+      "timestamp": "2026-09-23T15:26:51.128157+00:00",
+      "close": 450.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T06:30:00+00:00",
+      "title": "Why This Top Global Dividend Fund Likes Samsung and Citigroup",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T05:36:54+00:00",
+      "title": "Qualcomm Comes For Apple’s A20 Pro With New AI-First Snapdragon Chips",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T22:03:37+00:00",
       "title": "Intel vs. TSMC: One Chip Stock Controls 72.5% of the Foundry Market. The Other Is Mounting a Comeback.",
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-22T13:35:36+00:00",
+      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-22T13:00:06+00:00",
       "title": "Here is What to Know Beyond Why Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is a Trending Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T12:35:00+00:00",
-      "title": "Nvidia and AMD Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T10:22:37+00:00",
-      "title": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here’s What It Means For the Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T02:37:48+00:00",
-      "title": "Stocks rise on AI buzz, drop in oil prices",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

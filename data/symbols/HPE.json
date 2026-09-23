@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T11:09:54.948543+00:00",
+  "generated_at": "2026-09-23T15:26:51.128157+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 61.03,
-    "change_pct": -1.165991902834007
+    "price": 62.47,
+    "change_pct": 2.359495330165484
   },
   "risk": {
-    "score": 60,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T23:20:36.060458+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-06T01:07:20.676670+00:00",
       "close": 52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 61.03
+    },
+    {
+      "timestamp": "2026-09-23T15:26:51.128157+00:00",
+      "close": 62.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T13:00:00+00:00",
+      "title": "D&H Distributing Expands Relationship with HPE; Chosen as a North American Distributor of HPE Networking",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T09:57:02+00:00",
+      "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 We Brush Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T20:47:00+00:00",
       "title": "Best Value Stocks to Buy Now with the Stock Market at New Highs",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-22T13:00:00+00:00",
       "title": "QuEra Computing Collaborates with HPE to Bring Fault-Tolerant Quantum Computing to On-Premises HPC Environments",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T12:21:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights NVIDIA, Vertiv, Arista Networks, Broadcom and Hewlett Packard",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T09:29:28+00:00",
-      "title": "Meta's Muse Sends the Nasdaq to a Record and Rekindles the AI Trade",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
