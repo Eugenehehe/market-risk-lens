@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T19:09:49.067634+00:00",
+  "generated_at": "2026-09-23T22:17:18.438835+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 62.19,
-    "change_pct": 1.9007045715222048
+    "price": 62.33,
+    "change_pct": 2.1300999508438334
   },
   "risk": {
-    "score": 66,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T05:55:22.625757+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-06T10:25:20.392667+00:00",
       "close": 52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-23T19:09:49.067634+00:00",
       "close": 62.19
+    },
+    {
+      "timestamp": "2026-09-23T22:17:18.438835+00:00",
+      "close": 62.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T19:27:55+00:00",
+      "title": "Is SanDisk Stock Amplifying A Risk You Already Own?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T19:16:55+00:00",
+      "title": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T16:35:01+00:00",
       "title": "What's going on in today's session: S&P500 movers",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-23T09:57:02+00:00",
       "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 We Brush Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T20:47:00+00:00",
-      "title": "Best Value Stocks to Buy Now with the Stock Market at New Highs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T19:27:08+00:00",
-      "title": "Has Arista Networks Stock Quietly Become A Different Bet?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

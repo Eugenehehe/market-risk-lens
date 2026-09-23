@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T19:09:49.067634+00:00",
+  "generated_at": "2026-09-23T22:17:18.438835+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 354.94,
-    "change_pct": -2.6334558621824877
+    "price": 354.99,
+    "change_pct": -2.6197399462336124
   },
   "risk": {
-    "score": 72,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T05:55:22.625757+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-06T10:25:20.392667+00:00",
       "close": 357.895
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-09-23T19:09:49.067634+00:00",
       "close": 354.94
+    },
+    {
+      "timestamp": "2026-09-23T22:17:18.438835+00:00",
+      "close": 354.99
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-23T19:05:16+00:00",
+      "title": "Marvell Stock Ran, But Did It Tell You When?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-23T15:45:48+00:00",
       "title": "Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T15:34:34+00:00",
+      "title": "AMD Just Joined the $1 Trillion Club as Chip and AI Stocks Rallied. What This Means for Investors.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -546,24 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-23T13:18:00+00:00",
-      "title": "Want to Play Anthropic Before Its IPO? There Is an ETF for That.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T13:00:24+00:00",
-      "title": "Nvidia Stock Set For 40% Surge: 3 Catalysts That Could Drive the Next Big Move",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T11:37:32+00:00",
-      "title": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains",
+      "timestamp": "2026-09-23T13:42:46+00:00",
+      "title": "Anthropic discusses up to 1 GW Stream data center lease: The Information",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
