@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:07:57.790839+00:00",
+  "generated_at": "2026-09-23T05:56:49.265557+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 773.38,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T19:35:27.502220+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-05T21:40:48.976185+00:00",
       "close": 770.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-23T01:07:57.790839+00:00",
       "close": 773.38
+    },
+    {
+      "timestamp": "2026-09-23T05:56:49.265557+00:00",
+      "close": 773.38
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-22T23:34:00+00:00",
       "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T22:30:27+00:00",
+      "title": "Leidos: Homeland Surge, Defense Bookings, And A Bargain Multiple",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-22T18:59:24+00:00",
       "title": "Adobe Is Down 32% This Year: Is ADBE Stock Dead Money or Due for a Bounce?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T18:09:01+00:00",
-      "title": "ETF Zoo: 6 Pundits Walk Into a Bar",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

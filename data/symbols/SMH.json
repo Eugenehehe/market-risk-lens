@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:07:57.790839+00:00",
+  "generated_at": "2026-09-23T05:56:49.265557+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 607.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T19:35:27.502220+00:00",
-      "close": 567.01
-    },
     {
       "timestamp": "2026-09-05T21:40:48.976185+00:00",
       "close": 567.01
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-23T01:07:57.790839+00:00",
       "close": 607.46
+    },
+    {
+      "timestamp": "2026-09-23T05:56:49.265557+00:00",
+      "close": 607.46
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-22T21:26:09+00:00",
+      "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-22T14:55:00+00:00",
       "title": "Don't Sleep On Analog Semiconductors",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T11:09:42+00:00",
+      "title": "Tech Rally Pauses, But Soft Oil Lifts Wall Street Pre-Bell; Asia, Europe Up",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-22T04:44:42+00:00",
       "title": "PSI: A Semiconductor ETF Built Around More Than Nvidia",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T16:02:53+00:00",
-      "title": "Meta's Muse Hits No. 1, Carrying AMD Into the $1-Trillion Club",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T13:51:25+00:00",
-      "title": "Nasdaq 100 Rallies, Intel Soars 14%: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

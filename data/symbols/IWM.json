@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T01:07:57.790839+00:00",
+  "generated_at": "2026-09-23T05:56:49.265557+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 287.21,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T19:35:27.502220+00:00",
-      "close": 296.01
-    },
     {
       "timestamp": "2026-09-05T21:40:48.976185+00:00",
       "close": 296.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-23T01:07:57.790839+00:00",
       "close": 287.21
+    },
+    {
+      "timestamp": "2026-09-23T05:56:49.265557+00:00",
+      "close": 287.21
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-22T17:30:00+00:00",
       "title": "Too Big To Fail 2.0: Are Hyperscalers The 2026 Version Of Banks In 2008?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T15:59:27+00:00",
+      "title": "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-22T08:45:02+00:00",
       "title": "AI Force? For China And America, Compute Is The Must-Have Resource",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T07:58:41+00:00",
-      "title": "Beyond The U.S. Election: Positioning Your Portfolio To Overcome Political Noise",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
