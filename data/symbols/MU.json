@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:52:34.454526+00:00",
+  "generated_at": "2026-09-23T01:07:57.790839+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1096.16,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-05T17:48:47.424307+00:00",
-      "close": 1016.59
-    },
     {
       "timestamp": "2026-09-05T19:35:27.502220+00:00",
       "close": 1016.59
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-22T22:52:34.454526+00:00",
       "close": 1096.16
+    },
+    {
+      "timestamp": "2026-09-23T01:07:57.790839+00:00",
+      "close": 1096.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-22T22:24:31+00:00",
+      "title": "Micron's Memory Boom Is Facing a New Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-22T21:44:32+00:00",
       "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
@@ -517,6 +525,14 @@
       "timestamp": "2026-09-22T20:57:00+00:00",
       "title": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-22T20:27:32+00:00",
+      "title": "Micron Q4 Preview: Robust Memory Demand Supports A Bullish Outlook",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-22T18:58:18+00:00",
       "title": "What Are You Really Paying For SanDisk's AI Flash Boom?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T18:04:16+00:00",
-      "title": "AMD Stock Just Entered Rarefied Territory",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T17:20:49+00:00",
-      "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
