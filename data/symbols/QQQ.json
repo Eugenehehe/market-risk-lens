@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T15:26:51.128157+00:00",
+  "generated_at": "2026-09-23T19:09:49.067634+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 742.34,
-    "change_pct": -0.6849864875712375
+    "price": 741.5,
+    "change_pct": -0.797367083188405
   },
   "risk": {
-    "score": 56,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T01:07:20.676670+00:00",
-      "close": 718.96
-    },
     {
       "timestamp": "2026-09-06T05:55:22.625757+00:00",
       "close": 718.96
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-09-23T15:26:51.128157+00:00",
       "close": 742.34
+    },
+    {
+      "timestamp": "2026-09-23T19:09:49.067634+00:00",
+      "close": 741.5
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-23T13:30:25+00:00",
+      "title": "Interest Rates May Be Heading Much Higher",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T13:12:11+00:00",
+      "title": "Investors Are Underestimating A Major Risk Created By AI (It's Not The Bubble)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-23T12:49:01+00:00",
       "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T11:52:49+00:00",
+      "title": "If The AI Narrative Falters, The Markets Are In Trouble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T11:30:00+00:00",
+      "title": "Fed Starts Tightening, But Monetary Policy Still Looks Accommodative",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-09-23T10:45:00+00:00",
       "title": "The Path To Lower Inflation Still Runs Through Iran",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T09:00:00+00:00",
-      "title": "Don't Sell This Nasdaq Rally",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T08:31:31+00:00",
-      "title": "Stock Market Today: Dow, Nasdaq, S&P 500 Futures Drop as Trump Threatens to 'Annihilate' Iran at UNGA—KB Home, Worthington, IONQ in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T07:30:00+00:00",
-      "title": "A Near-Record Market Is Ignoring The Economy's Biggest Risk",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T04:28:40+00:00",
-      "title": "AI Trade Is ‘Dead Money’: Fidelity Strategist Warns $3.3 Trillion Buildout Is Inflationary With ‘Unknown Returns’",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

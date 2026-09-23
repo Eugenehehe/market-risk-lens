@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T15:26:51.128157+00:00",
+  "generated_at": "2026-09-23T19:09:49.067634+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 555.4,
-    "change_pct": 1.1804998906944641
+    "price": 547.52,
+    "change_pct": -0.2550462726808922
   },
   "risk": {
-    "score": 60,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T01:07:20.676670+00:00",
-      "close": 524.14
-    },
     {
       "timestamp": "2026-09-06T05:55:22.625757+00:00",
       "close": 524.14
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-23T15:26:51.128157+00:00",
       "close": 555.4
+    },
+    {
+      "timestamp": "2026-09-23T19:09:49.067634+00:00",
+      "close": 547.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T16:00:01+00:00",
+      "title": "Are You Looking for a Top Momentum Pick? Why Dell Technologies (DELL) is a Great Choice",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T14:30:00+00:00",
+      "title": "ADP Stock Rises 33% in 6 Months: Here's What You Should Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T10:18:00+00:00",
       "title": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today’s Market",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-22T16:35:01+00:00",
       "title": "These S&P500 stocks are moving in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T15:47:24+00:00",
-      "title": "Google Pushes ChromeOS Upmarket as Apple Moves Down",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T15:41:12+00:00",
-      "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
