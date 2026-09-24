@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T10:15:47.379714+00:00",
+  "generated_at": "2026-09-24T15:14:11.712973+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 354.99,
-    "change_pct": -2.6197399462336124
+    "price": 347.36,
+    "change_pct": -2.149356319896334
   },
   "risk": {
-    "score": 71,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T18:34:37.970547+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-06T20:47:51.279199+00:00",
       "close": 357.895
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-24T10:15:47.379714+00:00",
       "close": 354.99
+    },
+    {
+      "timestamp": "2026-09-24T15:14:11.712973+00:00",
+      "close": 347.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T12:20:23+00:00",
+      "title": "AMD's Six-Day Rally Finally Hits a Pause",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T12:00:54+00:00",
+      "title": "AMD Joined Nvidia in the Trillion Dollar Club. The Run Isn’t an Accident",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T09:56:17+00:00",
+      "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T09:31:33+00:00",
+      "title": "What's Going On With AMD Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T05:50:00+00:00",
       "title": "Where Will Broadcom Stock Be in 5 Years?",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-23T23:15:00+00:00",
       "title": "3 Companies With a Strong History of Dividend Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:05:16+00:00",
-      "title": "Marvell Stock Ran, But Did It Tell You When?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T15:45:48+00:00",
-      "title": "Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T15:34:34+00:00",
-      "title": "AMD Just Joined the $1 Trillion Club as Chip and AI Stocks Rallied. What This Means for Investors.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T15:00:42+00:00",
-      "title": "What Changed In AMD's Story?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

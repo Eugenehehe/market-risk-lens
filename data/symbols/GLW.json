@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T10:15:47.379714+00:00",
+  "generated_at": "2026-09-24T15:14:11.712973+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 154.48,
-    "change_pct": -3.2625712317615463
+    "price": 152.44,
+    "change_pct": -1.3205592957017065
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T18:34:37.970547+00:00",
-      "close": 154.3
-    },
     {
       "timestamp": "2026-09-06T20:47:51.279199+00:00",
       "close": 154.3
@@ -502,12 +498,40 @@
     {
       "timestamp": "2026-09-24T10:15:47.379714+00:00",
       "close": 154.48
+    },
+    {
+      "timestamp": "2026-09-24T15:14:11.712973+00:00",
+      "close": 152.44
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-24T13:35:01+00:00",
+      "title": "Caterpillar vs. Corning: Which Industrials Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T12:35:01+00:00",
+      "title": "Wondering what's happening in today's S&P500  pre-market session?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-23T18:32:30+00:00",
       "title": "Lumentum Shares Are Up After an AI Optical Tech Partnership With Corning and Qualcomm. What This Means for LITE Stock.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T12:40:00+00:00",
+      "title": "Old Dogs, New Tech: 3 Legacy Stocks Powering the AI Boom",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-22T13:45:00+00:00",
       "title": "Meta Platforms’ Petal Cable Puts Corning at the Center of AI’s Bandwidth Boom",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T13:30:00+00:00",
-      "title": "Ciena Expands Global Subsea Footprint With ACE & ECHO Upgrades",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T12:30:02+00:00",
-      "title": "Here's How Much You'd Have If You Invested $1000 in Corning a Decade Ago",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-22T11:06:06+00:00",
-      "title": "Undercovered Dozen: Rithm Capital, Sterling Infrastructure, Corning And More",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

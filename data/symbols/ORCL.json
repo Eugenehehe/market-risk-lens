@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T10:15:47.379714+00:00",
+  "generated_at": "2026-09-24T15:14:11.712973+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 144.56,
-    "change_pct": -3.109919571045572
+    "price": 137.22,
+    "change_pct": -5.077476480354182
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T18:34:37.970547+00:00",
-      "close": 158.78
-    },
     {
       "timestamp": "2026-09-06T20:47:51.279199+00:00",
       "close": 158.78
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-24T10:15:47.379714+00:00",
       "close": 144.56
+    },
+    {
+      "timestamp": "2026-09-24T15:14:11.712973+00:00",
+      "close": 137.22
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-24T04:45:55+00:00",
-      "title": "Data Center Boom Pushes CRE Construction Costs Higher",
+      "timestamp": "2026-09-24T14:35:01+00:00",
+      "title": "Gapping S&P500 stocks in Thursday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T13:55:57+00:00",
+      "title": "Oracle just declared a very unusual force majeure at its AI data center",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T04:31:17+00:00",
-      "title": "Zeta Global Holdings And 2 Top AI Stocks To Watch",
+      "timestamp": "2026-09-24T13:45:00+00:00",
+      "title": "MGM Resorts stock sinks after Barry Diller withdraws buyout offer",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T02:51:11+00:00",
-      "title": "MIT Explains What Happens When the Trillion-Dollar AI Bubble Bursts",
+      "timestamp": "2026-09-24T13:45:00+00:00",
+      "title": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T02:13:14+00:00",
-      "title": "Oracle (ORCL) Stock Could Be 27% Undervalued Despite AI Debt Worries",
+      "timestamp": "2026-09-24T13:41:48+00:00",
+      "title": "Market Chatter: Oracle Cites Force Majeure as New Mexico Data Center Faces Delays",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-23T23:16:22+00:00",
-      "title": "3 Reasons ORCL is Risky and 1 Stock to Buy Instead",
+      "timestamp": "2026-09-24T13:37:44+00:00",
+      "title": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-23T22:07:00+00:00",
-      "title": "Oracle layoffs top 2,500 workers as AI spending surges",
+      "timestamp": "2026-09-24T13:33:51+00:00",
+      "title": "Oracle stock drops as the company moves to shield itself from controversial data center costs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-23T21:00:00+00:00",
-      "title": "Paramount Courts Elon Musk for Investment as Stock Nears Multi-Year Lows",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T20:37:03+00:00",
-      "title": "Debt-Financed AI Investment Boom Risks Equity Market Selloff, IMF Says",
+      "timestamp": "2026-09-24T13:33:27+00:00",
+      "title": "Oracle Drops 6% as Selloff Runs Ahead of the Cloud Group; Snowflake Slips, CoreWeave Barely Budges",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

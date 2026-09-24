@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T10:15:47.379714+00:00",
+  "generated_at": "2026-09-24T15:14:11.712973+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 281.92,
-    "change_pct": -1.84185787402944
+    "price": 279.67,
+    "change_pct": -0.7980987514188409
   },
   "risk": {
-    "score": 65,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T18:34:37.970547+00:00",
-      "close": 296.01
-    },
     {
       "timestamp": "2026-09-06T20:47:51.279199+00:00",
       "close": 296.01
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-24T10:15:47.379714+00:00",
       "close": 281.92
+    },
+    {
+      "timestamp": "2026-09-24T15:14:11.712973+00:00",
+      "close": 279.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T09:10:49+00:00",
+      "title": "Bessent Needs A Bigger Buyback",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T08:53:29+00:00",
+      "title": "The Economy Is Roaring",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T07:45:07+00:00",
+      "title": "5% Treasuries Are Back For The First Time Since 2007",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T06:16:57+00:00",
+      "title": "AI's Next Bottleneck Could Be Here",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T06:10:27+00:00",
+      "title": "The 'October Surprise': A 5% GDP Growth Rate",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T06:04:24+00:00",
+      "title": "3 Macro Risks For AI Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T03:30:00+00:00",
       "title": "A Recalibration, Not A Rate Hike Cycle",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-09-23T23:50:00+00:00",
       "title": "U.S. Flash PMI Signals Fastest Growth For Over 5 Years In September",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:08:41+00:00",
-      "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T17:47:23+00:00",
-      "title": "American Fuel First: Trump's Diesel Export Ban And The European Fallout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T17:45:02+00:00",
-      "title": "This Boring Market Is Good News For Investors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T15:30:43+00:00",
-      "title": "Hormuz Reopening Won't Save The Bond Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T13:30:25+00:00",
-      "title": "Interest Rates May Be Heading Much Higher",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T13:12:11+00:00",
-      "title": "Investors Are Underestimating A Major Risk Created By AI (It's Not The Bubble)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
