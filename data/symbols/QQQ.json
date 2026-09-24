@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:21:17.249568+00:00",
+  "generated_at": "2026-09-24T10:15:47.379714+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 741.21,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T16:27:48.398354+00:00",
-      "close": 718.96
-    },
     {
       "timestamp": "2026-09-06T18:34:37.970547+00:00",
       "close": 718.96
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-24T05:21:17.249568+00:00",
       "close": 741.21
+    },
+    {
+      "timestamp": "2026-09-24T10:15:47.379714+00:00",
+      "close": 741.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T03:30:00+00:00",
+      "title": "A Recalibration, Not A Rate Hike Cycle",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T23:50:00+00:00",
       "title": "U.S. Flash PMI Signals Fastest Growth For Over 5 Years In September",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-23T19:10:07+00:00",
       "title": "AMD Is Up 187% This Year: Take Profits, or Buy More?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:08:41+00:00",
-      "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:21:17.249568+00:00",
+  "generated_at": "2026-09-24T10:15:47.379714+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 767.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T16:27:48.398354+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-06T18:34:37.970547+00:00",
       "close": 770.19
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-24T05:21:17.249568+00:00",
       "close": 767.81
+    },
+    {
+      "timestamp": "2026-09-24T10:15:47.379714+00:00",
+      "close": 767.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T05:45:20+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T03:30:00+00:00",
+      "title": "A Recalibration, Not A Rate Hike Cycle",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T00:08:25+00:00",
       "title": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-23T20:02:58+00:00",
       "title": "SpaceX Drops 4% Amid Share Supply and Valuation Concerns; AST SpaceMobile Falls 6%",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:23:09+00:00",
-      "title": "Domino’s Pizza Is Down 28% This Year. Is It Time to Sell or Load Up?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:08:41+00:00",
-      "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
