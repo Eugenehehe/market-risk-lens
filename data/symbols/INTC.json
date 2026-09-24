@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T15:14:11.712973+00:00",
+  "generated_at": "2026-09-24T19:15:02.071807+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 123.6,
-    "change_pct": 0.815660685154973
+    "price": 126.31,
+    "change_pct": 3.026101141924964
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T20:47:51.279199+00:00",
-      "close": 95.8
-    },
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 95.8
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-09-24T15:14:11.712973+00:00",
       "close": 123.6
+    },
+    {
+      "timestamp": "2026-09-24T19:15:02.071807+00:00",
+      "close": 126.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T18:00:00+00:00",
+      "title": "Discover the most active stocks in Thursday's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T17:34:52+00:00",
+      "title": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T17:14:39+00:00",
+      "title": "I'm Buying More Nvidia Stock Right Now. Here's Why.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T16:09:57+00:00",
+      "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T13:59:32+00:00",
+      "title": "Micron's Rally Looks Overdone Until You Price The Memory Shortage",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T13:41:00+00:00",
+      "title": "NVIDIA's $279B Supply Commitments: Can These Secure Its Growth Runway?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T13:29:19+00:00",
       "title": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-09-24T12:43:10+00:00",
       "title": "Intel's 293% Rally Is Putting Its Valuation to the Test",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T12:35:01+00:00",
-      "title": "Wondering what's happening in today's S&P500  pre-market session?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T11:22:01+00:00",
-      "title": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T11:20:00+00:00",
-      "title": "Intel, Marvell, Super Micro, Meta, MGM, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T09:56:45+00:00",
-      "title": "Alphabet: The Gemini-Cloud Divergence Hides A $1 Trillion Opportunity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T09:16:18+00:00",
-      "title": "TD Cowen Reiterates Hold on Intel, Maintains $115 Price Target",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T09:10:00+00:00",
-      "title": "Brain-Inspired Computing Processor Market Outlook 2026-2035 - Featuring Profiles of Intel, IBM, and BrainChip Holdings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

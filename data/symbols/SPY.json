@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T15:14:11.712973+00:00",
+  "generated_at": "2026-09-24T19:15:02.071807+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 763.8,
-    "change_pct": -0.5222646227582284
+    "price": 767.55,
+    "change_pct": -0.03386254411898992
   },
   "risk": {
-    "score": 55,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T20:47:51.279199+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 770.19
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-24T15:14:11.712973+00:00",
       "close": 763.8
+    },
+    {
+      "timestamp": "2026-09-24T19:15:02.071807+00:00",
+      "close": 767.55
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-24T16:03:04+00:00",
+      "title": "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T15:55:16+00:00",
+      "title": "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T15:39:30+00:00",
+      "title": "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T15:29:56+00:00",
+      "title": "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T15:20:34+00:00",
+      "title": "Fuel Cell Stocks Slide as High Treasury Yields Pressure Clean Energy Financing: FuelCell Drops 6%, Plug Power Falls 4%, Bloom Energy Sinks 8%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T14:23:20+00:00",
+      "title": "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T14:12:48+00:00",
+      "title": "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-24T14:02:02+00:00",
       "title": "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T13:45:23+00:00",
-      "title": "Wells Fargo Says the AI Spending Math Breaks in 2028 and Just Cut Its S&P 500 Target to 7,700",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T13:25:14+00:00",
-      "title": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T13:17:57+00:00",
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T13:07:17+00:00",
-      "title": "NEAR Crypto Tokenized Stock Launch Puts Distribution Ahead of Scale",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T12:23:47+00:00",
-      "title": "Inflation Is Back: Why the S&P 500 Is Vulnerable",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T11:50:49+00:00",
-      "title": "From Gaming Chips to AI Dominance: $1,000 in Nvidia Outpaced the S&P 500 by 54x",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T10:12:23+00:00",
-      "title": "Philadelphia Fed President Anna Paulson Says Fed May Need To Raise Rates Again To Lower Inflation; Will Support Doing What's Needed To Return Inflation To 2%",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

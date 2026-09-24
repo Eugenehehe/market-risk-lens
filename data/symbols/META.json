@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T15:14:11.712973+00:00",
+  "generated_at": "2026-09-24T19:15:02.071807+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 764.97,
-    "change_pct": 2.8047305469695027
+    "price": 777.78,
+    "change_pct": 4.526273350356136
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T20:47:51.279199+00:00",
-      "close": 616.77
-    },
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 616.77
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-24T15:14:11.712973+00:00",
       "close": 764.97
+    },
+    {
+      "timestamp": "2026-09-24T19:15:02.071807+00:00",
+      "close": 777.78
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-24T13:54:01+00:00",
-      "title": "Meta's Mark Zuckerberg is in 'founder mode': Adviser and former longtime top exec",
+      "timestamp": "2026-09-24T18:05:02+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T17:34:52+00:00",
+      "title": "Intel Shares Rise as Agentic AI Keeps CPUs in the Loop",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T13:45:00+00:00",
-      "title": "Barron's 400 ETF (BFOR) Adds Energy and Materials, Reduces Utilities and Consumer Discretionary in Fall Rebalance",
+      "timestamp": "2026-09-24T17:25:00+00:00",
+      "title": "Muse is expanding Meta's moat, consumer exposure to tech products",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T13:40:30+00:00",
-      "title": "'Muse over Metaverse is a good thing for Meta investors': A look at the new product lineup",
+      "timestamp": "2026-09-24T17:07:00+00:00",
+      "title": "Mark Zuckerberg says Meta found a way to make more money",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T13:14:30+00:00",
-      "title": "Alphabet Or Meta: Whose AI Build Would You Rather Fund?",
+      "timestamp": "2026-09-24T16:53:06+00:00",
+      "title": "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T13:08:39+00:00",
-      "title": "Airbnb Slides to $150 as Wall Street Fears AI Will Skip the Middleman",
+      "timestamp": "2026-09-24T16:52:00+00:00",
+      "title": "News About Muse Drove a 1-Day 11% Jump in Meta Stock. But the AI Agent Could Be Even More Valuable Than the Market Is Giving It Credit For.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T13:03:38+00:00",
-      "title": "Booking Holdings Stock Drops as Expedia Partners With Meta’s Muse AI Platform",
+      "timestamp": "2026-09-24T16:44:23+00:00",
+      "title": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-24T13:00:00+00:00",
-      "title": "Michael Burry says $3 trillion in off-balance-sheet AI commitments could blow a hole in Big Tech's revenue",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T12:54:00+00:00",
-      "title": "Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here?",
+      "timestamp": "2026-09-24T16:39:44+00:00",
+      "title": "Meta Introduces Palm-Sized Device to Use Muse AI on the Go",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

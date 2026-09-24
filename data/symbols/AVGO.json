@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T15:14:11.712973+00:00",
+  "generated_at": "2026-09-24T19:15:02.071807+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 347.36,
-    "change_pct": -2.149356319896334
+    "price": 349.31,
+    "change_pct": -1.6000450716921577
   },
   "risk": {
-    "score": 68,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T20:47:51.279199+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 357.895
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-24T15:14:11.712973+00:00",
       "close": 347.36
+    },
+    {
+      "timestamp": "2026-09-24T19:15:02.071807+00:00",
+      "close": 349.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T16:09:57+00:00",
+      "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T16:08:43+00:00",
+      "title": "Venture Capital and PE: A California Perspective on Governance: 2nd LA CorpGov Forum",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T12:20:23+00:00",
       "title": "AMD's Six-Day Rally Finally Hits a Pause",
@@ -549,22 +565,6 @@
       "timestamp": "2026-09-24T00:55:00+00:00",
       "title": "Semiconductor Whiplash",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T23:30:02+00:00",
-      "title": "McDonald’s Increased Its Dividend by Nearly 4%. How to Play MCD Stock Here.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T23:15:00+00:00",
-      "title": "3 Companies With a Strong History of Dividend Growth",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T15:14:11.712973+00:00",
+  "generated_at": "2026-09-24T19:15:02.071807+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 531.55,
-    "change_pct": -3.324663987050558
+    "price": 544.3,
+    "change_pct": -1.0057654184020715
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T20:47:51.279199+00:00",
-      "close": 524.14
-    },
     {
       "timestamp": "2026-09-06T22:27:29.498827+00:00",
       "close": 524.14
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-24T15:14:11.712973+00:00",
       "close": 531.55
+    },
+    {
+      "timestamp": "2026-09-24T19:15:02.071807+00:00",
+      "close": 544.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T13:45:00+00:00",
+      "title": "HPE vs. DELL: Which AI Infrastructure Stock is a Safer Bet?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T12:00:00+00:00",
       "title": "BairesDev’s Rodrigo Outumuro Named to HR’s Rising Stars 2026",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-23T18:24:36+00:00",
       "title": "Dell Gains 1.4% as $999 Googlebook Tests Consumer AI Margins",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T18:15:23+00:00",
-      "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
