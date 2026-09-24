@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:17:18.438835+00:00",
+  "generated_at": "2026-09-24T00:35:21.238944+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 354.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T10:25:20.392667+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-06T13:44:54.641174+00:00",
       "close": 357.895
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-23T22:17:18.438835+00:00",
       "close": 354.99
+    },
+    {
+      "timestamp": "2026-09-24T00:35:21.238944+00:00",
+      "close": 354.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T23:15:00+00:00",
+      "title": "3 Companies With a Strong History of Dividend Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T19:05:16+00:00",
       "title": "Marvell Stock Ran, But Did It Tell You When?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-23T13:50:00+00:00",
       "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T13:42:46+00:00",
-      "title": "Anthropic discusses up to 1 GW Stream data center lease: The Information",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

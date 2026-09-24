@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-23T22:17:18.438835+00:00",
+  "generated_at": "2026-09-24T00:35:21.238944+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1744.61,
     "change_pct": -0.18822587104526667
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T10:25:20.392667+00:00",
-      "close": 1714.88
-    },
     {
       "timestamp": "2026-09-06T13:44:54.641174+00:00",
       "close": 1714.88
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-23T22:17:18.438835+00:00",
       "close": 1744.61
+    },
+    {
+      "timestamp": "2026-09-24T00:35:21.238944+00:00",
+      "close": 1744.61
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-09-22T06:00:00+00:00",
       "title": "Morphotonics raises €40M to expand its display tech into data centers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T23:51:53+00:00",
-      "title": "Will AI Fears Destroy the Market?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T21:45:05+00:00",
-      "title": "ASML (ASML) Surpasses Market Returns: Some Facts Worth Knowing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-21T19:45:01+00:00",
-      "title": "ASML Adds 1% as 110 EUV Tools Test Factory Throughput",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

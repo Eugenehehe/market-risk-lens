@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:17:18.438835+00:00",
+  "generated_at": "2026-09-24T00:35:21.238944+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1071.88,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T10:25:20.392667+00:00",
-      "close": 1016.59
-    },
     {
       "timestamp": "2026-09-06T13:44:54.641174+00:00",
       "close": 1016.59
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-23T22:17:18.438835+00:00",
       "close": 1071.88
+    },
+    {
+      "timestamp": "2026-09-24T00:35:21.238944+00:00",
+      "close": 1071.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-23T22:05:00+00:00",
+      "title": "Earnings Outlook Remains Upbeat: A Closer Look",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T21:07:00+00:00",
       "title": "Top Research Reports for Micron, Costco & Interactive Brokers",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-23T18:33:05+00:00",
       "title": "A $2,400 Price Target on SanDisk Just Lit a Fire Under Every Memory Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T18:20:27+00:00",
-      "title": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Drops 3%, Micron Slides 2%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
