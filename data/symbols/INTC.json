@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T19:15:02.071807+00:00",
+  "generated_at": "2026-09-24T22:29:12.622049+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 126.31,
-    "change_pct": 3.026101141924964
+    "price": 127.39,
+    "change_pct": 3.90701468189234
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T22:27:29.498827+00:00",
-      "close": 95.8
-    },
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 95.8
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-24T19:15:02.071807+00:00",
       "close": 126.31
+    },
+    {
+      "timestamp": "2026-09-24T22:29:12.622049+00:00",
+      "close": 127.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T20:05:01+00:00",
+      "title": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T19:18:25+00:00",
+      "title": "ASML Drops 1.8% as $400 Million High-NA Tools Reach More Fabs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T18:27:09+00:00",
+      "title": "Trump Stance on AI an 'Extremely Naive Position,' Says Sen. Michael Bennet",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T18:00:00+00:00",
       "title": "Discover the most active stocks in Thursday's session.",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-24T13:59:32+00:00",
       "title": "Micron's Rally Looks Overdone Until You Price The Memory Shortage",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T13:41:00+00:00",
-      "title": "NVIDIA's $279B Supply Commitments: Can These Secure Its Growth Runway?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T13:29:19+00:00",
-      "title": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T12:43:10+00:00",
-      "title": "Intel's 293% Rally Is Putting Its Valuation to the Test",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

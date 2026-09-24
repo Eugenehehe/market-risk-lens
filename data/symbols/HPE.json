@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T19:15:02.071807+00:00",
+  "generated_at": "2026-09-24T22:29:12.622049+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 64.44,
-    "change_pct": 3.385207765121123
+    "price": 63.52,
+    "change_pct": 1.9091930049735417
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T22:27:29.498827+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-24T19:15:02.071807+00:00",
       "close": 64.44
+    },
+    {
+      "timestamp": "2026-09-24T22:29:12.622049+00:00",
+      "close": 63.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T19:05:01+00:00",
+      "title": "Discover which S&P500 stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T17:20:26+00:00",
+      "title": "TD Synnex: AI Is Accelerating Growth And Swallowing Cash (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T15:30:20+00:00",
       "title": "Micron, SuperMicro, HPE Face ITC Investigation Over Netlist Patent Infringement Claims",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-23T19:16:55+00:00",
       "title": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T16:35:01+00:00",
-      "title": "What's going on in today's session: S&P500 movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T15:40:03+00:00",
-      "title": "HPE or AMD: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

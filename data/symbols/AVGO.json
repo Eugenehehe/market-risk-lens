@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T19:15:02.071807+00:00",
+  "generated_at": "2026-09-24T22:29:12.622049+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 349.31,
-    "change_pct": -1.6000450716921577
+    "price": 350.36,
+    "change_pct": -1.3042620918899073
   },
   "risk": {
-    "score": 63,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T22:27:29.498827+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 357.895
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-24T19:15:02.071807+00:00",
       "close": 349.31
+    },
+    {
+      "timestamp": "2026-09-24T22:29:12.622049+00:00",
+      "close": 350.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T21:16:44+00:00",
+      "title": "Broadcom (AVGO) Stock May Be 24% Undervalued Following Fresh AI Demand Fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T20:43:00+00:00",
+      "title": "Broadcom's Latest Prediction Makes the Stock a No-Brainer Buy Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T19:20:33+00:00",
+      "title": "Broadcom Falls 2% as $230 Billion AI Target Doubles the Delivery Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T16:09:57+00:00",
       "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-24T09:56:17+00:00",
       "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T09:31:33+00:00",
-      "title": "What's Going On With AMD Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T05:50:00+00:00",
-      "title": "Where Will Broadcom Stock Be in 5 Years?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T00:55:00+00:00",
-      "title": "Semiconductor Whiplash",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

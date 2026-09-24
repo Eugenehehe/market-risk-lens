@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T19:15:02.071807+00:00",
+  "generated_at": "2026-09-24T22:29:12.622049+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 544.3,
-    "change_pct": -1.0057654184020715
+    "price": 536.02,
+    "change_pct": -2.511685430042021
   },
   "risk": {
-    "score": 59,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T22:27:29.498827+00:00",
-      "close": 524.14
-    },
     {
       "timestamp": "2026-09-07T00:14:48.843999+00:00",
       "close": 524.14
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-24T19:15:02.071807+00:00",
       "close": 544.3
+    },
+    {
+      "timestamp": "2026-09-24T22:29:12.622049+00:00",
+      "close": 536.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T18:05:13+00:00",
+      "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T18:04:13+00:00",
+      "title": "Dell Slips 2.34% as $999 Googlebook Tests Premium AI PCs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T16:52:00+00:00",
+      "title": "Lenovo's Global Footprint Strengthens Its Growth Resilience",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T13:45:00+00:00",
       "title": "HPE vs. DELL: Which AI Infrastructure Stock is a Safer Bet?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-23T19:50:58+00:00",
       "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:16:55+00:00",
-      "title": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T19:08:07+00:00",
-      "title": "UBS Sees PC Sales Shrinking Again in 2027. Dell and HP Investors Aren’t Happy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T18:24:36+00:00",
-      "title": "Dell Gains 1.4% as $999 Googlebook Tests Consumer AI Margins",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
