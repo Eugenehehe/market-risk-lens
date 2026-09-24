@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:35:21.238944+00:00",
+  "generated_at": "2026-09-24T05:21:17.249568+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 354.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T13:44:54.641174+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-06T16:27:48.398354+00:00",
       "close": 357.895
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-24T00:35:21.238944+00:00",
       "close": 354.99
+    },
+    {
+      "timestamp": "2026-09-24T05:21:17.249568+00:00",
+      "close": 354.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T00:55:00+00:00",
+      "title": "Semiconductor Whiplash",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-23T23:15:00+00:00",
       "title": "3 Companies With a Strong History of Dividend Growth",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-23T14:30:14+00:00",
       "title": "Two Chip Giants, Two Very Different Dividends. Which One Pays You Better?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T13:50:00+00:00",
-      "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

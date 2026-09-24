@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:35:21.238944+00:00",
+  "generated_at": "2026-09-24T05:21:17.249568+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 767.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-06T13:44:54.641174+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-06T16:27:48.398354+00:00",
       "close": 770.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-24T00:35:21.238944+00:00",
       "close": 767.81
+    },
+    {
+      "timestamp": "2026-09-24T05:21:17.249568+00:00",
+      "close": 767.81
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-24T00:08:25+00:00",
       "title": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-23T23:50:00+00:00",
+      "title": "U.S. Flash PMI Signals Fastest Growth For Over 5 Years In September",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-23T19:08:41+00:00",
       "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T18:07:33+00:00",
-      "title": "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
