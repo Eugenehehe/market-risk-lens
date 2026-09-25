@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T15:27:31.742142+00:00",
+  "generated_at": "2026-09-25T19:27:51.249538+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 281.55,
-    "change_pct": -0.039054178797137684
+    "price": 282.21,
+    "change_pct": 0.1952708939856329
   },
   "risk": {
-    "score": 51,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T19:18:39.779813+00:00",
-      "close": 296.05
-    },
     {
       "timestamp": "2026-09-07T22:06:26.937587+00:00",
       "close": 296.01
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-25T15:27:31.742142+00:00",
       "close": 281.55
+    },
+    {
+      "timestamp": "2026-09-25T19:27:51.249538+00:00",
+      "close": 282.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-25T11:34:13+00:00",
+      "title": "A Strong September Labor Market Report To Crush Stocks And Bonds",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T11:05:34+00:00",
+      "title": "JPMorgan Says Oil Price Endgame Is Hard To Predict; Here's My Playbook",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T09:36:33+00:00",
       "title": "Energy Hedges The AI Trade",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-25T07:45:08+00:00",
       "title": "What Investors Might Expect From The September 2026 Jobs Report",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T07:15:45+00:00",
-      "title": "Oil At $107, Yields Near 5.5%, Still No Breakdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T03:10:00+00:00",
-      "title": "Advanced Economies Report Further Growth In September, But U.S. Outperformance Widens",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

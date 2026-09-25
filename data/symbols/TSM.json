@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T15:27:31.742142+00:00",
+  "generated_at": "2026-09-25T19:27:51.249538+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 450.72,
-    "change_pct": -0.09531198049428369
+    "price": 451.01,
+    "change_pct": -0.03103180760278823
   },
   "risk": {
     "score": 51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T19:18:39.779813+00:00",
-      "close": 428.95
-    },
     {
       "timestamp": "2026-09-07T22:06:26.937587+00:00",
       "close": 428.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-25T15:27:31.742142+00:00",
       "close": 450.72
+    },
+    {
+      "timestamp": "2026-09-25T19:27:51.249538+00:00",
+      "close": 451.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-25T12:26:57+00:00",
+      "title": "TSMC Offers AI Upside No Matter Who Wins The Race",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T08:30:39+00:00",
       "title": "Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-24T21:05:04+00:00",
       "title": "Is Taiwan Semiconductor (TSM) Stock a Better Bet than ASML Holding (ASML) as Advanced Chipmaking Accelerates?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T20:45:06+00:00",
-      "title": "TSMC (TSM) Advances While Market Declines: Some Information for Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

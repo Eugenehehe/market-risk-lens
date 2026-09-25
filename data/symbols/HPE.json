@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T15:27:31.742142+00:00",
+  "generated_at": "2026-09-25T19:27:51.249538+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 63.94,
-    "change_pct": 0.6612090680100602
+    "price": 63.26,
+    "change_pct": -0.40931989924434253
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T19:18:39.779813+00:00",
-      "close": 52.02
-    },
     {
       "timestamp": "2026-09-07T22:06:26.937587+00:00",
       "close": 52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-25T15:27:31.742142+00:00",
       "close": 63.94
+    },
+    {
+      "timestamp": "2026-09-25T19:27:51.249538+00:00",
+      "close": 63.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-25T17:51:27+00:00",
+      "title": "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T13:12:08+00:00",
       "title": "Should HPE’s Expanded Networking and Quantum Partnerships Require Action From Hewlett Packard Enterprise (HPE) Investors?",
@@ -516,6 +524,14 @@
     {
       "timestamp": "2026-09-25T12:33:00+00:00",
       "title": "Today's Stolen Data Could Be Tomorrow's Decrypted Data",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T12:27:00+00:00",
+      "title": "Can AI and Flash Demand Power NetApp's Raised FY27 Outlook?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-25T08:29:00+00:00",
       "title": "Private 5G Market Forecasts Growth from $5.35B (2026) to $24.84B by 2032, Profiling Ericsson, Huawei, Nokia, Samsung & Cisco Systems",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T08:23:14+00:00",
-      "title": "What's Going On With Super Micro Computer Stock Friday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T04:43:17+00:00",
-      "title": "Dell vs. HPE: Which AI Server Stock Is the Better Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
