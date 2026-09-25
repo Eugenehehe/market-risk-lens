@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T10:27:14.528202+00:00",
+  "generated_at": "2026-09-25T15:27:31.742142+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1722.5,
-    "change_pct": -1.2673319538464178
+    "price": 1738.14,
+    "change_pct": 0.907982583454281
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T15:22:22.441811+00:00",
-      "close": 1714.92
-    },
     {
       "timestamp": "2026-09-07T19:18:39.779813+00:00",
       "close": 1714.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-25T10:27:14.528202+00:00",
       "close": 1722.5
+    },
+    {
+      "timestamp": "2026-09-25T15:27:31.742142+00:00",
+      "close": 1738.14
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-25T12:14:30+00:00",
+      "title": "European AI-linked stocks rally After Anthropic’s $11.6 bln computing deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T04:07:17+00:00",
       "title": "ASML vs. Applied Materials: Which AI Chip-Equipment Stock Is the Better Buy?",
@@ -541,6 +549,14 @@
       "timestamp": "2026-09-24T17:33:14+00:00",
       "title": "Don’t wait for cheaper stocks — Rebecca Walser on stocks to buy now",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T15:05:52+00:00",
+      "title": "EXCLUSIVE: Micron's AI Earnings Could Break the Old Memory Cycle, PurePlay ETFs CEO Says",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

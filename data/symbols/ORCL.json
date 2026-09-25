@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-25T10:27:14.528202+00:00",
+  "generated_at": "2026-09-25T15:27:31.742142+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 139.54,
-    "change_pct": -3.4726065301604936
+    "price": 138.19,
+    "change_pct": -0.9674645263006987
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T15:22:22.441811+00:00",
-      "close": 158.81
-    },
     {
       "timestamp": "2026-09-07T19:18:39.779813+00:00",
       "close": 158.81
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-25T10:27:14.528202+00:00",
       "close": 139.54
+    },
+    {
+      "timestamp": "2026-09-25T15:27:31.742142+00:00",
+      "close": 138.19
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-25T08:29:00+00:00",
-      "title": "Private 5G Market Forecasts Growth from $5.35B (2026) to $24.84B by 2032, Profiling Ericsson, Huawei, Nokia, Samsung & Cisco Systems",
+      "timestamp": "2026-09-25T13:54:51+00:00",
+      "title": "Michael Burry Drops Stark Message For AI Stock Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-25T07:32:56+00:00",
-      "title": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
+      "timestamp": "2026-09-25T13:44:00+00:00",
+      "title": "AI-Driven Investment Surge Reshapes the Electronic Chemicals and Materials Industry",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-25T07:26:41+00:00",
-      "title": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
+      "timestamp": "2026-09-25T13:16:07+00:00",
+      "title": "Oracle’s Collapse–$200 Billion In Data Center Shut Downs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-25T06:03:06+00:00",
-      "title": "Microsoft: Risk And Reward Skewed To The Downside",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T05:46:58+00:00",
-      "title": "AMZN, META, GOOGL, MSFT, ORCL: Michael Burry Sounds Fresh Alarm On Big Tech’s AI Spending, Warns Of Massive Write-Offs In Two Years",
+      "timestamp": "2026-09-25T12:58:26+00:00",
+      "title": "Goldman Sachs Warns on Big Tech AI Debt Flood",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-25T05:30:00+00:00",
-      "title": "Tech Companies’ Cash Burn Isn’t the Problem You Might Think",
+      "timestamp": "2026-09-25T12:41:24+00:00",
+      "title": "Michael Burry Warns Microsoft, Amazon and Oracle Could Face AI Write-Off Shock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-25T05:00:00+00:00",
-      "title": "From the ‘Buffett of Bonds,’ Advice for Tumultuous Times",
+      "timestamp": "2026-09-25T12:37:48+00:00",
+      "title": "Cloud AI Update - Docker Expands AI Capabilities With Cloud Sandboxes Launch",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-25T03:48:00+00:00",
-      "title": "SoftBank shares fall as Oracle data-center warning fuels AI funding fears",
+      "timestamp": "2026-09-25T12:23:00+00:00",
+      "title": "Nvidia Stock Rises After Elon Musk’s SpaceX Chip Surprise",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T12:19:23+00:00",
+      "title": "Is IBM Stock A Real Bargain?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

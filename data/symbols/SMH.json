@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T10:27:14.528202+00:00",
+  "generated_at": "2026-09-25T15:27:31.742142+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 600.52,
-    "change_pct": -0.1479855672502972
+    "price": 605.49,
+    "change_pct": 0.8276160660760645
   },
   "risk": {
-    "score": 52,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T15:22:22.441811+00:00",
-      "close": 567.05
-    },
     {
       "timestamp": "2026-09-07T19:18:39.779813+00:00",
       "close": 567.05
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-25T10:27:14.528202+00:00",
       "close": 600.52
+    },
+    {
+      "timestamp": "2026-09-25T15:27:31.742142+00:00",
+      "close": 605.49
     }
   ],
   "events": [
@@ -530,6 +530,30 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-24T16:08:54+00:00",
+      "title": "S&P 500’s Midterm Rally Setup Is Getting Interesting: These ETFs Could Hold the Clues",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T14:29:35+00:00",
+      "title": "EXCLUSIVE: Why AI Semiconductor Stocks Are a 'Dangerous Playground' For Investors",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T14:26:03+00:00",
+      "title": "EXCLUSIVE: Nvidia Keeps AI Profits, TSMC May Want a Bigger Cut",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-24T12:43:30+00:00",
       "title": "Buy SPY Or QQQ, Hold Software, And Sell Semiconductors",
       "source": "SeekingAlpha",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-24T11:11:01+00:00",
       "title": "Rising Bond Yields, Oil Prices Pressure Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T09:10:49+00:00",
-      "title": "Bessent Needs A Bigger Buyback",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T07:05:11+00:00",
-      "title": "AI’s Deflationary Product Cannot Support the $5 Trillion Bill",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-23T21:23:28+00:00",
-      "title": "S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
