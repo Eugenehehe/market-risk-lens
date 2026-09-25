@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:29:12.622049+00:00",
+  "generated_at": "2026-09-25T00:44:10.629305+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 350.36,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T00:14:48.843999+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-07T04:51:47.096600+00:00",
       "close": 357.895
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-24T22:29:12.622049+00:00",
       "close": 350.36
+    },
+    {
+      "timestamp": "2026-09-25T00:44:10.629305+00:00",
+      "close": 350.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-24T23:50:26+00:00",
+      "title": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-24T21:16:44+00:00",
       "title": "Broadcom (AVGO) Stock May Be 24% Undervalued Following Fresh AI Demand Fears",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-24T12:00:54+00:00",
       "title": "AMD Joined Nvidia in the Trillion Dollar Club. The Run Isn’t an Accident",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T09:56:17+00:00",
-      "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
