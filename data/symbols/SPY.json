@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T19:27:51.249538+00:00",
+  "generated_at": "2026-09-25T22:42:36.475904+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 770.36,
-    "change_pct": 0.414505070518012
+    "price": 771.35,
+    "change_pct": 0.5435491019056826
   },
   "risk": {
-    "score": 54,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T22:06:26.937587+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-08T00:21:24.980790+00:00",
       "close": 770.19
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-09-25T19:27:51.249538+00:00",
       "close": 770.36
+    },
+    {
+      "timestamp": "2026-09-25T22:42:36.475904+00:00",
+      "close": 771.35
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-25T20:12:05+00:00",
+      "title": "From Prospectuses to Prediction Markets: ETF Zoo Game Show",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T19:16:41+00:00",
+      "title": "Meta’s Loudest AI Bull Just Cut His Own Stock Exposure and It Is Not Because of AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-25T18:06:30+00:00",
       "title": "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T18:00:19+00:00",
+      "title": "AI CapEx, Bond Yields, And Geopolitics Flash Warning Signs: Time To Be Out",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-25T17:27:56+00:00",
+      "title": "EWP: Spanish Equities Appear To Be Fairly Valued",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-25T17:06:31+00:00",
       "title": "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T17:00:18+00:00",
-      "title": "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T16:02:30+00:00",
-      "title": "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T15:57:49+00:00",
-      "title": "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T14:56:24+00:00",
-      "title": "GameStop Tumbles 8% Despite Ryan Cohen’s $26M Insider Buy; eBay Ticks Up",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

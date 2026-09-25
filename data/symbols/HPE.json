@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T19:27:51.249538+00:00",
+  "generated_at": "2026-09-25T22:42:36.475904+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 63.26,
-    "change_pct": -0.40931989924434253
+    "price": 62.94,
+    "change_pct": -0.9130982367758222
   },
   "risk": {
-    "score": 54,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T22:06:26.937587+00:00",
-      "close": 52
-    },
     {
       "timestamp": "2026-09-08T00:21:24.980790+00:00",
       "close": 52
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-25T19:27:51.249538+00:00",
       "close": 63.26
+    },
+    {
+      "timestamp": "2026-09-25T22:42:36.475904+00:00",
+      "close": 62.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-25T20:25:53+00:00",
+      "title": "What Was Cisco Telling You Before Its Stock Ran?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T18:39:05+00:00",
+      "title": "These Tech Stocks Trade Near Buy Points. One Sees 80% To 100% Core Income Growth.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T17:51:27+00:00",
       "title": "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-25T09:00:00+00:00",
       "title": "Bull of the Day: Hewlett Packard Enterprise (HPE)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T08:34:00+00:00",
-      "title": "Hewlett Packard and Tecnoglass have been highlighted as Zacks Bull and Bear of the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T08:29:00+00:00",
-      "title": "Private 5G Market Forecasts Growth from $5.35B (2026) to $24.84B by 2032, Profiling Ericsson, Huawei, Nokia, Samsung & Cisco Systems",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
