@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:27:15.334014+00:00",
+  "generated_at": "2026-09-25T10:27:14.528202+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 451.15,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T09:51:03.416975+00:00",
-      "close": 428.91
-    },
     {
       "timestamp": "2026-09-07T15:22:22.441811+00:00",
       "close": 428.95
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-25T05:27:15.334014+00:00",
       "close": 451.15
+    },
+    {
+      "timestamp": "2026-09-25T10:27:14.528202+00:00",
+      "close": 451.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-25T04:07:17+00:00",
+      "title": "ASML vs. Applied Materials: Which AI Chip-Equipment Stock Is the Better Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T00:31:10+00:00",
       "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-24T20:18:23+00:00",
       "title": "Why Did Cadence Design Systems (CDNS) Stock Climb Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T20:01:38+00:00",
-      "title": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

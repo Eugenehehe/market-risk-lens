@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T05:27:15.334014+00:00",
+  "generated_at": "2026-09-25T10:27:14.528202+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 17.2,
     "change_pct": 0.9389671361502261
   },
   "risk": {
-    "score": 42,
+    "score": 44,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T09:51:03.416975+00:00",
-      "close": 17.53
-    },
     {
       "timestamp": "2026-09-07T15:22:22.441811+00:00",
       "close": 17.54
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-25T05:27:15.334014+00:00",
       "close": 17.2
+    },
+    {
+      "timestamp": "2026-09-25T10:27:14.528202+00:00",
+      "close": 17.2
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-25T03:55:00+00:00",
+      "title": "Volatility Has A Memory (Technical Analysis)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
