@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:44:10.629305+00:00",
+  "generated_at": "2026-09-25T05:27:15.334014+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 767.18,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T04:51:47.096600+00:00",
-      "close": 770.19
-    },
     {
       "timestamp": "2026-09-07T09:51:03.416975+00:00",
       "close": 770.19
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-09-25T00:44:10.629305+00:00",
       "close": 767.18
+    },
+    {
+      "timestamp": "2026-09-25T05:27:15.334014+00:00",
+      "close": 767.18
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-25T00:30:00+00:00",
+      "title": "Is 130% Debt To GDP A Tipping Point?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-25T00:12:54+00:00",
       "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T23:35:00+00:00",
+      "title": "Xi-Trump Summit: Pandas And Positive Vibes But Limited Progress",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-24T18:22:51+00:00",
       "title": "She Inherited Her Father’s $250,000 Roth and Didn’t Touch It for Ten Years. It Grew to $400,000, and Every Dollar Came Out Tax-Free",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T18:10:16+00:00",
-      "title": "Critical Metals Jumps 9% While the Rare Earth Group Stalls; MP Materials Ticks Up, USA Rare Earth Eases",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T18:02:51+00:00",
-      "title": "Unusual Machines Jumps 6% as Drone Names Bounce Together; Ondas Climbs 4%, Red Cat Rises 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

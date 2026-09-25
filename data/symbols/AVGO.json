@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:44:10.629305+00:00",
+  "generated_at": "2026-09-25T05:27:15.334014+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 350.36,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-07T04:51:47.096600+00:00",
-      "close": 357.895
-    },
     {
       "timestamp": "2026-09-07T09:51:03.416975+00:00",
       "close": 357.895
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-25T00:44:10.629305+00:00",
       "close": 350.36
+    },
+    {
+      "timestamp": "2026-09-25T05:27:15.334014+00:00",
+      "close": 350.36
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-24T23:50:26+00:00",
       "title": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-24T22:05:11+00:00",
+      "title": "Tracking Philippe Laffont's Coatue Management Portfolio - Q2 2026 Update",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-24T12:20:23+00:00",
       "title": "AMD's Six-Day Rally Finally Hits a Pause",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-24T12:00:54+00:00",
-      "title": "AMD Joined Nvidia in the Trillion Dollar Club. The Run Isn’t an Accident",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
