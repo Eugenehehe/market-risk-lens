@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:03:15.021293+00:00",
+  "generated_at": "2026-09-26T21:03:37.442741+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 341.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-08T20:13:49.124003+00:00",
-      "close": 316.22
-    },
     {
       "timestamp": "2026-09-08T22:43:23.380235+00:00",
       "close": 316.22
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-26T18:03:15.021293+00:00",
       "close": 341.07
+    },
+    {
+      "timestamp": "2026-09-26T21:03:37.442741+00:00",
+      "close": 341.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-26T15:50:00+00:00",
+      "title": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-26T15:32:54+00:00",
       "title": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy in 2026?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-26T07:12:45+00:00",
       "title": "How Investors May Respond To Apple (AAPL) Launching Its First Foldable iPhone With On‑Device AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T01:35:25+00:00",
-      "title": "Apple (AAPL) Plans a Health App Overhaul. Can Better Insights Boost Device Sales?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
