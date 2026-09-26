@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:31:41.668309+00:00",
+  "generated_at": "2026-09-26T14:42:13.938210+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 341.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-08T13:45:09.246218+00:00",
-      "close": 317.89
-    },
     {
       "timestamp": "2026-09-08T17:34:01.744281+00:00",
       "close": 316.27
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-26T10:31:41.668309+00:00",
       "close": 341.07
+    },
+    {
+      "timestamp": "2026-09-26T14:42:13.938210+00:00",
+      "close": 341.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-26T13:02:00+00:00",
+      "title": "Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-26T10:07:25+00:00",
+      "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-26T07:56:01+00:00",
       "title": "Most of Berkshire Hathaway's Earnings Don't Come From Its Stock Portfolio. Here's Where They Do Come From.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-26T00:53:20+00:00",
       "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T00:28:36+00:00",
-      "title": "Italy’s Labor Dispute Added a Twist to Apple (AAPL)’s iPhone Launch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T22:32:00+00:00",
-      "title": "$58 Million Multifamily Asset Sale Closed by Institutional Property Advisors in North Phoenix",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
