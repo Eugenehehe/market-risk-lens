@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:42:13.938210+00:00",
+  "generated_at": "2026-09-26T18:03:15.021293+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 281.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-08T17:34:01.744281+00:00",
-      "close": 295.98
-    },
     {
       "timestamp": "2026-09-08T20:13:49.124003+00:00",
       "close": 294.67
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-26T14:42:13.938210+00:00",
       "close": 281.97
+    },
+    {
+      "timestamp": "2026-09-26T18:03:15.021293+00:00",
+      "close": 281.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-26T12:48:02+00:00",
+      "title": "The 1-Minute Market Report, September 26, 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-26T08:34:46+00:00",
       "title": "S&P 500: I'm Holding What I Have, But There's No Way I'm Adding In This Environment",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-26T03:10:00+00:00",
       "title": "The Recession That Wasn't",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T02:10:00+00:00",
-      "title": "From Tokyo To The Trump-Xi Summit: Opportunities In International Equities",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:42:13.938210+00:00",
+  "generated_at": "2026-09-26T18:03:15.021293+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 352.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-08T17:34:01.744281+00:00",
-      "close": 367.67
-    },
     {
       "timestamp": "2026-09-08T20:13:49.124003+00:00",
       "close": 368.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-26T14:42:13.938210+00:00",
       "close": 352.81
+    },
+    {
+      "timestamp": "2026-09-26T18:03:15.021293+00:00",
+      "close": 352.81
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-09-26T11:12:56+00:00",
       "title": "Adobe Stock And 2 Other AI Stocks To Own",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-26T10:50:47+00:00",
+      "title": "China Won't Move Chip Stocks Anymore",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-25T20:34:33+00:00",
       "title": "How Much Track Is Left For MRVL Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T20:11:52+00:00",
-      "title": "UiPath And 2 Other Undervalued Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
