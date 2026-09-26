@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:42:36.475904+00:00",
+  "generated_at": "2026-09-26T00:54:33.499870+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1082.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-08T00:21:24.980790+00:00",
-      "close": 1016.59
-    },
     {
       "timestamp": "2026-09-08T04:54:58.409483+00:00",
       "close": 1016.59
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-25T22:42:36.475904+00:00",
       "close": 1082.28
+    },
+    {
+      "timestamp": "2026-09-26T00:54:33.499870+00:00",
+      "close": 1082.28
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-25T21:04:06+00:00",
       "title": "Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-25T20:58:00+00:00",
+      "title": "What Will the Q3 Earnings Season Show?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-25T17:52:56+00:00",
       "title": "Micron Stock Gets Another Vote of Confidence From Top Analyst",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T17:38:04+00:00",
-      "title": "Sandisk: $94B In Contracts Reinforces Outlook",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
