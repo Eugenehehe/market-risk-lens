@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:32:56.805910+00:00",
+  "generated_at": "2026-09-27T01:44:32.680329+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 751.66,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T00:41:00.248152+00:00",
-      "close": 613.48
-    },
     {
       "timestamp": "2026-09-09T05:19:06.296709+00:00",
       "close": 613.48
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-09-26T23:32:56.805910+00:00",
       "close": 751.66
+    },
+    {
+      "timestamp": "2026-09-27T01:44:32.680329+00:00",
+      "close": 751.66
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-26T17:36:00+00:00",
       "title": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-26T17:30:03+00:00",
+      "title": "Shopify Just Signed an AI Deal With Meta, but I Wouldn’t Rush to Buy SHOP Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-26T10:50:47+00:00",
       "title": "China Won't Move Chip Stocks Anymore",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T10:00:00+00:00",
-      "title": "Meta has an AI solution to its misunderstood trust problem",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
