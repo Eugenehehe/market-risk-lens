@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:24:43.774864+00:00",
+  "generated_at": "2026-09-27T23:15:22.541699+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 341.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T20:04:26.669581+00:00",
-      "close": 315.34
-    },
     {
       "timestamp": "2026-09-09T22:30:37.218437+00:00",
       "close": 315.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-27T20:24:43.774864+00:00",
       "close": 341.07
+    },
+    {
+      "timestamp": "2026-09-27T23:15:22.541699+00:00",
+      "close": 341.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-27T20:05:00+00:00",
+      "title": "Apple and Nvidia Are the Two Largest Companies in the World. Which is the Better Stock to Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-27T19:15:23+00:00",
       "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-27T11:11:36+00:00",
       "title": "Gene Munster Says Personalized AI Could Be Apple, Meta’s Next Big Profit Machine — 'Numbers So Large They’re Hard To Believe'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-27T11:00:00+00:00",
-      "title": "The making of Tim Cook: How Apple’s departing CEO went from ‘the genius behind Steve Jobs’ to a star in his own right",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

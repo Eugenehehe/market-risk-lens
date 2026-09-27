@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:24:43.774864+00:00",
+  "generated_at": "2026-09-27T23:15:22.541699+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 630.63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T20:04:26.669581+00:00",
-      "close": 521.095
-    },
     {
       "timestamp": "2026-09-09T22:30:37.218437+00:00",
       "close": 521.095
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-27T20:24:43.774864+00:00",
       "close": 630.63
+    },
+    {
+      "timestamp": "2026-09-27T23:15:22.541699+00:00",
+      "close": 630.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-27T20:23:31+00:00",
+      "title": "AMD’s $1 Trillion Valuation Raises the Bar for its AI Ambitions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-27T19:15:23+00:00",
       "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-27T01:58:00+00:00",
       "title": "Prediction: Here's What a $5,000 Investment in AMD Could Be Worth by 2030",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T20:00:00+00:00",
-      "title": "AMD: First AI Target Hit, Likely $1,000 Up Next",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
