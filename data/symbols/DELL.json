@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:01:37.518044+00:00",
+  "generated_at": "2026-09-27T17:40:46.818144+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 562.89,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T14:09:24.275341+00:00",
-      "close": 558.11
-    },
     {
       "timestamp": "2026-09-09T17:49:57.957742+00:00",
       "close": 545.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-27T13:01:37.518044+00:00",
       "close": 562.89
+    },
+    {
+      "timestamp": "2026-09-27T17:40:46.818144+00:00",
+      "close": 562.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-27T14:37:55+00:00",
+      "title": "HP’s Dividend Looks Generous. Here’s What’s Really Funding It.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-25T20:25:53+00:00",
       "title": "What Was Cisco Telling You Before Its Stock Ran?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-25T13:50:00+00:00",
       "title": "NVIDIA’s Next AI Chip Ramp Could Open the Door to Another Major Stock Move",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T13:15:00+00:00",
-      "title": "Super Micro’s Vera Rubin Shipments Put Its AI Infrastructure Advantage to the Test",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
