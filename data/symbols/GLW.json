@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T07:43:44.220311+00:00",
+  "generated_at": "2026-09-28T16:02:07.789818+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 156.74,
-    "change_pct": 1.6801816412585158
+    "price": 150.96,
+    "change_pct": -3.6876355748373113
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T05:10:35.441160+00:00",
-      "close": 168.46
-    },
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 168.46
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-09-28T07:43:44.220311+00:00",
       "close": 156.74
+    },
+    {
+      "timestamp": "2026-09-28T16:02:07.789818+00:00",
+      "close": 150.96
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-09-28T12:35:01+00:00",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

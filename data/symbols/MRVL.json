@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T07:43:44.220311+00:00",
+  "generated_at": "2026-09-28T16:02:07.789818+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 261.935,
-    "change_pct": 1.152732187681016
+    "price": 251.52,
+    "change_pct": -3.9761772958940123
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T05:10:35.441160+00:00",
-      "close": 235.01
-    },
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 235.01
@@ -502,52 +498,72 @@
     {
       "timestamp": "2026-09-28T07:43:44.220311+00:00",
       "close": 261.935
+    },
+    {
+      "timestamp": "2026-09-28T16:02:07.789818+00:00",
+      "close": 251.52
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-27T17:00:41+00:00",
-      "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+      "timestamp": "2026-09-28T13:30:44+00:00",
+      "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T15:52:00+00:00",
-      "title": "Broadcom vs. Marvell: The AI Supercycle Is Big Enough for Both. Here's the Better Buy.",
+      "timestamp": "2026-09-28T13:09:33+00:00",
+      "title": "Marvell vs. Broadcom: Which Custom AI Chip Stock Has More Room to Run?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T08:22:57+00:00",
-      "title": "Forget Google. This Is the Marvell Story That Matters Right Now",
+      "timestamp": "2026-09-28T13:00:00+00:00",
+      "title": "Altera Appoints Nishit Sahay Chief Information Officer",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-26T11:00:00+00:00",
-      "title": "MarketBeat Week in Review – 09/21 - 09/25",
+      "timestamp": "2026-09-28T13:00:00+00:00",
+      "title": "Nvidia, Meta, SpaceX, Kodiak Sciences, MongoDB, Boeing, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-26T10:34:45+00:00",
-      "title": "Marvell: Not The Best Bang For Your Buck",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-28T12:28:00+00:00",
+      "title": "Why Sandisk, Marvell and Other AI Stocks Are Falling",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-26T10:10:00+00:00",
-      "title": "2 Semiconductor Stocks That Could Help Set You Up for Life",
+      "timestamp": "2026-09-28T11:53:00+00:00",
+      "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T11:42:00+00:00",
+      "title": "The Stock Market Faces a Triple Threat but It Can Emerge Victorious",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T10:38:00+00:00",
+      "title": "Sandisk, Marvell and Other AI Stocks Fall. OpenAI Just Reignited Safety Fears.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

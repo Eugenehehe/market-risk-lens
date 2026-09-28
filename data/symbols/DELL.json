@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T07:43:44.220311+00:00",
+  "generated_at": "2026-09-28T16:02:07.789818+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 562.89,
-    "change_pct": 5.012872654005451
+    "price": 543.15,
+    "change_pct": -3.5069018813622566
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T05:10:35.441160+00:00",
-      "close": 535.25
-    },
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 535.25
@@ -502,12 +498,72 @@
     {
       "timestamp": "2026-09-28T07:43:44.220311+00:00",
       "close": 562.89
+    },
+    {
+      "timestamp": "2026-09-28T16:02:07.789818+00:00",
+      "close": 543.15
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-27T14:37:55+00:00",
-      "title": "HP’s Dividend Looks Generous. Here’s What’s Really Funding It.",
+      "timestamp": "2026-09-28T12:35:01+00:00",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T12:03:00+00:00",
+      "title": "Dell's AI Server Backlog Has Ballooned to $95 Billion. Here's What a $1,000 Investment Today Could Be Worth by 2030",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T12:00:00+00:00",
+      "title": "TerraFlow Energy and DG Matrix to Deploy First U.S. VRFB and Solid-State Transformer Architecture to Power Live High-Performance Compute",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T09:25:00+00:00",
+      "title": "Hyper Converged Infrastructure Market Report 2026: Capitalize on the $82.86 Billion Market by 2030 as Dell, Nutanix, HPE, Cisco and StorMagic Disrupt Hybrid Cloud and Edge Infrastructure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T09:21:00+00:00",
+      "title": "Computers Global Market Report 2026: Capitalize on the $161.29 Billion Revenue Surge to $676.41 Billion by 2030—Benchmark Apple, Microsoft, Dell, Lenovo and ASUS to Secure Share as AI PCs and Tariffs Disrupt Global Supply Chains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T08:06:00+00:00",
+      "title": "Cluster Computing Global Market Report 2026: Capitalize on the surge to $85.27 billion by 2030 as NVIDIA, Huawei, Dell, Lenovo and HPE accelerate AI and hybrid HPC; secure the intelligence to outmaneuver rivals and maximize ROI.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T08:05:00+00:00",
+      "title": "High Availability Cluster Solution Global Market Report 2026: Capitalize on the $2.49 Billion Revenue Surge to $8.84 Billion by 2030; Benchmark Microsoft, Dell, IBM, Cisco and Oracle as Hybrid Cloud and Zero-Downtime Strategies Disrupt the Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T08:04:00+00:00",
+      "title": "Virtual Desktop Enhancer Global Market Report 2026: Capitalize on 14.9% CAGR as AI and Cloud VDI Drive Revenue to $4.62 Billion by 2030 and Benchmark Microsoft, AWS, Google, Huawei and Dell Before Rivals Gain Ground",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

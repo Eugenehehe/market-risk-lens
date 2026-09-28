@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T07:43:44.220311+00:00",
+  "generated_at": "2026-09-28T16:02:07.789818+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 137.1,
-    "change_pct": -1.7486025512397863
+    "price": 132.53,
+    "change_pct": -3.3333333333333326
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T05:10:35.441160+00:00",
-      "close": 161.63
-    },
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 161.63
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-28T07:43:44.220311+00:00",
       "close": 137.1
+    },
+    {
+      "timestamp": "2026-09-28T16:02:07.789818+00:00",
+      "close": 132.53
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-28T03:59:02+00:00",
-      "title": "‘Big Short’ Fame Michael Burry Says Trump ‘Cannot Afford’ To Let AI Boom Fall",
+      "timestamp": "2026-09-28T13:45:51+00:00",
+      "title": "Snowflake Slides 4% on Proposed $3.5B Convertible Offering; Oracle Falls 3%, Datadog Drops 4%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T02:47:00+00:00",
-      "title": "Oracle's massive AI bet hides a huge warning investors can't ignore",
+      "timestamp": "2026-09-28T13:29:10+00:00",
+      "title": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T00:22:07+00:00",
-      "title": "Oracle (ORCL) Reports a $664 Billion Backlog. Can AI Growth Outpace its Cash Burn?",
+      "timestamp": "2026-09-28T12:36:14+00:00",
+      "title": "AI’s hidden $3tn bill could wreck the world economy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T21:47:00+00:00",
-      "title": "Michael Burry just put a date on Big Tech's AI reckoning, and Oracle's $664 billion lands in crosshairs",
+      "timestamp": "2026-09-28T12:35:01+00:00",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T12:30:59+00:00",
+      "title": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T20:22:08+00:00",
-      "title": "Oracle’s AI Expansion Faces a New Test as Data Center Costs Rise",
+      "timestamp": "2026-09-28T11:59:00+00:00",
+      "title": "Accenture Edge Helps Combe Unify its Global Operations, Setting the Stage for AI-Powered Growth with Oracle Fusion Applications",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T18:20:45+00:00",
-      "title": "IBM’s Dividend Survived the Old IBM. Can It Survive the New One?",
-      "source": "Yahoo",
+      "timestamp": "2026-09-28T11:05:58+00:00",
+      "title": "8 Of 11 Sectors Fall In Monday Trading As Defensives Lead",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T17:51:51+00:00",
-      "title": "AI’s $10 Trillion Buildout Will Reach 3.6% of GDP. Who’s Going to Pay for It?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-27T17:33:00+00:00",
-      "title": "Michael Burry sends a stark warning to Big Tech stock investors",
-      "source": "Yahoo",
+      "timestamp": "2026-09-28T10:27:13+00:00",
+      "title": "Oracle Stock Slips as Google's Mandiant Flags New PeopleSoft Breach Wave",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

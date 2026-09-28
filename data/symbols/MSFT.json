@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-28T07:43:44.220311+00:00",
+  "generated_at": "2026-09-28T16:02:07.789818+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 516.17,
-    "change_pct": 3.663165505191479
+    "price": 510.51,
+    "change_pct": -1.0965379622992377
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T05:10:35.441160+00:00",
-      "close": 491.65
-    },
     {
       "timestamp": "2026-09-10T09:45:15.658024+00:00",
       "close": 491.65
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-28T07:43:44.220311+00:00",
       "close": 516.17
+    },
+    {
+      "timestamp": "2026-09-28T16:02:07.789818+00:00",
+      "close": 510.51
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-28T03:51:56+00:00",
-      "title": "Microsoft Corporation (MSFT) Wants AI to Do More. Can Customers Keep Up?",
+      "timestamp": "2026-09-28T13:30:00+00:00",
+      "title": "Konica Minolta Earns Leader Designation in Quocirca Print Security Landscape 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T01:40:00+00:00",
-      "title": "Bill Gates warns AI global framework talks harder than Cold War-era nuclear negotiations",
+      "timestamp": "2026-09-28T13:29:53+00:00",
+      "title": "I’m Buying Microsoft Exec’s Tactical Assertion That He Supports an AI Killswitch",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T00:11:44+00:00",
-      "title": "Microsoft (MSFT) Reportedly Plans a Vast Data Center Expansion. Can Azure Justify the Cost?",
+      "timestamp": "2026-09-28T13:24:21+00:00",
+      "title": "Senate Democrats question Big Tech on AI tax breaks in \"one big beautiful bill\"",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T23:52:46+00:00",
-      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+      "timestamp": "2026-09-28T12:54:34+00:00",
+      "title": "OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T21:47:00+00:00",
-      "title": "Michael Burry just put a date on Big Tech's AI reckoning, and Oracle's $664 billion lands in crosshairs",
+      "timestamp": "2026-09-28T12:37:01+00:00",
+      "title": "Microsoft Rolls Out Refreshed Copilot App as Stock Lags Megacap Peers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T21:22:54+00:00",
-      "title": "Is Synopsys (SNPS) a Breakout Play as Headwinds Subside and BNP Paribas Upgrades?",
+      "timestamp": "2026-09-28T12:36:14+00:00",
+      "title": "AI’s hidden $3tn bill could wreck the world economy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T19:39:53+00:00",
-      "title": "Microsoft (MSFT) Puts GitHub’s Coding Engine Inside the App Office Workers Already Use",
+      "timestamp": "2026-09-28T12:30:59+00:00",
+      "title": "The $600 Billion AI Opportunity Behind Oracle, We See 51% Upside",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-27T19:15:23+00:00",
-      "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+      "timestamp": "2026-09-28T12:28:11+00:00",
+      "title": "Amazon’s AI Capex Is Paying Off and I’m Buying",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
