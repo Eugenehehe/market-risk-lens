@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-27T23:15:22.541699+00:00",
+  "generated_at": "2026-09-28T01:44:43.542395+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 16.61,
     "change_pct": -1.7159763313609466
   },
   "risk": {
-    "score": 50,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 48,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T22:30:37.218437+00:00",
-      "close": 17.56
-    },
     {
       "timestamp": "2026-09-10T00:31:44.669688+00:00",
       "close": 17.56
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-09-27T23:15:22.541699+00:00",
       "close": 16.61
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-09-25T03:55:00+00:00",
-      "title": "Volatility Has A Memory (Technical Analysis)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-09-28T01:44:43.542395+00:00",
+      "close": 16.61
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

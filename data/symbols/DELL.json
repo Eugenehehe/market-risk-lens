@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-27T23:15:22.541699+00:00",
+  "generated_at": "2026-09-28T01:44:43.542395+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 562.89,
     "change_pct": 5.012872654005451
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T22:30:37.218437+00:00",
-      "close": 535.25
-    },
     {
       "timestamp": "2026-09-10T00:31:44.669688+00:00",
       "close": 535.25
@@ -502,68 +498,16 @@
     {
       "timestamp": "2026-09-27T23:15:22.541699+00:00",
       "close": 562.89
+    },
+    {
+      "timestamp": "2026-09-28T01:44:43.542395+00:00",
+      "close": 562.89
     }
   ],
   "events": [
     {
       "timestamp": "2026-09-27T14:37:55+00:00",
       "title": "HP’s Dividend Looks Generous. Here’s What’s Really Funding It.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T20:25:53+00:00",
-      "title": "What Was Cisco Telling You Before Its Stock Ran?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T19:05:01+00:00",
-      "title": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T17:52:02+00:00",
-      "title": "Dell Stock Jumps 3.5% as Gemini Enters the XPS Franchise",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T17:51:27+00:00",
-      "title": "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T16:54:18+00:00",
-      "title": "Dell Stock Jumps as Morgan Stanley Raises Odds of $756 Bull Case",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T16:35:01+00:00",
-      "title": "Discover which S&P500 stocks are making waves on Friday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T13:50:00+00:00",
-      "title": "NVIDIA’s Next AI Chip Ramp Could Open the Door to Another Major Stock Move",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

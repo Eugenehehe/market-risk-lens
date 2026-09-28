@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-27T23:15:22.541699+00:00",
+  "generated_at": "2026-09-28T01:44:43.542395+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 62.94,
     "change_pct": -0.9130982367758222
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-09T22:30:37.218437+00:00",
-      "close": 58.9
-    },
     {
       "timestamp": "2026-09-10T00:31:44.669688+00:00",
       "close": 58.9
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-27T23:15:22.541699+00:00",
       "close": 62.94
+    },
+    {
+      "timestamp": "2026-09-28T01:44:43.542395+00:00",
+      "close": 62.94
     }
   ],
   "events": [
@@ -509,62 +509,6 @@
       "timestamp": "2026-09-27T08:30:00+00:00",
       "title": "Earn 10-15% Potential Income: Monthly Options Series (Oct. 2026)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T20:25:53+00:00",
-      "title": "What Was Cisco Telling You Before Its Stock Ran?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T18:39:05+00:00",
-      "title": "These Tech Stocks Trade Near Buy Points. One Sees 80% To 100% Core Income Growth.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T17:51:27+00:00",
-      "title": "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T13:50:00+00:00",
-      "title": "NVIDIA’s Next AI Chip Ramp Could Open the Door to Another Major Stock Move",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T13:15:00+00:00",
-      "title": "Super Micro’s Vera Rubin Shipments Put Its AI Infrastructure Advantage to the Test",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T13:12:08+00:00",
-      "title": "Should HPE’s Expanded Networking and Quantum Partnerships Require Action From Hewlett Packard Enterprise (HPE) Investors?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-25T13:01:58+00:00",
-      "title": "Shares of health insurance companies are trading higher after the Centers for Medicare & Medicaid Services announced a 2.48% rate hike for 2027 Medicare Advantage and Part D programs.",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
