@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:44:43.542395+00:00",
+  "generated_at": "2026-09-28T07:43:44.220311+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 123,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T00:31:44.669688+00:00",
-      "close": 106.24
-    },
     {
       "timestamp": "2026-09-10T05:10:35.441160+00:00",
       "close": 106.24
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-28T01:44:43.542395+00:00",
       "close": 123
+    },
+    {
+      "timestamp": "2026-09-28T07:43:44.220311+00:00",
+      "close": 123
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-28T04:17:29+00:00",
+      "title": "SK Hynix (SKHY): Can Solidigm Become a Bigger Part of the Story?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-27T21:57:22+00:00",
       "title": "Why is Intel Corporation (INTC) up over 33%? Is the Rally Sustainable?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-27T14:06:02+00:00",
       "title": "AMD Just Hit $1 Trillion After A Blistering 194% Surge YTD — Beth Kindig Says The ‘Dark Horse’ Still Has Room To Run",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-27T05:00:00+00:00",
-      "title": "What Will Micron's Gross Margin Guide Be?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

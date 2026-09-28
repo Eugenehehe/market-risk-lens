@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:44:43.542395+00:00",
+  "generated_at": "2026-09-28T07:43:44.220311+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 516.17,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T00:31:44.669688+00:00",
-      "close": 491.65
-    },
     {
       "timestamp": "2026-09-10T05:10:35.441160+00:00",
       "close": 491.65
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-28T01:44:43.542395+00:00",
       "close": 516.17
+    },
+    {
+      "timestamp": "2026-09-28T07:43:44.220311+00:00",
+      "close": 516.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-28T03:51:56+00:00",
+      "title": "Microsoft Corporation (MSFT) Wants AI to Do More. Can Customers Keep Up?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T01:40:00+00:00",
+      "title": "Bill Gates warns AI global framework talks harder than Cold War-era nuclear negotiations",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T00:11:44+00:00",
       "title": "Microsoft (MSFT) Reportedly Plans a Vast Data Center Expansion. Can Azure Justify the Cost?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-27T19:15:23+00:00",
       "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-27T19:00:18+00:00",
-      "title": "Big Tech Workers Speak Out After Getting Laid Off: 'I Applied to Work Cashier at Target and I Was Denied'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-27T18:33:00+00:00",
-      "title": "Bill Gates doubles down on AI warning after decades of optimism",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
