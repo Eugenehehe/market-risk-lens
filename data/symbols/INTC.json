@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:22:25.835899+00:00",
+  "generated_at": "2026-09-29T07:09:13.283821+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 116.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T17:25:28.929057+00:00",
-      "close": 101.27
-    },
     {
       "timestamp": "2026-09-10T19:57:27.720133+00:00",
       "close": 100.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 116.03
+    },
+    {
+      "timestamp": "2026-09-29T07:09:13.283821+00:00",
+      "close": 116.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T02:19:40+00:00",
+      "title": "Intel (INTC) Shared Its Factory Bill. Did It Give Up Too Much Flexibility?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T22:54:36+00:00",
       "title": "AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-28T19:14:58+00:00",
       "title": "Micron Stock Gets Stunning Price Target Hike Just Before Earnings",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T19:05:01+00:00",
-      "title": "Stay informed with the top movers within the S&P500 index on Monday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

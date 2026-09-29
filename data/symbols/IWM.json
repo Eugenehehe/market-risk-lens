@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:22:25.835899+00:00",
+  "generated_at": "2026-09-29T07:09:13.283821+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 280.02,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T17:25:28.929057+00:00",
-      "close": 288.16
-    },
     {
       "timestamp": "2026-09-10T19:57:27.720133+00:00",
       "close": 287.71
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 280.02
+    },
+    {
+      "timestamp": "2026-09-29T07:09:13.283821+00:00",
+      "close": 280.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T00:45:00+00:00",
+      "title": "Cumberland's Monday Memo",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T17:28:20+00:00",
       "title": "The Market Is Wrong About Big Tech",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-28T12:16:43+00:00",
       "title": "Distribution Top Or Bear Market?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T11:05:58+00:00",
-      "title": "8 Of 11 Sectors Fall In Monday Trading As Defensives Lead",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

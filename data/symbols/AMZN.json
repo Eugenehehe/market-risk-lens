@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:22:25.835899+00:00",
+  "generated_at": "2026-09-29T07:09:13.283821+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 246.15,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T17:25:28.929057+00:00",
-      "close": 252.59
-    },
     {
       "timestamp": "2026-09-10T19:57:27.720133+00:00",
       "close": 251.72
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 246.15
+    },
+    {
+      "timestamp": "2026-09-29T07:09:13.283821+00:00",
+      "close": 246.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T02:01:01+00:00",
+      "title": "Meta Hasn't Split Its Stock Since Its IPO. Would a Stock Split Get It Into the Dow?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T23:34:11+00:00",
       "title": "Robotaxi Firms Quietly Growing Real Estate Footprint, Even Where They're Not Yet Legal",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-28T19:52:20+00:00",
       "title": "Can CoreWeave’s (CRWV) Computing Advantage Become a Lasting Moat?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T19:44:57+00:00",
-      "title": "Amazon Has a $10 Billion Holiday Catalyst Coming in October",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:22:25.835899+00:00",
+  "generated_at": "2026-09-29T07:09:13.283821+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 736.53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T17:25:28.929057+00:00",
-      "close": 710.56
-    },
     {
       "timestamp": "2026-09-10T19:57:27.720133+00:00",
       "close": 708.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 736.53
+    },
+    {
+      "timestamp": "2026-09-29T07:09:13.283821+00:00",
+      "close": 736.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T00:45:00+00:00",
+      "title": "Cumberland's Monday Memo",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T17:52:35+00:00",
       "title": "A Ben Franklin Market Analysis",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-28T13:00:56+00:00",
       "title": "Stock Market Today: Dow Falls, Trump Rejects Iran Deal; Oil, Yields Jump As Nvidia Rises On Buyback (Live Coverage)",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T12:47:00+00:00",
-      "title": "Equities Unfazed By Spike In Rates Volatility",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
