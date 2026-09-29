@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T07:09:13.283821+00:00",
+  "generated_at": "2026-09-29T14:03:47.052902+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 357.45,
-    "change_pct": -3.9396952514041628
+    "price": 352.84,
+    "change_pct": -1.289690865855364
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T19:57:27.720133+00:00",
-      "close": 363.34
-    },
     {
       "timestamp": "2026-09-10T22:23:20.727987+00:00",
       "close": 363.56
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-09-29T07:09:13.283821+00:00",
       "close": 357.45
+    },
+    {
+      "timestamp": "2026-09-29T14:03:47.052902+00:00",
+      "close": 352.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T11:30:08+00:00",
+      "title": "Tesla Gets FSD Green Light In Croatia Days After EU-Wide Decision Is Postponed By 2 Months",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T10:00:00+00:00",
+      "title": "Atomic Raises $12.5M to Build the AI Control System for Physical Goods Companies",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T09:00:00+00:00",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T08:43:01+00:00",
+      "title": "Micron Earned More in 3 Months Than Tesla Did in 3 Years. Prediction: It Will Be Worth More Than Tesla Before 2028.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T08:09:10+00:00",
+      "title": "J.P. Morgan Drops Sharp Take on Magnificent 7 Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T03:51:06+00:00",
       "title": "TSLA Stock Slides As Retail Turns Cautious Ahead Of Q3 Deliveries — But Musk’s Terafab Is Moving Fast",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-29T02:08:57+00:00",
       "title": "Tesla (TSLA) has a Growing Warranty Bill. Are Future Margins Paying for Past Sales?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T23:30:02+00:00",
-      "title": "TSLA Heads Into Friday’s Delivery Print With Family-Targeted Model Y L Already Sold Into Next Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T23:14:49+00:00",
-      "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T20:20:25+00:00",
-      "title": "Tesla Pushes Roadster Event To Oct. 15 After Storm Forecast, Says It ‘Can Only Be Held Outdoors’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T19:56:54+00:00",
-      "title": "Tesla Postpones Roadster Unveil Ahead Of Q3 Delivery Release; Stock Drops",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T19:22:09+00:00",
-      "title": "Tesla Stock Drops Over 3% Before Cybercab's Federal Answers Come Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

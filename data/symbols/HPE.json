@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T07:09:13.283821+00:00",
+  "generated_at": "2026-09-29T14:03:47.052902+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 62.63,
-    "change_pct": -0.4925325707022532
+    "price": 61.96,
+    "change_pct": -1.0697748682739983
   },
   "risk": {
-    "score": 54,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T19:57:27.720133+00:00",
-      "close": 55.3
-    },
     {
       "timestamp": "2026-09-10T22:23:20.727987+00:00",
       "close": 55.22
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-29T07:09:13.283821+00:00",
       "close": 62.63
+    },
+    {
+      "timestamp": "2026-09-29T14:03:47.052902+00:00",
+      "close": 61.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T11:12:02+00:00",
+      "title": "1 Profitable Stock with Exciting Potential and 2 We Brush Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T10:00:00+00:00",
+      "title": "CyberRatings.org and NSS Labs Announce 2026 Cloud Network Firewall Test Results",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T09:05:00+00:00",
+      "title": "Hyperscale Edge Computing Market Report 2026 Forecasts Growth from $8.04B (2026) to $24.03B by 2030, Profiling Hewlett Packard Enterprise, AWS, Cisco Systems, Google & 18 Other Key Players",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T08:09:39+00:00",
+      "title": "The AI Bubble Question Is Wrong: Follow The Economics Across The Value Chain",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T21:41:30+00:00",
       "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-28T16:01:01+00:00",
       "title": "Super Micro and Dell Drop 5% as AI Server Rally Reverses; Hewlett Packard Enterprise Falls 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T13:38:00+00:00",
-      "title": "Can PEAK:AIO Buyout Give NetApp a Competitive Edge in AI-Scale Storage?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T09:25:00+00:00",
-      "title": "Hyper Converged Infrastructure Market Report 2026: Capitalize on the $82.86 Billion Market by 2030 as Dell, Nutanix, HPE, Cisco and StorMagic Disrupt Hybrid Cloud and Edge Infrastructure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T09:23:00+00:00",
-      "title": "IT Asset Disposition Global Market Report 2026: Capitalize on 11% CAGR as Cloud Migration Drives Revenue from $23B to $34.97B by 2030—Benchmark Dell, HPE, IBM, Sims and Iron Mountain to Secure Share Amid Tariff and Compliance Disruption",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T09:19:00+00:00",
-      "title": "Load Balancer Global Market Report 2026: Capitalize on 18% CAGR as Cloud-Native Disruption Drives Revenue from $8.23B in 2026 to $15.97B by 2030 | Benchmark F5 Networks, Cloudflare, A10 Networks, HPE and NGINX to Secure Market Share",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

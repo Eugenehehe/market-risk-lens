@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T07:09:13.283821+00:00",
+  "generated_at": "2026-09-29T14:03:47.052902+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 349.57,
-    "change_pct": -0.9183413168560972
+    "price": 359.82,
+    "change_pct": 2.9321738135423603
   },
   "risk": {
-    "score": 58,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T19:57:27.720133+00:00",
-      "close": 360.71
-    },
     {
       "timestamp": "2026-09-10T22:23:20.727987+00:00",
       "close": 360.83
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-29T07:09:13.283821+00:00",
       "close": 349.57
+    },
+    {
+      "timestamp": "2026-09-29T14:03:47.052902+00:00",
+      "close": 359.82
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T09:26:01+00:00",
+      "title": "Not Broadcom. Not AMD. Nvidia's Biggest Threat Continues to Be Something Near and Dear to Its Heart.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T08:11:52+00:00",
+      "title": "Netlist Opens New Legal Proceedings At U.S. International Trade Commission Seeking Exclusion And Cease And Desist Orders Against Micron Technology And MU's Customers Nvidia, Broadcom And Google; Claims Infringement Of The Company's HBM Patents",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T02:57:01+00:00",
       "title": "Broadcom's Dividend Has Grown About 90-Fold Since 2010. Its Next Raise Usually Comes in December.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-28T20:29:38+00:00",
       "title": "Broadcom vs. Marvell Technology: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T19:35:50+00:00",
-      "title": "Broadcom Stock Slips Lower as $115 Billion Forecast Raises the Conversion Bar",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T17:36:32+00:00",
-      "title": "Axe Compute Just Sold Its Cancer Business to Become an AI Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T07:09:13.283821+00:00",
+  "generated_at": "2026-09-29T14:03:47.052902+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 543.43,
-    "change_pct": -3.4571585922649306
+    "price": 547.04,
+    "change_pct": 0.6642989897502893
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T19:57:27.720133+00:00",
-      "close": 510.08
-    },
     {
       "timestamp": "2026-09-10T22:23:20.727987+00:00",
       "close": 506.62
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-29T07:09:13.283821+00:00",
       "close": 543.43
+    },
+    {
+      "timestamp": "2026-09-29T14:03:47.052902+00:00",
+      "close": 547.04
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T08:16:00+00:00",
+      "title": "Client Computing Global Market Report 2026: Capitalize on AI, Hybrid and Edge Disruption as Revenue Climbs $41.73B to $277.88B by 2030—Benchmark Microsoft, Apple, Dell, Lenovo and HP to Secure Share Before Rivals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T08:09:39+00:00",
+      "title": "The AI Bubble Question Is Wrong: Follow The Economics Across The Value Chain",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T06:39:38+00:00",
+      "title": "MU Stock Is ‘Absolutely in a Bubble,’ But Bulls Can Still Make Money, Says Analyst: ‘Best Cycle Anyone’ Has Ever Seen",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T21:41:30+00:00",
       "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-28T16:09:04+00:00",
       "title": "Rating Upgrade: Super Micro Computer Presents A Rare Value Opportunity",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T16:01:01+00:00",
-      "title": "Super Micro and Dell Drop 5% as AI Server Rally Reverses; Hewlett Packard Enterprise Falls 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T15:00:29+00:00",
-      "title": "Is Dell Technologies Stock Outperforming the Dow?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T14:18:00+00:00",
-      "title": "AI Investment Accelerates: Top Stocks to Buy Right Now",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T07:09:13.283821+00:00",
+  "generated_at": "2026-09-29T14:03:47.052902+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 607.87,
-    "change_pct": -3.6090893233750365
+    "price": 616.3,
+    "change_pct": 1.3868096797012397
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T19:57:27.720133+00:00",
-      "close": 504.28
-    },
     {
       "timestamp": "2026-09-10T22:23:20.727987+00:00",
       "close": 503.6
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-29T07:09:13.283821+00:00",
       "close": 607.87
+    },
+    {
+      "timestamp": "2026-09-29T14:03:47.052902+00:00",
+      "close": 616.3
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-29T04:50:10+00:00",
-      "title": "AMD Stock Dips Overnight After $8.2B World Labs Deal — Senior Exec Says It's 'Not The Intent' To Compete With AI Customers",
+      "timestamp": "2026-09-29T12:35:53+00:00",
+      "title": "AI Earnings Loom as Valuation Divide Takes Center Stage",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T11:36:48+00:00",
+      "title": "NVDA, AMD Reportedly Push Trump To Ease China Restrictions In Defense Bill",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T02:33:00+00:00",
-      "title": "Bank of America resets AMD price target after major milestone",
+      "timestamp": "2026-09-29T11:20:02+00:00",
+      "title": "Advanced Micro Devices vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T23:06:34+00:00",
-      "title": "AMD just spent $8.2 billion to enlist the 'Godmother of AI'",
+      "timestamp": "2026-09-29T10:43:01+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Advance Premarket Tuesday; MongoDB, Reddit to Open Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T22:54:36+00:00",
-      "title": "AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know",
+      "timestamp": "2026-09-29T09:58:00+00:00",
+      "title": "AMD, Nvidia, Navitas, Summit Therapeutics, Fair Isaac, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T22:46:27+00:00",
-      "title": "Nvidia’s Glass Packaging Push Could Reshape AI Chips",
+      "timestamp": "2026-09-29T09:26:01+00:00",
+      "title": "Not Broadcom. Not AMD. Nvidia's Biggest Threat Continues to Be Something Near and Dear to Its Heart.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T22:12:55+00:00",
-      "title": "3 AI Robotics Stocks Retail Investors Are Watching After The World Labs Deal",
+      "timestamp": "2026-09-29T09:22:01+00:00",
+      "title": "AMD to acquire AI research lab World Labs for $8.2bn",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T21:56:04+00:00",
-      "title": "AMD acquires startup cofounded by ‘godmother of AI’ Fei-Fei Li for $8.2 billion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T21:37:31+00:00",
-      "title": "AMD Bolsters AI Vision With $8.2B Acquisition Of Fei-Fei Li’s World Labs, Stock Drops 4%",
+      "timestamp": "2026-09-29T08:52:00+00:00",
+      "title": "Advanced Micro Devices (AMD) Just Joined the $1 Trillion Club. Next Stop: $2 Trillion?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
