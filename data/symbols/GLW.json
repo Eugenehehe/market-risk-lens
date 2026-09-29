@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T14:03:47.052902+00:00",
+  "generated_at": "2026-09-29T19:21:32.830061+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 157.9,
-    "change_pct": 4.162543703410515
+    "price": 158.28,
+    "change_pct": 4.4132198693845215
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T22:23:20.727987+00:00",
-      "close": 163.12
-    },
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 163.12
@@ -502,45 +498,73 @@
     {
       "timestamp": "2026-09-29T14:03:47.052902+00:00",
       "close": 157.9
+    },
+    {
+      "timestamp": "2026-09-29T19:21:32.830061+00:00",
+      "close": 158.28
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-29T08:38:32+00:00",
-      "title": "Corning To Provide Fiber, Cable Under $3B Agreement To AT&T To Expand Its Network",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T20:12:36+00:00",
-      "title": "Corning (GLW) Stock Looks Undervalued As Its 452% Run Tests Fair Value",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T17:52:30+00:00",
-      "title": "Optics Stocks Slide Despite Citi’s $11B Switching Forecast: Coherent and Applied Optoelectronics Drop 5%, Corning Falls 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T13:14:00+00:00",
-      "title": "Ciena's Optical Tech Gets a Boost From CtrlS Deployment",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T12:35:01+00:00",
-      "title": "These S&P500 stocks that are showing activity before the opening bell on Monday.",
+      "timestamp": "2026-09-29T16:35:01+00:00",
+      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T15:55:00+00:00",
+      "title": "Corning wins more than $3B multi-year fiber supply deal with AT&T",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T15:00:52+00:00",
+      "title": "Lumentum Climbs 7% as Optics Selloff Reverses a Day After Citi’s $11B Switching Call; Coherent and Corning Rise 5%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T14:21:00+00:00",
+      "title": "Corning Stock Is Soaring. Why AI Data Demand Is Behind the Rally.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T14:17:13+00:00",
+      "title": "Lumentum Stock: I Bought It At $800; 2027 Could Change The Story",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T14:13:35+00:00",
+      "title": "GLW Stock Climbs On $3B AT&T Deal – 1TB Monthly Data Use Signals Bigger Fiber Needs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T13:16:50+00:00",
+      "title": "Corning stock rises on $3B AT&T fiber deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T12:40:04+00:00",
+      "title": "Is Corning (GLW) Stock Outpacing Its Computer and Technology Peers This Year?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

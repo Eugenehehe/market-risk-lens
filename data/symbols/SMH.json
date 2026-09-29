@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T14:03:47.052902+00:00",
+  "generated_at": "2026-09-29T19:21:32.830061+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 609.21,
-    "change_pct": 1.5333077782037074
+    "price": 607.56,
+    "change_pct": 1.258312361460634
   },
   "risk": {
     "score": 59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T22:23:20.727987+00:00",
-      "close": 560.28
-    },
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 560.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-29T14:03:47.052902+00:00",
       "close": 609.21
+    },
+    {
+      "timestamp": "2026-09-29T19:21:32.830061+00:00",
+      "close": 607.56
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-28T21:22:00+00:00",
       "title": "Why the Midterm Elections Matter for the Stock Market This Year",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-28T16:46:19+00:00",
+      "title": "$44B Rush Back into Equity Funds: Are Investors Betting on AI ETFs Again?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

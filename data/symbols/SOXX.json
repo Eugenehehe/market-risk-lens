@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T14:03:47.052902+00:00",
+  "generated_at": "2026-09-29T19:21:32.830061+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 570.89,
-    "change_pct": 1.8010306888496697
+    "price": 567.86,
+    "change_pct": 1.2607214821947599
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T22:23:20.727987+00:00",
-      "close": 517.43
-    },
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 517.43
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-29T14:03:47.052902+00:00",
       "close": 570.89
+    },
+    {
+      "timestamp": "2026-09-29T19:21:32.830061+00:00",
+      "close": 567.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T06:21:33+00:00",
+      "title": "Micron’s Big Earnings Test Is Here, Analyst Sees a Beat-And-Raise As AI Memory Stays Scarce",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T05:42:08+00:00",
+      "title": "Jim Cramer Says AMD’s ‘Incredible Run’ Isn’t Over",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T23:18:43+00:00",
       "title": "Burry Sees AI Bubble Bursting Sooner, Shifts to Put Options",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-28T14:33:20+00:00",
       "title": "Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback; Taiwan Semiconductor Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T13:58:00+00:00",
-      "title": "Bet on These ETFs as Intel Stock Jumps Nearly 40% in a Month",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T13:04:01+00:00",
-      "title": "NVIDIA Rises 2% as Board Authorizes Record $150B Buyback Increase; AMD and Broadcom Slip",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

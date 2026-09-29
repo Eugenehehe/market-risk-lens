@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T14:03:47.052902+00:00",
+  "generated_at": "2026-09-29T19:21:32.830061+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1812.25,
-    "change_pct": 2.305508041616555
+    "price": 1828.84,
+    "change_pct": 3.24205011826737
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T22:23:20.727987+00:00",
-      "close": 1687.43
-    },
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 1687.43
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-29T14:03:47.052902+00:00",
       "close": 1812.25
+    },
+    {
+      "timestamp": "2026-09-29T19:21:32.830061+00:00",
+      "close": 1828.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T15:07:44+00:00",
+      "title": "European Equities Traded in the US as American Depositary Receipts Lower in Tuesday Trading",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T14:02:00+00:00",
+      "title": "KLAC's Backlog Surges on AI Demand: Can It Outpace AMAT & ASML?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T09:40:58+00:00",
       "title": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-28T09:36:00+00:00",
-      "title": "Semiconductor Front End Equipment Market Size, Share, and Forecast, 2026-2035 | AI Demand and 2nm Fab Investments Drive 7.2% CAGR Toward USD 182 Billion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T06:26:42+00:00",
-      "title": "Lam Research: A Key AI Infrastructure Player With Growth Upside",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-27T16:00:21+00:00",
-      "title": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
-      "source": "Yahoo",
+      "timestamp": "2026-09-28T11:39:54+00:00",
+      "title": "Nvidia’s AI Boom Has a Hidden Dependency: One Dutch Company",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

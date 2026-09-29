@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T14:03:47.052902+00:00",
+  "generated_at": "2026-09-29T19:21:32.830061+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 133.87,
-    "change_pct": 0.9577677224736236
+    "price": 138.44,
+    "change_pct": 4.404223227752646
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T22:23:20.727987+00:00",
-      "close": 152.94
-    },
     {
       "timestamp": "2026-09-11T00:19:39.975604+00:00",
       "close": 152.94
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-09-29T14:03:47.052902+00:00",
       "close": 133.87
+    },
+    {
+      "timestamp": "2026-09-29T19:21:32.830061+00:00",
+      "close": 138.44
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-29T11:32:00+00:00",
-      "title": "Oracle adds Swift ledger support to banking suite for tokenised deposits",
+      "timestamp": "2026-09-29T18:05:02+00:00",
+      "title": "Most active S&P500 stocks in Tuesday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T17:30:00+00:00",
+      "title": "NetApp and Oracle to Launch Fully Managed Cloud Storage Service for Demanding AI and Enterprise Workloads",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T08:18:45+00:00",
-      "title": "SWIFT’s Oracle Blockchain Deal Has a Quant (QNT) Connection — But Where Does XRP Fit?",
+      "timestamp": "2026-09-29T16:43:30+00:00",
+      "title": "OpenAI Revenue Growth Report Boosts Oracle Stock; DevDay On Deck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T08:08:20+00:00",
-      "title": "Oracle's $18 Billion AI Project Just Hit a Major Hurdle",
+      "timestamp": "2026-09-29T16:37:02+00:00",
+      "title": "Oracle Stock Rises Although AI Revenue Faces an ROI Test",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T07:05:08+00:00",
-      "title": "A Major Market Rotation Could Be Coming Soon",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-09-29T16:35:01+00:00",
+      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T06:09:35+00:00",
-      "title": "Accenture (ACN) Lands Supply Chain And Oracle Cloud Transformation Wins",
+      "timestamp": "2026-09-29T15:59:00+00:00",
+      "title": "Application Integration Market Report 2026: Capitalize on the $60.73 Billion Market by 2030 as iPaaS, Multi-Cloud and Cybersecurity Disrupt Enterprise IT—Benchmark Microsoft, IBM, Oracle, SAP and Salesforce to Secure Share at 21.1% CAGR",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T05:43:11+00:00",
-      "title": "Oracle: Down 55% And I'm Buying",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T01:32:43+00:00",
-      "title": "BE Stock Slumps Most In Over A Month: This Analyst Says New Fremont Facility Is An Indicator Of Strong Demand",
+      "timestamp": "2026-09-29T15:58:00+00:00",
+      "title": "IT Operations Analytics Market Report 2026: Capitalize on the AI-led rebound from $23.43 billion in 2026 to $30.13 billion by 2030 as Microsoft, IBM, Cisco, Oracle and Splunk reshape automated incident management and hybrid-cloud performance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T00:06:36+00:00",
-      "title": "Why Bloom Energy (BE) Shares Are Sliding Today",
+      "timestamp": "2026-09-29T15:57:00+00:00",
+      "title": "Digital Transformation Market Report 2026: Capitalize on the $2.47 Trillion Revenue Surge to $5.01 Trillion by 2030 as Microsoft, Google, IBM, Accenture and Oracle Accelerate AI, Cloud and Automation Disruption",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
