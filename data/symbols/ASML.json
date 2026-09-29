@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28T21:52:18.988249+00:00",
+  "generated_at": "2026-09-29T01:22:25.835899+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1771.41,
     "change_pct": 1.5751688704886746
   },
   "risk": {
-    "score": 63,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T13:52:37.337950+00:00",
-      "close": 1684.36
-    },
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 1699.34
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-28T21:52:18.988249+00:00",
       "close": 1771.41
+    },
+    {
+      "timestamp": "2026-09-29T01:22:25.835899+00:00",
+      "close": 1771.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-28T20:50:05+00:00",
+      "title": "ASML (ASML) Increases Despite Market Slip: Here's What You Need to Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T12:35:54+00:00",
       "title": "Chip Equipment Stocks Rally as Quality Growers Lead the Snapback",
@@ -549,22 +557,6 @@
       "timestamp": "2026-09-27T05:00:00+00:00",
       "title": "What Will Micron's Gross Margin Guide Be?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T23:08:14+00:00",
-      "title": "ASML (ENXTAM:ASML) Stock Could Be Undervalued Following Fresh AI Demand News",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T16:20:01+00:00",
-      "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

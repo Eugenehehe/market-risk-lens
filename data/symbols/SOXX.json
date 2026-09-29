@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28T21:52:18.988249+00:00",
+  "generated_at": "2026-09-29T01:22:25.835899+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 560.79,
     "change_pct": -2.076203115177755
   },
   "risk": {
-    "score": 65,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T13:52:37.337950+00:00",
-      "close": 515.17
-    },
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 520.35
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-28T21:52:18.988249+00:00",
       "close": 560.79
+    },
+    {
+      "timestamp": "2026-09-29T01:22:25.835899+00:00",
+      "close": 560.79
     }
   ],
   "events": [
@@ -541,22 +541,6 @@
       "timestamp": "2026-09-28T05:38:27+00:00",
       "title": "Micron Heads Into Earnings With Memory Prices Still Climbing and Supply Nowhere Near Enough",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T12:00:00+00:00",
-      "title": "Michael Burry is all-in on these stocks that have ‘corrected tremendously’ — and doubles down on AI shorts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-26T10:50:47+00:00",
-      "title": "China Won't Move Chip Stocks Anymore",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

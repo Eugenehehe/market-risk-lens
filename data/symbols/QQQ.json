@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:52:18.988249+00:00",
+  "generated_at": "2026-09-29T01:22:25.835899+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 736.53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-10T13:52:37.337950+00:00",
-      "close": 708.27
-    },
     {
       "timestamp": "2026-09-10T17:25:28.929057+00:00",
       "close": 710.56
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-28T21:52:18.988249+00:00",
       "close": 736.53
+    },
+    {
+      "timestamp": "2026-09-29T01:22:25.835899+00:00",
+      "close": 736.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-28T17:52:35+00:00",
+      "title": "A Ben Franklin Market Analysis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-28T17:28:20+00:00",
       "title": "The Market Is Wrong About Big Tech",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-28T12:47:00+00:00",
       "title": "Equities Unfazed By Spike In Rates Volatility",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T12:20:00+00:00",
-      "title": "September Changed The Market Narrative, And Hopefully Taught Apple A Big Lesson",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
