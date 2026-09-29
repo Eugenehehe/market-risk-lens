@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T19:21:32.830061+00:00",
+  "generated_at": "2026-09-29T23:03:20.201484+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 764.52,
-    "change_pct": -0.14237013623124017
+    "price": 764.2,
+    "change_pct": -0.18416687347343474
   },
   "risk": {
     "score": 52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T00:19:39.975604+00:00",
-      "close": 757.83
-    },
     {
       "timestamp": "2026-09-11T04:52:25.905744+00:00",
       "close": 757.83
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-29T19:21:32.830061+00:00",
       "close": 764.52
+    },
+    {
+      "timestamp": "2026-09-29T23:03:20.201484+00:00",
+      "close": 764.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T20:02:41+00:00",
+      "title": "How a 71-Year-Old Collects $3,150 a Month From a Single Fund: JEPQ",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T19:10:25+00:00",
+      "title": "GameStop Just Gained 31% in a Month: Take Profits, or Buy More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T18:56:11+00:00",
+      "title": "Carnival Is Still Down 18% This Year: Did Today Just Mark the Bottom?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T17:54:42+00:00",
       "title": "SpaceX Rises 2% After Starship’s First Orbital Satellite Deployment; Rocket Lab Falls 3%, AST SpaceMobile Drops 3%",
@@ -522,48 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-09-29T17:24:04+00:00",
+      "title": "The VIX Is Lying To You: Look At Bond Volatility Instead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T17:21:32+00:00",
+      "title": "Housing Stocks: More Downside Likely As Interest Rates Soar",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-29T16:58:47+00:00",
       "title": "SK Hynix Climbs 3%, Outpaces U.S. Rivals Micron and Seagate as Traders Weigh Memory Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:55:10+00:00",
-      "title": "AMC Sinks 7%, Gives Back Part of Sharp Rally; Cinemark and IMAX Dip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:52:42+00:00",
-      "title": "ChargePoint Climbs 6%, Extends 65% Monthly Run; EVgo Inches Higher, Blink Charging Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:06:55+00:00",
-      "title": "Stellantis Falls 4% With Canadian Labor Standoff Unresolved; Ford and General Motors Dip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T15:56:40+00:00",
-      "title": "Nebius Climbs 4% Despite Michael Burry’s Bigger Bearish Bet; CoreWeave Ticks Up, Cloudflare Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T15:52:21+00:00",
-      "title": "Oracle Jumps 5% as Fusion Claw Launch Adds 25 Agentic Applications; Salesforce Holds Flat, ServiceNow Slips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

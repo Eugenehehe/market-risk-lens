@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T19:21:32.830061+00:00",
+  "generated_at": "2026-09-29T23:03:20.201484+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 541.01,
-    "change_pct": -0.4453195443755331
+    "price": 539.59,
+    "change_pct": -0.7066227481000165
   },
   "risk": {
-    "score": 54,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T00:19:39.975604+00:00",
-      "close": 506.62
-    },
     {
       "timestamp": "2026-09-11T04:52:25.905744+00:00",
       "close": 506.62
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-29T19:21:32.830061+00:00",
       "close": 541.01
+    },
+    {
+      "timestamp": "2026-09-29T23:03:20.201484+00:00",
+      "close": 539.59
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T21:41:56+00:00",
+      "title": "Is Arista Networks Stock As Expensive As It Looks?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T15:31:37+00:00",
       "title": "Michael Dell jumped past Zuckerberg and Brin to No. 4 richest: his fortune rose more than $11 billion in a day to $276.4 billion as Dell Technologies stock climbed 6% to $570.72 on a $95 billion AI server backlog",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-29T08:16:00+00:00",
       "title": "Client Computing Global Market Report 2026: Capitalize on AI, Hybrid and Edge Disruption as Revenue Climbs $41.73B to $277.88B by 2030—Benchmark Microsoft, Apple, Dell, Lenovo and HP to Secure Share Before Rivals",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T08:09:39+00:00",
-      "title": "The AI Bubble Question Is Wrong: Follow The Economics Across The Value Chain",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

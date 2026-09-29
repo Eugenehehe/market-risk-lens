@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T19:21:32.830061+00:00",
+  "generated_at": "2026-09-29T23:03:20.201484+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 355.82,
-    "change_pct": 1.7879108619160755
+    "price": 355.1,
+    "change_pct": 1.5819435306233531
   },
   "risk": {
-    "score": 65,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T00:19:39.975604+00:00",
-      "close": 360.83
-    },
     {
       "timestamp": "2026-09-11T04:52:25.905744+00:00",
       "close": 360.83
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-29T19:21:32.830061+00:00",
       "close": 355.82
+    },
+    {
+      "timestamp": "2026-09-29T23:03:20.201484+00:00",
+      "close": 355.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T19:01:52+00:00",
+      "title": "Marvell Is Up 210% in 2026: Take Profits, or Buy More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T18:46:41+00:00",
+      "title": "Broadcom Stock Jumps Nearly 3.2% as $16.7 Billion AI Engine Faces Margin Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T18:40:02+00:00",
+      "title": "Reflecting On Processors and Graphics Chips Stocks’ Q2 Earnings: Broadcom (NASDAQ:AVGO)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T16:57:31+00:00",
       "title": "Anthropic’s S-1 Is Here. The $518 Billion Commitment Is the Real Story.",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-29T14:02:14+00:00",
       "title": "What Changed For Intel Stock, And What Did Not?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T13:57:53+00:00",
-      "title": "Netlist Files New ITC Patent Action Against Micron Over HBM Technology for AI Computing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T13:50:34+00:00",
-      "title": "Anthropic IPO Filing Shows Fast Growth, Big Losses and 'Catastrophic Risk' Warning: Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T13:41:53+00:00",
-      "title": "Broadcom-Toppan JV opens “first” substrate plant in Singapore",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
