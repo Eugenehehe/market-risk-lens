@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T15:05:22.825445+00:00",
+  "generated_at": "2026-09-30T19:58:25.798328+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 118.62,
-    "change_pct": 2.320365737945318
+    "price": 120.39,
+    "change_pct": 3.8471491417234382
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T17:14:39.907358+00:00",
-      "close": 102.73
-    },
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 102.96
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 118.62
+    },
+    {
+      "timestamp": "2026-09-30T19:58:25.798328+00:00",
+      "close": 120.39
     }
   ],
   "events": [
     {
-      "timestamp": "2026-09-30T12:45:13+00:00",
-      "title": "1 S&P 500 Stock for Long-Term Investors and 2 Facing Headwinds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T11:15:56+00:00",
-      "title": "Jim Cramer’s Nvidia Take is Surprisngly Sound For Once",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T10:19:37+00:00",
-      "title": "Intel's Recovery Has Moved From Survival To Factory Economics",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T09:01:00+00:00",
-      "title": "Top 10 AI Stocks To Buy On The Seasonal Dip",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T07:48:55+00:00",
-      "title": "Chip Stocks Roar Back: AMD, Intel Power SOXX Toward Best Month Since June",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T07:15:28+00:00",
-      "title": "AI’s Semiconductor Boom Has a Clear Center of Gravity: Taiwan Semiconductor",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T19:30:00+00:00",
-      "title": "Finding What the Scan Already Captured: Nanox Advances Its AI Business on Two Fronts",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T18:05:02+00:00",
-      "title": "Most active S&P500 stocks in Tuesday's session",
+      "timestamp": "2026-09-30T18:05:00+00:00",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T17:00:41+00:00",
+      "title": "32 Analysts Say Hold on Intel. Here’s What the Numbers Actually Show",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T16:29:13+00:00",
+      "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T15:39:14+00:00",
+      "title": "Why Gabelli Waited Before Investing in Intel Corporation (INTC)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T14:17:33+00:00",
+      "title": "What Is The True Hidden Price Of Marvell Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T13:59:00+00:00",
+      "title": "Will CoWoS & Panel Packaging Demand Drive ASX's Next Growth Phase?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T13:47:17+00:00",
+      "title": "When AMD's CEO and the Chart Say the Same Thing, Pay Attention",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T13:38:00+00:00",
+      "title": "Amtech Gains 79% in the Past Year: Should It Be in Your Portfolio?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

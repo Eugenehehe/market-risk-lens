@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T15:05:22.825445+00:00",
+  "generated_at": "2026-09-30T19:58:25.798328+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 545.43,
-    "change_pct": 1.0823032302303526
+    "price": 539.27,
+    "change_pct": -0.059304286587968935
   },
   "risk": {
-    "score": 59,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T17:14:39.907358+00:00",
-      "close": 559.21
-    },
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 558.34
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 545.43
+    },
+    {
+      "timestamp": "2026-09-30T19:58:25.798328+00:00",
+      "close": 539.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T16:00:26+00:00",
+      "title": "Dell Is Quietly Riding One of the Biggest Tech Trends",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T14:41:33+00:00",
+      "title": "Hewlett Packard Enterprise Jumps 5% on AMD Order; Dell and Super Micro Barely Move",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T14:28:11+00:00",
+      "title": "Is Micron the next Dell? AI memory demand vs. valuation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T13:55:11+00:00",
+      "title": "How To Create Income From Arista Networks Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T12:36:00+00:00",
       "title": "Where Will Dell Technologies Be in 3 Years?",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-30T10:00:00+00:00",
       "title": "The $3T AI spend, grid bottlenecks, and the indexing trap",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T07:48:25+00:00",
-      "title": "HPE Receives $1.2B Order From Closely Held Cloud Infrastructure Provider Vultr To Deploy AMD Helios AI Racks At Its U.S. Cloud Data Centers",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T00:14:08+00:00",
-      "title": "What Does Dell Technologies (DELL) XPS Googlebook Launch Mean For Its AI Push?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T22:08:12+00:00",
-      "title": "What Could Surprise Cisco Stock Investors On The Upside?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T21:41:56+00:00",
-      "title": "Is Arista Networks Stock As Expensive As It Looks?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

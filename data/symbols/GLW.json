@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T15:05:22.825445+00:00",
+  "generated_at": "2026-09-30T19:58:25.798328+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 153.51,
-    "change_pct": -3.2764161048453255
+    "price": 154.08,
+    "change_pct": -2.9172704933526528
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T17:14:39.907358+00:00",
-      "close": 166.86
-    },
     {
       "timestamp": "2026-09-11T19:48:03.794464+00:00",
       "close": 166.02
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 153.51
+    },
+    {
+      "timestamp": "2026-09-30T19:58:25.798328+00:00",
+      "close": 154.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T16:35:02+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T15:51:28+00:00",
+      "title": "Corning vs. Honeywell International: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T14:35:01+00:00",
       "title": "Wednesday's session: gap up and gap down stock in the S&P500 index",
@@ -517,6 +533,14 @@
       "timestamp": "2026-09-30T14:23:21+00:00",
       "title": "Bernstein Initiates Coverage of Corning at Market Perform",
       "source": "Fintel",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T13:56:00+00:00",
+      "title": "JBL Q4 Earnings Beat Estimates on AI Infrastructure Strength",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-30T10:11:46+00:00",
       "title": "Does AT&T’s US$3 Billion Fiber Deal Reshape the Bull Case for Corning (GLW)?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T08:57:55+00:00",
-      "title": "Fair Isaac Loses a Quarter of Its Value as the 30-Year Yield Hits a 2002 High",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T06:43:50+00:00",
-      "title": "ASTS Stock Rises Overnight: Partner AT&T Questions SpaceX’s Plan To Disrupt Wireless Carriers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T22:17:53+00:00",
-      "title": "Why Corning Stock Topped the Market on Tuesday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
