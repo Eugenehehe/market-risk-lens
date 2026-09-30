@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T19:58:25.798328+00:00",
+  "generated_at": "2026-09-30T23:38:52.166804+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 154.08,
-    "change_pct": -2.9172704933526528
+    "price": 153.76,
+    "change_pct": -3.118896099804691
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T19:48:03.794464+00:00",
-      "close": 166.02
-    },
     {
       "timestamp": "2026-09-11T22:01:16.956025+00:00",
       "close": 166.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-30T19:58:25.798328+00:00",
       "close": 154.08
+    },
+    {
+      "timestamp": "2026-09-30T23:38:52.166804+00:00",
+      "close": 153.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T19:19:38+00:00",
+      "title": "Why Corning Stock Is Falling Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T16:35:02+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-30T11:30:40+00:00",
       "title": "Corning (NYSE:GLW): High Growth Momentum Meets a Breakout Setup",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T10:11:46+00:00",
-      "title": "Does AT&T’s US$3 Billion Fiber Deal Reshape the Bull Case for Corning (GLW)?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

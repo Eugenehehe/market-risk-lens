@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T19:58:25.798328+00:00",
+  "generated_at": "2026-09-30T23:38:52.166804+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 278.33,
-    "change_pct": -0.2437188631231879
+    "price": 277.89,
+    "change_pct": -0.4014193039675984
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T19:48:03.794464+00:00",
-      "close": 289.19
-    },
     {
       "timestamp": "2026-09-11T22:01:16.956025+00:00",
       "close": 288.89
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-30T19:58:25.798328+00:00",
       "close": 278.33
+    },
+    {
+      "timestamp": "2026-09-30T23:38:52.166804+00:00",
+      "close": 277.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T17:01:51+00:00",
+      "title": "Washington Refuses To Regulate AI",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T16:00:25+00:00",
+      "title": "The S&P 500 Masked September's Market Damage, But Here's Why I'm Bullish",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T14:36:48+00:00",
       "title": "3 Market Predictions For October",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-30T11:00:21+00:00",
       "title": "PCE: Don't Confuse A Revision With Disinflation",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T11:00:14+00:00",
-      "title": "Since 1815 The Dollar Has Changed Its Anchor Twice, This Chart Suggests That A Third Shift Is Underway",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T10:50:00+00:00",
-      "title": "Softer-Than-Feared U.S. Inflation Despite Robust Spending",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

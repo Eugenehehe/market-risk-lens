@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T19:58:25.798328+00:00",
+  "generated_at": "2026-09-30T23:38:52.166804+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1814.03,
-    "change_pct": -1.1099057452341188
+    "price": 1811.67,
+    "change_pct": -1.2385588669803105
   },
   "risk": {
-    "score": 59,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T19:48:03.794464+00:00",
-      "close": 1697.95
-    },
     {
       "timestamp": "2026-09-11T22:01:16.956025+00:00",
       "close": 1698.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-30T19:58:25.798328+00:00",
       "close": 1814.03
+    },
+    {
+      "timestamp": "2026-09-30T23:38:52.166804+00:00",
+      "close": 1811.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T18:17:00+00:00",
+      "title": "TSMC's next move could ripple far beyond Apple, Nvidia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T12:05:40+00:00",
       "title": "ASML, TSM Earnings Could Expose a New Risk for the AI Trade",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-29T15:07:44+00:00",
       "title": "European Equities Traded in the US as American Depositary Receipts Lower in Tuesday Trading",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T14:02:00+00:00",
-      "title": "KLAC's Backlog Surges on AI Demand: Can It Outpace AMAT & ASML?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
