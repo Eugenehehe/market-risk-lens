@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T08:24:01.020971+00:00",
+  "generated_at": "2026-09-30T15:05:22.825445+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 263.27,
-    "change_pct": 4.513695911075821
+    "price": 258.13,
+    "change_pct": -1.9523682911079865
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T13:38:50.162236+00:00",
-      "close": 231.13
-    },
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 238.24
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 263.27
+    },
+    {
+      "timestamp": "2026-09-30T15:05:22.825445+00:00",
+      "close": 258.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T13:37:00+00:00",
+      "title": "Better AI Chip Stock to Buy Today: Broadcom vs. Marvell",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T11:20:01+00:00",
+      "title": "ASML Holding N.V. vs. Marvell Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T08:49:04+00:00",
+      "title": "Marvell: Surprisingly Cheaper Than In August, But There's A Catch",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T07:51:11+00:00",
+      "title": "Marvell: The Market Is No Longer Trading On FY 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T03:09:02+00:00",
       "title": "Can GLOBALFOUNDRIES (GFS) Justify Its Price On Future Cash Flow?",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-09-29T21:52:00+00:00",
       "title": "Marvel Biosciences Announces Closing of Private Placement For Up To $3.0 Million",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T19:05:01+00:00",
-      "title": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T19:01:52+00:00",
-      "title": "Marvell Is Up 210% in 2026: Take Profits, or Buy More?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:35:01+00:00",
-      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T15:21:46+00:00",
-      "title": "What Was AMD Telling You Before Its Stock Ran?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

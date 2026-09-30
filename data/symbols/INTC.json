@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T08:24:01.020971+00:00",
+  "generated_at": "2026-09-30T15:05:22.825445+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 115.93,
-    "change_pct": -0.08618460742910727
+    "price": 118.62,
+    "change_pct": 2.320365737945318
   },
   "risk": {
-    "score": 51,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T13:38:50.162236+00:00",
-      "close": 102.17
-    },
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 102.73
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 115.93
+    },
+    {
+      "timestamp": "2026-09-30T15:05:22.825445+00:00",
+      "close": 118.62
     }
   ],
   "events": [
     {
+      "timestamp": "2026-09-30T12:45:13+00:00",
+      "title": "1 S&P 500 Stock for Long-Term Investors and 2 Facing Headwinds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T11:15:56+00:00",
+      "title": "Jim Cramer’s Nvidia Take is Surprisngly Sound For Once",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T10:19:37+00:00",
+      "title": "Intel's Recovery Has Moved From Survival To Factory Economics",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T09:01:00+00:00",
+      "title": "Top 10 AI Stocks To Buy On The Seasonal Dip",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-30T07:48:55+00:00",
       "title": "Chip Stocks Roar Back: AMD, Intel Power SOXX Toward Best Month Since June",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T07:15:28+00:00",
+      "title": "AI’s Semiconductor Boom Has a Clear Center of Gravity: Taiwan Semiconductor",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-09-29T18:05:02+00:00",
       "title": "Most active S&P500 stocks in Tuesday's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T18:04:00+00:00",
-      "title": "Silicon Valley's Leading CIOs, CISOs and Technology Executives to Gather October 6 for HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit; More Than 115 Technology Leaders Already Registered",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T18:00:00+00:00",
-      "title": "Most active stocks in Tuesday's session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:31:08+00:00",
-      "title": "Intel Stock Is Up 246% Over the Past Year. Here’s What This Week’s Pullback Signals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:30:13+00:00",
-      "title": "One Market Could Transform AMD’s Growth Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:12:10+00:00",
-      "title": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

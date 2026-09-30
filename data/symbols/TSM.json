@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T08:24:01.020971+00:00",
+  "generated_at": "2026-09-30T15:05:22.825445+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 456.94,
-    "change_pct": 0.8964847200141346
+    "price": 459.15,
+    "change_pct": 0.48365212062853047
   },
   "risk": {
-    "score": 58,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T13:38:50.162236+00:00",
-      "close": 430.77
-    },
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 432.82
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 456.94
+    },
+    {
+      "timestamp": "2026-09-30T15:05:22.825445+00:00",
+      "close": 459.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T12:05:40+00:00",
+      "title": "ASML, TSM Earnings Could Expose a New Risk for the AI Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T11:30:06+00:00",
+      "title": "US Wants to Break Taiwan Dependence — But Here's Why Taipei Will Remain 'Central' Character in the AI Chips Story",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T07:15:28+00:00",
+      "title": "AI’s Semiconductor Boom Has a Clear Center of Gravity: Taiwan Semiconductor",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T20:49:00+00:00",
       "title": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-29T17:09:34+00:00",
       "title": "How Does Taiwan Semiconductor Manufacturing (TSM) Fit Into The New AI Supply Chain?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T16:12:10+00:00",
-      "title": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T15:40:48+00:00",
-      "title": "TSMC: Market Is Mistaken In Pricing In A Big AI Slowdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T12:00:00+00:00",
-      "title": "Is it time to buy the dip on tech?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

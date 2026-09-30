@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T08:24:01.020971+00:00",
+  "generated_at": "2026-09-30T15:05:22.825445+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 606.9,
-    "change_pct": 1.1483141947634223
+    "price": 608.32,
+    "change_pct": 0.23397594331850957
   },
   "risk": {
-    "score": 60,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T13:38:50.162236+00:00",
-      "close": 565.96
-    },
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 571.12
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 606.9
+    },
+    {
+      "timestamp": "2026-09-30T15:05:22.825445+00:00",
+      "close": 608.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T10:19:44+00:00",
+      "title": "OpenAI's DevDay: Private Intelligence Could Unlock Enterprise Growth",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T06:32:54+00:00",
+      "title": "At 5% Yields, Big Tech Marches Onto the Death Ground",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T22:30:08+00:00",
       "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure — SPCX, TGT, AAPL, MU, NTAP In Focus",
@@ -517,6 +533,14 @@
       "timestamp": "2026-09-29T20:07:00+00:00",
       "title": "How the Midterms Could Break the AI Trade",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T13:01:02+00:00",
+      "title": "30-Year Yield Hits 2002 High; Credit-Score Giant FICO Plunges 27%: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-29T11:17:22+00:00",
       "title": "AI Jitters, Oil, Bond Outlooks Cap Wall Street Pre-Bell; Asia Off, Europe Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T23:07:58+00:00",
-      "title": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CBRS In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T21:22:00+00:00",
-      "title": "Why the Midterm Elections Matter for the Stock Market This Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T16:46:19+00:00",
-      "title": "$44B Rush Back into Equity Funds: Are Investors Betting on AI ETFs Again?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

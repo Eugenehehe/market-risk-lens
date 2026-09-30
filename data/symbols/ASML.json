@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T08:24:01.020971+00:00",
+  "generated_at": "2026-09-30T15:05:22.825445+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1834.39,
-    "change_pct": 3.555359854579132
+    "price": 1821.54,
+    "change_pct": -0.700505345101099
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T13:38:50.162236+00:00",
-      "close": 1714.31
-    },
     {
       "timestamp": "2026-09-11T17:14:39.907358+00:00",
       "close": 1713.39
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 1834.39
+    },
+    {
+      "timestamp": "2026-09-30T15:05:22.825445+00:00",
+      "close": 1821.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T12:05:40+00:00",
+      "title": "ASML, TSM Earnings Could Expose a New Risk for the AI Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T12:00:06+00:00",
+      "title": "Here is What to Know Beyond Why ASML Holding N.V. (ASML) is a Trending Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T11:20:01+00:00",
+      "title": "ASML Holding N.V. vs. Marvell Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T10:11:54+00:00",
+      "title": "Does ASML (ENXTAM:ASML) Share Buybacks Mask Rising Geopolitical Risk in Its AI EUV Monopoly?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T19:30:56+00:00",
       "title": "UBS names top European chip stocks to watch ahead of Q3 2026 earnings season",
@@ -533,38 +565,6 @@
       "timestamp": "2026-09-29T14:02:00+00:00",
       "title": "KLAC's Backlog Surges on AI Demand: Can It Outpace AMAT & ASML?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T09:40:58+00:00",
-      "title": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T07:37:42+00:00",
-      "title": "European equities edge up as yield spike and rising crude saps sentiment",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T20:50:05+00:00",
-      "title": "ASML (ASML) Increases Despite Market Slip: Here's What You Need to Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-28T12:35:54+00:00",
-      "title": "Chip Equipment Stocks Rally as Quality Growers Lead the Snapback",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
