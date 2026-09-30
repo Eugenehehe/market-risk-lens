@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T23:03:20.201484+00:00",
+  "generated_at": "2026-09-30T02:02:27.631274+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 738.79,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T04:52:25.905744+00:00",
-      "close": 644.38
-    },
     {
       "timestamp": "2026-09-11T09:17:21.183066+00:00",
       "close": 644.38
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-09-29T23:03:20.201484+00:00",
       "close": 738.79
+    },
+    {
+      "timestamp": "2026-09-30T02:02:27.631274+00:00",
+      "close": 738.79
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-29T22:11:22+00:00",
+      "title": "MongoDB Not in a Rush to Find CEO Successor, Ittycheria Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T22:02:08+00:00",
+      "title": "Meta & Anthropic CEOs: 'Whoever wins AI, wins'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-29T21:59:31+00:00",
+      "title": "Should You Buy The Dip In MongoDB Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T21:37:01+00:00",
       "title": "Innodata vs. Nebius Group N.V.: Which AI Stock Is a Better Buy in 2026?",
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-29T19:55:10+00:00",
-      "title": "AI agents are coming to your home and office",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T19:54:26+00:00",
-      "title": "Meta’s Muse Earned a “20% Bump on the Multiple.” Now Earnings Have to Catch Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T19:40:43+00:00",
-      "title": "What we know about Trump's meeting with Alex Karp, Jensen Huang, & other AI leaders",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T19:32:36+00:00",
-      "title": "Billionaire Investor: Meta’s Muse Puts Apple’s “30% Rev Share on Notice”",
-      "source": "Yahoo",
+      "timestamp": "2026-09-29T19:59:30+00:00",
+      "title": "Alphabet: The AI Winner Nobody Is Talking About",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
