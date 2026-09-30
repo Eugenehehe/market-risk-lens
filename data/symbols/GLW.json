@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:02:27.631274+00:00",
+  "generated_at": "2026-09-30T08:24:01.020971+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 158.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T09:17:21.183066+00:00",
-      "close": 163.12
-    },
     {
       "timestamp": "2026-09-11T13:38:50.162236+00:00",
       "close": 165.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-30T02:02:27.631274+00:00",
       "close": 158.71
+    },
+    {
+      "timestamp": "2026-09-30T08:24:01.020971+00:00",
+      "close": 158.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T06:43:50+00:00",
+      "title": "ASTS Stock Rises Overnight: Partner AT&T Questions SpaceX’s Plan To Disrupt Wireless Carriers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-29T22:17:53+00:00",
       "title": "Why Corning Stock Topped the Market on Tuesday",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-29T16:35:01+00:00",
       "title": "Discover which S&P500 stocks are making waves on Tuesday.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-29T15:55:00+00:00",
-      "title": "Corning wins more than $3B multi-year fiber supply deal with AT&T",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
