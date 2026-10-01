@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:38:52.166804+00:00",
+  "generated_at": "2026-10-01T02:26:25.802081+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 762.63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T22:01:16.956025+00:00",
-      "close": 764.29
-    },
     {
       "timestamp": "2026-09-12T00:10:36.849667+00:00",
       "close": 764.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-09-30T23:38:52.166804+00:00",
       "close": 762.63
+    },
+    {
+      "timestamp": "2026-10-01T02:26:25.802081+00:00",
+      "close": 762.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-09-30T23:06:29+00:00",
+      "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T21:35:03+00:00",
       "title": "Wall Street Now Sells 11 Weekly-Pay ETFs. Only Three Have Beaten the S&P. Here They Are",
@@ -517,6 +525,22 @@
       "timestamp": "2026-09-30T21:23:29+00:00",
       "title": "S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data — MGM, SPCX, AAPL, TSM In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T20:55:00+00:00",
+      "title": "Q2 GDP Third Estimate: Real GDP Revised Upward To 2.2%",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T20:00:00+00:00",
+      "title": "Core PCE Inflation At 3% In August, Unchanged From July",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-09-30T19:06:00+00:00",
       "title": "Most Interesting New ETFs of Q3",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T19:03:40+00:00",
-      "title": "Which Airline Stock Dominated in September: American, United, or Delta?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T18:53:28+00:00",
-      "title": "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T18:44:58+00:00",
-      "title": "EXCLUSIVE: Another Warsh Rate Hike Is Hard to Justify After Core PCE Undershoots, Says Truflation's Oliver Rust",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

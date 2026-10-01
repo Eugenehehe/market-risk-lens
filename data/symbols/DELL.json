@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:38:52.166804+00:00",
+  "generated_at": "2026-10-01T02:26:25.802081+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 537.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-11T22:01:16.956025+00:00",
-      "close": 567.29
-    },
     {
       "timestamp": "2026-09-12T00:10:36.849667+00:00",
       "close": 567.29
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-09-30T23:38:52.166804+00:00",
       "close": 537.95
+    },
+    {
+      "timestamp": "2026-10-01T02:26:25.802081+00:00",
+      "close": 537.95
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-09-30T17:01:51+00:00",
       "title": "Washington Refuses To Regulate AI",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T16:04:08+00:00",
+      "title": "QMCO Stock Alert: What to Know as Quantum Nabs Former Dell Executive for COO Role",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-09-30T12:36:00+00:00",
       "title": "Where Will Dell Technologies Be in 3 Years?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T11:54:14+00:00",
-      "title": "What Are Dell Stock Investors Overlooking?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
