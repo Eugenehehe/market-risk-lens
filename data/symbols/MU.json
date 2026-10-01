@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-01T16:32:29.266872+00:00",
+  "generated_at": "2026-10-01T21:16:52.714621+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1047.79,
-    "change_pct": -1.626123123433254
+    "price": 1097.39,
+    "change_pct": 3.0306728882462997
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T08:48:58.797347+00:00",
-      "close": 975.26
-    },
     {
       "timestamp": "2026-09-12T12:25:10.570380+00:00",
       "close": 975.26
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 1047.79
+    },
+    {
+      "timestamp": "2026-10-01T21:16:52.714621+00:00",
+      "close": 1097.39
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-01T15:38:23+00:00",
-      "title": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending",
+      "timestamp": "2026-10-01T19:51:43+00:00",
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T15:30:29+00:00",
-      "title": "AI Needs Massive Storage. Seagate Is Ready",
+      "timestamp": "2026-10-01T19:14:45+00:00",
+      "title": "Stock Market Today: Nasdaq Gains As Micron Reverses Higher; This Retail Name Breaks Out (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T15:18:00+00:00",
-      "title": "Micron analysts stay bullish after another beat and raise as memory demand outlook extends into 2027",
+      "timestamp": "2026-10-01T18:05:03+00:00",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T16:59:34+00:00",
+      "title": "Micron CFO: No 'line of sight' for when memory shortage will end",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T15:02:55+00:00",
-      "title": "Stock Market Today: Dow Sinks As Yields Surge; Accenture Vaults On Earnings Beat (Live Coverage)",
+      "timestamp": "2026-10-01T16:41:42+00:00",
+      "title": "Stock Market Today: S&P 500 Breaks Key Level As Micron Falls; Lumentum Soars (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T14:53:07+00:00",
-      "title": "Micron Technology's Strategic Customer Agreements Provide 'Meaningful' Downside Protection, RBC Says",
+      "timestamp": "2026-10-01T16:32:43+00:00",
+      "title": "Micron Stock Slips Despite Record Q4, Analyst Price Hikes. Here’s Why MU Stock Is Still a Buy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T14:53:00+00:00",
-      "title": "Micron keeps surging as AI demand show no signs of slowing",
+      "timestamp": "2026-10-01T16:29:00+00:00",
+      "title": "Micron, Accenture, Google, IBM, Fair Isaac, Synopsys, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T14:47:10+00:00",
-      "title": "With record earnings in the rearview, Micron faces Taiwan strike prospects",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T14:46:36+00:00",
-      "title": "Mizuho Says Memory Upside Has More Room To Run — Sees Chip Equipment As The Next Opportunity",
+      "timestamp": "2026-10-01T16:26:39+00:00",
+      "title": "Micron's Next Big AI Opportunity Could Have 2 Legs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

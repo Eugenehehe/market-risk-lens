@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T16:32:29.266872+00:00",
+  "generated_at": "2026-10-01T21:16:52.714621+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 137.27,
-    "change_pct": -0.02184996358339797
+    "price": 138.07,
+    "change_pct": 0.5608157319737739
   },
   "risk": {
-    "score": 51,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T08:48:58.797347+00:00",
-      "close": 150.28
-    },
     {
       "timestamp": "2026-09-12T12:25:10.570380+00:00",
       "close": 150.28
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 137.27
+    },
+    {
+      "timestamp": "2026-10-01T21:16:52.714621+00:00",
+      "close": 138.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T17:32:44+00:00",
+      "title": "Is Adobe Stock A Real Bargain?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T17:30:25+00:00",
+      "title": "HPE Is the Quiet AI Winner Trading Near Its 52-Week High",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T16:30:35+00:00",
+      "title": "Oracle Has the Biggest Upside of Any Megacap Right Now: 54%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T16:08:25+00:00",
+      "title": "Making sense of Anthropic's massive AI spending plans",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T15:41:46+00:00",
+      "title": "Oracle Stock Is Falling: What's Going On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T15:27:24+00:00",
       "title": "How Has Microsoft's Story Changed In A Year?",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-10-01T14:10:55+00:00",
       "title": "3 Tech Stocks Trading At Least 25% Below Fair Value",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T14:09:09+00:00",
-      "title": "Oracle Lands Major Cloud Deal With Tencent: Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T13:44:52+00:00",
-      "title": "Tencent Signs Major Lease Deal With Oracle to Access 100,000 Advanced AI Chips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T13:05:14+00:00",
-      "title": "Oracle’s Negative Free Cash Flow Exposes the Uncomfortable Truth About AI’s Financing Game",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T11:10:16+00:00",
-      "title": "Tencent leases 100,000 AI chips from Oracle in $7 billion deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T11:00:00+00:00",
-      "title": "Everyone Is Wrong About The Anthropic IPO",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T16:32:29.266872+00:00",
+  "generated_at": "2026-10-01T21:16:52.714621+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 278.88,
-    "change_pct": 0.3562560725467012
+    "price": 279.02,
+    "change_pct": 0.40663571916945696
   },
   "risk": {
-    "score": 53,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T08:48:58.797347+00:00",
-      "close": 288.89
-    },
     {
       "timestamp": "2026-09-12T12:25:10.570380+00:00",
       "close": 288.89
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 278.88
+    },
+    {
+      "timestamp": "2026-10-01T21:16:52.714621+00:00",
+      "close": 279.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T14:15:19+00:00",
+      "title": "S&P 500 2026 September Dividends Reveal Most Promising Sectors (And It's Not Tech)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T12:30:00+00:00",
+      "title": "Macro Insights: 5% Yield, AI Spending Sanity, And The Bullish Counter-Thesis",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T11:05:00+00:00",
       "title": "Cooler Inflation, Hotter Growth, But Yields Still Rising",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-01T06:45:00+00:00",
       "title": "The U.S. Economy 'Is Running Hot,' Lots Of Consumer Spending Growth, Lots Of Inflation; The Bond Market Sees It Too",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T06:07:32+00:00",
-      "title": "My Current View Of The SP 500 Index: October 2026 Edition (Technical Analysis)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T05:00:00+00:00",
-      "title": "'Real Economy' Growth Highlights Data Centers And Manufacturing",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
