@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T09:18:16.646658+00:00",
+  "generated_at": "2026-10-01T16:32:29.266872+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 153.76,
-    "change_pct": -3.118896099804691
+    "price": 158.91,
+    "change_pct": 3.349375650364217
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T04:35:37.224428+00:00",
-      "close": 166.4
-    },
     {
       "timestamp": "2026-09-12T08:48:58.797347+00:00",
       "close": 166.4
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 153.76
+    },
+    {
+      "timestamp": "2026-10-01T16:32:29.266872+00:00",
+      "close": 158.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T14:56:11+00:00",
+      "title": "Coherent Jumps 10% on PhotonLink Push and Bernstein’s Outperform Start; Lumentum Rises 9%, Corning Advances 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T13:40:00+00:00",
+      "title": "Can Corning's AT&T Deal Boost Its Optical Communications Growth?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T03:59:00+00:00",
+      "title": "NYPA trustees approve $1.8 million in funding for Corning Inc.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T19:19:38+00:00",
       "title": "Why Corning Stock Is Falling Today",
@@ -541,30 +565,6 @@
       "timestamp": "2026-09-30T14:23:21+00:00",
       "title": "Bernstein Initiates Coverage of Corning at Market Perform",
       "source": "Fintel",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T13:56:00+00:00",
-      "title": "JBL Q4 Earnings Beat Estimates on AI Infrastructure Strength",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T13:40:37+00:00",
-      "title": "Target upgraded, Moderna downgraded: Wall Street's top analyst calls",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T11:30:40+00:00",
-      "title": "Corning (NYSE:GLW): High Growth Momentum Meets a Breakout Setup",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

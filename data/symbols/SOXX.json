@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T09:18:16.646658+00:00",
+  "generated_at": "2026-10-01T16:32:29.266872+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 568.64,
-    "change_pct": 0.2114761032003365
+    "price": 571.08,
+    "change_pct": 0.4290939786156578
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T04:35:37.224428+00:00",
-      "close": 527.07
-    },
     {
       "timestamp": "2026-09-12T08:48:58.797347+00:00",
       "close": 527.07
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 568.64
+    },
+    {
+      "timestamp": "2026-10-01T16:32:29.266872+00:00",
+      "close": 571.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T10:17:04+00:00",
+      "title": "Wall Street’s Favorite AI Trade Is Up 89% This Year: Its Best Season Starts Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T09:48:43+00:00",
+      "title": "Michael Burry Shifts To Long-Dated AI Bets As SOXX Suffers Its Worst Quarter Since 2025",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T06:13:02+00:00",
+      "title": "What's Going On With AMD Stock Thursday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T04:52:46+00:00",
       "title": "Don't Quit AI, Insure It: A 10-ETF Diversification Portfolio",
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-30T14:41:33+00:00",
-      "title": "Hewlett Packard Enterprise Jumps 5% on AMD Order; Dell and Super Micro Barely Move",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T14:36:53+00:00",
-      "title": "Software and Mag 7 Stocks Are Picking Up the Slack for Chips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T13:17:00+00:00",
-      "title": "How to Play the AI Trade With a Core-Satellite ETF Strategy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T13:16:48+00:00",
-      "title": "Michael Burry Swapped Shorts for Micron Puts Struck Near Half the Share Price",
-      "source": "Yahoo",
+      "timestamp": "2026-09-30T16:20:51+00:00",
+      "title": "Cooler-Than-Expected PCE, Hotter Software: IGV Outpaces Chip ETF SOXX",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

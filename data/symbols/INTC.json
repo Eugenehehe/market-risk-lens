@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-01T09:18:16.646658+00:00",
+  "generated_at": "2026-10-01T16:32:29.266872+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 120.23,
-    "change_pct": 3.7091348227378473
+    "price": 119.84,
+    "change_pct": -0.32437827497296956
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T04:35:37.224428+00:00",
-      "close": 102.94
-    },
     {
       "timestamp": "2026-09-12T08:48:58.797347+00:00",
       "close": 102.94
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 120.23
+    },
+    {
+      "timestamp": "2026-10-01T16:32:29.266872+00:00",
+      "close": 119.84
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-01T07:18:04+00:00",
-      "title": "Everpure Stock Is September’s Surprise S&P 500 Winner, Surging More Than 40% As Retail Piles In",
+      "timestamp": "2026-10-01T14:43:15+00:00",
+      "title": "Sozzi weighs in on Micron's blowout quarter, chats with Meta's former CTO, & more",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T01:54:47+00:00",
-      "title": "TSMC Vs. Intel: Goliath Is Defeating David",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T20:52:26+00:00",
-      "title": "What Changed In Marvell's Story?",
+      "timestamp": "2026-10-01T14:35:00+00:00",
+      "title": "3 Top AI Stocks for October",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-30T19:39:25+00:00",
-      "title": "AI spending will fuel wins for Micron, Nvidia, Intel, and other chip stocks: BofA analyst",
+      "timestamp": "2026-10-01T14:16:48+00:00",
+      "title": "Year-end AI semiconductor stocks investors should watch for",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-30T19:15:32+00:00",
-      "title": "Is Cerebras' Next Big Thing Already Here?",
+      "timestamp": "2026-10-01T12:52:00+00:00",
+      "title": "Not Intel. Not Nvidia. These 2 Chip Stocks Maintain an Unbreachable Moat in Advanced Chip Tech.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-30T18:51:54+00:00",
-      "title": "What Is The Case For Waiting On Qualcomm Stock?",
+      "timestamp": "2026-10-01T12:49:00+00:00",
+      "title": "Intel Surges 222% in a Year: Should Investors Join the Bandwagon?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-30T18:11:36+00:00",
-      "title": "AMD Stock Crosses $1 Trillion -- And The Market Still Underestimates The Dark Horse",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-10-01T11:54:00+00:00",
+      "title": "NVIDIA Soars 17% in Three Months: Should Investors Buy the Stock?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-09-30T18:05:00+00:00",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
+      "timestamp": "2026-10-01T11:46:14+00:00",
+      "title": "These 5 AI chip stocks are must-own into Q4, BofA says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T11:30:30+00:00",
+      "title": "Every S&P Sector Fell in September Except One",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
