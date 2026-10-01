@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:26:25.802081+00:00",
+  "generated_at": "2026-10-01T09:18:16.646658+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 512.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T00:10:36.849667+00:00",
-      "close": 495.63
-    },
     {
       "timestamp": "2026-09-12T04:35:37.224428+00:00",
       "close": 495.63
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-01T02:26:25.802081+00:00",
       "close": 512.9
+    },
+    {
+      "timestamp": "2026-10-01T09:18:16.646658+00:00",
+      "close": 512.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T03:14:59+00:00",
+      "title": "EQ Resources (ASX:EQR) Is Down 11.6% After Swinging Back To Full-Year Profitability – What's Changed",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T03:02:58+00:00",
+      "title": "Microsoft: Beware Of Meta's Muse Hype",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T01:23:01+00:00",
       "title": "Nokia (HLSE:NOKIA) Stock May Be Below Fair Value On AI Partnership Expansion",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-09-30T21:31:00+00:00",
       "title": "Patriot Consulting Launches Free ISOC Cost Evaluation and Agentic MXDR365 Operations for Microsoft's New Integrated Security Operations Center",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T20:46:00+00:00",
-      "title": "AI demand fuels Micron earnings beat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T20:33:00+00:00",
-      "title": "Palantir CEO Karp drops \"Warfighter\" hot take before super intelligence meeting at White House",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

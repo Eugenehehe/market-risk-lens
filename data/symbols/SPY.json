@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:26:25.802081+00:00",
+  "generated_at": "2026-10-01T09:18:16.646658+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 762.63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T00:10:36.849667+00:00",
-      "close": 764.29
-    },
     {
       "timestamp": "2026-09-12T04:35:37.224428+00:00",
       "close": 764.29
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-10-01T02:26:25.802081+00:00",
       "close": 762.63
+    },
+    {
+      "timestamp": "2026-10-01T09:18:16.646658+00:00",
+      "close": 762.63
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-01T05:39:57+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T03:25:00+00:00",
+      "title": "Monetary Policy Through The Lens Of Financial Conditions",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T02:35:00+00:00",
+      "title": "Not Even The Massive Changes Of Methodology Can Get PCE Inflation Back Into The Bottle",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-09-30T23:06:29+00:00",
       "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T23:00:00+00:00",
+      "title": "New Price Inflation Data Shows The Fed Has Missed Its Target For 66 Months In A Row",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-09-30T22:24:50+00:00",
+      "title": "Lower-Than-Expected PCE Data Failed To Help Markets",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-09-30T21:23:29+00:00",
       "title": "S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data — MGM, SPCX, AAPL, TSM In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T20:55:00+00:00",
-      "title": "Q2 GDP Third Estimate: Real GDP Revised Upward To 2.2%",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T20:00:00+00:00",
-      "title": "Core PCE Inflation At 3% In August, Unchanged From July",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T19:35:31+00:00",
-      "title": "Big Pharma Got Its Tariff Exemption. The Biotech ETF Barely Blinked",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T19:16:13+00:00",
-      "title": "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T19:06:00+00:00",
-      "title": "Most Interesting New ETFs of Q3",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

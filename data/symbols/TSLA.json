@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:26:25.802081+00:00",
+  "generated_at": "2026-10-01T09:18:16.646658+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 354.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T00:10:36.849667+00:00",
-      "close": 365.44
-    },
     {
       "timestamp": "2026-09-12T04:35:37.224428+00:00",
       "close": 365.44
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-01T02:26:25.802081+00:00",
       "close": 354.81
+    },
+    {
+      "timestamp": "2026-10-01T09:18:16.646658+00:00",
+      "close": 354.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T04:39:46+00:00",
+      "title": "TSLA, SPCX Rise After Cathie Wood Says Musk Is ‘Working All Angles’ With Trump, Xi Amid China Merger Hurdles",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-09-30T22:29:13+00:00",
       "title": "Why ChargePoint (CHPT) Stock Is Up Today",
@@ -557,14 +565,6 @@
       "timestamp": "2026-09-30T18:05:00+00:00",
       "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T17:30:19+00:00",
-      "title": "Musk vs Altman sparring continues, now their AI agents are joining the fight",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
