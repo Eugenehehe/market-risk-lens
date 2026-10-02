@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:53:40.522958+00:00",
+  "generated_at": "2026-10-02T06:38:30.947319+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 763.99,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T15:44:06.042527+00:00",
-      "close": 764.29
-    },
     {
       "timestamp": "2026-09-12T17:51:52.347074+00:00",
       "close": 764.29
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-10-02T00:53:40.522958+00:00",
       "close": 763.99
+    },
+    {
+      "timestamp": "2026-10-02T06:38:30.947319+00:00",
+      "close": 763.99
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-02T05:47:25+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T00:33:42+00:00",
+      "title": "The Hidden Cost of Owning Every Stock: $167,050 of a $500,000 VTI Position Sits in Its Top Ten Names",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-01T23:27:59+00:00",
       "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T21:15:00+00:00",
+      "title": "10-Year Treasury Note Greatly Oversold On Eve Of September Nonfarm Payroll Report",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-01T17:21:41+00:00",
       "title": "XV: Fears Of A Black Swan Event May Result In Underperformance Despite Durable Structure",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T17:15:38+00:00",
-      "title": "Unprofitable Superintelligence",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T17:09:45+00:00",
-      "title": "AMC Sinks 9% as Cinema Stocks Sell Off Together; IMAX Drops 4%, Cinemark Slides 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T16:54:59+00:00",
-      "title": "Unity Software Rallies 5% as Meta VR Support Extends Into a Second Session; Roblox Inches Higher, Take-Two Slides 3%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

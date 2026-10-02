@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T00:53:40.522958+00:00",
+  "generated_at": "2026-10-02T06:38:30.947319+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 617.81,
     "change_pct": 1.4466338259441658
   },
   "risk": {
-    "score": 56,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T15:44:06.042527+00:00",
-      "close": 568.53
-    },
     {
       "timestamp": "2026-09-12T17:51:52.347074+00:00",
       "close": 568.53
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-02T00:53:40.522958+00:00",
       "close": 617.81
+    },
+    {
+      "timestamp": "2026-10-02T06:38:30.947319+00:00",
+      "close": 617.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T00:46:01+00:00",
+      "title": "The Semiconductor ETF's 2026 Return Is About 3 Times Nvidia's",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T11:30:30+00:00",
+      "title": "Every S&P Sector Fell in September Except One",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-01T11:18:41+00:00",
+      "title": "Micron Technology Results Lift Wall Street Pre-Bell, Asia Up, Europe Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T04:52:46+00:00",
       "title": "Don't Quit AI, Insure It: A 10-ETF Diversification Portfolio",
