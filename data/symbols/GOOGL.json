@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T18:25:52.913538+00:00",
+  "generated_at": "2026-10-02T22:27:20.516550+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 343.24,
-    "change_pct": 1.4782403027436164
+    "price": 343.5,
+    "change_pct": 1.5551087984862821
   },
   "risk": {
-    "score": 62,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T21:55:36.198455+00:00",
-      "close": 338.5
-    },
     {
       "timestamp": "2026-09-12T23:49:45.890798+00:00",
       "close": 338.5
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-02T18:25:52.913538+00:00",
       "close": 343.24
+    },
+    {
+      "timestamp": "2026-10-02T22:27:20.516550+00:00",
+      "close": 343.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T20:18:01+00:00",
+      "title": "Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T20:02:38+00:00",
+      "title": "SPCX Stock Climbs As Three Thursday Launches Meet Start Of Google’s $920 Million AI Pact",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T19:10:16+00:00",
+      "title": "Friday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T19:05:31+00:00",
+      "title": "I Sold NVIDIA, Google and Microsoft Over a $2 Trillion AI Gap. Was I Wrong?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T18:38:00+00:00",
+      "title": "Nvidia Defies Critics—as Its Stock Nears First Record Since May",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T17:47:55+00:00",
       "title": "Google raises Pixel 10a price by $100 amid memory cost surge",
@@ -522,48 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-02T16:43:13+00:00",
-      "title": "Alphabet Unveils Gemini 4 Argon After Delays, and Bets on Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T16:40:14+00:00",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:30:09+00:00",
-      "title": "Prediction: Broadcom Stock Could Be Much Higher by 2027",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:24:36+00:00",
-      "title": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:22:22+00:00",
-      "title": "Zuckerberg “Giving Away 100 Million Tokens a Week” as OpenAI and Anthropic Are Forced to Ration",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:20:00+00:00",
-      "title": "Alphabet Stock Is Down 15% From Its All-Time High. Now Is the Perfect Time to Buy",
+      "timestamp": "2026-10-02T17:02:00+00:00",
+      "title": "SpaceX (SPCX): Fresh Catalysts Ahead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

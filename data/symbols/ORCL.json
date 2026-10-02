@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T18:25:52.913538+00:00",
+  "generated_at": "2026-10-02T22:27:20.516550+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 141.69,
-    "change_pct": 2.621858477583827
+    "price": 142.3,
+    "change_pct": 3.063663359165658
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T21:55:36.198455+00:00",
-      "close": 150.28
-    },
     {
       "timestamp": "2026-09-12T23:49:45.890798+00:00",
       "close": 150.28
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-02T18:25:52.913538+00:00",
       "close": 141.69
+    },
+    {
+      "timestamp": "2026-10-02T22:27:20.516550+00:00",
+      "close": 142.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T19:47:00+00:00",
+      "title": "Nvidia puts $500 billion on the table, challenges banking as we know it",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T19:05:50+00:00",
+      "title": "Quantinuum (QNT) Secured A $100 Million CHIPS Award",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T18:05:00+00:00",
+      "title": "What can go wrong with AI's circular financing",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T17:54:25+00:00",
+      "title": "How Sustainable Is Oracle’s Cash Flow Without Customer Prepayments?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T17:48:21+00:00",
       "title": "Sector Update: Tech Stocks Gain Friday Afternoon",
@@ -533,38 +565,6 @@
       "timestamp": "2026-10-02T14:25:01+00:00",
       "title": "Paramount to become Skydance after megamerger with Warner Bros. closes",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T13:30:17+00:00",
-      "title": "The Most Aggressive Price Target in AI Right Now Belongs to CoreWeave",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T13:00:00+00:00",
-      "title": "Oracle Announces Commitment to Absorb $300 Million in Rising Point Beach Energy Costs for Wisconsin Residents",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T11:21:41+00:00",
-      "title": "Investors Should Heed The Return Of The Bond Vigilantes",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T11:01:32+00:00",
-      "title": "8 Of 11 Sectors Rise Friday As Growth Leads",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
