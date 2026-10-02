@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T13:11:50.817140+00:00",
+  "generated_at": "2026-10-02T18:25:52.913538+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 64.58,
-    "change_pct": 1.0799812177179513
+    "price": 69.82,
+    "change_pct": 8.113967172499216
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T19:54:13.727163+00:00",
-      "close": 62.09
-    },
     {
       "timestamp": "2026-09-12T21:55:36.198455+00:00",
       "close": 62.09
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-02T13:11:50.817140+00:00",
       "close": 64.58
+    },
+    {
+      "timestamp": "2026-10-02T18:25:52.913538+00:00",
+      "close": 69.82
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-02T00:01:58+00:00",
-      "title": "Why Did SanDisk Stock Jump?",
+      "timestamp": "2026-10-02T17:55:18+00:00",
+      "title": "Top Midday Gainers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T20:10:32+00:00",
-      "title": "Hewlett Packard Enterprise (HPE) Stock Gets Fair Value Bump As Analysts Split On AI Momentum",
+      "timestamp": "2026-10-02T16:59:07+00:00",
+      "title": "Dell Climbs 4% on AI Server Backlog; Hewlett Packard Enterprise Jumps 8%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T19:41:16+00:00",
-      "title": "What Is The Case For Waiting On Hewlett Packard Enterprise Stock?",
+      "timestamp": "2026-10-02T16:35:01+00:00",
+      "title": "Friday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T16:34:00+00:00",
+      "title": "Nvidia, Tesla, Rivian, On Semi, Seagate, HPE, Nike, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T19:23:03+00:00",
-      "title": "Are There Signs Cisco Stock Is Going To Swing Big?",
+      "timestamp": "2026-10-02T15:44:00+00:00",
+      "title": "HPE Stock Heads for Record High After AI Infrastructure Boom Powers Big Guidance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T18:03:32+00:00",
-      "title": "A $1.2 Billion Reason to Buy HPE Stock",
+      "timestamp": "2026-10-02T15:41:31+00:00",
+      "title": "Stock Market Today: Nasdaq Powers Up On U.S. Jobs Shortfall; Tesla Jumps, NetApp Extends Gains (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T17:30:25+00:00",
-      "title": "HPE Is the Quiet AI Winner Trading Near Its 52-Week High",
+      "timestamp": "2026-10-02T15:40:31+00:00",
+      "title": "Arrow Electronics, IBD Stock Of The Day, Breaks Out Amid Triple-Digit Earnings Growth",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-01T14:45:00+00:00",
-      "title": "HPE Networking Outlook Gets Boost as Barclays, Citi and Wells Fargo Raise Price Targets",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T14:30:00+00:00",
-      "title": "Software-Defined Networking Market Surges to $82.59 billion at a CAGR 18.2% by 2030 | Report by MarketsandMarkets™",
+      "timestamp": "2026-10-02T14:30:03+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Up 18.6% Since Last Earnings Report: Can It Continue?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

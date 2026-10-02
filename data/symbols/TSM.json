@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T13:11:50.817140+00:00",
+  "generated_at": "2026-10-02T18:25:52.913538+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 459.2,
-    "change_pct": 0.6598127972993639
+    "price": 470.95,
+    "change_pct": 2.558797909407673
   },
   "risk": {
-    "score": 56,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T19:54:13.727163+00:00",
-      "close": 433.24
-    },
     {
       "timestamp": "2026-09-12T21:55:36.198455+00:00",
       "close": 433.24
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-10-02T13:11:50.817140+00:00",
       "close": 459.2
+    },
+    {
+      "timestamp": "2026-10-02T18:25:52.913538+00:00",
+      "close": 470.95
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-02T10:36:07+00:00",
+      "title": "TSMC: Resolving The Valuation Conundrum",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-02T09:10:50+00:00",
       "title": "Taiwan Semiconductor (NYSE:TSM) Shows High Growth and Improving Fundamentals",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T08:00:14+00:00",
+      "title": "Billionaire Investor Dan Loeb’s Third Point Exited 5 Chip Stocks Last Quarter — Here’s How They’re Performing Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-01T18:05:28+00:00",
       "title": "Applied Materials vs. ASML: Which Technology Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T17:17:00+00:00",
-      "title": "Chip stocks set for $229 billion payday before Nvidia ships a GPU",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T13:53:54+00:00",
-      "title": "TSMC mulls multibillion-dollar chip manufacturing campus in Texas",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

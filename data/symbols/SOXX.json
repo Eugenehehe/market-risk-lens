@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T13:11:50.817140+00:00",
+  "generated_at": "2026-10-02T18:25:52.913538+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 576.33,
-    "change_pct": 1.3523494653911117
+    "price": 588.16,
+    "change_pct": 2.0526434508007396
   },
   "risk": {
-    "score": 61,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T19:54:13.727163+00:00",
-      "close": 527.07
-    },
     {
       "timestamp": "2026-09-12T21:55:36.198455+00:00",
       "close": 527.07
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-02T13:11:50.817140+00:00",
       "close": 576.33
+    },
+    {
+      "timestamp": "2026-10-02T18:25:52.913538+00:00",
+      "close": 588.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T12:56:12+00:00",
+      "title": "AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T12:40:00+00:00",
+      "title": "Equity Outlook: AI, Higher Rates Raise The Bar For Diversification",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T00:15:00+00:00",
       "title": "Will Micron Set Off An October Volatility Spike?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-01T07:31:40+00:00",
       "title": "SOXX Posts Worst Quarter In Over A Year — Michael Burry Cites An 1880 Story To Flag AI’s ‘Power-Hungry’ Chip Race",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T06:13:02+00:00",
-      "title": "What's Going On With AMD Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T04:52:46+00:00",
-      "title": "Don't Quit AI, Insure It: A 10-ETF Diversification Portfolio",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T13:11:50.817140+00:00",
+  "generated_at": "2026-10-02T18:25:52.913538+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 541.74,
-    "change_pct": 0.7045264429779596
+    "price": 565.47,
+    "change_pct": 4.380330047624326
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T19:54:13.727163+00:00",
-      "close": 567.29
-    },
     {
       "timestamp": "2026-09-12T21:55:36.198455+00:00",
       "close": 567.29
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-02T13:11:50.817140+00:00",
       "close": 541.74
+    },
+    {
+      "timestamp": "2026-10-02T18:25:52.913538+00:00",
+      "close": 565.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T16:59:07+00:00",
+      "title": "Dell Climbs 4% on AI Server Backlog; Hewlett Packard Enterprise Jumps 8%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T15:43:55+00:00",
+      "title": "Jim Cramer: “NVIDIA Literally Can’t Make Their Own Chips Fast Enough.” Here’s My 45% Upside Scenario:",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T15:16:18+00:00",
+      "title": "How Much Upside Is Left In Apple Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T13:18:37+00:00",
+      "title": "Should You Trim Or Add To Your Dell Position Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T13:10:25+00:00",
+      "title": "Is Dell Technologies (DELL) Still Undervalued Following Strong AI Orders And Raised Guidance?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T13:05:44+00:00",
+      "title": "Guidance Raise And Momentum - Dell Stock Has Both",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T00:48:42+00:00",
       "title": "How much DELL stock does founder & CEO Michael Dell actually own?",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-10-01T19:41:16+00:00",
       "title": "What Is The Case For Waiting On Hewlett Packard Enterprise Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T19:23:03+00:00",
-      "title": "Are There Signs Cisco Stock Is Going To Swing Big?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T17:30:25+00:00",
-      "title": "HPE Is the Quiet AI Winner Trading Near Its 52-Week High",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T14:30:03+00:00",
-      "title": "Why Is Dell Technologies (DELL) Up 9.3% Since Last Earnings Report?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T14:19:26+00:00",
-      "title": "Dell Joins $15 Billion Japan AI Data Center Project as AI Infrastructure Spending Keeps Surging",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T14:07:00+00:00",
-      "title": "Penguin Solutions' AI Backlog Grows: Is Future Sales Taking Shape?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T12:25:00+00:00",
-      "title": "Top Big Data Stocks to Tap the Growing AI Analytics Opportunity",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

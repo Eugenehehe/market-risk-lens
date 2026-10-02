@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T13:11:50.817140+00:00",
+  "generated_at": "2026-10-02T18:25:52.913538+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 160.42,
-    "change_pct": 4.331425598335059
+    "price": 163.65,
+    "change_pct": 2.013464655279895
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T19:54:13.727163+00:00",
-      "close": 166.4
-    },
     {
       "timestamp": "2026-09-12T21:55:36.198455+00:00",
       "close": 166.4
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-02T13:11:50.817140+00:00",
       "close": 160.42
+    },
+    {
+      "timestamp": "2026-10-02T18:25:52.913538+00:00",
+      "close": 163.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T16:47:20+00:00",
+      "title": "First Solar Sues Corning Subsidiary, Chinese Rival Over Patent Infringement",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T14:04:16+00:00",
+      "title": "Your Coherent Stock Thesis Has One Loose End",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T13:24:12+00:00",
+      "title": "What Needs To Be True To Buy Coherent Stock Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T12:20:00+00:00",
+      "title": "AI Agents Are Changing The Hardware Mix; Networking Wins",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T05:07:07+00:00",
+      "title": "Jim Cramer Says Investors Who Bet AI Would Destroy Software Stocks ‘Blew Up’ — Salesforce, Veeva and Palantir Led Q3 Comeback: Stocks to Watch Ahead",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T14:56:11+00:00",
       "title": "Coherent Jumps 10% on PhotonLink Push and Bernstein’s Outperform Start; Lumentum Rises 9%, Corning Advances 3%",
@@ -514,57 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-01T14:52:17+00:00",
+      "title": "Wall Street's Most Accurate Analysts Spotlight On 3 Tech And Telecom Stocks Delivering High-Dividend Yields",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-01T13:40:00+00:00",
       "title": "Can Corning's AT&T Deal Boost Its Optical Communications Growth?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T03:59:00+00:00",
-      "title": "NYPA trustees approve $1.8 million in funding for Corning Inc.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T19:19:38+00:00",
-      "title": "Why Corning Stock Is Falling Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T16:35:02+00:00",
-      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T15:51:28+00:00",
-      "title": "Corning vs. Honeywell International: Which Technology Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T14:35:01+00:00",
-      "title": "Wednesday's session: gap up and gap down stock in the S&P500 index",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-09-30T14:23:21+00:00",
-      "title": "Bernstein Initiates Coverage of Corning at Market Perform",
-      "source": "Fintel",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
