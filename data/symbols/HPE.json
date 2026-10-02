@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:16:52.714621+00:00",
+  "generated_at": "2026-10-02T00:53:40.522958+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 64.58,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T12:25:10.570380+00:00",
-      "close": 62.09
-    },
     {
       "timestamp": "2026-09-12T15:44:06.042527+00:00",
       "close": 62.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-01T21:16:52.714621+00:00",
       "close": 64.58
+    },
+    {
+      "timestamp": "2026-10-02T00:53:40.522958+00:00",
+      "close": 64.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-01T20:10:32+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Stock Gets Fair Value Bump As Analysts Split On AI Momentum",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-01T19:41:16+00:00",
       "title": "What Is The Case For Waiting On Hewlett Packard Enterprise Stock?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-01T12:32:17+00:00",
       "title": "HPE raises networking outlook, lands $1.2 billion Vultr AI order",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T11:53:17+00:00",
-      "title": "Dow Jones Futures Rise, S&P 500 Finds Key Support As Micron Earnings Crush Views; Oil Prices, Treasury Yields In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
