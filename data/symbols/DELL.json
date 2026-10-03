@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:13:56.584387+00:00",
+  "generated_at": "2026-10-03T22:10:20.090658+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 562.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T18:54:40.630108+00:00",
-      "close": 567.29
-    },
     {
       "timestamp": "2026-09-13T21:15:25.425247+00:00",
       "close": 567.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T19:13:56.584387+00:00",
       "close": 562.52
+    },
+    {
+      "timestamp": "2026-10-03T22:10:20.090658+00:00",
+      "close": 562.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T19:20:00+00:00",
+      "title": "Dell Raised Its Quarterly Dividend by 20% This Year After Only Initiating Its Dividend Program in 2023. Can Passive Income Investors Trust the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-03T12:07:32+00:00",
       "title": "Dell Technologies (DELL) Joined A $15 Billion AI Data Center Project In Japan",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-02T15:43:55+00:00",
       "title": "Jim Cramer: “NVIDIA Literally Can’t Make Their Own Chips Fast Enough.” Here’s My 45% Upside Scenario:",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:29:35+00:00",
-      "title": "Up to 25 million Trump Accounts could be funded by mid-October, IRS CEO Frank Bisignano says",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:13:56.584387+00:00",
+  "generated_at": "2026-10-03T22:10:20.090658+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 119.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T18:54:40.630108+00:00",
-      "close": 102.94
-    },
     {
       "timestamp": "2026-09-13T21:15:25.425247+00:00",
       "close": 102.94
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T19:13:56.584387+00:00",
       "close": 119.33
+    },
+    {
+      "timestamp": "2026-10-03T22:10:20.090658+00:00",
+      "close": 119.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T19:05:00+00:00",
+      "title": "Should You Buy Intel Stock as Its Foundry Turnaround Takes Shape?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-03T15:30:55+00:00",
       "title": "The AI Chip Revolution Wouldn’t Be Possible Without This Company",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-02T23:46:39+00:00",
       "title": "Nvidia-Backed Robotics Startup FieldAI Hits $10 Billion Valuation After $700 Million Raise, More Than Quadrupling Value in Just Over a Year: Report",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T18:05:01+00:00",
-      "title": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

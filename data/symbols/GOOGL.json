@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:13:56.584387+00:00",
+  "generated_at": "2026-10-03T22:10:20.090658+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 343.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T18:54:40.630108+00:00",
-      "close": 338.5
-    },
     {
       "timestamp": "2026-09-13T21:15:25.425247+00:00",
       "close": 338.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T19:13:56.584387+00:00",
       "close": 343.5
+    },
+    {
+      "timestamp": "2026-10-03T22:10:20.090658+00:00",
+      "close": 343.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T19:07:29+00:00",
+      "title": "Alphabet (GOOGL) Prevails In Two US Antitrust Lawsuits",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-03T17:35:00+00:00",
       "title": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-03T02:01:35+00:00",
       "title": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T01:00:01+00:00",
-      "title": "America’s data center fight is a preview of what's to come for the rest of the world",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

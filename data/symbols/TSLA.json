@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:13:56.584387+00:00",
+  "generated_at": "2026-10-03T22:10:20.090658+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 370.59,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T18:54:40.630108+00:00",
-      "close": 365.44
-    },
     {
       "timestamp": "2026-09-13T21:15:25.425247+00:00",
       "close": 365.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-03T19:13:56.584387+00:00",
       "close": 370.59
+    },
+    {
+      "timestamp": "2026-10-03T22:10:20.090658+00:00",
+      "close": 370.59
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-10-03T11:35:00+00:00",
       "title": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-03T07:30:13+00:00",
+      "title": "Robinhood’s new AI bots will trade stocks while you sleep",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-03T00:06:03+00:00",
       "title": "Why Tesla (TSLA) Stock Is Trading Up Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T21:31:28+00:00",
-      "title": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
