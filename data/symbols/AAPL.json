@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:20:24.665650+00:00",
+  "generated_at": "2026-10-03T06:40:04.779671+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 333.69,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T01:27:45.215484+00:00",
-      "close": 332.27
-    },
     {
       "timestamp": "2026-09-13T06:41:56.956765+00:00",
       "close": 332.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T01:20:24.665650+00:00",
       "close": 333.69
+    },
+    {
+      "timestamp": "2026-10-03T06:40:04.779671+00:00",
+      "close": 333.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T02:01:35+00:00",
+      "title": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T23:03:33+00:00",
       "title": "Apple Says Some AT&T iPhone 18 Pro Max Users Must Replace Phones After Service-Loss Bug",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-02T17:30:40+00:00",
       "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T16:59:00+00:00",
-      "title": "Our Favorite Mag 7 Stocks to Buy Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
