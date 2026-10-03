@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:40:04.779671+00:00",
+  "generated_at": "2026-10-03T12:02:51.737619+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 343.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T06:41:56.956765+00:00",
-      "close": 338.5
-    },
     {
       "timestamp": "2026-09-13T12:19:09.802970+00:00",
       "close": 338.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T06:40:04.779671+00:00",
       "close": 343.5
+    },
+    {
+      "timestamp": "2026-10-03T12:02:51.737619+00:00",
+      "close": 343.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T08:12:20+00:00",
+      "title": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-03T02:01:35+00:00",
       "title": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-02T19:10:16+00:00",
       "title": "Friday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T19:05:31+00:00",
-      "title": "I Sold NVIDIA, Google and Microsoft Over a $2 Trillion AI Gap. Was I Wrong?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

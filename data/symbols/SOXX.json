@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:40:04.779671+00:00",
+  "generated_at": "2026-10-03T12:02:51.737619+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 588.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T06:41:56.956765+00:00",
-      "close": 527.07
-    },
     {
       "timestamp": "2026-09-13T12:19:09.802970+00:00",
       "close": 527.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T06:40:04.779671+00:00",
       "close": 588.9
+    },
+    {
+      "timestamp": "2026-10-03T12:02:51.737619+00:00",
+      "close": 588.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T02:05:02+00:00",
+      "title": "Why the iShares Semiconductor ETF Gained 11% in September",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T22:28:59+00:00",
       "title": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets — NVDA, BA, SPCX, RIVN, APLD In Focus",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-02T12:40:00+00:00",
       "title": "Equity Outlook: AI, Higher Rates Raise The Bar For Diversification",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T11:08:42+00:00",
-      "title": "Jim Cramer says software stocks were the story of Q3 2026",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
