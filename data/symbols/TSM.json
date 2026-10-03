@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:02:51.737619+00:00",
+  "generated_at": "2026-10-03T16:11:13.076113+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 472.78,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T12:19:09.802970+00:00",
-      "close": 433.24
-    },
     {
       "timestamp": "2026-09-13T16:28:33.194953+00:00",
       "close": 433.24
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-03T12:02:51.737619+00:00",
       "close": 472.78
+    },
+    {
+      "timestamp": "2026-10-03T16:11:13.076113+00:00",
+      "close": 472.78
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-10-02T15:24:36+00:00",
       "title": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-02T14:06:31+00:00",
+      "title": "Taiwan Semiconductor Stock Rises on Broadcom's $60 Billion Chip Deal",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-02T08:00:14+00:00",
       "title": "Billionaire Investor Dan Loeb’s Third Point Exited 5 Chip Stocks Last Quarter — Here’s How They’re Performing Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T05:11:54+00:00",
-      "title": "Taiwan Semiconductor Manufacturing (TSM), Why Is Fresh Attention Building Now?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
