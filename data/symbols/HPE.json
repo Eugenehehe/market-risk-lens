@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:27:20.516550+00:00",
+  "generated_at": "2026-10-03T01:20:24.665650+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 69.33,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-12T23:49:45.890798+00:00",
-      "close": 62.09
-    },
     {
       "timestamp": "2026-09-13T01:27:45.215484+00:00",
       "close": 62.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-02T22:27:20.516550+00:00",
       "close": 69.33
+    },
+    {
+      "timestamp": "2026-10-03T01:20:24.665650+00:00",
+      "close": 69.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-02T23:34:03+00:00",
+      "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Up Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-02T21:09:20+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Lands First $1.2 Billion Helios AI Server Order",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-02T16:34:00+00:00",
       "title": "Nvidia, Tesla, Rivian, On Semi, Seagate, HPE, Nike, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:44:00+00:00",
-      "title": "HPE Stock Heads for Record High After AI Infrastructure Boom Powers Big Guidance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
