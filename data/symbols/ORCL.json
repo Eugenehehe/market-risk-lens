@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:05:56.843769+00:00",
+  "generated_at": "2026-10-04T23:03:00.518224+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 142.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-14T18:33:02.397017+00:00",
-      "close": 143.2
-    },
     {
       "timestamp": "2026-09-14T22:00:41.389106+00:00",
       "close": 144.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-04T20:05:56.843769+00:00",
       "close": 142.3
+    },
+    {
+      "timestamp": "2026-10-04T23:03:00.518224+00:00",
+      "close": 142.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-04T21:36:40+00:00",
+      "title": "Oracle’s Force Majeure Notice on Project Jupiter: Why Bloom Energy Continues To Rise?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-04T15:53:19+00:00",
       "title": "AI Is Burning Through More Money Than Any Technology Boom in History — Now Comes the Hard Part",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-03T08:12:20+00:00",
       "title": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T08:00:09+00:00",
-      "title": "Benzinga Bulls and Bears: Alphabet, Micron, Nike",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
