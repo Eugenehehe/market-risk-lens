@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T22:10:20.090658+00:00",
+  "generated_at": "2026-10-04T00:37:47.542494+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1867.31,
     "change_pct": 3.25243711604708
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T21:15:25.425247+00:00",
-      "close": 1698.3
-    },
     {
       "timestamp": "2026-09-13T23:12:49.838683+00:00",
       "close": 1698.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-03T22:10:20.090658+00:00",
       "close": 1867.31
+    },
+    {
+      "timestamp": "2026-10-04T00:37:47.542494+00:00",
+      "close": 1867.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-03T22:52:32+00:00",
+      "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-03T16:34:02+00:00",
       "title": "ASML vs. Taiwan Semiconductor Manufacturing Company: What Revenue Trends Tell Investors About These Companies Tied to Artificial Intelligence",
@@ -525,46 +533,6 @@
       "timestamp": "2026-10-02T13:06:24+00:00",
       "title": "Connection Announces Partnership With Microsoft, Qualcomm, And OEM Partners To Launch Copilot+ PCs, A New Generation Of Windows-Based Devices For AI Workloads",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T19:37:36+00:00",
-      "title": "ASML vs. SK Hynix: What Revenue Trends Reveal to Investors About These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T19:20:00+00:00",
-      "title": "ASML vs. Applied Digital: Which Is the Better Semiconductor Equipment Stock to Own for the Next 1 Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T18:57:35+00:00",
-      "title": "Arm vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T18:05:28+00:00",
-      "title": "Applied Materials vs. ASML: Which Technology Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-01T17:17:00+00:00",
-      "title": "Chip stocks set for $229 billion payday before Nvidia ships a GPU",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
