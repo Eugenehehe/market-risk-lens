@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:37:47.542494+00:00",
+  "generated_at": "2026-10-04T06:20:51.930153+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 251.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-13T23:12:49.838683+00:00",
-      "close": 256.78
-    },
     {
       "timestamp": "2026-09-14T01:09:39.004735+00:00",
       "close": 256.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-04T00:37:47.542494+00:00",
       "close": 251.52
+    },
+    {
+      "timestamp": "2026-10-04T06:20:51.930153+00:00",
+      "close": 251.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-04T02:35:34+00:00",
+      "title": "How Much Revenue Visibility Does Microsoft’s Backlog Really Provide?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-03T23:06:22+00:00",
       "title": "Nvidia (NVDA) Is At The Center Of An $8 Billion AI Financing Shift",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-03T11:00:13+00:00",
       "title": "\"Boy Room\" made about $15,000 on TikTok before Amazon partnership",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T08:30:20+00:00",
-      "title": "Micron, Nike, Meta and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
