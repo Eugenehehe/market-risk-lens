@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T17:07:46.268207+00:00",
+  "generated_at": "2026-10-05T23:09:03.685188+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 160.22,
-    "change_pct": -2.4179304464340134
+    "price": 159.37,
+    "change_pct": -2.935623363176798
   },
   "risk": {
-    "score": 62,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T10:08:19.483383+00:00",
-      "close": 143.6
-    },
     {
       "timestamp": "2026-09-15T14:59:09.745002+00:00",
       "close": 144.18
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-05T17:07:46.268207+00:00",
       "close": 160.22
+    },
+    {
+      "timestamp": "2026-10-05T23:09:03.685188+00:00",
+      "close": 159.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-05T19:05:01+00:00",
+      "title": "Uncover the latest developments among S&P500 stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T15:08:00+00:00",
+      "title": "Viavi Exhibits More Than Threefold Growth in a Year: Should You Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-05T11:24:00+00:00",
       "title": "Buy Q3 AI Data Center Laggards CAT, GLW, JBL for a Rebound in Q4",

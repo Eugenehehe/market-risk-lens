@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T17:07:46.268207+00:00",
+  "generated_at": "2026-10-05T23:09:03.685188+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 548.37,
-    "change_pct": -2.51546611676029
+    "price": 552.29,
+    "change_pct": -1.8186020052620377
   },
   "risk": {
-    "score": 71,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T10:08:19.483383+00:00",
-      "close": 534.28
-    },
     {
       "timestamp": "2026-09-15T14:59:09.745002+00:00",
       "close": 557.87
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-05T17:07:46.268207+00:00",
       "close": 548.37
+    },
+    {
+      "timestamp": "2026-10-05T23:09:03.685188+00:00",
+      "close": 552.29
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-05T16:01:45+00:00",
+      "title": "What Was Seagate Telling You Before Its Stock Ran?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T15:42:26+00:00",
+      "title": "What Could Arista Networks Stock Be Worth In Three Years?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-05T15:40:48+00:00",
       "title": "What Changed For Western Digital Stock, And What Did Not?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-03T19:20:00+00:00",
       "title": "Dell Raised Its Quarterly Dividend by 20% This Year After Only Initiating Its Dividend Program in 2023. Can Passive Income Investors Trust the Stock?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T12:07:32+00:00",
-      "title": "Dell Technologies (DELL) Joined A $15 Billion AI Data Center Project In Japan",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T04:23:42+00:00",
-      "title": "IRS Chief Frank Bisignano Says Trump Accounts Could Reach 70 Million Auto-Enrolled Children by October: Here’s How the Program Is Growing",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
