@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T08:08:27.587468+00:00",
+  "generated_at": "2026-10-05T17:07:46.268207+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 588.9,
-    "change_pct": 2.181042111290399
+    "price": 586.95,
+    "change_pct": -0.3311258278145601
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T05:13:20.611407+00:00",
-      "close": 497.4
-    },
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 497.4
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 588.9
+    },
+    {
+      "timestamp": "2026-10-05T17:07:46.268207+00:00",
+      "close": 586.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-05T12:30:00+00:00",
+      "title": "Treasuries' Three Tall Tails",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T09:46:23+00:00",
+      "title": "Intel’s Terafab Opportunity Gets Crowded: Musk Confirms Talks With Taiwan Semiconductor",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T04:14:39+00:00",
+      "title": "Semiconductors Winners And Losers At The Start Of Q4 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-04T08:00:00+00:00",
       "title": "The 60/40 Portfolio Looks Dead Again: Here's What To Do",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T08:08:27.587468+00:00",
+  "generated_at": "2026-10-05T17:07:46.268207+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 142.3,
-    "change_pct": 3.063663359165658
+    "price": 143.49,
+    "change_pct": 0.8362614195361884
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T05:13:20.611407+00:00",
-      "close": 144.79
-    },
     {
       "timestamp": "2026-09-15T10:08:19.483383+00:00",
       "close": 144.79
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 142.3
+    },
+    {
+      "timestamp": "2026-10-05T17:07:46.268207+00:00",
+      "close": 143.49
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-04T22:00:00+00:00",
-      "title": "Oracle Announces $10 Million Partnership with the Nashville Symphony",
+      "timestamp": "2026-10-05T15:39:00+00:00",
+      "title": "3 Nasdaq 100 Stocks with Open Questions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-04T21:36:40+00:00",
-      "title": "Oracle’s Force Majeure Notice on Project Jupiter: Why Bloom Energy Continues To Rise?",
+      "timestamp": "2026-10-05T15:27:58+00:00",
+      "title": "Oracle Stock Sits 54% Below Its Peak After a $300 Million Wisconsin Power Pledge. Here’s Where It Could Go by 2031",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-04T15:53:19+00:00",
-      "title": "AI Is Burning Through More Money Than Any Technology Boom in History — Now Comes the Hard Part",
+      "timestamp": "2026-10-05T14:20:31+00:00",
+      "title": "Do You Like Cash? Consider Salesforce Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-04T15:04:22+00:00",
-      "title": "AI Data Center Delays Raise New Questions For ORCL, BE And APLD, Says IO Fund — ‘Power, Not Demand, Is Becoming The Bottleneck’",
+      "timestamp": "2026-10-05T14:20:24+00:00",
+      "title": "How To Create Income From IBM Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-04T07:47:54+00:00",
-      "title": "Wall Street Week Ahead",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-04T05:26:39+00:00",
-      "title": "Oracle’s Nuclear Power Deal Signals That Energy Is the New Compute Bottleneck",
+      "timestamp": "2026-10-05T13:58:38+00:00",
+      "title": "Why the AI stock rally depends on cloud growth this earnings season: Goldman analyst",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-03T13:00:00+00:00",
-      "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
+      "timestamp": "2026-10-05T13:24:00+00:00",
+      "title": "Global Context-Aware Computing Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI and Edge Growth with Amazon, Apple, Alphabet, Microsoft, and Oracle",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-03T11:00:00+00:00",
-      "title": "MarketBeat Week in Review – 09/28 - 10/02",
+      "timestamp": "2026-10-05T11:33:00+00:00",
+      "title": "NetApp (NTAP) Moves 5.2% Higher: Will This Strength Last?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T11:15:55+00:00",
+      "title": "Oracle at $140: Buying Negative FCF Never Looked So Good",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
