@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T23:03:00.518224+00:00",
+  "generated_at": "2026-10-05T01:53:03.525670+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 102.17,
     "change_pct": -4.002630837169974
   },
   "risk": {
-    "score": 62,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-14T22:00:41.389106+00:00",
-      "close": 111.11
-    },
     {
       "timestamp": "2026-09-15T00:29:37.760424+00:00",
       "close": 111.11
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-10-04T23:03:00.518224+00:00",
       "close": 102.17
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-10-02T15:57:16+00:00",
-      "title": "StablecoinX shares are trading higher after the company launched its flagship infrastructure software platform, StablecoinX Harness.",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-10-05T01:53:03.525670+00:00",
+      "close": 102.17
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

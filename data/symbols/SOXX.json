@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T23:03:00.518224+00:00",
+  "generated_at": "2026-10-05T01:53:03.525670+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 588.9,
     "change_pct": 2.181042111290399
   },
   "risk": {
-    "score": 68,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-14T22:00:41.389106+00:00",
-      "close": 497.4
-    },
     {
       "timestamp": "2026-09-15T00:29:37.760424+00:00",
       "close": 497.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-04T23:03:00.518224+00:00",
       "close": 588.9
+    },
+    {
+      "timestamp": "2026-10-05T01:53:03.525670+00:00",
+      "close": 588.9
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-10-03T02:05:02+00:00",
       "title": "Why the iShares Semiconductor ETF Gained 11% in September",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T22:28:59+00:00",
-      "title": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets — NVDA, BA, SPCX, RIVN, APLD In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T18:15:05+00:00",
-      "title": "NVDA Is ‘Best In Breed’ Stock On Sale, Hightower Advisors' Stephanie Link Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T16:03:26+00:00",
-      "title": "Applied Optoelectronics Is Unstoppable: Up 8% Today and 231% This Year, Is AAOI Stock Too Hot to Handle Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:47:31+00:00",
-      "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T13:13:02+00:00",
-      "title": "On Semiconductor Climbs 8%, Synaptics Surges 14% as $5.7B Cash Bid Replaces $7B Stock Deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

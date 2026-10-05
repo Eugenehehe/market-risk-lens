@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T23:03:00.518224+00:00",
+  "generated_at": "2026-10-05T01:53:03.525670+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 164.19,
     "change_pct": 2.350081037277163
   },
   "risk": {
-    "score": 69,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-14T22:00:41.389106+00:00",
-      "close": 143.6
-    },
     {
       "timestamp": "2026-09-15T00:29:37.760424+00:00",
       "close": 143.6
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-04T23:03:00.518224+00:00",
       "close": 164.19
+    },
+    {
+      "timestamp": "2026-10-05T01:53:03.525670+00:00",
+      "close": 164.19
     }
   ],
   "events": [
@@ -509,62 +509,6 @@
       "timestamp": "2026-10-03T18:03:00+00:00",
       "title": "AT&T puts $3 billion behind expanding a key service for customers",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T16:47:20+00:00",
-      "title": "First Solar Sues Corning Subsidiary, Chinese Rival Over Patent Infringement",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T15:30:00+00:00",
-      "title": "Corning and AT&T's $3 Billion Fiber Deal Reveals Where AI Spending Goes Next",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T14:04:16+00:00",
-      "title": "Your Coherent Stock Thesis Has One Loose End",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T13:24:12+00:00",
-      "title": "What Needs To Be True To Buy Coherent Stock Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T12:20:00+00:00",
-      "title": "AI Agents Are Changing The Hardware Mix; Networking Wins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T10:42:10+00:00",
-      "title": "Truist Securities Maintains Buy on Corning, Raises Price Target to $182",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-02T05:07:07+00:00",
-      "title": "Jim Cramer Says Investors Who Bet AI Would Destroy Software Stocks ‘Blew Up’ — Salesforce, Veeva and Palantir Led Q3 Comeback: Stocks to Watch Ahead",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
