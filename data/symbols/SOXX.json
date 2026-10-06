@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T10:01:42.015993+00:00",
+  "generated_at": "2026-10-06T16:42:07.535925+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 589.51,
-    "change_pct": 0.10358295126506878
+    "price": 592.3,
+    "change_pct": 0.4732744143441048
   },
   "risk": {
-    "score": 51,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T21:53:25.608730+00:00",
-      "close": 498.85
-    },
     {
       "timestamp": "2026-09-15T23:55:20.652892+00:00",
       "close": 498.85
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 589.51
+    },
+    {
+      "timestamp": "2026-10-06T16:42:07.535925+00:00",
+      "close": 592.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-06T09:12:51+00:00",
+      "title": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-05T22:09:32+00:00",
       "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-05T04:14:39+00:00",
       "title": "Semiconductors Winners And Losers At The Start Of Q4 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-04T08:00:00+00:00",
-      "title": "The 60/40 Portfolio Looks Dead Again: Here's What To Do",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

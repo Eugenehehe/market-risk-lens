@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T10:01:42.015993+00:00",
+  "generated_at": "2026-10-06T16:42:07.535925+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 159.37,
-    "change_pct": -2.935623363176798
+    "price": 168.43,
+    "change_pct": 5.6848842316621795
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T21:53:25.608730+00:00",
-      "close": 143.57
-    },
     {
       "timestamp": "2026-09-15T23:55:20.652892+00:00",
       "close": 143.57
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 159.37
+    },
+    {
+      "timestamp": "2026-10-06T16:42:07.535925+00:00",
+      "close": 168.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-06T13:52:57+00:00",
+      "title": "Applied Optoelectronics Surges 6% as $600M Share Sale Program Closes; Lumentum Sits Out the Rally, Corning Edges Higher",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-05T22:36:26+00:00",
       "title": "Jim Cramer Backs Corning’s (GLW) Fiber Story After Its Major Stock Decline",
@@ -517,6 +525,14 @@
       "timestamp": "2026-10-05T19:05:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T16:21:55+00:00",
+      "title": "UBS Maintains Buy on Corning, Raises Price Target to $201",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
