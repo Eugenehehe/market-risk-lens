@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T02:57:42.260164+00:00",
+  "generated_at": "2026-10-06T10:01:42.015993+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 16.69,
     "change_pct": -1.6499705362404082
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 50,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T18:53:01.694837+00:00",
-      "close": 18.24
-    },
     {
       "timestamp": "2026-09-15T21:53:25.608730+00:00",
       "close": 18.23
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-06T02:57:42.260164+00:00",
       "close": 16.69
+    },
+    {
+      "timestamp": "2026-10-06T10:01:42.015993+00:00",
+      "close": 16.69
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-06T00:40:00+00:00",
+      "title": "Equity Markets Remain Resilient Amidst Continued Yield Surge",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

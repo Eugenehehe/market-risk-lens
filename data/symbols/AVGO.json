@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:57:42.260164+00:00",
+  "generated_at": "2026-10-06T10:01:42.015993+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 362.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T18:53:01.694837+00:00",
-      "close": 340.11
-    },
     {
       "timestamp": "2026-09-15T21:53:25.608730+00:00",
       "close": 339.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-06T02:57:42.260164+00:00",
       "close": 362.51
+    },
+    {
+      "timestamp": "2026-10-06T10:01:42.015993+00:00",
+      "close": 362.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-06T02:45:36+00:00",
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-05T21:47:05+00:00",
       "title": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-05T16:30:25+00:00",
       "title": "Broadcom Is Up More Than 25X in 10 Years. Can AI Drive the Next Chapter?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T16:30:00+00:00",
-      "title": "CDT Insider Sentiment September 2026 - A Quiet Market Drawdown And Two Opposing Thoughts",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
