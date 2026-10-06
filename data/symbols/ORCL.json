@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T16:42:07.535925+00:00",
+  "generated_at": "2026-10-06T21:15:47.486560+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 145.64,
-    "change_pct": 2.2178551375631628
+    "price": 144.77,
+    "change_pct": 1.6072431218416838
   },
   "risk": {
-    "score": 68,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T23:55:20.652892+00:00",
-      "close": 140.35
-    },
     {
       "timestamp": "2026-09-16T03:44:07.999144+00:00",
       "close": 140.35
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 145.64
+    },
+    {
+      "timestamp": "2026-10-06T21:15:47.486560+00:00",
+      "close": 144.77
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-06T17:57:29+00:00",
+      "title": "Nebius Rallies 9% on an Inference Deal While Its Earnings Multiple Sits Near 197x; CoreWeave Gains 4%, Oracle Advances 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T16:51:00+00:00",
+      "title": "Hybrid Information Technology (IT) Management Market Global Report 2026 | Capitalize on $114.84 Billion AIOps and Cloud Demand with Dell, Cisco, Oracle, ServiceNow and Datadog",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-06T15:19:47+00:00",
       "title": "NY Fed reportedly investigating major banks' private credit loans",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-06T13:00:00+00:00",
       "title": "Ember AI Launches Strategic Partner Program and New Oracle Health Integration",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T13:00:00+00:00",
-      "title": "New Global Survey Finds Majority of VMware Users Are Choosing Alternative Paths for Cost Control, Roadmap Flexibility and Better Support",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T12:37:32+00:00",
-      "title": "Latest News In Cloud AI - Applied Digital Expands Into Finland With AI Campus Development",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

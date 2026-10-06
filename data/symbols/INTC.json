@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T16:42:07.535925+00:00",
+  "generated_at": "2026-10-06T21:15:47.486560+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 113.3,
-    "change_pct": -2.4873052758412895
+    "price": 112.5,
+    "change_pct": -3.1758326878388865
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T23:55:20.652892+00:00",
-      "close": 97.14
-    },
     {
       "timestamp": "2026-09-16T03:44:07.999144+00:00",
       "close": 97.14
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 113.3
+    },
+    {
+      "timestamp": "2026-10-06T21:15:47.486560+00:00",
+      "close": 112.5
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-06T18:05:02+00:00",
+      "title": "Which S&P500 stocks are the most active on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T18:00:00+00:00",
+      "title": "TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T18:00:00+00:00",
+      "title": "Curious about the most active stocks on Tuesday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T17:46:00+00:00",
+      "title": "The World’s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T17:33:07+00:00",
+      "title": "What Should Qualcomm Stock Investors Be Watching Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T16:53:00+00:00",
+      "title": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T15:56:26+00:00",
+      "title": "AMD Spikes 4% as Citi Lifts Target to $800 and Stifel Goes to $700; NVIDIA Ticks Up, Intel Slips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-06T15:20:26+00:00",
       "title": "Citi raises AMD price target — and it's because of Meta Muse",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T15:02:50+00:00",
-      "title": "Does AMD Stock's Run Make Any Sense Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T14:51:00+00:00",
-      "title": "Sozzi talks SpaceX, takes a look at Nike, and chats with the Conference Board CEO",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T14:30:17+00:00",
-      "title": "BC-Most Active Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T14:18:43+00:00",
-      "title": "How Has Micron's Story Changed?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T14:11:54+00:00",
-      "title": "AMD Rallies On Bullish Takes For AI Hardware Sales",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T13:00:00+00:00",
-      "title": "Global ECM tops USD 1 trillion as AI-fueled megadeals reshape issuance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T13:00:00+00:00",
-      "title": "Applied Materials and Intel Collaborate to Accelerate Chipmaking Innovations for AI-Driven Computing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

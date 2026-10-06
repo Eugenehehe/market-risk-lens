@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T16:42:07.535925+00:00",
+  "generated_at": "2026-10-06T21:15:47.486560+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 761.04,
-    "change_pct": 0.6400423168473779
+    "price": 759.66,
+    "change_pct": 0.4575509124570054
   },
   "risk": {
-    "score": 56,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T23:55:20.652892+00:00",
-      "close": 704.54
-    },
     {
       "timestamp": "2026-09-16T03:44:07.999144+00:00",
       "close": 704.54
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 761.04
+    },
+    {
+      "timestamp": "2026-10-06T21:15:47.486560+00:00",
+      "close": 759.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-06T14:34:29+00:00",
+      "title": "Stocks Are Getting Cheaper Even As Indices Rally",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-06T13:28:14+00:00",
+      "title": "Navigating Through An Increasingly Irrational Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-06T12:16:39+00:00",
       "title": "Elevated Short Selling Points To Year-End Rally",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-06T09:45:00+00:00",
       "title": "Revised Inflation Data Don't Change The Fed's Job",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T09:34:21+00:00",
-      "title": "S&P 500 Hits 118% Gains as Ryan Detrick Eyes 'Many, Many More Years'—But Burry and Schiff Warn Our 'Luck Just Ran Out'",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T09:30:00+00:00",
-      "title": "Why I'd Choose VOO Over QQQ For The Next 20 Years",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
