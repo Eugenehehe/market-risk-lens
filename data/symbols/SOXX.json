@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T23:09:03.685188+00:00",
+  "generated_at": "2026-10-06T02:57:42.260164+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 589.51,
     "change_pct": 0.10358295126506878
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T14:59:09.745002+00:00",
-      "close": 499.23
-    },
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 497.16
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-10-05T23:09:03.685188+00:00",
       "close": 589.51
+    },
+    {
+      "timestamp": "2026-10-06T02:57:42.260164+00:00",
+      "close": 589.51
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-05T22:09:32+00:00",
+      "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T17:02:39+00:00",
+      "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-05T13:17:51+00:00",
       "title": "President Trump Is Serious About The $5,000 Checks",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T12:34:22+00:00",
+      "title": "Intel Drops 4% as Elon Musk Signals Taiwan Semiconductor Could Join Terafab; AMD Slips, NVIDIA Holds Steady",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,22 +565,6 @@
       "timestamp": "2026-10-04T08:00:00+00:00",
       "title": "The 60/40 Portfolio Looks Dead Again: Here's What To Do",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T08:30:00+00:00",
-      "title": "Beware, Bears: Chipmakers Are Still Lubricating The AI Financing Wheel",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T02:05:02+00:00",
-      "title": "Why the iShares Semiconductor ETF Gained 11% in September",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:09:03.685188+00:00",
+  "generated_at": "2026-10-06T02:57:42.260164+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 362.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T14:59:09.745002+00:00",
-      "close": 341.34
-    },
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 340.11
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-05T23:09:03.685188+00:00",
       "close": 362.51
+    },
+    {
+      "timestamp": "2026-10-06T02:57:42.260164+00:00",
+      "close": 362.51
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-10-05T18:51:53+00:00",
       "title": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-05T17:36:28+00:00",
+      "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-05T16:30:00+00:00",
       "title": "CDT Insider Sentiment September 2026 - A Quiet Market Drawdown And Two Opposing Thoughts",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T15:41:34+00:00",
-      "title": "Is Marvell Stock Increasing Your Market Risk?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

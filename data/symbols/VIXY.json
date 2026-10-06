@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T23:09:03.685188+00:00",
+  "generated_at": "2026-10-06T02:57:42.260164+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 16.54,
     "change_pct": -1.0765550239234423
   },
   "risk": {
-    "score": 43,
+    "score": 45,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T14:59:09.745002+00:00",
-      "close": 17.72
-    },
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 17.53
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-05T23:09:03.685188+00:00",
       "close": 16.54
+    },
+    {
+      "timestamp": "2026-10-06T02:57:42.260164+00:00",
+      "close": 16.54
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-05T15:02:00+00:00",
+      "title": "Should Investors Worry About a Market Correction? ETFs to Consider",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

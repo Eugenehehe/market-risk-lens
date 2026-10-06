@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:09:03.685188+00:00",
+  "generated_at": "2026-10-06T02:57:42.260164+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 159.37,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-15T14:59:09.745002+00:00",
-      "close": 144.18
-    },
     {
       "timestamp": "2026-09-15T18:53:01.694837+00:00",
       "close": 143.77
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-05T23:09:03.685188+00:00",
       "close": 159.37
+    },
+    {
+      "timestamp": "2026-10-06T02:57:42.260164+00:00",
+      "close": 159.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-05T22:36:26+00:00",
+      "title": "Jim Cramer Backs Corning’s (GLW) Fiber Story After Its Major Stock Decline",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-05T19:05:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
@@ -540,14 +548,6 @@
     {
       "timestamp": "2026-10-05T04:26:44+00:00",
       "title": "Corning (GLW) Shares Just Moved, So What Is Drawing Attention Today?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-03T18:03:00+00:00",
-      "title": "AT&T puts $3 billion behind expanding a key service for customers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
