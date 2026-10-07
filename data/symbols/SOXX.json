@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T06:36:00.399087+00:00",
+  "generated_at": "2026-10-07T13:53:41.656893+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 589.45,
-    "change_pct": -0.010177944394484939
+    "price": 577.03,
+    "change_pct": -2.1070489439308004
   },
   "risk": {
-    "score": 51,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T13:52:01.885691+00:00",
-      "close": 508.29
-    },
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 506.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-07T06:36:00.399087+00:00",
       "close": 589.45
+    },
+    {
+      "timestamp": "2026-10-07T13:53:41.656893+00:00",
+      "close": 577.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-07T07:53:23+00:00",
+      "title": "'No Beef' In AI Trade - It's All Hype",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-06T21:34:13+00:00",
       "title": "AI Stocks: Winter Is Coming",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-05T22:09:32+00:00",
       "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T17:02:39+00:00",
-      "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

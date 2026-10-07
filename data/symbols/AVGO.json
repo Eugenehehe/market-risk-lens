@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T06:36:00.399087+00:00",
+  "generated_at": "2026-10-07T13:53:41.656893+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 375.81,
-    "change_pct": 3.668864307191533
+    "price": 371.39,
+    "change_pct": -1.176126234001229
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T13:52:01.885691+00:00",
-      "close": 341.91
-    },
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 340.82
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-07T06:36:00.399087+00:00",
       "close": 375.81
+    },
+    {
+      "timestamp": "2026-10-07T13:53:41.656893+00:00",
+      "close": 371.39
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-06T22:45:00+00:00",
-      "title": "An AI Rally Built On Infrastructure",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T21:30:16+00:00",
-      "title": "LinkedIn Cofounder Defends Massive AI Infrastructure Spending, Says AI Capital Is 'the Only Reason We’re Not in a Recession'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T21:30:04+00:00",
-      "title": "Stock Market Today, Oct. 6: Marvell Stock Is Up as the Company Raises FY2028 Revenue Outlook to $20 Billion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T20:45:00+00:00",
-      "title": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T20:28:42+00:00",
-      "title": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T20:18:00+00:00",
-      "title": "Markets climb as a handful of tech stocks power the rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T18:24:32+00:00",
-      "title": "Update: Big Tech Pushes US Equity Indexes Higher Amid Lower Treasury Yields",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T18:05:02+00:00",
-      "title": "Which S&P500 stocks are the most active on Tuesday?",
+      "timestamp": "2026-10-07T12:06:01+00:00",
+      "title": "Broadcom, Oracle Earnings to Test Cloud Infrastructure's AI-Driven Momentum",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:53:00+00:00",
+      "title": "Broadcom's AI Revenue Is Growing at 221%. Here's Why Custom Chips Could Be a Bigger Business Than GPUs.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:37:23+00:00",
+      "title": "AI Chips Update - Transforming Video Into Actionable Insights With Pegasus 1.6",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:16:05+00:00",
+      "title": "Nvidia or Broadcom in October: 1 AI Chip Stock Gets My Money",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:15:38+00:00",
+      "title": "Broadcom Owns the Backstage; AMD Fights for the Spotlight",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:15:34+00:00",
+      "title": "Qualcomm Could Have a Much Bigger AI Story Than Investors Think",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:15:21+00:00",
+      "title": "Broadcom Remains So Full of Promise And Continues to Disappoint",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T09:26:01+00:00",
+      "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

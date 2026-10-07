@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T06:36:00.399087+00:00",
+  "generated_at": "2026-10-07T13:53:41.656893+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 112.5,
-    "change_pct": -3.1758326878388865
+    "price": 113.35,
+    "change_pct": 0.7555555555555538
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T13:52:01.885691+00:00",
-      "close": 101.56
-    },
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 101.6
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-07T06:36:00.399087+00:00",
       "close": 112.5
+    },
+    {
+      "timestamp": "2026-10-07T13:53:41.656893+00:00",
+      "close": 113.35
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-06T22:45:00+00:00",
-      "title": "An AI Rally Built On Infrastructure",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T20:18:00+00:00",
-      "title": "Markets climb as a handful of tech stocks power the rally",
+      "timestamp": "2026-10-07T11:23:04+00:00",
+      "title": "Premarket movers: Constellation Brands tumbles, SpaceX debt plans weigh",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-06T20:01:00+00:00",
-      "title": "Intel to Report Third-Quarter 2026 Financial Results",
+      "timestamp": "2026-10-07T11:10:23+00:00",
+      "title": "Elon Musk rules out TSMC operational role in Terafab chipmaking",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-06T18:05:02+00:00",
-      "title": "Which S&P500 stocks are the most active on Tuesday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T18:00:00+00:00",
-      "title": "TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth",
+      "timestamp": "2026-10-07T10:55:00+00:00",
+      "title": "Computer Vision - Global Strategic Business Report: Capitalize on 21.9% CAGR and a US$76.8B Market by 2032; Track Intel, Cognex, AMETEK, Basler and Cadence",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-06T18:00:00+00:00",
-      "title": "Curious about the most active stocks on Tuesday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T17:46:00+00:00",
-      "title": "The World’s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow.",
+      "timestamp": "2026-10-07T10:13:14+00:00",
+      "title": "Intel to Remain Involved in Musk’s Terafab Chip Project, Bloomberg Reports",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-06T17:33:07+00:00",
-      "title": "What Should Qualcomm Stock Investors Be Watching Now?",
+      "timestamp": "2026-10-07T10:12:09+00:00",
+      "title": "Intel (INTC) Ties AI Chipmaking Push To Faster Next Generation Process Rollout",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T10:11:42+00:00",
+      "title": "Musk Says Tesla and SpaceX Will Build and Operate Terafab AI Chip Complex",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T09:50:29+00:00",
+      "title": "Update: Market Chatter: Intel to Continue Working With Elon Musk on Terafab Project, CEO Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T09:50:00+00:00",
+      "title": "Intel Stock Rebounds as Musk Explains Terafab AI Chip Project and TSMC’s Role",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

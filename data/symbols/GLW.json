@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T06:36:00.399087+00:00",
+  "generated_at": "2026-10-07T13:53:41.656893+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 168.97,
-    "change_pct": 6.0237183911652
+    "price": 164.32,
+    "change_pct": -2.7519678049357954
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T13:52:01.885691+00:00",
-      "close": 147.37
-    },
     {
       "timestamp": "2026-09-16T17:52:45.019059+00:00",
       "close": 144.98
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-07T06:36:00.399087+00:00",
       "close": 168.97
+    },
+    {
+      "timestamp": "2026-10-07T13:53:41.656893+00:00",
+      "close": 164.32
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-07T12:35:01+00:00",
+      "title": "What's going on in today's pre-market session: S&P500 movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-06T21:44:34+00:00",
       "title": "Tutor Perini, Corning, and GE Vernova Shares Are Soaring, What You Need To Know",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-05T22:36:26+00:00",
       "title": "Jim Cramer Backs Corning’s (GLW) Fiber Story After Its Major Stock Decline",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T16:21:55+00:00",
-      "title": "UBS Maintains Buy on Corning, Raises Price Target to $201",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
