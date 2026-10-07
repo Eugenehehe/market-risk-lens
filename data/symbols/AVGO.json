@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:47:59.439130+00:00",
+  "generated_at": "2026-10-07T06:36:00.399087+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 375.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T08:51:27.528838+00:00",
-      "close": 339.27
-    },
     {
       "timestamp": "2026-09-16T13:52:01.885691+00:00",
       "close": 341.91
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-07T00:47:59.439130+00:00",
       "close": 375.81
+    },
+    {
+      "timestamp": "2026-10-07T06:36:00.399087+00:00",
+      "close": 375.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-06T22:45:00+00:00",
+      "title": "An AI Rally Built On Infrastructure",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-06T21:30:16+00:00",
       "title": "LinkedIn Cofounder Defends Massive AI Infrastructure Spending, Says AI Capital Is 'the Only Reason We’re Not in a Recession'",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-06T18:05:02+00:00",
       "title": "Which S&P500 stocks are the most active on Tuesday?",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T18:00:00+00:00",
-      "title": "TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
