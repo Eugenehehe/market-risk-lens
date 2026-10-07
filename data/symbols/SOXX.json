@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T13:53:41.656893+00:00",
+  "generated_at": "2026-10-07T19:42:01.125289+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 577.03,
-    "change_pct": -2.1070489439308004
+    "price": 583.14,
+    "change_pct": -1.0704894393078423
   },
   "risk": {
-    "score": 67,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T17:52:45.019059+00:00",
-      "close": 506.54
-    },
     {
       "timestamp": "2026-09-16T20:44:44.224406+00:00",
       "close": 502.06
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 577.03
+    },
+    {
+      "timestamp": "2026-10-07T19:42:01.125289+00:00",
+      "close": 583.14
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-07T14:41:55+00:00",
+      "title": "USD: Missed Nvidia's Rally? Get Exposure With A Side Of Leverage",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T13:10:00+00:00",
+      "title": "Market Concentration: Building For More Than One Outcome",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:14:58+00:00",
+      "title": "The Bill For This Record High Has Not Arrived Yet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T09:58:59+00:00",
+      "title": "This Is Most Certainly A Bull Trap",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-07T07:53:23+00:00",
       "title": "'No Beef' In AI Trade - It's All Hype",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T06:05:16+00:00",
+      "title": "First Samsung, Now Micron: Netlist’s Patent Offensive Unlocks Another $600 Million",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-10-06T21:33:46+00:00",
       "title": "Forget SMH: BlackRock’s Chip Fund Beat It by 22.43 Points Over the Past Year",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T15:56:26+00:00",
-      "title": "AMD Spikes 4% as Citi Lifts Target to $800 and Stifel Goes to $700; NVIDIA Ticks Up, Intel Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T14:48:56+00:00",
-      "title": "Marvell Rallies 6% as Investor Day Presses the Custom AI Silicon Case; Broadcom Advances 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T11:15:38+00:00",
-      "title": "Options Traders Give Nvidia a 50% Chance of Hitting $6 Trillion This Month",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T09:12:51+00:00",
-      "title": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T22:09:32+00:00",
-      "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

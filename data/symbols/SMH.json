@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T13:53:41.656893+00:00",
+  "generated_at": "2026-10-07T19:42:01.125289+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 621.03,
-    "change_pct": -1.8134387351778747
+    "price": 624.96,
+    "change_pct": -1.1920948616600757
   },
   "risk": {
-    "score": 65,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T17:52:45.019059+00:00",
-      "close": 549.33
-    },
     {
       "timestamp": "2026-09-16T20:44:44.224406+00:00",
       "close": 545.56
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 621.03
+    },
+    {
+      "timestamp": "2026-10-07T19:42:01.125289+00:00",
+      "close": 624.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-07T14:41:55+00:00",
+      "title": "USD: Missed Nvidia's Rally? Get Exposure With A Side Of Leverage",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T13:10:00+00:00",
+      "title": "Market Concentration: Building For More Than One Outcome",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T09:58:59+00:00",
+      "title": "This Is Most Certainly A Bull Trap",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-07T07:53:23+00:00",
       "title": "'No Beef' In AI Trade - It's All Hype",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-06T14:24:00+00:00",
       "title": "ETFs to Buy as NVIDIA Marches Toward $6 Trillion Market Cap",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T11:12:45+00:00",
-      "title": "Easing Bond Yields, Crude Bills Boost Wall Street Pre-Bell; Asia, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T05:03:01+00:00",
-      "title": "Prediction: The VanEck Semiconductor ETF Will Double Again Before 2032",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T22:09:32+00:00",
-      "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

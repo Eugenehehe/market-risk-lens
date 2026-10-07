@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T13:53:41.656893+00:00",
+  "generated_at": "2026-10-07T19:42:01.125289+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1028.98,
-    "change_pct": -1.5857530892535943
+    "price": 1084.71,
+    "change_pct": 3.744404912200161
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T17:52:45.019059+00:00",
-      "close": 933.53
-    },
     {
       "timestamp": "2026-09-16T20:44:44.224406+00:00",
       "close": 926.55
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 1028.98
+    },
+    {
+      "timestamp": "2026-10-07T19:42:01.125289+00:00",
+      "close": 1084.71
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-07T11:49:18+00:00",
-      "title": "MU Stock Slides For Fourth Day: Taiwan Union Reportedly Secures Strike Authorization Over Bonus Dispute",
+      "timestamp": "2026-10-07T19:05:01+00:00",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T18:05:03+00:00",
+      "title": "Wednesday's session: most active stock in the S&P500 index",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T17:37:06+00:00",
+      "title": "Sector Update: Tech Stocks Decline Wednesday Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T11:37:23+00:00",
-      "title": "AI Chips Update - Transforming Video Into Actionable Insights With Pegasus 1.6",
+      "timestamp": "2026-10-07T17:36:26+00:00",
+      "title": "MU Stock Adds 3% As D.A. Davidson Forecasts Stock Value To Triple On Valuation Play",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T10:39:47+00:00",
-      "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Wednesday; SpaceX, Micron to Fall",
+      "timestamp": "2026-10-07T16:58:54+00:00",
+      "title": "Stock Market Today: Dow Cuts Sharp Losses As Some Techs Rally; AbbVie Breaks Out (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T09:35:00+00:00",
-      "title": "Sandisk Is Up 613% in 2026 and Micron Isn't Far Behind. Which AI Memory Stock Has More Room to Run?",
+      "timestamp": "2026-10-07T16:44:37+00:00",
+      "title": "Apple Needs Chips, and “Micron Sets the Price.” Now Micron Is Making More Money than Apple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T09:22:00+00:00",
-      "title": "Netlist (NLST) Stock Jumps 17.9%: Will It Continue to Soar?",
-      "source": "Yahoo",
+      "timestamp": "2026-10-07T16:35:01+00:00",
+      "title": "Wednesday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T09:18:54+00:00",
-      "title": "What Does Micron Technology (MU) Face After A Patent Deal And Taiwan Strike Vote?",
+      "timestamp": "2026-10-07T16:14:00+00:00",
+      "title": "Micron Stock Rebounds Despite Memory Plant Threat",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T09:08:02+00:00",
-      "title": "AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year. History Says This Will Happen Next.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T08:30:00+00:00",
-      "title": "Technology Survived September, But I'm Downgrading XLK",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

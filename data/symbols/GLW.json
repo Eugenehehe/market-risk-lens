@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T13:53:41.656893+00:00",
+  "generated_at": "2026-10-07T19:42:01.125289+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 164.32,
-    "change_pct": -2.7519678049357954
+    "price": 163.5,
+    "change_pct": -3.2372610522578005
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T17:52:45.019059+00:00",
-      "close": 144.98
-    },
     {
       "timestamp": "2026-09-16T20:44:44.224406+00:00",
       "close": 144.16
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 164.32
+    },
+    {
+      "timestamp": "2026-10-07T19:42:01.125289+00:00",
+      "close": 163.5
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-07T14:03:00+00:00",
+      "title": "Ciena Surges 178% in a Year: Should Investors Buy the Stock Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T13:46:00+00:00",
+      "title": "Can AT&T's U.S. Fiber Expansion Deal With GIP & CPP Boost the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-07T12:35:01+00:00",
       "title": "What's going on in today's pre-market session: S&P500 movers",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T12:08:00+00:00",
+      "title": "Corning Announces Quarterly Dividend",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T12:00:05+00:00",
+      "title": "Investors Heavily Search Owens Corning Inc (OC): Here is What You Need to Know",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-10-06T19:05:01+00:00",
       "title": "Uncover the latest developments among S&P500 stocks in today's session.",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T16:35:02+00:00",
-      "title": "Which S&P500 stocks are moving on Tuesday?",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T13:52:57+00:00",
-      "title": "Applied Optoelectronics Surges 6% as $600M Share Sale Program Closes; Lumentum Sits Out the Rally, Corning Edges Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-06T12:45:56+00:00",
-      "title": "How to Play FSLR Stock as First Solar Wages an International Solar Panel Legal Battle",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-05T22:36:26+00:00",
-      "title": "Jim Cramer Backs Corning’s (GLW) Fiber Story After Its Major Stock Decline",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
