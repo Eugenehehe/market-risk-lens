@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:51:11.416292+00:00",
+  "generated_at": "2026-10-08T03:26:24.512055+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 336.67,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-16T23:16:55.497373+00:00",
-      "close": 332.41
-    },
     {
       "timestamp": "2026-09-17T01:31:01.400351+00:00",
       "close": 332.41
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-07T23:51:11.416292+00:00",
       "close": 336.67
+    },
+    {
+      "timestamp": "2026-10-08T03:26:24.512055+00:00",
+      "close": 336.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-08T01:19:00+00:00",
+      "title": "Dow Jones Futures Fall As Yields Move Higher; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T00:03:58+00:00",
+      "title": "3 Dividend Growth ETFs That Prioritize Rising Payouts Over Today’s Yield. One Returned 12.53% Over the Past Year, Another Just 5.40%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-07T21:14:12+00:00",
       "title": "Dow Jones Futures: Stocks Pare Losses As Yields Back Off; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-07T18:56:30+00:00",
       "title": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T18:39:22+00:00",
-      "title": "Micron’s 107% Upside Scenario Depends on Precisely 1 Thing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T18:05:03+00:00",
-      "title": "Wednesday's session: most active stock in the S&P500 index",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
