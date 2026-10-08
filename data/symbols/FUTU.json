@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T03:26:24.512055+00:00",
+  "generated_at": "2026-10-08T10:51:22.961510+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 109.68,
     "change_pct": -3.1180991078526565
   },
   "risk": {
-    "score": 59,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T01:31:01.400351+00:00",
-      "close": 109.82
-    },
     {
       "timestamp": "2026-09-17T06:36:11.003474+00:00",
       "close": 109.82
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-08T03:26:24.512055+00:00",
       "close": 109.68
+    },
+    {
+      "timestamp": "2026-10-08T10:51:22.961510+00:00",
+      "close": 109.68
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-08T04:32:40+00:00",
+      "title": "3 U.S. Brokerage Stocks Built for Higher For Longer Rates",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
