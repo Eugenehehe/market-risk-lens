@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T10:51:22.961510+00:00",
+  "generated_at": "2026-10-08T17:39:08.401760+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 143.56,
-    "change_pct": -0.8358085238654445
+    "price": 137.79,
+    "change_pct": -4.019225410978001
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T06:36:11.003474+00:00",
-      "close": 143.16
-    },
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 143.16
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-08T10:51:22.961510+00:00",
       "close": 143.56
+    },
+    {
+      "timestamp": "2026-10-08T17:39:08.401760+00:00",
+      "close": 137.79
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-08T08:14:23+00:00",
-      "title": "NetApp (NTAP) Wins An Analyst Upgrade, Is It 19% Overvalued?",
+      "timestamp": "2026-10-08T14:39:19+00:00",
+      "title": "SpaceX, Broadcom and Oracle All Want Billions in AI Chip Debt at the Same Time",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-08T08:05:00+00:00",
-      "title": "Application Virtualization Market to Reach US$10.9 Billion by 2032 at 16.3% CAGR, Driven by Remote Work and Hybrid Cloud",
+      "timestamp": "2026-10-08T14:00:00+00:00",
+      "title": "YC-backed Oximy Names Former Oracle, Cox, Notion and Twitter Leaders to Advisory Council",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-08T07:29:25+00:00",
-      "title": "Oracle Courts Apollo and Goldman for AI Chip Financing as Debt Tops $169 Billion",
+      "timestamp": "2026-10-08T13:55:00+00:00",
+      "title": "AI's debt-fueled boom: Who's paying for the buildout?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T23:37:58+00:00",
-      "title": "Broadcom, Oracle And SpaceX Tap Private Credit For AI Hardware: Report",
+      "timestamp": "2026-10-08T13:07:00+00:00",
+      "title": "ScaleNorth Announces Gold Sponsorship of SuiteWorld 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T23:24:29+00:00",
-      "title": "Should You Buy Salesforce Stock For Its Cash?",
+      "timestamp": "2026-10-08T12:35:00+00:00",
+      "title": "Stock Futures Fall on Higher Oil Prices, AI Pullback",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T23:07:17+00:00",
-      "title": "Broadcom Holds Early Talks About Financing Deal for OpenAI Chips",
+      "timestamp": "2026-10-08T11:37:21+00:00",
+      "title": "Latest News In Energy Transition - Oracle Powers Up with Scout's Wind Energy Partnership",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T22:47:25+00:00",
-      "title": "What Happens To IBM Stock If Its Slowdown Lasts?",
+      "timestamp": "2026-10-08T11:02:00+00:00",
+      "title": "Oracle and these 6 stocks are newest addition to Mizuho Top Picks list",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T21:58:28+00:00",
-      "title": "Broadcom, Oracle, and SpaceX pursue blockbuster debt deals amid AI buildout - WSJ",
-      "source": "Yahoo",
+      "timestamp": "2026-10-08T10:30:49+00:00",
+      "title": "Bond Investors Not 'Buying The Spin' Anymore - Yields To Go Higher",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

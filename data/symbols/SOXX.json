@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T10:51:22.961510+00:00",
+  "generated_at": "2026-10-08T17:39:08.401760+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 582.82,
-    "change_pct": -1.1247773348036283
+    "price": 560.17,
+    "change_pct": -3.886277066675836
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T06:36:11.003474+00:00",
-      "close": 502.06
-    },
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 502.06
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-08T10:51:22.961510+00:00",
       "close": 582.82
+    },
+    {
+      "timestamp": "2026-10-08T17:39:08.401760+00:00",
+      "close": 560.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-08T10:59:10+00:00",
+      "title": "Intel Stock Is Falling Thursday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T07:42:32+00:00",
+      "title": "Jim Cramer Says Oil Surge, Higher Rates Are ‘Convenient Excuses’ To Sell Semis as QQQ, SOXX Drop and Investors Question Data Center Spending",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-07T22:50:51+00:00",
       "title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-07T09:58:59+00:00",
       "title": "This Is Most Certainly A Bull Trap",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T07:53:23+00:00",
-      "title": "'No Beef' In AI Trade - It's All Hype",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T06:05:16+00:00",
-      "title": "First Samsung, Now Micron: Netlist’s Patent Offensive Unlocks Another $600 Million",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

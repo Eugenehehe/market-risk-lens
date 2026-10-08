@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T10:51:22.961510+00:00",
+  "generated_at": "2026-10-08T17:39:08.401760+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 472.2,
-    "change_pct": -2.094132282811534
+    "price": 456.45,
+    "change_pct": -3.335451080050822
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T06:36:11.003474+00:00",
-      "close": 417.72
-    },
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 417.72
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-08T10:51:22.961510+00:00",
       "close": 472.2
+    },
+    {
+      "timestamp": "2026-10-08T17:39:08.401760+00:00",
+      "close": 456.45
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-08T12:31:42+00:00",
+      "title": "TSMC Is Likely To Beat Q3 Earnings And Rise (Preview)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T10:59:10+00:00",
+      "title": "Intel Stock Is Falling Thursday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T09:28:09+00:00",
+      "title": "TSMC: Global Chip Demand Shows No Signs Of Slowing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T08:14:07+00:00",
+      "title": "GlobalFoundries Reaches Deal With TSMC To Create U.S.-Based Supply Of Silicon Interposers For TSMC's CoWoS Advanced Packaging Ecosystem",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-08T02:55:15+00:00",
       "title": "Dow Jones Futures: Yields Move Higher; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-10-07T21:15:48+00:00",
       "title": "Taiwan Semiconductor Manufacturing Heads 3 AI Chip Stocks To Watch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T20:43:00+00:00",
-      "title": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T18:51:00+00:00",
-      "title": "Why Intel Stock Is Defying Today’s Chip-Sector Slump",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T17:58:02+00:00",
-      "title": "SK Hynix vs. Taiwan Semiconductor Manufacturing: Which Computer Chip Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T16:13:59+00:00",
-      "title": "Musk: “Let There Be ZERO Doubt” SpaceX Will Run Terafab – Here’s What that Means for TSMC",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T10:51:22.961510+00:00",
+  "generated_at": "2026-10-08T17:39:08.401760+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 376.51,
-    "change_pct": 0.186264335701547
+    "price": 362.6,
+    "change_pct": -3.6944569865342114
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T06:36:11.003474+00:00",
-      "close": 339.51
-    },
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 339.51
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-08T10:51:22.961510+00:00",
       "close": 376.51
+    },
+    {
+      "timestamp": "2026-10-08T17:39:08.401760+00:00",
+      "close": 362.6
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-08T06:09:41+00:00",
-      "title": "Broadcom Is Arranging $50 Billion So OpenAI Can Buy Its Chips",
+      "timestamp": "2026-10-08T15:47:00+00:00",
+      "title": "$2.6 Trillion and Climbing: Where the AI Spending Is Going",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-08T00:05:00+00:00",
-      "title": "Baskin Financial Q3 2026 Newsletter",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T23:37:58+00:00",
-      "title": "Broadcom, Oracle And SpaceX Tap Private Credit For AI Hardware: Report",
+      "timestamp": "2026-10-08T14:39:19+00:00",
+      "title": "SpaceX, Broadcom and Oracle All Want Billions in AI Chip Debt at the Same Time",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T23:17:11+00:00",
-      "title": "Broadcom (AVGO) Is Seen As Resilient To 32 Gigawatt Power Shortfalls",
+      "timestamp": "2026-10-08T14:32:49+00:00",
+      "title": "Is AMD Stock Paying You Enough For The Swings?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T23:07:17+00:00",
-      "title": "Broadcom Holds Early Talks About Financing Deal for OpenAI Chips",
+      "timestamp": "2026-10-08T14:02:00+00:00",
+      "title": "Broadcom seeks more than $50 billion to finance OpenAI AI chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T22:38:41+00:00",
-      "title": "What Are AVGO Stock Investors Betting On?",
+      "timestamp": "2026-10-08T13:55:00+00:00",
+      "title": "AI's debt-fueled boom: Who's paying for the buildout?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T21:58:28+00:00",
-      "title": "Broadcom, Oracle, and SpaceX pursue blockbuster debt deals amid AI buildout - WSJ",
+      "timestamp": "2026-10-08T13:14:38+00:00",
+      "title": "Stocks making the biggest moves midday: Chipotle, Starbucks, Skydance, Marathon Petroleum & more",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T13:05:00+00:00",
+      "title": "RAPIDSCALE NAMED STRATEGIC VMWARE CLOUD SERVICE PROVIDER PARTNER FOR AHEAD",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-07T21:57:54+00:00",
-      "title": "Market Chatter: Broadcom, Oracle, SpaceX Seek Financing for AI Chip Purchases",
+      "timestamp": "2026-10-08T13:04:00+00:00",
+      "title": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

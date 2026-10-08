@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T10:51:22.961510+00:00",
+  "generated_at": "2026-10-08T17:39:08.401760+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 109.68,
-    "change_pct": -3.1180991078526565
+    "price": 108.19,
+    "change_pct": -1.3584974471189004
   },
   "risk": {
-    "score": 61,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T06:36:11.003474+00:00",
-      "close": 109.82
-    },
     {
       "timestamp": "2026-09-17T12:03:46.236320+00:00",
       "close": 109.82
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-08T10:51:22.961510+00:00",
       "close": 109.68
+    },
+    {
+      "timestamp": "2026-10-08T17:39:08.401760+00:00",
+      "close": 108.19
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-08T04:32:40+00:00",
       "title": "3 U.S. Brokerage Stocks Built for Higher For Longer Rates",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-07T11:21:26+00:00",
+      "title": "Hyperliquid Strategies Inc Reports Q4 Total Assets Of $616.7M, Including $281.9M Cash And $327.6M In HYPE Tokens, With $0.5M Staking Revenue And No Debt",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
