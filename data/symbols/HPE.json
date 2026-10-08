@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T17:39:08.401760+00:00",
+  "generated_at": "2026-10-08T22:28:14.498122+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 70.42,
-    "change_pct": -2.3165487584963285
+    "price": 71,
+    "change_pct": -1.511998890276045
   },
   "risk": {
-    "score": 69,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T12:03:46.236320+00:00",
-      "close": 56.68
-    },
     {
       "timestamp": "2026-09-17T16:53:45.309450+00:00",
       "close": 61.88
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 70.42
+    },
+    {
+      "timestamp": "2026-10-08T22:28:14.498122+00:00",
+      "close": 71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-08T17:53:00+00:00",
+      "title": "The AI Trade Is Alive and Well as Bond Yields Keep Rising",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-08T15:08:00+00:00",
+      "title": "Arista Stock Rises 64.7% YTD: Is There More Upside Ahead?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-08T14:11:00+00:00",
       "title": "Can Super Micro Computer Sustain Its AI Capex Momentum in 2027?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-08T11:15:48+00:00",
       "title": "Cisco Could Be Entering a New Growth Phase. Here’s My Price Target.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T08:06:18+00:00",
-      "title": "What's Going On With Hewlett Packard Enterprise Stock Thursday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T05:13:28+00:00",
-      "title": "Hewlett Packard Enterprise (HPE) Shares Jumped, What Is Driving Attention Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

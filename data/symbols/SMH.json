@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T17:39:08.401760+00:00",
+  "generated_at": "2026-10-08T22:28:14.498122+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 604.66,
-    "change_pct": -3.259043565908837
+    "price": 607.27,
+    "change_pct": -2.8414636097467305
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T12:03:46.236320+00:00",
-      "close": 545.56
-    },
     {
       "timestamp": "2026-09-17T16:53:45.309450+00:00",
       "close": 560.71
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 604.66
+    },
+    {
+      "timestamp": "2026-10-08T22:28:14.498122+00:00",
+      "close": 607.27
     }
   ],
   "events": [
