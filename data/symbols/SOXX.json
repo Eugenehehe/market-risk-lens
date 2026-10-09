@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T16:30:36.066191+00:00",
+  "generated_at": "2026-10-09T21:11:27.621574+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 558.84,
-    "change_pct": -0.7882403067745902
+    "price": 559.4,
+    "change_pct": -0.6888226104246553
   },
   "risk": {
-    "score": 57,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T00:49:53.179707+00:00",
-      "close": 519.1
-    },
     {
       "timestamp": "2026-09-18T05:19:03.355994+00:00",
       "close": 519.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-09T16:30:36.066191+00:00",
       "close": 558.84
+    },
+    {
+      "timestamp": "2026-10-09T21:11:27.621574+00:00",
+      "close": 559.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T12:25:05+00:00",
+      "title": "OpenAI Is Too Big To Save? The AI Selloff Was A Warning",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T10:20:00+00:00",
       "title": "AI 'Super Boom' - Why The Nasdaq Could Hit 74,000",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-08T13:14:45+00:00",
       "title": "Wolfspeed Soars 14% on $1.5B Conditional Department of War Loan Commitment; On Semiconductor and Texas Instruments Slip",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T13:04:00+00:00",
-      "title": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

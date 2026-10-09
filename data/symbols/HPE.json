@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T16:30:36.066191+00:00",
+  "generated_at": "2026-10-09T21:11:27.621574+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 72.06,
-    "change_pct": 1.4929577464788846
+    "price": 73.46,
+    "change_pct": 3.4647887323943527
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T00:49:53.179707+00:00",
-      "close": 61.04
-    },
     {
       "timestamp": "2026-09-18T05:19:03.355994+00:00",
       "close": 61.04
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-09T16:30:36.066191+00:00",
       "close": 72.06
+    },
+    {
+      "timestamp": "2026-10-09T21:11:27.621574+00:00",
+      "close": 73.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T18:01:45+00:00",
+      "title": "What Could Send Arista Networks Stock Higher?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T17:02:30+00:00",
+      "title": "Jim Cramer Says HPE (HPE) Has Finally Turned a Corner—Can Its Rally Continue?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T15:14:58+00:00",
+      "title": "What Investors Should Do After Lenovo Shares Dipped",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T14:15:00+00:00",
       "title": "3 Top-Ranked Stocks Breaking Records on AI-Related Demand",
@@ -522,48 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-09T13:11:01+00:00",
+      "title": "Final Trades: Hewlett Packard, Wells Fargo, Arista Networks and UnitedHealth",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T11:30:02+00:00",
+      "title": "HPE Stock Has Nearly Tripled. Here’s Why Wall Street Expects It to Reach $92.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-09T11:13:58+00:00",
       "title": "Hewlett Packard Enterprise (HPE) Wins AI Infrastructure Deployment In Financial Services",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T07:09:36+00:00",
-      "title": "LDP: Sustainable Distribution, But Rising Yields And Inflation Could Pressure Returns",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T01:47:31+00:00",
-      "title": "What Are Everpure Investors Betting On?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T00:55:07+00:00",
-      "title": "Is SanDisk Stock's Fall A Bargain Or A Warning?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T23:31:48+00:00",
-      "title": "One Unsettled Question Sits Under Super Micro Computer Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T17:53:00+00:00",
-      "title": "The AI Trade Is Alive and Well as Bond Yields Keep Rising",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
