@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T09:31:18.722541+00:00",
+  "generated_at": "2026-10-09T16:30:36.066191+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 152.83,
-    "change_pct": -6.382848392036744
+    "price": 155.99,
+    "change_pct": 2.0676568736504697
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 67,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T22:48:04.882582+00:00",
-      "close": 147.8
-    },
     {
       "timestamp": "2026-09-18T00:49:53.179707+00:00",
       "close": 147.8
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-09T09:31:18.722541+00:00",
       "close": 152.83
+    },
+    {
+      "timestamp": "2026-10-09T16:30:36.066191+00:00",
+      "close": 155.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T14:29:54+00:00",
+      "title": "Jim Cramer Likes Ciena (CIEN) but Another Optical Stock Holds His Attention",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T12:35:02+00:00",
+      "title": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T11:25:00+00:00",
+      "title": "Ciena's Openreach Deal: Can 1.6Tb/s Technology Drive Its Growth?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T02:48:07+00:00",
+      "title": "Coherent Stock Fell Nearly 10% in a Day as Rising Yields Hit Optics Stocks. Here’s Where the Stock Could Go by 2031",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-08T21:44:09+00:00",
       "title": "Hayward, FTAI Aviation, MasTec, Resideo, and Corning Shares Plummet, What You Need To Know",
@@ -533,38 +565,6 @@
       "timestamp": "2026-10-08T15:26:00+00:00",
       "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T13:59:21+00:00",
-      "title": "Dow Falls Nearly 200 Points, S&P 500 And Nasdaq In Red As Treasury Yields Stay Near 24-Year Highs, Oil Prices Jump",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T13:48:48+00:00",
-      "title": "Corning Incorporated's Q3 2026 Earnings: What to Expect",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T13:47:15+00:00",
-      "title": "When Amphenol's CEO And The Chart Say The Same Thing, Pay Attention",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T12:35:01+00:00",
-      "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

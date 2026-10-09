@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T09:31:18.722541+00:00",
+  "generated_at": "2026-10-09T16:30:36.066191+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 563.28,
-    "change_pct": -3.3526646305892194
+    "price": 558.84,
+    "change_pct": -0.7882403067745902
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T22:48:04.882582+00:00",
-      "close": 519.1
-    },
     {
       "timestamp": "2026-09-18T00:49:53.179707+00:00",
       "close": 519.1
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-09T09:31:18.722541+00:00",
       "close": 563.28
+    },
+    {
+      "timestamp": "2026-10-09T16:30:36.066191+00:00",
+      "close": 558.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T10:20:00+00:00",
+      "title": "AI 'Super Boom' - Why The Nasdaq Could Hit 74,000",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T07:33:03+00:00",
+      "title": "‘Dean of Valuation’ Warns of AI Cash Drain: 4 Ways to Play the Shift",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T06:05:56+00:00",
       "title": "Michael Burry Says Trump Will ‘Pull Out All The Stops’ For AI — ‘Dean Of Valuation’ Holds 5 Mag Seven Stocks, Adds Cash",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-08T13:04:00+00:00",
       "title": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T10:59:10+00:00",
-      "title": "Intel Stock Is Falling Thursday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T10:54:00+00:00",
-      "title": "Markets News, Oct. 8, 2026: AI Stock Selloff Pills Nasdaq, S&P 500 Lower; Oil Prices Surge on Middle East, Hurricane Worries",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

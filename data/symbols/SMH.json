@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T09:31:18.722541+00:00",
+  "generated_at": "2026-10-09T16:30:36.066191+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 607.27,
-    "change_pct": -2.8414636097467305
+    "price": 602.8,
+    "change_pct": -0.7360811500650488
   },
   "risk": {
-    "score": 73,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T22:48:04.882582+00:00",
-      "close": 560.61
-    },
     {
       "timestamp": "2026-09-18T00:49:53.179707+00:00",
       "close": 560.61
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-09T09:31:18.722541+00:00",
       "close": 607.27
+    },
+    {
+      "timestamp": "2026-10-09T16:30:36.066191+00:00",
+      "close": 602.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T10:20:00+00:00",
+      "title": "AI 'Super Boom' - Why The Nasdaq Could Hit 74,000",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T10:00:23+00:00",
+      "title": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T07:33:03+00:00",
+      "title": "‘Dean of Valuation’ Warns of AI Cash Drain: 4 Ways to Play the Shift",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-08T22:55:19+00:00",
       "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-07T22:50:51+00:00",
       "title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T18:43:07+00:00",
-      "title": "If the AI Bubble Pops: How Exposed Your ETFs Really Are",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T14:41:55+00:00",
-      "title": "USD: Missed Nvidia's Rally? Get Exposure With A Side Of Leverage",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T13:10:00+00:00",
-      "title": "Market Concentration: Building For More Than One Outcome",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

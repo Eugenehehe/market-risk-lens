@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T09:31:18.722541+00:00",
+  "generated_at": "2026-10-09T16:30:36.066191+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 274.66,
-    "change_pct": -3.5197414641000346
+    "price": 272.06,
+    "change_pct": -0.9466249180805408
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T22:48:04.882582+00:00",
-      "close": 240.76
-    },
     {
       "timestamp": "2026-09-18T00:49:53.179707+00:00",
       "close": 240.76
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-09T09:31:18.722541+00:00",
       "close": 274.66
+    },
+    {
+      "timestamp": "2026-10-09T16:30:36.066191+00:00",
+      "close": 272.06
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-09T15:38:04+00:00",
+      "title": "Astera Labs (ALAB) vs Tower Semiconductor (TSEM): Which is a Better Stock to Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T13:51:00+00:00",
+      "title": "ALAB Expands PCIe Portfolio With Aries 7: Can it Beat MRVL & CRDO?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T13:25:16+00:00",
+      "title": "Marvell (MRVL) Is Aiming for $90B in Sales. Why Does It Trade Under 24 Times Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T13:13:40+00:00",
+      "title": "Marvell (MRVL) Stock Could Be 49% Below Fair Value After AI Revenue Targets Raised",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T10:20:00+00:00",
+      "title": "Stock Prices, Earnings And Cash Flows: The AI Effect Plays Through",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T09:06:11+00:00",
+      "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On Palantir, Marvell And Cava As Nike Faces Downgrade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T07:47:21+00:00",
+      "title": "Why Is Marvell Technology Stock Gaining Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-09T03:44:03+00:00",
       "title": "What is Marvell’s (MRVL) Economic Moat, and is it Widening or Narrowing?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T21:17:00+00:00",
-      "title": "Bank of America tweaks Marvell stock target after key Analyst Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T20:33:52+00:00",
-      "title": "Why Marvell Stock Rocketed Higher Last Month",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T19:35:00+00:00",
-      "title": "Here's What a $10,000 Investment in Marvell Stock Could Be Worth in 2031 (Hint: It's a Lot)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T18:19:06+00:00",
-      "title": "Marvell Stock Is Surging on Raised Guidance. How to Play MRVL Here.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T17:58:39+00:00",
-      "title": "Is Marvell Stock Priced Right Against Its Peers?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T17:56:14+00:00",
-      "title": "AI compute needs are 'going to be insane': Box CEO Aaron Levie",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T17:53:00+00:00",
-      "title": "The AI Trade Is Alive and Well as Bond Yields Keep Rising",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

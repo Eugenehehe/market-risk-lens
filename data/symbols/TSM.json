@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T09:31:18.722541+00:00",
+  "generated_at": "2026-10-09T16:30:36.066191+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 457.99,
-    "change_pct": -3.009318085556967
+    "price": 450.16,
+    "change_pct": -1.709644315378056
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T22:48:04.882582+00:00",
-      "close": 430.26
-    },
     {
       "timestamp": "2026-09-18T00:49:53.179707+00:00",
       "close": 430.26
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-09T09:31:18.722541+00:00",
       "close": 457.99
+    },
+    {
+      "timestamp": "2026-10-09T16:30:36.066191+00:00",
+      "close": 450.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T10:20:00+00:00",
+      "title": "Stock Prices, Earnings And Cash Flows: The AI Effect Plays Through",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T10:00:23+00:00",
+      "title": "OpenAI's $20 Billion Revenue Gap Sends Chip Stocks Tumbling",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T07:33:03+00:00",
+      "title": "‘Dean of Valuation’ Warns of AI Cash Drain: 4 Ways to Play the Shift",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T03:18:24+00:00",
       "title": "3 Great Growth Stocks To Own In October 2026",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-08T22:46:08+00:00",
       "title": "Jim Cramer On GE Vernova (GEV) & Vertiv (VRT): Two Stocks To Buy Due To The Jobs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T20:45:03+00:00",
-      "title": "TSMC (TSM) Declines More Than Market: Some Information for Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T20:18:31+00:00",
-      "title": "Chip Foundry TSMC Beats September Sales Target",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T20:17:37+00:00",
-      "title": "A $2 Billion Reason Why GlobalFoundries Stock Is Up Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
