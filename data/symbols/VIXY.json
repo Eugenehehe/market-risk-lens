@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T22:28:14.498122+00:00",
+  "generated_at": "2026-10-09T02:28:14.483891+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 16.5,
     "change_pct": 1.914762198888198
   },
   "risk": {
-    "score": 52,
+    "score": 50,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T16:53:45.309450+00:00",
-      "close": 17.01
-    },
     {
       "timestamp": "2026-09-17T19:58:47.657942+00:00",
       "close": 17.05
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-10-08T22:28:14.498122+00:00",
       "close": 16.5
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-10-06T00:40:00+00:00",
-      "title": "Equity Markets Remain Resilient Amidst Continued Yield Surge",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-10-09T02:28:14.483891+00:00",
+      "close": 16.5
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
