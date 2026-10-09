@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:28:14.483891+00:00",
+  "generated_at": "2026-10-09T09:31:18.722541+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 107.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-17T19:58:47.657942+00:00",
-      "close": 109.23
-    },
     {
       "timestamp": "2026-09-17T22:48:04.882582+00:00",
       "close": 108.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-09T02:28:14.483891+00:00",
       "close": 107.08
+    },
+    {
+      "timestamp": "2026-10-09T09:31:18.722541+00:00",
+      "close": 107.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T02:22:18+00:00",
+      "title": "Chip, Cloud Stocks Edge Up Overnight After OpenAI’s $50B Revenue Figure Sparks Selloff: Analyst Calls Reaction ‘Overblown’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T01:03:00+00:00",
       "title": "AMD CEO delivers stark warning on chip market’s future",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-08T19:00:00+00:00",
       "title": "Anaconda Expands Collaboration with Intel to Give Enterprises a Secure Path to Production AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T18:30:00+00:00",
-      "title": "Stock Futures Fall on Higher Oil Prices, AI Pullback",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
