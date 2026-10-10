@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T21:11:27.621574+00:00",
+  "generated_at": "2026-10-10T00:53:24.501276+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 113.71,
     "change_pct": 4.551305627068758
   },
   "risk": {
-    "score": 70,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T05:19:03.355994+00:00",
-      "close": 111.36
-    },
     {
       "timestamp": "2026-09-18T09:53:54.089406+00:00",
       "close": 111.36
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-09T21:11:27.621574+00:00",
       "close": 113.71
+    },
+    {
+      "timestamp": "2026-10-10T00:53:24.501276+00:00",
+      "close": 113.71
     }
   ],
   "events": [
@@ -533,14 +533,6 @@
       "timestamp": "2026-10-08T04:32:40+00:00",
       "title": "3 U.S. Brokerage Stocks Built for Higher For Longer Rates",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-07T11:21:26+00:00",
-      "title": "Hyperliquid Strategies Inc Reports Q4 Total Assets Of $616.7M, Including $281.9M Cash And $327.6M In HYPE Tokens, With $0.5M Staking Revenue And No Debt",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
