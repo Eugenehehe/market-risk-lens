@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:03:38.607921+00:00",
+  "generated_at": "2026-10-10T17:48:14.829356+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 156.68,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T17:38:52.384161+00:00",
-      "close": 150.58
-    },
     {
       "timestamp": "2026-09-18T19:57:50.633778+00:00",
       "close": 150.84
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-10T13:03:38.607921+00:00",
       "close": 156.68
+    },
+    {
+      "timestamp": "2026-10-10T17:48:14.829356+00:00",
+      "close": 156.68
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-09T21:23:53+00:00",
       "title": "Caterpillar vs. Corning: Which Industrials Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T18:15:45+00:00",
+      "title": "Here's How Much $1000 Invested In Corning 5 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-08T21:44:09+00:00",
       "title": "Hayward, FTAI Aviation, MasTec, Resideo, and Corning Shares Plummet, What You Need To Know",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T19:05:01+00:00",
-      "title": "Top S&P500 movers in Thursday's session",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

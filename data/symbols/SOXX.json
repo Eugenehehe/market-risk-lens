@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:03:38.607921+00:00",
+  "generated_at": "2026-10-10T17:48:14.829356+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 559.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T17:38:52.384161+00:00",
-      "close": 524.53
-    },
     {
       "timestamp": "2026-09-18T19:57:50.633778+00:00",
       "close": 532.21
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-10T13:03:38.607921+00:00",
       "close": 559.4
+    },
+    {
+      "timestamp": "2026-10-10T17:48:14.829356+00:00",
+      "close": 559.4
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-10-09T19:14:03+00:00",
       "title": "Arm Stock Is Up 143% This Year: Take Profits, or Hold On for the Ride?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T14:17:33+00:00",
+      "title": "Anthropic IPO Hype Meets AI Spending Risks: 6 ETFs to Watch Beyond Semiconductors",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-09T07:33:03+00:00",
       "title": "‘Dean of Valuation’ Warns of AI Cash Drain: 4 Ways to Play the Shift",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T06:05:56+00:00",
-      "title": "Michael Burry Says Trump Will ‘Pull Out All The Stops’ For AI — ‘Dean Of Valuation’ Holds 5 Mag Seven Stocks, Adds Cash",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

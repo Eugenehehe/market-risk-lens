@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:03:38.607921+00:00",
+  "generated_at": "2026-10-10T17:48:14.829356+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1029,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T17:38:52.384161+00:00",
-      "close": 998.85
-    },
     {
       "timestamp": "2026-09-18T19:57:50.633778+00:00",
       "close": 1015.14
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-10T13:03:38.607921+00:00",
       "close": 1029
+    },
+    {
+      "timestamp": "2026-10-10T17:48:14.829356+00:00",
+      "close": 1029
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-10T11:59:18+00:00",
       "title": "'Not the time to be skittish': Why Wall Street sees stocks rising by year-end",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-10T11:00:00+00:00",
+      "title": "Banking Bellwethers Kick Off Earnings, Fed Chair's Speech In Focus",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,6 +530,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-10T10:00:00+00:00",
+      "title": "Micron Suffers Extreme AI Pessimism: Structural Demand Through 2031 (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-10T08:58:24+00:00",
+      "title": "SpaceX, Micron, AMD and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-10T08:00:45+00:00",
       "title": "Micron Technology (NASDAQ:MU): High Growth Momentum Meets Breakout Setup",
       "source": "ChartMill",
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-10T08:00:11+00:00",
+      "title": "Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-10T07:24:58+00:00",
       "title": "Micron: Winter Is Coming (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T05:20:00+00:00",
-      "title": "This Forgotten AI Stock Is Up 689% and Nobody's Talking About It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T22:37:00+00:00",
-      "title": "Estimates Keep Rising as Q3 Earnings Season Takes Center Stage",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T21:18:53+00:00",
-      "title": "Micron vs. Western Digital: Which AI Data Stock Has More Room for Profits to Normalize?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T20:50:00+00:00",
-      "title": "Why Legendary Investor Peter Lynch Ignored Stock Market Crash Predictions, and Why You Should Too",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
