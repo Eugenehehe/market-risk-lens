@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:48:14.829356+00:00",
+  "generated_at": "2026-10-10T20:43:33.266727+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1029,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T19:57:50.633778+00:00",
-      "close": 1015.14
-    },
     {
       "timestamp": "2026-09-18T22:27:10.431319+00:00",
       "close": 1015.8
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-10T17:48:14.829356+00:00",
       "close": 1029
+    },
+    {
+      "timestamp": "2026-10-10T20:43:33.266727+00:00",
+      "close": 1029
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-10T16:38:00+00:00",
+      "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-10T11:59:18+00:00",
       "title": "'Not the time to be skittish': Why Wall Street sees stocks rising by year-end",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-10T08:00:11+00:00",
       "title": "Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T07:24:58+00:00",
-      "title": "Micron: Winter Is Coming (Rating Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
