@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:53:24.501276+00:00",
+  "generated_at": "2026-10-10T06:39:01.500163+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 535.07,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T09:53:54.089406+00:00",
-      "close": 497.75
-    },
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 493.63
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-10T00:53:24.501276+00:00",
       "close": 535.07
+    },
+    {
+      "timestamp": "2026-10-10T06:39:01.500163+00:00",
+      "close": 535.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-10T03:26:37+00:00",
+      "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T23:15:00+00:00",
       "title": "Fuji Electric’s Helical Fusion Partnership Could Be A Game Changer For Fuji Electric (TSE:6504)",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-09T19:47:53+00:00",
       "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T19:41:36+00:00",
-      "title": "What Could Surprise CoreWeave Stock Investors On The Upside?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

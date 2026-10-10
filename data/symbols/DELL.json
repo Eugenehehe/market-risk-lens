@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:53:24.501276+00:00",
+  "generated_at": "2026-10-10T06:39:01.500163+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 586.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T09:53:54.089406+00:00",
-      "close": 588.4
-    },
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 586.68
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-10-10T00:53:24.501276+00:00",
       "close": 586.06
+    },
+    {
+      "timestamp": "2026-10-10T06:39:01.500163+00:00",
+      "close": 586.06
     }
   ],
   "events": [
     {
       "timestamp": "2026-10-09T23:07:30+00:00",
       "title": "Is HPE Stock Really Expensive?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T22:22:23+00:00",
+      "title": "Why Dell Stock Is Worth Buying Before It Touches $735",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -554,16 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-09T18:01:45+00:00",
-      "title": "What Could Send Arista Networks Stock Higher?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T17:45:53+00:00",
-      "title": "Elon Musk, Michael Dell, Jensen Huang, and other tech leaders receive White House National Medals",
+      "timestamp": "2026-10-09T18:20:24+00:00",
+      "title": "How to Play ACN Stock as Accenture Deepens Its AI Ties",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

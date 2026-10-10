@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T00:53:24.501276+00:00",
+  "generated_at": "2026-10-10T06:39:01.500163+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 603.33,
     "change_pct": -0.6488053090058732
   },
   "risk": {
-    "score": 54,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-18T09:53:54.089406+00:00",
-      "close": 560.61
-    },
     {
       "timestamp": "2026-09-18T14:04:20.588585+00:00",
       "close": 564.11
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-10T00:53:24.501276+00:00",
       "close": 603.33
+    },
+    {
+      "timestamp": "2026-10-10T06:39:01.500163+00:00",
+      "close": 603.33
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-09T21:00:04+00:00",
+      "title": "ETF League Tables: $143M Flows Into VanEck ETFs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T11:23:00+00:00",
+      "title": "2 Semiconductor Stocks to Buy and Hold Through 2032",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-09T11:15:10+00:00",
+      "title": "Softer Crude, Renewed AI Optimism Lift Wall Street Pre-Bell; Asia, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-09T10:20:00+00:00",
       "title": "AI 'Super Boom' - Why The Nasdaq Could Hit 74,000",
@@ -541,22 +565,6 @@
       "timestamp": "2026-10-08T13:04:00+00:00",
       "title": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T11:11:51+00:00",
-      "title": "Bond Yields, Oil Prices Pressure Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T08:52:19+00:00",
-      "title": "Elon Musk’s SpaceX Could Become Nvidia’s Biggest Customer: The ETF Trade Emerging From His $40B AI Bet",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
