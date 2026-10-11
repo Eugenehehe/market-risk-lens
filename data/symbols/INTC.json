@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:26:08.736762+00:00",
+  "generated_at": "2026-10-11T23:51:12.182912+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 104.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T16:32:45.966169+00:00",
-      "close": 108.6
-    },
     {
       "timestamp": "2026-09-19T18:50:10.291850+00:00",
       "close": 108.6
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-11T20:26:08.736762+00:00",
       "close": 104.7
+    },
+    {
+      "timestamp": "2026-10-11T23:51:12.182912+00:00",
+      "close": 104.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-11T20:33:00+00:00",
+      "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-11T14:11:35+00:00",
       "title": "Intel (INTC) Reaches 500 Million AI Tool Downloads As Edge Integrations Expand",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-10T12:05:00+00:00",
       "title": "Is Synopsys Back from the Dead? EDA Leader Inks Deals With Amazon and OpenAI",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T09:00:01+00:00",
-      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-      "source": "CNBC",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

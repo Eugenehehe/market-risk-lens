@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:26:08.736762+00:00",
+  "generated_at": "2026-10-11T23:51:12.182912+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 1029,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T16:32:45.966169+00:00",
-      "close": 1015.8
-    },
     {
       "timestamp": "2026-09-19T18:50:10.291850+00:00",
       "close": 1015.8
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-11T20:26:08.736762+00:00",
       "close": 1029
+    },
+    {
+      "timestamp": "2026-10-11T23:51:12.182912+00:00",
+      "close": 1029
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-11T19:47:06+00:00",
       "title": "A Western Digital (WDC) Investor’s Losses Prompt Jim Cramer to Bring Up Micron (MU)",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-11T17:50:00+00:00",
+      "title": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-10T16:15:07+00:00",
       "title": "DRAM ETF Stuck in Bear Market: Top Catalysts for a Rebound in Memory Stocks",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T16:00:02+00:00",
-      "title": "Micron’s Taiwan Union Authorized a Strike Over a Bonus Dispute. What This Means for MU Stock.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
