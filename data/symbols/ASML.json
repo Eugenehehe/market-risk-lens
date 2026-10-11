@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:20:04.287149+00:00",
+  "generated_at": "2026-10-11T16:21:27.214083+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1780.34,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T09:22:49.798333+00:00",
-      "close": 1679.92
-    },
     {
       "timestamp": "2026-09-19T13:15:16.285042+00:00",
       "close": 1679.92
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-10-11T10:20:04.287149+00:00",
       "close": 1780.34
+    },
+    {
+      "timestamp": "2026-10-11T16:21:27.214083+00:00",
+      "close": 1780.34
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-11T15:37:54+00:00",
+      "title": "Dow Jones Futures: Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-11T11:53:40+00:00",
+      "title": "Dow Jones Futures Loom; ASML, Nvidia Chipmaker Taiwan Semi To Kick Off AI Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-11T10:00:00+00:00",
       "title": "Welcome back to earnings season: What to watch this week",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-11T06:57:52+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-09T22:12:21+00:00",
       "title": "ASML Holding (ENXTAM:ASML) Faces An AI Pullback, Is The Stock Too Expensive?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T21:20:00+00:00",
-      "title": "Applied Materials vs. KLA: Does Faster Growth Beat the Cheaper Cash-Flow Price?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T20:44:20+00:00",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T19:39:00+00:00",
-      "title": "Top Research Reports for JPMorgan, ASML & Chevron",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
