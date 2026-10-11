@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:21:27.214083+00:00",
+  "generated_at": "2026-10-11T20:26:08.736762+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 453.31,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T13:15:16.285042+00:00",
-      "close": 434.67
-    },
     {
       "timestamp": "2026-09-19T16:32:45.966169+00:00",
       "close": 434.67
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-11T16:21:27.214083+00:00",
       "close": 453.31
+    },
+    {
+      "timestamp": "2026-10-11T20:26:08.736762+00:00",
+      "close": 453.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-11T13:29:00+00:00",
+      "title": "Wall Street Brunch: Start Your Earnings Engines",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-11T12:30:14+00:00",
       "title": "AMD’s Biggest Problem Is No Longer Demand. Lisa Su Is in Asia to Fix the Real One",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-11T06:57:52+00:00",
       "title": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-11T00:13:53+00:00",
-      "title": "3 AI Infrastructure Stocks to Watch Before TSMC Earnings",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
