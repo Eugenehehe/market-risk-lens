@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T03:42:12.944808+00:00",
+  "generated_at": "2026-10-11T10:20:04.287149+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 382.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T04:58:16.992396+00:00",
-      "close": 364.27
-    },
     {
       "timestamp": "2026-09-19T09:22:49.798333+00:00",
       "close": 364.27
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 382.7
+    },
+    {
+      "timestamp": "2026-10-11T10:20:04.287149+00:00",
+      "close": 382.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-11T05:11:43+00:00",
+      "title": "Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-10T18:47:00+00:00",
       "title": "Tesla rival appears to have a demand problem",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-10T13:09:44+00:00",
       "title": "Dear Tesla Stock Fans, Mark Your Calendars for Oct. 12",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T11:08:00+00:00",
-      "title": "Tesla Shares Surge: What's Driving the Latest Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T03:42:12.944808+00:00",
+  "generated_at": "2026-10-11T10:20:04.287149+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 718.67,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T04:58:16.992396+00:00",
-      "close": 665.75
-    },
     {
       "timestamp": "2026-09-19T09:22:49.798333+00:00",
       "close": 665.75
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 718.67
+    },
+    {
+      "timestamp": "2026-10-11T10:20:04.287149+00:00",
+      "close": 718.67
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-11T03:16:18+00:00",
+      "title": "Meta (META) Blocks Rival Ads Across Multiple Countries",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-10T17:50:00+00:00",
       "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-10T10:30:00+00:00",
       "title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T09:00:00+00:00",
-      "title": "UK data centre giant removed evidence of China deal ahead of $35bn listing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

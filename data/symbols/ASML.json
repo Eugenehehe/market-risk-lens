@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T03:42:12.944808+00:00",
+  "generated_at": "2026-10-11T10:20:04.287149+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1780.34,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T04:58:16.992396+00:00",
-      "close": 1679.92
-    },
     {
       "timestamp": "2026-09-19T09:22:49.798333+00:00",
       "close": 1679.92
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 1780.34
+    },
+    {
+      "timestamp": "2026-10-11T10:20:04.287149+00:00",
+      "close": 1780.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-11T10:00:00+00:00",
+      "title": "Welcome back to earnings season: What to watch this week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-10T20:51:33+00:00",
       "title": "VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML. Meet the Vanguard ETF That Does.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-09T19:39:00+00:00",
       "title": "Top Research Reports for JPMorgan, ASML & Chevron",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T19:20:06+00:00",
-      "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
