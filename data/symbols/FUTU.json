@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T23:53:32.475368+00:00",
+  "generated_at": "2026-10-11T03:42:12.944808+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 113.71,
     "change_pct": 4.551305627068758
   },
   "risk": {
-    "score": 68,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T00:31:25.459925+00:00",
-      "close": 112.01
-    },
     {
       "timestamp": "2026-09-19T04:58:16.992396+00:00",
       "close": 112.01
@@ -502,37 +498,25 @@
     {
       "timestamp": "2026-10-10T23:53:32.475368+00:00",
       "close": 113.71
+    },
+    {
+      "timestamp": "2026-10-11T03:42:12.944808+00:00",
+      "close": 113.71
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-10T18:06:00+00:00",
+      "title": "Retail Trading Platforms Post Record Quarters as Investor Apps Multiply",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-09T10:33:26+00:00",
       "title": "H World Group Unveils Hanting Inn, A Flexible Economy Hotel Brand Aimed At Expanding Coverage in Lower-Tier Cities",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T15:47:09+00:00",
-      "title": "Moomoo Expands Real-Time Account Funding Through Visa And Checkout.com, Allowing Users To Deposit Funds Via Apple Pay And Google Pay 24/7 For Faster Access To Stocks, Crypto, ETFs And Options",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T12:29:15+00:00",
-      "title": "Webull Just Exposed a Bigger China Risk for Futu and UP Fintech",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-08T04:32:40+00:00",
-      "title": "3 U.S. Brokerage Stocks Built for Higher For Longer Rates",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

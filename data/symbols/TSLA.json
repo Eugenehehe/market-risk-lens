@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:53:32.475368+00:00",
+  "generated_at": "2026-10-11T03:42:12.944808+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 382.7,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T00:31:25.459925+00:00",
-      "close": 364.27
-    },
     {
       "timestamp": "2026-09-19T04:58:16.992396+00:00",
       "close": 364.27
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-10T23:53:32.475368+00:00",
       "close": 382.7
+    },
+    {
+      "timestamp": "2026-10-11T03:42:12.944808+00:00",
+      "close": 382.7
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-10-10T18:00:15+00:00",
       "title": "Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-10T17:19:23+00:00",
+      "title": "SpaceX’s Terafab Probably Won’t Deliver Very High Profits, Despite Taiwan Semiconductor’s Limited Role",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-10T11:08:00+00:00",
       "title": "Tesla Shares Surge: What's Driving the Latest Rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T08:21:34+00:00",
-      "title": "Solana’s New Addresses Surge 124% While SOL Price Drops 9%. What’s Going On?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
