@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T23:51:12.182912+00:00",
+  "generated_at": "2026-10-12T03:11:21.932139+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 559.4,
     "change_pct": -0.6888226104246553
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 46,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T18:50:10.291850+00:00",
-      "close": 533.07
-    },
     {
       "timestamp": "2026-09-19T21:08:18.570092+00:00",
       "close": 533.07
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 559.4
+    },
+    {
+      "timestamp": "2026-10-12T03:11:21.932139+00:00",
+      "close": 559.4
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-10-10T06:08:00+00:00",
       "title": "Global Equities Find Strength Beyond AI Exposure",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T19:14:03+00:00",
-      "title": "Arm Stock Is Up 143% This Year: Take Profits, or Hold On for the Ride?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T14:17:33+00:00",
-      "title": "Anthropic IPO Hype Meets AI Spending Risks: 6 ETFs to Watch Beyond Semiconductors",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T13:31:32+00:00",
-      "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T12:25:05+00:00",
-      "title": "OpenAI Is Too Big To Save? The AI Selloff Was A Warning",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T10:20:00+00:00",
-      "title": "AI 'Super Boom' - Why The Nasdaq Could Hit 74,000",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

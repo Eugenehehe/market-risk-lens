@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T23:51:12.182912+00:00",
+  "generated_at": "2026-10-12T03:11:21.932139+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 603.33,
     "change_pct": -0.6488053090058732
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T18:50:10.291850+00:00",
-      "close": 573
-    },
     {
       "timestamp": "2026-09-19T21:08:18.570092+00:00",
       "close": 573
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 603.33
+    },
+    {
+      "timestamp": "2026-10-12T03:11:21.932139+00:00",
+      "close": 603.33
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-10-10T06:08:00+00:00",
       "title": "Global Equities Find Strength Beyond AI Exposure",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T21:00:04+00:00",
-      "title": "ETF League Tables: $143M Flows Into VanEck ETFs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T14:17:33+00:00",
-      "title": "Anthropic IPO Hype Meets AI Spending Risks: 6 ETFs to Watch Beyond Semiconductors",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T13:27:07+00:00",
-      "title": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T11:23:00+00:00",
-      "title": "2 Semiconductor Stocks to Buy and Hold Through 2032",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T11:15:10+00:00",
-      "title": "Softer Crude, Renewed AI Optimism Lift Wall Street Pre-Bell; Asia, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T10:20:00+00:00",
-      "title": "AI 'Super Boom' - Why The Nasdaq Could Hit 74,000",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

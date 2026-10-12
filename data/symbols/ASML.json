@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T23:51:12.182912+00:00",
+  "generated_at": "2026-10-12T03:11:21.932139+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1780.34,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T18:50:10.291850+00:00",
-      "close": 1679.92
-    },
     {
       "timestamp": "2026-09-19T21:08:18.570092+00:00",
       "close": 1679.92
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 1780.34
+    },
+    {
+      "timestamp": "2026-10-12T03:11:21.932139+00:00",
+      "close": 1780.34
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-10-11T18:00:00+00:00",
       "title": "Wells Fargo, Bank of America, Domino’s, Johnson & Johnson, Inflation Data, and More to Watch This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-11T17:00:02+00:00",
+      "title": "CPI, Earnings and Other Can't Miss Items this Week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-11T06:57:52+00:00",
       "title": "Wall Street Week Ahead",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T20:51:33+00:00",
-      "title": "VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML. Meet the Vanguard ETF That Does.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

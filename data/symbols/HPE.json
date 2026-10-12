@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T23:51:12.182912+00:00",
+  "generated_at": "2026-10-12T03:11:21.932139+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 73.46,
     "change_pct": 3.4647887323943527
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T18:50:10.291850+00:00",
-      "close": 60.76
-    },
     {
       "timestamp": "2026-09-19T21:08:18.570092+00:00",
       "close": 60.76
@@ -502,74 +498,13 @@
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 73.46
+    },
+    {
+      "timestamp": "2026-10-12T03:11:21.932139+00:00",
+      "close": 73.46
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-10-09T23:07:30+00:00",
-      "title": "Is HPE Stock Really Expensive?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T21:49:28+00:00",
-      "title": "Is Dell Stock Paying You Enough For The Swings?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T18:01:45+00:00",
-      "title": "What Could Send Arista Networks Stock Higher?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T17:02:30+00:00",
-      "title": "Jim Cramer Says HPE (HPE) Has Finally Turned a Corner—Can Its Rally Continue?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T15:14:58+00:00",
-      "title": "What Investors Should Do After Lenovo Shares Dipped",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T14:15:00+00:00",
-      "title": "3 Top-Ranked Stocks Breaking Records on AI-Related Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T13:41:00+00:00",
-      "title": "Should You Buy, Sell or Hold HPE Stock After a 191% Surge in a Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T13:11:01+00:00",
-      "title": "Final Trades: Hewlett Packard, Wells Fargo, Arista Networks and UnitedHealth",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

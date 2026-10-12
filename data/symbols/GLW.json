@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-11T23:51:12.182912+00:00",
+  "generated_at": "2026-10-12T03:11:21.932139+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 156.68,
     "change_pct": 2.5191389125171826
   },
   "risk": {
-    "score": 69,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T18:50:10.291850+00:00",
-      "close": 150.13
-    },
     {
       "timestamp": "2026-09-19T21:08:18.570092+00:00",
       "close": 150.13
@@ -502,66 +498,13 @@
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 156.68
+    },
+    {
+      "timestamp": "2026-10-12T03:11:21.932139+00:00",
+      "close": 156.68
     }
   ],
-  "events": [
-    {
-      "timestamp": "2026-10-09T21:23:53+00:00",
-      "title": "Caterpillar vs. Corning: Which Industrials Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T18:15:45+00:00",
-      "title": "Here's How Much $1000 Invested In Corning 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T15:55:57+00:00",
-      "title": "Nvidia-Backed Lumentum Says It Can’t Keep Up With AI Demand. The Stock Is Surging",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T14:29:54+00:00",
-      "title": "Jim Cramer Likes Ciena (CIEN) but Another Optical Stock Holds His Attention",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T12:35:02+00:00",
-      "title": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T11:25:00+00:00",
-      "title": "Ciena's Openreach Deal: Can 1.6Tb/s Technology Drive Its Growth?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T02:48:07+00:00",
-      "title": "Coherent Stock Fell Nearly 10% in a Day as Rising Yields Hit Optics Stocks. Here’s Where the Stock Could Go by 2031",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    }
-  ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

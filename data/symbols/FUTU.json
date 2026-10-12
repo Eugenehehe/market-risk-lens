@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-11T23:51:12.182912+00:00",
+  "generated_at": "2026-10-12T03:11:21.932139+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 113.71,
     "change_pct": 4.551305627068758
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T18:50:10.291850+00:00",
-      "close": 112.01
-    },
     {
       "timestamp": "2026-09-19T21:08:18.570092+00:00",
       "close": 112.01
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 113.71
+    },
+    {
+      "timestamp": "2026-10-12T03:11:21.932139+00:00",
+      "close": 113.71
     }
   ],
   "events": [
@@ -509,14 +509,6 @@
       "timestamp": "2026-10-10T18:06:00+00:00",
       "title": "Retail Trading Platforms Post Record Quarters as Investor Apps Multiply",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-09T10:33:26+00:00",
-      "title": "H World Group Unveils Hanting Inn, A Flexible Economy Hotel Brand Aimed At Expanding Coverage in Lower-Tier Cities",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
