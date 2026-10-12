@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 16.3,
-    "change_pct": -1.2121212121212088
+    "price": 16.04,
+    "change_pct": -1.5950920245398903
   },
   "risk": {
-    "score": 44,
+    "score": 49,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 17.09
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 17.09
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 16.3
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 16.04
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-12T13:45:00+00:00",
+      "title": "Volatilities Fall On Oil/Yield Reprieve As The S&P Rallies Into Earnings Season",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 73.46,
-    "change_pct": 3.4647887323943527
+    "price": 70.33,
+    "change_pct": -4.2608222161720555
   },
   "risk": {
-    "score": 60,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 60.76
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 60.76
@@ -502,9 +498,62 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 73.46
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 70.33
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-12T16:35:01+00:00",
+      "title": "Discover which S&P500 stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T15:13:00+00:00",
+      "title": "HPE Partners With NVDA: Can it Help Challenge SMCI & DELL?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T14:08:03+00:00",
+      "title": "Is Cisco Stock Paying You Enough For The Swings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T11:58:00+00:00",
+      "title": "Zacks Investment Ideas feature highlights: Micron, NVIDIA and Hewlett Packard Enterprise",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T10:06:21+00:00",
+      "title": "AMD Makes Big Agentic AI Push With Helion",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T07:34:27+00:00",
+      "title": "Wells Fargo, Arista Networks, Hewlett Packard Enterprise And A Health Care Stock On CNBC’s ‘Final Trades’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

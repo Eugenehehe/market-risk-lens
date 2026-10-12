@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 262.43,
-    "change_pct": 3.2944973628276752
+    "price": 259.53,
+    "change_pct": -1.105056586518327
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 253.71
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 253.71
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 262.43
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 259.53
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-12T09:36:33+00:00",
-      "title": "ACCA, SMU launch programme to prepare finance leaders for disruption",
+      "timestamp": "2026-10-12T19:10:13+00:00",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T17:36:29+00:00",
+      "title": "Sector Update: Tech Stocks Fall Monday Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T09:22:55+00:00",
-      "title": "Amazon in talks to acquire Decart in potential $7bn deal",
+      "timestamp": "2026-10-12T16:40:37+00:00",
+      "title": "Amazon Eyes $7 Billion Decart Deal: “Small Change” Next to Its AI Spending",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T09:00:00+00:00",
-      "title": "DuLac Farmaceutici Takes Next Step in U.S. Retail Growth Following ECRM Meetings",
+      "timestamp": "2026-10-12T16:00:00+00:00",
+      "title": "Is Alibaba's AI Capex Push a Catalyst or a Risk for the Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T08:41:34+00:00",
-      "title": "DAL Stock Edges Up Premarket: CEO Says 'We've Been Around Starlink For A Lot Of Years' Amid Elon Musk's Feud",
+      "timestamp": "2026-10-12T15:33:00+00:00",
+      "title": "Best Buy takes the fight to Amazon and Walmart",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T04:55:13+00:00",
-      "title": "Sirius XM: This Living Dead Is Ready To Rise",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T03:29:10+00:00",
-      "title": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T02:54:22+00:00",
-      "title": "AMZN Stock Inches Up Overnight: Amazon Reportedly Nears $7B Deal For Decart AI After Anthropic Walks Away",
+      "timestamp": "2026-10-12T15:07:25+00:00",
+      "title": "What Cheaper Gas Would Mean For Costco’s Sales And Margins",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T02:13:50+00:00",
-      "title": "SPCX, TSM,  APLD, AMZN, TSLA: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "timestamp": "2026-10-12T15:04:00+00:00",
+      "title": "MercadoLibre's Commerce-Fintech Flywheel Gains Strength",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T15:01:20+00:00",
+      "title": "T-Mobile Rises on Upgrade; IonQ to Buy Elisity | Stock Movers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

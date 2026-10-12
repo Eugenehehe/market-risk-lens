@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 156.68,
-    "change_pct": 2.5191389125171826
+    "price": 147.25,
+    "change_pct": -6.01863671176922
   },
   "risk": {
-    "score": 55,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 150.13
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 150.13
@@ -502,9 +498,46 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 156.68
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 147.25
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-12T19:05:01+00:00",
+      "title": "Discover which S&P500 stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T14:35:02+00:00",
+      "title": "These S&P500 stocks are gapping in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T12:05:00+00:00",
+      "title": "Can Ciena Sustain Margin Gains Despite Rising Component Demand?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T10:00:00+00:00",
+      "title": "Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI Rack-Scale Connectivity at the 2026 OCP Global Summit",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

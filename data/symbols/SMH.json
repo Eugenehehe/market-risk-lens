@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 603.33,
-    "change_pct": -0.6488053090058732
+    "price": 590.99,
+    "change_pct": -2.045315167487116
   },
   "risk": {
-    "score": 46,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 573
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 573
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 603.33
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 590.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-12T15:10:00+00:00",
+      "title": "Yes, The Technology Sector Will Lead S&P Profit Growth (Again)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T12:36:50+00:00",
+      "title": "TSMC Q3 Preview: The Road To $3 Trillion Is Hiding In Plain Sight",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T10:05:00+00:00",
+      "title": "Big News For Stocks Under The Bond Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T08:30:00+00:00",
+      "title": "Don't Be Afraid Of Midterms - Stay Bullish",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T00:45:00+00:00",
       "title": "3 Things I Think I Think",

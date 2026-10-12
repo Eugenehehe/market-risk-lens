@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 1029,
-    "change_pct": -0.6603336422613459
+    "price": 989.04,
+    "change_pct": -3.8833819241982592
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 1015.8
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 1015.8
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 1029
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 989.04
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-12T09:30:02+00:00",
-      "title": "These 2 AI Stocks Have Stumbled. Now They May Soar Nearly 75%, According to Wall Street.",
+      "timestamp": "2026-10-12T18:05:03+00:00",
+      "title": "Looking for the most active stocks in the S&P500 index on Monday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T17:50:00+00:00",
+      "title": "Micron Just Said Something That Could Change How Investors See the Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T08:55:35+00:00",
-      "title": "INTC, AMD, NVDA, MU: Chip Stocks Open Mixed Premarket After Worst Week In A Month",
+      "timestamp": "2026-10-12T17:33:26+00:00",
+      "title": "Micron stock drops on China CXMT denser memory chip news",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T08:43:19+00:00",
-      "title": "Why Are Nasdaq Futures Rising Premarket? MU, IREN, SLS, NIO, ASTS, WFF Stocks In Focus",
+      "timestamp": "2026-10-12T16:58:00+00:00",
+      "title": "Micron, Fannie Mae, eBay, IonQ, Salesforce, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T07:01:49+00:00",
-      "title": "Micron, SK Hynix Stocks Slip Overnight: China’s CXMT Advances Next-Gen DRAM Technology",
+      "timestamp": "2026-10-12T16:52:00+00:00",
+      "title": "Once Wall Street’s Darling, Cerebras Stock Is Struggling",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T03:29:10+00:00",
-      "title": "SCHG Vs. GARP: Ride Memory Now, Own The Hyperscalers Later",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T01:50:00+00:00",
-      "title": "Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win.",
+      "timestamp": "2026-10-12T16:47:30+00:00",
+      "title": "Dow Rises 200 Points, Nasdaq Wavers: China Chip Competition Hits Tech Stocks, Oil Climbs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-11T22:50:00+00:00",
-      "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
+      "timestamp": "2026-10-12T16:33:57+00:00",
+      "title": "What Was Micron Telling You Before Its Stock Ran?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-11T22:00:45+00:00",
-      "title": "CPI, PPI And Q3 Earnings Soon, October Could End Roughly",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-10-12T16:17:50+00:00",
+      "title": "72 and Retired on One Fund: How Much JEPQ It Takes to Collect $4,300 a Month",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

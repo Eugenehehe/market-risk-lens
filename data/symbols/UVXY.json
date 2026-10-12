@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T10:53:09.030835+00:00",
+  "generated_at": "2026-10-12T20:04:56.647425+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 16.32,
-    "change_pct": -1.9230769230769273
+    "price": 15.98,
+    "change_pct": -2.083333333333337
   },
   "risk": {
-    "score": 50,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-19T23:02:05.759590+00:00",
-      "close": 17.53
-    },
     {
       "timestamp": "2026-09-20T01:00:18.054566+00:00",
       "close": 17.53
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-12T10:53:09.030835+00:00",
       "close": 16.32
+    },
+    {
+      "timestamp": "2026-10-12T20:04:56.647425+00:00",
+      "close": 15.98
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-12T13:45:00+00:00",
+      "title": "Volatilities Fall On Oil/Yield Reprieve As The S&P Rallies Into Earnings Season",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
