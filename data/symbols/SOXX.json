@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:59:00.827687+00:00",
+  "generated_at": "2026-10-13T09:17:10.650904+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 544.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T06:03:44.464418+00:00",
-      "close": 533.07
-    },
     {
       "timestamp": "2026-09-20T11:14:58.941382+00:00",
       "close": 533.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-13T01:59:00.827687+00:00",
       "close": 544.85
+    },
+    {
+      "timestamp": "2026-10-13T09:17:10.650904+00:00",
+      "close": 544.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-13T01:42:28+00:00",
+      "title": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T23:10:18+00:00",
       "title": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow — META, MSFT, BMBL, CRM, SNAP In Focus",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-12T15:14:31+00:00",
       "title": "Chip Stock Skid Stretches On",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T15:10:00+00:00",
-      "title": "Yes, The Technology Sector Will Lead S&P Profit Growth (Again)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:59:00.827687+00:00",
+  "generated_at": "2026-10-13T09:17:10.650904+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 265.86,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T06:03:44.464418+00:00",
-      "close": 244.25
-    },
     {
       "timestamp": "2026-09-20T11:14:58.941382+00:00",
       "close": 244.25
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-13T01:59:00.827687+00:00",
       "close": 265.86
+    },
+    {
+      "timestamp": "2026-10-13T09:17:10.650904+00:00",
+      "close": 265.86
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-13T05:50:00+00:00",
+      "title": "Abishai Financial Asia Reports S&P 500 Tech-Led Advance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T20:35:00+00:00",
       "title": "It’s a High-Stakes Earnings Season, Especially for AI Stocks",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-12T12:00:57+00:00",
       "title": "The AI Spending Boom Could Be Just Getting Started for This Company",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T10:00:14+00:00",
-      "title": "STK Vs. TDVI: The Unicorn CEF And Its Closest ETF Equivalent",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
