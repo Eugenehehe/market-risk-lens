@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T09:17:10.650904+00:00",
+  "generated_at": "2026-10-13T17:00:26.507079+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 544.85,
-    "change_pct": -2.6010010725777577
+    "price": 538.91,
+    "change_pct": -1.0902083142149355
   },
   "risk": {
-    "score": 71,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T11:14:58.941382+00:00",
-      "close": 533.07
-    },
     {
       "timestamp": "2026-09-20T14:43:23.395633+00:00",
       "close": 533.07
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-13T09:17:10.650904+00:00",
       "close": 544.85
+    },
+    {
+      "timestamp": "2026-10-13T17:00:26.507079+00:00",
+      "close": 538.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-13T06:56:04+00:00",
+      "title": "Top Economist Warns 'High Concentration' of Semiconductor Stocks Isn't a Real Bull Market: 'Beware'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-13T05:34:24+00:00",
+      "title": "What's Going On With Broadcom Stock Tuesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-13T01:42:28+00:00",
       "title": "SNDK, MU, INTC, AMD, SKHY: Chip Stocks Extend Slide As AI Funding Concerns, China Competition Weigh On Sector",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-12T18:08:00+00:00",
       "title": "Once Wall Street’s Darling, Cerebras Stock Is Struggling",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T17:11:16+00:00",
-      "title": "Why the AI Trade Is Suddenly Struggling",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T15:14:31+00:00",
-      "title": "Chip Stock Skid Stretches On",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T09:17:10.650904+00:00",
+  "generated_at": "2026-10-13T17:00:26.507079+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 147.28,
-    "change_pct": -5.999489405157011
+    "price": 145.74,
+    "change_pct": -1.0456273764258506
   },
   "risk": {
-    "score": 70,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T11:14:58.941382+00:00",
-      "close": 150.13
-    },
     {
       "timestamp": "2026-09-20T14:43:23.395633+00:00",
       "close": 150.13
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-13T09:17:10.650904+00:00",
       "close": 147.28
+    },
+    {
+      "timestamp": "2026-10-13T17:00:26.507079+00:00",
+      "close": 145.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-13T15:13:09+00:00",
+      "title": "Lumentum (LITE) Is Down 8.8% After Long‑Term AI Optics Commitments Raise New Demand Questions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-13T12:55:02+00:00",
+      "title": "Can Corning (GLW) Climb 26.12% to Reach the Level Wall Street Analysts Expect?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-13T11:14:18+00:00",
+      "title": "AT&T (T) Stock Still Seems Cheap After Its 81% Run",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T20:35:00+00:00",
       "title": "It’s a High-Stakes Earnings Season, Especially for AI Stocks",
