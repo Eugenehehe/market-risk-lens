@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T20:04:56.647425+00:00",
+  "generated_at": "2026-10-13T01:59:00.827687+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 147.25,
-    "change_pct": -6.01863671176922
+    "price": 147.28,
+    "change_pct": -5.999489405157011
   },
   "risk": {
-    "score": 68,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T01:00:18.054566+00:00",
-      "close": 150.13
-    },
     {
       "timestamp": "2026-09-20T06:03:44.464418+00:00",
       "close": 150.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 147.25
+    },
+    {
+      "timestamp": "2026-10-13T01:59:00.827687+00:00",
+      "close": 147.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-12T20:35:00+00:00",
+      "title": "It’s a High-Stakes Earnings Season, Especially for AI Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T19:05:01+00:00",
       "title": "Discover which S&P500 stocks are making waves on Monday.",

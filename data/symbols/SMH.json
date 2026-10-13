@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T20:04:56.647425+00:00",
+  "generated_at": "2026-10-13T01:59:00.827687+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 590.99,
     "change_pct": -2.045315167487116
   },
   "risk": {
-    "score": 65,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T01:00:18.054566+00:00",
-      "close": 573
-    },
     {
       "timestamp": "2026-09-20T06:03:44.464418+00:00",
       "close": 573
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 590.99
+    },
+    {
+      "timestamp": "2026-10-13T01:59:00.827687+00:00",
+      "close": 590.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-12T23:10:18+00:00",
+      "title": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow — META, MSFT, BMBL, CRM, SNAP In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T15:10:00+00:00",
       "title": "Yes, The Technology Sector Will Lead S&P Profit Growth (Again)",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-12T12:46:00+00:00",
+      "title": "Someone Just Spent $21 Million Betting Nvidia Falls Below $180 by January",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-12T12:36:50+00:00",
       "title": "TSMC Q3 Preview: The Road To $3 Trillion Is Hiding In Plain Sight",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-12T11:03:42+00:00",
+      "title": "Earnings Season, Oil, Bonds Pressure Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T00:45:00+00:00",
-      "title": "3 Things I Think I Think",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T08:24:03+00:00",
-      "title": "Taiwan's Power Problem Is America's Opportunity",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-10T06:08:00+00:00",
-      "title": "Global Equities Find Strength Beyond AI Exposure",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-10-12T08:22:31+00:00",
+      "title": "Michael Burry Shifts Bearish Bets To Nasdaq, Semiconductor ETF Puts — Sees Market Top Within 9 Months",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
