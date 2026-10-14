@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T15:22:18.234340+00:00",
+  "generated_at": "2026-10-14T19:32:22.884242+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 572.65,
-    "change_pct": -2.63041556145005
+    "price": 567.23,
+    "change_pct": -3.5519961912534814
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T02:33:46.702889+00:00",
-      "close": 573
-    },
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 573
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-14T15:22:18.234340+00:00",
       "close": 572.65
+    },
+    {
+      "timestamp": "2026-10-14T19:32:22.884242+00:00",
+      "close": 567.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T11:34:54+00:00",
+      "title": "Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T10:40:00+00:00",
       "title": "Spot-On: Is The Tech Sell-Off Overdone?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-13T21:03:09+00:00",
       "title": "You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T19:30:00+00:00",
-      "title": "Banks And Tech Stocks Dominate",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T15:22:18.234340+00:00",
+  "generated_at": "2026-10-14T19:32:22.884242+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 349.35,
-    "change_pct": -2.2277574095323383
+    "price": 346.14,
+    "change_pct": -3.126136967899029
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T02:33:46.702889+00:00",
-      "close": 357.61
-    },
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 357.61
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-14T15:22:18.234340+00:00",
       "close": 349.35
+    },
+    {
+      "timestamp": "2026-10-14T19:32:22.884242+00:00",
+      "close": 346.14
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-14T12:45:30+00:00",
-      "title": "One Stock Could Benefit as AI Spending Moves Beyond Nvidia",
+      "timestamp": "2026-10-14T17:00:00+00:00",
+      "title": "TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T11:37:26+00:00",
-      "title": "AI Chips Today - AI Infrastructure Evolves With Strategic Partnerships And Innovations",
+      "timestamp": "2026-10-14T16:45:35+00:00",
+      "title": "Broadcom is The Steady Hand The Market Keeps Discounting",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T11:20:00+00:00",
-      "title": "Best Semiconductor Stocks to Buy and Hold Through 2030",
+      "timestamp": "2026-10-14T16:35:58+00:00",
+      "title": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T10:50:00+00:00",
-      "title": "Not Nvidia. Not Broadcom. This Storage Stock Could Be 2027's Hidden AI Winner.",
+      "timestamp": "2026-10-14T15:44:57+00:00",
+      "title": "BlackRock’s Larry Fink Says Data Centers ‘Are Not The Problem’ – Moratorium Would Trigger US Recession",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T09:59:47+00:00",
-      "title": "I'm Getting Even More Excited As AI Bubble Fears Return",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T09:52:05+00:00",
-      "title": "Broadcom: AI Demand Is Strong, But Is That Enough?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T09:27:00+00:00",
-      "title": "As Big Tech Designs Its Own AI Chips, the Companies Behind the Scenes Win",
+      "timestamp": "2026-10-14T15:20:00+00:00",
+      "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T09:10:32+00:00",
-      "title": "Micron: China Just Broke The Memory Supercycle Story",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-10-14T15:15:31+00:00",
+      "title": "Broadcom And 2 Cash Flow Stocks To Watch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T15:00:11+00:00",
+      "title": "The Real AI Opportunity at Marvell Is Just Starting to Emerge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T15:00:00+00:00",
+      "title": "OcNOS Goes 102.4T: IP Infusion Announces Support for Broadcom Tomahawk 6 Platforms",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

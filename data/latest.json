@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T15:22:18.234340+00:00",
+  "generated_at": "2026-10-14T19:32:22.884242+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 223.15,
-    "change_pct": -2.3499037283388757
+    "price": 221.36,
+    "change_pct": -3.1332049711184973
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T02:33:46.702889+00:00",
-      "close": 222.27
-    },
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 222.27
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-14T15:22:18.234340+00:00",
       "close": 223.15
+    },
+    {
+      "timestamp": "2026-10-14T19:32:22.884242+00:00",
+      "close": 221.36
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-14T13:58:15+00:00",
-      "title": "10-year Treasury yield rises following hot inflation data: AlphaCheck",
+      "timestamp": "2026-10-14T18:05:02+00:00",
+      "title": "Most active S&P500 stocks in Wednesday's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T17:50:00+00:00",
+      "title": "Liberty All-Star® Equity Fund September 2026 Monthly Update",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:50:00+00:00",
-      "title": "AWS Backlog Hits $496 Billion While Cloud Margins Surge to 39% Making Amazon a Must-Own Growth Stock",
+      "timestamp": "2026-10-14T17:50:00+00:00",
+      "title": "Liberty All-Star® Growth Fund, Inc. September 2026 Monthly Update",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:43:05+00:00",
-      "title": "Stock Market Today: Dow Wavers On Surprise CPI Inflation Data; Bank Of America Sinks On Results (Live Coverage)",
+      "timestamp": "2026-10-14T17:45:38+00:00",
+      "title": "Netflix Cuts 1,000 Employees",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:33:40+00:00",
-      "title": "CoreWeave Falls 10% as Bond Yield Touches 15% and Elon Musk Says ‘Yikes’; Nebius Drops 6%, Oracle Slips",
+      "timestamp": "2026-10-14T17:43:25+00:00",
+      "title": "SOXX Heads For 7th Straight Losing Session As Inflation, AI Spending Fears Deepen — Chip Stocks Face $1 Trillion Wipeout",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:33:16+00:00",
-      "title": "Trump and Nancy Pelosi’s Top AI Stock Pick: NVIDIA (NVDA)",
+      "timestamp": "2026-10-14T17:37:00+00:00",
+      "title": "If a Stock Market Crash Is Coming, Here's What Warren Buffett Would Do to Stay Ahead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:26:07+00:00",
-      "title": "Growth, Income, Cash: The Three-Bucket Portfolio That Pays $12,400 a Month",
+      "timestamp": "2026-10-14T17:22:00+00:00",
+      "title": "Bond Market Mayhem: History Says This Is the 1 Thing That Matters Most for Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:20:00+00:00",
-      "title": "5 No-Brainer ETFs Worth Loading Up On for Long-Term Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T13:15:02+00:00",
-      "title": "SpaceX Stock Could Soar by 73%, According to a Wall Street Analyst",
+      "timestamp": "2026-10-14T17:20:00+00:00",
+      "title": "Elon Musk's SpaceX Just Announced Good (and Bad) News to Apple Shareholders",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
