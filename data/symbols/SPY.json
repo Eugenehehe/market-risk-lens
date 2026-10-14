@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:39:21.122652+00:00",
+  "generated_at": "2026-10-14T05:24:47.147720+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 778.01,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T19:46:59.260348+00:00",
-      "close": 761.69
-    },
     {
       "timestamp": "2026-09-20T21:54:50.300874+00:00",
       "close": 761.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-14T00:39:21.122652+00:00",
       "close": 778.01
+    },
+    {
+      "timestamp": "2026-10-14T05:24:47.147720+00:00",
+      "close": 778.01
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-10-13T23:33:53+00:00",
       "title": "If You Own SPY, This Lower-Cost Fund Tracks Identical Holdings for Less Than Half the Fee",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-13T23:14:34+00:00",
+      "title": "TCAF: Recent Gains Are Encouraging, But Valuation Remains A Concern",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T19:30:00+00:00",
-      "title": "Banks And Tech Stocks Dominate",
+      "timestamp": "2026-10-13T20:45:00+00:00",
+      "title": "Small Business Problems",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T19:29:40+00:00",
-      "title": "Becton Dickinson (BDX) Grew Revenue 5.4% While Earnings Fell 34.3%. Why Did Profit Fall So Much Further?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T19:10:47+00:00",
-      "title": "Applied Optoelectronics Is Up 175% in 2026 and Lumentum Is Up 164%: Take Profits, or Hold On for the Ride?",
-      "source": "Yahoo",
+      "timestamp": "2026-10-13T19:30:00+00:00",
+      "title": "Banks And Tech Stocks Dominate",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

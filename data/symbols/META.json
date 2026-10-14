@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:39:21.122652+00:00",
+  "generated_at": "2026-10-14T05:24:47.147720+00:00",
   "snapshot": {
     "symbol": "META",
     "price": 762.5,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T19:46:59.260348+00:00",
-      "close": 665.75
-    },
     {
       "timestamp": "2026-09-20T21:54:50.300874+00:00",
       "close": 665.75
@@ -502,12 +498,40 @@
     {
       "timestamp": "2026-10-14T00:39:21.122652+00:00",
       "close": 762.5
+    },
+    {
+      "timestamp": "2026-10-14T05:24:47.147720+00:00",
+      "close": 762.5
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-14T02:30:00+00:00",
+      "title": "MIT dropout’s two startups announce shutdown weeks apart",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T02:13:58+00:00",
+      "title": "Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-13T23:40:48+00:00",
       "title": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-13T23:15:26+00:00",
+      "title": "Applied Materials’ $5 billion AI lab aims to cut chip development time in half—and restore Silicon Valley’s edge",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-13T21:49:28+00:00",
       "title": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T21:03:10+00:00",
-      "title": "Stock Market Today: Dow Rallies On Bank Results; Micron, Sandisk, SK Hynix Sell Off (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T20:45:03+00:00",
-      "title": "Why the Market Dipped But Meta Platforms (META) Gained Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T20:34:40+00:00",
-      "title": "Google’s Gemini 4 Argon is Here",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

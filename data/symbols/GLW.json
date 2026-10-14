@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:39:21.122652+00:00",
+  "generated_at": "2026-10-14T05:24:47.147720+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 148.54,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T19:46:59.260348+00:00",
-      "close": 150.13
-    },
     {
       "timestamp": "2026-09-20T21:54:50.300874+00:00",
       "close": 150.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-14T00:39:21.122652+00:00",
       "close": 148.54
+    },
+    {
+      "timestamp": "2026-10-14T05:24:47.147720+00:00",
+      "close": 148.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T00:19:38+00:00",
+      "title": "Was There Any Sign Coherent Stock Would Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-13T22:19:49+00:00",
       "title": "Corning (GLW) Is Wiring the AI Boom. Can Its Valuation Keep Up?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-12T14:35:02+00:00",
       "title": "These S&P500 stocks are gapping in today's session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T12:05:00+00:00",
-      "title": "Can Ciena Sustain Margin Gains Despite Rising Component Demand?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:39:21.122652+00:00",
+  "generated_at": "2026-10-14T05:24:47.147720+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 605.53,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T19:46:59.260348+00:00",
-      "close": 559.82
-    },
     {
       "timestamp": "2026-09-20T21:54:50.300874+00:00",
       "close": 559.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-14T00:39:21.122652+00:00",
       "close": 605.53
+    },
+    {
+      "timestamp": "2026-10-14T05:24:47.147720+00:00",
+      "close": 605.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T03:06:01+00:00",
+      "title": "Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-13T21:49:28+00:00",
       "title": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-13T18:44:04+00:00",
+      "title": "How to Play Microsoft Stock Ahead of an Upcoming Maia 300 Launch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-13T18:00:00+00:00",
       "title": "MSI Showcases Open Data Center and AI Infrastructure at 2026 OCP Global Summit",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T17:21:59+00:00",
-      "title": "How This Rare Options Strategy Might Work On AMD Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T17:07:31+00:00",
-      "title": "Fermi Gets A Boost From AMD, But Ambitions Remain Risky",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
