@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:47:29.446327+00:00",
+  "generated_at": "2026-10-14T00:39:21.122652+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 543.9,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T17:41:45.175604+00:00",
-      "close": 533.07
-    },
     {
       "timestamp": "2026-09-20T19:46:59.260348+00:00",
       "close": 533.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-13T21:47:29.446327+00:00",
       "close": 543.9
+    },
+    {
+      "timestamp": "2026-10-14T00:39:21.122652+00:00",
+      "close": 543.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-13T19:30:00+00:00",
+      "title": "Banks And Tech Stocks Dominate",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-13T06:56:04+00:00",
       "title": "Top Economist Warns 'High Concentration' of Semiconductor Stocks Isn't a Real Bull Market: 'Beware'",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-12T18:27:02+00:00",
       "title": "Semiconductor ETF vs Generative AI ETF: Which Delivers Better Returns?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-12T18:08:00+00:00",
-      "title": "Once Wall Street’s Darling, Cerebras Stock Is Struggling",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
