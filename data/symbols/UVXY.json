@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T10:26:38.049075+00:00",
+  "generated_at": "2026-10-14T15:22:18.234340+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 15.94,
-    "change_pct": -0.25031289111390187
+    "price": 16.17,
+    "change_pct": 1.4429109159347586
   },
   "risk": {
-    "score": 39,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 50,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T23:52:01.094804+00:00",
-      "close": 17.53
-    },
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 17.53
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 15.94
+    },
+    {
+      "timestamp": "2026-10-14T15:22:18.234340+00:00",
+      "close": 16.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T10:30:00+00:00",
+      "title": "Volatility Shocks And What Follows (Technical Analysis)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-12T13:45:00+00:00",
       "title": "Volatilities Fall On Oil/Yield Reprieve As The S&P Rallies Into Earnings Season",

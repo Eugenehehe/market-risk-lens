@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T10:26:38.049075+00:00",
+  "generated_at": "2026-10-14T15:22:18.234340+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 588.12,
-    "change_pct": -0.48562581431157437
+    "price": 572.65,
+    "change_pct": -2.63041556145005
   },
   "risk": {
-    "score": 54,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T23:52:01.094804+00:00",
-      "close": 573
-    },
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 573
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 588.12
+    },
+    {
+      "timestamp": "2026-10-14T15:22:18.234340+00:00",
+      "close": 572.65
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T10:40:00+00:00",
+      "title": "Spot-On: Is The Tech Sell-Off Overdone?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T09:59:47+00:00",
+      "title": "I'm Getting Even More Excited As AI Bubble Fears Return",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T09:30:00+00:00",
+      "title": "Nvidia's Valuation Is Becoming Absurdly Cheap",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T07:32:04+00:00",
+      "title": "Market Checkup In Ratio Charts",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T07:30:29+00:00",
+      "title": "A 2008-Style Doom Loop Is Building In Tech",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T06:05:00+00:00",
       "title": "Chart Of The Day: Chips Get Crunched On Chinese Competition",
@@ -525,46 +565,6 @@
       "timestamp": "2026-10-13T19:30:00+00:00",
       "title": "Banks And Tech Stocks Dominate",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T12:25:56+00:00",
-      "title": "Jim Cramer Calls the Chip Trade Broken, but Semiconductors Are Still Up 62% in 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T11:18:02+00:00",
-      "title": "Bank Bank Earnings, Chip Drama Roil Wall Street Pre-Bell; Asia Mixed, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T10:30:20+00:00",
-      "title": "Calm Down, The AI Bubble Won't Burst Just Yet",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T10:00:02+00:00",
-      "title": "More Than Hyperscale Capex In The AI Buildout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T08:25:51+00:00",
-      "title": "SK Hynix Stock Falls Below 200-Day Average: A Chinese Rival’s IPO Filing May Explain Why",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

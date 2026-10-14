@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T10:26:38.049075+00:00",
+  "generated_at": "2026-10-14T15:22:18.234340+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 68.81,
-    "change_pct": -2.161239869188103
+    "price": 65.31,
+    "change_pct": -5.086469989827059
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T23:52:01.094804+00:00",
-      "close": 60.76
-    },
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 60.76
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 68.81
+    },
+    {
+      "timestamp": "2026-10-14T15:22:18.234340+00:00",
+      "close": 65.31
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-13T18:19:43+00:00",
-      "title": "What Changed For HPE Stock, And What Did Not?",
+      "timestamp": "2026-10-14T13:39:49+00:00",
+      "title": "Dell downgraded, Texas Roadhouse upgraded: Wall Street's top analyst calls",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T14:15:05+00:00",
-      "title": "What Did Dell Stock Investors Miss Before The Run?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T14:13:10+00:00",
-      "title": "How Evercore’s Valuation-Driven Downgrade At Hewlett Packard Enterprise (HPE) Has Changed Its Investment Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T12:35:01+00:00",
-      "title": "Tuesday's pre-market session: top gainers and losers in the S&P500 index",
+      "timestamp": "2026-10-14T12:35:03+00:00",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Wednesday.",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T01:59:03+00:00",
-      "title": "Why Hewlett Packard Enterprise (HPE) Shares Are Trading Lower Today",
+      "timestamp": "2026-10-14T12:19:00+00:00",
+      "title": "HPE Stock and Dell Are Downgraded. No ‘Meaningful AI Inflection Yet.’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T23:09:49+00:00",
-      "title": "Did The Market Read Super Micro Computer Stock Right?",
+      "timestamp": "2026-10-14T12:09:03+00:00",
+      "title": "Dow Jones Futures Rise With Meta, AMD In Buy Areas; ASML Earnings Mixed, CPI Inflation Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T21:43:03+00:00",
-      "title": "3 Reasons We’re Fans of Hewlett Packard Enterprise (HPE)",
+      "timestamp": "2026-10-14T11:56:39+00:00",
+      "title": "Dow Jones Futures Rise, Techs Fall With ASML, BofA, Dell, HPE Early Movers; CPI Inflation Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-12T19:29:16+00:00",
-      "title": "Intel aims to boost AI turnaround with new GPU chips to take on Nvidia",
+      "timestamp": "2026-10-14T11:46:07+00:00",
+      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Albemarle, Alcoa, Brinker International, Dell Technologies, Garmin, Hewlett Packard Enterprise, Lockheed Martin, NetApp, Trane Technologies, and More",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T11:21:19+00:00",
+      "title": "Barclays Downgrades HPE, Dell, NetApp On Enterprise AI Spending Trends",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T10:22:55+00:00",
+      "title": "HPE, DELL, NTAP Stocks Downgraded, Barclays Sees No ‘Meaningful AI Inflection’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

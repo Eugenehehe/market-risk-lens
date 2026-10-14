@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T10:26:38.049075+00:00",
+  "generated_at": "2026-10-14T15:22:18.234340+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 543.9,
-    "change_pct": -0.17435991557309682
+    "price": 527.22,
+    "change_pct": -3.0667402095973406
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T23:52:01.094804+00:00",
-      "close": 533.07
-    },
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 533.07
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 543.9
+    },
+    {
+      "timestamp": "2026-10-14T15:22:18.234340+00:00",
+      "close": 527.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T10:40:00+00:00",
+      "title": "Spot-On: Is The Tech Sell-Off Overdone?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T09:59:47+00:00",
+      "title": "I'm Getting Even More Excited As AI Bubble Fears Return",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T08:00:00+00:00",
+      "title": "SHOC: Nvidia's Comeback Meets A Memory Boom",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T07:30:29+00:00",
+      "title": "A 2008-Style Doom Loop Is Building In Tech",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T06:05:00+00:00",
       "title": "Chart Of The Day: Chips Get Crunched On Chinese Competition",
@@ -533,38 +565,6 @@
       "timestamp": "2026-10-14T02:31:58+00:00",
       "title": "Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T01:57:54+00:00",
-      "title": "MU Stock Edges Up Overnight: Elon Musk Says Micron Is Being ‘Reasonable’ On Memory Prices While Others Are ‘Extortionate’",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T21:03:09+00:00",
-      "title": "You Bought a Semiconductor Fund. On $500,000, $87,743 of It Is NVIDIA",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T20:03:45+00:00",
-      "title": "Chips' Sixth Straight Loss Drags Nasdaq Into the Red",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T19:30:00+00:00",
-      "title": "Banks And Tech Stocks Dominate",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

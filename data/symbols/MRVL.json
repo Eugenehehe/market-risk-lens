@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T10:26:38.049075+00:00",
+  "generated_at": "2026-10-14T15:22:18.234340+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 268.725,
-    "change_pct": 1.0776348454073714
+    "price": 254.1,
+    "change_pct": -5.442366731789017
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T23:52:01.094804+00:00",
-      "close": 244.25
-    },
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 244.25
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 268.725
+    },
+    {
+      "timestamp": "2026-10-14T15:22:18.234340+00:00",
+      "close": 254.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T12:45:30+00:00",
+      "title": "One Stock Could Benefit as AI Spending Moves Beyond Nvidia",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T11:43:00+00:00",
+      "title": "Why the Chip Stocks Slump Is Deepening After ASML’s Strong Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T11:25:01+00:00",
+      "title": "Intel vs. Marvell Technology: Which Tech Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T10:43:00+00:00",
+      "title": "Corning, Marvell, ASML, BlackRock, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T09:27:00+00:00",
       "title": "As Big Tech Designs Its Own AI Chips, the Companies Behind the Scenes Win",
@@ -514,56 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-14T08:42:37+00:00",
+      "title": "Marvell: Buy For The Connectivity, Stay For The Custom Silicon",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T06:12:40+00:00",
+      "title": "Marvell: A $37.5 Billion Business Is Quietly Carrying The Growth Plan",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-14T04:57:53+00:00",
       "title": "Intel vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T19:00:11+00:00",
-      "title": "Marvell Is Up 214% in 2026 While Broadcom Is Only Up 3%: Take Profits on MRVL Stock, or Hold On for the Ride?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T19:00:00+00:00",
-      "title": "CyberTAN Unveils Pallas Series Liquid-Cooled 102.4 Tbps Ethernet Switch Platform Blueprint at OCP Global Summit 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T18:56:00+00:00",
-      "title": "Marvell Stock Is on a Bad Run, but Microsoft’s New AI Chips Can Revive It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T18:35:41+00:00",
-      "title": "Marvell (MRVL) Raises Its 2028 Revenue Target to $20 Billion. Can Growth Justify the Premium?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T18:19:04+00:00",
-      "title": "Marvell Technology, Kulicke and Soffa, Vishay Intertechnology, Allegro MicroSystems, and Amkor Shares Plummet, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T18:05:10+00:00",
-      "title": "Does The Drop In Credo Stock Change Anything?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

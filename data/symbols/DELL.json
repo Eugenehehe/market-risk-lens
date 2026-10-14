@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T10:26:38.049075+00:00",
+  "generated_at": "2026-10-14T15:22:18.234340+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 572.47,
-    "change_pct": -0.7438102503640964
+    "price": 522.44,
+    "change_pct": -8.739322584589582
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-20T23:52:01.094804+00:00",
-      "close": 568.06
-    },
     {
       "timestamp": "2026-09-21T02:33:46.702889+00:00",
       "close": 568.06
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 572.47
+    },
+    {
+      "timestamp": "2026-10-14T15:22:18.234340+00:00",
+      "close": 522.44
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-14T08:42:18+00:00",
-      "title": "SK Group Chief Reportedly Sells $406M Stake To Michael Dell’s Family Office Amid Divorce Settlement",
+      "timestamp": "2026-10-14T14:35:01+00:00",
+      "title": "These S&P500 stocks are gapping in today's session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T13:39:49+00:00",
+      "title": "Dell downgraded, Texas Roadhouse upgraded: Wall Street's top analyst calls",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T21:14:41+00:00",
-      "title": "Accenture (ACN) Deepens AI Push With New Deals And A Customer Data Buy",
+      "timestamp": "2026-10-14T13:17:18+00:00",
+      "title": "Sector Update: Tech Stocks Decline Pre-Bell Wednesday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T19:11:00+00:00",
-      "title": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in October",
+      "timestamp": "2026-10-14T13:00:00+00:00",
+      "title": "Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T18:34:40+00:00",
-      "title": "What Would Weak iPhone Demand Do To Apple Stock?",
+      "timestamp": "2026-10-14T12:35:03+00:00",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Wednesday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T12:19:00+00:00",
+      "title": "HPE Stock and Dell Are Downgraded. No ‘Meaningful AI Inflection Yet.’",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T18:19:43+00:00",
-      "title": "What Changed For HPE Stock, And What Did Not?",
+      "timestamp": "2026-10-14T12:09:03+00:00",
+      "title": "Dow Jones Futures Rise With Meta, AMD In Buy Areas; ASML Earnings Mixed, CPI Inflation Due",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-13T17:51:26+00:00",
-      "title": "Dell (DELL) Lost Its Discount. Did the Backlog Earn It?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T17:19:44+00:00",
-      "title": "Dell Stock Is Up 358% in 2026, but Free Cash Flow Fell 47% in Q2. Here’s Where the Stock Could Go by 2031",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-13T17:19:24+00:00",
-      "title": "Dell CEO Rejects AI Bubble Fears, Says Chip Supply Could Stay Tight Through 2030",
+      "timestamp": "2026-10-14T12:00:00+00:00",
+      "title": "CIBC to launch additional U.S. Canadian Depositary Receipts",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
