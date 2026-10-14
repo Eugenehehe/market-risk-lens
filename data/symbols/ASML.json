@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T19:32:22.884242+00:00",
+  "generated_at": "2026-10-14T22:34:35.592177+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1675.55,
-    "change_pct": -2.4572699329359238
+    "price": 1650,
+    "change_pct": -3.944672131147542
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T08:11:11.226387+00:00",
-      "close": 1679.92
-    },
     {
       "timestamp": "2026-09-21T15:07:12.827473+00:00",
       "close": 1693.54
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-14T19:32:22.884242+00:00",
       "close": 1675.55
+    },
+    {
+      "timestamp": "2026-10-14T22:34:35.592177+00:00",
+      "close": 1650
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T20:40:44+00:00",
+      "title": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T20:23:29+00:00",
+      "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T19:14:16+00:00",
+      "title": "3 Copper Stocks With ROE Up To 22%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T18:13:10+00:00",
+      "title": "ASML (ASML) Q3 2026 Earnings Call Transcript",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T17:50:35+00:00",
       "title": "ASML Says AI Boom Is Boosting Pricing Power as Chipmakers Agree to Pay More",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-10-14T16:54:52+00:00",
       "title": "Stock Market Today: Tech Hit Amid Hot Inflation Data; Nvidia Among The Losers (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:52:36+00:00",
-      "title": "European Stocks Close Higher Wednesday as Investors Parse Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:45:17+00:00",
-      "title": "Stock Market Today: Nasdaq Hit As Inflation Runs Hot; Dell Slumps, But These Biotech Names Gain (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:38:00+00:00",
-      "title": "ASML Earnings Point to Soaring AI Chip Demand. Why the Stock Isn’t Budging.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:36:00+00:00",
-      "title": "CoreWeave, HPE, Dell, Bank of America, Morgan Stanley, Bending Spoons, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

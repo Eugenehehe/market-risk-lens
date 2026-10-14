@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T19:32:22.884242+00:00",
+  "generated_at": "2026-10-14T22:34:35.592177+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 538.49,
-    "change_pct": -0.9126874597479184
+    "price": 533.69,
+    "change_pct": -1.7959333885361972
   },
   "risk": {
-    "score": 58,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T02:33:46.702889+00:00",
-      "close": 493.78
-    },
     {
       "timestamp": "2026-09-21T08:11:11.226387+00:00",
       "close": 493.78
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-14T15:22:18.234340+00:00",
       "close": 538.49
+    },
+    {
+      "timestamp": "2026-10-14T22:34:35.592177+00:00",
+      "close": 533.69
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-14T13:49:27+00:00",
-      "title": "Michael Burry Questions Microsoft’s AI Spending. Is Its Valuation Misleading?",
+      "timestamp": "2026-10-14T21:17:06+00:00",
+      "title": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:15:48+00:00",
-      "title": "Chevron’s Big Rally Couldn’t Erase a Decade of Underperformance",
+      "timestamp": "2026-10-14T21:03:27+00:00",
+      "title": "Should You Be Worried About Take-Two Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:14:00+00:00",
-      "title": "Voice AI model built to accurately capture real multilingual medical conversations",
+      "timestamp": "2026-10-14T20:35:00+00:00",
+      "title": "3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:00:31+00:00",
-      "title": "Palantir’s Earnings Gamble: Nine Straight Beats Set High Bar for Q3 Results",
+      "timestamp": "2026-10-14T20:14:33+00:00",
+      "title": "Should Honeywell’s AI Push and Kenya Megarefinery Win Require Action From Honeywell International (HON) Investors?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T13:00:00+00:00",
-      "title": "Rising Rates and Energy-Driven Inflation Impact Global Hedge Funds in September, Data Insights Reports",
+      "timestamp": "2026-10-14T19:50:10+00:00",
+      "title": "Sara Eisen Went on Bill Maher and Said What Wall Street Will Not About the AI Race",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T12:33:41+00:00",
-      "title": "Every Yield Trap Has a Tell. This $7,750-a-Month Portfolio Avoids All of Them",
+      "timestamp": "2026-10-14T19:40:05+00:00",
+      "title": "IonQ vs. Nebius Group: Which Technology Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T12:10:51+00:00",
-      "title": "How Investors May Respond To Enbridge (TSX:ENB) Sunrise Expansion And Reaffirmed 2026 Dividend Outlook",
+      "timestamp": "2026-10-14T19:20:00+00:00",
+      "title": "Amazon Is the Most Crowded Stock for Hedge Funds. Tesla, Not So Much.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T12:00:00+00:00",
-      "title": "PRG Partners with Devsinc to Build the Digital Foundation for Scalable Growth with Microsoft Dynamics 365",
+      "timestamp": "2026-10-14T19:15:49+00:00",
+      "title": "Open Cloud Security And Testing Partnerships Could Be A Game Changer For Oracle (ORCL)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "MSFT live fetch failed: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out.. Keeping previous snapshot."
+  "narrative": "MSFT quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

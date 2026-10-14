@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T19:32:22.884242+00:00",
+  "generated_at": "2026-10-14T22:34:35.592177+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 346.14,
-    "change_pct": -3.126136967899029
+    "price": 346.25,
+    "change_pct": -3.0953513755562434
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T08:11:11.226387+00:00",
-      "close": 357.61
-    },
     {
       "timestamp": "2026-09-21T15:07:12.827473+00:00",
       "close": 358.58
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-14T19:32:22.884242+00:00",
       "close": 346.14
+    },
+    {
+      "timestamp": "2026-10-14T22:34:35.592177+00:00",
+      "close": 346.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T20:46:00+00:00",
+      "title": "AMD Stock Takes a Bigger Hit as Cracks Emerge in the AI Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T19:59:41+00:00",
+      "title": "Can Marvell Stock Drop From Here?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T18:00:00+00:00",
+      "title": "TSM Earnings Tomorrow: Can Strong AI Demand Boost Q3 Results?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T17:00:00+00:00",
       "title": "TSMC Earnings Will Surge but Terafab and Texas Talks Are in Focus",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-14T15:20:00+00:00",
       "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:15:31+00:00",
-      "title": "Broadcom And 2 Cash Flow Stocks To Watch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:00:11+00:00",
-      "title": "The Real AI Opportunity at Marvell Is Just Starting to Emerge",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:00:00+00:00",
-      "title": "OcNOS Goes 102.4T: IP Infusion Announces Support for Broadcom Tomahawk 6 Platforms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
