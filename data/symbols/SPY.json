@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:34:35.592177+00:00",
+  "generated_at": "2026-10-15T00:49:26.496033+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.6,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T15:07:12.827473+00:00",
-      "close": 769.51
-    },
     {
       "timestamp": "2026-09-21T19:58:53.233158+00:00",
       "close": 773.83
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-10-14T22:34:35.592177+00:00",
       "close": 769.6
+    },
+    {
+      "timestamp": "2026-10-15T00:49:26.496033+00:00",
+      "close": 769.6
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-15T00:07:26+00:00",
+      "title": "S&P 500, Nasdaq See Worst Day In Over Two Months As Chipmaker Rout Deepens, CPI Data Comes In Hot — AAPL, SPCX, DRAM, SOXX In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T20:10:00+00:00",
+      "title": "CPI Pressures Markets And Fed Reserve's Move On Interest Rates",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-14T19:12:28+00:00",
       "title": "Robinhood Is Now Down 11% This Year. Is It Time to Sell?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T19:10:46+00:00",
+      "title": "The Impact The Upcoming Midterm Election May Have On The Economy And Equity Markets",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-14T18:06:43+00:00",
       "title": "Walmart Advances 3% as Inflation Data Sends Money Into Defensives; Costco and Target Edge Higher",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:57:55+00:00",
-      "title": "Unity Software Sinks 10% Despite Wedbush Target Hike on Vector Ad Platform; AppLovin Falls 3%, Trade Desk Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:50:28+00:00",
-      "title": "Could Russian Diesel Reduce American CPI?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:06:42+00:00",
-      "title": "Odds Of A Rate Hike Rise After The September CPI Report",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
