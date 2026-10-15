@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T19:01:31.354504+00:00",
+  "generated_at": "2026-10-15T22:09:36.070459+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 342.44,
-    "change_pct": -0.15162118031256666
+    "price": 342,
+    "change_pct": -0.2799160251924393
   },
   "risk": {
-    "score": 52,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T12:05:08.287402+00:00",
-      "close": 338.98
-    },
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 342.54
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 342.44
+    },
+    {
+      "timestamp": "2026-10-15T22:09:36.070459+00:00",
+      "close": 342
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-15T19:34:01+00:00",
+      "title": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T19:10:12+00:00",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-15T18:05:04+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Thursday's session.",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T18:00:14+00:00",
+      "title": "Tesla Roadster hype, the Meta-Apple AI deal, and how AI spending is saving the economy",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-15T17:11:00+00:00",
       "title": "Meet the Low-Cost Vanguard ETF With Taiwan Semiconductor, Samsung Electronics, SK Hynix, and ASML as Its 4 Largest Holdings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T16:47:46+00:00",
-      "title": "Apple Hits $5 Trillion Market Cap as Nvidia's Lead Shrinks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T16:44:18+00:00",
-      "title": "Apple Closes In On World's Most Valuable Company Crown — iPhone Duo Preorders, China AI Rollout In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T16:30:43+00:00",
-      "title": "Can You Buy Stocks With Crypto? Bybit Adds 1,000 US Stocks, but Not Every Version Gives You the Shares",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

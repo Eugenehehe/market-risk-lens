@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T19:01:31.354504+00:00",
+  "generated_at": "2026-10-15T22:09:36.070459+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 94.69,
-    "change_pct": -3.495719527109664
+    "price": 95.37,
+    "change_pct": -2.802690582959644
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T12:05:08.287402+00:00",
-      "close": 121.78
-    },
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 121.33
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 94.69
+    },
+    {
+      "timestamp": "2026-10-15T22:09:36.070459+00:00",
+      "close": 95.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-15T19:18:08+00:00",
+      "title": "Intel (INTC) Stock Dropped, So What Is Driving Attention Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T18:11:01+00:00",
+      "title": "Should You Buy The Dip In Marvell Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T18:05:04+00:00",
       "title": "Stay informed about the most active stocks in the S&P500 index on Thursday's session.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-15T14:30:17+00:00",
       "title": "BC-Most Active Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T14:02:00+00:00",
-      "title": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T13:42:37+00:00",
-      "title": "Nvidia stock falls amid concerns over AI financing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

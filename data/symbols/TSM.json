@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T19:01:31.354504+00:00",
+  "generated_at": "2026-10-15T22:09:36.070459+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 421.32,
-    "change_pct": -2.018604651162792
+    "price": 422.25,
+    "change_pct": -1.8023255813953476
   },
   "risk": {
-    "score": 67,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T12:05:08.287402+00:00",
-      "close": 445.14
-    },
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 447.78
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 421.32
+    },
+    {
+      "timestamp": "2026-10-15T22:09:36.070459+00:00",
+      "close": 422.25
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-15T16:47:00+00:00",
+      "title": "TSMC Q3: The AI Boom Isn't Fully Priced In",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T12:07:12+00:00",
       "title": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-15T10:39:48+00:00",
       "title": "Penguin Solutions shares are trading higher after the company reported better-than-expected Q2 financial results and raised its FY26 guidance. Also, Needham maintained its Buy rating on the stock and raised its price target from $25 to $27.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T10:36:00+00:00",
-      "title": "Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

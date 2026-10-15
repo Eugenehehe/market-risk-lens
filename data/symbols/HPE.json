@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T19:01:31.354504+00:00",
+  "generated_at": "2026-10-15T22:09:36.070459+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 59.18,
-    "change_pct": -6.227222310251945
+    "price": 58.63,
+    "change_pct": -7.098716526699411
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T12:05:08.287402+00:00",
-      "close": 61.75
-    },
     {
       "timestamp": "2026-09-22T16:52:40.311603+00:00",
       "close": 60.82
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 59.18
+    },
+    {
+      "timestamp": "2026-10-15T22:09:36.070459+00:00",
+      "close": 58.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-15T19:05:02+00:00",
+      "title": "Which S&P500 stocks are moving on Thursday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T17:28:27+00:00",
       "title": "Stocks making big moves yesterday: Cullen/Frost Bankers, Bank of America, State Street, Hewlett Packard Enterprise, and IonQ",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-15T12:52:07+00:00",
       "title": "Is SMCI Stock A Real Bargain?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T11:32:01+00:00",
-      "title": "Barclays Downgrades Dell Technologies Stock After Massive Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
