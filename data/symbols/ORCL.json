@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 130.55,
-    "change_pct": -8.833798882681554
+    "price": 131.41,
+    "change_pct": 0.6587514362313085
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 148.56
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 148.56
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 130.55
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 131.41
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-15T07:55:32+00:00",
-      "title": "Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T05:01:49+00:00",
-      "title": "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing",
+      "timestamp": "2026-10-15T12:50:11+00:00",
+      "title": "Bloom Energy Got Good News From Oracle and Fell Anyway. Is It Time to Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T01:48:01+00:00",
-      "title": "Oracle Sinks 9% on Hot Inflation Data: “Rates Now Reach Its Earnings”",
+      "timestamp": "2026-10-15T12:42:40+00:00",
+      "title": "Treasury Yields Dive For Wrong Reason As Neocloud Bonds Blow Up",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T01:36:42+00:00",
-      "title": "AI Debt Glut May Be Pushing Up US Government Borrowing Costs, BondCliQ CEO Says",
+      "timestamp": "2026-10-15T12:15:51+00:00",
+      "title": "What Sent CoreWeave Stock Lower?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T21:48:36+00:00",
-      "title": "Stock Market Today, Oct. 14: CoreWeave Plummets on Gartner Neocloud Warning and Bond Yield Surge",
+      "timestamp": "2026-10-15T12:06:00+00:00",
+      "title": "How Nvidia Could Stop the CoreWeave Panic",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T21:12:46+00:00",
-      "title": "Stock Market Today, Oct. 14: Oracle Tumbles on Hotter CPI Data Lifting Treasury Yields",
+      "timestamp": "2026-10-15T12:00:00+00:00",
+      "title": "Vertex Delivers Enhanced Value to Customers with Vertex O Series Tax Engine for Oracle Deployed on Oracle Cloud",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T20:40:44+00:00",
-      "title": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
+      "timestamp": "2026-10-15T11:15:16+00:00",
+      "title": "Apple Needs Just a 7% Gain to Become the World’s Most Valuable Company",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T20:23:29+00:00",
-      "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data",
+      "timestamp": "2026-10-15T10:46:22+00:00",
+      "title": "Global tech selloff deepens as enthusiasm for AI stocks wobbles",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T10:19:37+00:00",
+      "title": "$80 Billion Gone From AI In A Single Day: Brace Yourself, It's Not Over",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 914.13,
-    "change_pct": -4.097818902842043
+    "price": 911.54,
+    "change_pct": -0.28332950455625117
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 1043.96
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 1043.96
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 914.13
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 911.54
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-15T07:55:32+00:00",
-      "title": "Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq",
+      "timestamp": "2026-10-15T13:42:37+00:00",
+      "title": "Nvidia stock sinks amid concerns over AI financing",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T13:42:00+00:00",
+      "title": "Michael Burry Is Short This AI Darling. Should You Be Worried?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T13:28:00+00:00",
+      "title": "A 20% Drop in Smartphone Shipments Shows Who Wins When Memory Gets Expensive",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T13:09:28+00:00",
+      "title": "Micron (MU) Stock Fair Value Edges Higher After Analysts Lift Targets On AI Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T12:47:55+00:00",
+      "title": "Stock Market Today: Dow Rises, Nasdaq Tumbles As AI Worries Hit Major Players (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T12:45:10+00:00",
+      "title": "Seagate Could Have a Long Runway as Data Storage Demand Explodes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T12:35:01+00:00",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T05:18:10+00:00",
-      "title": "Netlist (NLST) Dropped, So What Is Behind Its Latest Move?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T03:55:00+00:00",
-      "title": "Q3 2026 Earnings Preview: Tech Dominance, Big Banks, And Rate Headwinds",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T02:49:27+00:00",
-      "title": "Global chip sell-off deepens as South Korean market plunges",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T22:26:00+00:00",
-      "title": "Broad-Based Growth Meets Bank Caution: The Evolving Q3 Earnings Picture",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T20:40:44+00:00",
-      "title": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T20:35:00+00:00",
-      "title": "3 Trillion-Dollar Giants That Could Be the Next Big Stock-Split Plays",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T20:23:29+00:00",
-      "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data",
+      "timestamp": "2026-10-15T12:27:00+00:00",
+      "title": "Micron Stock Falls Again as Memory-Chip Slump Persists. What Can Turn It Around.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

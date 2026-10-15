@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 346.25,
-    "change_pct": -3.0953513755562434
+    "price": 341.45,
+    "change_pct": -1.3862815884476576
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 362.66
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 362.66
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 346.25
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 341.45
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-15T07:55:32+00:00",
-      "title": "Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T06:16:06+00:00",
-      "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+      "timestamp": "2026-10-15T13:31:32+00:00",
+      "title": "Is There A Risk Hiding In AMD Stock's Big Run?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T05:58:26+00:00",
-      "title": "Broadcom vs. SK Hynix: Here's What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "timestamp": "2026-10-15T13:25:01+00:00",
+      "title": "Applied Materials vs. Broadcom: Which Tech Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T03:41:33+00:00",
-      "title": "Why Broadcom Is My Largest Stock Holding Today",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T03:26:59+00:00",
-      "title": "Broadcom's Risk Is Visible, Marvell's Isn't",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T03:17:33+00:00",
-      "title": "Broadcom And 2 Top AI Chip Stocks To Watch",
+      "timestamp": "2026-10-15T12:12:35+00:00",
+      "title": "Wall Street is 'tiring of the Bank of Nvidia, the Bank of AMD and the Bank of Broadcom': Baird's Mortonson",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T02:49:27+00:00",
-      "title": "Global chip sell-off deepens as South Korean market plunges",
+      "timestamp": "2026-10-15T11:30:00+00:00",
+      "title": "Big Tech Will Spend $745 Billion on AI This Year. These Stocks Get Paid on Every Dollar.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T02:47:00+00:00",
-      "title": "Elon Musk takes a direct swipe at Broadcom CEO and AI investors",
+      "timestamp": "2026-10-15T11:20:02+00:00",
+      "title": "Broadcom vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T11:01:14+00:00",
+      "title": "Applied Optoelectronics Stock Fell 12% on Hot Inflation. Opportunity or Falling Knife?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T10:45:36+00:00",
+      "title": "TSMC stock sinks despite record profit amid 'extremely robust demand' for AI chips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T10:45:36+00:00",
+      "title": "TSMC posts record profit amid 'extremely robust demand' for AI chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

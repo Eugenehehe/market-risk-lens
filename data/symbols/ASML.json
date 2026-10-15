@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1650,
-    "change_pct": -3.944672131147542
+    "price": 1634.54,
+    "change_pct": -0.9369696969697028
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 1711.32
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 1711.32
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 1650
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 1634.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-15T13:25:23+00:00",
+      "title": "Why Great Earnings Are Being Punished Right Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T11:28:40+00:00",
+      "title": "ASML Stock Falls Following a Slight Sales Miss in Q3",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T10:35:00+00:00",
+      "title": "ASML vs. Applied Materials: Which Chip-Equipment Stock Is the Better Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T09:52:19+00:00",
+      "title": "ASML: Indiscriminate Selloff Doesn't Make Much Sense",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T09:50:26+00:00",
+      "title": "Tech Stocks Slump as AI Rout Intensifies",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T08:22:42+00:00",
+      "title": "Global chipmakers sink as inflation data fuels rate-hike fears, AI rout",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T07:55:32+00:00",
       "title": "Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-10-15T07:40:48+00:00",
       "title": "European shares trip on global tech bump and U.S. inflation spike",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T06:10:34+00:00",
-      "title": "TSMC Q3 profit surges to record high on AI demand; says considering Texas fab",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T00:27:21+00:00",
-      "title": "Chip Rout Deepens as Rate Fears Collide With AI Funding Woes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T23:18:59+00:00",
-      "title": "Taiwan Semiconductor Manufacturing And 2 AI Chip Stocks To Watch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T22:22:46+00:00",
-      "title": "TSMC Results Face High Bar to Calm Global AI Stock Trade Jitters",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T22:02:01+00:00",
-      "title": "ASML Says AI Chip Demand Is Stretching Into 2030. It Already Expects Supply Shortages Through 2028.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T20:40:44+00:00",
-      "title": "CoreWeave, Intel, Micron, & other tech stocks are plummeting. Here's why.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

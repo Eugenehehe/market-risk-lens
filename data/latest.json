@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "NVDA",
-    "price": 221.3,
-    "change_pct": -3.1594608786977063
+    "price": 217.05,
+    "change_pct": -1.920469950293724
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/NVDA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 227.38
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 227.38
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 221.3
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 217.05
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-15T07:55:32+00:00",
-      "title": "Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T07:50:00+00:00",
-      "title": "Can Apple Overtake Nvidia as the World's Largest Company in 2027?",
+      "timestamp": "2026-10-15T13:56:00+00:00",
+      "title": "Tech sell-off rolls on as hot inflation data stokes rate worries",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T07:31:01+00:00",
-      "title": "Bloom Energy Stock Is 31% Below Its Record. Here's Where I Think It Will Be in 2030.",
+      "timestamp": "2026-10-15T13:44:02+00:00",
+      "title": "Apple Is Reportedly Bringing AI to China in December, but Not the New Siri",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T07:18:16+00:00",
-      "title": "Will Yum! Brands' (YUM) AI-Driven Operations and Supplier Strategy Shift Its Post-Pizza Hut Narrative?",
+      "timestamp": "2026-10-15T13:42:37+00:00",
+      "title": "Nvidia stock sinks amid concerns over AI financing",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T06:50:00+00:00",
-      "title": "1 of the Stock Market's Most Reliable Recession Warnings Just Disappeared. Here's What Usually Happens Next.",
+      "timestamp": "2026-10-15T13:42:00+00:00",
+      "title": "Michael Burry Is Short This AI Darling. Should You Be Worried?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T06:43:16+00:00",
-      "title": "Taiwan chip giant TSMC says net profit hit record in third quarter",
+      "timestamp": "2026-10-15T13:31:32+00:00",
+      "title": "Is There A Risk Hiding In AMD Stock's Big Run?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T06:25:00+00:00",
-      "title": "Google Just Started Paying SpaceX $920 Million a Month. Here's What That's Worth per Share.",
+      "timestamp": "2026-10-15T13:20:11+00:00",
+      "title": "Apple joins Nvidia in the $5 trillion market cap club",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T06:16:06+00:00",
-      "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+      "timestamp": "2026-10-15T13:07:00+00:00",
+      "title": "Virtuozzo Infrastructure System Advances with NVIDIA Updates and Lite Deployment Option",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T13:05:00+00:00",
+      "title": "Own Colgate-Palmolive By Oct. 20 to Qualify for Its Nov. 13 Dividend. Here's How Many Shares You'd Need for $1,000 in Yearly Dividends.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

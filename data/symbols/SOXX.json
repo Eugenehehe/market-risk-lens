@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 519.42,
-    "change_pct": -4.500827357970216
+    "price": 507.85,
+    "change_pct": -2.2274845019444656
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 559.34
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 559.34
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 519.42
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 507.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-15T13:08:47+00:00",
+      "title": "Taiwan Semiconductor Falls 3% Despite Record Quarterly Profit; Intel Drops 4%, AMD Slides 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T11:47:00+00:00",
+      "title": "The AI Selloff Is Bad but the Bond Market’s Reaction Is Worse",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T11:22:39+00:00",
+      "title": "Yardeni sees further valuation declines as risk-off sentiment persists",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T09:07:53+00:00",
+      "title": "SK Hynix’s Worst 7-Day Loss Since 2008: AI Bubble Bursting Or Historical Opportunity?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T05:52:58+00:00",
+      "title": "Peter Schiff Warns Trump’s ‘Booming’ Stock Market Boast Is a Mirage: 479 Stocks Hit 52-Week Lows on Wednesday, While Only 60 Set Highs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T02:39:38+00:00",
       "title": "SK Hynix Stock Plunges 11% in Seoul, Slips After Hours in New York as Hot CPI, Fed Hike Bets and AI Funding Worries Weigh",
@@ -525,46 +565,6 @@
       "timestamp": "2026-10-14T23:55:00+00:00",
       "title": "Review & Preview: Blistering in the Sun",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T20:34:47+00:00",
-      "title": "RBC Capital Markets Echoes Deutsche Bank In Asking Clients To Steer Clear Of Tech In Medium Term",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T20:02:10+00:00",
-      "title": "S&P 500 Tumbles in Worst Day Since July. Tech is Tanking.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:43:25+00:00",
-      "title": "SOXX Heads For 7th Straight Losing Session As Inflation, AI Spending Fears Deepen — Chip Stocks Face $1 Trillion Wipeout",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T15:47:00+00:00",
-      "title": "Why the Chip Stocks Slump Is Deepening After ASML’s Strong Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T10:40:00+00:00",
-      "title": "Spot-On: Is The Tech Sell-Off Overdone?",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

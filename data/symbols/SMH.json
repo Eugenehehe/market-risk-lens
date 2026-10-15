@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T10:07:19.317015+00:00",
+  "generated_at": "2026-10-15T14:58:34.724035+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 564.74,
-    "change_pct": -3.975379174318161
+    "price": 552.54,
+    "change_pct": -2.1602861493784875
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T01:36:41.826615+00:00",
-      "close": 596.03
-    },
     {
       "timestamp": "2026-09-22T06:46:36.753859+00:00",
       "close": 596.03
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-10-15T10:07:19.317015+00:00",
       "close": 564.74
+    },
+    {
+      "timestamp": "2026-10-15T14:58:34.724035+00:00",
+      "close": 552.54
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-15T11:26:05+00:00",
+      "title": "AI Bears March Down Wall Street Pre-Bell; Asia Down, Europe Off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T10:19:37+00:00",
+      "title": "$80 Billion Gone From AI In A Single Day: Brace Yourself, It's Not Over",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T09:55:23+00:00",
+      "title": "The Bond Market May Be The AI Trade's Biggest Challenge Yet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-15T06:37:37+00:00",
+      "title": "Don't Expect The Year-End Rally - The Selloff Is Just Getting Started",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-14T20:34:47+00:00",
       "title": "RBC Capital Markets Echoes Deutsche Bank In Asking Clients To Steer Clear Of Tech In Medium Term",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T16:52:37+00:00",
+      "title": "Michael Burry Buys China Stocks While Shorting Nasdaq: These ETFs Capture His Bet",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -522,49 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-14T11:34:54+00:00",
-      "title": "Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T11:25:26+00:00",
-      "title": "Oil, ASML Earnings, Inflation Report Stall Wall Street Pre-Bell; Asia Mixed, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T10:40:00+00:00",
-      "title": "Spot-On: Is The Tech Sell-Off Overdone?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T09:59:47+00:00",
-      "title": "I'm Getting Even More Excited As AI Bubble Fears Return",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T09:30:00+00:00",
-      "title": "Nvidia's Valuation Is Becoming Absurdly Cheap",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T07:32:04+00:00",
-      "title": "Market Checkup In Ratio Charts",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-10-14T13:49:09+00:00",
+      "title": "Elon Musk Backs Micron As MU Stock Falls 25%: Is This Memory ETF an AI Stock Bargain?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
