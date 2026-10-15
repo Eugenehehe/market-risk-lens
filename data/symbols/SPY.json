@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:49:26.496033+00:00",
+  "generated_at": "2026-10-15T05:20:18.120341+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.6,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T19:58:53.233158+00:00",
-      "close": 773.83
-    },
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 773.5
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 769.6
+    },
+    {
+      "timestamp": "2026-10-15T05:20:18.120341+00:00",
+      "close": 769.6
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-15T01:22:15+00:00",
+      "title": "FISV, NU, LPLA: Analyst Picks Top 3 Financial Stocks In ‘Forgettable Year’ For Sector",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-15T00:07:26+00:00",
       "title": "S&P 500, Nasdaq See Worst Day In Over Two Months As Chipmaker Rout Deepens, CPI Data Comes In Hot — AAPL, SPCX, DRAM, SOXX In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T23:30:00+00:00",
+      "title": "Market Cap Disconnects",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T21:30:00+00:00",
+      "title": "Inside The Consumer Price Index: September 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T20:30:00+00:00",
+      "title": "Consumer Price Index: Inflation At 3.7% In September",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,38 +565,6 @@
       "timestamp": "2026-10-14T19:10:46+00:00",
       "title": "The Impact The Upcoming Midterm Election May Have On The Economy And Equity Markets",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T18:39:12+00:00",
-      "title": "What is Union Pacific’s (UNP) Economic Moat, and is it Widening or Narrowing?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T18:38:36+00:00",
-      "title": "Marsh McLennan (MRSH) vs Aon (AON): Which Insurance Broker is a Better Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T18:37:47+00:00",
-      "title": "What is American Water Works’ (AWK) Economic Moat, and is it Widening or Narrowing?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T18:06:43+00:00",
-      "title": "Walmart Advances 3% as Inflation Data Sends Money Into Defensives; Costco and Target Edge Higher",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

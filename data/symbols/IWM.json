@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:49:26.496033+00:00",
+  "generated_at": "2026-10-15T05:20:18.120341+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 271.37,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T19:58:53.233158+00:00",
-      "close": 285.81
-    },
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 285.58
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 271.37
+    },
+    {
+      "timestamp": "2026-10-15T05:20:18.120341+00:00",
+      "close": 271.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-14T23:30:00+00:00",
+      "title": "Market Cap Disconnects",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T21:30:00+00:00",
+      "title": "Inside The Consumer Price Index: September 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T20:30:00+00:00",
+      "title": "Consumer Price Index: Inflation At 3.7% In September",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-14T20:10:00+00:00",
       "title": "CPI Pressures Markets And Fed Reserve's Move On Interest Rates",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-14T13:11:41+00:00",
       "title": "Today's CPI Surprised To The Upside--And Food Hasn't Even Hit Yet",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T13:10:06+00:00",
-      "title": "This Trend Change Is Most Concerning In September's CPI Report",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T12:56:11+00:00",
-      "title": "The Brutal Inequality Of The U.S. Economy As Inflation Hits Consumers",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T12:30:09+00:00",
-      "title": "September CPI Proved Me Wrong",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:49:26.496033+00:00",
+  "generated_at": "2026-10-15T05:20:18.120341+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 342.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T19:58:53.233158+00:00",
-      "close": 338.9
-    },
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 338.98
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 342.96
+    },
+    {
+      "timestamp": "2026-10-15T05:20:18.120341+00:00",
+      "close": 342.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-15T01:19:10+00:00",
+      "title": "Is Netflix Stock Worth More Than Its Competitors?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T00:07:26+00:00",
       "title": "S&P 500, Nasdaq See Worst Day In Over Two Months As Chipmaker Rout Deepens, CPI Data Comes In Hot — AAPL, SPCX, DRAM, SOXX In Focus",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-14T19:17:53+00:00",
       "title": "Reese Witherspoon Buys Back Production Firm With Mediawan",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T19:08:56+00:00",
-      "title": "OpenAI Employee Allegedly Took Secret AI Device Files to Apple, Presented it to Top Executives.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

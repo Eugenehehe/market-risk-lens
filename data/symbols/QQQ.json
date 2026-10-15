@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:49:26.496033+00:00",
+  "generated_at": "2026-10-15T05:20:18.120341+00:00",
   "snapshot": {
     "symbol": "QQQ",
     "price": 728.95,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-21T19:58:53.233158+00:00",
-      "close": 741.72
-    },
     {
       "timestamp": "2026-09-21T23:11:08.830201+00:00",
       "close": 741.47
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 728.95
+    },
+    {
+      "timestamp": "2026-10-15T05:20:18.120341+00:00",
+      "close": 728.95
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-10-14T23:43:01+00:00",
       "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T23:30:00+00:00",
+      "title": "Market Cap Disconnects",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T21:30:00+00:00",
+      "title": "Inside The Consumer Price Index: September 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-14T20:30:00+00:00",
+      "title": "Consumer Price Index: Inflation At 3.7% In September",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-14T18:01:04+00:00",
       "title": "SK Hynix Sinks 5% as China’s CXMT Aims at Server Memory; Western Digital Drops 4%, Micron Falls 3%",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:50:28+00:00",
-      "title": "Could Russian Diesel Reduce American CPI?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:08:25+00:00",
-      "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T17:06:42+00:00",
-      "title": "Odds Of A Rate Hike Rise After The September CPI Report",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
