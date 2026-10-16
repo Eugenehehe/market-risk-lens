@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:23:56.160362+00:00",
+  "generated_at": "2026-10-16T04:48:17.452040+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 241.24,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T19:58:59.175655+00:00",
-      "close": 262.68
-    },
     {
       "timestamp": "2026-09-22T22:52:34.454526+00:00",
       "close": 262.36
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-16T00:23:56.160362+00:00",
       "close": 241.24
+    },
+    {
+      "timestamp": "2026-10-16T04:48:17.452040+00:00",
+      "close": 241.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T01:13:05+00:00",
+      "title": "Marvell Technology (MRVL), What Is Driving The Attention Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-15T18:11:01+00:00",
       "title": "Should You Buy The Dip In Marvell Stock?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-15T13:42:36+00:00",
       "title": "The Case For NVIDIA Stock Rests On One Thing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T13:31:32+00:00",
-      "title": "Is There A Risk Hiding In AMD Stock's Big Run?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
