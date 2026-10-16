@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T17:58:53.559636+00:00",
+  "generated_at": "2026-10-16T20:55:25.472206+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 459.1,
-    "change_pct": -3.0186526965081617
+    "price": 451.71,
+    "change_pct": -4.579733412197129
   },
   "risk": {
-    "score": 75,
+    "score": 76,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T11:09:54.948543+00:00",
-      "close": 548.92
-    },
     {
       "timestamp": "2026-09-23T15:26:51.128157+00:00",
       "close": 555.4
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-16T17:58:53.559636+00:00",
       "close": 459.1
+    },
+    {
+      "timestamp": "2026-10-16T20:55:25.472206+00:00",
+      "close": 451.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T17:55:00+00:00",
+      "title": "HPE Stock’s Worst Week Ever Exposes Wall Street’s Newest Fear",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T17:30:21+00:00",
+      "title": "Michael Dell Warns Memory Shortage Could Be a 'Four-Year Problem'",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T17:30:19+00:00",
+      "title": "Dell Stock Could Be an Under-the-Radar AI Winner. Here’s My 2027 Price Prediction",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T16:42:58+00:00",
+      "title": "Has Buying HPE Stock's Dips Paid Off?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T15:50:00+00:00",
+      "title": "How Dell Transformed From PC King to AI Infrastructure Giant",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-16T15:42:22+00:00",
       "title": "Hewlett Packard Enterprise Falls 5% as AI Financing Worries Extend Hardware Selloff; Super Micro Sinks 7%, Dell Drops 3%",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-10-16T13:38:21+00:00",
       "title": "How Much Of Apple Stock Rides On One Product?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T12:00:00+00:00",
-      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T11:55:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights CoreWeave, Dell Technologies and Nebius",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T08:13:18+00:00",
-      "title": "US Stock Market Today: S&P 500 Futures Ease As Hot Core CPI Hits Rate Hopes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T08:06:42+00:00",
-      "title": "Breaking Down The Incredible Rise Of Esports",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T05:19:10+00:00",
-      "title": "Is Investor Day Outlook Altering The Investment Case For Accenture (ACN)?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
