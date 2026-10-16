@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T09:20:50.530751+00:00",
+  "generated_at": "2026-10-16T14:04:09.310327+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 931.24,
-    "change_pct": 1.871725028168858
+    "price": 896.61,
+    "change_pct": -3.718697650444569
   },
   "risk": {
-    "score": 65,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T01:07:57.790839+00:00",
-      "close": 1096.16
-    },
     {
       "timestamp": "2026-09-23T05:56:49.265557+00:00",
       "close": 1096.16
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-16T09:20:50.530751+00:00",
       "close": 931.24
+    },
+    {
+      "timestamp": "2026-10-16T14:04:09.310327+00:00",
+      "close": 896.61
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-16T07:57:02+00:00",
-      "title": "Micron Stock Is 25% Below Its June Record. Is It a Buy Now?",
+      "timestamp": "2026-10-16T12:35:00+00:00",
+      "title": "Which S&P500 stocks are moving before the opening bell on Friday?",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:06:04+00:00",
+      "title": "Memory Stocks Slide 17%: Cheap Forward Multiples Face an AI-Cycle Reality Check",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T11:25:02+00:00",
+      "title": "Meet the New Nasdaq-100 Stock That’s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T05:16:32+00:00",
-      "title": "Is Chinese Memory Competition Altering The Investment Case For Micron Stock (MU)?",
+      "timestamp": "2026-10-16T10:45:00+00:00",
+      "title": "Why Micron Stock’s Drop Is Triggering ‘Buy the Dip’ Calls",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T04:50:00+00:00",
-      "title": "Micron Is Down 23% From Its High. History Suggests This Is What Happens Next.",
+      "timestamp": "2026-10-16T10:42:58+00:00",
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; Tesla to Advance, CoreWeave to Decline",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T22:33:00+00:00",
-      "title": "Michael Burry doubles down on his stock market bet",
+      "timestamp": "2026-10-16T10:00:00+00:00",
+      "title": "Memory stocks slide into another bear market as chip losses near $2.5 trillion: Chart of the Day",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T21:00:20+00:00",
-      "title": "Cathie Wood Says the Memory Chip Trend Is Up but the Cycles Are ‘Vicious’",
+      "timestamp": "2026-10-16T09:36:01+00:00",
+      "title": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T20:30:16+00:00",
-      "title": "Stock Market Today: Dow Pops 550 Points As Yields Sink; Dell Sets Off Sell Signals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T20:30:00+00:00",
-      "title": "Prediction: This Is What $2,000 Invested in Micron Stock Today Could Be Worth by 2029",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T20:05:00+00:00",
-      "title": "I Just Bought Micron Stock. Here's Why",
+      "timestamp": "2026-10-16T09:03:29+00:00",
+      "title": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

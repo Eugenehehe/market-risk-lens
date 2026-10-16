@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T09:20:50.530751+00:00",
+  "generated_at": "2026-10-16T14:04:09.310327+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 539.44,
-    "change_pct": 1.0774044857501552
+    "price": 536.7,
+    "change_pct": -0.5079341539374171
   },
   "risk": {
-    "score": 59,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-22T22:52:34.454526+00:00",
-      "close": 498
-    },
     {
       "timestamp": "2026-09-23T01:07:57.790839+00:00",
       "close": 498
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-16T09:20:50.530751+00:00",
       "close": 539.44
+    },
+    {
+      "timestamp": "2026-10-16T14:04:09.310327+00:00",
+      "close": 536.7
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T11:15:00+00:00",
+      "title": "NiSource announces long-term agreement with Microsoft expected to increase customer savings and support Indiana’s economic growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T11:00:00+00:00",
+      "title": "Palantir, Apple and Microsoft Brace for Democrats to Go on Offensive",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T10:11:51+00:00",
+      "title": "Microsoft's Business Software Proposed to Receive Increased UK Regulatory Scrutiny",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T09:14:38+00:00",
+      "title": "Palantir: The Growth Investor's Case For Buying At A Premium",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T09:13:00+00:00",
+      "title": "Microsoft CEO Satya Nadella Just Shared Bad News for Nvidia and Great News for This Rival Chipmaker",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T08:49:14+00:00",
+      "title": "Nvidia: Jensen Can't Spend His Way Out Of This One",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-16T07:45:01+00:00",
       "title": "Clash of the Billionaires: Bill Gates Says Musk Is “Mean” to Him, but He’s “Brilliant”",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-10-16T05:19:10+00:00",
       "title": "Is Investor Day Outlook Altering The Investment Case For Accenture (ACN)?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T04:55:06+00:00",
-      "title": "Anthropic’s $2 Trillion IPO Dream Meets a $1.5 Trillion Reality Check",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T04:29:05+00:00",
-      "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T03:23:15+00:00",
-      "title": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T00:48:32+00:00",
-      "title": "Should You Buy Adobe Stock For Its Cash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T00:03:00+00:00",
-      "title": "UnitedHealth Fell 51.32%, Then Rose 40.64%. DIA’s Exposure Followed Both Moves by Design",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T22:01:00+00:00",
-      "title": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

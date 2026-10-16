@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T09:20:50.530751+00:00",
+  "generated_at": "2026-10-16T14:04:09.310327+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 473.39,
-    "change_pct": -6.800149626917095
+    "price": 459.99,
+    "change_pct": -2.8306470352140845
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T01:07:57.790839+00:00",
-      "close": 548.92
-    },
     {
       "timestamp": "2026-09-23T05:56:49.265557+00:00",
       "close": 548.92
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-16T09:20:50.530751+00:00",
       "close": 473.39
+    },
+    {
+      "timestamp": "2026-10-16T14:04:09.310327+00:00",
+      "close": 459.99
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T08:13:18+00:00",
+      "title": "US Stock Market Today: S&P 500 Futures Ease As Hot Core CPI Hits Rate Hopes",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T08:06:42+00:00",
+      "title": "Breaking Down The Incredible Rise Of Esports",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-16T05:19:10+00:00",
       "title": "Is Investor Day Outlook Altering The Investment Case For Accenture (ACN)?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-15T19:46:25+00:00",
       "title": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T19:36:28+00:00",
-      "title": "Stock Market Today: Nasdaq Pares Loss As Yields Dive; Drug Giant Hits All-Time High (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T19:31:09+00:00",
-      "title": "Michael Dell Loses Title of World’s Fourth Richest Person After $36 Billion Drop in Net Worth in Two Days",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
