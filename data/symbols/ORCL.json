@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 132.5,
-    "change_pct": -1.4650107830742942
+    "price": 128.61,
+    "change_pct": -4.357849334424024
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 149.2
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 149.2
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 132.5
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 128.61
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-16T11:35:00+00:00",
-      "title": "Oracle's Cloud Backlog Just Hit $664 Billion. Here's What a $1,000 Investment Could Be Worth If It Converts to Revenue on Schedule.",
+      "timestamp": "2026-10-16T15:31:00+00:00",
+      "title": "AI Cloud Spending Is Splitting Companies Into the Funded and the Stretched",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T10:54:40+00:00",
-      "title": "Stay risk-off as higher real yields and AI volatility threaten stocks: BofA",
+      "timestamp": "2026-10-16T14:13:00+00:00",
+      "title": "CoreWeave Drops. Even Jensen Huang and Cathie Wood Can’t Buoy the Stock.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T09:47:00+00:00",
-      "title": "Oracle Data Center Energy Profile - 2026 Sustainability and Emissions Analysis | 24% Energy CAGR and Stargate Expansion Drive Renewable Investment and Carbon Risk",
+      "timestamp": "2026-10-16T13:57:00+00:00",
+      "title": "From AI laggard to $5 Trillion: Apple's winning strategy",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T09:30:00+00:00",
-      "title": "CoreWeave Stock Drops. Why AI Debt Fears Aren’t Over Despite Nvidia’s Confidence.",
+      "timestamp": "2026-10-16T13:41:22+00:00",
+      "title": "How Oracle Corporation (ORCL) Captures Mission-Critical Hyperscaler Workloads?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T08:14:01+00:00",
-      "title": "3 Growth Stocks With Revenue Growth Over 20%",
+      "timestamp": "2026-10-16T13:19:02+00:00",
+      "title": "We're in pullback for AI again, but fundamentals are strong: Silvant's Sansoterra",
+      "source": "CNBC",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:54:06+00:00",
+      "title": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:50:50+00:00",
+      "title": "Who’s Really Paying for the AI Boom? The Bond Market Is Starting to Ask",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T03:23:15+00:00",
-      "title": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T00:48:32+00:00",
-      "title": "Should You Buy Adobe Stock For Its Cash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T22:13:29+00:00",
-      "title": "Top 3 Tech Stocks To Watch In October 2026",
+      "timestamp": "2026-10-16T12:37:52+00:00",
+      "title": "This Week In Cloud AI - Akamai Technologies Boosts Global Cloud Service Adoption",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

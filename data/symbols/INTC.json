@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 93.04,
-    "change_pct": -2.4431162839467335
+    "price": 90.9,
+    "change_pct": -4.687008493236866
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 123.86
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 123.86
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 93.04
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 90.9
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-16T11:15:03+00:00",
-      "title": "Why AMD’s CUDA-Challenging AI Playbook Makes It the Ultimate Asymmetric Buy.",
+      "timestamp": "2026-10-16T15:00:00+00:00",
+      "title": "Is the AI Bubble Cracking? Chip Stocks Fall for 8 Straight Days",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T09:51:00+00:00",
-      "title": "Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling",
+      "timestamp": "2026-10-16T14:54:02+00:00",
+      "title": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T09:03:29+00:00",
-      "title": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout",
+      "timestamp": "2026-10-16T14:45:46+00:00",
+      "title": "The AI Supercycle Isn’t Slowing Down, and Nvidia’s Compute Moat Just Got Deeper.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T02:13:38+00:00",
-      "title": "SOXX Extends Selloff After 8-Day Decline, KOSPI Rebounds: Jim Cramer Calls SK Hynix ‘Epicenter Of Fear’",
+      "timestamp": "2026-10-16T14:30:17+00:00",
+      "title": "BC-Most Active Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T00:01:45+00:00",
-      "title": "Jim Cramer Says Starbucks Can Rise On Its Own, Apple’s Audience Is Worth Paying For, And Intel Investors Need Patience",
+      "timestamp": "2026-10-16T14:07:50+00:00",
+      "title": "How Much Upside Is Left In Micron Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T19:18:08+00:00",
-      "title": "Intel (INTC) Stock Dropped, So What Is Driving Attention Now?",
+      "timestamp": "2026-10-16T13:49:39+00:00",
+      "title": "Is AMD Stock Safer Or Riskier Than A Year Ago?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-15T18:11:01+00:00",
-      "title": "Should You Buy The Dip In Marvell Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T18:05:04+00:00",
-      "title": "Stay informed about the most active stocks in the S&P500 index on Thursday's session.",
+      "timestamp": "2026-10-16T12:54:06+00:00",
+      "title": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:48:00+00:00",
+      "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

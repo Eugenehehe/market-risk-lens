@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 504.52,
-    "change_pct": -1.9797555905267106
+    "price": 498.62,
+    "change_pct": -3.1260321346000763
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 572.78
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 572.78
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 504.52
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 498.62
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-10-16T06:11:31+00:00",
       "title": "Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T05:47:09+00:00",
+      "title": "Mike Novogratz Warns Nasdaq Could Plunge 30% in an ‘AI Catastrophe’ — Here’s Why He Still Expects the Data Center Boom to Continue",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-15T23:55:00+00:00",
       "title": "Review & Preview: Bounce Back",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T22:30:00+00:00",
-      "title": "Not The Best October For Semis",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

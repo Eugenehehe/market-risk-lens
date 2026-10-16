@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 338.79,
-    "change_pct": -1.6089216739755385
+    "price": 331.97,
+    "change_pct": -3.58957976359886
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 364.54
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 364.54
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 338.79
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 331.97
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-16T10:45:09+00:00",
-      "title": "Capital Over Chips: Broadcom CEO Warns Financing Costs Could Slow AI Expansion",
+      "timestamp": "2026-10-16T15:32:06+00:00",
+      "title": "Billionaire Ray Dalio Says an AI-Fueled $4.4 Trillion Debt Crisis Is Coming",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T09:04:00+00:00",
-      "title": "Not AMD. Not Broadcom. This is the Chip Designer Nvidia Investors Should Be Watching",
+      "timestamp": "2026-10-16T15:21:01+00:00",
+      "title": "Why Long-Term Conviction Remains Intact for Broadcom (AVGO)?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T07:25:11+00:00",
-      "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T07:23:50+00:00",
-      "title": "AI Capex, Gamble or Jackpot?: Market Snapshot",
+      "timestamp": "2026-10-16T13:49:39+00:00",
+      "title": "Is AMD Stock Safer Or Riskier Than A Year Ago?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-16T05:35:15+00:00",
-      "title": "Taiwan Semiconductor Holds the Cards As NVIDIA, Apple and AMD Battle for Limited AI Chip Capacity",
+      "timestamp": "2026-10-16T12:54:06+00:00",
+      "title": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:16:01+00:00",
+      "title": "Got $1,000? 1 Top Stock to Buy Amid the Semiconductor Sell-Off Before It Triples by 2030",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:00:34+00:00",
+      "title": "How AI Chips Will Power Google Cloud Revenue In 2027 And Beyond",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T11:37:36+00:00",
+      "title": "Latest News In AI Chips - Innovative AI Tech Transforms Edge Devices with Sequora Processor",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T11:00:20+00:00",
+      "title": "9 Of 11 Sectors Rise In Friday Trading As Cyclicals Lead",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T03:13:30+00:00",
-      "title": "Will AI Spending Warning Change Broadcom (AVGO) Narrative",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T20:13:00+00:00",
-      "title": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T19:22:58+00:00",
-      "title": "This AI rout is just another scare for investors",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

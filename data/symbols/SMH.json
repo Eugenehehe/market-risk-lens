@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 550.06,
-    "change_pct": -1.5711115882900417
+    "price": 544.36,
+    "change_pct": -2.5910815260181796
   },
   "risk": {
-    "score": 63,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 607.46
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 607.46
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 550.06
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 544.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T12:30:14+00:00",
+      "title": "CHPY: The Chip Dip Makes It A Buy For Income (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T10:11:09+00:00",
+      "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-16T09:08:08+00:00",
       "title": "My AI Bubble Shopping List: 3 Easy Strong Buys",
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-15T16:27:19+00:00",
+      "title": "QUICK SPARK: DRAM ETF Extends Losing Streak, But CEO Sees Long-Term Upside",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-15T15:09:07+00:00",
       "title": "Collect Monthly Income From The AI Copper Trade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T13:51:40+00:00",
-      "title": "SMH: The AI Capex Boom Is Far From Over, And Chips Are On Sale",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T11:26:05+00:00",
-      "title": "AI Bears March Down Wall Street Pre-Bell; Asia Down, Europe Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T10:19:37+00:00",
-      "title": "$80 Billion Gone From AI In A Single Day: Brace Yourself, It's Not Over",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

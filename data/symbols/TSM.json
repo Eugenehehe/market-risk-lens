@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 415.07,
-    "change_pct": -1.700414446417997
+    "price": 413.08,
+    "change_pct": -2.171699230313795
   },
   "risk": {
-    "score": 64,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 452
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 452
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 415.07
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 413.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T12:54:06+00:00",
+      "title": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-16T06:24:14+00:00",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-16T05:35:15+00:00",
+      "title": "Taiwan Semiconductor Holds the Cards As NVIDIA, Apple and AMD Battle for Limited AI Chip Capacity",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-16T03:23:15+00:00",
       "title": "AI's Credit Scare Is Sorting The Strong From The Borrowed",
       "source": "SeekingAlpha",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-16T02:50:02+00:00",
       "title": "TSMC Just Posted Record Profit for the Sixth Straight Quarter. Why Did the Stock Fall?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T01:40:10+00:00",
-      "title": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T00:03:00+00:00",
-      "title": "Semiconductors Are Becoming More Complex. This Spinoff Provides an Easy Way to Profit.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

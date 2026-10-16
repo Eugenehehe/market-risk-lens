@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T14:04:09.310327+00:00",
+  "generated_at": "2026-10-16T17:58:53.559636+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 459.99,
-    "change_pct": -2.8306470352140845
+    "price": 459.1,
+    "change_pct": -3.0186526965081617
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T05:56:49.265557+00:00",
-      "close": 548.92
-    },
     {
       "timestamp": "2026-09-23T11:09:54.948543+00:00",
       "close": 548.92
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 459.99
+    },
+    {
+      "timestamp": "2026-10-16T17:58:53.559636+00:00",
+      "close": 459.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-16T15:42:22+00:00",
+      "title": "Hewlett Packard Enterprise Falls 5% as AI Financing Worries Extend Hardware Selloff; Super Micro Sinks 7%, Dell Drops 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T14:33:01+00:00",
+      "title": "Why Hewlett Packard Enterprise Stock Plunged 20% This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T13:38:21+00:00",
+      "title": "How Much Of Apple Stock Rides On One Product?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T12:00:00+00:00",
+      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-16T11:55:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights CoreWeave, Dell Technologies and Nebius",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-16T08:13:18+00:00",
       "title": "US Stock Market Today: S&P 500 Futures Ease As Hot Core CPI Hits Rate Hopes",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-10-16T05:19:10+00:00",
       "title": "Is Investor Day Outlook Altering The Investment Case For Accenture (ACN)?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T23:27:48+00:00",
-      "title": "‘Huge’ AI correction ahead: Where to move your money now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T22:25:19+00:00",
-      "title": "Dell stock tumbles 8% in a day. Here’s why",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T20:45:05+00:00",
-      "title": "Dell Technologies (DELL) Stock Drops Despite Market Gains: Important Facts to Note",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T20:30:16+00:00",
-      "title": "Stock Market Today: Dow Pops 550 Points As Yields Sink; Dell Sets Off Sell Signals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-15T19:46:25+00:00",
-      "title": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
