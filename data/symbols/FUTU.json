@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T23:16:54.052544+00:00",
+  "generated_at": "2026-10-17T01:21:37.249524+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 105.48,
     "change_pct": -3.934426229508192
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T19:09:49.067634+00:00",
-      "close": 110.18
-    },
     {
       "timestamp": "2026-09-23T22:17:18.438835+00:00",
       "close": 109.99
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-16T23:16:54.052544+00:00",
       "close": 105.48
+    },
+    {
+      "timestamp": "2026-10-17T01:21:37.249524+00:00",
+      "close": 105.48
     }
   ],
   "events": [
@@ -509,14 +509,6 @@
       "timestamp": "2026-10-15T08:11:47+00:00",
       "title": "3 Stocks To Watch As Higher Cash Yields Reshape Brokerage And Wealth Platforms",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T10:46:29+00:00",
-      "title": "PayPay shares are trading higher after Goldman Sachs initiated coverage on the stock with a Buy rating and announced a $29 price target.",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

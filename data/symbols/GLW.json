@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T23:16:54.052544+00:00",
+  "generated_at": "2026-10-17T01:21:37.249524+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 132,
     "change_pct": -4.644946904572711
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-23T19:09:49.067634+00:00",
-      "close": 155.19
-    },
     {
       "timestamp": "2026-09-23T22:17:18.438835+00:00",
       "close": 154.48
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-16T23:16:54.052544+00:00",
       "close": 132
+    },
+    {
+      "timestamp": "2026-10-17T01:21:37.249524+00:00",
+      "close": 132
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-10-15T08:11:28+00:00",
       "title": "Is Corning (GLW) Quietly Redefining Its AI and Life Sciences Edge With New Long-Term Deals?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T10:43:00+00:00",
-      "title": "Corning, Marvell, ASML, BlackRock, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T08:07:00+00:00",
-      "title": "Global 3D Cell Culture Technologies Market Report 2026-2030 | Capitalize on 19.9% CAGR as Merck KGaA, Corning, Thermo Fisher Scientific, Sartorius, and Lonza Scale Organoids",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T08:02:00+00:00",
-      "title": "Global Cell Culture Consumables and Equipment Market Report 2026 | Capitalize on Automation and Cell Therapy as Thermo Fisher, Danaher, Sartorius and Corning Target $25.49B by 2030",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-14T00:19:38+00:00",
-      "title": "Was There Any Sign Coherent Stock Would Run?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
