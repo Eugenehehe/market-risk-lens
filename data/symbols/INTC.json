@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:47:17.362145+00:00",
+  "generated_at": "2026-10-17T09:44:15.448896+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 89.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-24T00:35:21.238944+00:00",
-      "close": 122.6
-    },
     {
       "timestamp": "2026-09-24T05:21:17.249568+00:00",
       "close": 122.6
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-17T05:47:17.362145+00:00",
       "close": 89.85
+    },
+    {
+      "timestamp": "2026-10-17T09:44:15.448896+00:00",
+      "close": 89.85
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-16T18:00:41+00:00",
+      "title": "Most Active Stocks by Volume on October 16, 2026",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-16T17:02:00+00:00",
       "title": "Should You Hold on to Cerebras Stock Despite Its 25% One-Month Dip?",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-16T15:10:04+00:00",
       "title": "Will Intel (INTC) Beat Estimates Again in Its Next Earnings Report?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T15:00:00+00:00",
-      "title": "Is the AI Bubble Cracking? Chip Stocks Fall for 8 Straight Days",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

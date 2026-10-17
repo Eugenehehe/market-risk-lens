@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:47:17.362145+00:00",
+  "generated_at": "2026-10-17T09:44:15.448896+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 878.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-24T00:35:21.238944+00:00",
-      "close": 1071.88
-    },
     {
       "timestamp": "2026-09-24T05:21:17.249568+00:00",
       "close": 1071.88
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-17T05:47:17.362145+00:00",
       "close": 878.84
+    },
+    {
+      "timestamp": "2026-10-17T09:44:15.448896+00:00",
+      "close": 878.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-17T05:50:00+00:00",
+      "title": "Missed Out On Micron and Sandisk? Make Sure You Don't Miss Out On This Memory Stock.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-17T01:37:00+00:00",
       "title": "Micron stock faces unexpected trouble despite sold-out AI factory",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-16T20:03:39+00:00",
       "title": "Entegris, Micron, AMD, Marvell Technology, and Western Digital Shares Are Falling, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T19:44:00+00:00",
-      "title": "Q3 Earnings Season Preview: Revenue Beats Lag, Multi-Sector Momentum Holds",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
