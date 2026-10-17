@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:30:03.026661+00:00",
+  "generated_at": "2026-10-17T18:45:44.999397+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 89.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-24T15:14:11.712973+00:00",
-      "close": 123.6
-    },
     {
       "timestamp": "2026-09-24T19:15:02.071807+00:00",
       "close": 126.31
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-17T16:30:03.026661+00:00",
       "close": 89.85
+    },
+    {
+      "timestamp": "2026-10-17T18:45:44.999397+00:00",
+      "close": 89.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-17T17:26:38+00:00",
+      "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-17T11:15:15+00:00",
       "title": "Nvidia’s CEO Says “All of This Is Going to Pass” After Tech Lost $1 Trillion in a Day",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-16T20:11:39+00:00",
       "title": "Intel, Lam Research, Amkor, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T18:00:41+00:00",
-      "title": "Most Active Stocks by Volume on October 16, 2026",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
