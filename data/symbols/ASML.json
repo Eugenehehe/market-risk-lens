@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:51:18.987786+00:00",
+  "generated_at": "2026-10-18T13:39:48.875114+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1641.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T15:27:31.742142+00:00",
-      "close": 1738.14
-    },
     {
       "timestamp": "2026-09-25T19:27:51.249538+00:00",
       "close": 1740.6
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-18T09:51:18.987786+00:00",
       "close": 1641.52
+    },
+    {
+      "timestamp": "2026-10-18T13:39:48.875114+00:00",
+      "close": 1641.52
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-10-17T22:10:41+00:00",
       "title": "TSMC vs. ASML: Does Buying the Toolmaker Reduce Geographic Risk?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-17T11:00:00+00:00",
+      "title": "MarketBeat Week in Review – 10/12 - 10/16",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-16T17:36:23+00:00",
       "title": "ASML: 3 Key Takeaways for Long-Term Investors",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T15:25:57+00:00",
-      "title": "ASML (ASML) Declines 8.9% Despite Dominant Moat in EUV Lithography Technology",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
