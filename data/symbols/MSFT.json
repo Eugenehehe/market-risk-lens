@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:32:38.347344+00:00",
+  "generated_at": "2026-10-18T09:51:18.987786+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 529.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T05:27:15.334014+00:00",
-      "close": 497.93
-    },
     {
       "timestamp": "2026-09-25T10:27:14.528202+00:00",
       "close": 497.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-18T05:32:38.347344+00:00",
       "close": 529.05
+    },
+    {
+      "timestamp": "2026-10-18T09:51:18.987786+00:00",
+      "close": 529.05
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-18T06:10:01+00:00",
+      "title": "3 Quality Stocks With ROE Over 30%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-17T19:11:24+00:00",
       "title": "Microsoft (MSFT) Is Facing Fresh Regulatory Pressure",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-17T05:09:34+00:00",
       "title": "What would superintelligence look and feel like?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T03:10:00+00:00",
-      "title": "GAMR Video Game ETF Momentum Continues Into Q4",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

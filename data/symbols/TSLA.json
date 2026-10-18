@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:32:38.347344+00:00",
+  "generated_at": "2026-10-18T09:51:18.987786+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 354.72,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T10:27:14.528202+00:00",
-      "close": 377.94
-    },
     {
       "timestamp": "2026-09-25T15:27:31.742142+00:00",
       "close": 370.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-18T05:32:38.347344+00:00",
       "close": 354.72
+    },
+    {
+      "timestamp": "2026-10-18T09:51:18.987786+00:00",
+      "close": 354.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-18T07:25:00+00:00",
+      "title": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T03:18:01+00:00",
       "title": "3 Founder Led Stocks With Up To 31% ROE",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-17T12:55:25+00:00",
       "title": "By The Way: Headlines You May Have Missed",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T11:00:00+00:00",
-      "title": "Meta, Tesla Headline Earnings In Busy Week For Markets",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
