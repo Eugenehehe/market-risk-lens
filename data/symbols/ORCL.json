@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:56:18.117730+00:00",
+  "generated_at": "2026-10-18T05:32:38.347344+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 128.23,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T05:27:15.334014+00:00",
-      "close": 139.54
-    },
     {
       "timestamp": "2026-09-25T10:27:14.528202+00:00",
       "close": 139.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-18T00:56:18.117730+00:00",
       "close": 128.23
+    },
+    {
+      "timestamp": "2026-10-18T05:32:38.347344+00:00",
+      "close": 128.23
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-18T00:38:05+00:00",
+      "title": "Mark Zuckerberg’s Second Act?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T00:06:02+00:00",
       "title": "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-16T22:15:01+00:00",
       "title": "AI Debt Warning Signs Are Piling Up: Why Bond Markets Are Getting Nervous About AI Infrastructure Spending",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T22:12:12+00:00",
-      "title": "Learn Why The Bull Case For Oracle (ORCL) Could Change Following AI Data Center Delays",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
