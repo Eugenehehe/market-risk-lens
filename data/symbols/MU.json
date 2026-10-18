@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:19:09.239922+00:00",
+  "generated_at": "2026-10-18T21:36:03.059826+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 878.84,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T00:54:33.499870+00:00",
-      "close": 1082.28
-    },
     {
       "timestamp": "2026-09-26T05:51:43.494519+00:00",
       "close": 1082.28
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-18T19:19:09.239922+00:00",
       "close": 878.84
+    },
+    {
+      "timestamp": "2026-10-18T21:36:03.059826+00:00",
+      "close": 878.84
     }
   ],
   "events": [
@@ -524,6 +524,14 @@
     {
       "timestamp": "2026-10-18T14:31:57+00:00",
       "title": "Does Micron (MU) Have an Economic Moat at All?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-18T13:19:55+00:00",
+      "title": "Micron Stock Alert: Elon Musk Just Made The Bull Case Even Stronger",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-18T09:08:01+00:00",
       "title": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T08:30:16+00:00",
-      "title": "Earnings Volatility Watch: Bloom Energy and Other 11 Stocks Are Priced For Double-Digit Swings",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
