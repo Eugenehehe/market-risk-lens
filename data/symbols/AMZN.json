@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:03:40.425681+00:00",
+  "generated_at": "2026-10-18T00:56:18.117730+00:00",
   "snapshot": {
     "symbol": "AMZN",
     "price": 250,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T00:44:10.629305+00:00",
-      "close": 249.38
-    },
     {
       "timestamp": "2026-09-25T05:27:15.334014+00:00",
       "close": 249.38
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 250
+    },
+    {
+      "timestamp": "2026-10-18T00:56:18.117730+00:00",
+      "close": 250
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-17T23:13:39+00:00",
+      "title": "Amazon.com (AMZN) Received An FDA Warning Over Unapproved STI Drug Listings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-17T18:47:00+00:00",
       "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-17T08:45:00+00:00",
       "title": "The Correction Is Healthy; The Next Move Is Yours",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T05:17:02+00:00",
-      "title": "Could Shopify Stock Repeat Amazon's Run Since 2007?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
