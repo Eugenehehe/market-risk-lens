@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:39:48.875114+00:00",
+  "generated_at": "2026-10-18T16:56:30.893669+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 89.85,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T19:27:51.249538+00:00",
-      "close": 124.75
-    },
     {
       "timestamp": "2026-09-25T22:42:36.475904+00:00",
       "close": 123
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 89.85
+    },
+    {
+      "timestamp": "2026-10-18T16:56:30.893669+00:00",
+      "close": 89.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-18T15:12:09+00:00",
+      "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-17T18:53:24+00:00",
       "title": "Jim Cramer On Micron (MU) & Intel (INTC): Nothing Is Working Despite Good Businesses & Strong Quarters",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-16T21:18:40+00:00",
       "title": "The Moment Jensen Huang Realized Nvidia 'Won't Have to Die' Came After a Call From This CEO: 'For the Whole Time, 30 Years…'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T20:17:22+00:00",
-      "title": "How major US stock indexes fared Friday 10/16/2026",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

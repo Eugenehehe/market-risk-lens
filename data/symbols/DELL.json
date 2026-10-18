@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:39:48.875114+00:00",
+  "generated_at": "2026-10-18T16:56:30.893669+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 451.71,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T19:27:51.249538+00:00",
-      "close": 565.37
-    },
     {
       "timestamp": "2026-09-25T22:42:36.475904+00:00",
       "close": 562.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 451.71
+    },
+    {
+      "timestamp": "2026-10-18T16:56:30.893669+00:00",
+      "close": 451.71
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-18T13:56:06+00:00",
+      "title": "Why Dell Technologies Stock Took a Dive Last Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T07:48:04+00:00",
       "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
@@ -517,6 +525,14 @@
       "timestamp": "2026-10-18T02:57:39+00:00",
       "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-17T16:15:06+00:00",
+      "title": "Dell Stock Enters Bear Market as Analysts Remain Highly Bullish Despite AI Jitters",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-16T21:08:07+00:00",
       "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T20:12:37+00:00",
-      "title": "Dell Technologies (DELL) Lands Core AI Infrastructure Role In New Industrial Platform",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T18:01:19+00:00",
-      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of October 18",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

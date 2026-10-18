@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:39:48.875114+00:00",
+  "generated_at": "2026-10-18T16:56:30.893669+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 412.61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-25T19:27:51.249538+00:00",
-      "close": 451.01
-    },
     {
       "timestamp": "2026-09-25T22:42:36.475904+00:00",
       "close": 450.61
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 412.61
+    },
+    {
+      "timestamp": "2026-10-18T16:56:30.893669+00:00",
+      "close": 412.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-18T12:00:00+00:00",
+      "title": "TSMC: The Easy Money Is Gone",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T06:00:00+00:00",
       "title": "AI Investment Impact Understated In U.S. 'It' Market: Texas Reveals",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-17T19:05:00+00:00",
       "title": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T17:26:38+00:00",
-      "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
