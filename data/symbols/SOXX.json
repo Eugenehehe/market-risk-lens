@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T14:19:34.936349+00:00",
+  "generated_at": "2026-10-19T20:00:38.904702+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 508.07,
-    "change_pct": 2.9753339143476776
+    "price": 501.93,
+    "change_pct": 1.7308822635237808
   },
   "risk": {
-    "score": 74,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T21:03:37.442741+00:00",
-      "close": 572.68
-    },
     {
       "timestamp": "2026-09-26T23:32:56.805910+00:00",
       "close": 572.68
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 508.07
+    },
+    {
+      "timestamp": "2026-10-19T20:00:38.904702+00:00",
+      "close": 501.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T15:19:47+00:00",
+      "title": "The AI Selloff Is About Financing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T14:50:00+00:00",
+      "title": "French Bonds: A Lesson In Selectivity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T09:04:47+00:00",
       "title": "Are Companies Reducing AI Spending? Chip Orders Say Otherwise",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-19T03:14:00+00:00",
       "title": "Weekly Market Pulse: Reality Bites",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T00:45:00+00:00",
-      "title": "S&P 500 Earnings Yield Jumps Over 5%; Sold The EMXC",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T12:20:00+00:00",
-      "title": "Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T14:19:34.936349+00:00",
+  "generated_at": "2026-10-19T20:00:38.904702+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 554,
-    "change_pct": 2.6325052335167465
+    "price": 548.19,
+    "change_pct": 1.5561607291724622
   },
   "risk": {
-    "score": 72,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T21:03:37.442741+00:00",
-      "close": 606.56
-    },
     {
       "timestamp": "2026-09-26T23:32:56.805910+00:00",
       "close": 606.56
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 554
+    },
+    {
+      "timestamp": "2026-10-19T20:00:38.904702+00:00",
+      "close": 548.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T15:19:47+00:00",
+      "title": "The AI Selloff Is About Financing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T14:50:00+00:00",
+      "title": "French Bonds: A Lesson In Selectivity",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T11:20:00+00:00",
+      "title": "What Does This Record Correlation In Bonds And Oil Mean For Stocks?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T06:08:07+00:00",
       "title": "What's Going On With Broadcom Stock Monday?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-19T00:45:00+00:00",
       "title": "S&P 500 Earnings Yield Jumps Over 5%; Sold The EMXC",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T22:06:00+00:00",
-      "title": "Stock Futures Rise Ahead of Another Busy Earnings Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T08:30:16+00:00",
-      "title": "Earnings Volatility Watch: Bloom Energy and Other 11 Stocks Are Priced For Double-Digit Swings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T07:30:00+00:00",
-      "title": "This Market Is Rotten Under The Hood - I'm Making These 3 Moves",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

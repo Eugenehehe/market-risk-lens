@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T14:19:34.936349+00:00",
+  "generated_at": "2026-10-19T20:00:38.904702+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 464.97,
-    "change_pct": 2.935511722122608
+    "price": 455.15,
+    "change_pct": 0.7615505523455246
   },
   "risk": {
-    "score": 74,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T21:03:37.442741+00:00",
-      "close": 562.89
-    },
     {
       "timestamp": "2026-09-26T23:32:56.805910+00:00",
       "close": 562.89
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 464.97
+    },
+    {
+      "timestamp": "2026-10-19T20:00:38.904702+00:00",
+      "close": 455.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T16:41:29+00:00",
+      "title": "Efosa Obano Walked Away From His Career At Dell Technologies To Support Black Canadian Founders",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T14:59:08+00:00",
+      "title": "Why Micron Stock Bounced on Monday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T13:00:00+00:00",
       "title": "Fortanix Announces Confidential AI for Enterprise Grade Kubernetes Workloads on CNCF® Confidential Containers (CoCo)",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-19T05:40:31+00:00",
       "title": "Elon Musk Says He'll Give Away SPCX Stock to American Kids Through Trump Accounts: 'This Will Be the First of Many'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T23:31:14+00:00",
-      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T21:07:17+00:00",
-      "title": "Why 1 Analyst Is Cooling Their Stance on Red-Hot DELL Stock",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

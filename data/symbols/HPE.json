@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T14:19:34.936349+00:00",
+  "generated_at": "2026-10-19T20:00:38.904702+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 57.14,
-    "change_pct": 3.6459278070016365
+    "price": 55.84,
+    "change_pct": 1.2878650462543106
   },
   "risk": {
-    "score": 68,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T21:03:37.442741+00:00",
-      "close": 62.94
-    },
     {
       "timestamp": "2026-09-26T23:32:56.805910+00:00",
       "close": 62.94
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 57.14
+    },
+    {
+      "timestamp": "2026-10-19T20:00:38.904702+00:00",
+      "close": 55.84
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T15:09:00+00:00",
+      "title": "HPE and Miami HEAT transform Kaseya Center fan experience with AI-native wireless connectivity powered by an HPE Self-Driving Network",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T14:30:00+00:00",
+      "title": "Network Detection and Response (NDR) Market Surges to $7.29 billion at a CAGR 10.9% by 2031 | Report by MarketsandMarkets™",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T14:25:00+00:00",
+      "title": "CSPi Technology Solutions Announces Technology Project",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T13:00:00+00:00",
       "title": "Fortanix Announces Confidential AI for Enterprise Grade Kubernetes Workloads on CNCF® Confidential Containers (CoCo)",
