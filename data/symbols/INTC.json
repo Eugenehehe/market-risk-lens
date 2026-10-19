@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T01:42:23.818089+00:00",
+  "generated_at": "2026-10-19T06:54:11.789714+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 89.85,
     "change_pct": -5.787983642654937
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T14:42:13.938210+00:00",
-      "close": 123
-    },
     {
       "timestamp": "2026-09-26T18:03:15.021293+00:00",
       "close": 123
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-19T01:42:23.818089+00:00",
       "close": 89.85
+    },
+    {
+      "timestamp": "2026-10-19T06:54:11.789714+00:00",
+      "close": 89.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T04:54:42+00:00",
+      "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-18T20:46:26+00:00",
+      "title": "Intel vs. AMD: The CPU Comeback Has Become a 2-Stock Fight, But 1 Is the Better Buy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-18T20:30:03+00:00",
+      "title": "Taiwan Semiconductor Could Partner With Elon Musk’s Terafab, but It Has 1 Condition",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T15:12:09+00:00",
       "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
@@ -541,22 +565,6 @@
       "timestamp": "2026-10-17T11:05:00+00:00",
       "title": "1 Reason Intel Stock Could Outperform in 2027",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T03:03:01+00:00",
-      "title": "Should You Buy Qualcomm Stock For Its Cash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T00:30:00+00:00",
-      "title": "The AI Supercycle, Asia, And Why This Time Is Different",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
