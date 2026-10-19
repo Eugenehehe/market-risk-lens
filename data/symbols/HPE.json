@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T23:38:10.821527+00:00",
+  "generated_at": "2026-10-19T01:42:23.818089+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 55.13,
     "change_pct": -5.969640115981578
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T10:31:41.668309+00:00",
-      "close": 62.94
-    },
     {
       "timestamp": "2026-09-26T14:42:13.938210+00:00",
       "close": 62.94
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-18T23:38:10.821527+00:00",
       "close": 55.13
+    },
+    {
+      "timestamp": "2026-10-19T01:42:23.818089+00:00",
+      "close": 55.13
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-10-17T01:20:39+00:00",
       "title": "Was The Run In Super Micro Stock Hiding In Plain Sight?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T18:43:39+00:00",
-      "title": "Stocks making big moves this week: Hewlett Packard Enterprise, Frontdoor, Chipotle, Domino's, and Manhattan Associates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T18:20:51+00:00",
-      "title": "Cisco (CSCO): Can Software Renewals Outlast the Networking Upgrade Cycle?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T18:06:16+00:00",
-      "title": "Most-Active S&P 500 Stocks in Oct. 16, 2026 US Session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T17:55:00+00:00",
-      "title": "HPE Stock’s Worst Week Ever Exposes Wall Street’s Newest Fear",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T16:42:58+00:00",
-      "title": "Has Buying HPE Stock's Dips Paid Off?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T16:39:24+00:00",
-      "title": "HPE Rising Higher Thanks to Strong AI Demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

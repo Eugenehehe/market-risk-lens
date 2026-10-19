@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T23:38:10.821527+00:00",
+  "generated_at": "2026-10-19T01:42:23.818089+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 539.79,
     "change_pct": -3.408846897144091
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T10:31:41.668309+00:00",
-      "close": 606.56
-    },
     {
       "timestamp": "2026-09-26T14:42:13.938210+00:00",
       "close": 606.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-18T23:38:10.821527+00:00",
       "close": 539.79
+    },
+    {
+      "timestamp": "2026-10-19T01:42:23.818089+00:00",
+      "close": 539.79
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-10-17T00:30:00+00:00",
       "title": "Semis Drawdown Scenarios",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T23:20:00+00:00",
-      "title": "Surprise! Bonds As Safe Havens, Again",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T20:14:11+00:00",
-      "title": "Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T17:11:29+00:00",
-      "title": "AI Bubble Just Became The Fed's Inflation Problem",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

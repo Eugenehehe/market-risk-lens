@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T23:38:10.821527+00:00",
+  "generated_at": "2026-10-19T01:42:23.818089+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 227.83,
     "change_pct": -5.558779638534239
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T10:31:41.668309+00:00",
-      "close": 261.935
-    },
     {
       "timestamp": "2026-09-26T14:42:13.938210+00:00",
       "close": 261.935
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-18T23:38:10.821527+00:00",
       "close": 227.83
+    },
+    {
+      "timestamp": "2026-10-19T01:42:23.818089+00:00",
+      "close": 227.83
     }
   ],
   "events": [
@@ -525,46 +525,6 @@
       "timestamp": "2026-10-17T15:00:33+00:00",
       "title": "Martin Shkreli Says New Photonic Chips Could Run Circles Around Nvidia",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T20:03:39+00:00",
-      "title": "Entegris, Micron, AMD, Marvell Technology, and Western Digital Shares Are Falling, What You Need To Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T18:02:08+00:00",
-      "title": "Broadcom Falls 4% as CEO Hock Tan’s Capital Warning Hangs Over AI Chips; Marvell Drops 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T14:30:36+00:00",
-      "title": "One Stock That Could Become Much More Important to AI",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T13:49:39+00:00",
-      "title": "Is AMD Stock Safer Or Riskier Than A Year Ago?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-16T12:54:06+00:00",
-      "title": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
