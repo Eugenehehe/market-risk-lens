@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T20:00:38.904702+00:00",
+  "generated_at": "2026-10-19T23:32:36.628167+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1647.71,
-    "change_pct": 0.37708952678006114
+    "price": 1647.12,
+    "change_pct": 0.3411472293971318
   },
   "risk": {
-    "score": 54,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T23:32:56.805910+00:00",
-      "close": 1743.94
-    },
     {
       "timestamp": "2026-09-27T01:44:32.680329+00:00",
       "close": 1743.94
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-19T20:00:38.904702+00:00",
       "close": 1647.71
+    },
+    {
+      "timestamp": "2026-10-19T23:32:36.628167+00:00",
+      "close": 1647.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T18:56:57+00:00",
+      "title": "Applied Materials vs. ASML: Which Can Carry a Bigger Research Bill?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T18:56:50+00:00",
+      "title": "ASML vs. Lam Research: How Much Protection Does Service Revenue Really Provide?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T15:20:00+00:00",
       "title": "Semiconductor Sell-Off: 5 Stocks to Buy on the Dip",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-19T12:23:00+00:00",
       "title": "LRCX to Report Q1 Earnings: Should You Buy, Hold or Sell the Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T12:00:00+00:00",
-      "title": "ASML reports transactions under its current share buyback program",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T10:58:00+00:00",
-      "title": "Global Fin Field-Effect Transistor (FinFET) 3D Transistors Market Report 2026 | Capitalize on AI, 5G and Sub-7nm Demand as TSMC, Samsung, Intel and ASML Accelerate Scale",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
