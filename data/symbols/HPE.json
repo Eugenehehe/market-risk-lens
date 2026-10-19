@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T06:54:11.789714+00:00",
+  "generated_at": "2026-10-19T14:19:34.936349+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 55.13,
-    "change_pct": -5.969640115981578
+    "price": 57.14,
+    "change_pct": 3.6459278070016365
   },
   "risk": {
-    "score": 64,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T18:03:15.021293+00:00",
-      "close": 62.94
-    },
     {
       "timestamp": "2026-09-26T21:03:37.442741+00:00",
       "close": 62.94
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-19T06:54:11.789714+00:00",
       "close": 55.13
+    },
+    {
+      "timestamp": "2026-10-19T14:19:34.936349+00:00",
+      "close": 57.14
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T13:00:00+00:00",
+      "title": "Fortanix Announces Confidential AI for Enterprise Grade Kubernetes Workloads on CNCF® Confidential Containers (CoCo)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T12:55:51+00:00",
+      "title": "How Much Of NetApp Stock's Rise Did The Business Earn?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T15:15:02+00:00",
       "title": "HPE Stock Alert: Barclays Just Delivered A Stark Warning After 145% Rally",

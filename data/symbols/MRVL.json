@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T06:54:11.789714+00:00",
+  "generated_at": "2026-10-19T14:19:34.936349+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 227.83,
-    "change_pct": -5.558779638534239
+    "price": 240.15,
+    "change_pct": 5.407540710178638
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T18:03:15.021293+00:00",
-      "close": 261.935
-    },
     {
       "timestamp": "2026-09-26T21:03:37.442741+00:00",
       "close": 261.935
@@ -502,29 +498,73 @@
     {
       "timestamp": "2026-10-19T06:54:11.789714+00:00",
       "close": 227.83
+    },
+    {
+      "timestamp": "2026-10-19T14:19:34.936349+00:00",
+      "close": 240.15
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-18T14:33:18+00:00",
-      "title": "What Do the 8% of Analysts Who Will Not Buy Marvell (MRVL) See?",
+      "timestamp": "2026-10-19T13:38:54+00:00",
+      "title": "Google’s Next AI Chip Is Running Late. Why Marvell May Be Fine",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-18T08:34:51+00:00",
-      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "source": "CNBC",
+      "timestamp": "2026-10-19T13:20:55+00:00",
+      "title": "3 Market-Beating Stocks with Solid Fundamentals",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-17T15:00:33+00:00",
-      "title": "Martin Shkreli Says New Photonic Chips Could Run Circles Around Nvidia",
+      "timestamp": "2026-10-19T12:55:49+00:00",
+      "title": "Is Broadcom Stock Cheap Enough Yet?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T12:45:48+00:00",
+      "title": "Broadcom Vs. Marvell: Custom Silicon is Going to Get White Hot",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T12:35:43+00:00",
+      "title": "S&P 500 Premarket Movers: Gainers and Losers on Oct. 19, 2026",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T10:45:00+00:00",
+      "title": "Marvel Biosciences Advances MB-204 Toward First-in Human Testing, Selects CMAX as Phase I Clinical Trial Site",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T10:16:00+00:00",
+      "title": "CoreWeave, Sandisk, Marvell, Tesla, SpaceX, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T08:59:53+00:00",
+      "title": "Stock Market Today: Chip Selloff Hits Day Eight as Nasdaq Logs Its Worst Week Since June",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

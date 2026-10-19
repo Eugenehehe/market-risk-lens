@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T06:54:11.789714+00:00",
+  "generated_at": "2026-10-19T14:19:34.936349+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 451.71,
-    "change_pct": -4.579733412197129
+    "price": 464.97,
+    "change_pct": 2.935511722122608
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-26T18:03:15.021293+00:00",
-      "close": 562.89
-    },
     {
       "timestamp": "2026-09-26T21:03:37.442741+00:00",
       "close": 562.89
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-19T06:54:11.789714+00:00",
       "close": 451.71
+    },
+    {
+      "timestamp": "2026-10-19T14:19:34.936349+00:00",
+      "close": 464.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T13:00:00+00:00",
+      "title": "Fortanix Announces Confidential AI for Enterprise Grade Kubernetes Workloads on CNCF® Confidential Containers (CoCo)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T12:55:51+00:00",
+      "title": "How Much Of NetApp Stock's Rise Did The Business Earn?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T11:35:00+00:00",
+      "title": "Can HPQ Protect Margins Amid Rising Memory & Storage Costs?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T10:11:17+00:00",
+      "title": "Salesforce And 2 Other AI Stocks To Watch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T07:30:36+00:00",
+      "title": "Where Trump’s Portfolio Meets His Power: Nvidia, Palantir, Dell and More",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T05:40:31+00:00",
+      "title": "Elon Musk Says He'll Give Away SPCX Stock to American Kids Through Trump Accounts: 'This Will Be the First of Many'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-18T23:31:14+00:00",
       "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
@@ -517,54 +565,6 @@
       "timestamp": "2026-10-18T21:07:17+00:00",
       "title": "Why 1 Analyst Is Cooling Their Stance on Red-Hot DELL Stock",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T18:30:02+00:00",
-      "title": "What a New Nvidia-Backed AI Platform Means for Honeywell Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T17:32:26+00:00",
-      "title": "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T13:56:06+00:00",
-      "title": "Why Dell Technologies Stock Took a Dive Last Week",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T07:48:04+00:00",
-      "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T02:57:39+00:00",
-      "title": "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T16:15:06+00:00",
-      "title": "Dell Stock Enters Bear Market as Analysts Remain Highly Bullish Despite AI Jitters",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
