@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T23:32:36.628167+00:00",
+  "generated_at": "2026-10-20T02:02:07.092742+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 132.74,
     "change_pct": 0.5606060606060614
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 49,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T01:44:32.680329+00:00",
-      "close": 156.74
-    },
     {
       "timestamp": "2026-09-27T07:09:25.061301+00:00",
       "close": 156.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-19T23:32:36.628167+00:00",
       "close": 132.74
+    },
+    {
+      "timestamp": "2026-10-20T02:02:07.092742+00:00",
+      "close": 132.74
     }
   ],
   "events": [
@@ -540,22 +540,6 @@
     {
       "timestamp": "2026-10-18T05:56:57+00:00",
       "title": "Corning: The Right AI Builder, Just Not A Buy Yet",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T15:00:33+00:00",
-      "title": "Martin Shkreli Says New Photonic Chips Could Run Circles Around Nvidia",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-17T07:45:41+00:00",
-      "title": "Corning: Not Worth The AI Risk (Rating Downgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

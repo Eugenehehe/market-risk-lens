@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:32:36.628167+00:00",
+  "generated_at": "2026-10-20T02:02:07.092742+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 237.09,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T01:44:32.680329+00:00",
-      "close": 261.935
-    },
     {
       "timestamp": "2026-09-27T07:09:25.061301+00:00",
       "close": 261.935
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-19T23:32:36.628167+00:00",
       "close": 237.09
+    },
+    {
+      "timestamp": "2026-10-20T02:02:07.092742+00:00",
+      "close": 237.09
     }
   ],
   "events": [
@@ -514,8 +514,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-19T19:05:58+00:00",
+      "title": "S&P 500 Top Movers: Oct. 19, 2026 US Session Gainers and Losers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-19T18:06:20+00:00",
       "title": "What Just Happened To Marvell Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-19T17:42:59+00:00",
+      "title": "Oracle Slumped 9% Amid a Tech Selloff and AI Buildout Concerns. Investors Should Cautiously Buy the Dip.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -546,25 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-19T16:13:39+00:00",
-      "title": "Marvell Technology (MRVL) Forms Cloud Security Alliance After New CXL And Connectivity Launches",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T15:49:32+00:00",
-      "title": "Apple’s iPhone Duo Sold Out In Minutes. The Last Time Apple Reinvented The Phone, One Apple Supplier’s Stock Soared About 1,200% In A Decade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T15:27:54+00:00",
-      "title": "Chip Stocks Set to Snap Longest Losing Streak Since 2008",
-      "source": "Yahoo",
+      "timestamp": "2026-10-19T16:35:57+00:00",
+      "title": "S&P 500 Top Movers: Gainers and Losers in Today's Session",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

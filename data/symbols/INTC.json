@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:32:36.628167+00:00",
+  "generated_at": "2026-10-20T02:02:07.092742+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 92.03,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T01:44:32.680329+00:00",
-      "close": 123
-    },
     {
       "timestamp": "2026-09-27T07:09:25.061301+00:00",
       "close": 123
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-19T23:32:36.628167+00:00",
       "close": 92.03
+    },
+    {
+      "timestamp": "2026-10-20T02:02:07.092742+00:00",
+      "close": 92.03
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T22:15:39+00:00",
+      "title": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T21:28:55+00:00",
       "title": "Applied Materials, Lam Research, Marvell Technology, Micron, and Semtech Shares Skyrocket, What You Need To Know",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-19T20:07:47+00:00",
       "title": "Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T18:37:27+00:00",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
