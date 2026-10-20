@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T17:40:54.162715+00:00",
+  "generated_at": "2026-10-20T20:53:33.584399+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 132.14,
-    "change_pct": 1.967744424724116
+    "price": 131.14,
+    "change_pct": 1.1960799444401538
   },
   "risk": {
-    "score": 66,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T20:24:43.774864+00:00",
-      "close": 137.1
-    },
     {
       "timestamp": "2026-09-27T23:15:22.541699+00:00",
       "close": 137.1
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-20T17:40:54.162715+00:00",
       "close": 132.14
+    },
+    {
+      "timestamp": "2026-10-20T20:53:33.584399+00:00",
+      "close": 131.14
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-20T16:26:15+00:00",
+      "title": "Oracle Just Dropped 12% in a Month. Is It Time to Sell, or Load Up?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-20T16:13:46+00:00",
+      "title": "Oracle (ORCL) Expands Its AI Healthcare Push With A New Drugmaker Partnership",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-20T16:10:09+00:00",
+      "title": "Tech Tuesday: AliExpress Teams with YouTube",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T15:12:27+00:00",
       "title": "Will AI Data Center Launches Change Marvell Stock Narrative",
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-20T14:00:00+00:00",
       "title": "Nucleus Research Releases 2026 Full Suite Talent Acquisition Technology Value Matrix",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:45:41+00:00",
-      "title": "Oracle (ORCL): Can Rival Clouds Become Its Best Database Sales Channel?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:33:32+00:00",
-      "title": "Billionaires Ken Fisher and Paul Tudor Jones Were Buying This AI Stock",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:16:11+00:00",
-      "title": "Getting Closer To The End Of The 'Boom' Part Of The Cycle",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

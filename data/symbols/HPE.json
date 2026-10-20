@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T17:40:54.162715+00:00",
+  "generated_at": "2026-10-20T20:53:33.584399+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 56.36,
-    "change_pct": 0.877035976373719
+    "price": 56.09,
+    "change_pct": 0.39377125469841623
   },
   "risk": {
-    "score": 58,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T20:24:43.774864+00:00",
-      "close": 62.94
-    },
     {
       "timestamp": "2026-09-27T23:15:22.541699+00:00",
       "close": 62.94
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-20T17:40:54.162715+00:00",
       "close": 56.36
+    },
+    {
+      "timestamp": "2026-10-20T20:53:33.584399+00:00",
+      "close": 56.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-20T16:00:13+00:00",
+      "title": "Prediction: This Forgotten Tech Stock Could Make a Comeback by 2028",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T14:00:00+00:00",
       "title": "HPE Spaceborne Computer to Power High Performance Computing and AI on the Moon",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-20T00:22:47+00:00",
       "title": "Learn Why The Bull Case For HPE Stock Could Change Following Gen13 Server Launch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T22:14:42+00:00",
-      "title": "HPE (HPE) Stock May Be 28% Undervalued Following Strong Q2 Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T17:40:54.162715+00:00",
+  "generated_at": "2026-10-20T20:53:33.584399+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 426.88,
-    "change_pct": 1.5848841083242027
+    "price": 425.08,
+    "change_pct": 1.1565370520203677
   },
   "risk": {
-    "score": 63,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T20:24:43.774864+00:00",
-      "close": 450.61
-    },
     {
       "timestamp": "2026-09-27T23:15:22.541699+00:00",
       "close": 450.61
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-20T17:40:54.162715+00:00",
       "close": 426.88
+    },
+    {
+      "timestamp": "2026-10-20T20:53:33.584399+00:00",
+      "close": 425.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-20T13:27:52+00:00",
+      "title": "Celestica: Broadcom Just Fired A $350 Billion Warning Shot",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T13:04:43+00:00",
       "title": "Chip stocks decline as AI-trade rebound fizzles",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-20T07:26:47+00:00",
       "title": "Taiwan Semiconductor: The Margin Peak That Isn't",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T20:26:00+00:00",
-      "title": "Buy Top-Ranked Tech Stock TSMC Now on the Dip and Hold",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
