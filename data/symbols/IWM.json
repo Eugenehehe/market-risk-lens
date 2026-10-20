@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:02:07.092742+00:00",
+  "generated_at": "2026-10-20T07:25:54.890597+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 271.28,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T07:09:25.061301+00:00",
-      "close": 281.97
-    },
     {
       "timestamp": "2026-09-27T13:01:37.518044+00:00",
       "close": 281.97
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-20T02:02:07.092742+00:00",
       "close": 271.28
+    },
+    {
+      "timestamp": "2026-10-20T07:25:54.890597+00:00",
+      "close": 271.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-19T23:25:00+00:00",
+      "title": "Tech Investors Bought The Dips",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T17:30:00+00:00",
       "title": "Hated, Unloved, And Yielding 5%: Is It Time To Reconsider Bonds? Here's My Take",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-19T11:20:00+00:00",
       "title": "What Does This Record Correlation In Bonds And Oil Mean For Stocks?",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T11:00:30+00:00",
-      "title": "9 Of 11 Sectors Fall As Growth Leads",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

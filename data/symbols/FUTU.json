@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T02:02:07.092742+00:00",
+  "generated_at": "2026-10-20T07:25:54.890597+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 105.5,
     "change_pct": 0.018960940462653397
   },
   "risk": {
-    "score": 35,
+    "score": 37,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T07:09:25.061301+00:00",
-      "close": 111.87
-    },
     {
       "timestamp": "2026-09-27T13:01:37.518044+00:00",
       "close": 111.87
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-20T02:02:07.092742+00:00",
       "close": 105.5
+    },
+    {
+      "timestamp": "2026-10-20T07:25:54.890597+00:00",
+      "close": 105.5
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-19T15:34:00+00:00",
+      "title": "Moomoo Extends Options Trading Hours* with Pre-Market and Post-Close Sessions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
