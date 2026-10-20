@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T07:25:54.890597+00:00",
+  "generated_at": "2026-10-20T12:52:23.907886+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 132.74,
     "change_pct": 0.5606060606060614
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 53,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T13:01:37.518044+00:00",
-      "close": 156.74
-    },
     {
       "timestamp": "2026-09-27T17:40:46.818144+00:00",
       "close": 156.74
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-20T07:25:54.890597+00:00",
       "close": 132.74
+    },
+    {
+      "timestamp": "2026-10-20T12:52:23.907886+00:00",
+      "close": 132.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-20T11:48:06+00:00",
+      "title": "What Was Ciena Telling You Before Its Stock Ran?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-20T10:37:50+00:00",
+      "title": "1 Large-Cap Stock to Own for Decades and 2 That Underwhelm",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-19T17:09:24+00:00",
       "title": "GLW, VZ, COHR In Focus As AI Fiber Shortage Drives Prices Higher — TrendForce Sees Supply Crunch Through 2028",
