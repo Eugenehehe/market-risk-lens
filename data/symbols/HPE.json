@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T12:52:23.907886+00:00",
+  "generated_at": "2026-10-20T17:40:54.162715+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 55.87,
-    "change_pct": 1.342281879194629
+    "price": 56.36,
+    "change_pct": 0.877035976373719
   },
   "risk": {
-    "score": 61,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T17:40:46.818144+00:00",
-      "close": 62.94
-    },
     {
       "timestamp": "2026-09-27T20:24:43.774864+00:00",
       "close": 62.94
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-20T12:52:23.907886+00:00",
       "close": 55.87
+    },
+    {
+      "timestamp": "2026-10-20T17:40:54.162715+00:00",
+      "close": 56.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-20T14:00:00+00:00",
+      "title": "HPE Spaceborne Computer to Power High Performance Computing and AI on the Moon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-20T12:35:47+00:00",
+      "title": "S&P 500 Premarket Movers: Gainers and Losers on Oct. 20, 2026",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T11:31:21+00:00",
       "title": "HPE Has a 12x Forward PE and 400% Growth. So Why Won’t Wall Street Touch It?",
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-20T10:37:05+00:00",
+      "title": "Super Micro Computer Is Getting Cheaper As Its Moat Expands",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-20T00:22:47+00:00",
       "title": "Learn Why The Bull Case For HPE Stock Could Change Following Gen13 Server Launch",
       "source": "Yahoo",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-19T22:14:42+00:00",
       "title": "HPE (HPE) Stock May Be 28% Undervalued Following Strong Q2 Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T21:09:56+00:00",
-      "title": "What Is Hewlett Packard Enterprise (HPE) Signaling With Its New AI Server Push?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T20:17:21+00:00",
-      "title": "Arista Networks Is Outgrowing The Market Fourfold: What To Watch Next",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T20:01:36+00:00",
-      "title": "The AI Trade Is Working Again",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

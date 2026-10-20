@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T12:52:23.907886+00:00",
+  "generated_at": "2026-10-20T17:40:54.162715+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 132.74,
-    "change_pct": 0.5606060606060614
+    "price": 132.48,
+    "change_pct": -0.19587162874794561
   },
   "risk": {
-    "score": 53,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T17:40:46.818144+00:00",
-      "close": 156.74
-    },
     {
       "timestamp": "2026-09-27T20:24:43.774864+00:00",
       "close": 156.74
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-20T12:52:23.907886+00:00",
       "close": 132.74
+    },
+    {
+      "timestamp": "2026-10-20T17:40:54.162715+00:00",
+      "close": 132.48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-20T14:58:45+00:00",
+      "title": "3M Jumps 6% on Expanded Amazon Data Center Deal and Earnings Beat; Coherent Edges Higher, Corning Stays Flat",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-20T13:00:07+00:00",
+      "title": "Corning (GLW) Reports Next Week: Wall Street Expects Earnings Growth",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T11:48:06+00:00",
       "title": "What Was Ciena Telling You Before Its Stock Ran?",
@@ -549,14 +565,6 @@
       "timestamp": "2026-10-19T13:39:29+00:00",
       "title": "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-18T05:56:57+00:00",
-      "title": "Corning: The Right AI Builder, Just Not A Buy Yet",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

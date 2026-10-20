@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T12:52:23.907886+00:00",
+  "generated_at": "2026-10-20T17:40:54.162715+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 17.38,
-    "change_pct": -6.054054054054059
+    "price": 16.98,
+    "change_pct": -2.3014959723820394
   },
   "risk": {
-    "score": 60,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-27T17:40:46.818144+00:00",
-      "close": 16.85
-    },
     {
       "timestamp": "2026-09-27T20:24:43.774864+00:00",
       "close": 16.85
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-20T12:52:23.907886+00:00",
       "close": 17.38
+    },
+    {
+      "timestamp": "2026-10-20T17:40:54.162715+00:00",
+      "close": 16.98
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-20T12:13:19+00:00",
+      "title": "UVXY: A Sell Into The Volatility Spike Ahead Of Catalysts",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
