@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T13:07:31.920226+00:00",
+  "generated_at": "2026-10-21T18:00:47.498131+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 500.01,
-    "change_pct": -0.38252345944653765
+    "price": 511.08,
+    "change_pct": 2.2139557208855853
   },
   "risk": {
-    "score": 54,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-28T21:52:18.988249+00:00",
-      "close": 560.79
-    },
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 560.79
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-21T13:07:31.920226+00:00",
       "close": 500.01
+    },
+    {
+      "timestamp": "2026-10-21T18:00:47.498131+00:00",
+      "close": 511.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-21T11:05:00+00:00",
+      "title": "Europe's Debt, U.S. Big Tech Put To The Test",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-21T09:06:25+00:00",
+      "title": "SpaceX Lifts All Boats: Chip Stocks Claw Back $274 Billion After a $1.6 Trillion Rout",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-21T06:30:00+00:00",
+      "title": "Market's Uneven Response To Higher Rates",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T14:00:19+00:00",
       "title": "Chips Are Selling Off and Apple Just Hit a New High. What Splits the AI Trade",
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-20T11:23:00+00:00",
       "title": "Should You Buy the iShares Semiconductor ETF After Its 25% Plunge? The Answer Might Surprise You.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T09:00:31+00:00",
-      "title": "The Tech Stock Rebound Is Toast Already",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T08:04:14+00:00",
-      "title": "SOXX, SOXL Retreat To Red Premarket, But Retail Is 'Extremely Bullish' Ahead Of Tech Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T05:06:47+00:00",
-      "title": "VSXY Is Beating Chip Stocks, SOXX and SOXL by a Mile — Kylie Jenner, GLP-1 Boom Could Fuel More Gains",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

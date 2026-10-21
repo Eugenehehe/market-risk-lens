@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-21T13:07:31.920226+00:00",
+  "generated_at": "2026-10-21T18:00:47.498131+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 56.09,
-    "change_pct": 0.39377125469841623
+    "price": 58.4,
+    "change_pct": 4.118381173114627
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-28T21:52:18.988249+00:00",
-      "close": 62.63
-    },
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 62.63
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-21T13:07:31.920226+00:00",
       "close": 56.09
+    },
+    {
+      "timestamp": "2026-10-21T18:00:47.498131+00:00",
+      "close": 58.4
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-21T11:50:30+00:00",
-      "title": "Hewlett Packard Enterprise (NYSE:HPE) Meets All Eight Growth Rules With Expanding Margins and Cash Flow",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:30:00+00:00",
-      "title": "HPE Teams With NVIDIA to Advance Secure Agentic AI Across Enterprises and Industrial Environments",
+      "timestamp": "2026-10-21T14:12:47+00:00",
+      "title": "Super Micro Soars 12% as Preliminary Revenue Blows Past Guidance on “Increased Demand for AI Platforms”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-21T09:34:00+00:00",
-      "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
+      "timestamp": "2026-10-21T14:02:00+00:00",
+      "title": "NVIDIA unveils modular AI factories to cut data centre deployment to 14 days",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-21T01:10:14+00:00",
-      "title": "Could SanDisk Be The Value Stock For Your Portfolio?",
+      "timestamp": "2026-10-21T13:55:29+00:00",
+      "title": "Why Super Micro's boosted guidance is lifting the tech sector",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-20T23:11:00+00:00",
-      "title": "Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.",
+      "timestamp": "2026-10-21T13:08:47+00:00",
+      "title": "Super Micro Surges 12% as Preliminary Revenue Tops Guidance Range; Dell Jumps 7%, Hewlett Packard Enterprise Climbs 5%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-20T21:54:30+00:00",
-      "title": "Super Micro Computer Surges On Blowout Preliminary Revenue; Dell, HPE Also Jump",
+      "timestamp": "2026-10-21T12:53:19+00:00",
+      "title": "Nvidia Aims To Speed Deployment Of AI Factories",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-20T21:05:59+00:00",
-      "title": "S&P 500 After-Hours Movers: Oct. 20 Gainers and Decliners",
-      "source": "ChartMill",
+      "timestamp": "2026-10-21T12:24:08+00:00",
+      "title": "Supermicro stock jumps as server maker lifts revenue forecast",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-20T16:00:13+00:00",
-      "title": "Prediction: This Forgotten Tech Stock Could Make a Comeback by 2028",
+      "timestamp": "2026-10-21T12:17:00+00:00",
+      "title": "Nvidia Has a $10 Billion Data Center Quick-Fix. The Stocks Set to Benefit.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-21T12:05:43+00:00",
+      "title": "Super Micro Says AI Demand Is So Strong It Blew Past Its Own Forecast by 25%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

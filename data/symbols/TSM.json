@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T13:07:31.920226+00:00",
+  "generated_at": "2026-10-21T18:00:47.498131+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 425.08,
-    "change_pct": 1.1565370520203677
+    "price": 429.7,
+    "change_pct": 1.0868542392020286
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-28T21:52:18.988249+00:00",
-      "close": 452.88
-    },
     {
       "timestamp": "2026-09-29T01:22:25.835899+00:00",
       "close": 452.88
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-21T13:07:31.920226+00:00",
       "close": 425.08
+    },
+    {
+      "timestamp": "2026-10-21T18:00:47.498131+00:00",
+      "close": 429.7
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-10-21T11:00:00+00:00",
       "title": "CoreWeave's crash looks like 2008. Here's why it isn't.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-21T10:55:52+00:00",
+      "title": "Ken Griffin Calls AI a Bubble After Citadel Bought the Dip",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-21T05:33:06+00:00",
       "title": "TSMC: Q3 Earnings Reveal The Coiled Spring For 2027 Profits",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T03:17:46+00:00",
-      "title": "GlobalFoundries (GFS) Stock Could Be 35% Overvalued On New York Fab Plans",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
