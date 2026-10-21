@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:59:31.135687+00:00",
+  "generated_at": "2026-10-21T07:27:18.947669+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.05,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-28T07:43:44.220311+00:00",
-      "close": 771.35
-    },
     {
       "timestamp": "2026-09-28T16:02:07.789818+00:00",
       "close": 765.44
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-21T01:59:31.135687+00:00",
       "close": 769.05
+    },
+    {
+      "timestamp": "2026-10-21T07:27:18.947669+00:00",
+      "close": 769.05
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-20T23:47:57+00:00",
       "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-20T23:05:00+00:00",
+      "title": "World Markets Watchlist: October 19, 2026",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-20T17:05:15+00:00",
       "title": "Cryptocurrency Stocks Rise Despite Piper Sandler Price Target Cuts: MARA and Hut 8 Gain 4%, Riot Holds Flat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T16:52:46+00:00",
-      "title": "Solar Stocks Rebound as Selloff Reverses: Sunrun Surges 10%, SolarEdge and Enphase Energy Climb 5%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

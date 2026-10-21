@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:59:31.135687+00:00",
+  "generated_at": "2026-10-21T07:27:18.947669+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 425.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-28T07:43:44.220311+00:00",
-      "close": 450.61
-    },
     {
       "timestamp": "2026-09-28T16:02:07.789818+00:00",
       "close": 449.39
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-21T01:59:31.135687+00:00",
       "close": 425.08
+    },
+    {
+      "timestamp": "2026-10-21T07:27:18.947669+00:00",
+      "close": 425.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-21T03:17:46+00:00",
+      "title": "GlobalFoundries (GFS) Stock Could Be 35% Overvalued On New York Fab Plans",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-20T22:15:54+00:00",
       "title": "The Moment Jensen Huang Realized Nvidia 'Won't Have to Die' Came After a Call From This CEO: 'For the Whole Time, 30 Years…'",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-20T14:15:00+00:00",
       "title": "3 Stocks Set to Benefit From Long-Term AI Tailwinds",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:27:52+00:00",
-      "title": "Celestica: Broadcom Just Fired A $350 Billion Warning Shot",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
