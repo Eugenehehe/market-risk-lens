@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:10:14.645764+00:00",
+  "generated_at": "2026-10-22T04:46:05.530906+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 510.36,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-29T14:03:47.052902+00:00",
-      "close": 570.89
-    },
     {
       "timestamp": "2026-09-29T19:21:32.830061+00:00",
       "close": 567.86
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-22T00:10:14.645764+00:00",
       "close": 510.36
+    },
+    {
+      "timestamp": "2026-10-22T04:46:05.530906+00:00",
+      "close": 510.36
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-21T16:51:23+00:00",
+      "title": "Buffett's Berkshire just trounced chip stocks and flashed a rare dot-com-era signal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-21T11:05:00+00:00",
       "title": "Europe's Debt, U.S. Big Tech Put To The Test",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-20T12:50:01+00:00",
       "title": "XLK vs. SOXX: Broad Tech Exposure or Semiconductor Bet?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T11:23:00+00:00",
-      "title": "Should You Buy the iShares Semiconductor ETF After Its 25% Plunge? The Answer Might Surprise You.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
