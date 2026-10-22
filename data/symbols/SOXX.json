@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T09:41:02.949567+00:00",
+  "generated_at": "2026-10-22T14:41:20.376802+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 510.36,
-    "change_pct": 2.0699586008279924
+    "price": 484.28,
+    "change_pct": -5.110118347832914
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-29T23:03:20.201484+00:00",
-      "close": 567.44
-    },
     {
       "timestamp": "2026-09-30T02:02:27.631274+00:00",
       "close": 567.44
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 510.36
+    },
+    {
+      "timestamp": "2026-10-22T14:41:20.376802+00:00",
+      "close": 484.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-22T11:23:41+00:00",
+      "title": "Winning AI Trade Stalls While Investors Bet On Victims Instead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T10:56:00+00:00",
+      "title": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T10:48:40+00:00",
+      "title": "Stock Market Today: Tech Stocks Lead Futures Sharply Lower; Oil Prices Surge on Middle East Escalations",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T08:50:36+00:00",
+      "title": "Lam Research Stock Sinks After Guidance Falls Short of Whispers: Cantor Calls It a 'Top Pick'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-21T20:06:50+00:00",
+      "title": "Smart Money Is Still Piling into Tech Stocks. Following It Is a Great Way to Be Caught Holding the Bag.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-21T16:51:23+00:00",
       "title": "Buffett's Berkshire just trounced chip stocks and flashed a rare dot-com-era signal",
@@ -514,57 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-21T11:05:00+00:00",
-      "title": "Europe's Debt, U.S. Big Tech Put To The Test",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T09:06:25+00:00",
-      "title": "SpaceX Lifts All Boats: Chip Stocks Claw Back $274 Billion After a $1.6 Trillion Rout",
+      "timestamp": "2026-10-21T12:22:05+00:00",
+      "title": "The Earnings Twist In The AI Chip Bubble Debate",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-21T06:30:00+00:00",
-      "title": "Market's Uneven Response To Higher Rates",
+      "timestamp": "2026-10-21T11:05:00+00:00",
+      "title": "Europe's Debt, U.S. Big Tech Put To The Test",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T14:00:19+00:00",
-      "title": "Chips Are Selling Off and Apple Just Hit a New High. What Splits the AI Trade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:47:21+00:00",
-      "title": "SpaceX Stock Drops to Start the Day",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:35:27+00:00",
-      "title": "Hedge Funds Dumped Tech Stocks at the Fastest Pace in a Decade, Goldman Says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T12:50:01+00:00",
-      "title": "XLK vs. SOXX: Broad Tech Exposure or Semiconductor Bet?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

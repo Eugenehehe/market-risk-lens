@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T09:41:02.949567+00:00",
+  "generated_at": "2026-10-22T14:41:20.376802+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 697.52,
-    "change_pct": 0.47101188332732136
+    "price": 652.09,
+    "change_pct": -6.513074893909843
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-29T23:03:20.201484+00:00",
-      "close": 738.79
-    },
     {
       "timestamp": "2026-09-30T02:02:27.631274+00:00",
       "close": 738.79
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 697.52
+    },
+    {
+      "timestamp": "2026-10-22T14:41:20.376802+00:00",
+      "close": 652.09
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-22T07:45:00+00:00",
-      "title": "European stocks buckle as French yields cross 5% barrier",
+      "timestamp": "2026-10-22T13:57:23+00:00",
+      "title": "Meta's new stock sale sends one signal: AI demand isn't slowing down",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T05:57:41+00:00",
-      "title": "3 Enterprise Software Stocks for Digital Trust and Safety Investors",
+      "timestamp": "2026-10-22T13:47:37+00:00",
+      "title": "Meta, Tesla, and chip stocks decline as AI trade comes under pressure: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T05:40:33+00:00",
-      "title": "Meta’s Free Cash Flow Turned Negative. Its New Share Class Opens Another Funding Option.",
+      "timestamp": "2026-10-22T13:45:54+00:00",
+      "title": "Stock Market Today: Dow Falls As Oil Prices Jump; Meta, Tesla Slide On Earnings (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T04:40:48+00:00",
-      "title": "Meta Found a Way to Raise Money Without Handing Out More Votes",
+      "timestamp": "2026-10-22T13:45:19+00:00",
+      "title": "Meta Just Burned Cash for the First Time Since Its IPO",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T04:31:14+00:00",
-      "title": "Corning (GLW) Stock Could Be 31% Below Fair Value As AI Fiber Demand Builds",
+      "timestamp": "2026-10-22T13:40:58+00:00",
+      "title": "Could California's billionaire tax hit Mark Zuckerberg?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T04:25:43+00:00",
-      "title": "Asia stocks slide as AI jitters hit Korean chipmakers",
+      "timestamp": "2026-10-22T13:26:19+00:00",
+      "title": "Should Match Stock's New High Stop You From Buying?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T04:20:38+00:00",
-      "title": "Mark Zuckerberg Says Muse Could Out-Earn Facebook, Instagram Per User, But Analyst Warns It’s 'Losing' More Money Than Any Other Product Meta Has Launched",
+      "timestamp": "2026-10-22T13:17:40+00:00",
+      "title": "Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T04:05:02+00:00",
-      "title": "Meta Delivers Another Blowout Earnings Report. Here's What Investors Need To Know",
+      "timestamp": "2026-10-22T13:00:46+00:00",
+      "title": "Meta's AI build-out comes with an $825 billion price tag",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

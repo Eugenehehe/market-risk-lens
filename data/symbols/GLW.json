@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T09:41:02.949567+00:00",
+  "generated_at": "2026-10-22T14:41:20.376802+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 134.92,
-    "change_pct": 2.0111900801451643
+    "price": 125.41,
+    "change_pct": -7.0486214052772
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-29T23:03:20.201484+00:00",
-      "close": 158.71
-    },
     {
       "timestamp": "2026-09-30T02:02:27.631274+00:00",
       "close": 158.71
@@ -502,12 +498,48 @@
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 134.92
+    },
+    {
+      "timestamp": "2026-10-22T14:41:20.376802+00:00",
+      "close": 125.41
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-22T12:15:07+00:00",
+      "title": "Unlocking Q3 Potential of Corning (GLW): Exploring Wall Street Estimates for Key Metrics",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T12:00:03+00:00",
+      "title": "Owens Corning Inc (OC) Is a Trending Stock: Facts to Know Before Betting on It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T09:17:21+00:00",
+      "title": "Is Product Launches And US Supply Deals Altering The Investment Case For Apple (AAPL)?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-22T04:31:14+00:00",
       "title": "Corning (GLW) Stock Could Be 31% Below Fair Value As AI Fiber Demand Builds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T00:45:38+00:00",
+      "title": "QuantumScape Corporation Q3 2026 Earnings Call Summary",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -522,48 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-21T13:40:17+00:00",
+      "title": "JP Morgan Maintains Neutral on Corning, Lowers Price Target to $165",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-21T12:13:00+00:00",
       "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T08:07:00+00:00",
-      "title": "Large-Surface-Area Microcarrier Bioreactor Market Forecast 2026-2030 | Capitalize on 15.5% CAGR as Thermo Fisher, Merck, Corning, Lonza and Cytiva Scale Automation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T14:58:45+00:00",
-      "title": "3M Jumps 6% on Expanded Amazon Data Center Deal and Earnings Beat; Coherent Edges Higher, Corning Stays Flat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T13:00:07+00:00",
-      "title": "Corning (GLW) Reports Next Week: Wall Street Expects Earnings Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T11:48:06+00:00",
-      "title": "What Was Ciena Telling You Before Its Stock Ran?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T10:37:50+00:00",
-      "title": "1 Large-Cap Stock to Own for Decades and 2 That Underwhelm",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
