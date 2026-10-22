@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T18:51:16.127318+00:00",
+  "generated_at": "2026-10-22T21:58:57.471596+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 762.19,
-    "change_pct": -1.409926399254935
+    "price": 763.96,
+    "change_pct": -1.1809750481832637
   },
   "risk": {
-    "score": 62,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T08:24:01.020971+00:00",
-      "close": 764.2
-    },
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 768.57
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 762.19
+    },
+    {
+      "timestamp": "2026-10-22T21:58:57.471596+00:00",
+      "close": 763.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-22T19:45:14+00:00",
+      "title": "Costco Turned $1,000 Into $8,018 in Ten Years While the S&P 500 Delivered $3,564",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T18:39:40+00:00",
+      "title": "GE Vernova Slumps 11% as Meta’s Spending Outlook Stokes AI Financing Worries; Vertiv Holdings Drops 7%, Eaton Slides 6%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T18:31:30+00:00",
+      "title": "SoFi Is Now Down 44% in 2026: Did SOFI Stock Just Find a Bottom?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-22T17:07:16+00:00",
       "title": "Bloom Energy Sinks 9% as Pre-Earnings Rally Reverses; FuelCell Drops 6%, Plug Power Falls 3%",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-22T16:01:02+00:00",
       "title": "Procter & Gamble Jumps 6% as Earnings Beat Draws Defensive Buyers; Johnson & Johnson Rises 3%, Coca-Cola Ticks Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T14:57:59+00:00",
-      "title": "Nokia Tumbles 10% Despite Data Center-Driven Profit Beat; Ericsson Slips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T14:45:46+00:00",
-      "title": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:47:55+00:00",
-      "title": "Lockheed Martin Rises 9% as Record Backlog Lifts Outlook; RTX Gains 2%, Northrop Grumman Advances 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

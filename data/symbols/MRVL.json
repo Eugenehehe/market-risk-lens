@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T18:51:16.127318+00:00",
+  "generated_at": "2026-10-22T21:58:57.471596+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 221.78,
-    "change_pct": -9.388789017813359
+    "price": 223.47,
+    "change_pct": -8.698316718418042
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T08:24:01.020971+00:00",
-      "close": 263.27
-    },
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 258.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 221.78
+    },
+    {
+      "timestamp": "2026-10-22T21:58:57.471596+00:00",
+      "close": 223.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-22T18:05:53+00:00",
+      "title": "1 of Wall Street’s favorite stocks to research further and 2 we ignore",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-22T15:45:08+00:00",
       "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-22T10:29:01+00:00",
       "title": "Stock Market Today: SpaceX and Super Micro Revive the AI Trade as Meta Lifts Its Capex Floor and Tesla Beats on a Shrinking Car Business",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T10:28:03+00:00",
-      "title": "U.S. Futures Plunge as Chip Stocks Sink After Tech Earnings, Oil Rises",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

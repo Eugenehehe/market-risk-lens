@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T18:51:16.127318+00:00",
+  "generated_at": "2026-10-22T21:58:57.471596+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 346.41,
-    "change_pct": 0.7035088229309094
+    "price": 348.22,
+    "change_pct": 1.2296869095031804
   },
   "risk": {
-    "score": 56,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T08:24:01.020971+00:00",
-      "close": 329.4
-    },
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 338.29
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 346.41
+    },
+    {
+      "timestamp": "2026-10-22T21:58:57.471596+00:00",
+      "close": 348.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-22T19:35:46+00:00",
+      "title": "Elon Musk invests $1bn in CNN-owner Skydance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T19:05:00+00:00",
+      "title": "Better Buffett Stock: Alphabet vs. Apple",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T19:03:00+00:00",
+      "title": "Elon Musk reportedly invests $1B in Skydance as debt mounts",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T18:24:28+00:00",
+      "title": "Quest Diagnostics: 3 Key Takeaways for Long-Term Investors",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-22T17:42:36+00:00",
       "title": "Investors are punishing Big Tech's biggest spenders. Meta is the latest casualty.",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-10-22T16:45:26+00:00",
       "title": "Meta Vs. Apple: Divergent Edge AI Inference Strategies and Spending",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T16:14:15+00:00",
-      "title": "Apple (AAPL) Stock Could Be 25% Overvalued Despite New Device Launch Plans",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:00:43+00:00",
-      "title": "iPhone Duo preorder surge prompts Apple to raise shipment targets, DigiTimes says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:00:00+00:00",
-      "title": "Alliance for Open Media Sees Rapid AV2 Adoption Across the Video Ecosystem Just Four Months After Release",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T14:07:54+00:00",
-      "title": "One Reason Alphabet Stock Looks Better Than Its Price",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

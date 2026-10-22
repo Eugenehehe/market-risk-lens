@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T18:51:16.127318+00:00",
+  "generated_at": "2026-10-22T21:58:57.471596+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 376.4,
-    "change_pct": -2.6056356250161894
+    "price": 374.58,
+    "change_pct": -3.0765648045126492
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T08:24:01.020971+00:00",
-      "close": 352.84
-    },
     {
       "timestamp": "2026-09-30T15:05:22.825445+00:00",
       "close": 348.72
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 376.4
+    },
+    {
+      "timestamp": "2026-10-22T21:58:57.471596+00:00",
+      "close": 374.58
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-22T17:56:06+00:00",
-      "title": "Tech market, housing market, hotels & handbags",
+      "timestamp": "2026-10-22T19:50:00+00:00",
+      "title": "Stock Market Today: Nasdaq-100 Drop Tops 3%; FirstCash, Southern Copper, Meta Lead Sell-Off (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T17:41:30+00:00",
-      "title": "Update: US Equity Indexes Drop as AI Trade Loses Shine After Meta's Results While Crude Oil Jumps as Iran Warns of Invasion",
+      "timestamp": "2026-10-22T19:47:26+00:00",
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T17:08:48+00:00",
-      "title": "Altimeter’s Gerstner: Scale wins superintelligence race as SpaceX plans $400B compute buildout",
+      "timestamp": "2026-10-22T19:35:46+00:00",
+      "title": "Elon Musk invests $1bn in CNN-owner Skydance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T17:05:42+00:00",
-      "title": "Could a Tesla-SpaceX merger really be the next big move for Elon Musk?",
+      "timestamp": "2026-10-22T19:15:41+00:00",
+      "title": "This level-headed Tesla bull still expects 5 million Cybercabs by 2040",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T16:56:55+00:00",
-      "title": "Elon Musk Hints at Exciting New Capabilities for Tesla’s Optimus Robots",
+      "timestamp": "2026-10-22T19:01:00+00:00",
+      "title": "Still Bullish Into Year-End: Thoughts on the Kospi Bottoming and Brent Topping",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T16:47:14+00:00",
-      "title": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+      "timestamp": "2026-10-22T18:44:12+00:00",
+      "title": "Skydance Stock Reverses Early Gain After Report of $1 Billion Elon Musk Investment",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T16:30:34+00:00",
-      "title": "Tesla: 3 Key Takeaways for Long-Term Investors",
+      "timestamp": "2026-10-22T18:20:49+00:00",
+      "title": "Early SpaceX investor Diamandis: Elon’s empire could hit $1 trillion revenue by 2028-29",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T16:30:00+00:00",
-      "title": "Tesla held onto its bitcoin in Q3 as speculation of SpaceX merger grows",
+      "timestamp": "2026-10-22T18:06:02+00:00",
+      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
