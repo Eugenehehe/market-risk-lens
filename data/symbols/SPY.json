@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T14:41:20.376802+00:00",
+  "generated_at": "2026-10-22T18:51:16.127318+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 762.58,
-    "change_pct": -1.3594794913916908
+    "price": 762.19,
+    "change_pct": -1.409926399254935
   },
   "risk": {
-    "score": 61,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T02:02:27.631274+00:00",
-      "close": 764.2
-    },
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 764.2
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-22T14:41:20.376802+00:00",
       "close": 762.58
+    },
+    {
+      "timestamp": "2026-10-22T18:51:16.127318+00:00",
+      "close": 762.19
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-22T17:07:16+00:00",
+      "title": "Bloom Energy Sinks 9% as Pre-Earnings Rally Reverses; FuelCell Drops 6%, Plug Power Falls 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T17:05:02+00:00",
+      "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T16:57:47+00:00",
+      "title": "Fear & Greed Index Hits 31: Investors Are Running Scared. Should You Be?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T16:45:50+00:00",
+      "title": "Chinese Competitors Aren’t Eroding ASML’s EUV Core Monopoly",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T16:01:02+00:00",
+      "title": "Procter & Gamble Jumps 6% as Earnings Beat Draws Defensive Buyers; Johnson & Johnson Rises 3%, Coca-Cola Ticks Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T14:57:59+00:00",
+      "title": "Nokia Tumbles 10% Despite Data Center-Driven Profit Beat; Ericsson Slips",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T14:45:46+00:00",
+      "title": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-22T13:47:55+00:00",
       "title": "Lockheed Martin Rises 9% as Record Backlog Lifts Outlook; RTX Gains 2%, Northrop Grumman Advances 3%",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:37:33+00:00",
-      "title": "Spotify Jumps 10% as Premium Subscriber Growth Tops Forecasts; Sirius XM Stays Put",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:35:40+00:00",
-      "title": "American Airlines Sinks 4% as Fuel Costs Push Outlook to Full-Year Loss; Delta and United Airlines Drop 3%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:15:12+00:00",
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Jobless Claims Data Release",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:03:51+00:00",
-      "title": "IBM Sinks 7% as CEO’s AI Spending Caution Overshadows Earnings Beat; Accenture and Infosys Ease Back",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T12:45:24+00:00",
-      "title": "Altria’s Stock Has a Surprising 10-Year Return. Dividends Tell the Story",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T11:15:33+00:00",
-      "title": "NextEra Energy Lost 15% in 6 Months: A Respected Analyst Predicts 40% Returns in 12 Months",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T09:55:56+00:00",
-      "title": "'Nippon Steel To Spend $3B On U.S. Steel Plant To Update 90-Year-Old Hardware; New Hot Roller At Mon Valley Works Will Feature Japanese Company's Latest Tech' - Nikkei Asia",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

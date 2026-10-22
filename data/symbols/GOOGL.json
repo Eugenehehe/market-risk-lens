@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T14:41:20.376802+00:00",
+  "generated_at": "2026-10-22T18:51:16.127318+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 327.12,
-    "change_pct": -2.2822320468395274
+    "price": 323.42,
+    "change_pct": -3.3875014936073478
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T02:02:27.631274+00:00",
-      "close": 340.92
-    },
     {
       "timestamp": "2026-09-30T08:24:01.020971+00:00",
       "close": 340.92
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-22T14:41:20.376802+00:00",
       "close": 327.12
+    },
+    {
+      "timestamp": "2026-10-22T18:51:16.127318+00:00",
+      "close": 323.42
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-22T13:45:54+00:00",
-      "title": "Stock Market Today: Dow Falls As Oil Prices Jump; Meta, Tesla Slide On Earnings (Live Coverage)",
+      "timestamp": "2026-10-22T17:42:36+00:00",
+      "title": "Investors are punishing Big Tech's biggest spenders. Meta is the latest casualty.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T13:45:19+00:00",
-      "title": "Meta Just Burned Cash for the First Time Since Its IPO",
+      "timestamp": "2026-10-22T17:30:00+00:00",
+      "title": "Stock Market Today: Nasdaq Hit As Meta, Alphabet Slide Below Key Levels (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T13:26:19+00:00",
-      "title": "Should Match Stock's New High Stop You From Buying?",
+      "timestamp": "2026-10-22T17:08:50+00:00",
+      "title": "Does SpaceX’s $8 Billion Spectrum Deal Mean Verizon’s Q3 Earnings Don’t Really Matter?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T13:00:00+00:00",
-      "title": "PreScalar Raises $7M to Build the Software Layer for the Modern Factory",
+      "timestamp": "2026-10-22T17:07:02+00:00",
+      "title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T12:56:46+00:00",
-      "title": "Meta Falls 3% as Higher AI Spending Outlook Overshadows Earnings Beat; Alphabet Dips, Microsoft Holds Steady",
+      "timestamp": "2026-10-22T17:00:00+00:00",
+      "title": "Microsoft, Google parent and McDonald’s protest new trading plan",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T12:45:45+00:00",
-      "title": "I Keep Buying Alphabet Expressly Because of Chips and Interest Rates",
+      "timestamp": "2026-10-22T16:58:55+00:00",
+      "title": "A breakdown of Meta's stock split & what it means",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T12:41:00+00:00",
-      "title": "If Netflix Can’t Shine in Show Business, Who Can?",
+      "timestamp": "2026-10-22T16:30:36+00:00",
+      "title": "Prediction: One of the World’s Biggest Stocks Could Still Have Room to Run",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T12:32:41+00:00",
-      "title": "Should You Buy Snap Stock For Its Cash?",
+      "timestamp": "2026-10-22T16:16:05+00:00",
+      "title": "How Unusual Is Box's Latest Profit Margin?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
