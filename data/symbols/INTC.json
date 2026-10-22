@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:46:05.530906+00:00",
+  "generated_at": "2026-10-22T09:41:02.949567+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 92.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-29T19:21:32.830061+00:00",
-      "close": 116.09
-    },
     {
       "timestamp": "2026-09-29T23:03:20.201484+00:00",
       "close": 115.93
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-22T04:46:05.530906+00:00",
       "close": 92.96
+    },
+    {
+      "timestamp": "2026-10-22T09:41:02.949567+00:00",
+      "close": 92.96
     }
   ],
   "events": [
@@ -525,6 +525,14 @@
       "timestamp": "2026-10-21T20:10:01+00:00",
       "title": "Texas Instruments (TXN) Q3 Earnings and Revenues Top Estimates",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-21T18:05:59+00:00",
+      "title": "S&P 500 Most-Active Stocks on Oct. 21: Netflix, Super Micro Computer and AT&T Lead",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-21T15:46:54+00:00",
       "title": "Intel advances Arizona, Ohio factory projects as chip demand outlook improves",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T15:16:20+00:00",
-      "title": "Anthropic Has Locked In Over $600 Billion of Computing, More Than Intel Is Worth. It Still Wants More and That’s Big News for AMD.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
