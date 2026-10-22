@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T21:34:00.763530+00:00",
+  "generated_at": "2026-10-22T00:10:14.645764+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 134.92,
     "change_pct": 2.0111900801451643
   },
   "risk": {
-    "score": 67,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-29T07:09:13.283821+00:00",
-      "close": 151.59
-    },
     {
       "timestamp": "2026-09-29T14:03:47.052902+00:00",
       "close": 157.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 134.92
+    },
+    {
+      "timestamp": "2026-10-22T00:10:14.645764+00:00",
+      "close": 134.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-21T20:35:02+00:00",
+      "title": "Is Amphenol Still The Business You Bought?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-21T12:13:00+00:00",
       "title": "CIEN Wins Space Norway Cable Deal: Can Subsea Networking Drive Growth?",
@@ -548,22 +556,6 @@
     {
       "timestamp": "2026-10-20T10:37:50+00:00",
       "title": "1 Large-Cap Stock to Own for Decades and 2 That Underwhelm",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T17:09:24+00:00",
-      "title": "GLW, VZ, COHR In Focus As AI Fiber Shortage Drives Prices Higher — TrendForce Sees Supply Crunch Through 2028",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-19T16:52:13+00:00",
-      "title": "Can Meta’s Fiber Partner Corning Capitalize On Rising AI Fiber Prices?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
