@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T19:11:14.989394+00:00",
+  "generated_at": "2026-10-23T22:12:22.566221+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 524.14,
-    "change_pct": 0.5872418822445491
+    "price": 524.51,
+    "change_pct": 0.6582482536270806
   },
   "risk": {
-    "score": 55,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T09:18:16.646658+00:00",
-      "close": 512.9
-    },
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 514.5
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-23T19:11:14.989394+00:00",
       "close": 524.14
+    },
+    {
+      "timestamp": "2026-10-23T22:12:22.566221+00:00",
+      "close": 524.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T19:54:59+00:00",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T19:37:00+00:00",
+      "title": "Post-it Notes maker 3M eyes AI gold rush in major Amazon deal",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T19:17:16+00:00",
+      "title": "Stock Market Today: Dow Sheds 600 Points As Oil Jumps; Samsara Breaks Out (Live Coverage)",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T18:45:00+00:00",
+      "title": "Microsoft Poised for Largely In-Line Quarterly Earnings Amid Azure Strength, BofA Says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T18:33:48+00:00",
+      "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-23T17:47:09+00:00",
       "title": "Strong Azure Growth and Cash Flow Discipline Strengthen Microsoft Corporation (MSFT)",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-10-23T17:09:20+00:00",
       "title": "Stock Market Today: Dow Slumps 500 Points On Rising Oil Prices; 3 Oil Stocks To Watch (Live Coverage)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T17:00:15+00:00",
-      "title": "Adobe Stock Has Been Under Pressure. Here’s What Could Spark a Turnaround",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T16:47:08+00:00",
-      "title": "Nvidia Analyst Warns 45% of AI Data Center Capacity Planned for 2027 May Not Get Built",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T15:36:31+00:00",
-      "title": "Durable Growth Reinforces Microsoft Corporation’s (MSFT) Investment Thesis",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T15:36:27+00:00",
-      "title": "Blackstone's $2.3 Billion CoreWeave Bet Sparked a Trillion-Dollar AI Lending Boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T15:11:46+00:00",
-      "title": "Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
