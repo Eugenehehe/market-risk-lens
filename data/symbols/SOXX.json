@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 475.69,
-    "change_pct": -6.7932439846382975
+    "price": 482.19,
+    "change_pct": 1.36643612436671
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 568.64
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 568.64
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 475.69
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 482.19
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T09:45:23+00:00",
+      "title": "$1.3 Trillion Equity-Fund Rush Is Shattering Records: Tech ETFs That Are in Play",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T01:45:52+00:00",
+      "title": "SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T16:18:29+00:00",
+      "title": "Walmart’s Best Month Since 1999 Leads a Record Staples Rally: Is This a Warning Sign?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T16:12:46+00:00",
+      "title": "Michael Burry Shares Chilling Song on AI: 'Watching Trillion-Dollar Monuments Become Obsolete'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T16:07:14+00:00",
+      "title": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-22T15:45:08+00:00",
       "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
@@ -514,56 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-22T15:43:23+00:00",
+      "title": "Western Digital Is Down 55% From Its June Peak. Can DRAM and SOXX ETFs Hold Up?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-22T15:05:48+00:00",
       "title": "SOXX Is Splitting 3-for-1 Again: What Changes for Your Shares and What Doesn’t",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T14:44:50+00:00",
-      "title": "Lam Research Sinks 9% as Supply Constraints Cap Outlook; Applied Materials Drops 6%, ASML Holding Falls 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T14:25:32+00:00",
-      "title": "Berkshire Finally Topped Its Pre-Buffett-Exit Peak",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:11:56+00:00",
-      "title": "Chip Stocks Tumble, Crushing Investor Hopes for a Long-Term Rebound",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T12:32:00+00:00",
-      "title": "Texas Instruments Earnings Pass the Test",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T12:13:28+00:00",
-      "title": "5 Things to Know Before the Stock Market Opens on Thursday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T11:23:41+00:00",
-      "title": "Winning AI Trade Stalls While Investors Bet On Victims Instead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

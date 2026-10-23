@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 374.58,
-    "change_pct": -3.0765648045126492
+    "price": 376.27,
+    "change_pct": 0.4511719792834601
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 354.81
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 354.81
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 374.58
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 376.27
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-23T07:05:00+00:00",
-      "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
+      "timestamp": "2026-10-23T13:29:03+00:00",
+      "title": "CFOs On the Move: Week ending Oct. 23",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T06:42:29+00:00",
-      "title": "Tesla Fell 3% as Musk Trims Capex, Delays Optimus Ramp for “The Biggest Product on Earth”",
+      "timestamp": "2026-10-23T13:22:00+00:00",
+      "title": "EV Battery Reuse Market Size, Share, Growth Opportunities, and Forecast, 2026-2035 | Old EV Batteries Get a Second Life and a Shot at a $32.9 Billion Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T06:13:55+00:00",
-      "title": "TSLA Eyes Best Week In 2 Months — Analyst Sees Physical Tech’s ‘Berkshire,’ But Bear Credits Court Ruling For Q3 Beat",
+      "timestamp": "2026-10-23T13:17:24+00:00",
+      "title": "Buy pullback in this chip stock, Mizuho says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T06:13:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: Tesla and SpaceX",
+      "timestamp": "2026-10-23T12:52:00+00:00",
+      "title": "How Accounting Helped Tesla Beat Gross Profit Numbers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T04:03:00+00:00",
-      "title": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
+      "timestamp": "2026-10-23T12:47:00+00:00",
+      "title": "QuantumScape's Q3 Loss Narrows on Lower Operating Costs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T03:34:02+00:00",
-      "title": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
+      "timestamp": "2026-10-23T12:33:00+00:00",
+      "title": "Could a $10,000 Investment in Micron Set You Up for Life?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T02:20:02+00:00",
-      "title": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
+      "timestamp": "2026-10-23T12:10:35+00:00",
+      "title": "Stocks Down Pre-Bell Amid Tech Selloff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-23T02:00:00+00:00",
-      "title": "Why Trump Can't Afford to Lose The Rare Earth Race",
+      "timestamp": "2026-10-23T12:09:35+00:00",
+      "title": "Tesla And 2 Other Top Founder Led Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

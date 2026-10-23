@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 85.49,
-    "change_pct": -8.03571428571429
+    "price": 86.88,
+    "change_pct": 1.6259211603696366
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 120.23
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 120.23
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 85.49
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 86.88
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-23T06:01:51+00:00",
-      "title": "Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints",
+      "timestamp": "2026-10-23T13:22:10+00:00",
+      "title": "SK Hynix calls off Solidigm US IPO — and investors may like it",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T20:45:16+00:00",
-      "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
+      "timestamp": "2026-10-23T12:21:00+00:00",
+      "title": "Will AI Data Center Demand Boost ASE Technology's Long-Term Growth?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T19:50:53+00:00",
-      "title": "Meta stock falls despite Wall Street analysts raising price targets",
+      "timestamp": "2026-10-23T12:17:00+00:00",
+      "title": "SK Hynix Just Sent Another Warning Signal to the AI Trade",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T18:25:00+00:00",
-      "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
+      "timestamp": "2026-10-23T11:15:58+00:00",
+      "title": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T18:00:44+00:00",
-      "title": "Most-Active US Stocks on Oct. 22: SHFS Has Heaviest Volume",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T17:25:49+00:00",
-      "title": "Could Intel be the next trillion-dollar company?",
+      "timestamp": "2026-10-23T11:15:31+00:00",
+      "title": "AMD Has a High Floor, High Volatility Trajectory Through the End of 2026",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T17:14:19+00:00",
-      "title": "Wall Street Says Cadence Is Successfully Monetizing AI Chip Complexity, but Will Valuation Still Sink the Stock?",
+      "timestamp": "2026-10-23T10:25:00+00:00",
+      "title": "SK Hynix Scraps U.S. IPO of Memory-Chip Unit. Why the Stock Is Jumping.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T15:45:08+00:00",
-      "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+      "timestamp": "2026-10-23T10:20:02+00:00",
+      "title": "Prediction: Intel Stock Will Take Off After Oct. 29",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T09:02:00+00:00",
+      "title": "What Would It Take For Qualcomm Stock To Move Higher?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

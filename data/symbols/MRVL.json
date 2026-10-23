@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 223.47,
-    "change_pct": -8.698316718418042
+    "price": 230.17,
+    "change_pct": 2.9981653018302135
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 264.21
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 264.21
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 223.47
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 230.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T12:45:58+00:00",
+      "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T12:45:57+00:00",
+      "title": "Arm’s Ready-Made Blueprints: The Blueprint Attack on Marvell’s Challenger Crown",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T11:01:12+00:00",
+      "title": "Stock Market Today: Meta’s Spending Plans Reignite AI Bubble Fears as the Nasdaq Sinks 2.6% and Money Runs to Defensives",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-23T05:12:14+00:00",
       "title": "What Marvell Technology Holders Bought Into Before A 170% Run",
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T13:53:00+00:00",
-      "title": "MRVL Taps Into AI Infrastructure Growth: What's Next for Investors?",
-      "source": "Yahoo",
+      "timestamp": "2026-10-22T14:46:54+00:00",
+      "title": "Cohu shares are trading lower after the company reported worse-than-expected Q4 adjusted EPS results.",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-22T13:26:50+00:00",
-      "title": "Is It Too Late To Buy Marvell Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:06:48+00:00",
-      "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T12:36:00+00:00",
-      "title": "S&P 500 Premarket Movers on Oct. 22: Allegion and Lockheed Martin Gain, Snap-on and Lam Research Fall",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T11:45:44+00:00",
-      "title": "Does The Move In AMD Stock Change Anything?",
-      "source": "Yahoo",
+      "timestamp": "2026-10-22T14:15:24+00:00",
+      "title": "Bloom Energy’s October Stock Slump Deepens: Options Signal Post-Earnings Bounce to $230",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

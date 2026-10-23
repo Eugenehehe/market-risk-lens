@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 98.92,
-    "change_pct": -5.817385508902218
+    "price": 99.49,
+    "change_pct": 0.5762232106752974
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 43,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 110.55
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 110.55
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 98.92
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 99.49
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-22T14:40:02+00:00",
       "title": "SYF or FUTU: Which Is the Better Value Stock Right Now?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T13:02:47+00:00",
+      "title": "Securitize shares are trading higher after Rosenblatt initiated its coverage on the stock with a Buy rating and announced a price target of $14.",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

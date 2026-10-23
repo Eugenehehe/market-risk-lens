@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 412.35,
-    "change_pct": -4.524300169024508
+    "price": 419.22,
+    "change_pct": 1.6660603855947587
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 456.19
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 456.19
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 412.35
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 419.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T11:15:58+00:00",
+      "title": "The Foundry Disconnect: Intel Nails the Transistor, But TSMC Holds the Keys to Yield and Scale.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T10:01:28+00:00",
+      "title": "Taiwan Semiconductor (NYSE:TSM) Delivers High Growth as Earnings Revisions and Margins Strengthen",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T07:00:19+00:00",
+      "title": "Nvidia’s China Market Has Effectively Vanished: ‘Every Restriction Also Gives Chinese Suppliers a Larger Captive Market,’ Says Shay Boloor",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T05:55:50+00:00",
+      "title": "Anthropic’s Path to $1.5 Trillion Demands 30% Margins: Plausible, but Delivering Is Another Matter",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-22T22:14:08+00:00",
       "title": "5 Undervalued AI Stocks According to the Media",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-10-22T16:45:50+00:00",
       "title": "Chinese Competitors Aren’t Eroding ASML’s EUV Core Monopoly",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T16:28:39+00:00",
-      "title": "Taiwan Semiconductor Wants In on SpaceX’s Terafab — but Only If It Runs the Fab",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:05:48+00:00",
-      "title": "SOXX Is Splitting 3-for-1 Again: What Changes for Your Shares and What Doesn’t",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:58:08+00:00",
-      "title": "Perma-Fix Environmental Services (PESI): Navigating Slipping Government Timelines and Financing Concerns",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T13:15:47+00:00",
-      "title": "FuboTV’s (FUBO) Strategic Plan to Turn Streaming Distribution into Durable Free Cash Flow",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

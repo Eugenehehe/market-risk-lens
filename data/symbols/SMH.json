@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T10:12:48.598377+00:00",
+  "generated_at": "2026-10-23T15:08:28.042420+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 523.35,
-    "change_pct": -5.99065924196156
+    "price": 530.74,
+    "change_pct": 1.41205694086175
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T02:26:25.802081+00:00",
-      "close": 609
-    },
     {
       "timestamp": "2026-10-01T09:18:16.646658+00:00",
       "close": 609
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-23T10:12:48.598377+00:00",
       "close": 523.35
+    },
+    {
+      "timestamp": "2026-10-23T15:08:28.042420+00:00",
+      "close": 530.74
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T09:45:23+00:00",
+      "title": "$1.3 Trillion Equity-Fund Rush Is Shattering Records: Tech ETFs That Are in Play",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-23T07:09:00+00:00",
       "title": "The Zacks Analyst Blog Highlights SHOC, XSD, FTXL, CHPS and SMH",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-22T16:07:14+00:00",
+      "title": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-22T15:05:48+00:00",
       "title": "SOXX Is Splitting 3-for-1 Again: What Changes for Your Shares and What Doesn’t",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T13:26:37+00:00",
+      "title": "Meta Tumbles 6% on AI Spending Fears, 10-Year Yield Falls Below 5%: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-21T13:02:19+00:00",
       "title": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T12:22:05+00:00",
-      "title": "The Earnings Twist In The AI Chip Bubble Debate",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:11:48+00:00",
-      "title": "Semiconductor Stocks May Face An Explosive Move This Week",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:05:00+00:00",
-      "title": "Europe's Debt, U.S. Big Tech Put To The Test",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
