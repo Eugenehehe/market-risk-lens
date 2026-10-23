@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T21:58:57.471596+00:00",
+  "generated_at": "2026-10-23T00:32:06.128452+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 523.35,
     "change_pct": -5.99065924196156
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T15:05:22.825445+00:00",
-      "close": 608.32
-    },
     {
       "timestamp": "2026-09-30T19:58:25.798328+00:00",
       "close": 609.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-22T21:58:57.471596+00:00",
       "close": 523.35
+    },
+    {
+      "timestamp": "2026-10-23T00:32:06.128452+00:00",
+      "close": 523.35
     }
   ],
   "events": [
@@ -557,14 +557,6 @@
       "timestamp": "2026-10-21T06:30:00+00:00",
       "title": "Market's Uneven Response To Higher Rates",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-20T22:03:02+00:00",
-      "title": "Forget SMH. Invesco’s Chip Fund Returned 67.69% Over the Past Year Against SMH’s 61.32%.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
