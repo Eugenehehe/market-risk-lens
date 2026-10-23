@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T15:08:28.042420+00:00",
+  "generated_at": "2026-10-23T19:11:14.989394+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 127.16,
-    "change_pct": 1.2904253624342665
+    "price": 127.58,
+    "change_pct": 1.6249800860283603
   },
   "risk": {
-    "score": 61,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T09:18:16.646658+00:00",
-      "close": 137.3
-    },
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 137.27
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 127.16
+    },
+    {
+      "timestamp": "2026-10-23T19:11:14.989394+00:00",
+      "close": 127.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T17:20:39+00:00",
+      "title": "1 software stock worth your attention and 2 we brush off",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T14:01:54+00:00",
+      "title": "Apple is catching up to Nvidia's market cap, and investors are waiting on Anthropic's IPO",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T13:55:18+00:00",
+      "title": "Dan Ives Calls AI Sell-Off ‘SaaS Apocalypse 2.0,’ Says Oracle Is ‘In The Toughest Spot’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T13:02:00+00:00",
+      "title": "Oracle vs. Alibaba: Which Cloud Stock Holds the Edge Right Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-23T13:00:58+00:00",
       "title": "CoreWeave Has a $100 Billion AI Opportunity, but Investors Face One Big Question",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-10-23T12:01:00+00:00",
       "title": "Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Modernization for Customers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T12:00:27+00:00",
-      "title": "Salesforce Is Betting Big on AI. The Payoff Could Be Bigger Than Investors Expect",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T12:00:00+00:00",
-      "title": "Oracle Expands Marketplace to Unlock New Partner Growth Opportunities",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T11:26:01+00:00",
-      "title": "The Bond Market Is Sending a Dire Warning to Wall Street About the AI Infrastructure Build-Out, but Is Anyone Paying Attention?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T11:15:53+00:00",
-      "title": "Nebius Has Cratered Over The Last 3 Months: This Wall Street Ratings Firm Says 2.5X Returns Will Materialize Soon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T15:08:28.042420+00:00",
+  "generated_at": "2026-10-23T19:11:14.989394+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 230.17,
-    "change_pct": 2.9981653018302135
+    "price": 228.9,
+    "change_pct": 2.4298563565579245
   },
   "risk": {
-    "score": 74,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T09:18:16.646658+00:00",
-      "close": 264.21
-    },
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 266.03
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 230.17
+    },
+    {
+      "timestamp": "2026-10-23T19:11:14.989394+00:00",
+      "close": 228.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T16:45:03+00:00",
+      "title": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-23T12:45:58+00:00",
       "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-22T14:46:54+00:00",
       "title": "Cohu shares are trading lower after the company reported worse-than-expected Q4 adjusted EPS results.",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T14:15:24+00:00",
-      "title": "Bloom Energy’s October Stock Slump Deepens: Options Signal Post-Earnings Bounce to $230",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

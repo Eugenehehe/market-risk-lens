@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T15:08:28.042420+00:00",
+  "generated_at": "2026-10-23T19:11:14.989394+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 460.42,
-    "change_pct": 1.6491886521691201
+    "price": 457.58,
+    "change_pct": 1.0221878794568928
   },
   "risk": {
-    "score": 64,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T09:18:16.646658+00:00",
-      "close": 537.95
-    },
     {
       "timestamp": "2026-10-01T16:32:29.266872+00:00",
       "close": 537.37
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 460.42
+    },
+    {
+      "timestamp": "2026-10-23T19:11:14.989394+00:00",
+      "close": 457.58
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T17:09:16+00:00",
+      "title": "Hewlett Packard Enterprise Climbs 4% While AI Server Peers Lag; Dell Rises 2%, Super Micro Unchanged",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-23T13:52:00+00:00",
+      "title": "DELL vs. APLD: Which AI-Infrastructure Stock Looks More Attractive?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-23T13:00:00+00:00",
       "title": "Texas Athletics and McCombs School of Business Launch New Bevo Lab, Bringing Together Sports, AI and Analytics",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-22T20:45:03+00:00",
       "title": "Here's Why Dell Technologies (DELL) Fell More Than Broader Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T19:44:20+00:00",
-      "title": "Dell Unveiled New AI Servers a Week After Barclays’ Downgrade. Here’s Where the Stock Could Go by 2031",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:19:00+00:00",
-      "title": "AI-Trade Warnings Are Ringing From Australia to Texas. How Midterm Elections Could Add to the Concerns.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
