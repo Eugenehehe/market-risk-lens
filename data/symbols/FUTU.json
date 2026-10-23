@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T00:32:06.128452+00:00",
+  "generated_at": "2026-10-23T05:16:47.557896+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 98.92,
     "change_pct": -5.817385508902218
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T19:58:25.798328+00:00",
-      "close": 110.66
-    },
     {
       "timestamp": "2026-09-30T23:38:52.166804+00:00",
       "close": 110.55
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-23T00:32:06.128452+00:00",
       "close": 98.92
+    },
+    {
+      "timestamp": "2026-10-23T05:16:47.557896+00:00",
+      "close": 98.92
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-22T14:40:02+00:00",
+      "title": "SYF or FUTU: Which Is the Better Value Stock Right Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

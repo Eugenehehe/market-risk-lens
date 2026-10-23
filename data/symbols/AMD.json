@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:32:06.128452+00:00",
+  "generated_at": "2026-10-23T05:16:47.557896+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 507.93,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T19:58:25.798328+00:00",
-      "close": 612.26
-    },
     {
       "timestamp": "2026-09-30T23:38:52.166804+00:00",
       "close": 611.76
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-23T00:32:06.128452+00:00",
       "close": 507.93
+    },
+    {
+      "timestamp": "2026-10-23T05:16:47.557896+00:00",
+      "close": 507.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-23T01:45:52+00:00",
+      "title": "SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T23:57:53+00:00",
+      "title": "AMD, Monolithic Power Systems, MACOM, Vishay Intertechnology, and Semtech shares plummet, what you need to know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-22T22:15:35+00:00",
       "title": "Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-22T15:45:08+00:00",
       "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:32:34+00:00",
-      "title": "Applied Materials Sinks 7% on Lam’s Outlook: “A Bit Higher” Wasn’t Enough",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:20:24+00:00",
-      "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

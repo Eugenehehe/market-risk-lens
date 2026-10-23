@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T00:32:06.128452+00:00",
+  "generated_at": "2026-10-23T05:16:47.557896+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 523.35,
     "change_pct": -5.99065924196156
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-09-30T19:58:25.798328+00:00",
-      "close": 609.64
-    },
     {
       "timestamp": "2026-09-30T23:38:52.166804+00:00",
       "close": 609
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-23T00:32:06.128452+00:00",
       "close": 523.35
+    },
+    {
+      "timestamp": "2026-10-23T05:16:47.557896+00:00",
+      "close": 523.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-22T15:05:48+00:00",
+      "title": "SOXX Is Splitting 3-for-1 Again: What Changes for Your Shares and What Doesn’t",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-22T11:08:58+00:00",
+      "title": "Tech, Oil Worries Undercut Wall Street Pre-Bell; Asia, Europe Down",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-21T21:00:04+00:00",
       "title": "ETF League Tables: Inflows Total $360M For VanEck",
@@ -548,14 +564,6 @@
     {
       "timestamp": "2026-10-21T07:35:43+00:00",
       "title": "Who Pays For AI And Can It Maintain The Massive Data Center Buildout Humming",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T06:30:00+00:00",
-      "title": "Market's Uneven Response To Higher Rates",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
