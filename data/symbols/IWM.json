@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T22:12:22.566221+00:00",
+  "generated_at": "2026-10-24T00:44:55.422678+00:00",
   "snapshot": {
     "symbol": "IWM",
     "price": 275.75,
     "change_pct": -0.33252611414320565
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 41,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-01T21:16:52.714621+00:00",
-      "close": 279.02
-    },
     {
       "timestamp": "2026-10-02T00:53:40.522958+00:00",
       "close": 279.02
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-23T22:12:22.566221+00:00",
       "close": 275.75
+    },
+    {
+      "timestamp": "2026-10-24T00:44:55.422678+00:00",
+      "close": 275.75
     }
   ],
   "events": [
@@ -517,54 +517,6 @@
       "timestamp": "2026-10-22T11:00:23+00:00",
       "title": "Defensives Lead Sectors In Thursday Trading As Growth Trails",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T13:02:19+00:00",
-      "title": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:28:00+00:00",
-      "title": "Government Deficit Reaches $2T In Fiscal Year 2026",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:13:52+00:00",
-      "title": "The K-Shaped Economy Is Looking Sicklier By The Quarter",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:11:48+00:00",
-      "title": "Semiconductor Stocks May Face An Explosive Move This Week",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T11:00:39+00:00",
-      "title": "Cyclicals Top Sectors In Wednesday Trading As Defensives Trail",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-21T09:15:00+00:00",
-      "title": "The True Colors Of An AI Unwind",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
