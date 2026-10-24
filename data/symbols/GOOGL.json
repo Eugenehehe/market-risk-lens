@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T19:14:58.057012+00:00",
+  "generated_at": "2026-10-24T21:39:54.249830+00:00",
   "snapshot": {
     "symbol": "GOOGL",
     "price": 320.21,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-03T01:20:24.665650+00:00",
-      "close": 343.5
-    },
     {
       "timestamp": "2026-10-03T06:40:04.779671+00:00",
       "close": 343.5
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-24T19:14:58.057012+00:00",
       "close": 320.21
+    },
+    {
+      "timestamp": "2026-10-24T21:39:54.249830+00:00",
+      "close": 320.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-24T17:54:13+00:00",
+      "title": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-24T17:31:23+00:00",
       "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-24T14:21:24+00:00",
       "title": "Microsoft Q1: A $744 Billion AI Reckoning Is Coming",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-24T14:10:28+00:00",
-      "title": "What Investors Overlooked Before Intel's 127% Run",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
