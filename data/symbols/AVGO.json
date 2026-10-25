@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:44:05.403457+00:00",
+  "generated_at": "2026-10-25T01:43:50.774808+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 321.68,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-03T12:02:51.737619+00:00",
-      "close": 355.14
-    },
     {
       "timestamp": "2026-10-03T16:11:13.076113+00:00",
       "close": 355.14
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-24T23:44:05.403457+00:00",
       "close": 321.68
+    },
+    {
+      "timestamp": "2026-10-25T01:43:50.774808+00:00",
+      "close": 321.68
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-24T22:11:22+00:00",
+      "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-24T17:54:13+00:00",
       "title": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-23T17:35:00+00:00",
       "title": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T16:45:03+00:00",
-      "title": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

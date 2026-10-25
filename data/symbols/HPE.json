@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T23:44:05.403457+00:00",
+  "generated_at": "2026-10-25T01:43:50.774808+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 56.69,
     "change_pct": 2.1993870560663487
   },
   "risk": {
-    "score": 68,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-03T12:02:51.737619+00:00",
-      "close": 69.33
-    },
     {
       "timestamp": "2026-10-03T16:11:13.076113+00:00",
       "close": 69.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-24T23:44:05.403457+00:00",
       "close": 56.69
+    },
+    {
+      "timestamp": "2026-10-25T01:43:50.774808+00:00",
+      "close": 56.69
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-10-23T12:00:27+00:00",
       "title": "How Everpure Is Winning Over Hyperscalers In The AI Data Center Race",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T19:44:20+00:00",
-      "title": "Dell Unveiled New AI Servers a Week After Barclays’ Downgrade. Here’s Where the Stock Could Go by 2031",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T19:28:17+00:00",
-      "title": "Why Does SanDisk Stock's High Cash Yield Get So Little Credit?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T18:10:33+00:00",
-      "title": "NVIDIA (NVDA) Launched OpenShell For Secure Enterprise AI Agents",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T15:15:31+00:00",
-      "title": "Hewlett Packard Enterprise (HPE) Tests Its Valuation Following NVIDIA AI Factory And Moon Computing News",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-22T12:37:06+00:00",
-      "title": "Are You Sure You Understand Dell Stock's Risk?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
