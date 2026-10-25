@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:56:35.139525+00:00",
+  "generated_at": "2026-10-25T12:25:10.139903+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 86.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-03T19:13:56.584387+00:00",
-      "close": 119.33
-    },
     {
       "timestamp": "2026-10-03T22:10:20.090658+00:00",
       "close": 119.33
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-25T06:56:35.139525+00:00",
       "close": 86.96
+    },
+    {
+      "timestamp": "2026-10-25T12:25:10.139903+00:00",
+      "close": 86.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-25T06:59:06+00:00",
+      "title": "Wall Street Week Ahead",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-24T18:42:48+00:00",
       "title": "Intel Stock Is Up 121% This Year. Here’s the Number to Watch on October 29",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-23T19:37:02+00:00",
       "title": "Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T18:02:29+00:00",
-      "title": "AUSA: V2X President and CEO Jeremy Wensinger",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

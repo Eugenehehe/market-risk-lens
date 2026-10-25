@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:56:35.139525+00:00",
+  "generated_at": "2026-10-25T12:25:10.139903+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 456.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-03T19:13:56.584387+00:00",
-      "close": 562.52
-    },
     {
       "timestamp": "2026-10-03T22:10:20.090658+00:00",
       "close": 562.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-25T06:56:35.139525+00:00",
       "close": 456.44
+    },
+    {
+      "timestamp": "2026-10-25T12:25:10.139903+00:00",
+      "close": 456.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-25T09:50:00+00:00",
+      "title": "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-24T17:40:44+00:00",
       "title": "Broadcom vs. Dell Technologies: Which Stock Is AI Powering to Be a Better Buy in 2026?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-23T20:42:04+00:00",
       "title": "Should You Buy Hewlett Packard Enterprise Stock For Its Cash?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T17:09:16+00:00",
-      "title": "Hewlett Packard Enterprise Climbs 4% While AI Server Peers Lag; Dell Rises 2%, Super Micro Unchanged",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
