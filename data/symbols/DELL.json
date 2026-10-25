@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:53:49.617093+00:00",
+  "generated_at": "2026-10-25T23:46:23.091286+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 456.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T12:35:52.197042+00:00",
-      "close": 562.52
-    },
     {
       "timestamp": "2026-10-04T17:00:56.342246+00:00",
       "close": 562.52
@@ -502,12 +498,24 @@
     {
       "timestamp": "2026-10-25T21:53:49.617093+00:00",
       "close": 456.44
+    },
+    {
+      "timestamp": "2026-10-25T23:46:23.091286+00:00",
+      "close": 456.44
     }
   ],
   "events": [
     {
       "timestamp": "2026-10-25T17:05:00+00:00",
       "title": "3 Superior Growth Stocks to Buy Now and Hold for 10 Years",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-25T14:00:02+00:00",
+      "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-24T04:18:42+00:00",
       "title": "3 AI Infrastructure Stocks To Own In October 2026",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T22:16:18+00:00",
-      "title": "Dividend Champion, Contender, And Challenger Highlights: Week October 25",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
