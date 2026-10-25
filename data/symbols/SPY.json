@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:41:14.624125+00:00",
+  "generated_at": "2026-10-25T19:17:01.315205+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 759.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T00:37:47.542494+00:00",
-      "close": 769.64
-    },
     {
       "timestamp": "2026-10-04T06:20:51.930153+00:00",
       "close": 769.64
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-25T16:41:14.624125+00:00",
       "close": 759.97
+    },
+    {
+      "timestamp": "2026-10-25T19:17:01.315205+00:00",
+      "close": 759.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-25T14:45:18+00:00",
+      "title": "REITs Rebound As Earnings Deliver",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T09:55:15+00:00",
       "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-24T16:57:56+00:00",
       "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-24T15:45:41+00:00",
-      "title": "S&P 500 and Nasdaq 100 Slip as Strong Earnings Collide With AI Bubble Fears and $117 Oil",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

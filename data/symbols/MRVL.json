@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:41:14.624125+00:00",
+  "generated_at": "2026-10-25T19:17:01.315205+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 228.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T00:37:47.542494+00:00",
-      "close": 272.29
-    },
     {
       "timestamp": "2026-10-04T06:20:51.930153+00:00",
       "close": 272.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-25T16:41:14.624125+00:00",
       "close": 228.51
+    },
+    {
+      "timestamp": "2026-10-25T19:17:01.315205+00:00",
+      "close": 228.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-25T16:01:03+00:00",
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-24T22:11:22+00:00",
       "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-23T12:45:57+00:00",
       "title": "Arm’s Ready-Made Blueprints: The Blueprint Attack on Marvell’s Challenger Crown",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T12:20:48+00:00",
-      "title": "What Is Going On With Marvell Technology Stock on Friday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
