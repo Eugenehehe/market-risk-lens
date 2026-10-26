@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T01:48:57.251864+00:00",
+  "generated_at": "2026-10-26T07:06:33.860411+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 228.51,
     "change_pct": 2.2553362867498983
   },
   "risk": {
-    "score": 65,
+    "score": 69,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T20:05:56.843769+00:00",
-      "close": 272.29
-    },
     {
       "timestamp": "2026-10-04T23:03:00.518224+00:00",
       "close": 272.29
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-26T01:48:57.251864+00:00",
       "close": 228.51
+    },
+    {
+      "timestamp": "2026-10-26T07:06:33.860411+00:00",
+      "close": 228.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T05:06:25+00:00",
+      "title": "Is Nvidia Stock Cheaper Now That Its Multiple Has Fallen?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T05:06:06+00:00",
+      "title": "What Changed In AMD's Story?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T03:37:02+00:00",
+      "title": "Chip Stocks to Buy After Their Worst Day Since June",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T23:20:00+00:00",
       "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now",
@@ -541,14 +565,6 @@
       "timestamp": "2026-10-24T15:11:11+00:00",
       "title": "Credo Stock Fell Nearly 10% in a Day as MaxLinear Targeted Its Cable Market. Here’s What Credo’s CEO Called Its Biggest Moat",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-24T08:20:00+00:00",
-      "title": "Our Top 10 High Growth Dividend Stocks - October 2026",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

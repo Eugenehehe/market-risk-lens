@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:48:57.251864+00:00",
+  "generated_at": "2026-10-26T07:06:33.860411+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 877.55,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T20:05:56.843769+00:00",
-      "close": 1074.89
-    },
     {
       "timestamp": "2026-10-04T23:03:00.518224+00:00",
       "close": 1074.89
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-26T01:48:57.251864+00:00",
       "close": 877.55
+    },
+    {
+      "timestamp": "2026-10-26T07:06:33.860411+00:00",
+      "close": 877.55
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T03:37:02+00:00",
+      "title": "Chip Stocks to Buy After Their Worst Day Since June",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T00:42:45+00:00",
       "title": "AI Stocks Surge, Then Plunge: Which of 4 Sectors Is Worth Buying?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-25T05:49:08+00:00",
       "title": "Sell Micron: Don't Wait For Memory Boom To End",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-24T15:50:52+00:00",
-      "title": "PC Sales Just Crashed 21% as AI Eats the World’s Memory Chips",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

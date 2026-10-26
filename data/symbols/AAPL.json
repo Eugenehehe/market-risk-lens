@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:48:57.251864+00:00",
+  "generated_at": "2026-10-26T07:06:33.860411+00:00",
   "snapshot": {
     "symbol": "AAPL",
     "price": 347.725,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T20:05:56.843769+00:00",
-      "close": 333.69
-    },
     {
       "timestamp": "2026-10-04T23:03:00.518224+00:00",
       "close": 333.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-26T01:48:57.251864+00:00",
       "close": 347.725
+    },
+    {
+      "timestamp": "2026-10-26T07:06:33.860411+00:00",
+      "close": 347.725
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T00:10:05+00:00",
+      "title": "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T20:05:00+00:00",
       "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-25T02:41:41+00:00",
       "title": "Peter Thiel Says Apple Did ‘Nothing New’ After Steve Jobs, Calls It a ‘Pure, Well-Run Value Stock’",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T01:11:17+00:00",
-      "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
