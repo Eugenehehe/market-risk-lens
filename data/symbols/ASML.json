@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T19:57:30.456026+00:00",
+  "generated_at": "2026-10-26T23:41:20.791733+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1589.21,
-    "change_pct": 1.107647283369384
+    "price": 1590.9,
+    "change_pct": 1.2151673240870409
   },
   "risk": {
-    "score": 57,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T08:08:27.587468+00:00",
-      "close": 1867.31
-    },
     {
       "timestamp": "2026-10-05T17:07:46.268207+00:00",
       "close": 1855.17
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-26T19:57:30.456026+00:00",
       "close": 1589.21
+    },
+    {
+      "timestamp": "2026-10-26T23:41:20.791733+00:00",
+      "close": 1590.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T18:15:49+00:00",
+      "title": "ASML: Creating Its Own Bottleneck",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T15:13:41+00:00",
       "title": "Chip Stocks Find Support Before Key Reports From Intel, Sandisk",
