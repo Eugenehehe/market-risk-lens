@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T23:46:23.091286+00:00",
+  "generated_at": "2026-10-26T01:48:57.251864+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 228.51,
     "change_pct": 2.2553362867498983
   },
   "risk": {
-    "score": 69,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T17:00:56.342246+00:00",
-      "close": 272.29
-    },
     {
       "timestamp": "2026-10-04T20:05:56.843769+00:00",
       "close": 272.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-25T23:46:23.091286+00:00",
       "close": 228.51
+    },
+    {
+      "timestamp": "2026-10-26T01:48:57.251864+00:00",
+      "close": 228.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-25T23:20:00+00:00",
+      "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T16:01:03+00:00",
       "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
@@ -541,30 +549,6 @@
       "timestamp": "2026-10-24T08:20:00+00:00",
       "title": "Our Top 10 High Growth Dividend Stocks - October 2026",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T16:45:03+00:00",
-      "title": "Marvell Technology Faces a Multi-Front War Against Taiwan’s Custom Silicon Ecosystem",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T13:35:10+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T12:45:58+00:00",
-      "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

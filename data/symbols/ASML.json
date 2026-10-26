@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T23:46:23.091286+00:00",
+  "generated_at": "2026-10-26T01:48:57.251864+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1571.8,
     "change_pct": 0.7215451061811873
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T17:00:56.342246+00:00",
-      "close": 1867.31
-    },
     {
       "timestamp": "2026-10-04T20:05:56.843769+00:00",
       "close": 1867.31
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-25T23:46:23.091286+00:00",
       "close": 1571.8
+    },
+    {
+      "timestamp": "2026-10-26T01:48:57.251864+00:00",
+      "close": 1571.8
     }
   ],
   "events": [
@@ -516,54 +516,6 @@
     {
       "timestamp": "2026-10-24T12:06:22+00:00",
       "title": "Making Advanced MicroChips Takes a Global Ecosystem",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T21:50:02+00:00",
-      "title": "Will Apple Take Over Your (Smart) Home?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T17:12:17+00:00",
-      "title": "ASML (ENXTAM:ASML) Stock Fair Value Edges Higher After Mixed Analyst Revisions",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T16:05:00+00:00",
-      "title": "As the U.S. Pulls Chip Making Back Home, the Toolmakers Win First",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T15:13:00+00:00",
-      "title": "ASML Holding N.V. (ASML) Benefits From Demand for Advanced Semiconductor Manufacturing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T14:45:28+00:00",
-      "title": "China’s Mid-Tier Emergence Threatens ASML Over the Next 3-5 Years",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-23T09:21:00+00:00",
-      "title": "Stock-Split Watch: Is ASML Next?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
