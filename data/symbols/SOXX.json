@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 482.26,
-    "change_pct": 0.8490171476369657
+    "price": 492.69,
+    "change_pct": 3.03011292346298
   },
   "risk": {
-    "score": 51,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 588.9
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 588.9
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 482.26
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 492.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T14:25:00+00:00",
+      "title": "Is The Bull Market A Bargain Or Broken?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T09:46:10+00:00",
+      "title": "What's Going On With BitMine Stock Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T09:30:00+00:00",
       "title": "I Was Wrong: This Is Not The Bottom For AI Stocks",
@@ -514,9 +530,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-26T05:19:58+00:00",
+      "title": "'Black Swan' Author Nassim Taleb Says AI Will Trigger a ‘Collapse in Hiring’ Before Mass Layoffs: ‘Existing Jobs Are Sticky’",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-26T05:01:00+00:00",
       "title": "Weekly Market Pulse: Where The Puck Will Be",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T04:15:18+00:00",
+      "title": "Michael Burry Backs Ken Griffin on AI Bubble Concerns, Says GPU Overcapacity Warning Is Obvious to Anyone With a ‘Working Brain Cell’",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,14 +565,6 @@
       "timestamp": "2026-10-25T08:30:19+00:00",
       "title": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-24T08:30:00+00:00",
-      "title": "The Great Semiconductor Pullback Looks Like A Generational Buying Opportunity",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

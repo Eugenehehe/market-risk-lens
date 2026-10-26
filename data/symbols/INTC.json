@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 87.11,
-    "change_pct": 0.1724931002760055
+    "price": 90.67,
+    "change_pct": 4.2663293468261365
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 119.33
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 119.33
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 87.11
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 90.67
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-26T11:59:12+00:00",
-      "title": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
+      "timestamp": "2026-10-26T17:50:31+00:00",
+      "title": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T10:25:18+00:00",
-      "title": "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
+      "timestamp": "2026-10-26T17:42:01+00:00",
+      "title": "Musk: Terafab Will Rank in “Top 20” GDP From a Single Building",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T10:09:02+00:00",
-      "title": "Intel (INTC) Unveils Crescent Island GPU D Series For Agentic AI",
+      "timestamp": "2026-10-26T16:45:48+00:00",
+      "title": "IBM Fixed Its Plumbing; Intel Became Big Tech’s Real Structural Trap",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T08:47:26+00:00",
-      "title": "Stocktwits Tech Watch: More Big Earnings, Apple’s Touch-Screen MacBook And Intel Results In Focus",
+      "timestamp": "2026-10-26T16:01:21+00:00",
+      "title": "Intel Gains 4% on New Street Upgrade as Server CPU Crunch Is Set to “Persist for Years”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T06:30:19+00:00",
-      "title": "Traders Are Pricing a 11% Swing In Intel Ahead of Earnings",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T05:06:25+00:00",
-      "title": "Is Nvidia Stock Cheaper Now That Its Multiple Has Fallen?",
+      "timestamp": "2026-10-26T15:13:41+00:00",
+      "title": "Chip Stocks Find Support Before Key Reports From Intel, Sandisk",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T05:06:06+00:00",
-      "title": "What Changed In AMD's Story?",
+      "timestamp": "2026-10-26T15:11:00+00:00",
+      "title": "STM to Report Q3 Earnings: Can Healthy Revenues Drive Growth?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T03:02:03+00:00",
-      "title": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
+      "timestamp": "2026-10-26T15:07:00+00:00",
+      "title": "Can Healthy Top-Line Growth Benefit Monolithic Power's Q3 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T15:05:00+00:00",
+      "title": "Intel and TSMC Are Vying for Chip Fabrication Supremacy. 1 Offers Superior Value.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 57.39,
-    "change_pct": 1.2347856764861609
+    "price": 58.63,
+    "change_pct": 3.4221203034044967
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 69.33
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 69.33
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 57.39
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 58.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T14:46:00+00:00",
+      "title": "Intelligent Platform Management Interface (IPMI) - Global Strategic Business Report: Capitalize on a $9.9B Market by 2032 as Cisco, Dell, HPE, Intel and Microsoft Accelerate Data Center Automation",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T14:43:00+00:00",
+      "title": "Global Converged Infrastructure Market Report 2026 | Capitalize on 13.9% CAGR Through 2030 as Dell, Cisco, Huawei, HPE and Nutanix Accelerate Hybrid Cloud and AI Infrastructure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T14:40:03+00:00",
+      "title": "HPE vs. AGYS: Which Stock Is the Better Value Option?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T08:30:00+00:00",
       "title": "Earn 12-15% Potential Income: Monthly Options Series (Nov. 2026)",

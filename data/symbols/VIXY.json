@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 17.44,
-    "change_pct": -2.67857142857143
+    "price": 17.57,
+    "change_pct": -1.953125000000011
   },
   "risk": {
-    "score": 56,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 16.72
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 16.72
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 17.44
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 17.57
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-26T13:13:00+00:00",
+      "title": "Equities Unfazed By Spike In Rates Volatility",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

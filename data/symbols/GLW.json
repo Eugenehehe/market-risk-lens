@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 123.61,
-    "change_pct": -0.06467782359123042
+    "price": 127.07,
+    "change_pct": 2.7326380467297184
   },
   "risk": {
-    "score": 41,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 164.19
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 164.19
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 123.61
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 127.07
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T16:51:00+00:00",
+      "title": "Should Amphenol Stock Be in Your Portfolio Pre-Q3 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T15:10:47+00:00",
+      "title": "Corning (GLW) Q3 earnings: what to expect",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T14:30:00+00:00",
+      "title": "TYL to Report Q3 Earnings: What's in the Cards for the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T13:36:00+00:00",
+      "title": "Garmin Gears Up to Report Q3 Earnings: How to Play the Stock",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T13:31:00+00:00",
+      "title": "Gen Digital to Report Q2 Earnings: What's in the Cards for the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T11:44:00+00:00",
+      "title": "Twilio Gears Up to Report Q3 Earnings: Is a Beat in Store for TWLO?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T22:03:02+00:00",
       "title": "Corning Stock Has Lost Half Its Value Since June. Is It a Buy Before Its Next Report?",
@@ -517,14 +565,6 @@
       "timestamp": "2026-10-25T08:30:19+00:00",
       "title": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-24T15:29:43+00:00",
-      "title": "Can AI Fiber Still Deliver? Corning Faces High-Stakes Q3 Earnings Test Oct. 27 as Valuation Stretches",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

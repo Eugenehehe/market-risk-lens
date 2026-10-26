@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 17.98,
-    "change_pct": -4.157782515991482
+    "price": 18.17,
+    "change_pct": -3.1449893390191885
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 16.97
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 16.97
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 17.98
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 18.17
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-26T13:13:00+00:00",
+      "title": "Equities Unfazed By Spike In Rates Volatility",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

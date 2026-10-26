@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T14:11:39.650458+00:00",
+  "generated_at": "2026-10-26T19:57:30.456026+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1591.58,
-    "change_pct": 1.258429825677565
+    "price": 1589.21,
+    "change_pct": 1.107647283369384
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-05T01:53:03.525670+00:00",
-      "close": 1867.31
-    },
     {
       "timestamp": "2026-10-05T08:08:27.587468+00:00",
       "close": 1867.31
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 1591.58
+    },
+    {
+      "timestamp": "2026-10-26T19:57:30.456026+00:00",
+      "close": 1589.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T15:13:41+00:00",
+      "title": "Chip Stocks Find Support Before Key Reports From Intel, Sandisk",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T14:54:32+00:00",
+      "title": "Why ASML's Q3 2026 Results Dropped The Stock Price",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T13:08:22+00:00",
+      "title": "Netherlands bucks Europe’s tech trend as chipmaking giant rides AI boom, ING says",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T13:00:00+00:00",
+      "title": "ASML reports transactions under its current share buyback program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T04:01:00+00:00",
+      "title": "Alphabet and Microsoft Earnings Will Put Investors’ AI Stress to the Test",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T14:41:44+00:00",
       "title": "Lam Research: Down 29% Since My Sell Call, But The Math Has Changed (Upgrade)",
