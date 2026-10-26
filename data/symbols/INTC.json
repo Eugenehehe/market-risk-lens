@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T07:06:33.860411+00:00",
+  "generated_at": "2026-10-26T14:11:39.650458+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 86.96,
-    "change_pct": 1.7194993566499006
+    "price": 87.11,
+    "change_pct": 0.1724931002760055
   },
   "risk": {
-    "score": 64,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T23:03:00.518224+00:00",
-      "close": 119.33
-    },
     {
       "timestamp": "2026-10-05T01:53:03.525670+00:00",
       "close": 119.33
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 86.96
+    },
+    {
+      "timestamp": "2026-10-26T14:11:39.650458+00:00",
+      "close": 87.11
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T11:59:12+00:00",
+      "title": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T10:25:18+00:00",
+      "title": "US Equity Investors to Monitor Mag-7 Earnings, Fed's Monetary Policy Path, Inflation Data This Week Amid Faltering AI Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T10:09:02+00:00",
+      "title": "Intel (INTC) Unveils Crescent Island GPU D Series For Agentic AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T08:47:26+00:00",
+      "title": "Stocktwits Tech Watch: More Big Earnings, Apple’s Touch-Screen MacBook And Intel Results In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T06:30:19+00:00",
+      "title": "Traders Are Pricing a 11% Swing In Intel Ahead of Earnings",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T05:06:25+00:00",
       "title": "Is Nvidia Stock Cheaper Now That Its Multiple Has Fallen?",
@@ -525,46 +565,6 @@
       "timestamp": "2026-10-26T03:02:03+00:00",
       "title": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T17:25:09+00:00",
-      "title": "Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T15:33:19+00:00",
-      "title": "Intel’s Make-or-Break Margin Test Is Arriving on Oct. 29",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T15:27:00+00:00",
-      "title": "What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T14:05:00+00:00",
-      "title": "Is Intel Stock a Buy Right Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T08:30:19+00:00",
-      "title": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

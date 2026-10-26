@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T07:06:33.860411+00:00",
+  "generated_at": "2026-10-26T14:11:39.650458+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 527.2,
-    "change_pct": 0.7356453616127023
+    "price": 532.73,
+    "change_pct": 1.0489377845219972
   },
   "risk": {
-    "score": 50,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T23:03:00.518224+00:00",
-      "close": 630.6
-    },
     {
       "timestamp": "2026-10-05T01:53:03.525670+00:00",
       "close": 630.6
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 527.2
+    },
+    {
+      "timestamp": "2026-10-26T14:11:39.650458+00:00",
+      "close": 532.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T11:09:50+00:00",
+      "title": "Earnings, Central Bank, Oil Views Lift Wall Street Modestly Pre-Bell; Asia Mixed, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T09:06:42+00:00",
+      "title": "The AI Selloff Is Close To A Bottom: I'm Buying It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T05:01:00+00:00",
+      "title": "Weekly Market Pulse: Where The Puck Will Be",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T21:48:07+00:00",
       "title": "Biggest Earnings Week, Then Elections, And Iran: What Happens? Maybe Rally",

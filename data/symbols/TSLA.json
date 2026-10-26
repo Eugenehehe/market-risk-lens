@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T07:06:33.860411+00:00",
+  "generated_at": "2026-10-26T14:11:39.650458+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 372.22,
-    "change_pct": -0.6300389769875459
+    "price": 393.61,
+    "change_pct": 5.746601472247592
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T23:03:00.518224+00:00",
-      "close": 370.59
-    },
     {
       "timestamp": "2026-10-05T01:53:03.525670+00:00",
       "close": 370.59
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 372.22
+    },
+    {
+      "timestamp": "2026-10-26T14:11:39.650458+00:00",
+      "close": 393.61
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-26T02:25:46+00:00",
-      "title": "Tesla: Fairly Valued With Little Upside",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-10-26T13:36:08+00:00",
+      "title": "S&P 500 Premarket Movers: Gainers and Losers Before the Open",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T02:02:17+00:00",
-      "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "timestamp": "2026-10-26T13:06:31+00:00",
+      "title": "Tesla-Led EV Rally Masks Broad Weakness as Dispersion Widens",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T11:46:43+00:00",
+      "title": "Here Are Monday’s Top Wall Street Analyst Research Calls: Block, Boise Cascade, Equifax, FirstEnergy, Lockheed Martin, Lumentum Holdings, NetApp, Roper Technologies, Spotify, Technology, and More",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T01:30:04+00:00",
-      "title": "Elon Musk Met Xi Jinping and Took Tesla FSD to China — Now His CFO Says Getting the Green Light for Unsupervised Driving Is ‘Hard’",
+      "timestamp": "2026-10-26T11:32:38+00:00",
+      "title": "2 business ideas, moats and the best stuff we found on X",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-25T20:21:14+00:00",
-      "title": "Tesla Is Betting on a Flying Car to Combat Its Stock Slump",
+      "timestamp": "2026-10-26T11:08:20+00:00",
+      "title": "Barclays upgrades Tesla, says SpaceX merger “now a key part of bull case”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-25T20:20:00+00:00",
-      "title": "Elon Musk Became the First Person Ever Confirmed With a Net Worth Above $1 Trillion in June 2026. Here's Why That Milestone Still Matters for Tesla and SpaceX Shareholders.",
+      "timestamp": "2026-10-26T11:00:00+00:00",
+      "title": "Turo and Tesla Debut Industry-First Self-Driving Rental Experience",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-25T19:07:13+00:00",
-      "title": "3 AI Infrastructure Stocks Riding The Tesla And SpaceX Compute Buildout",
+      "timestamp": "2026-10-26T10:55:00+00:00",
+      "title": "YieldMax® ETFs Announces Distributions on MSST, NVIT, and TEST",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-25T18:16:00+00:00",
-      "title": "Did Elon Musk Just Admit to Slowing Starlink in Ukraine?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T18:09:49+00:00",
-      "title": "Tesla (TSLA) Stock Gets Fair Value Bump As Analysts Split On AI And SpaceX",
+      "timestamp": "2026-10-26T10:39:35+00:00",
+      "title": "This Week In Electric Vehicles - Rising Growth in Battery Reuse Driven by Innovation Initiatives",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

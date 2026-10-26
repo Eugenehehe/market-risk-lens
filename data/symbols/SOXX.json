@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T07:06:33.860411+00:00",
+  "generated_at": "2026-10-26T14:11:39.650458+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 478.2,
-    "change_pct": 0.527654564947766
+    "price": 482.26,
+    "change_pct": 0.8490171476369657
   },
   "risk": {
-    "score": 43,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-04T23:03:00.518224+00:00",
-      "close": 588.9
-    },
     {
       "timestamp": "2026-10-05T01:53:03.525670+00:00",
       "close": 588.9
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 478.2
+    },
+    {
+      "timestamp": "2026-10-26T14:11:39.650458+00:00",
+      "close": 482.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-26T09:30:00+00:00",
+      "title": "I Was Wrong: This Is Not The Bottom For AI Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T05:01:00+00:00",
+      "title": "Weekly Market Pulse: Where The Puck Will Be",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-26T01:01:48+00:00",
+      "title": "Qualcomm Is 32% Below Its 52-Week High as It Plans Worldwide Job Cuts. Here’s What Its Rising Costs Need to Show on November 4",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-25T08:30:19+00:00",
       "title": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
