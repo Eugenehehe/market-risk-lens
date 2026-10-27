@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T19:38:37.546231+00:00",
+  "generated_at": "2026-10-27T23:11:55.372580+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 932.17,
-    "change_pct": 3.1503817638596887
+    "price": 928.76,
+    "change_pct": 2.773044151820292
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T16:42:07.535925+00:00",
-      "close": 1066.04
-    },
     {
       "timestamp": "2026-10-06T21:15:47.486560+00:00",
       "close": 1045.56
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-27T19:38:37.546231+00:00",
       "close": 932.17
+    },
+    {
+      "timestamp": "2026-10-27T23:11:55.372580+00:00",
+      "close": 928.76
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-27T20:02:38+00:00",
+      "title": "Stocks Climbed Again, Buoyed by Chipmakers Ahead of the Fed's Policy Decision",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T19:20:00+00:00",
+      "title": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T18:42:54+00:00",
+      "title": "Rosenblatt names top semiconductor picks amid data-center strength",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T18:25:02+00:00",
+      "title": "3 Magnificent Stocks Trading Near Their 52-Week Lows",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T18:01:00+00:00",
+      "title": "Pre-Q1 Earnings: Is Sandisk Stock a Portfolio Must-Have?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T18:00:00+00:00",
+      "title": "TSM vs. MU: Which Semiconductor Stock Is the Better Buy Post-Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T17:54:31+00:00",
+      "title": "AI Cash Kings: 3 Top Chip Stocks Primed For More Explosive Growth",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T17:26:47+00:00",
       "title": "1 of Wall Street’s favorite stocks worth your attention and 2 we turn down",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T17:00:00+00:00",
-      "title": "Micron Announces Over $67 Million in New Idaho Community Investments for Transportation, Housing and Children",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:47:29+00:00",
-      "title": "Micron’s Long-Term Returns Crushed the S&P 500. Does the Recent Drop Matter?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:45:44+00:00",
-      "title": "Broadcom Lined Up a $63B Deal for Anthropic to Get More of Its Chips. The Stock Is Climbing",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:45:35+00:00",
-      "title": "The Memory Bottleneck Divide: SK Hynix Sells out to Tier-1s, Micron Absorbs the Spills",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:45:02+00:00",
-      "title": "Down More Than 50% From Its High, Is Western Digital Stock a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:38:01+00:00",
-      "title": "Micron Technology Stock: Is Now the Time for Investors to Take Profits or Buy More?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:03:55+00:00",
-      "title": "Don’t Be Surprised If NVIDIA, Micron, and SanDisk Outperform the Market Again",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

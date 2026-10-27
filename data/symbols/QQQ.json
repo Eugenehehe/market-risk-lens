@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T19:38:37.546231+00:00",
+  "generated_at": "2026-10-27T23:11:55.372580+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 722.52,
-    "change_pct": 1.449031171019377
+    "price": 721.25,
+    "change_pct": 1.270710474585779
   },
   "risk": {
-    "score": 62,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T16:42:07.535925+00:00",
-      "close": 761.04
-    },
     {
       "timestamp": "2026-10-06T21:15:47.486560+00:00",
       "close": 759.66
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-27T19:38:37.546231+00:00",
       "close": 722.52
+    },
+    {
+      "timestamp": "2026-10-27T23:11:55.372580+00:00",
+      "close": 721.25
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-27T16:15:52+00:00",
+      "title": "The Next 24 Hours Will Be Crucial For The End Of The Year",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T13:23:19+00:00",
       "title": "Broadcom Rises 3% on DA Davidson Upgrade and $400 Target Tied to Anthropic IPO; NVIDIA and AMD Edge Higher",
       "source": "Yahoo",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-27T13:13:50+00:00",
       "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday as Investors Assess Corporate Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:10:59+00:00",
-      "title": "What Few Investors Realize About QQQ’s Dividend",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

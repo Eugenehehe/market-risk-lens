@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T19:38:37.546231+00:00",
+  "generated_at": "2026-10-27T23:11:55.372580+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 127.16,
-    "change_pct": -0.4540472835447007
+    "price": 126.3,
+    "change_pct": -1.1272898074213278
   },
   "risk": {
-    "score": 54,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T16:42:07.535925+00:00",
-      "close": 168.43
-    },
     {
       "timestamp": "2026-10-06T21:15:47.486560+00:00",
       "close": 168.97
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-27T19:38:37.546231+00:00",
       "close": 127.16
+    },
+    {
+      "timestamp": "2026-10-27T23:11:55.372580+00:00",
+      "close": 126.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T20:04:23+00:00",
+      "title": "What Corning (GLW) Said on Its Q3 Earnings Call",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T19:17:36+00:00",
+      "title": "Why Shares of Corning Are Tumbling Lower Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T18:06:05+00:00",
+      "title": "S&P 500 Unusual Volume Movers on Oct. 27, 2026",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T16:55:30+00:00",
       "title": "Corning Incorporated Q3 2026 Earnings Call Summary",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-10-27T15:10:45+00:00",
       "title": "A ‘New’ BlackBerry? How 5 Corporate Reinventions Paid Off for Shareholders",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:07:51+00:00",
-      "title": "Corning Reports 19% Rise in Q3 Core Sales to $5.08 Billion, Forecasts Higher Fourth-Quarter Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:05:00+00:00",
-      "title": "GLW Q3 Earnings Beat Estimates on Strong Optical Communication Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:45:31+00:00",
-      "title": "Tech rises for second day in a row as chip stocks gain: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

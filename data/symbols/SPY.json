@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T19:38:37.546231+00:00",
+  "generated_at": "2026-10-27T23:11:55.372580+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 770.96,
-    "change_pct": 0.7303657054757773
+    "price": 769.66,
+    "change_pct": 0.5605132158302384
   },
   "risk": {
-    "score": 56,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T16:42:07.535925+00:00",
-      "close": 780.27
-    },
     {
       "timestamp": "2026-10-06T21:15:47.486560+00:00",
       "close": 779.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-27T19:38:37.546231+00:00",
       "close": 770.96
+    },
+    {
+      "timestamp": "2026-10-27T23:11:55.372580+00:00",
+      "close": 769.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T18:36:11+00:00",
+      "title": "Archer Aviation Is Still Down 43% in 2026: Did ACHR Stock Just Find a Bottom?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T18:02:16+00:00",
       "title": "Applied Digital Jumps 10% as Data Center Stocks Rebound; Riot Climbs 7%, Core Scientific Gains 4%",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-27T16:15:52+00:00",
+      "title": "The Next 24 Hours Will Be Crucial For The End Of The Year",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T16:02:15+00:00",
       "title": "Energy Fuels Jumps 9% on $126M Australian Financing for Rare Earth Project; NuScale Power Climbs 7%, Oklo Gains 6%",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-27T15:54:27+00:00",
       "title": "Intuitive Machines Surges 9% as Small-Cap Space Selloff Reverses; Rocket Lab Climbs 7%, SpaceX Lags",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:49:33+00:00",
-      "title": "Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T14:56:40+00:00",
-      "title": "Alphabet Earnings To Accelerate The AI Bubble Burst",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
