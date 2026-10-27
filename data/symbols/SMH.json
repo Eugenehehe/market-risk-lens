@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T08:15:31.615586+00:00",
+  "generated_at": "2026-10-27T14:38:18.359850+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 541.62,
-    "change_pct": 2.735204855842177
+    "price": 550.37,
+    "change_pct": 1.6155237989734506
   },
   "risk": {
-    "score": 72,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T02:57:42.260164+00:00",
-      "close": 633.9
-    },
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 633.9
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-27T08:15:31.615586+00:00",
       "close": 541.62
+    },
+    {
+      "timestamp": "2026-10-27T14:38:18.359850+00:00",
+      "close": 550.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T09:32:21+00:00",
+      "title": "Michael Burry: Today's Market Mirrors the Eve of the Dot-Com Crash",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T08:25:00+00:00",
+      "title": "Consumers Unwilling To Pay The Silicon Bill: AMD Among The Most Expensive Bets",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T04:25:00+00:00",
+      "title": "Tech Risk Premium Rising Ahead Of Key Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T22:35:16+00:00",
       "title": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",
@@ -530,40 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-26T15:49:35+00:00",
+      "title": "If This Sector Breaks, ‘So Does the Market’: Jay Woods Says This Chart is 'Most Important in the World'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-26T15:15:19+00:00",
       "title": "Nebius Stock: Caught In The Storm - Why I'm Doubling Down",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T14:25:00+00:00",
-      "title": "Is The Bull Market A Bargain Or Broken?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T12:26:04+00:00",
-      "title": "SMH’s Price Has Soared, but Its Payout Is Still Below 2022 Levels",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T11:09:50+00:00",
-      "title": "Earnings, Central Bank, Oil Views Lift Wall Street Modestly Pre-Bell; Asia Mixed, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T09:06:42+00:00",
-      "title": "The AI Selloff Is Close To A Bottom: I'm Buying It",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T08:15:31.615586+00:00",
+  "generated_at": "2026-10-27T14:38:18.359850+00:00",
   "snapshot": {
     "symbol": "AMD",
-    "price": 531.28,
-    "change_pct": 2.80384682366146
+    "price": 552.79,
+    "change_pct": 4.048712543291666
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T02:57:42.260164+00:00",
-      "close": 631.75
-    },
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 631.75
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-27T08:15:31.615586+00:00",
       "close": 531.28
+    },
+    {
+      "timestamp": "2026-10-27T14:38:18.359850+00:00",
+      "close": 552.79
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-27T07:43:33+00:00",
-      "title": "Nvidia Picks Up $3B Stock In Meta's Equity Offering, Will Help Improve Muse AI Platform",
+      "timestamp": "2026-10-27T13:57:16+00:00",
+      "title": "Cathie Wood Cashes Out AI Chip Stocks, Adds These Aviation Plays",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T05:00:30+00:00",
-      "title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging",
+      "timestamp": "2026-10-27T13:45:31+00:00",
+      "title": "Tech rises for second day in a row as chip stocks gain: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T03:27:15+00:00",
-      "title": "AMDY: The Payout Is Shrinking Even With AMD Near Highs",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T20:45:03+00:00",
-      "title": "Advanced Micro Devices (AMD) Rises Higher Than Market: Key Facts",
+      "timestamp": "2026-10-27T13:30:27+00:00",
+      "title": "Meta Is Selling Up to $95 Billion of Stock. Its Chip Suppliers Want In",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T20:40:17+00:00",
-      "title": "Marvell Stock Is Bouncing Back From a Near 9% Drop. Its COO Says It Has “All the Demand and the Supply” to Hit $20 Billion in Revenue Next Year",
+      "timestamp": "2026-10-27T13:23:19+00:00",
+      "title": "Broadcom Rises 3% on DA Davidson Upgrade and $400 Target Tied to Anthropic IPO; NVIDIA and AMD Edge Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T20:20:01+00:00",
-      "title": "Agilysys (AGYS) Q2 Earnings and Revenues Surpass Estimates",
+      "timestamp": "2026-10-27T13:20:00+00:00",
+      "title": "AMD and Meta Advance Strategic Partnership to Power Meta’s Superintelligence Infrastructure",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T19:22:41+00:00",
-      "title": "Wedbush Sees Server CPU Demand as Key Earnings Growth Driver. What That Means for AMD Stock Ahead of November 3.",
+      "timestamp": "2026-10-27T13:14:49+00:00",
+      "title": "Nvidia and Meta expand their AI partnership: What to know",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T18:33:37+00:00",
-      "title": "Michael Burry Backs Ken Griffin’s “Obvious” GPU Warning as Market Risk Multiplies",
+      "timestamp": "2026-10-27T12:52:49+00:00",
+      "title": "Nvidia to invest $3 billion in Meta, expand partnership on Muse",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T12:01:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Intel, Alphabet, NVIDIA and AMD",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

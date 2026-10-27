@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T08:15:31.615586+00:00",
+  "generated_at": "2026-10-27T14:38:18.359850+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 127.74,
-    "change_pct": 3.2743148193063343
+    "price": 125.69,
+    "change_pct": -1.6048222952873004
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 63,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T02:57:42.260164+00:00",
-      "close": 159.37
-    },
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 159.37
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-27T08:15:31.615586+00:00",
       "close": 127.74
+    },
+    {
+      "timestamp": "2026-10-27T14:38:18.359850+00:00",
+      "close": 125.69
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-26T16:51:00+00:00",
-      "title": "Should Amphenol Stock Be in Your Portfolio Pre-Q3 Earnings?",
+      "timestamp": "2026-10-27T13:45:31+00:00",
+      "title": "Tech rises for second day in a row as chip stocks gain: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T15:10:47+00:00",
-      "title": "Corning (GLW) Q3 earnings: what to expect",
+      "timestamp": "2026-10-27T13:33:05+00:00",
+      "title": "Corning Incorporated Reports Third-Quarter 2026 Financial Results",
+      "source": "Fintel",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T13:18:38+00:00",
+      "title": "GLW Stock Gains As Corning Tops Q3 Earnings Estimates — Company Targets $40B Annualized Sales Run Rate By 2030",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T14:30:00+00:00",
-      "title": "TYL to Report Q3 Earnings: What's in the Cards for the Stock?",
+      "timestamp": "2026-10-27T13:12:50+00:00",
+      "title": "Corning (GLW) Jumped, So What Is Behind The Move?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T13:36:00+00:00",
-      "title": "Garmin Gears Up to Report Q3 Earnings: How to Play the Stock",
+      "timestamp": "2026-10-27T12:37:00+00:00",
+      "title": "Corning Earnings Might Be Just What Optical Networking Stocks Need Right Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T13:31:00+00:00",
-      "title": "Gen Digital to Report Q2 Earnings: What's in the Cards for the Stock?",
+      "timestamp": "2026-10-27T12:30:02+00:00",
+      "title": "Corning (GLW) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T11:44:00+00:00",
-      "title": "Twilio Gears Up to Report Q3 Earnings: Is a Beat in Store for TWLO?",
+      "timestamp": "2026-10-27T11:51:43+00:00",
+      "title": "Corning shares rise 3% in premarket trade after Q3 EPS, revenue beat estimates",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-25T22:03:02+00:00",
-      "title": "Corning Stock Has Lost Half Its Value Since June. Is It a Buy Before Its Next Report?",
+      "timestamp": "2026-10-27T11:45:38+00:00",
+      "title": "Stocks Rise Pre-Bell as Traders Await More Earnings",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T08:30:19+00:00",
-      "title": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

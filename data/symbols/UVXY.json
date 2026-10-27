@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T08:15:31.615586+00:00",
+  "generated_at": "2026-10-27T14:38:18.359850+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 18.09,
-    "change_pct": -3.571428571428581
+    "price": 17.83,
+    "change_pct": -1.4372581536760687
   },
   "risk": {
-    "score": 62,
+    "score": 50,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T02:57:42.260164+00:00",
-      "close": 16.69
-    },
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 16.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-27T08:15:31.615586+00:00",
       "close": 18.09
+    },
+    {
+      "timestamp": "2026-10-27T14:38:18.359850+00:00",
+      "close": 17.83
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T04:25:00+00:00",
+      "title": "Tech Risk Premium Rising Ahead Of Key Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T13:13:00+00:00",
       "title": "Equities Unfazed By Spike In Rates Volatility",

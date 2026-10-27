@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T08:15:31.615586+00:00",
+  "generated_at": "2026-10-27T14:38:18.359850+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 58.72,
-    "change_pct": 3.5808784618098555
+    "price": 60.26,
+    "change_pct": 2.6226158038147096
   },
   "risk": {
-    "score": 70,
+    "score": 71,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T02:57:42.260164+00:00",
-      "close": 68.36
-    },
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 68.36
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-27T08:15:31.615586+00:00",
       "close": 58.72
+    },
+    {
+      "timestamp": "2026-10-27T14:38:18.359850+00:00",
+      "close": 60.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T13:15:15+00:00",
+      "title": "What Are Cisco Investors Betting On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T12:02:00+00:00",
+      "title": "CloudCasa Expands Disaster Recovery Integrations with Enterprise Storage Vendors and Introduces a Model Context Protocol Server for AI Tools",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T11:59:00+00:00",
+      "title": "NetApp Pricing Gains: Can Higher Prices Support Revenue Growth?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T10:26:08+00:00",
+      "title": "Would You Have Held NetApp Stock All The Way Up?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-26T14:46:00+00:00",
       "title": "Intelligent Platform Management Interface (IPMI) - Global Strategic Business Report: Capitalize on a $9.9B Market by 2032 as Cisco, Dell, HPE, Intel and Microsoft Accelerate Data Center Automation",
@@ -533,14 +565,6 @@
       "timestamp": "2026-10-26T08:30:00+00:00",
       "title": "Earn 12-15% Potential Income: Monthly Options Series (Nov. 2026)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-25T14:00:02+00:00",
-      "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

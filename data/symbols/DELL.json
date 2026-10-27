@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T08:15:31.615586+00:00",
+  "generated_at": "2026-10-27T14:38:18.359850+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 467.09,
-    "change_pct": 2.3332749101743877
+    "price": 494.28,
+    "change_pct": 5.821147958637529
   },
   "risk": {
-    "score": 69,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T02:57:42.260164+00:00",
-      "close": 552.29
-    },
     {
       "timestamp": "2026-10-06T10:01:42.015993+00:00",
       "close": 552.29
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-27T08:15:31.615586+00:00",
       "close": 467.09
+    },
+    {
+      "timestamp": "2026-10-27T14:38:18.359850+00:00",
+      "close": 494.28
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T13:15:15+00:00",
+      "title": "What Are Cisco Investors Betting On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T12:02:00+00:00",
+      "title": "CloudCasa Expands Disaster Recovery Integrations with Enterprise Storage Vendors and Introduces a Model Context Protocol Server for AI Tools",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T12:00:00+00:00",
+      "title": "Dell Technologies Strengthens Cybersecurity and Resilience Across AI Environments, Identity and Infrastructure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T10:26:08+00:00",
+      "title": "Would You Have Held NetApp Stock All The Way Up?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T10:00:00+00:00",
+      "title": "Dell: $95 Billion AI Backlog, But Wait For A Further Pullback",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T09:25:33+00:00",
+      "title": "Stock Market Today: Anthropic Files for Its IPO and Chip Stocks Catch the Wave",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T07:16:51+00:00",
       "title": "Dell Stock Sinks 21% in a Week After Barclays Downgrade: Is the AI Rally Losing Steam?",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-26T15:04:00+00:00",
-      "title": "Microsoft Stock Before Q1 Earnings: Buy Now or Wait for Results?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T14:46:00+00:00",
-      "title": "Intelligent Platform Management Interface (IPMI) - Global Strategic Business Report: Capitalize on a $9.9B Market by 2032 as Cisco, Dell, HPE, Intel and Microsoft Accelerate Data Center Automation",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T14:43:00+00:00",
-      "title": "Global Converged Infrastructure Market Report 2026 | Capitalize on 13.9% CAGR Through 2030 as Dell, Cisco, Huawei, HPE and Nutanix Accelerate Hybrid Cloud and AI Infrastructure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T14:06:47+00:00",
-      "title": "Honeywell Teams up With NVIDIA, Dell To Chase Massive Oil Refinery Savings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T13:49:03+00:00",
-      "title": "Honeywell Deploys Industrial AI Platform at Dangote Refinery in Nigeria",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T13:08:56+00:00",
-      "title": "Dell Technologies (DELL) Lands Real World AI Wins In Refineries And Education",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T12:50:03+00:00",
-      "title": "Is Dell Technologies (DELL) Stock Outpacing Its Computer and Technology Peers This Year?",
-      "source": "Yahoo",
+      "timestamp": "2026-10-27T04:44:54+00:00",
+      "title": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
