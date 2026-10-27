@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T14:38:18.359850+00:00",
+  "generated_at": "2026-10-27T19:38:37.546231+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 401.44,
-    "change_pct": 2.507532812420199
+    "price": 407.76,
+    "change_pct": 4.121342117358662
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T10:01:42.015993+00:00",
-      "close": 378.73
-    },
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 380.77
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 401.44
+    },
+    {
+      "timestamp": "2026-10-27T19:38:37.546231+00:00",
+      "close": 407.76
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-27T16:55:17+00:00",
+      "title": "Tesla Rises 4% as ARK Reiterates $4,400 Long-Term Price Target on Robotaxi Thesis; Rivian Gains 3%, Lucid Holds Steady",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T16:40:38+00:00",
+      "title": "Stock Market Midday, Oct. 27: Tech Stocks Drive Momentum and SoFi Surges 15%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T16:33:08+00:00",
+      "title": "Tesla’s Profit Fell 43% and the Stock Held Up. Here’s Why",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T15:36:00+00:00",
+      "title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T15:18:00+00:00",
+      "title": "Global Battery Thermal Management System Market Size and Forecast to 2033 | AI-Based Control, Fast Charging, and LFP Adoption Drive 11.1% CAGR and a USD 10.97 Billion Opportunity",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T15:00:00+00:00",
+      "title": "Tech Bubble Will Pop In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T14:02:47+00:00",
+      "title": "Earnings season, Anthropic IPO, and decoding the Microsoft buyouts",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T13:52:09+00:00",
       "title": "Tech firms gain on Anthropic IPO optimism; HSBC slumps in London",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:00:00+00:00",
-      "title": "PrimeXBT Adds Seven Tokenized Stock Crypto Futures, Including Tesla, SpaceX and Nvidia",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:54:23+00:00",
-      "title": "Is Tesla Stock Safer Or Riskier Than A Year Ago?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:49:00+00:00",
-      "title": "Zacks Investment Ideas feature highlights: SpaceX and Tesla",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:37:00+00:00",
-      "title": "GRO Advisory Founder Dahlia Abadir Announces GRO Collective, a Fractional Leadership Bench for Private Equity Firms and Consumer Brands",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:28:00+00:00",
-      "title": "Rivian Pre-Q3 Analysis: Is it Worth Buying the Stock Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:21:00+00:00",
-      "title": "Micron, Musk, and Memory. A Big Prediction Is Lifting the Stock.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T12:10:28+00:00",
-      "title": "Only 5 of 60 Analysts Still Say Sell Tesla, the Fewest in 11 Years",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

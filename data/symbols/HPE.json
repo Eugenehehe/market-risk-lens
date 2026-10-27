@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T14:38:18.359850+00:00",
+  "generated_at": "2026-10-27T19:38:37.546231+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 60.26,
-    "change_pct": 2.6226158038147096
+    "price": 60.92,
+    "change_pct": 3.7465940054495883
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T10:01:42.015993+00:00",
-      "close": 68.36
-    },
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 70.88
@@ -502,12 +498,40 @@
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 60.26
+    },
+    {
+      "timestamp": "2026-10-27T19:38:37.546231+00:00",
+      "close": 60.92
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-27T14:33:00+00:00",
+      "title": "Can SMCI's DCBBS and DLC Improve its Financial Outlook in 2026?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T14:27:00+00:00",
+      "title": "HPE vs. LITE: Which AI Infrastructure Stock is a Safer Bet Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T13:15:15+00:00",
       "title": "What Are Cisco Investors Betting On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T13:00:00+00:00",
+      "title": "HPE Unifies Visibility of Premier Wired, Wireless, and SASE Solutions to Optimize User and Application Experiences From Edge to Cloud",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-26T14:46:00+00:00",
       "title": "Intelligent Platform Management Interface (IPMI) - Global Strategic Business Report: Capitalize on a $9.9B Market by 2032 as Cisco, Dell, HPE, Intel and Microsoft Accelerate Data Center Automation",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T14:43:00+00:00",
-      "title": "Global Converged Infrastructure Market Report 2026 | Capitalize on 13.9% CAGR Through 2030 as Dell, Cisco, Huawei, HPE and Nutanix Accelerate Hybrid Cloud and AI Infrastructure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T14:40:03+00:00",
-      "title": "HPE vs. AGYS: Which Stock Is the Better Value Option?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T08:30:00+00:00",
-      "title": "Earn 12-15% Potential Income: Monthly Options Series (Nov. 2026)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

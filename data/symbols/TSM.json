@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T14:38:18.359850+00:00",
+  "generated_at": "2026-10-27T19:38:37.546231+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 431.72,
-    "change_pct": 1.7319791691212894
+    "price": 438.27,
+    "change_pct": 3.2754435987463637
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T10:01:42.015993+00:00",
-      "close": 485.8
-    },
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 484.27
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 431.72
+    },
+    {
+      "timestamp": "2026-10-27T19:38:37.546231+00:00",
+      "close": 438.27
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T15:00:00+00:00",
+      "title": "Tech Bubble Will Pop In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T11:06:26+00:00",
+      "title": "Why TSMC's Q3 2026 Results Highlights Pitfalls In The AI Hype",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T08:50:02+00:00",
       "title": "Broadcom vs. Taiwan Semiconductor: Two AI Powerhouses, One Surprising Revenue Trend",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-27T04:00:02+00:00",
       "title": "Apple vs. Taiwan Semiconductor: Which Tech Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T03:25:10+00:00",
-      "title": "TSMC to raise advanced chip packaging prices by up to 20%, report says",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T01:11:56+00:00",
-      "title": "Taiwan Semiconductor Manufacturing Company Limited 2026 Q3 - Results - Earnings Call Presentation",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

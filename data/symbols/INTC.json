@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T14:38:18.359850+00:00",
+  "generated_at": "2026-10-27T19:38:37.546231+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 92.73,
-    "change_pct": 2.4980656571239157
+    "price": 93.97,
+    "change_pct": 3.868685752183043
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T10:01:42.015993+00:00",
-      "close": 116.19
-    },
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 113.3
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 92.73
+    },
+    {
+      "timestamp": "2026-10-27T19:38:37.546231+00:00",
+      "close": 93.97
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-27T12:42:00+00:00",
-      "title": "Symbolic Mind Collaborates With Intel to Bring AI Training, Not Just Inference, to CPU-Based Server Infrastructure",
+      "timestamp": "2026-10-27T16:27:31+00:00",
+      "title": "Can Marvell Stock Jump 30%?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T12:01:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Intel, Alphabet, NVIDIA and AMD",
+      "timestamp": "2026-10-27T16:00:00+00:00",
+      "title": "Intel and Oracle Plan Expanded Collaboration to Support Enterprise and Agentic AI on Oracle Cloud Infrastructure",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T11:46:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights Intel, Novartis AG, Itau Unibanco and AMREP",
+      "timestamp": "2026-10-27T15:33:40+00:00",
+      "title": "NVIDIA Just Took CPU Business From AMD and Intel. What It Does to the Target",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T11:38:08+00:00",
-      "title": "Are You Overpaying For Micron Stock Versus Its Peers?",
+      "timestamp": "2026-10-27T15:00:00+00:00",
+      "title": "Tech Bubble Will Pop In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T14:54:00+00:00",
+      "title": "Intel Quantum Acquisition Might Not Be Enough to Make It a Powerhouse",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T11:31:38+00:00",
-      "title": "Did The Market Read Intel Right?",
+      "timestamp": "2026-10-27T14:42:00+00:00",
+      "title": "United Microelectronics to Report Q3 Earnings: What's in Store?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T11:30:00+00:00",
-      "title": "OH.io Partners with CVAT to Accelerate Growth of the Open-Source Data Labeling Platform to Train AI at Scale",
+      "timestamp": "2026-10-27T14:32:00+00:00",
+      "title": "Intel to acquire Classiq to build full-stack quantum computing platform",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T10:00:13+00:00",
-      "title": "Oracle, IBM and Intel Have Opted Out of OKX-ICE Stock Tokens, Venue’s Own Notice Shows",
+      "timestamp": "2026-10-27T14:30:16+00:00",
+      "title": "BC-Most Active Stocks",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T09:25:33+00:00",
-      "title": "Stock Market Today: Anthropic Files for Its IPO and Chip Stocks Catch the Wave",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T14:38:18.359850+00:00",
+  "generated_at": "2026-10-27T19:38:37.546231+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 502.22,
-    "change_pct": 2.1125185531586155
+    "price": 512.15,
+    "change_pct": 4.131508854685562
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T10:01:42.015993+00:00",
-      "close": 589.51
-    },
     {
       "timestamp": "2026-10-06T16:42:07.535925+00:00",
       "close": 592.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 502.22
+    },
+    {
+      "timestamp": "2026-10-27T19:38:37.546231+00:00",
+      "close": 512.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-27T13:09:37+00:00",
+      "title": "Musk's Neocloud Warning Makes SOXX A Better Buy Than Nvidia, And SMH",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T10:20:00+00:00",
       "title": "Tech Sell-Off: This All-Star Artificial Intelligence Stock Is Down 50% but Up 127,300% Since Its IPO. Here's Why It's a Screaming Buy Heading Into the Midterms.",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-26T17:22:11+00:00",
       "title": "Tom Lee Says Crypto Faced Same ‘Risk Off’ Forces Behind AI Sell-Off: BMNR, ASST Add To Crypto Treasuries As MSTR Skips Bitcoin Buys",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T17:10:00+00:00",
-      "title": "Four MAGS Hyperscalers, One Self-Funder, And A Hiking Fed",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
