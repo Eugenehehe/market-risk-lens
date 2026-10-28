@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 511.06,
-    "change_pct": 3.909887562775749
+    "price": 516.14,
+    "change_pct": 0.994012444722725
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 589.45
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 577.03
@@ -502,13 +498,41 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 511.06
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 516.14
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-28T11:05:01+00:00",
+      "title": "What Is Going on With Intel Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T00:49:45+00:00",
+      "title": "Michael Burry Says Anthropic’s IPO Filing Has a Lot, but ‘Nothing That Changes’ His View: Big Short Investor Calls Out ‘Slowing’ Revenue Growth",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T16:15:52+00:00",
       "title": "The Next 24 Hours Will Be Crucial For The End Of The Year",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T14:57:41+00:00",
+      "title": "Anthropic’s IPO Filing Reads Like a $570 Billion Order Book for Chipmakers",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -538,32 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T10:20:00+00:00",
-      "title": "Tech Sell-Off: This All-Star Artificial Intelligence Stock Is Down 50% but Up 127,300% Since Its IPO. Here's Why It's a Screaming Buy Heading Into the Midterms.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T10:11:05+00:00",
-      "title": "China’s AI Stock Rout Scary, but Crypto Punters Aren’t Calling a US Bubble Burst Yet",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T08:25:00+00:00",
-      "title": "Consumers Unwilling To Pay The Silicon Bill: AMD Among The Most Expensive Bets",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T04:57:52+00:00",
-      "title": "US 'Flashing the Same Warning Signs,' Wall Street Commentator Warns as China’s AI Stock Crash Wipes Out $480 Billion in Under Four Months",
+      "timestamp": "2026-10-27T12:44:02+00:00",
+      "title": "Anthropic’s $750B Compute Ambition Puts SOXX, SMH and AI Infrastructure ETFs in Focus",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

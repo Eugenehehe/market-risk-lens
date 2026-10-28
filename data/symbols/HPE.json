@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 60.84,
-    "change_pct": 3.610354223433254
+    "price": 60.76,
+    "change_pct": -0.13149243918475495
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 70.48
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 71.55
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 60.84
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 60.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T12:10:00+00:00",
+      "title": "Is ANET Stock a Smart Investment Option Before Q3 Earnings Release?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T10:23:36+00:00",
+      "title": "What Just Happened To Western Digital Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T08:22:49+00:00",
+      "title": "What Did Western Digital's Latest Quarter Change For Its Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T06:30:00+00:00",
+      "title": "Calamos Convertible Fund: Q3 2026 Contributors And Detractors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-28T05:12:35+00:00",
       "title": "What Does Hewlett Packard Enterprise (HPE) New Networking Integration Mean For Investors?",
@@ -530,41 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T14:33:00+00:00",
-      "title": "Can SMCI's DCBBS and DLC Improve its Financial Outlook in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T14:27:00+00:00",
-      "title": "HPE vs. LITE: Which AI Infrastructure Stock is a Safer Bet Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:15:15+00:00",
-      "title": "What Are Cisco Investors Betting On?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:00:02+00:00",
-      "title": "Dell and HPE Lost Billions in a Day Over 1 Big Worry. Dell Had Already Answered It.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:00:00+00:00",
-      "title": "HPE Unifies Visibility of Premier Wired, Wireless, and SASE Solutions to Optimize User and Application Experiences From Edge to Cloud",
-      "source": "Yahoo",
+      "timestamp": "2026-10-27T15:08:42+00:00",
+      "title": "'Dell Also Evaluating Shifting Some PC Making Back To China, According To Sources; PC Makers Are Seeking Greater Manufacturing Efficiency As Their Bill Of Materials Rises, Others' - Nikkei Asia",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

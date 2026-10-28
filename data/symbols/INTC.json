@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 93.74,
-    "change_pct": 3.6144578313253017
+    "price": 94.13,
+    "change_pct": 0.4160443780669931
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 54,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 112.5
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 113.35
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 93.74
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 94.13
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-28T03:04:57+00:00",
-      "title": "CoreWeave: The Warning Sign AI Investors Shouldn't Ignore",
+      "timestamp": "2026-10-28T13:43:11+00:00",
+      "title": "Intel’s $2.3 billion quantum bet: can it revive the sector?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T13:15:00+00:00",
+      "title": "JPMorgan, AMD and Coca-Cola Join Objectors to OKX-ICE Stock Tokens as Count Hits 33",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T13:00:00+00:00",
+      "title": "ScaleFlux Appoints Greg Ernst as Chief Business Officer to Drive Global Growth in AI Infrastructure",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T12:40:44+00:00",
+      "title": "AMD, Broadcom, and Micron stocks lead chip sector higher for third day in a row",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T11:05:01+00:00",
+      "title": "What Is Going on With Intel Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T09:37:47+00:00",
+      "title": "Nvidia May Actually Raise Its 70% Growth Guide In November",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T23:10:47+00:00",
-      "title": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
-      "source": "Yahoo",
+      "timestamp": "2026-10-28T09:06:09+00:00",
+      "title": "Liz Cheney Challenges Trump’s Anti-Socialism Stance Over Taxpayer-Funded Stakes in Private Companies: 'A Level That We Haven't Seen Before”",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T20:14:57+00:00",
-      "title": "Nasdaq Jumps 308 Points on Broadcom's Big Anthropic Deal: Stock Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T19:05:59+00:00",
-      "title": "Most Active S&P 500 Stocks in Oct. 27 Session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T19:00:29+00:00",
-      "title": "Most Active US Stocks Today: AXG, XXII and DVLT Lead Volume",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T18:57:07+00:00",
-      "title": "IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business”",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T18:46:02+00:00",
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T18:25:00+00:00",
-      "title": "CTSH Set to Report Q3 Earnings: What's in the Cards for the Stock?",
-      "source": "Yahoo",
+      "timestamp": "2026-10-28T07:30:01+00:00",
+      "title": "Applied Materials: Top Quality And Undervalued AI Leader",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

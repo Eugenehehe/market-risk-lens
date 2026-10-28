@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 501.96,
-    "change_pct": 7.465370699436935
+    "price": 496.85,
+    "change_pct": -1.0180094031396858
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 574
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 577.43
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 501.96
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 496.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T13:15:00+00:00",
+      "title": "JPMorgan, AMD and Coca-Cola Join Objectors to OKX-ICE Stock Tokens as Count Hits 33",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T12:41:38+00:00",
+      "title": "Dell Is Up 299% in 2026: Take Profits, or Buy More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T10:23:36+00:00",
+      "title": "What Just Happened To Western Digital Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T08:22:49+00:00",
+      "title": "What Did Western Digital's Latest Quarter Change For Its Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T07:16:04+00:00",
+      "title": "Stock Market Today: AI Trade Rebounds as Wall Street Braces for a Fed-and-Big-Tech Super Wednesday",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T06:31:59+00:00",
+      "title": "Robinhood’s Trump Accounts Push to Cost $100 Million in 2026, CFO Signals ‘Even More’ Spending Ahead",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T23:16:24+00:00",
       "title": "What Dell Technologies Doubters Got Wrong Before A 297% Rally",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-10-27T21:42:47+00:00",
       "title": "Why is Dell (DELL) stock soaring today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T21:04:00+00:00",
-      "title": "Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, Dell, NVIDIA and Cisco",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T21:02:00+00:00",
-      "title": "Global Green Information Technology (IT) for Insurers Market Report 2026 | Capitalize on 13.6% CAGR as Microsoft, AWS, Google, and Dell Scale Green Cloud Adoption",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T20:53:14+00:00",
-      "title": "Update: Nasdaq, S&P 500 Notch Back-to-Back Gains Following Fresh Earnings Reports",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T20:38:00+00:00",
-      "title": "Broadcom, Nvidia, Boeing, GM, UPS, JetBlue, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T20:06:15+00:00",
-      "title": "S&P 500 Top Movers: Oct. 27, 2026 US Session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T19:44:37+00:00",
-      "title": "Update: Technology, Consumer Discretionary Push US Equity Indexes Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

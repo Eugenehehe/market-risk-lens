@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 407.46,
-    "change_pct": 4.044737245288799
+    "price": 402.28,
+    "change_pct": -1.271290433416783
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 380.68
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 377.66
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 407.46
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 402.28
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-28T06:05:31+00:00",
-      "title": "Tesla-SpaceX Merger Needs No Premium, Investor Says — But Floats $500 To Sway Angry Holders Missing Bigger Payoff",
+      "timestamp": "2026-10-28T13:39:00+00:00",
+      "title": "Rothera Receives CFTC Approval for First KPI Swap",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T05:35:20+00:00",
-      "title": "Elon Musk Says Tesla Robotaxi Expansion to Miami, Tampa Beaches Is ‘Coming Soon’ After Ron DeSantis’ Call for Expansion",
+      "timestamp": "2026-10-28T13:32:07+00:00",
+      "title": "Badly Crippled GM Moves To Nasdaq",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T03:09:28+00:00",
-      "title": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
+      "timestamp": "2026-10-28T13:08:00+00:00",
+      "title": "American Advanced Materials Raises $12.5 Million to Make Globally-Competitive Titanium Sponge in America and Announces Signed Letters of Intent with Industry Buyers Worth Over $1 Billion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T03:08:37+00:00",
-      "title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red",
+      "timestamp": "2026-10-28T12:48:32+00:00",
+      "title": "Tesla Just Reclaimed $400 as SpaceX Merger Hopes Build",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T02:30:11+00:00",
-      "title": "‘Where Are The Cybercabs?’ Tesla Investor Ross Gerber Takes Aim at Elon Musk as Amazon’s Zoox Eyes Expansion With Santa Monica Deal for 150 Robotaxis",
+      "timestamp": "2026-10-28T12:37:12+00:00",
+      "title": "Electric Vehicles Update - Indonesia's Battery Market Growth and Its Future Opportunities",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T22:39:57+00:00",
-      "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
+      "timestamp": "2026-10-28T11:50:00+00:00",
+      "title": "Tesla Stock Heads for Third Day of Gains. It’s About More Than SpaceX.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T21:44:02+00:00",
-      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
+      "timestamp": "2026-10-28T11:30:25+00:00",
+      "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation — TSLA Could ‘Own’ Transportation, ARK Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T21:30:18+00:00",
-      "title": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+      "timestamp": "2026-10-28T11:30:00+00:00",
+      "title": "Man repairs 2 wrecked Teslas, they pass inspection, but the carmaker cuts fast charging anyway — now he owes $15K",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 243.57,
-    "change_pct": 4.187697835571891
+    "price": 248.92,
+    "change_pct": 2.196493821078138
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 287.01
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 283.04
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 243.57
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 248.92
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T12:30:03+00:00",
+      "title": "Wall Street Analysts See Marvell (MRVL) as a Buy: Should You Invest?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T12:00:05+00:00",
+      "title": "Marvell Technology, Inc. (MRVL) Is a Trending Stock: Facts to Know Before Betting on It",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T11:58:12+00:00",
+      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Enphase Energy, F5, Marvell Technology, MSG Rangers, Pentair, Silicon Motion Technology, Spotify Technology, Texas Instruments, Whirlpool, and More",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T08:22:55+00:00",
+      "title": "Was There Any Sign Astera Labs Stock Would Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T23:10:47+00:00",
       "title": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
@@ -522,49 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-27T18:00:19+00:00",
+      "title": "Here's How Much $1000 Invested In Marvell Technology 5 Years Ago Would Be Worth Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T17:33:47+00:00",
       "title": "Prediction: Marvell Stock Could Have Much More Upside Than Investors Think",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T17:15:00+00:00",
-      "title": "SCI Stock Surges More Than 111% in 6 Months: Can the Momentum Continue?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:27:31+00:00",
-      "title": "Can Marvell Stock Jump 30%?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:16:02+00:00",
-      "title": "Dell Technologies vs. Marvell Technology: Which Tech Stock Is the Better Buy in 2026?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:11:00+00:00",
-      "title": "AXTI Stock Before Q3 Earnings Release: To Buy or Not to Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:00:00+00:00",
-      "title": "Tech Bubble Will Pop In 2027",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

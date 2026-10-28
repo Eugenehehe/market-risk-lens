@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 557.98,
-    "change_pct": 3.02056792585208
+    "price": 564.82,
+    "change_pct": 1.2258503889028383
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 632.5
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 621.03
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 557.98
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 564.82
     }
   ],
   "events": [
@@ -517,6 +517,22 @@
       "timestamp": "2026-10-27T13:09:37+00:00",
       "title": "Musk's Neocloud Warning Makes SOXX A Better Buy Than Nvidia, And SMH",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T13:01:35+00:00",
+      "title": "Nasdaq 100 Climbs on Chip Rally, Boeing Sinks 10%: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T12:44:02+00:00",
+      "title": "Anthropic’s $750B Compute Ambition Puts SOXX, SMH and AI Infrastructure ETFs in Focus",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-27T08:25:00+00:00",
       "title": "Consumers Unwilling To Pay The Silicon Bill: AMD Among The Most Expensive Bets",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T04:25:00+00:00",
-      "title": "Tech Risk Premium Rising Ahead Of Key Earnings",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T22:35:16+00:00",
-      "title": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 342.33,
-    "change_pct": 3.9979341981347005
+    "price": 346.04,
+    "change_pct": 1.0837495983407885
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 375.81
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 371.39
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 342.33
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 346.04
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-28T06:02:07+00:00",
-      "title": "Jim Cramer Flags 3 AI Rally Risks, Including a Deal He Praised Hours Earlier",
+      "timestamp": "2026-10-28T13:49:10+00:00",
+      "title": "Tech rises for third day in a row ahead of Microsoft, Alphabet earnings, Fed decision in focus: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T02:25:20+00:00",
-      "title": "Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Key Tech Results, Fed Rate Decision: SKHY, HOOD, BA, ENPH In Focus",
+      "timestamp": "2026-10-28T13:13:43+00:00",
+      "title": "NVIDIA, AMD and Broadcom May Invest in Meta, Their Own Biggest Customer. What That Signals",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T02:03:00+00:00",
-      "title": "Broadcom CEO says capital is ‘available’ after banks wavered",
+      "timestamp": "2026-10-28T12:51:16+00:00",
+      "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T23:23:00+00:00",
-      "title": "These Dividend-Paying Stocks Offer Notable AI Exposure: AVGO VRT",
+      "timestamp": "2026-10-28T12:40:44+00:00",
+      "title": "AMD, Broadcom, and Micron stocks lead chip sector higher for third day in a row",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T23:10:47+00:00",
-      "title": "Intel, Microchip Technology, Marvell Technology, onsemi, and Seagate stocks trade up, what you need to know",
+      "timestamp": "2026-10-28T12:00:00+00:00",
+      "title": "How Anthropic's IPO structure could become the AI blueprint",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T23:02:47+00:00",
-      "title": "Semtech, Amkor, Entegris, MACOM, and Vishay Intertechnology stocks trade up, what you need to know",
+      "timestamp": "2026-10-28T11:37:40+00:00",
+      "title": "AI Chips Update - AI-Driven Robots Revolutionize Retail Logistics Automation",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T22:22:47+00:00",
-      "title": "Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, what you need to know",
+      "timestamp": "2026-10-28T11:15:56+00:00",
+      "title": "Seagate Technology Fell 25% in The Last Month But One Wall Street Analyst Says 140% Gains to Come",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-27T22:14:47+00:00",
-      "title": "Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know",
+      "timestamp": "2026-10-28T11:07:00+00:00",
+      "title": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

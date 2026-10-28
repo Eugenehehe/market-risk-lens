@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1635.57,
-    "change_pct": 2.8078446162549398
+    "price": 1659.72,
+    "change_pct": 1.4765494598213413
   },
   "risk": {
-    "score": 73,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 1834.1
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 1793.71
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 1635.57
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 1659.72
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T11:00:00+00:00",
+      "title": "The hidden opportunity in the tech stock crash",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T10:00:00+00:00",
+      "title": "Why Wall Street is dead wrong about the AI tech panic",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-28T05:18:24+00:00",
       "title": "Top 3 Growth Stocks To Watch In October 2026",
@@ -538,32 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-27T13:42:34+00:00",
+      "title": "Live On CNBC, Josh Brown Hosts Segment Titled \"Josh's Best Stocks In The Market: KLA Corp\"",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-27T08:00:39+00:00",
       "title": "Top Japanese Chip Stocks to Watch Going Into Q3 Earnings, According to Bernstein",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T20:45:00+00:00",
-      "title": "TCW Concentrated Large Cap Growth Fund Q3 2026 Winners, Laggards, Buys & Sells",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T18:15:49+00:00",
-      "title": "ASML: Creating Its Own Bottleneck",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T15:13:41+00:00",
-      "title": "Chip Stocks Find Support Before Key Reports From Intel, Sandisk",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

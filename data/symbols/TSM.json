@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T08:43:58.262628+00:00",
+  "generated_at": "2026-10-28T15:29:38.731217+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 436.87,
-    "change_pct": 2.945542804628043
+    "price": 437.96,
+    "change_pct": 0.24950214022476658
   },
   "risk": {
-    "score": 74,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T06:36:00.399087+00:00",
-      "close": 482.3
-    },
     {
       "timestamp": "2026-10-07T13:53:41.656893+00:00",
       "close": 472.3
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-10-28T08:43:58.262628+00:00",
       "close": 436.87
+    },
+    {
+      "timestamp": "2026-10-28T15:29:38.731217+00:00",
+      "close": 437.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T07:30:01+00:00",
+      "title": "Applied Materials: Top Quality And Undervalued AI Leader",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T06:10:00+00:00",
+      "title": "Brown Advisory Flexible Equity Strategy: Q3 2026 Top Contributors And Detractors",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T22:14:07+00:00",
+      "title": "Cathie Wood Extends Archer, Joby Buying Spree; Ark Sells More AMD, Taiwan Semiconductor Shares",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T20:06:47+00:00",
       "title": "How Anthropic could be the 'biggest, baddest, most consequential IPO in history'",
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-27T17:54:31+00:00",
       "title": "AI Cash Kings: 3 Top Chip Stocks Primed For More Explosive Growth",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:35:08+00:00",
-      "title": "TSMC: The Toll Road Of The AI Economy Is On Sale",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T15:00:00+00:00",
-      "title": "Tech Bubble Will Pop In 2027",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:00:00+00:00",
-      "title": "TSM Q3 Earnings Call Highlights Strong AI Demand and Expansion",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
