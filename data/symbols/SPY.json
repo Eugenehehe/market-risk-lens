@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:18:19.327422+00:00",
+  "generated_at": "2026-10-28T08:43:58.262628+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 769.66,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T00:47:59.439130+00:00",
-      "close": 779.09
-    },
     {
       "timestamp": "2026-10-07T06:36:00.399087+00:00",
       "close": 779.09
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-28T02:18:19.327422+00:00",
       "close": 769.66
+    },
+    {
+      "timestamp": "2026-10-28T08:43:58.262628+00:00",
+      "close": 769.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T05:36:20+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T01:05:00+00:00",
+      "title": "A Brazilian Economic Canary In The Coal Mine",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-27T23:45:11+00:00",
       "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision — ORCL, HOOD, JBLU, RIVN, SMCI  In Focus",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-27T17:51:14+00:00",
       "title": "Drone Stocks Rally as High-Beta Small Caps Lead: Red Cat Jumps 10%, Ondas Climbs 8%, AeroVironment Ticks Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:47:29+00:00",
-      "title": "Micron’s Long-Term Returns Crushed the S&P 500. Does the Recent Drop Matter?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:15:52+00:00",
-      "title": "The Next 24 Hours Will Be Crucial For The End Of The Year",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
