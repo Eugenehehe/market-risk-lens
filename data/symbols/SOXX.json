@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:11:55.372580+00:00",
+  "generated_at": "2026-10-28T02:18:19.327422+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 511.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T21:15:47.486560+00:00",
-      "close": 589.45
-    },
     {
       "timestamp": "2026-10-07T00:47:59.439130+00:00",
       "close": 589.45
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-27T23:11:55.372580+00:00",
       "close": 511.06
+    },
+    {
+      "timestamp": "2026-10-28T02:18:19.327422+00:00",
+      "close": 511.06
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-10-27T16:15:52+00:00",
       "title": "The Next 24 Hours Will Be Crucial For The End Of The Year",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T13:55:03+00:00",
+      "title": "AI Infrastructure Stocks Are Back, For Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T13:23:19+00:00",
+      "title": "Broadcom Rises 3% on DA Davidson Upgrade and $400 Target Tied to Anthropic IPO; NVIDIA and AMD Edge Higher",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-27T04:57:52+00:00",
       "title": "US 'Flashing the Same Warning Signs,' Wall Street Commentator Warns as China’s AI Stock Crash Wipes Out $480 Billion in Under Four Months",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T04:25:00+00:00",
-      "title": "Tech Risk Premium Rising Ahead Of Key Earnings",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T17:50:31+00:00",
-      "title": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:11:55.372580+00:00",
+  "generated_at": "2026-10-28T02:18:19.327422+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 557.98,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-06T21:15:47.486560+00:00",
-      "close": 632.5
-    },
     {
       "timestamp": "2026-10-07T00:47:59.439130+00:00",
       "close": 632.5
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-27T23:11:55.372580+00:00",
       "close": 557.98
+    },
+    {
+      "timestamp": "2026-10-28T02:18:19.327422+00:00",
+      "close": 557.98
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-10-27T11:30:01+00:00",
       "title": "EWY: The Memory Cushion That Gives Back More Than It Protects",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-27T11:14:17+00:00",
+      "title": "Tech Optimism Undergirds Wall Street Pre-Bell; Asia Up, Europe Off",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-26T17:10:00+00:00",
       "title": "Four MAGS Hyperscalers, One Self-Funder, And A Hiking Fed",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-26T16:45:00+00:00",
-      "title": "The Mideast Energy Shock's Next Phase",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
