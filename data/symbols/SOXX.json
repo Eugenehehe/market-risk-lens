@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:19:33.515697+00:00",
+  "generated_at": "2026-10-29T06:02:48.536891+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 521.94,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-07T23:51:11.416292+00:00",
-      "close": 582.82
-    },
     {
       "timestamp": "2026-10-08T03:26:24.512055+00:00",
       "close": 582.82
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-29T00:19:33.515697+00:00",
       "close": 521.94
+    },
+    {
+      "timestamp": "2026-10-29T06:02:48.536891+00:00",
+      "close": 521.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-28T19:24:01+00:00",
+      "title": "News From Oracle's Investor Day Wakes Up Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-28T15:03:46+00:00",
+      "title": "The AI trade is back, and it's sorting software stocks into winners and losers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-28T15:01:43+00:00",
       "title": "SK hynix Looks Bulletproof At The Top Of The Cycle",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-27T13:55:03+00:00",
       "title": "AI Infrastructure Stocks Are Back, For Now",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:23:19+00:00",
-      "title": "Broadcom Rises 3% on DA Davidson Upgrade and $400 Target Tied to Anthropic IPO; NVIDIA and AMD Edge Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T13:09:37+00:00",
-      "title": "Musk's Neocloud Warning Makes SOXX A Better Buy Than Nvidia, And SMH",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
