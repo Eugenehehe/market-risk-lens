@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T18:44:08.453563+00:00",
+  "generated_at": "2026-10-29T23:00:14.729331+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 350.05,
-    "change_pct": 1.8090335340139152
+    "price": 348.91,
+    "change_pct": 1.4774743332460982
   },
   "risk": {
-    "score": 65,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T17:39:08.401760+00:00",
-      "close": 338.51
-    },
     {
       "timestamp": "2026-10-08T22:28:14.498122+00:00",
       "close": 340.42
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-10-29T18:44:08.453563+00:00",
       "close": 350.05
+    },
+    {
+      "timestamp": "2026-10-29T23:00:14.729331+00:00",
+      "close": 348.91
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-29T18:28:03+00:00",
+      "title": "Alphabet: Why I'm Buying The Free Cash Flow Scare",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T17:30:00+00:00",
+      "title": "Apple's Q4 Earnings Loom: Buy or Sell AAPL Stock Ahead of Results?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-29T16:58:00+00:00",
       "title": "Nvidia Is Getting Dangerously Close to Getting Surpassed by Apple in Market Cap. Here's the Better Growth Stock to Buy Now.",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-29T13:33:00+00:00",
       "title": "HPQ vs. AAPL: Which Computer Stock Offers Better Investment Potential?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T12:45:31+00:00",
-      "title": "Pick-and-Shovel vs. Edge Gatekeeper: Why Investors Are Splitting Between Nvidia and Apple",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T12:43:21+00:00",
-      "title": "AI Has Made Flash Memory 5 Times More Expensive, and Apple Can’t Bully Its Memory Suppliers Anymore",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

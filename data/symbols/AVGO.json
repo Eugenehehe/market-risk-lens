@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T18:44:08.453563+00:00",
+  "generated_at": "2026-10-29T23:00:14.729331+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 344.13,
-    "change_pct": -2.1829965037946653
+    "price": 345,
+    "change_pct": -1.9357039310991753
   },
   "risk": {
-    "score": 68,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T17:39:08.401760+00:00",
-      "close": 362.6
-    },
     {
       "timestamp": "2026-10-08T22:28:14.498122+00:00",
       "close": 360.14
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-10-29T18:44:08.453563+00:00",
       "close": 344.13
+    },
+    {
+      "timestamp": "2026-10-29T23:00:14.729331+00:00",
+      "close": 345
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-29T21:43:30+00:00",
+      "title": "Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T21:07:37+00:00",
+      "title": "Jim Cramer Says Buy Coca-Cola. Is Its Dividend Still Worth It After a 35% Rally?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T20:13:00+00:00",
+      "title": "Amazon Stock Tanks After Earnings Miss",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T19:18:00+00:00",
+      "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T18:10:08+00:00",
+      "title": "Intel: Guidance Disaster Causes 20%+ Price Slump",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-29T17:31:14+00:00",
       "title": "5 Fastest-Growing AI Stocks to Buy Now",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-10-29T17:03:13+00:00",
       "title": "Prediction: Wall Street’s Next AI Favorite May Not Be Nvidia",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T16:50:00+00:00",
-      "title": "3 AI Stocks to Buy and Hold Through 2030",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T16:15:18+00:00",
-      "title": "Why Is Broadcom (AVGO) Now Central To AI Funding And Infrastructure?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T16:03:35+00:00",
-      "title": "Wall Street’s Broadcom Target Sits Above Its 52-Week High. Is the Street Right?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T14:57:58+00:00",
-      "title": "Wall Street’s New $63 Billion AI Deal Reveals a Risk That Could Spread Beyond Tech",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T14:45:21+00:00",
-      "title": "What Could Surprise Marvell Stock Investors On The Upside?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

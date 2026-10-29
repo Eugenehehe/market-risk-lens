@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T18:44:08.453563+00:00",
+  "generated_at": "2026-10-29T23:00:14.729331+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 712.4,
-    "change_pct": -1.820537203180772
+    "price": 715.34,
+    "change_pct": -1.415360868786264
   },
   "risk": {
-    "score": 65,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T17:39:08.401760+00:00",
-      "close": 746.01
-    },
     {
       "timestamp": "2026-10-08T22:28:14.498122+00:00",
       "close": 747.58
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-29T18:44:08.453563+00:00",
       "close": 712.4
+    },
+    {
+      "timestamp": "2026-10-29T23:00:14.729331+00:00",
+      "close": 715.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-29T15:42:11+00:00",
+      "title": "Record Increase In Computer Equipment Drives 2026Q3 GDP Above Expectations",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-29T13:57:41+00:00",
       "title": "Don't Mistake The Fed's Rate Pause For A Dovish Shift",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-29T10:49:39+00:00",
       "title": "Stock Market Today: Google Cloud Doubles, Alphabet Drops 10%, and Oracle Turns Its Debt Story Around",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T10:44:18+00:00",
-      "title": "The Fed Is Being Forced To Hike Into The Wrong Economy",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T18:44:08.453563+00:00",
+  "generated_at": "2026-10-29T23:00:14.729331+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 128.62,
-    "change_pct": -1.9664634146341342
+    "price": 128.88,
+    "change_pct": -1.7682926829268197
   },
   "risk": {
-    "score": 66,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T17:39:08.401760+00:00",
-      "close": 153.08
-    },
     {
       "timestamp": "2026-10-08T22:28:14.498122+00:00",
       "close": 152.83
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-29T18:44:08.453563+00:00",
       "close": 128.62
+    },
+    {
+      "timestamp": "2026-10-29T23:00:14.729331+00:00",
+      "close": 128.88
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-29T19:58:00+00:00",
+      "title": "Top Analyst Reports for Lam Research, Lockheed Martin & Equinor",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-29T15:31:00+00:00",
       "title": "Corning Q3 Sales Jump 19% as AI Optical Demand and Margins Accelerate",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-29T04:47:49+00:00",
       "title": "Undercovered Dozen: Micron, i-80 Gold, Hercules Capital, And More",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T17:42:13+00:00",
-      "title": "UBS Maintains Buy on Corning, Lowers Price Target to $192",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
