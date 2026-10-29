@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T12:52:00.102076+00:00",
+  "generated_at": "2026-10-29T18:44:08.453563+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 521.94,
-    "change_pct": 2.1289085430282295
+    "price": 509.38,
+    "change_pct": -2.40640686668967
   },
   "risk": {
-    "score": 68,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T10:51:22.961510+00:00",
-      "close": 582.82
-    },
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 560.17
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-29T12:52:00.102076+00:00",
       "close": 521.94
+    },
+    {
+      "timestamp": "2026-10-29T18:44:08.453563+00:00",
+      "close": 509.38
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-29T09:22:58+00:00",
+      "title": "'Nvidia is Boeing': Chamath Palihapitiya and Ken Griffin Back Viral Analogy Comparing AI GPUs to Airlines",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-29T07:02:37+00:00",
       "title": "INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-28T00:49:45+00:00",
       "title": "Michael Burry Says Anthropic’s IPO Filing Has a Lot, but ‘Nothing That Changes’ His View: Big Short Investor Calls Out ‘Slowing’ Revenue Growth",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-27T16:15:52+00:00",
-      "title": "The Next 24 Hours Will Be Crucial For The End Of The Year",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

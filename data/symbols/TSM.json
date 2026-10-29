@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T12:52:00.102076+00:00",
+  "generated_at": "2026-10-29T18:44:08.453563+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 439.51,
-    "change_pct": 0.6042987616453388
+    "price": 428.8,
+    "change_pct": -2.436804623330524
   },
   "risk": {
-    "score": 55,
+    "score": 70,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T10:51:22.961510+00:00",
-      "close": 472.2
-    },
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 456.45
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-29T12:52:00.102076+00:00",
       "close": 439.51
+    },
+    {
+      "timestamp": "2026-10-29T18:44:08.453563+00:00",
+      "close": 428.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-29T12:23:12+00:00",
+      "title": "TSMC: The Cracks Are Showing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-29T07:24:17+00:00",
       "title": "TSMC: Spending Its Lead To Keep It",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T18:00:00+00:00",
-      "title": "Beyond NVIDIA: Why TSMC Stock Looks Attractive After Q3 Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T16:35:55+00:00",
-      "title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging",
-      "source": "Yahoo",
+      "timestamp": "2026-10-28T22:27:04+00:00",
+      "title": "Cathie Wood Piles Into Archer, Joby for Third Straight Day as Ark Dumps AMD, TSMC Shares",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T12:52:00.102076+00:00",
+  "generated_at": "2026-10-29T18:44:08.453563+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 493.79,
-    "change_pct": -1.627619730655816
+    "price": 473.18,
+    "change_pct": -4.173839081390874
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T10:51:22.961510+00:00",
-      "close": 578.96
-    },
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 570.56
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-29T12:52:00.102076+00:00",
       "close": 493.79
+    },
+    {
+      "timestamp": "2026-10-29T18:44:08.453563+00:00",
+      "close": 473.18
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-29T11:44:20+00:00",
-      "title": "Western Digital Stock Tripled: What Changed And What Did Not?",
+      "timestamp": "2026-10-29T17:06:14+00:00",
+      "title": "The Memory Crunch Is Crushing Microsoft Windows PC Sales",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T00:08:14+00:00",
-      "title": "33 Wall Street Giants Block Tokenized Stocks, But Apple and Tesla Stay Silent",
+      "timestamp": "2026-10-29T16:40:00+00:00",
+      "title": "Everpure vs. Dell: Which Data Storage Stock is the Better Buy Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T23:58:34+00:00",
-      "title": "Stocks making big moves yesterday: Arlo Technologies, Herc, Polaris, Dell, and Euronet Worldwide",
+      "timestamp": "2026-10-29T16:40:00+00:00",
+      "title": "DELL Expands AI Security Capabilities: Can It Challenge CSCO & HPE?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T20:58:00+00:00",
-      "title": "Global Product Take-Back Program Market Report 2026 | Capitalize on 10.7% CAGR to $63.73 Billion by 2030 as Apple, Amazon, Samsung, Dell, and Sony Scale Circular Returns",
+      "timestamp": "2026-10-29T16:13:00+00:00",
+      "title": "Global AI Data Center Market Size, Share, Trends, and Forecast 2026-2036 | Revenue to Reach USD 2.75 Trillion as Hyperscale Investment, AI Inference, and Edge Deployments Accelerate",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T20:45:03+00:00",
-      "title": "Dell Technologies (DELL) Stock Declines While Market Improves: Some Information for Investors",
+      "timestamp": "2026-10-29T15:34:00+00:00",
+      "title": "Gaming Computers - Global Strategic Business Report 2026 | Capture $29.8 Billion in Market Expansion by 2032 as Acer, ASUSTeK, Corsair Gaming, Dell Technologies, and Giga-Byte Intensify Competition",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T16:20:02+00:00",
-      "title": "Advanced Micro Devices vs. Dell Technologies: Which Technology Stock Is a Better Buy in 2026?",
+      "timestamp": "2026-10-29T15:27:00+00:00",
+      "title": "Walmart, Eli Lilly Join 38 Companies Opposing OKX-ICE Tokenized Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T15:53:00+00:00",
-      "title": "JPMorgan, Coca-Cola Join Pushback Against OKX-ICE Tokenized Stock Trading",
+      "timestamp": "2026-10-29T15:07:15+00:00",
+      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T15:05:03+00:00",
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "timestamp": "2026-10-29T14:51:00+00:00",
+      "title": "SMB IT Spending - Global Strategic Business Report: Capitalize on the $900 Billion Surge to $2.5 Trillion by 2032 as Microsoft, Cisco, Dell, IBM and Oracle Reshape SMB Technology",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

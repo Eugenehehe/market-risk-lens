@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T12:52:00.102076+00:00",
+  "generated_at": "2026-10-29T18:44:08.453563+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 324.89,
-    "change_pct": 1.3444382057520743
+    "price": 282.35,
+    "change_pct": -13.093662470374579
   },
   "risk": {
-    "score": 61,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T10:51:22.961510+00:00",
-      "close": 350.5
-    },
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 347.86
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-29T12:52:00.102076+00:00",
       "close": 324.89
+    },
+    {
+      "timestamp": "2026-10-29T18:44:08.453563+00:00",
+      "close": 282.35
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-29T11:54:44+00:00",
-      "title": "Dow Jones Futures Fall; Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
+      "timestamp": "2026-10-29T17:44:34+00:00",
+      "title": "Why Alphabet (GOOGL) shares are sliding today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:53:18+00:00",
-      "title": "Caterpillar Revenue Miss, Outlook Dig Hole For Dow Jones Industrial Average",
+      "timestamp": "2026-10-29T17:35:57+00:00",
+      "title": "Update: US Equity Indexes Decline as Alphabet's Quarterly Results Sink Communication Services",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:50:15+00:00",
-      "title": "Bond Yields, Crude Prices Lift European Bourses Midday Ahead of ECB Rate Decision",
+      "timestamp": "2026-10-29T17:35:39+00:00",
+      "title": "Oracle Is Up 12% in a Week. Is Its Free Cash Flow Plan Really That Good?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:49:59+00:00",
-      "title": "Caterpillar Beat Earnings and Still Dropped 9%. The AI Power Trade Just Hit the Same Wall as Software.",
+      "timestamp": "2026-10-29T17:31:39+00:00",
+      "title": "Cerebras Sinks 10% as Short Seller Culper Claims Its Wafers “Break Down After Just ~2 Years”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:48:57+00:00",
-      "title": "Alphabet vs Microsoft: Why Free Cash Flow Just Became the Only AI Scorecard That Matters",
+      "timestamp": "2026-10-29T17:30:00+00:00",
+      "title": "Amazon earnings live: AI growth takes center stage",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:44:12+00:00",
-      "title": "OpenAI Now Makes Up 11% of Microsoft’s Revenue",
+      "timestamp": "2026-10-29T17:27:37+00:00",
+      "title": "Update: Equities Fall Intraday Amid Post-Earnings Sell-Offs in Alphabet, Caterpillar",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:27:56+00:00",
-      "title": "Alphabet Sinks 10% on $9 Billion Cash Burn and “Significant Miss” in Search",
+      "timestamp": "2026-10-29T17:26:54+00:00",
+      "title": "Alphabet's Search, YouTube Shortfall Signals Slower Ad Growth, UBS Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:27:00+00:00",
-      "title": "Why Is Everybody Paying A Premium For Palantir Stock?",
+      "timestamp": "2026-10-29T17:13:19+00:00",
+      "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

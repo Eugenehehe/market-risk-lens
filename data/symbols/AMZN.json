@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T12:52:00.102076+00:00",
+  "generated_at": "2026-10-29T18:44:08.453563+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 254.6,
-    "change_pct": 0.592651126037147
+    "price": 244.6,
+    "change_pct": -3.927729772191668
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T10:51:22.961510+00:00",
-      "close": 259.92
-    },
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 255.3
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-29T12:52:00.102076+00:00",
       "close": 254.6
+    },
+    {
+      "timestamp": "2026-10-29T18:44:08.453563+00:00",
+      "close": 244.6
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-29T11:47:43+00:00",
-      "title": "Stocks Down Pre-Bell Ahead of Key Inflation Report, Amazon Earnings",
+      "timestamp": "2026-10-29T17:30:00+00:00",
+      "title": "Amazon earnings live: AI growth takes center stage",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:41:00+00:00",
-      "title": "This Under-the-Radar Utility Just Signed a Massive Data Center Deal Without Anyone Noticing",
+      "timestamp": "2026-10-29T16:50:00+00:00",
+      "title": "3 AI Stocks to Buy and Hold Through 2030",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:27:00+00:00",
-      "title": "Why Is Everybody Paying A Premium For Palantir Stock?",
+      "timestamp": "2026-10-29T16:22:43+00:00",
+      "title": "Amazon Slides 3% as Alphabet’s 12% Plunge Raises Stakes for AWS Report; Meta Rises 3%, Microsoft Pulls Back",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:15:10+00:00",
-      "title": "The Cloud Titans: Microsoft’s Copilot Backlog Challenges Amazon’s Data Center Re-Acceleration",
+      "timestamp": "2026-10-29T16:09:00+00:00",
+      "title": "Strength Seen in Electrovaya Inc. (ELVA): Can Its 10.2% Jump Turn into More Strength?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:15:09+00:00",
-      "title": "Alphabet’s Price-to-Fundamentals Mismatch Just Got Better as Institutions Sour on Capex",
+      "timestamp": "2026-10-29T15:49:30+00:00",
+      "title": "DoorDash Plans to Buy Instacart for $17B: What That Means for Consumers, Grocers and Delivery Workers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:09:12+00:00",
-      "title": "Alphabet Pressures Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "timestamp": "2026-10-29T15:43:37+00:00",
+      "title": "Alphabet Loses $500 Billion in Market Cap in One Day",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:03:00+00:00",
-      "title": "Albertsons has a new advantage over Kroger, Walmart, Amazon for grocery shoppers",
+      "timestamp": "2026-10-29T15:34:45+00:00",
+      "title": "How Much Could You Lose In Target Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T11:02:46+00:00",
-      "title": "Alphabet Failed Wall Street’s New AI Test. Amazon Takes It Tonight.",
+      "timestamp": "2026-10-29T15:27:00+00:00",
+      "title": "Walmart, Eli Lilly Join 38 Companies Opposing OKX-ICE Tokenized Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

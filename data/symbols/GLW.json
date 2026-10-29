@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T12:52:00.102076+00:00",
+  "generated_at": "2026-10-29T18:44:08.453563+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 131.2,
-    "change_pct": 3.87965162311954
+    "price": 128.62,
+    "change_pct": -1.9664634146341342
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-08T10:51:22.961510+00:00",
-      "close": 163.25
-    },
     {
       "timestamp": "2026-10-08T17:39:08.401760+00:00",
       "close": 153.08
@@ -502,12 +498,48 @@
     {
       "timestamp": "2026-10-29T12:52:00.102076+00:00",
       "close": 131.2
+    },
+    {
+      "timestamp": "2026-10-29T18:44:08.453563+00:00",
+      "close": 128.62
     }
   ],
   "events": [
     {
+      "timestamp": "2026-10-29T15:31:00+00:00",
+      "title": "Corning Q3 Sales Jump 19% as AI Optical Demand and Margins Accelerate",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T15:16:00+00:00",
+      "title": "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T14:33:00+00:00",
+      "title": "T vs. GLW: Which Telecom Infrastructure Stock Is the Better Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-29T11:43:59+00:00",
       "title": "How Much Should This Move Change Your View Of Ciena Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-29T11:43:00+00:00",
+      "title": "Buy Corning on Solid Q3 Earnings, Guidance and AI Photonics Space Rally",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -530,40 +562,8 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-28T17:06:01+00:00",
-      "title": "Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T15:57:00+00:00",
-      "title": "Dielectric Materials for Display - Global Strategic Business Report 2026: Capture the $28.7B Revenue Surge Through 2032 | Applied Materials, Corning, BASF, DuPont, and Merck Dominate",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T13:24:00+00:00",
-      "title": "GLW Q3 Earnings Call Highlights AI Demand and Revenue Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T09:15:50+00:00",
-      "title": "Corning (GLW) Stock Slips As Q3 Earnings Flash Margin Strength",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T07:10:56+00:00",
-      "title": "Morgan Stanley Maintains Equal-Weight on Corning, Lowers Price Target to $155",
+      "timestamp": "2026-10-28T17:42:13+00:00",
+      "title": "UBS Maintains Buy on Corning, Lowers Price Target to $192",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
