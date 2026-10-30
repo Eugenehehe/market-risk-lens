@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T08:56:08.889968+00:00",
+  "generated_at": "2026-10-30T15:40:55.337129+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1675.7,
-    "change_pct": 0.7727696424812969
+    "price": 1579.51,
+    "change_pct": -5.740287640985864
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-09T09:31:18.722541+00:00",
-      "close": 1769.79
-    },
     {
       "timestamp": "2026-10-09T16:30:36.066191+00:00",
       "close": 1780.93
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-30T08:56:08.889968+00:00",
       "close": 1675.7
+    },
+    {
+      "timestamp": "2026-10-30T15:40:55.337129+00:00",
+      "close": 1579.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-30T08:46:29+00:00",
+      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-30T02:43:02+00:00",
       "title": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom?",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-29T11:00:14+00:00",
+      "title": "Rep. Kevin Hern Has Sold Up to $150K Worth Of ASML Holding Stock: Here’s What You Should Know",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-29T06:35:02+00:00",
       "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-10-28T23:15:14+00:00",
       "title": "Samsung Stock Drops 6% in Seoul as Record Profit Narrowly Misses Analyst Estimates, Memory Supply Seen Tightening in 2027",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T18:02:45+00:00",
-      "title": "Arm Holdings: Data Centers Will Continue To Offset Weak Mobile, But Upside Only In My Bull Case",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T18:00:00+00:00",
-      "title": "Beyond NVIDIA: Why TSMC Stock Looks Attractive After Q3 Earnings",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T08:56:08.889968+00:00",
+  "generated_at": "2026-10-30T15:40:55.337129+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 345,
-    "change_pct": -1.9357039310991753
+    "price": 325.77,
+    "change_pct": -5.573913043478262
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-09T09:31:18.722541+00:00",
-      "close": 360.14
-    },
     {
       "timestamp": "2026-10-09T16:30:36.066191+00:00",
       "close": 362.95
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-10-30T08:56:08.889968+00:00",
       "close": 345
+    },
+    {
+      "timestamp": "2026-10-30T15:40:55.337129+00:00",
+      "close": 325.77
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-30T02:47:00+00:00",
-      "title": "Jim Cramer praises Broadcom and recommends buying another iconic stock",
+      "timestamp": "2026-10-30T13:42:04+00:00",
+      "title": "Is There A Risk Hiding In Ciena Stock's Growth?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T00:13:00+00:00",
-      "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
+      "timestamp": "2026-10-30T13:42:03+00:00",
+      "title": "Can You Make Money Off NVIDIA Stock Now?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T22:08:26+00:00",
-      "title": "Got $1,000? This Monster Growth Stock Is on Sale Right Now and Targets 10X Sales Growth By 2031",
+      "timestamp": "2026-10-30T13:39:53+00:00",
+      "title": "Is Broadcom Stock Priced Right Against Its Peers?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T21:43:30+00:00",
-      "title": "Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks",
+      "timestamp": "2026-10-30T13:17:23+00:00",
+      "title": "4 Stocks Where Rising Yields Come From Bigger Dividend Checks, Not Falling Prices",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T21:43:00+00:00",
-      "title": "First Google Search, Now Amazon Retail. Tech’s Moneymakers Are Stumbling.",
+      "timestamp": "2026-10-30T11:37:39+00:00",
+      "title": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T21:07:37+00:00",
-      "title": "Jim Cramer Says Buy Coca-Cola. Is Its Dividend Still Worth It After a 35% Rally?",
+      "timestamp": "2026-10-30T11:15:57+00:00",
+      "title": "Broadcom’s $63B Anthropic Deal Could Be The One That Finally Gets it Into Gear",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T20:13:00+00:00",
-      "title": "Amazon Stock Tanks After Earnings Miss",
-      "source": "Yahoo",
+      "timestamp": "2026-10-30T11:05:56+00:00",
+      "title": "AMD: Circular AI Financing With Meta Just Reached A New Level",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-29T19:18:00+00:00",
-      "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
-      "source": "Yahoo",
+      "timestamp": "2026-10-30T11:00:25+00:00",
+      "title": "Defensives Lead Sectors In Friday Trading As Growth Trails",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

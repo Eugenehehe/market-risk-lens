@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T08:56:08.889968+00:00",
+  "generated_at": "2026-10-30T15:40:55.337129+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 16.66,
-    "change_pct": -2.1151586368977626
+    "price": 18.1,
+    "change_pct": 8.64345738295318
   },
   "risk": {
-    "score": 51,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-09T09:31:18.722541+00:00",
-      "close": 16.5
-    },
     {
       "timestamp": "2026-10-09T16:30:36.066191+00:00",
       "close": 16.26
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-10-30T08:56:08.889968+00:00",
       "close": 16.66
+    },
+    {
+      "timestamp": "2026-10-30T15:40:55.337129+00:00",
+      "close": 18.1
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-10-30T07:56:50+00:00",
+      "title": "Want to Hedge Your S&P 500 Portfolio Without Selling Your Stocks? Start With These 3 Tickers",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T08:56:08.889968+00:00",
+  "generated_at": "2026-10-30T15:40:55.337129+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 243.79,
-    "change_pct": -4.2458758837392025
+    "price": 240.38,
+    "change_pct": -1.3987448213626519
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-09T09:31:18.722541+00:00",
-      "close": 254.06
-    },
     {
       "timestamp": "2026-10-09T16:30:36.066191+00:00",
       "close": 261.32
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-10-30T08:56:08.889968+00:00",
       "close": 243.79
+    },
+    {
+      "timestamp": "2026-10-30T15:40:55.337129+00:00",
+      "close": 240.38
     }
   ],
   "events": [
     {
-      "timestamp": "2026-10-30T07:22:38+00:00",
-      "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report",
+      "timestamp": "2026-10-30T13:56:24+00:00",
+      "title": "Intel, Amazon lead tech lower, crypto markets rattled amid $6.3 billion Binance hack: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T07:05:00+00:00",
-      "title": "MARKETS LIVE: FTSE 100 set to rise despite Wall Street sell-off and Asian technology rout",
+      "timestamp": "2026-10-30T13:50:25+00:00",
+      "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T06:53:24+00:00",
-      "title": "Amazon Has Bigger Plans for AI Chips: Andy Jassy Says Customers Want Them ‘Outside’ AWS, but Selling Them Comes With a Trade-Off",
+      "timestamp": "2026-10-30T13:48:28+00:00",
+      "title": "Tech sell-off grips Wall Street as investors worry about AI spending",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T06:05:30+00:00",
-      "title": "Amazon's After-Hours Drop Leaves It Below Wall Street's Lowest Price Target",
+      "timestamp": "2026-10-30T13:43:26+00:00",
+      "title": "Amazon and Intel Plunge After Disappointing Results, Fueling Wall Street's Nerves About AI Spending",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T05:16:10+00:00",
-      "title": "Big Tech Capex Scorecard: Amazon Spends Over $77B In One Quarter — How It Stacks Up With MSFT, TSLA, GOOGL",
+      "timestamp": "2026-10-30T13:42:28+00:00",
+      "title": "In A Bad Week For The AI Trade, This One Mag Seven Stock Holds Strong",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T05:15:17+00:00",
-      "title": "3 Growth Stocks With Revenue Growth Over 23%",
+      "timestamp": "2026-10-30T13:41:33+00:00",
+      "title": "Stock Market Today: Nasdaq Dives As Amazon, Intel Plunge On Earnings (Live Coverage)",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T04:50:02+00:00",
-      "title": "Amazon CEO Andy Jassy Just Made a Wild Prediction. It Could Make the Tech Giant a Big Winner.",
+      "timestamp": "2026-10-30T13:41:00+00:00",
+      "title": "Amazon and Intel earnings lead to a tech sell-off, and Binance is hacked for $6.3B",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-30T04:06:15+00:00",
-      "title": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
+      "timestamp": "2026-10-30T13:32:10+00:00",
+      "title": "TSX futures point lower as U.S. tech earnings spur AI jitters",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
