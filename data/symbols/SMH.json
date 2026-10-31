@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:44:29.143797+00:00",
+  "generated_at": "2026-10-31T02:46:37.840435+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 522.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T00:53:24.501276+00:00",
-      "close": 603.33
-    },
     {
       "timestamp": "2026-10-10T06:39:01.500163+00:00",
       "close": 603.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-30T23:44:29.143797+00:00",
       "close": 522.49
+    },
+    {
+      "timestamp": "2026-10-31T02:46:37.840435+00:00",
+      "close": 522.49
     }
   ],
   "events": [
@@ -514,9 +514,33 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-30T16:21:11+00:00",
+      "title": "Intel’s Earnings Fallout Is Hitting Your Index Funds Too",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-30T13:20:30+00:00",
       "title": "Intel, Google, Amazon And Reddit Brought Pins To The LLM Bubble",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-30T13:17:24+00:00",
+      "title": "Sandisk Sinks 9% Despite Earnings Beat, Raised Guidance and 8-for-1 Split; Western Digital Tumbles 8%, Seagate Slides 7%, Micron Falls 6%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-30T11:14:11+00:00",
+      "title": "Tech Earnings Drive Losses on Wall Street Pre-Bell; Asia Off, Europe Mixed",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-10-30T08:23:53+00:00",
       "title": "Intel Stock Eyes One of Its Worst Days Since 1974: 'Houston, We Have a Problem,' Analyst Says",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T04:42:59+00:00",
-      "title": "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T17:24:42+00:00",
-      "title": "10 Biggest Mid-Day Losers For Monday",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T11:09:12+00:00",
-      "title": "Alphabet Pressures Wall Street Pre-Bell; Asia Mixed, Europe Up",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

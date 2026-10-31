@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T23:44:29.143797+00:00",
+  "generated_at": "2026-10-31T02:46:37.840435+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1565.9,
     "change_pct": -6.55248552843587
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T00:53:24.501276+00:00",
-      "close": 1780.34
-    },
     {
       "timestamp": "2026-10-10T06:39:01.500163+00:00",
       "close": 1780.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-30T23:44:29.143797+00:00",
       "close": 1565.9
+    },
+    {
+      "timestamp": "2026-10-31T02:46:37.840435+00:00",
+      "close": 1565.9
     }
   ],
   "events": [
@@ -557,14 +557,6 @@
       "timestamp": "2026-10-29T06:35:02+00:00",
       "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-28T23:15:14+00:00",
-      "title": "Samsung Stock Drops 6% in Seoul as Record Profit Narrowly Misses Analyst Estimates, Memory Supply Seen Tightening in 2027",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

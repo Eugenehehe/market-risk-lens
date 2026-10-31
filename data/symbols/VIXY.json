@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T23:44:29.143797+00:00",
+  "generated_at": "2026-10-31T02:46:37.840435+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 18.41,
     "change_pct": 10.504201680672276
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T00:53:24.501276+00:00",
-      "close": 16.3
-    },
     {
       "timestamp": "2026-10-10T06:39:01.500163+00:00",
       "close": 16.3
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-30T23:44:29.143797+00:00",
       "close": 18.41
+    },
+    {
+      "timestamp": "2026-10-31T02:46:37.840435+00:00",
+      "close": 18.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-30T20:10:00+00:00",
+      "title": "Tech Selloff Wipes Out $1 Trillion In Value",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-30T07:56:50+00:00",
       "title": "Want to Hedge Your S&P 500 Portfolio Without Selling Your Stocks? Start With These 3 Tickers",
