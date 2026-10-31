@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T15:13:26.124013+00:00",
+  "generated_at": "2026-10-31T19:20:10.543568+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 424.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T17:48:14.829356+00:00",
-      "close": 586.06
-    },
     {
       "timestamp": "2026-10-10T20:43:33.266727+00:00",
       "close": 586.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-31T15:13:26.124013+00:00",
       "close": 424.3
+    },
+    {
+      "timestamp": "2026-10-31T19:20:10.543568+00:00",
+      "close": 424.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-31T16:19:29+00:00",
+      "title": "Why Dell (DELL) shares are getting obliterated today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-31T11:18:52+00:00",
       "title": "Intel Is Down 45% in October, Its Worst Month Ever",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-30T17:36:08+00:00",
       "title": "S&P 500 Top Movers: Gainers and Losers in Today's Session",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T17:02:31+00:00",
-      "title": "Dell Sinks 11% as Intel’s Warning on PC Slump and Memory Shortage Hits Hardware Stocks; HP Tumbles 9%, Hewlett Packard Enterprise and Super Micro Fall 7%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
