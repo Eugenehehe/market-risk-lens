@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:57:29.739296+00:00",
+  "generated_at": "2026-10-31T15:13:26.124013+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 424.3,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T13:03:38.607921+00:00",
-      "close": 586.06
-    },
     {
       "timestamp": "2026-10-10T17:48:14.829356+00:00",
       "close": 586.06
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-31T08:57:29.739296+00:00",
       "close": 424.3
+    },
+    {
+      "timestamp": "2026-10-31T15:13:26.124013+00:00",
+      "close": 424.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-31T11:18:52+00:00",
+      "title": "Intel Is Down 45% in October, Its Worst Month Ever",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-31T05:15:02+00:00",
       "title": "Arista Networks And 2 More AI Infrastructure Stocks To Watch",
@@ -538,32 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-10-30T20:06:04+00:00",
+      "title": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-30T17:36:08+00:00",
+      "title": "S&P 500 Top Movers: Gainers and Losers in Today's Session",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-10-30T17:02:31+00:00",
       "title": "Dell Sinks 11% as Intel’s Warning on PC Slump and Memory Shortage Hits Hardware Stocks; HP Tumbles 9%, Hewlett Packard Enterprise and Super Micro Fall 7%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T16:31:00+00:00",
-      "title": "Intel, Amazon, Nvidia, ExxonMobil, Sandisk, FedEx Freight, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T15:23:59+00:00",
-      "title": "Intel’s Earnings Disaster Spreads Across the Sector",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T14:55:22+00:00",
-      "title": "Trump’s Commerce Department’s Intel Stake Fell By More Than $10 Billion In A Day As Stock Craters",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
