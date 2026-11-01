@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-31T22:37:09.244969+00:00",
+  "generated_at": "2026-11-01T01:27:26.070278+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 123.31,
     "change_pct": -4.321849782743636
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T23:53:32.475368+00:00",
-      "close": 156.68
-    },
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 156.68
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-31T22:37:09.244969+00:00",
       "close": 123.31
+    },
+    {
+      "timestamp": "2026-11-01T01:27:26.070278+00:00",
+      "close": 123.31
     }
   ],
   "events": [
@@ -556,14 +556,6 @@
     {
       "timestamp": "2026-10-30T00:13:45+00:00",
       "title": "Corning (GLW) Stock Fair Value Edges Lower As Analysts Weigh AI Optical Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T19:58:00+00:00",
-      "title": "Top Analyst Reports for Lam Research, Lockheed Martin & Equinor",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

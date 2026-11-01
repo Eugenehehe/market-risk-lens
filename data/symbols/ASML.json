@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-31T22:37:09.244969+00:00",
+  "generated_at": "2026-11-01T01:27:26.070278+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1565.9,
     "change_pct": -6.55248552843587
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T23:53:32.475368+00:00",
-      "close": 1780.34
-    },
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 1780.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-31T22:37:09.244969+00:00",
       "close": 1565.9
+    },
+    {
+      "timestamp": "2026-11-01T01:27:26.070278+00:00",
+      "close": 1565.9
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-10-30T02:43:02+00:00",
       "title": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T13:08:42+00:00",
-      "title": "ASML: There Is More To Its Valuation Than Meets The Eye",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T12:00:00+00:00",
-      "title": "Is the Options Market Predicting a Spike in ASML Holding Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T11:16:01+00:00",
-      "title": "Top 3 AI Chip Stocks With P E Under 43",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

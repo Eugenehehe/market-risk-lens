@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:37:09.244969+00:00",
+  "generated_at": "2026-11-01T01:27:26.070278+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 522.49,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T23:53:32.475368+00:00",
-      "close": 603.33
-    },
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 603.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-31T22:37:09.244969+00:00",
       "close": 522.49
+    },
+    {
+      "timestamp": "2026-11-01T01:27:26.070278+00:00",
+      "close": 522.49
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-10-31T09:30:00+00:00",
       "title": "The Mag 7 Makes No Longer Sense: It's MAGMA And Batmans",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-31T03:20:01+00:00",
+      "title": "Intel Drags Down CPU Rivals. Is it a Buying Opportunity for AMD and Arm?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-30T13:05:05+00:00",
       "title": "Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T11:14:11+00:00",
-      "title": "Tech Earnings Drive Losses on Wall Street Pre-Bell; Asia Off, Europe Mixed",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

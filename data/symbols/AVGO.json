@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:37:09.244969+00:00",
+  "generated_at": "2026-11-01T01:27:26.070278+00:00",
   "snapshot": {
     "symbol": "AVGO",
     "price": 326.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T23:53:32.475368+00:00",
-      "close": 361.54
-    },
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 361.54
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-10-31T22:37:09.244969+00:00",
       "close": 326.08
+    },
+    {
+      "timestamp": "2026-11-01T01:27:26.070278+00:00",
+      "close": 326.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-31T23:05:02+00:00",
+      "title": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-31T14:07:56+00:00",
       "title": "Marvell Sinks 14% in a Week on Lumentum Talks: Chipmakers Like It “Don’t Have a Choice”",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-10-31T02:11:51+00:00",
       "title": "Elizabeth Warren Slams Trump's Voluntary AI Safety Deal With Tech CEOs, Says Republicans Aren't Doing Enough to Regulate AI: ‘Not Lifting A Finger...’",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T01:33:57+00:00",
-      "title": "Meta's $145 Billion AI Spending Plan Raises Credit Concerns as S&P Global Turns Outlook Negative: ‘Less Certain That It Will Curtail Its Spending’",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

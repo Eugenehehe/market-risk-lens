@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-31T22:37:09.244969+00:00",
+  "generated_at": "2026-11-01T01:27:26.070278+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 55.09,
     "change_pct": -6.420927467300819
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-10T23:53:32.475368+00:00",
-      "close": 73.46
-    },
     {
       "timestamp": "2026-10-11T03:42:12.944808+00:00",
       "close": 73.46
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-10-31T22:37:09.244969+00:00",
       "close": 55.09
+    },
+    {
+      "timestamp": "2026-11-01T01:27:26.070278+00:00",
+      "close": 55.09
     }
   ],
   "events": [
@@ -549,22 +549,6 @@
       "timestamp": "2026-10-30T09:13:07+00:00",
       "title": "Dell, HP Stocks Tumble As Intel Flags Deepening PC Slump, Memory Shortages",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T17:08:23+00:00",
-      "title": "What Is SAP (XTRA:SAP) Really Building With Its New AI Push?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-29T16:40:00+00:00",
-      "title": "DELL Expands AI Security Capabilities: Can It Challenge CSCO & HPE?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
