@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:59:27.348439+00:00",
+  "generated_at": "2026-11-01T14:57:32.630132+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 471.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T10:20:04.287149+00:00",
-      "close": 559.4
-    },
     {
       "timestamp": "2026-10-11T16:21:27.214083+00:00",
       "close": 559.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-01T07:59:27.348439+00:00",
       "close": 471.51
+    },
+    {
+      "timestamp": "2026-11-01T14:57:32.630132+00:00",
+      "close": 471.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-10-31T23:28:13+00:00",
+      "title": "Jim Cramer Warns ‘Don’t Assume the Worst Is Behind Us’ After $1 Trillion Chip Stock Rout",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-31T10:35:00+00:00",
       "title": "If You Invest $5,000 in SOXX Today and Never Touch It, History Says It Could Be Worth This Much in 20 Years",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-30T13:09:56+00:00",
       "title": "Intel Plunges 25% as Weak Outlook and PC Slump Overshadow Earnings Beat; Dell Tumbles 13%, AMD Sinks 10%, NVIDIA Falls 3%",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T13:05:05+00:00",
-      "title": "Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
