@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:28:15.696415+00:00",
+  "generated_at": "2026-11-01T22:59:08.264583+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 504.8,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T20:26:08.736762+00:00",
-      "close": 608.1
-    },
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 608.1
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-01T19:28:15.696415+00:00",
       "close": 504.8
+    },
+    {
+      "timestamp": "2026-11-01T22:59:08.264583+00:00",
+      "close": 504.8
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-01T19:06:56+00:00",
+      "title": "Missed Advanced Micro Devices' 126% Run? Here Is What Holders Saw",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-01T14:06:16+00:00",
       "title": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-31T23:28:13+00:00",
       "title": "Jim Cramer Warns ‘Don’t Assume the Worst Is Behind Us’ After $1 Trillion Chip Stock Rout",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T17:56:39+00:00",
-      "title": "Intel Sinks 27% in a Week on a Weak Outlook, Despite “Extraordinary Demand” for Its Server Chips",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

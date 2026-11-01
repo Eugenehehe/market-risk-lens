@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:28:15.696415+00:00",
+  "generated_at": "2026-11-01T22:59:08.264583+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 65.76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T20:26:08.736762+00:00",
-      "close": 104.7
-    },
     {
       "timestamp": "2026-10-11T23:51:12.182912+00:00",
       "close": 104.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-01T19:28:15.696415+00:00",
       "close": 65.76
+    },
+    {
+      "timestamp": "2026-11-01T22:59:08.264583+00:00",
+      "close": 65.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-01T19:00:00+00:00",
+      "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-01T16:40:27+00:00",
       "title": "A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here's What Happens Next",
@@ -516,6 +524,14 @@
     {
       "timestamp": "2026-11-01T16:14:06+00:00",
       "title": "Sandisk Sinks 13% Last Friday After a Beat: Kioxia Says the Flash Price Surge Is Fading",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-01T15:15:02+00:00",
+      "title": "AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-01T11:00:00+00:00",
       "title": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T11:00:00+00:00",
-      "title": "AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T08:30:07+00:00",
-      "title": "Earnings Volatility Watch: 10 Stocks Are Set to Swing More Than 10% This Week",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
