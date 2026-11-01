@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T14:57:32.630132+00:00",
+  "generated_at": "2026-11-01T19:28:15.696415+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1565.9,
     "change_pct": -6.55248552843587
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T16:21:27.214083+00:00",
-      "close": 1780.34
-    },
     {
       "timestamp": "2026-10-11T20:26:08.736762+00:00",
       "close": 1780.34
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-01T14:57:32.630132+00:00",
       "close": 1565.9
+    },
+    {
+      "timestamp": "2026-11-01T19:28:15.696415+00:00",
+      "close": 1565.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-01T17:08:01+00:00",
+      "title": "Why Is ASML Holding (NasdaqGS:ASML) Tying Executive Pay To Employee Morale?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-01T16:05:21+00:00",
+      "title": "ASML (NasdaqGS:ASML) Stock Looks Fairly Valued On Its 149% Run",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-01T04:20:00+00:00",
       "title": "2 Unstoppable Growth Stocks I'd Buy With $1,000 and Hold for a Decade",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:57:32.630132+00:00",
+  "generated_at": "2026-11-01T19:28:15.696415+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 471.51,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T16:21:27.214083+00:00",
-      "close": 559.4
-    },
     {
       "timestamp": "2026-10-11T20:26:08.736762+00:00",
       "close": 559.4
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-01T14:57:32.630132+00:00",
       "close": 471.51
+    },
+    {
+      "timestamp": "2026-11-01T19:28:15.696415+00:00",
+      "close": 471.51
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-01T13:08:31+00:00",
+      "title": "SOXX: Don't Expect A Quick Recovery For AI Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-31T23:28:13+00:00",
       "title": "Jim Cramer Warns ‘Don’t Assume the Worst Is Behind Us’ After $1 Trillion Chip Stock Rout",
@@ -557,14 +565,6 @@
       "timestamp": "2026-10-30T13:20:30+00:00",
       "title": "Intel, Google, Amazon And Reddit Brought Pins To The LLM Bubble",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T13:09:56+00:00",
-      "title": "Intel Plunges 25% as Weak Outlook and PC Slump Overshadow Earnings Beat; Dell Tumbles 13%, AMD Sinks 10%, NVIDIA Falls 3%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

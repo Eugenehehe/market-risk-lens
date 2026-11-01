@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:57:32.630132+00:00",
+  "generated_at": "2026-11-01T19:28:15.696415+00:00",
   "snapshot": {
     "symbol": "AMD",
     "price": 504.8,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMD"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T16:21:27.214083+00:00",
-      "close": 608.1
-    },
     {
       "timestamp": "2026-10-11T20:26:08.736762+00:00",
       "close": 608.1
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-11-01T14:57:32.630132+00:00",
       "close": 504.8
+    },
+    {
+      "timestamp": "2026-11-01T19:28:15.696415+00:00",
+      "close": 504.8
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-01T14:06:16+00:00",
+      "title": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-01T13:00:54+00:00",
       "title": "A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-01T09:45:00+00:00",
+      "title": "Wall Street Brunch: Midterms, Jobs And Apple",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-10-31T17:56:39+00:00",
       "title": "Intel Sinks 27% in a Week on a Weak Outlook, Despite “Extraordinary Demand” for Its Server Chips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T15:42:01+00:00",
-      "title": "Intel Has a Massive Warning for AMD Stock Investors. Is It Time to Book Profits Before Nov. 3?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T13:00:03+00:00",
-      "title": "What to Expect From AMD’s Q3 Earnings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:57:32.630132+00:00",
+  "generated_at": "2026-11-01T19:28:15.696415+00:00",
   "snapshot": {
     "symbol": "TSLA",
     "price": 399.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T16:21:27.214083+00:00",
-      "close": 382.7
-    },
     {
       "timestamp": "2026-10-11T20:26:08.736762+00:00",
       "close": 382.7
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-01T14:57:32.630132+00:00",
       "close": 399.81
+    },
+    {
+      "timestamp": "2026-11-01T19:28:15.696415+00:00",
+      "close": 399.81
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-01T16:26:54+00:00",
+      "title": "Rivian Earnings Don’t Mask Stock Collapse",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-01T13:25:47+00:00",
       "title": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-01T06:00:05+00:00",
       "title": "Trump Says Iran Talks Continue, Scaramucci Predicts Midterms Outcome and More: This Week in Politics",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T05:16:14+00:00",
-      "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
