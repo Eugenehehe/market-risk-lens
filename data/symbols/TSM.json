@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T09:40:12.618818+00:00",
+  "generated_at": "2026-11-02T19:47:34.568392+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 406.13,
-    "change_pct": -5.947060049558839
+    "price": 400.51,
+    "change_pct": -1.3837933666559943
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T10:53:09.030835+00:00",
-      "close": 453.31
-    },
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 444.35
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-02T09:40:12.618818+00:00",
       "close": 406.13
+    },
+    {
+      "timestamp": "2026-11-02T19:47:34.568392+00:00",
+      "close": 400.51
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-01T16:24:00+00:00",
-      "title": "5 Huge Winners From Anthropic's IPO",
+      "timestamp": "2026-11-02T13:02:26+00:00",
+      "title": "ASML Fell 6% in Intel’s Chip Rout. Its CEO Says Supply “Will Not Fully Meet the Demand”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-01T14:05:07+00:00",
-      "title": "5 Best Tech Stocks for the Next 5 Years According to Financial Media",
+      "timestamp": "2026-11-02T12:13:12+00:00",
+      "title": "KLA Q1: The More Complex Chips Become, The More Valuable KLA Gets (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T11:03:32+00:00",
+      "title": "8 ETFs Cut Taiwan Semiconductor (TSM) Holdings on Thursday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-01T07:20:07+00:00",
-      "title": "Who are the spillover winners from the AI export boom in Asia?",
+      "timestamp": "2026-11-02T10:20:02+00:00",
+      "title": "Intel vs. Taiwan Semiconductor: The AI Boom Is Telling Two Very Different Stories",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-01T04:20:00+00:00",
-      "title": "2 Unstoppable Growth Stocks I'd Buy With $1,000 and Hold for a Decade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T03:20:58+00:00",
-      "title": "Why Did Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Drop?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T23:28:13+00:00",
-      "title": "Jim Cramer Warns ‘Don’t Assume the Worst Is Behind Us’ After $1 Trillion Chip Stock Rout",
+      "timestamp": "2026-11-02T10:16:48+00:00",
+      "title": "Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs?",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-31T20:22:56+00:00",
-      "title": "5 Most Profitable Stocks of the Past 5 Years",
+      "timestamp": "2026-11-02T04:13:11+00:00",
+      "title": "Elon Musk Blinks? Tesla’s Terafab May Reportedly Lean on TSMC After All",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-31T20:09:26+00:00",
-      "title": "Taiwan Semiconductor Manufacturing (TSM) Draws New Sunbelt Real Estate Fund Around Phoenix Fabs",
+      "timestamp": "2026-11-02T02:14:16+00:00",
+      "title": "SPCX Stock Jumps Overnight: Musk Reportedly Revives TSMC Terafab Talks — Says Capex Efficiency Is ‘Greatly Underestimated’",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-01T16:24:00+00:00",
+      "title": "5 Huge Winners From Anthropic's IPO",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

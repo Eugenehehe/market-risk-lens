@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T09:40:12.618818+00:00",
+  "generated_at": "2026-11-02T19:47:34.568392+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 522.49,
-    "change_pct": -6.975626257410927
+    "price": 510.37,
+    "change_pct": -2.319661620318092
   },
   "risk": {
-    "score": 66,
+    "score": 65,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T10:53:09.030835+00:00",
-      "close": 603.33
-    },
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 590.99
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-02T09:40:12.618818+00:00",
       "close": 522.49
+    },
+    {
+      "timestamp": "2026-11-02T19:47:34.568392+00:00",
+      "close": 510.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-02T11:35:58+00:00",
+      "title": "Tech Rebound, Crude Slide Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T10:16:48+00:00",
+      "title": "Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T08:29:10+00:00",
+      "title": "How Power Defines The AI Buildout: Part I",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-10-31T22:06:07+00:00",
       "title": "SOXL: Why Now's The Time To Get Long Semiconductors Into Year-End (Upgrade)",

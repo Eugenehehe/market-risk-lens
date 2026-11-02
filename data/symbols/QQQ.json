@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T09:40:12.618818+00:00",
+  "generated_at": "2026-11-02T19:47:34.568392+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 690.49,
-    "change_pct": -3.4738725640953927
+    "price": 684.09,
+    "change_pct": -0.9268780141638566
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T10:53:09.030835+00:00",
-      "close": 751.27
-    },
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 746.04
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-02T09:40:12.618818+00:00",
       "close": 690.49
+    },
+    {
+      "timestamp": "2026-11-02T19:47:34.568392+00:00",
+      "close": 684.09
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-02T03:52:37+00:00",
-      "title": "Stocktwits Pharma Pulse: Biotech Beats The Broader Market — Novo, Pfizer And Moderna Earnings Up Next",
+      "timestamp": "2026-11-02T13:31:00+00:00",
+      "title": "Tech Rout, Muted Vol: Bullish Positioning Unwinds",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T12:30:00+00:00",
+      "title": "Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T11:13:56+00:00",
+      "title": "This Is Why I'm Buying The Halloween Dip",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T11:12:04+00:00",
+      "title": "How To Play The Midterms: Focus On This",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T11:04:08+00:00",
+      "title": "INVESCO QQQ (QQQ) Sells NVIDIA and Apple on Oct. 29",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T02:49:52+00:00",
-      "title": "The State Of The AI Trade: Someone Has To Pay The Bill",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T21:33:53+00:00",
-      "title": "While Everyone Sold Mag7 Names, I'm Moving Into Cybersecurity Stocks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T21:25:00+00:00",
-      "title": "As U.S. Stocks Flatten At An Inflection Point, Commodities Take The Lead This Year",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T16:30:00+00:00",
-      "title": "There's a $12,000 Reason to Consider Investing in QQQ Over SPY, but It Comes With a Caveat",
+      "timestamp": "2026-11-02T11:03:49+00:00",
+      "title": "ETFs Are Net Sellers of Costco (COST) on Thursday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-01T13:25:02+00:00",
-      "title": "SCHD Vs. FDVV: Which Dividend ETF Wins Into 2027",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-02T11:03:42+00:00",
+      "title": "ETFs Are Net Sellers of CrowdStrike (CRWD) on Oct. 29",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-01T12:55:55+00:00",
-      "title": "QQQM: The Nasdaq 100 Is Having A Panic Attack And I Think This Pullback Should Be Bought",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T12:40:00+00:00",
-      "title": "Growth Vs. Value Hit An Extreme As AI Spending Broke Big Tech",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-02T11:03:38+00:00",
+      "title": "Applied Materials (AMAT) Sees $77.8 Million in Net ETF Selling on Oct. 29",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

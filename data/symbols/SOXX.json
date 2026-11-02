@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T09:40:12.618818+00:00",
+  "generated_at": "2026-11-02T19:47:34.568392+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 471.51,
-    "change_pct": -8.241544389522437
+    "price": 455.59,
+    "change_pct": -3.3763865029373785
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T10:53:09.030835+00:00",
-      "close": 559.4
-    },
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 544.85
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-11-02T09:40:12.618818+00:00",
       "close": 471.51
+    },
+    {
+      "timestamp": "2026-11-02T19:47:34.568392+00:00",
+      "close": 455.59
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-02T11:05:26+00:00",
+      "title": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and Micron on Oct. 29",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T10:20:02+00:00",
+      "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T10:16:48+00:00",
+      "title": "Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-02T02:49:52+00:00",
       "title": "The State Of The AI Trade: Someone Has To Pay The Bill",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-01T16:55:05+00:00",
+      "title": "SOXX: Top Semiconductor ETF Targets $400 as AI Bubble Worries Linger",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -533,30 +565,6 @@
       "timestamp": "2026-10-31T14:03:00+00:00",
       "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T10:35:00+00:00",
-      "title": "If You Invest $5,000 in SOXX Today and Never Touch It, History Says It Could Be Worth This Much in 20 Years",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T09:03:34+00:00",
-      "title": "Don't Buy This Halloween Bloodbath",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T07:05:49+00:00",
-      "title": "Gold And Silver: A Generational Buying Opportunity Is Emerging",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

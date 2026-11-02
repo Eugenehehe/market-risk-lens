@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T09:40:12.618818+00:00",
+  "generated_at": "2026-11-02T19:47:34.568392+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 55.09,
-    "change_pct": -6.420927467300819
+    "price": 51.7,
+    "change_pct": -6.15356689054275
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T10:53:09.030835+00:00",
-      "close": 73.46
-    },
     {
       "timestamp": "2026-10-12T20:04:56.647425+00:00",
       "close": 70.33
@@ -502,20 +498,72 @@
     {
       "timestamp": "2026-11-02T09:40:12.618818+00:00",
       "close": 55.09
+    },
+    {
+      "timestamp": "2026-11-02T19:47:34.568392+00:00",
+      "close": 51.7
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-02T07:04:15+00:00",
-      "title": "Is Seagate Still The Business You Bought?",
+      "timestamp": "2026-11-02T17:36:03+00:00",
+      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-10-31T03:19:46+00:00",
-      "title": "3 Software Stocks Retail Investors Are Watching For AI Cost Control",
+      "timestamp": "2026-11-02T16:09:47+00:00",
+      "title": "Super Micro's AI Boom Faces a Margin Test in Q1",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T13:54:00+00:00",
+      "title": "5 Valuable Price-to-Book Stocks to Buy in November",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T13:45:08+00:00",
+      "title": "Dell Crashed by 20% Over The Last Month: A Respected Wall Street Analyst Says 65% Gains Are Incoming",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T12:45:00+00:00",
+      "title": "HPE to Present Live Audio Webcast of Fiscal 2026 Fourth Quarter Earnings Conference Call",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T09:30:05+00:00",
+      "title": "Nvidia, Costco and 10 More Issuers Opt Out of ICE and OKX’s Tokenized Stock Venue",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T08:43:00+00:00",
+      "title": "Stock Market Today: Intel’s Worst Day in Four Decades Drags Chips and the Nasdaq to a Rough October Finish",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T08:35:16+00:00",
+      "title": "The Dates That Matter Most For Cisco Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
