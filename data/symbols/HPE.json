@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T22:59:08.264583+00:00",
+  "generated_at": "2026-11-02T02:19:33.589623+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 55.09,
     "change_pct": -6.420927467300819
   },
   "risk": {
-    "score": 72,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T23:51:12.182912+00:00",
-      "close": 73.46
-    },
     {
       "timestamp": "2026-10-12T03:11:21.932139+00:00",
       "close": 73.46
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-01T22:59:08.264583+00:00",
       "close": 55.09
+    },
+    {
+      "timestamp": "2026-11-02T02:19:33.589623+00:00",
+      "close": 55.09
     }
   ],
   "events": [
@@ -509,46 +509,6 @@
       "timestamp": "2026-10-31T03:19:46+00:00",
       "title": "3 Software Stocks Retail Investors Are Watching For AI Cost Control",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T22:33:37+00:00",
-      "title": "What Are Dell Investors Betting On?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T22:18:44+00:00",
-      "title": "Is Arista Networks Stock Really Expensive?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T17:02:31+00:00",
-      "title": "Dell Sinks 11% as Intel’s Warning on PC Slump and Memory Shortage Hits Hardware Stocks; HP Tumbles 9%, Hewlett Packard Enterprise and Super Micro Fall 7%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T14:02:07+00:00",
-      "title": "What Could Lift Western Digital Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T09:13:07+00:00",
-      "title": "Dell, HP Stocks Tumble As Intel Flags Deepening PC Slump, Memory Shortages",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

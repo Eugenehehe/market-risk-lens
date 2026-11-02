@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T22:59:08.264583+00:00",
+  "generated_at": "2026-11-02T02:19:33.589623+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 19.33,
     "change_pct": 15.402985074626852
   },
   "risk": {
-    "score": 62,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T23:51:12.182912+00:00",
-      "close": 16.32
-    },
     {
       "timestamp": "2026-10-12T03:11:21.932139+00:00",
       "close": 16.32
@@ -502,18 +498,13 @@
     {
       "timestamp": "2026-11-01T22:59:08.264583+00:00",
       "close": 19.33
-    }
-  ],
-  "events": [
+    },
     {
-      "timestamp": "2026-10-30T20:10:00+00:00",
-      "title": "Tech Selloff Wipes Out $1 Trillion In Value",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-11-02T02:19:33.589623+00:00",
+      "close": 19.33
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

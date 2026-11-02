@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T22:59:08.264583+00:00",
+  "generated_at": "2026-11-02T02:19:33.589623+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1565.9,
     "change_pct": -6.55248552843587
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T23:51:12.182912+00:00",
-      "close": 1780.34
-    },
     {
       "timestamp": "2026-10-12T03:11:21.932139+00:00",
       "close": 1780.34
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-01T22:59:08.264583+00:00",
       "close": 1565.9
+    },
+    {
+      "timestamp": "2026-11-02T02:19:33.589623+00:00",
+      "close": 1565.9
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-10-31T10:42:00+00:00",
       "title": "ASML’s CEO is putting his paycheck on the line for employee morale. It could help retain talent that’s nearly impossible to replace",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T23:00:03+00:00",
-      "title": "ASML vs. Applied Materials: One Is Growing Twice as Fast, but I’d Buy The Other Instead",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T12:01:32+00:00",
-      "title": "Congressman Ditches Semiconductors, Data Storage: Here’s Three Stocks He Sold",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T08:46:29+00:00",
-      "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

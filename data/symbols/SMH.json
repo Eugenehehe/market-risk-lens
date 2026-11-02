@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T22:59:08.264583+00:00",
+  "generated_at": "2026-11-02T02:19:33.589623+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 522.49,
     "change_pct": -6.975626257410927
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T23:51:12.182912+00:00",
-      "close": 603.33
-    },
     {
       "timestamp": "2026-10-12T03:11:21.932139+00:00",
       "close": 603.33
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-01T22:59:08.264583+00:00",
       "close": 522.49
+    },
+    {
+      "timestamp": "2026-11-02T02:19:33.589623+00:00",
+      "close": 522.49
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-10-31T03:20:01+00:00",
       "title": "Intel Drags Down CPU Rivals. Is it a Buying Opportunity for AMD and Arm?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T19:31:55+00:00",
-      "title": "Here's How Much $1000 Invested In VanEck Semiconductor ETF 15 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T17:32:12+00:00",
-      "title": "AI Is Booming, But Hyperscaler Stocks Are Cracking: What's Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T16:21:11+00:00",
-      "title": "Intel’s Earnings Fallout Is Hitting Your Index Funds Too",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T13:20:30+00:00",
-      "title": "Intel, Google, Amazon And Reddit Brought Pins To The LLM Bubble",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T13:17:24+00:00",
-      "title": "Sandisk Sinks 9% Despite Earnings Beat, Raised Guidance and 8-for-1 Split; Western Digital Tumbles 8%, Seagate Slides 7%, Micron Falls 6%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

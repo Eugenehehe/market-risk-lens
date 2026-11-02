@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T22:59:08.264583+00:00",
+  "generated_at": "2026-11-02T02:19:33.589623+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 471.51,
     "change_pct": -8.241544389522437
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-11T23:51:12.182912+00:00",
-      "close": 559.4
-    },
     {
       "timestamp": "2026-10-12T03:11:21.932139+00:00",
       "close": 559.4
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-01T22:59:08.264583+00:00",
       "close": 471.51
+    },
+    {
+      "timestamp": "2026-11-02T02:19:33.589623+00:00",
+      "close": 471.51
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-10-31T23:28:13+00:00",
       "title": "Jim Cramer Warns ‘Don’t Assume the Worst Is Behind Us’ After $1 Trillion Chip Stock Rout",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-10-31T14:03:00+00:00",
+      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -540,30 +548,6 @@
     {
       "timestamp": "2026-10-31T07:05:49+00:00",
       "title": "Gold And Silver: A Generational Buying Opportunity Is Emerging",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T19:04:25+00:00",
-      "title": "Intel Agreed to Buy Israeli Startup Classiq Technologies. How Investors Should View the Deal.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T13:35:01+00:00",
-      "title": "Tech Sector Showdown: The Trade-Off Between Tactical Concentration and Low-Cost Breadth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-30T13:20:30+00:00",
-      "title": "Intel, Google, Amazon And Reddit Brought Pins To The LLM Bubble",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
