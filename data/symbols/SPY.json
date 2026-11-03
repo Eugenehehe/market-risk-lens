@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:47:34.568392+00:00",
+  "generated_at": "2026-11-03T01:52:15.284245+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 754.04,
-    "change_pct": -0.22230455724343567
+    "price": 752.1,
+    "change_pct": -0.47901339120308695
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T20:04:56.647425+00:00",
-      "close": 778.1
-    },
     {
       "timestamp": "2026-10-13T01:59:00.827687+00:00",
       "close": 778.1
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-02T19:47:34.568392+00:00",
       "close": 754.04
+    },
+    {
+      "timestamp": "2026-11-03T01:52:15.284245+00:00",
+      "close": 752.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-02T22:13:48+00:00",
+      "title": "$1,000 in Bitcoin at the 2017 Peak: What Is It Worth Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T19:54:39+00:00",
+      "title": "IDEXX Soars 20.2% on Earnings Beat: What It Means for Your S&P 500 Index Fund",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-02T17:30:22+00:00",
       "title": "Ed Yardeni's Midterms Prediction: Democratic Sweep Could Be a 'Cold Shower' for Stock Market",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-02T13:31:00+00:00",
       "title": "Tech Rout, Muted Vol: Bullish Positioning Unwinds",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T13:00:00+00:00",
-      "title": "REIT Earnings Halftime: A Reprieve After The Rout",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T12:30:00+00:00",
-      "title": "Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T19:47:34.568392+00:00",
+  "generated_at": "2026-11-03T01:52:15.284245+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 123.13,
-    "change_pct": -0.1459735625658931
+    "price": 123.2,
+    "change_pct": -0.0892060660124927
   },
   "risk": {
-    "score": 52,
+    "score": 51,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-12T20:04:56.647425+00:00",
-      "close": 147.25
-    },
     {
       "timestamp": "2026-10-13T01:59:00.827687+00:00",
       "close": 147.28
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-02T19:47:34.568392+00:00",
       "close": 123.13
+    },
+    {
+      "timestamp": "2026-11-03T01:52:15.284245+00:00",
+      "close": 123.2
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-02T22:22:34+00:00",
+      "title": "Coherent Vs Amphenol: Which Stock Is The Better Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T21:35:00+00:00",
+      "title": "Marvell, Lumentum, Oracle, SpaceX, Rivian, Apple, Palantir, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-02T17:36:03+00:00",
       "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-02T08:10:12+00:00",
       "title": "Marvell Technology Confirms Will Acquire Lumentum For 4.5 MRVL Shares Per LITE Share In An All-Stock Deal Valuing LITE At $1,132/Share With An Implied EV Of $115B",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T08:45:00+00:00",
-      "title": "Verizon: Buy The SpaceX Fear Before The Rerating",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-10-31T01:43:01+00:00",
-      "title": "Prediction: Here's Where Corning Stock Will Trade in 2030",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
