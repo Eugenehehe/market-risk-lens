@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T08:52:41.778591+00:00",
+  "generated_at": "2026-11-03T16:46:13.028732+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 453.65,
-    "change_pct": -3.787830586838037
+    "price": 466.17,
+    "change_pct": 2.7598368786509564
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-13T09:17:10.650904+00:00",
-      "close": 544.85
-    },
     {
       "timestamp": "2026-10-13T17:00:26.507079+00:00",
       "close": 538.91
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-03T08:52:41.778591+00:00",
       "close": 453.65
+    },
+    {
+      "timestamp": "2026-11-03T16:46:13.028732+00:00",
+      "close": 466.17
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-03T09:16:34+00:00",
+      "title": "EXCLUSIVE: 'AI Monetization' Is the Real Threat: Why China's Cheap Models Could Rattle These ETFs",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-03T06:47:40+00:00",
+      "title": "Howard Marks Questions Anthropic's $1.5 Trillion-Plus Valuation: 'Can We Really Fool Ourselves Into Thinking We Know...'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-03T00:56:00+00:00",
       "title": "The Next Phase Of AI: Why Selectivity Matters",
@@ -522,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-02T15:15:11+00:00",
+      "title": "EXCLUSIVE: AI Bubble Risk Is Low, but SMH Faces a Bigger Threat Than QQQ, Expert Warns",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-02T13:21:47+00:00",
+      "title": "Kalshi, Polymarket Put Democrats' Senate Odds At More Than 70%: 5 ETFs That Could Move If They're Wrong",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-02T13:00:00+00:00",
       "title": "Intel Logs Worst Daily Drop Since 1970s: Buy the Dip With ETFs?",
       "source": "Yahoo",
@@ -533,38 +565,6 @@
       "timestamp": "2026-11-02T11:05:26+00:00",
       "title": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and Micron on Oct. 29",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T10:20:02+00:00",
-      "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T10:16:48+00:00",
-      "title": "Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T02:49:52+00:00",
-      "title": "The State Of The AI Trade: Someone Has To Pay The Bill",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-01T16:55:05+00:00",
-      "title": "SOXX: Top Semiconductor ETF Targets $400 as AI Bubble Worries Linger",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

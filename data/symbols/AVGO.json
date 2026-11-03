@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T08:52:41.778591+00:00",
+  "generated_at": "2026-11-03T16:46:13.028732+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 322.23,
-    "change_pct": -1.1806918547595524
+    "price": 331.95,
+    "change_pct": 3.016478912577969
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-13T09:17:10.650904+00:00",
-      "close": 354.73
-    },
     {
       "timestamp": "2026-10-13T17:00:26.507079+00:00",
       "close": 355.45
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-03T08:52:41.778591+00:00",
       "close": 322.23
+    },
+    {
+      "timestamp": "2026-11-03T16:46:13.028732+00:00",
+      "close": 331.95
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-03T03:00:00+00:00",
-      "title": "Alger Growth & Income Fund Q3 2026 Portfolio Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T22:06:20+00:00",
-      "title": "Stock Market Today, Nov. 2: Marvell Announces $115 Billion All-Stock Acquisition of Lumentum",
+      "timestamp": "2026-11-03T15:13:03+00:00",
+      "title": "Is Broadcom (AVGO) Undervalued On Its Latest Security Update?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T20:04:00+00:00",
-      "title": "This Earnings Season’s Biggest Beats Are Coming From Outside Tech",
+      "timestamp": "2026-11-03T15:03:00+00:00",
+      "title": "Expedient Acquires phoenixNAP's U.S. Managed VMware Cloud Business",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T19:39:00+00:00",
-      "title": "Why Free Cash Flow Matters More Than Ever: 5 Tech Stocks to Watch",
+      "timestamp": "2026-11-03T14:47:07+00:00",
+      "title": "Nvidia Is $2 Away From Falling Below $200 for the First Time Since July",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T18:53:00+00:00",
-      "title": "Active Fund Managers Staged a Big Comeback. Can It Last?",
+      "timestamp": "2026-11-03T14:36:33+00:00",
+      "title": "Is Intel Stock Still Worth Owning After Its Quarter?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T18:07:21+00:00",
-      "title": "Anthropic Reports Revenue Surge in First Nine Months, Net Loss Widens",
+      "timestamp": "2026-11-03T14:05:38+00:00",
+      "title": "Micron, Nvidia, and AMD lead chip stocks' rebound",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T17:36:03+00:00",
-      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+      "timestamp": "2026-11-03T14:04:14+00:00",
+      "title": "Anthropic’s Spending Commitments Are Soaring Towards $1 Trillion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-02T16:14:00+00:00",
-      "title": "Buy, Sell or Hold AMD Stock? Key Tips Ahead of Q3 Earnings",
+      "timestamp": "2026-11-03T14:04:00+00:00",
+      "title": "Tech Earnings Are Sputtering. The AI Boom Faces a ‘Show Me’ Moment.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-03T13:18:00+00:00",
+      "title": "South Korea Doubles AI Chip Budget: 4 ETFs to Ride the Wave",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-03T08:52:41.778591+00:00",
+  "generated_at": "2026-11-03T16:46:13.028732+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 398.63,
-    "change_pct": -1.8466993327259762
+    "price": 406.31,
+    "change_pct": 1.9265986002056978
   },
   "risk": {
-    "score": 65,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-13T09:17:10.650904+00:00",
-      "close": 444.35
-    },
     {
       "timestamp": "2026-10-13T17:00:26.507079+00:00",
       "close": 443.29
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-03T08:52:41.778591+00:00",
       "close": 398.63
+    },
+    {
+      "timestamp": "2026-11-03T16:46:13.028732+00:00",
+      "close": 406.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-03T08:16:25+00:00",
+      "title": "TSMC Is Down 18%: The 2nm Ramp Should Change That",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-03T02:58:25+00:00",
       "title": "Apple suppliers split in Asia as strong iPhone sales meet rising memory costs",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-02T14:26:57+00:00",
+      "title": "What's Going on With Taiwan Semiconductor Stock on Monday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-02T14:01:10+00:00",
       "title": "23 Big Funds Bought Advanced Micro Devices Last Quarter. Is It a Buy Before Earnings?",
       "source": "Yahoo",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-02T13:02:26+00:00",
       "title": "ASML Fell 6% in Intel’s Chip Rout. Its CEO Says Supply “Will Not Fully Meet the Demand”",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T12:54:00+00:00",
-      "title": "TSM Soars 33% in the Past Year: Is It a Solid Investment Proposition?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T12:13:12+00:00",
-      "title": "KLA Q1: The More Complex Chips Become, The More Valuable KLA Gets (Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
