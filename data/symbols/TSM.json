@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T01:52:15.284245+00:00",
+  "generated_at": "2026-11-03T08:52:41.778591+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 398.63,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-13T01:59:00.827687+00:00",
-      "close": 444.35
-    },
     {
       "timestamp": "2026-10-13T09:17:10.650904+00:00",
       "close": 444.35
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-03T01:52:15.284245+00:00",
       "close": 398.63
+    },
+    {
+      "timestamp": "2026-11-03T08:52:41.778591+00:00",
+      "close": 398.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-03T02:58:25+00:00",
+      "title": "Apple suppliers split in Asia as strong iPhone sales meet rising memory costs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-02T21:05:00+00:00",
       "title": "Top Stock Picks for Week of November 2, 2026",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-02T12:13:12+00:00",
       "title": "KLA Q1: The More Complex Chips Become, The More Valuable KLA Gets (Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T11:03:32+00:00",
-      "title": "8 ETFs Cut Taiwan Semiconductor (TSM) Holdings on Thursday",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
