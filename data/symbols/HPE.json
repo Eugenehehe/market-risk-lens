@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:04:07.458894+00:00",
+  "generated_at": "2026-11-04T02:14:27.882361+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 53.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-13T21:47:29.446327+00:00",
-      "close": 68.81
-    },
     {
       "timestamp": "2026-10-14T00:39:21.122652+00:00",
       "close": 68.81
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-03T22:04:07.458894+00:00",
       "close": 53.1
+    },
+    {
+      "timestamp": "2026-11-04T02:14:27.882361+00:00",
+      "close": 53.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-03T22:06:00+00:00",
+      "title": "S&P 500 After-Hours Gainers: Tuesday Postmarket Movers",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-03T16:16:54+00:00",
       "title": "How Higher AI Spending Will Impact ServiceNow Stock",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-03T10:57:20+00:00",
       "title": "Do Wall Street Analysts Like Hewlett Packard Enterprise Stock?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T08:40:01+00:00",
-      "title": "Hewlett Packard Enterprise: AI Networking Story Is Just Starting - Pessimism Risks Ahead",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
