@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:14:27.882361+00:00",
+  "generated_at": "2026-11-04T09:25:59.314417+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 465,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T00:39:21.122652+00:00",
-      "close": 543.9
-    },
     {
       "timestamp": "2026-10-14T05:24:47.147720+00:00",
       "close": 543.9
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-04T02:14:27.882361+00:00",
       "close": 465
+    },
+    {
+      "timestamp": "2026-11-04T09:25:59.314417+00:00",
+      "close": 465
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-04T03:09:31+00:00",
+      "title": "Dow, S&P 500, Nasdaq Futures Fall As Markets Weigh A Potential Democratic Sweep In Midterms: DJT, AMD, SMCI, SOXL In Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-03T22:55:00+00:00",
+      "title": "Tech Stocks Rebound To Take Center Stage - Again",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-03T16:53:32+00:00",
       "title": "Here’s How Much Traders Expect AMD Stock to Move After Earnings",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-03T11:02:05+00:00",
       "title": "ETFs Bought $72.5 Million of Microchip (MCHP) on Friday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T11:01:44+00:00",
-      "title": "ETFs Bought $114.8 Million of Texas Instruments (TXN) on Oct. 30",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T11:01:02+00:00",
-      "title": "ETFs Bought $183.8 Million of Broadcom (AVGO) on Friday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

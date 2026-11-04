@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:14:27.882361+00:00",
+  "generated_at": "2026-11-04T09:25:59.314417+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 518.52,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T00:39:21.122652+00:00",
-      "close": 588.12
-    },
     {
       "timestamp": "2026-10-14T05:24:47.147720+00:00",
       "close": 588.12
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-04T02:14:27.882361+00:00",
       "close": 518.52
+    },
+    {
+      "timestamp": "2026-11-04T09:25:59.314417+00:00",
+      "close": 518.52
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-11-03T23:29:55+00:00",
       "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-03T22:55:00+00:00",
+      "title": "Tech Stocks Rebound To Take Center Stage - Again",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-03T07:30:00+00:00",
       "title": "Tech's Biggest Winners Just Became The Market's Biggest Trap",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T06:47:40+00:00",
-      "title": "Howard Marks Questions Anthropic's $1.5 Trillion-Plus Valuation: 'Can We Really Fool Ourselves Into Thinking We Know...'",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
