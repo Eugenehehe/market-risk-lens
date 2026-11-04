@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T09:25:59.314417+00:00",
+  "generated_at": "2026-11-04T17:25:13.646980+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 126.19,
-    "change_pct": 5.846334507632944
+    "change_pct": 0.0
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T05:24:47.147720+00:00",
-      "close": 143.2
-    },
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 143.2
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-04T09:25:59.314417+00:00",
       "close": 126.19
+    },
+    {
+      "timestamp": "2026-11-04T17:25:13.646980+00:00",
+      "close": 126.19
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-04T08:08:00+00:00",
-      "title": "Why Is ORCL Stock Sliding Overnight?",
+      "timestamp": "2026-11-04T15:45:32+00:00",
+      "title": "Oracle Continues to Crash Lower and Lower But Two Bullish Desks Agree That Its Price WIll More Than Triple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T05:52:16+00:00",
-      "title": "Oracle cancels $7 bln chip leasing deal with Tencent, FT reports",
+      "timestamp": "2026-11-04T15:45:00+00:00",
+      "title": "Forget the 12-Month Squeeze: Microsoft Is Primed for an Explosive AI Payoff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T04:36:23+00:00",
-      "title": "Marvell Technology And 2 More High Growth Stocks To Watch",
+      "timestamp": "2026-11-04T15:14:22+00:00",
+      "title": "What Did CrowdStrike Do That MongoDB Did Not?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T03:47:00+00:00",
-      "title": "5 tech stock stalwarts have tumbled over 50%",
+      "timestamp": "2026-11-04T14:47:00+00:00",
+      "title": "Virtual Machines - Global Strategic Business Report 2026: Secure Share of a Market Accelerating at 16.8% CAGR to $36.9 Billion by 2032, Led by AWS, Microsoft, Google Cloud, VMware, and Oracle",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T02:50:00+00:00",
-      "title": "Pershing Square Holdings: Q3 2026 Hyperscaler Investments",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T23:49:36+00:00",
-      "title": "CrowdStrike (CRWD) stock trades down, here is why",
+      "timestamp": "2026-11-04T14:00:00+00:00",
+      "title": "Credo and Oracle Advance Optical Transceiver Telemetry Standardization with OCP Community",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T23:41:36+00:00",
-      "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
+      "timestamp": "2026-11-04T14:00:00+00:00",
+      "title": "Rimini Street Awarded CANUT Third-Party Maintenance Framework Agreement",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T23:17:07+00:00",
-      "title": "Oracle Stock Faces Questions After $20 Billion AI Funding Plan",
+      "timestamp": "2026-11-04T13:49:33+00:00",
+      "title": "What Will Decide Microsoft Stock Over The Next Six Months?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T13:28:28+00:00",
+      "title": "60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

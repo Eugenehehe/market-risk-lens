@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T09:25:59.314417+00:00",
+  "generated_at": "2026-11-04T17:25:13.646980+00:00",
   "snapshot": {
     "symbol": "AVGO",
-    "price": 332.13,
-    "change_pct": 3.0723396331812536
+    "price": 327.92,
+    "change_pct": -1.2675759491765248
   },
   "risk": {
-    "score": 75,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AVGO"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T05:24:47.147720+00:00",
-      "close": 357.31
-    },
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 357.31
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-04T09:25:59.314417+00:00",
       "close": 332.13
+    },
+    {
+      "timestamp": "2026-11-04T17:25:13.646980+00:00",
+      "close": 327.92
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-04T03:48:27+00:00",
-      "title": "Broadcom: With Next Year's Revenue Doubling, It's A Buy That's Cheaper Than It Looks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T03:03:00+00:00",
-      "title": "Tom Lee says AI investors may be selling at the wrong time",
+      "timestamp": "2026-11-04T15:44:39+00:00",
+      "title": "Markets Discount Broadcom (AVGO) on MediaTek TPU Rumors, But Management’s Targets Tell Another Story",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T00:17:41+00:00",
-      "title": "What Is Broadcom (AVGO) Changing In AI Security And Fraud Defense?",
+      "timestamp": "2026-11-04T15:33:57+00:00",
+      "title": "Buy the Dip or Wait? Three Scenarios That Could Shape Broadcom Stock Through 2028",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T22:45:09+00:00",
-      "title": "Stock Market Today, Nov. 3: Marvell Shares Edge Higher After Premarket Drop on $115 Billion Lumentum Deal",
+      "timestamp": "2026-11-04T15:30:00+00:00",
+      "title": "One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T22:36:00+00:00",
-      "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
+      "timestamp": "2026-11-04T14:34:02+00:00",
+      "title": "Arista Soars 6% on $18.5 Billion 2027 Outlook After Quarter “Surpassing Even My High Expectations”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T22:18:45+00:00",
-      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "timestamp": "2026-11-04T13:45:37+00:00",
+      "title": "Marvell Slipped Over The Last Month and Then Crashed Massively on the Lumentum Announcement: This Wall Street Desk Doubled Down on Its 130% Gains Prediction",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T22:14:10+00:00",
-      "title": "Apollo Global Management Q3 Earnings Call Highlights",
+      "timestamp": "2026-11-04T13:32:00+00:00",
+      "title": "MRVL Plunges 36% in a Month: Should You Buy, Sell or Hold the Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T21:30:00+00:00",
-      "title": "AMD Changes the Mood With Big Earnings Beat",
+      "timestamp": "2026-11-04T13:02:17+00:00",
+      "title": "What's Happening With AMD Stock?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T12:35:51+00:00",
+      "title": "Stock Market Today: Democrats Take Congress as AMD’s Blowout Quarter Pulls Chip Stocks Back Into the Light",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

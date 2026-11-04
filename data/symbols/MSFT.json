@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T09:25:59.314417+00:00",
+  "generated_at": "2026-11-04T17:25:13.646980+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 520.99,
-    "change_pct": 2.7350528474522795
+    "price": 556.16,
+    "change_pct": 6.750609416687459
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T00:39:21.122652+00:00",
-      "close": 543.45
-    },
     {
       "timestamp": "2026-10-14T05:24:47.147720+00:00",
       "close": 543.45
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-04T09:25:59.314417+00:00",
       "close": 520.99
+    },
+    {
+      "timestamp": "2026-11-04T17:25:13.646980+00:00",
+      "close": 556.16
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-04T07:12:18+00:00",
-      "title": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+      "timestamp": "2026-11-04T15:45:47+00:00",
+      "title": "Counterparty Concentration and Depreciation Define CoreWeave Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T03:03:00+00:00",
-      "title": "Tom Lee says AI investors may be selling at the wrong time",
+      "timestamp": "2026-11-04T15:45:32+00:00",
+      "title": "Oracle Continues to Crash Lower and Lower But Two Bullish Desks Agree That Its Price WIll More Than Triple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T02:35:00+00:00",
-      "title": "Higher Margins, Better ROIC And Capable Management Define Pershing Square's Q3 2026 Portfolio",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T02:07:44+00:00",
-      "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
+      "timestamp": "2026-11-04T15:45:00+00:00",
+      "title": "Forget the 12-Month Squeeze: Microsoft Is Primed for an Explosive AI Payoff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T23:47:33+00:00",
-      "title": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
+      "timestamp": "2026-11-04T15:39:27+00:00",
+      "title": "Blue Chips Pop On Blue Wave As Dow Surges 1,000 Points",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T22:36:00+00:00",
-      "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
+      "timestamp": "2026-11-04T15:29:24+00:00",
+      "title": "Apple Soars 6% as Bernstein Lifts Price Target to $380 After Post-Earnings Margin Scare",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T21:49:34+00:00",
-      "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
+      "timestamp": "2026-11-04T15:27:12+00:00",
+      "title": "Amazon Soars 7% as Tech Shrugs Off Data Center Bans: “Can Buy Its Way Into New Towns”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-03T21:48:15+00:00",
-      "title": "Stock Market Election Night Live Coverage: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista, Amgen, Astera Move On Earnings",
+      "timestamp": "2026-11-04T15:26:25+00:00",
+      "title": "Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T15:25:48+00:00",
+      "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

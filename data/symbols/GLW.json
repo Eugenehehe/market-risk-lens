@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T09:25:59.314417+00:00",
+  "generated_at": "2026-11-04T17:25:13.646980+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 126.14,
-    "change_pct": 2.386363636363642
+    "price": 118.35,
+    "change_pct": -6.175677818297132
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T05:24:47.147720+00:00",
-      "close": 148.54
-    },
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 148.54
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-04T09:25:59.314417+00:00",
       "close": 126.14
+    },
+    {
+      "timestamp": "2026-11-04T17:25:13.646980+00:00",
+      "close": 118.35
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-04T14:33:00+00:00",
+      "title": "Can T-Mobile's Latest Fiber Plans Attract More Broadband Customers?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T11:04:29+00:00",
+      "title": "Capital Group Dividend Value (CGDV) Buys $146.3 Million More AMAT on Nov. 2",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T09:43:30+00:00",
+      "title": "Can You Make Money Off Ciena Stock Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-03T23:54:37+00:00",
       "title": "Corning: 3 Key Takeaways for Long-Term Investors",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-11-03T15:12:00+00:00",
       "title": "3D Cell Culture - Global Strategic Business Report: Capitalize on 13.9% CAGR to US$3.9 Billion by 2030 as Agilent, Corning, GE Healthcare and Bio-Rad Reshape Drug Discovery",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T14:57:13+00:00",
-      "title": "Exiting M&T Bank (MTB) as Risk-Reward Normalizes",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T14:49:08+00:00",
-      "title": "Weak Housing Keeps Pressure on Lumber and Weyerhaeuser (WY)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T14:45:35+00:00",
-      "title": "Callaway Golf’s (CALY) Balance Sheet Execution Supports Long-Term Upside",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

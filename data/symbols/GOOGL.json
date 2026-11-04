@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T09:25:59.314417+00:00",
+  "generated_at": "2026-11-04T17:25:13.646980+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 280.03,
-    "change_pct": 0.3727732176780352
+    "price": 291.69,
+    "change_pct": 4.1638395886155255
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T05:24:47.147720+00:00",
-      "close": 353.78
-    },
     {
       "timestamp": "2026-10-14T10:26:38.049075+00:00",
       "close": 353.78
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-04T09:25:59.314417+00:00",
       "close": 280.03
+    },
+    {
+      "timestamp": "2026-11-04T17:25:13.646980+00:00",
+      "close": 291.69
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-04T07:12:18+00:00",
-      "title": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+      "timestamp": "2026-11-04T15:45:32+00:00",
+      "title": "Oracle Continues to Crash Lower and Lower But Two Bullish Desks Agree That Its Price WIll More Than Triple",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T05:45:51+00:00",
-      "title": "Apple AI tools come to China after two-year delay",
+      "timestamp": "2026-11-04T15:31:57+00:00",
+      "title": "Constellation Energy Sinks 8%, Vistra Down 14% as Democrats’ Midterm Sweep Hits AI Power Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T05:20:00+00:00",
-      "title": "Alphabet's Free Cash Flow Is Declining Faster Than Analysts Expected. Is This AI Stock Still a Buy?",
+      "timestamp": "2026-11-04T15:27:12+00:00",
+      "title": "Amazon Soars 7% as Tech Shrugs Off Data Center Bans: “Can Buy Its Way Into New Towns”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T03:03:00+00:00",
-      "title": "Tom Lee says AI investors may be selling at the wrong time",
+      "timestamp": "2026-11-04T15:24:02+00:00",
+      "title": "Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T02:50:00+00:00",
-      "title": "Pershing Square Holdings: Q3 2026 Hyperscaler Investments",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T02:11:16+00:00",
-      "title": "SpaceX Could Match Google’s 27-Year Data Center Buildout In 18 Months, Outpace Even Chinese Rivals: SemiAnalysis",
+      "timestamp": "2026-11-04T15:22:43+00:00",
+      "title": "Three reasons stocks are moving higher after the midterms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T01:43:01+00:00",
-      "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
+      "timestamp": "2026-11-04T15:14:22+00:00",
+      "title": "What Did CrowdStrike Do That MongoDB Did Not?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T01:36:16+00:00",
-      "title": "Zohran Mamdani Says Google Uses ‘Monopoly Power’ to Push AI Into Schools: Corporations Shouldn’t ‘Dictate’ How We Teach Children",
+      "timestamp": "2026-11-04T15:11:07+00:00",
+      "title": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T15:02:35+00:00",
+      "title": "Amazon Rallies 7%, Apple and Microsoft Climb 5% as Big Tech Leads Post-Election Rebound",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
