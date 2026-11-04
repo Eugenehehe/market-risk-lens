@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T17:25:13.646980+00:00",
+  "generated_at": "2026-11-04T22:46:17.598225+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 453.17,
-    "change_pct": -2.544086021505376
+    "price": 450.41,
+    "change_pct": -3.1376344086021413
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T10:26:38.049075+00:00",
-      "close": 543.9
-    },
     {
       "timestamp": "2026-10-14T15:22:18.234340+00:00",
       "close": 527.22
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-04T17:25:13.646980+00:00",
       "close": 453.17
+    },
+    {
+      "timestamp": "2026-11-04T22:46:17.598225+00:00",
+      "close": 450.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-04T16:25:46+00:00",
+      "title": "The Semiconductor Sector May Be Nearing A Meltdown",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T13:52:35+00:00",
+      "title": "U.S. Midterms: Blue Tsunami, Trump Loses Congress, Wall Street Picks New Winners",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-04T11:57:00+00:00",
       "title": "Tech Now Accounts For Three-Quarters Of The U.S. Trade Deficit",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-04T06:10:29+00:00",
       "title": "Why AMD May Weather the PC Storm Better Than Intel",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T03:09:31+00:00",
-      "title": "Dow, S&P 500, Nasdaq Futures Fall As Markets Weigh A Potential Democratic Sweep In Midterms: DJT, AMD, SMCI, SOXL In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-03T22:55:00+00:00",
-      "title": "Tech Stocks Rebound To Take Center Stage - Again",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

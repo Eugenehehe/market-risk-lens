@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-04T17:25:13.646980+00:00",
+  "generated_at": "2026-11-04T22:46:17.598225+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 695.91,
-    "change_pct": 1.5511907541442937
+    "price": 691.95,
+    "change_pct": 0.9733247723558325
   },
   "risk": {
-    "score": 63,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T10:26:38.049075+00:00",
-      "close": 743.57
-    },
     {
       "timestamp": "2026-10-14T15:22:18.234340+00:00",
       "close": 734.33
@@ -502,13 +498,49 @@
     {
       "timestamp": "2026-11-04T17:25:13.646980+00:00",
       "close": 695.91
+    },
+    {
+      "timestamp": "2026-11-04T22:46:17.598225+00:00",
+      "close": 691.95
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-04T17:00:31+00:00",
+      "title": "Post-Election AI Infrastructure And Data Center Rethink",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T16:25:46+00:00",
+      "title": "The Semiconductor Sector May Be Nearing A Meltdown",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T15:46:48+00:00",
+      "title": "The Average Performance Of The S&P 500 Under A Divided Government Since 1953",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-04T12:35:51+00:00",
       "title": "Stock Market Today: Democrats Take Congress as AMD’s Blowout Quarter Pulls Chip Stocks Back Into the Light",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T12:20:13+00:00",
+      "title": "A Sudden Loss Of Altitude",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-11-04T10:39:29+00:00",
       "title": "The 'No To War' Midterm Vote: Defense Stocks Could Have The Risk Upside Down",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T10:05:00+00:00",
-      "title": "A Stronger Economy May Complicate The Inflation Fight",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T09:57:11+00:00",
-      "title": "Dan Ives Says Democratic Sweep Will Slow AI Buildout, Estimates 10% Of Planned US Data Centers ‘Will Not Happen Now’",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T09:40:09+00:00",
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Democrats Take Control of Congress—AMD, AMGN, NVO in Focus (UPDATED)",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T09:25:00+00:00",
-      "title": "What Democrats' Midterm Win Means For Markets",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
