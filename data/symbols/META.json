@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T10:12:25.880730+00:00",
+  "generated_at": "2026-11-05T18:04:09.540846+00:00",
   "snapshot": {
     "symbol": "META",
-    "price": 630,
-    "change_pct": 1.4443746678904468
+    "price": 601.57,
+    "change_pct": -4.512698412698402
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/META"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T22:34:35.592177+00:00",
-      "close": 737.54
-    },
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 737.54
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-05T10:12:25.880730+00:00",
       "close": 630
+    },
+    {
+      "timestamp": "2026-11-05T18:04:09.540846+00:00",
+      "close": 601.57
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-05T05:21:21+00:00",
-      "title": "3 Undervalued Stocks To Own In November 2026",
+      "timestamp": "2026-11-05T15:45:36+00:00",
+      "title": "Meta Has a Capex Guardrail That Few Talk About",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T03:46:19+00:00",
-      "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "timestamp": "2026-11-05T15:42:13+00:00",
+      "title": "Anthropic Just Paid a News Publisher for the First Time, and It Was AP",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T03:32:04+00:00",
-      "title": "Meta's US bond sale drew $58B in orders. Now it's tapping Europe.",
+      "timestamp": "2026-11-05T15:04:53+00:00",
+      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T03:27:32+00:00",
-      "title": "VIG Vs. DIVB: Two Dividend ETFs, One Pick For A Skeptical Market",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T02:17:00+00:00",
-      "title": "Meta President on Data Center Politics",
+      "timestamp": "2026-11-05T15:04:08+00:00",
+      "title": "Data Center Construction Starts Lag 6 Months Behind, Report Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T01:47:46+00:00",
-      "title": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "timestamp": "2026-11-05T14:49:07+00:00",
+      "title": "Dan Ives Sees Cash Flow Rebound In MSFT, META, GOOGL, AMZN: Says AI Bubble Fears Thrown Out The Window",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T01:16:38+00:00",
-      "title": "Is the AI Bubble Popping?",
+      "timestamp": "2026-11-05T14:41:54+00:00",
+      "title": "Meta's AI Buildout Runs Into a Political Problem",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T01:12:04+00:00",
-      "title": "Top 3 Founder Led Stocks To Watch In November 2026",
+      "timestamp": "2026-11-05T14:37:42+00:00",
+      "title": "Meta exec says midterm results makes new data centers challenging: WSJ",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T14:37:20+00:00",
+      "title": "Snap Sinks 8% on Q3 Revenue and User Miss as Ad Growth Remains “Below Our Ambitions”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

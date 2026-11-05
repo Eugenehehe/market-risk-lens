@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T10:12:25.880730+00:00",
+  "generated_at": "2026-11-05T18:04:09.540846+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 123.73,
-    "change_pct": -1.9494413186464832
+    "price": 113.52,
+    "change_pct": -8.251838680998958
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T22:34:35.592177+00:00",
-      "close": 130.55
-    },
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 130.55
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-05T10:12:25.880730+00:00",
       "close": 123.73
+    },
+    {
+      "timestamp": "2026-11-05T18:04:09.540846+00:00",
+      "close": 113.52
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-05T04:08:43+00:00",
-      "title": "What does the Democratic midterm sweep mean for Softbank’s U.S. data center plans?",
+      "timestamp": "2026-11-05T15:43:02+00:00",
+      "title": "Oracle Has Incredible News for Intel Stock Investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T02:36:00+00:00",
-      "title": "Oracle Just Dropped 14% in a Week. Is It Time to Sell, or Load Up?",
+      "timestamp": "2026-11-05T15:12:00+00:00",
+      "title": "AI/R Compass UOL Wins 2026 Oracle Partner Award for Latin America",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T22:20:02+00:00",
-      "title": "Stock Market Today, Nov. 4: Oracle Falls on Canceled $7 Billion Tencent Chip-Leasing Deal",
+      "timestamp": "2026-11-05T15:04:08+00:00",
+      "title": "Data Center Construction Starts Lag 6 Months Behind, Report Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T21:45:02+00:00",
-      "title": "Oracle (ORCL) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "timestamp": "2026-11-05T14:57:14+00:00",
+      "title": "Oracle Just Walked Away From a $7 Billion Tencent AI Deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T21:18:36+00:00",
-      "title": "After the midterms, Big Tech’s AI data center problem is only getting bigger",
+      "timestamp": "2026-11-05T14:49:00+00:00",
+      "title": "Pharmacovigilance and Drug Safety Software - Global Strategic Business Report 2026-2032 Featuring Oracle, ArisGlobal, Ennov, Extedo and More",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T21:13:30+00:00",
-      "title": "Credo Technology Group Holding (CRDO) Secures OCP Approval For Two Optical Telemetry Standards",
+      "timestamp": "2026-11-05T14:28:59+00:00",
+      "title": "Google Joins The Surge Of Tech Layoffs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T20:45:28+00:00",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+      "timestamp": "2026-11-05T13:00:00+00:00",
+      "title": "Tessell Agents for Gemini Bring Agentic Database Lifecycle Management to Enterprise Databases on Google Cloud",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T20:12:00+00:00",
-      "title": "Oracle gets UBS backing as broker pushes back on AI demand concerns",
+      "timestamp": "2026-11-05T12:15:58+00:00",
+      "title": "Microsoft Is Executing an Irreproducible Balance-Sheet-Backed Infrastructure Pre-Sale at Scale",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

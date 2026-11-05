@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T10:12:25.880730+00:00",
+  "generated_at": "2026-11-05T18:04:09.540846+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 284.02,
-    "change_pct": 1.5118481718431553
+    "price": 270.71,
+    "change_pct": -4.686289697908597
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T22:34:35.592177+00:00",
-      "close": 271.37
-    },
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 271.37
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-05T10:12:25.880730+00:00",
       "close": 284.02
+    },
+    {
+      "timestamp": "2026-11-05T18:04:09.540846+00:00",
+      "close": 270.71
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-05T11:09:02+00:00",
+      "title": "Hopium Around Gridlock Takes Hold",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T11:05:00+00:00",
+      "title": "AI Gold Rush: Digging For Gold Or Digging A Grave?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T09:29:36+00:00",
+      "title": "Don't Mistakenly Equate An AI Slowdown To An AI Crash",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T09:21:57+00:00",
+      "title": "S&P 500: Two Bullish Signals Behind The Midterm Rally",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T09:06:05+00:00",
+      "title": "Midterms Aftermath: The Dem Sweep Means Recession",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T09:02:19+00:00",
+      "title": "S&P 500 Outlook: The 2027 Rally Depends On 2028 Earnings",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T08:49:53+00:00",
+      "title": "The Year-End Rally Is In Full Swing",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-04T23:58:00+00:00",
       "title": "Post-Midterm ETF Action",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T22:05:00+00:00",
-      "title": "Blue Wave Paints The Market Green",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T17:34:02+00:00",
-      "title": "Blue Midterms Put Iran War On Borrowed Time",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T17:00:31+00:00",
-      "title": "Post-Election AI Infrastructure And Data Center Rethink",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T16:25:46+00:00",
-      "title": "The Semiconductor Sector May Be Nearing A Meltdown",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T15:46:48+00:00",
-      "title": "The Average Performance Of The S&P 500 Under A Divided Government Since 1953",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T12:20:13+00:00",
-      "title": "A Sudden Loss Of Altitude",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T11:57:00+00:00",
-      "title": "Tech Now Accounts For Three-Quarters Of The U.S. Trade Deficit",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

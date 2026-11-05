@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T10:12:25.880730+00:00",
+  "generated_at": "2026-11-05T18:04:09.540846+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 288.93,
-    "change_pct": 3.178230903831736
+    "price": 283.5,
+    "change_pct": -1.8793479389471512
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T22:34:35.592177+00:00",
-      "close": 347.64
-    },
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 347.64
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-05T10:12:25.880730+00:00",
       "close": 288.93
+    },
+    {
+      "timestamp": "2026-11-05T18:04:09.540846+00:00",
+      "close": 283.5
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-05T04:50:01+00:00",
-      "title": "IonQ vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+      "timestamp": "2026-11-05T15:45:36+00:00",
+      "title": "Meta Has a Capex Guardrail That Few Talk About",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T03:54:25+00:00",
-      "title": "Google expands voluntary buyouts to 5 countries as AI spending fuels cost cuts",
+      "timestamp": "2026-11-05T15:42:13+00:00",
+      "title": "Anthropic Just Paid a News Publisher for the First Time, and It Was AP",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T03:46:19+00:00",
-      "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "timestamp": "2026-11-05T15:30:00+00:00",
+      "title": "Agentic Commerce Optimization: Adobe Forecasts 130% AI Shopping Traffic Growth; Google Launches Universal Cart",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T02:52:29+00:00",
-      "title": "Tracking Tweedy Browne Portfolio - Q3 2026 Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T02:13:08+00:00",
-      "title": "Has Alphabet (GOOGL) Fallen Far Enough To Back Its Cash Flow Value?",
+      "timestamp": "2026-11-05T15:17:46+00:00",
+      "title": "5 Dividend Stocks Paying Up to 8.3% That Wall Street May Be Overlooking",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T01:47:46+00:00",
-      "title": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "timestamp": "2026-11-05T15:15:08+00:00",
+      "title": "Amazon and Google Could Outperform Nvidia as AI Trade Enters New Phase, Says Joseph Carlson",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T00:39:01+00:00",
-      "title": "What Is Going On With Zoom Stock?",
+      "timestamp": "2026-11-05T15:10:00+00:00",
+      "title": "Bluehost Brings AI to Life for Small Businesses Worldwide",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T00:13:01+00:00",
-      "title": "Why Alphabet Stock Popped on Wednesday",
+      "timestamp": "2026-11-05T15:04:53+00:00",
+      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T15:04:08+00:00",
+      "title": "Data Center Construction Starts Lag 6 Months Behind, Report Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

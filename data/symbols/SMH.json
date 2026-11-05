@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T10:12:25.880730+00:00",
+  "generated_at": "2026-11-05T18:04:09.540846+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 504.27,
-    "change_pct": -2.748206433695899
+    "price": 452.16,
+    "change_pct": -10.333749776905222
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T22:34:35.592177+00:00",
-      "close": 564.74
-    },
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 564.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-05T10:12:25.880730+00:00",
       "close": 504.27
+    },
+    {
+      "timestamp": "2026-11-05T18:04:09.540846+00:00",
+      "close": 452.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-05T09:06:05+00:00",
+      "title": "Midterms Aftermath: The Dem Sweep Means Recession",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-04T23:58:00+00:00",
       "title": "Post-Midterm ETF Action",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T11:57:00+00:00",
-      "title": "Tech Now Accounts For Three-Quarters Of The U.S. Trade Deficit",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T11:14:14+00:00",
-      "title": "US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
-      "source": "Yahoo",
+      "timestamp": "2026-11-04T13:31:02+00:00",
+      "title": "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

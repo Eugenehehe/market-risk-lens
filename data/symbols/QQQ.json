@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T10:12:25.880730+00:00",
+  "generated_at": "2026-11-05T18:04:09.540846+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 691.95,
-    "change_pct": 0.9733247723558325
+    "price": 649.65,
+    "change_pct": -6.113158465207036
   },
   "risk": {
-    "score": 58,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T22:34:35.592177+00:00",
-      "close": 728.95
-    },
     {
       "timestamp": "2026-10-15T00:49:26.496033+00:00",
       "close": 728.95
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-05T10:12:25.880730+00:00",
       "close": 691.95
+    },
+    {
+      "timestamp": "2026-11-05T18:04:09.540846+00:00",
+      "close": 649.65
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-05T03:27:32+00:00",
-      "title": "VIG Vs. DIVB: Two Dividend ETFs, One Pick For A Skeptical Market",
+      "timestamp": "2026-11-05T11:09:02+00:00",
+      "title": "Hopium Around Gridlock Takes Hold",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T23:58:00+00:00",
-      "title": "Post-Midterm ETF Action",
+      "timestamp": "2026-11-05T11:05:35+00:00",
+      "title": "Invesco QQQ (QQQ) Buys $19.6 Million More NVIDIA on Tuesday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T11:05:00+00:00",
+      "title": "AI Gold Rush: Digging For Gold Or Digging A Grave?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T23:32:33+00:00",
-      "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
+      "timestamp": "2026-11-05T11:01:34+00:00",
+      "title": "ETFs Are Buying Advanced Micro Devices (AMD) on Tuesday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T22:05:00+00:00",
-      "title": "Blue Wave Paints The Market Green",
+      "timestamp": "2026-11-05T11:01:31+00:00",
+      "title": "ETFs Are Buying Micron Technology (MU) on Nov. 3",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T10:29:46+00:00",
+      "title": "JEPQ Vs. QQQ: December Effect Makes Option Overlay Untimely (Rating Downgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T19:52:52+00:00",
-      "title": "Dow Surges After Democrats Sweep Midterm Elections",
-      "source": "Yahoo",
+      "timestamp": "2026-11-05T09:46:42+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Mixed After Post-Midterm Rally— TM, ARM, QCOM in Focus (UPDATED)",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-04T19:33:50+00:00",
-      "title": "Own an AI or Tech ETF? Arista’s Big Quarter Just Paid Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T18:09:14+00:00",
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T17:34:02+00:00",
-      "title": "Blue Midterms Put Iran War On Borrowed Time",
+      "timestamp": "2026-11-05T09:29:36+00:00",
+      "title": "Don't Mistakenly Equate An AI Slowdown To An AI Crash",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
