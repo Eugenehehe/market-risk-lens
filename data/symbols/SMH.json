@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:52:52.790048+00:00",
+  "generated_at": "2026-11-05T10:12:25.880730+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 504.27,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T19:32:22.884242+00:00",
-      "close": 567.23
-    },
     {
       "timestamp": "2026-10-14T22:34:35.592177+00:00",
       "close": 564.74
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-11-05T02:52:52.790048+00:00",
       "close": 504.27
+    },
+    {
+      "timestamp": "2026-11-05T10:12:25.880730+00:00",
+      "close": 504.27
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-04T23:58:00+00:00",
+      "title": "Post-Midterm ETF Action",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-04T23:32:33+00:00",
       "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T22:05:00+00:00",
+      "title": "Blue Wave Paints The Market Green",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-04T11:14:14+00:00",
       "title": "US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T08:42:34+00:00",
-      "title": "Why South Korea’s Largest US ETF Rallied While Seoul Sold Off — and What the Midterms Mean Next",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T08:05:22+00:00",
-      "title": "AI's Worst-Case Elections Scenario Is Here",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T02:52:52.790048+00:00",
+  "generated_at": "2026-11-05T10:12:25.880730+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 97.92,
     "change_pct": -4.5707046096871595
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T19:32:22.884242+00:00",
-      "close": 109.63
-    },
     {
       "timestamp": "2026-10-14T22:34:35.592177+00:00",
       "close": 109.45
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-11-05T02:52:52.790048+00:00",
       "close": 97.92
+    },
+    {
+      "timestamp": "2026-11-05T10:12:25.880730+00:00",
+      "close": 97.92
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-11-05T08:00:00+00:00",
+      "title": "Futu to Report Third Quarter 2026 Financial Results on November 19, 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

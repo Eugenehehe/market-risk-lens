@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:52:52.790048+00:00",
+  "generated_at": "2026-11-05T10:12:25.880730+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 123.73,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T19:32:22.884242+00:00",
-      "close": 130.46
-    },
     {
       "timestamp": "2026-10-14T22:34:35.592177+00:00",
       "close": 130.55
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-05T02:52:52.790048+00:00",
       "close": 123.73
+    },
+    {
+      "timestamp": "2026-11-05T10:12:25.880730+00:00",
+      "close": 123.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-05T04:08:43+00:00",
+      "title": "What does the Democratic midterm sweep mean for Softbank’s U.S. data center plans?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-05T02:36:00+00:00",
+      "title": "Oracle Just Dropped 14% in a Week. Is It Time to Sell, or Load Up?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-04T22:20:02+00:00",
       "title": "Stock Market Today, Nov. 4: Oracle Falls on Canceled $7 Billion Tencent Chip-Leasing Deal",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-04T20:12:00+00:00",
       "title": "Oracle gets UBS backing as broker pushes back on AI demand concerns",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T19:48:03+00:00",
-      "title": "Oracle Sees Massive Trading Surge After Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T19:06:09+00:00",
-      "title": "Most-Active S&P 500 Stocks for Nov. 4, 2026",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

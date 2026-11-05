@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:52:52.790048+00:00",
+  "generated_at": "2026-11-05T10:12:25.880730+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 395.75,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T19:32:22.884242+00:00",
-      "close": 430.91
-    },
     {
       "timestamp": "2026-10-14T22:34:35.592177+00:00",
       "close": 430
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-05T02:52:52.790048+00:00",
       "close": 395.75
+    },
+    {
+      "timestamp": "2026-11-05T10:12:25.880730+00:00",
+      "close": 395.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-05T02:35:05+00:00",
+      "title": "TSMC Is Up 30% in a Year and 19% Off Its High: Take Profits, or Buy More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-04T15:15:37+00:00",
       "title": "TSMC Stocks Move Lower as November Sales Data Face a $53.3 Billion Quarterly Hurdle",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-04T07:43:07+00:00",
       "title": "What Is Going On With Nvidia Stock on Wednesday?",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T07:14:24+00:00",
-      "title": "What Pinnacle West Capital (PNW) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
