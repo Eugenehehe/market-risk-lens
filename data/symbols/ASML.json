@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T22:46:17.598225+00:00",
+  "generated_at": "2026-11-05T02:52:52.790048+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1496.3,
     "change_pct": -3.5976136173283435
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T15:22:18.234340+00:00",
-      "close": 1706.59
-    },
     {
       "timestamp": "2026-10-14T19:32:22.884242+00:00",
       "close": 1675.55
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-04T22:46:17.598225+00:00",
       "close": 1496.3
+    },
+    {
+      "timestamp": "2026-11-05T02:52:52.790048+00:00",
+      "close": 1496.3
     }
   ],
   "events": [
@@ -556,14 +556,6 @@
     {
       "timestamp": "2026-11-03T08:39:02+00:00",
       "title": "European shares slide as Apple margin warning trigger global tech rout",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-02T13:02:26+00:00",
-      "title": "ASML Fell 6% in Intel’s Chip Rout. Its CEO Says Supply “Will Not Fully Meet the Demand”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

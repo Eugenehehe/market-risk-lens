@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:46:17.598225+00:00",
+  "generated_at": "2026-11-05T02:52:52.790048+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 450.41,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-14T15:22:18.234340+00:00",
-      "close": 527.22
-    },
     {
       "timestamp": "2026-10-14T19:32:22.884242+00:00",
       "close": 522.6
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-11-04T22:46:17.598225+00:00",
       "close": 450.41
+    },
+    {
+      "timestamp": "2026-11-05T02:52:52.790048+00:00",
+      "close": 450.41
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-04T16:45:35+00:00",
+      "title": "The Blue Wave Washed Out Risk, Momentum Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-04T16:25:46+00:00",
       "title": "The Semiconductor Sector May Be Nearing A Meltdown",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-04T15:04:09+00:00",
+      "title": "Dow Heads for Best Midterm Election Rally Since 1982",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-04T11:05:29+00:00",
+      "title": "What iShares PHLX SOX Semiconductor (SOXX) Bought: AMD Leads on Nov. 2",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-04T11:00:14+00:00",
       "title": "AI Data Centers Just Lost The Election",
       "source": "SeekingAlpha",
@@ -541,30 +565,6 @@
       "timestamp": "2026-11-04T10:24:56+00:00",
       "title": "The Case For AMD And SOXX: Semis Are In Bear Territory, AMD Says Demand Is Fine",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T08:55:00+00:00",
-      "title": "Voters Are Turning Against Data Centers, Making Permitted AI Capacity Scarcer And More Valuable",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T08:42:34+00:00",
-      "title": "Why South Korea’s Largest US ETF Rallied While Seoul Sold Off — and What the Midterms Mean Next",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T06:10:29+00:00",
-      "title": "Why AMD May Weather the PC Storm Better Than Intel",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
