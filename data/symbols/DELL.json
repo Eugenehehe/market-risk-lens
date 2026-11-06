@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T18:20:34.564103+00:00",
+  "generated_at": "2026-11-06T23:18:55.643765+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 325.98,
-    "change_pct": 2.862011296582634
+    "price": 328.53,
+    "change_pct": 3.6666561484332894
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T19:01:31.354504+00:00",
-      "close": 462.1
-    },
     {
       "timestamp": "2026-10-15T22:09:36.070459+00:00",
       "close": 473.39
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-06T18:20:34.564103+00:00",
       "close": 325.98
+    },
+    {
+      "timestamp": "2026-11-06T23:18:55.643765+00:00",
+      "close": 328.53
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-06T20:17:06+00:00",
+      "title": "Dell Technologies (DELL) Pushes Deeper Into Latin American AI Megaprojects",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T20:07:00+00:00",
+      "title": "Top Analyst Reports for Shell, Dell & Amphenol",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T19:50:02+00:00",
+      "title": "Dell vs. Nvidia: Chip Stocks Just Suffered Their Worst Sell-Off Since 2020. Which Is the Better Buy for 2027?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T18:16:32+00:00",
+      "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T17:57:22+00:00",
+      "title": "What Changed In Arista's Story?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-06T17:13:45+00:00",
       "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips",
@@ -525,46 +565,6 @@
       "timestamp": "2026-11-06T16:35:08+00:00",
       "title": "Why Is Arista Stock Falling?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T16:09:22+00:00",
-      "title": "Dell Rises 5% as AI Stocks Rebound From Post-Midterm Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T15:03:57+00:00",
-      "title": "The AI Boom Is Creating a New Set of Winners. These Stocks Stand Out",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T14:19:27+00:00",
-      "title": "What Will Decide Apple Stock As Memory Costs Rise?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T14:01:00+00:00",
-      "title": "Can SMCI's Collaboration With NVDA Help it Challenge DELL & HPE?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T13:36:06+00:00",
-      "title": "S&P 500 Premarket Movers: Tech and Semiconductor Stocks Lead Gainers as AXON and ROL Fall",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
