@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 733,
-    "change_pct": -4.409175675851895
+    "price": 736.85,
+    "change_pct": 0.5252387448840379
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 769.3
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 770.89
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 733
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 736.85
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-06T09:27:48+00:00",
-      "title": "Elon Musk’s Net Worth Drops Nearly $80 Billion In A Day As Tesla And SpaceX Stock Crater During Tech Wipe-Out",
+      "timestamp": "2026-11-06T15:08:50+00:00",
+      "title": "Jobless Claims Just Matched a 57-Year Low on the Day Stocks Crashed",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T05:56:08+00:00",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "timestamp": "2026-11-06T14:23:16+00:00",
+      "title": "Exchange-Traded Funds Higher, Equity Futures Mixed as US October Jobs Rise More than Expected",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T05:43:39+00:00",
-      "title": "What Bank Earnings Reveal About The U.S. Economy",
+      "timestamp": "2026-11-06T14:17:10+00:00",
+      "title": "George Kamel Says Skip the $250,000 Annuity. His Alternative Could Pay $676,000",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T13:57:07+00:00",
+      "title": "Stocks Just Had Their Worst Second Day After a Midterm in Nearly a Century",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T13:37:52+00:00",
+      "title": "Rate Hikes Could Be Coming: History Likes These 4 Consumer Staples Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T13:02:53+00:00",
+      "title": "Healthcare and Staples Hold the Line Against Tech. The Time to Be Fearful When Others Are Greedy Has Arrived.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T12:03:19+00:00",
+      "title": "BXSY: Low-Tech Exposure Positions This Fund To Outperform Following The Midterms",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T04:51:58+00:00",
-      "title": "SPX/Gold Ratio: Dome Of Doom",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T04:30:00+00:00",
-      "title": "A Phenomenon: Initial Applications For Unemployment Benefits (4-Week Average) Drop To The Lowest Since 1969",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T02:15:00+00:00",
-      "title": "Campaign Spending: The Hidden Boost Behind U.S. Consumer Resilience",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T01:15:00+00:00",
-      "title": "Democrats Take Congress, Putting Trump's Fiscal Agenda To The Test",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T00:12:35+00:00",
-      "title": "Increased Distributions On Eaton Vance Income Funds",
+      "timestamp": "2026-11-06T12:03:01+00:00",
+      "title": "Undercovered Dozen: NNN REIT, Weyerhaeuser, Vicor, And More",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "MSFT",
-    "price": 535.93,
-    "change_pct": -3.5750269881252295
+    "price": 532.94,
+    "change_pct": -0.5579086821039914
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 537.28
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 540.54
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 535.93
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 532.94
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-06T07:23:24+00:00",
-      "title": "ePlus Inc (PLUS) (Q2 2027) Earnings Call Highlights: Record $1 Billion in Gross Billings and ...",
+      "timestamp": "2026-11-06T17:34:41+00:00",
+      "title": "State Pension Funds Have at Least $578 Billion Riding on Tumbling AI Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T04:48:21+00:00",
-      "title": "Was Nutanix's Rise Driven By The Company Or Its Industry?",
+      "timestamp": "2026-11-06T17:23:13+00:00",
+      "title": "Apple Is “the Anti-AI Large Cap Tech Trade,” Says Josh Brown. Now It’s Capping AI Spending",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T03:15:00+00:00",
-      "title": "Allspring Growth Fund Q3 2026 Performers And Detractors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T01:40:00+00:00",
-      "title": "Alger Concentrated Equity ETF Q3 2026 Portfolio Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T01:19:48+00:00",
-      "title": "3 Value Stocks With Up To 38% Discount To Fair Value",
+      "timestamp": "2026-11-06T17:14:57+00:00",
+      "title": "Fifth Third Bancorp Eyes Texas Growth and AI Gains After Comerica Integration",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T01:11:24+00:00",
-      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
+      "timestamp": "2026-11-06T17:13:45+00:00",
+      "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T00:12:35+00:00",
-      "title": "Increased Distributions On Eaton Vance Income Funds",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-06T16:50:00+00:00",
+      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T23:21:25+00:00",
-      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
+      "timestamp": "2026-11-06T16:41:10+00:00",
+      "title": "Protesters storm Microsoft data centre",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T16:33:04+00:00",
+      "title": "Amazon Just Delivered a Record-Breaking Quarter. But There’s One Number Investors Shouldn’t Ignore.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T16:28:25+00:00",
+      "title": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

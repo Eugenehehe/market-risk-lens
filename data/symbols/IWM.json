@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 270.98,
-    "change_pct": -4.5912259700021
+    "price": 273.43,
+    "change_pct": 0.9041257657391721
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 58,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 274.08
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 273.97
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 270.98
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 273.43
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-06T05:43:39+00:00",
-      "title": "What Bank Earnings Reveal About The U.S. Economy",
+      "timestamp": "2026-11-06T12:01:00+00:00",
+      "title": "Solving For 2027",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T04:30:00+00:00",
-      "title": "A Phenomenon: Initial Applications For Unemployment Benefits (4-Week Average) Drop To The Lowest Since 1969",
+      "timestamp": "2026-11-06T11:42:44+00:00",
+      "title": "Semiconductors: Significant Capitulation Buying Moment Could Flash Soon",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T02:15:00+00:00",
-      "title": "Campaign Spending: The Hidden Boost Behind U.S. Consumer Resilience",
+      "timestamp": "2026-11-06T11:20:04+00:00",
+      "title": "The Fed Isn't Coming To Save The AI Trade",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T01:15:00+00:00",
-      "title": "Democrats Take Congress, Putting Trump's Fiscal Agenda To The Test",
+      "timestamp": "2026-11-06T11:17:00+00:00",
+      "title": "Energy Stocks Still A Portfolio Hedge",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T23:15:00+00:00",
-      "title": "Market Swims In A Sea Of Red",
+      "timestamp": "2026-11-06T11:00:00+00:00",
+      "title": "Global PMI Remains Elevated In October, But Dips On Heightened Economic Uncertainty",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T22:35:45+00:00",
-      "title": "It's Not Over, The Worst Is Yet To Come",
+      "timestamp": "2026-11-06T10:43:05+00:00",
+      "title": "The Path Forward After This Mini-Meltdown",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T19:28:23+00:00",
-      "title": "Is Webull the Best Trading App for Dead Customers? After a $4.2M Finra Fine, the Company Can Neither Confirm Nor Deny.",
-      "source": "Yahoo",
+      "timestamp": "2026-11-06T10:30:00+00:00",
+      "title": "Robust U.S. Jobs Market Boosts December Rate Hike Chances",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T18:46:16+00:00",
-      "title": "I Was Tired Of Winning",
+      "timestamp": "2026-11-06T10:25:42+00:00",
+      "title": "October Jobs Report: Bad News May Finally Be Bad News",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

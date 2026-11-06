@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 131.9,
-    "change_pct": -12.146730279804995
+    "price": 134.93,
+    "change_pct": 2.29719484457922
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 69,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 507.85
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 510.02
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 131.9
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 134.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-06T11:42:44+00:00",
+      "title": "Semiconductors: Significant Capitulation Buying Moment Could Flash Soon",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T09:17:22+00:00",
+      "title": "Top Analyst Flags 'Golden Buying Opportunity' for AI Stocks, Comparing 'Massive Tech Sell-Off' to 2020 Crash",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T07:55:00+00:00",
+      "title": "AI Meets Politics: A New Test For Tech Stocks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T07:50:00+00:00",
+      "title": "Global Technology Investing: AI And Beyond",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T07:30:57+00:00",
+      "title": "Democrats Can't Afford To Kill AI",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-06T06:05:00+00:00",
       "title": "Chart Of The Day: Now, That's What I Call A Fake-Out",
@@ -514,57 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T01:00:30+00:00",
-      "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory —  NVDA, AAPL, UBER, SOXX In Focus",
-      "source": "Yahoo",
+      "timestamp": "2026-11-06T04:28:53+00:00",
+      "title": "$3 Trillion Wiped Out, But This Strategist Says AI's Biggest Problem Isn't Demand: 'Compute Will Become More Scarce'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T00:55:00+00:00",
-      "title": "Review & Preview: AI Reckoning",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T22:35:45+00:00",
-      "title": "It's Not Over, The Worst Is Yet To Come",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T22:33:39+00:00",
-      "title": "Update: Nasdaq Enters Correction Territory, Dow Plunges Over 1,800 Points as Investors Dump Big Tech",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T22:08:04+00:00",
-      "title": "SanDisk stock plunges 20% as AI selloff deepens despite strong earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T21:21:11+00:00",
-      "title": "The AI Trade Just Had Its Worst Day Since The Pandemic",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T21:14:15+00:00",
-      "title": "Dan Ives Remains Bullish on Palantir Despite Sector Weakness. What This Means for PLTR Stock.",
-      "source": "Yahoo",
+      "timestamp": "2026-11-06T04:14:33+00:00",
+      "title": "Peter Schiff Says Bitcoin's 'Final Pin' Has Arrived as AI Bubble Deflates: 'Sell Now Before the Air Comes Gushing Out'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 44.16,
-    "change_pct": -11.838690357356773
+    "price": 44.43,
+    "change_pct": 0.6114130434782705
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 58.45
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 59.18
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 44.16
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 44.43
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-06T04:48:21+00:00",
-      "title": "Was Nutanix's Rise Driven By The Company Or Its Industry?",
+      "timestamp": "2026-11-06T17:48:39+00:00",
+      "title": "Why You Should Think About SanDisk Differently Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-06T00:01:36+00:00",
-      "title": "Should You Buy SanDisk Stock For Its Cash?",
+      "timestamp": "2026-11-06T16:57:08+00:00",
+      "title": "Super Micro Computer and Dell Climb 6%, Hewlett Packard Enterprise Gains 2% as AI Server Stocks Rebound From Election Sell-Off",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T17:32:31+00:00",
-      "title": "Super Micro: Major Plot Twist",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T16:44:00+00:00",
-      "title": "Rigetti Q3 Earnings: Will Commercial Progress Translate Into Growth?",
+      "timestamp": "2026-11-06T16:35:08+00:00",
+      "title": "Why Is Arista Stock Falling?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T16:20:12+00:00",
-      "title": "Dell Sinks Another 11% as Post-Midterm Tech Sell-Off Deepens",
+      "timestamp": "2026-11-06T16:18:47+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Stock May Be 42% Undervalued Following Raised Outlook",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T13:17:00+00:00",
-      "title": "Should You Add ANET Stock to Your Portfolio Post Solid Q3 Earnings?",
+      "timestamp": "2026-11-06T15:19:01+00:00",
+      "title": "Did Raised Outlook Just Shift HPE Stock's Investment Narrative?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T12:15:09+00:00",
-      "title": "NCR Voyix (VYX) Q3 Earnings and Revenues Beat Estimates",
+      "timestamp": "2026-11-06T15:10:56+00:00",
+      "title": "Ubiquiti Soars 15% on Record $1 Billion Quarter as Revenue Jumps 40%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-05T11:40:00+00:00",
-      "title": "NetApp Up 62% in the Past Year: Should Investors Buy the Stock?",
+      "timestamp": "2026-11-06T15:00:00+00:00",
+      "title": "Digital Turbine to Report Q2 Earnings: What's in Store for the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T14:12:00+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Could Be 39% Undervalued As AI Networking Rollout Lands",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

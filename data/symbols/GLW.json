@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 103.43,
-    "change_pct": -12.91571945777552
+    "price": 105.26,
+    "change_pct": 1.7693125785555486
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 65,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 136.57
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 135.65
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 103.43
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 105.26
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-06T13:05:00+00:00",
+      "title": "Ciena Eyes 30% Revenue Growth in FY27: Can Strong Demand Sustain It?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T08:14:40+00:00",
+      "title": "Do Wall Street Analysts Like Corning Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-05T14:55:00+00:00",
       "title": "QCOM Q4 Earnings Beat Estimates on Robust Automotive Growth",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-04T14:33:00+00:00",
       "title": "Can T-Mobile's Latest Fiber Plans Attract More Broadband Customers?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T13:35:10+00:00",
-      "title": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-04T11:04:29+00:00",
-      "title": "Capital Group Dividend Value (CGDV) Buys $146.3 Million More AMAT on Nov. 2",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

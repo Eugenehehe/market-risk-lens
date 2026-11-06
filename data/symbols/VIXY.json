@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-06T11:30:03.763266+00:00",
+  "generated_at": "2026-11-06T18:20:34.564103+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 21.22,
-    "change_pct": 29.706601466992666
+    "price": 20.46,
+    "change_pct": -3.581526861451456
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-15T14:58:34.724035+00:00",
-      "close": 16.51
-    },
     {
       "timestamp": "2026-10-15T19:01:31.354504+00:00",
       "close": 16.38
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-11-06T11:30:03.763266+00:00",
       "close": 21.22
+    },
+    {
+      "timestamp": "2026-11-06T18:20:34.564103+00:00",
+      "close": 20.46
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-11-05T17:08:23+00:00",
+      "title": "As VIX Explodes, Volatility ETFs Ride Wall Street's $2.2 Trillion Meltdown",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
