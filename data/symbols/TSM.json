@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:56:03.507232+00:00",
+  "generated_at": "2026-11-07T19:58:50.276230+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 375.44,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-16T09:20:50.530751+00:00",
-      "close": 422.25
-    },
     {
       "timestamp": "2026-10-16T14:04:09.310327+00:00",
       "close": 415.07
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-07T15:56:03.507232+00:00",
       "close": 375.44
+    },
+    {
+      "timestamp": "2026-11-07T19:58:50.276230+00:00",
+      "close": 375.44
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-07T11:00:43+00:00",
+      "title": "Down Isn't Cheap: How Far Can The AI Trade Still Fall?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-07T09:15:00+00:00",
       "title": "Investors Pulled $7 Billion From Three Cash Funds In A Month. Where Did It Go?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-06T17:03:01+00:00",
       "title": "Forget Nvidia. Here’s the Company Behind the Chips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T16:32:18+00:00",
-      "title": "Taiwan Semiconductor Stocks Jump 7.45% as Taiwan Slashes Short Selling After Rout",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
