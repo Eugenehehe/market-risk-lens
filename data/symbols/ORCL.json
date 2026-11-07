@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:56:12.034141+00:00",
+  "generated_at": "2026-11-07T09:44:56.610687+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 116.1,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-16T00:23:56.160362+00:00",
-      "close": 134.47
-    },
     {
       "timestamp": "2026-10-16T04:48:17.452040+00:00",
       "close": 134.47
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-07T02:56:12.034141+00:00",
       "close": 116.1
+    },
+    {
+      "timestamp": "2026-11-07T09:44:56.610687+00:00",
+      "close": 116.1
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-07T03:19:36+00:00",
+      "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-07T00:40:19+00:00",
       "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
@@ -530,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-06T23:45:00+00:00",
+      "title": "Mega-Cap Default Risk Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-06T23:34:10+00:00",
       "title": "Oracle (ORCL) Ranks Sixth Among the Cheapest AI Data Center Stocks",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-06T21:07:00+00:00",
       "title": "Microsoft and Oracle's AI ambitions are suddenly a lot more expensive",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T21:05:00+00:00",
-      "title": "ORACLE'S ANNUAL MEETING OF STOCKHOLDERS TO BE HELD NOVEMBER 18, 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T20:24:48+00:00",
-      "title": "How AI spending limits could help hyperscaler bonds but hurt stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

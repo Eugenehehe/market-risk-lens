@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:56:12.034141+00:00",
+  "generated_at": "2026-11-07T09:44:56.610687+00:00",
   "snapshot": {
     "symbol": "MSFT",
     "price": 530.61,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MSFT"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-16T00:23:56.160362+00:00",
-      "close": 539.44
-    },
     {
       "timestamp": "2026-10-16T04:48:17.452040+00:00",
       "close": 539.44
@@ -502,13 +498,33 @@
     {
       "timestamp": "2026-11-07T02:56:12.034141+00:00",
       "close": 530.61
+    },
+    {
+      "timestamp": "2026-11-07T09:44:56.610687+00:00",
+      "close": 530.61
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-07T03:19:36+00:00",
+      "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-07T00:40:19+00:00",
       "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T23:45:00+00:00",
+      "title": "Mega-Cap Default Risk Update",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,40 +546,24 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-06T22:44:48+00:00",
+      "title": "Why IREN Stock Jumped Nearly 20% After Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-06T22:31:05+00:00",
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q3 2026 Update",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-06T21:45:10+00:00",
       "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T21:10:11+00:00",
-      "title": "5 Latest Jim Cramer Stock Picks on Twitter and Mad Money",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T21:09:39+00:00",
-      "title": "Nasdaq Adds 264 Points as Tech Stocks Rebound, But Ends the Week Lower: Stock Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T21:09:04+00:00",
-      "title": "Data centers are unpopular — and a key motor of economic growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T21:07:00+00:00",
-      "title": "Microsoft and Oracle's AI ambitions are suddenly a lot more expensive",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
