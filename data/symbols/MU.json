@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:33:52.077243+00:00",
+  "generated_at": "2026-11-08T23:58:33.670817+00:00",
   "snapshot": {
     "symbol": "MU",
     "price": 690,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T05:47:17.362145+00:00",
-      "close": 878.84
-    },
     {
       "timestamp": "2026-10-17T09:44:15.448896+00:00",
       "close": 878.84
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-08T20:33:52.077243+00:00",
       "close": 690
+    },
+    {
+      "timestamp": "2026-11-08T23:58:33.670817+00:00",
+      "close": 690
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-08T20:59:04+00:00",
+      "title": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-08T19:06:26+00:00",
       "title": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-08T09:30:00+00:00",
       "title": "Micron: Why I Added $5,000 Worth Of Shares During The Selloff (Rating Downgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-08T09:00:08+00:00",
-      "title": "Analysts Question AAPL's Valuation, Apple's Margin Pressure and More:  This Week in Appleverse",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
