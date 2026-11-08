@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T23:34:50.907262+00:00",
+  "generated_at": "2026-11-08T02:40:54.185112+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 106.13,
     "change_pct": 2.6104611814753875
   },
   "risk": {
-    "score": 71,
+    "score": 63,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-16T17:58:53.559636+00:00",
-      "close": 133.51
-    },
     {
       "timestamp": "2026-10-16T20:55:25.472206+00:00",
       "close": 132
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-07T23:34:50.907262+00:00",
       "close": 106.13
+    },
+    {
+      "timestamp": "2026-11-08T02:40:54.185112+00:00",
+      "close": 106.13
     }
   ],
   "events": [
@@ -533,38 +533,6 @@
       "timestamp": "2026-11-06T08:14:40+00:00",
       "title": "Do Wall Street Analysts Like Corning Stock?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T14:55:00+00:00",
-      "title": "QCOM Q4 Earnings Beat Estimates on Robust Automotive Growth",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T12:14:56+00:00",
-      "title": "Corning (GLW) Stock Looks Like It Trades At A Discount",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T10:35:53+00:00",
-      "title": "Can Ciena Stock Fall 40%?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-05T08:50:00+00:00",
-      "title": "The London Company Income Equity Vs. Russell 1000 Q3 2026 Commentary",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

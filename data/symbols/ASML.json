@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:34:50.907262+00:00",
+  "generated_at": "2026-11-08T02:40:54.185112+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1424.75,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-16T17:58:53.559636+00:00",
-      "close": 1657.78
-    },
     {
       "timestamp": "2026-10-16T20:55:25.472206+00:00",
       "close": 1641.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-07T23:34:50.907262+00:00",
       "close": 1424.75
+    },
+    {
+      "timestamp": "2026-11-08T02:40:54.185112+00:00",
+      "close": 1424.75
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-08T00:22:40+00:00",
+      "title": "TSMC Stock And 2 AI Infrastructure Shares Riding The AGI Spending Wave",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-07T14:11:41+00:00",
       "title": "5 Stocks to Watch from Morgan Stanley’s Ultra-Selective Tailwinds Strategy",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-06T11:01:41+00:00",
       "title": "ASML Holding (NASDAQ:ASML) Fits an Affordable Growth Framework",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T09:18:13+00:00",
-      "title": "ASML Stock In Focus As EUV Machine Orders Stretch Into 2030",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
