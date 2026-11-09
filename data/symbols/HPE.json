@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T05:58:43.596965+00:00",
+  "generated_at": "2026-11-09T15:58:27.129536+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 44.77,
-    "change_pct": 1.3813405797101552
+    "price": 48.57,
+    "change_pct": 8.48782666964485
   },
   "risk": {
-    "score": 48,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T13:15:59.559578+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-17T16:30:03.026661+00:00",
       "close": 55.13
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-09T05:58:43.596965+00:00",
       "close": 44.77
+    },
+    {
+      "timestamp": "2026-11-09T15:58:27.129536+00:00",
+      "close": 48.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-09T13:06:32+00:00",
+      "title": "D-Wave and Rigetti Are Down Big This Year. Their Q3 Reports Must Answer the Cash Burn Question",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T12:11:52+00:00",
+      "title": "Nvidia Stock Shock Has Investors Rethinking AI Infrastructure ETFs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-07T12:49:51+00:00",
       "title": "What Is Behind The Move In Arista Stock?",

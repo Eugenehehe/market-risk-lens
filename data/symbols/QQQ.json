@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T05:58:43.596965+00:00",
+  "generated_at": "2026-11-09T15:58:27.129536+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 656.1,
-    "change_pct": 1.3986554362104942
+    "price": 677.95,
+    "change_pct": 3.330285017527812
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T13:15:59.559578+00:00",
-      "close": 709.8
-    },
     {
       "timestamp": "2026-10-17T16:30:03.026661+00:00",
       "close": 709.8
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-09T05:58:43.596965+00:00",
       "close": 656.1
+    },
+    {
+      "timestamp": "2026-11-09T15:58:27.129536+00:00",
+      "close": 677.95
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-08T23:57:00+00:00",
-      "title": "3 Things - Volatility, Uncertainty And AI Exposure",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-08T23:30:00+00:00",
-      "title": "Weekly Commentary: Earthquakes And Chemical Reactions",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-08T16:47:47+00:00",
-      "title": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
+      "timestamp": "2026-11-09T11:04:38+00:00",
+      "title": "Invesco QQQ (QQQ) Sells Apple and Nvidia on Nov. 5",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-08T16:00:00+00:00",
-      "title": "S&P500: I Was Wrong, The Technicals Were Right; Here's What They Say Is Next",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-09T11:04:04+00:00",
+      "title": "ETFs Are Net Sellers of Cisco Systems (CSCO) on Nov. 5",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-08T10:00:00+00:00",
-      "title": "The Nasdaq Is Toast: QQQ Could Go 40% Lower Here's How, And What Could Stop It",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-09T11:03:50+00:00",
+      "title": "ETFs Are Net Sellers of Alphabet (GOOG) on Nov. 5",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-08T09:55:00+00:00",
-      "title": "A $57 Billion Storm May Hit Semiconductor Stocks This Week",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-09T11:03:39+00:00",
+      "title": "ETFs Are Net Sellers of Amgen (AMGN) on Nov. 5",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-08T09:30:00+00:00",
-      "title": "Micron: Why I Added $5,000 Worth Of Shares During The Selloff (Rating Downgrade)",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-09T11:03:31+00:00",
+      "title": "ETFs Are Net Sellers of Tesla (TSLA) on Nov. 5",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-08T08:20:00+00:00",
-      "title": "Midterm Election Goes Blue: What Happens With Markets Now?",
-      "source": "SeekingAlpha",
+      "timestamp": "2026-11-09T11:03:27+00:00",
+      "title": "ETFs Are Net Sellers of Walmart (WMT) on Nov. 5",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T11:03:13+00:00",
+      "title": "ETFs Are Net Sellers of Meta Platforms (META) on Nov. 5",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T11:03:08+00:00",
+      "title": "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 5",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
