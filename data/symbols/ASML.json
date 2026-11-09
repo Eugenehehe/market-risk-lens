@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-08T23:58:33.670817+00:00",
+  "generated_at": "2026-11-09T05:58:43.596965+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1424.75,
     "change_pct": 5.019717686949465
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T09:44:15.448896+00:00",
-      "close": 1641.52
-    },
     {
       "timestamp": "2026-10-17T13:15:59.559578+00:00",
       "close": 1641.52
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-08T23:58:33.670817+00:00",
       "close": 1424.75
+    },
+    {
+      "timestamp": "2026-11-09T05:58:43.596965+00:00",
+      "close": 1424.75
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-11-07T11:00:43+00:00",
       "title": "Down Isn't Cheap: How Far Can The AI Trade Still Fall?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T22:31:05+00:00",
-      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q3 2026 Update",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T15:10:09+00:00",
-      "title": "Lam Research Soars 9% on $25 Billion Buyback as Chip Stocks Rebound From Rout",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T11:55:03+00:00",
-      "title": "This chip inspection leader fell 24.5% in a month: is the dip worth a look?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-06T11:42:44+00:00",
-      "title": "Semiconductors: Significant Capitulation Buying Moment Could Flash Soon",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T23:58:33.670817+00:00",
+  "generated_at": "2026-11-09T05:58:43.596965+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 23.08,
     "change_pct": -2.244811520542145
   },
   "risk": {
-    "score": 52,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T09:44:15.448896+00:00",
-      "close": 18.5
-    },
     {
       "timestamp": "2026-10-17T13:15:59.559578+00:00",
       "close": 18.5
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-11-08T23:58:33.670817+00:00",
       "close": 23.08
+    },
+    {
+      "timestamp": "2026-11-09T05:58:43.596965+00:00",
+      "close": 23.08
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-11-08T22:50:00+00:00",
+      "title": "Volatility Wakes Up",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
