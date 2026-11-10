@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 679.35,
-    "change_pct": 3.5436671239140294
+    "price": 677.66,
+    "change_pct": -0.2487672039449551
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 709.8
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 709.8
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 679.35
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 677.66
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-10T02:07:23+00:00",
-      "title": "He Watches the Nasdaq Plunge 5.5% at 63. Claiming Social Security to Avoid Selling Stocks Could Lock In a Smaller Check for Life",
-      "source": "Yahoo",
+      "timestamp": "2026-11-10T10:18:07+00:00",
+      "title": "Why Is Bloom Energy Stock Falling on Tuesday?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-10T01:03:17+00:00",
-      "title": "One Bad Day: A levered-QQQ ETF Case Study",
-      "source": "Yahoo",
+      "timestamp": "2026-11-10T10:15:02+00:00",
+      "title": "Stock Market Today: Nvidia Board Opens Probe Into Jensen Huang as Wall Street Licks Its AI Wounds",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T23:00:00+00:00",
-      "title": "What Is Coming? - Weekly Blog #966",
+      "timestamp": "2026-11-10T10:10:26+00:00",
+      "title": "October CPI: Wall Street Is Playing With Fire",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T21:25:17+00:00",
-      "title": "Defensive healthcare ETFs: broad funds, income options, and key caveats",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T20:15:03+00:00",
-      "title": "Constellation Software Q3 Earnings Call Highlights",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T18:35:00+00:00",
-      "title": "Stocks Stage A Broad-Based Relief Rally",
+      "timestamp": "2026-11-10T09:58:00+00:00",
+      "title": "5 Risks For The Global Economy In 2027",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T18:08:17+00:00",
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "source": "Yahoo",
+      "timestamp": "2026-11-10T09:41:00+00:00",
+      "title": "Solid Growth And Cooling Inflation: 3 Calls For The U.S.",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T17:51:27+00:00",
-      "title": "Don't Be Biased: Sell Your Portfolio Every Day",
+      "timestamp": "2026-11-10T09:34:59+00:00",
+      "title": "Why The Blue Tsunami Won't Kill AI Growth",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T09:30:09+00:00",
+      "title": "Hot October CPI Prompts Chatter Of A Jumbo December Fed Rate Hike",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T09:15:05+00:00",
+      "title": "October CPI: High Inflation Persists Even As Gasoline Prices Dip",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

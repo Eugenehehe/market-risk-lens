@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 388.62,
-    "change_pct": 3.510547624121041
+    "price": 398.96,
+    "change_pct": 2.6606968246616125
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 72,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 412.61
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 412.61
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 388.62
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 398.96
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-10T01:31:08+00:00",
-      "title": "GlobalFoundries: Silicon Photonics Inflection At A Sell-Off Price (Rating Upgrade)",
+      "timestamp": "2026-11-10T10:18:38+00:00",
+      "title": "Down from highs: Why GlobalFoundries is an essential chip play",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T09:00:03+00:00",
+      "title": "10 Dividend Growth Stocks: November 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:13:00+00:00",
-      "title": "Taiwan Just Rebounded. Nvidia Didn’t. The Market Is Pricing a Discount on Jensen Huang",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T11:35:01+00:00",
-      "title": "TSMC: Celebrating The Opportunity Presented",
+      "timestamp": "2026-11-10T08:57:25+00:00",
+      "title": "Nvidia: TPUs, Trainiums, And Jalapenos Scare Me More Than China (Rating Downgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:21:16+00:00",
-      "title": "Nvidia stock falls as Jensen Huang faces unexpected probe",
+      "timestamp": "2026-11-10T08:39:41+00:00",
+      "title": "A TSMC Director Bought $300,000 of Stock in the Chip Sell-Off. It’s Up 46% in a Year",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:00:59+00:00",
-      "title": "11 ETFs Add to Taiwan Semiconductor (TSM) on Thursday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T10:19:32+00:00",
-      "title": "HEQ: Focus On Value Could Be Good For This Fund Right Now",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T10:08:34+00:00",
-      "title": "AI Chip Stocks to Watch After TSMC and Nvidia Lift Sentiment",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T08:48:50+00:00",
-      "title": "'Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips' - Bloomberg Exclusive",
+      "timestamp": "2026-11-10T07:35:53+00:00",
+      "title": "TSMC October Sales Surge Nearly 60% as AI Chip Demand Fuels Growth",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T07:02:08+00:00",
+      "title": "Why Is TSM Stock Rising Overnight?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T06:44:07+00:00",
+      "title": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T06:27:11+00:00",
+      "title": "Wall Street Breakfast Podcast: Preorder It Like You Stole It",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

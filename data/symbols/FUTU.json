@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 100.97,
-    "change_pct": 2.967570874974501
+    "price": 97.85,
+    "change_pct": -3.0900267406160253
   },
   "risk": {
-    "score": 60,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 105.48
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 105.48
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 100.97
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 97.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T04:21:00+00:00",
+      "title": "Futu Celebrates Its 14th Anniversary with \"FUTU NEXT\" Initiative Launch",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T01:00:00+00:00",
+      "title": "Moomoo becomes first wealth-tech and digital investment platform in Southeast Asia to join Global Anti-Scam Alliance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T19:57:39+00:00",
+      "title": "WeBull Is Still Down 35% This Year: Did Today Mark the Bottom for BULL Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-09T16:12:20+00:00",
       "title": "Futu Holdings: Weighing Likely Q3 Underperformance Against Wealth Management Potential",

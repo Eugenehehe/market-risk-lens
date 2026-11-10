@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 378.05,
-    "change_pct": 5.535704315783585
+    "price": 377.49,
+    "change_pct": -0.14812855442402073
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 354.72
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 354.72
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 378.05
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 377.49
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-10T03:33:00+00:00",
-      "title": "Elon Musk sends strong signal to Tesla stock investors",
+      "timestamp": "2026-11-10T13:32:00+00:00",
+      "title": "28th China Hi-Tech Fair to Open November 26, Bringing Together Global Technology Leaders",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-10T00:05:37+00:00",
-      "title": "How much of Elon Musk’s wealth is in Tesla & SpaceX stock?",
+      "timestamp": "2026-11-10T13:03:00+00:00",
+      "title": "SpaceX’s 1 million wafer Terafab goal meets a rural Texas fight",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T23:31:00+00:00",
-      "title": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+      "timestamp": "2026-11-10T12:01:18+00:00",
+      "title": "Elon Musk gains a major opportunity as Nvidia faces uncertainty",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T23:27:00+00:00",
-      "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
+      "timestamp": "2026-11-10T11:37:27+00:00",
+      "title": "Energy Transition Today - Cleantech Innovation Fuels Economic Growth and Competitiveness",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T23:15:00+00:00",
-      "title": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019",
+      "timestamp": "2026-11-10T11:01:19+00:00",
+      "title": "ETFs Are Buying Tesla (TSLA) on Friday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T22:23:39+00:00",
-      "title": "Stock Market Today, Nov. 9: Markets Rally as Semiconductor Gains Lift Nasdaq",
+      "timestamp": "2026-11-10T10:55:00+00:00",
+      "title": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T22:13:29+00:00",
-      "title": "Why the Jensen Huang scandal is a 'net loss for China'",
+      "timestamp": "2026-11-10T10:26:01+00:00",
+      "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T20:30:36+00:00",
-      "title": "Musk says many Cybertruck buyers will get deposits back as production ends, arguing ‘opportunity cost’ is vastly outweighed by new robotaxi",
+      "timestamp": "2026-11-10T08:25:57+00:00",
+      "title": "Elon Musk Ally Jason Calacanis Bets Another $1M On Uber — Says Waymo Team-Up Could Steal Tesla’s Driverless Crown",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 119.79,
-    "change_pct": 3.1782945736434254
+    "price": 119.55,
+    "change_pct": -0.20035061357376316
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 128.23
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 128.23
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 119.79
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 119.55
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-09T20:28:58+00:00",
-      "title": "AI Capacity Risks Following Democrats' Win Overblown, UBS Says",
+      "timestamp": "2026-11-10T13:33:00+00:00",
+      "title": "Verint Appoints Abhi Sharma as Chief Product and Technology Officer",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T19:48:58+00:00",
-      "title": "The Stock Market Is “Petrified of Oracle’s Balance Sheet” as Microsoft Walks Away",
+      "timestamp": "2026-11-10T13:31:49+00:00",
+      "title": "Why Bernstein says Oracle AI opportunity is more valuable than previously thought",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T19:13:42+00:00",
-      "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real?",
+      "timestamp": "2026-11-10T13:18:00+00:00",
+      "title": "APME FX: AI, Oil and Chips Lead Its Investment Research",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T19:06:14+00:00",
-      "title": "Most-Active S&P 500 Stocks in Today's Session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T18:49:25+00:00",
-      "title": "ING Is Getting Cold Feet on the AI Boom",
+      "timestamp": "2026-11-10T13:00:00+00:00",
+      "title": "Oracle Helps Financial Institutions Make Faster, More Informed Treasury and Customer Decisions with AI-Assisted Analytics",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T17:55:11+00:00",
-      "title": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA’s Slide; CoreWeave Rallies 6% on Wayve Deal",
+      "timestamp": "2026-11-10T10:41:49+00:00",
+      "title": "Why Bloom Energy Stock Slumped 26.6% in October, and Why the Pullback is a Buying Opportunity",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T17:45:02+00:00",
-      "title": "Nvidia Isn’t Staying in The $180s for Long",
+      "timestamp": "2026-11-10T10:15:00+00:00",
+      "title": "Alphabet, Meta, and Oracle Are All Teaming Up to Disrupt Nvidia's Biggest Competitive Advantage",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T17:22:00+00:00",
-      "title": "Skydance Earnings Will Put Its Streaming Strategy to the Test",
+      "timestamp": "2026-11-10T10:00:00+00:00",
+      "title": "2 Things That Could Hit the Brakes on the AI Boom. Why Hyperscalers Could Benefit.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T07:53:59+00:00",
+      "title": "Amazon: Still Priced Well Below The Promises",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

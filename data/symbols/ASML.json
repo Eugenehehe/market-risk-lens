@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1513.25,
-    "change_pct": 6.211616072995252
+    "price": 1529.3,
+    "change_pct": 1.060631092020481
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 1641.52
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 1641.52
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 1513.25
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 1529.3
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T13:45:34+00:00",
+      "title": "Intel Can Catch Taiwan Semiconductor on Physics, Not Economics",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T11:03:44+00:00",
+      "title": "ETFs Are Net Sellers of ASML (ASML) on Nov. 6",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T09:00:03+00:00",
+      "title": "10 Dividend Growth Stocks: November 2026",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T06:28:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights ASML, Alibaba, Intuitive Surgical, Paul Mueller and Presurance",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T01:21:12+00:00",
       "title": "ASML (ENXTAM:ASML) Stock May Be Priced For Perfection After 125% Run",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-11-09T19:30:03+00:00",
       "title": "Why ASML Bounced Back Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T14:44:00+00:00",
-      "title": "ASML Raises 2026 Guidance as AI Demand Accelerates Capacity Expansion",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T14:33:00+00:00",
-      "title": "ASML Falls 20% in the Past Month as AI Growth Meets Execution Risk",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T13:03:46+00:00",
-      "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T13:00:00+00:00",
-      "title": "ASML reports transactions under its current share buyback program",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

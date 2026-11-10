@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "MU",
-    "price": 733.15,
-    "change_pct": 6.253623188405788
+    "price": 727.52,
+    "change_pct": -0.7679192525404055
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 878.84
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 878.84
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 733.15
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 727.52
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-10T02:45:36+00:00",
-      "title": "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
+      "timestamp": "2026-11-10T13:26:33+00:00",
+      "title": "Update: Anthropic Targeting to Raise Up to $64.40 Billion From IPO",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-10T00:32:04+00:00",
-      "title": "Western Digital or Micron? Jim Cramer Says “I Think Micron’s a Better Company.” Here’s the Test",
+      "timestamp": "2026-11-10T13:11:27+00:00",
+      "title": "What Sent Intel Stock Higher?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T23:28:30+00:00",
-      "title": "ETO: Decent Performance, But Concentrated Hyperscaler Exposure Presents Risks",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T23:07:02+00:00",
-      "title": "Why Micron Technology Stock Gained On Monday",
+      "timestamp": "2026-11-10T13:00:00+00:00",
+      "title": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T22:20:02+00:00",
-      "title": "Micron Technology: Is the Stock a No-Brainer Buy at Less Than $740?",
+      "timestamp": "2026-11-10T12:56:37+00:00",
+      "title": "Bank of America Drops Nvidia From Elite Stock List. Coincidence or Jensen Huang Fallout?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T21:11:23+00:00",
-      "title": "Dow Adds 1,104 Points Even as Nvidia Sinks: Stock Market Today",
+      "timestamp": "2026-11-10T12:15:12+00:00",
+      "title": "Micron Supposedly Outgrew Its Boom Bust Commodity Pricing, Now It Faces Another Cyclical Cliff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T19:50:00+00:00",
-      "title": "Is Micron a Millionaire-Maker Stock?",
+      "timestamp": "2026-11-10T12:05:21+00:00",
+      "title": "Google, Nvidia, AMD And Others To Invest $26B In Anthropic Alongside IPO",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T19:35:54+00:00",
-      "title": "Micron Soars 5% as TSMC Sticks to the “Global Logic IC” Industry, Not Memory",
+      "timestamp": "2026-11-10T11:54:23+00:00",
+      "title": "Anthropic Targets $90 Billion in IPO and Placement With Big Tech",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T11:49:00+00:00",
+      "title": "The Case for Micron Stock Leaping 140%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

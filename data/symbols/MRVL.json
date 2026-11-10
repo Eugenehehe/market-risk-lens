@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T07:10:03.203227+00:00",
+  "generated_at": "2026-11-10T15:35:33.040739+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 154.6,
-    "change_pct": 9.4900849858357
+    "price": 157.26,
+    "change_pct": 1.7205692108667403
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T21:02:14.492997+00:00",
-      "close": 227.83
-    },
     {
       "timestamp": "2026-10-17T23:03:40.425681+00:00",
       "close": 227.83
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-10T07:10:03.203227+00:00",
       "close": 154.6
+    },
+    {
+      "timestamp": "2026-11-10T15:35:33.040739+00:00",
+      "close": 157.26
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-10T02:29:36+00:00",
-      "title": "Stocks making big moves this week: Sprout Social, Redwire, Inspire Medical Systems, Fastly, and Marvell Technology",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T00:55:00+00:00",
-      "title": "Review & Preview: Dip Buyers Unite",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T00:43:02+00:00",
-      "title": "Alphabet Almost Sets a Record No One Wants",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T20:17:12+00:00",
-      "title": "Why Marvell Technology Stock Fell Hard in October",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T19:34:46+00:00",
-      "title": "Fabrinet Dropped 33% in a Month Despite a Record Quarter. Time to Sell, or Load Up?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T19:33:43+00:00",
-      "title": "Marvell Sinks 36%, Lumentum Drops 31% on $115 Billion Deal: Is the Selloff Overdone?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T19:16:47+00:00",
-      "title": "Marvell (MRVL) Stock Looks Undervalued After Its 166% Three Year Run",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T19:06:14+00:00",
-      "title": "Most-Active S&P 500 Stocks in Today's Session",
+      "timestamp": "2026-11-10T13:36:01+00:00",
+      "title": "S&P 500 Premarket Losers: GEV, CAT, VRT Fall After Yesterday's Gains",
       "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T13:31:04+00:00",
+      "title": "“The Next Trillion Dollar Company”: Marvell Is Up 82% in 2026. Take Profits, or Buy More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T13:11:23+00:00",
+      "title": "Who Is Paying For AOI's Cash Burn?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T12:46:41+00:00",
+      "title": "What could NVIDIA’s latest risks mean for the AI chip ecosystem?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T11:03:25+00:00",
+      "title": "ETFs Are Net Sellers of Marvell Technology (MRVL) on Nov. 6",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T11:00:00+00:00",
+      "title": "Marvel Announces Final Shank3 Data: MB-204 Highly Effective at Reversing Autism Behaviours",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T10:31:51+00:00",
+      "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T08:47:19+00:00",
+      "title": "Regal Rexnord is 'Worth So Much More,' Don't Overlook Churchill Downs: Jim Cramer",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
