@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 48.57,
-    "change_pct": 8.48782666964485
+    "price": 47.54,
+    "change_pct": 6.187178914451641
   },
   "risk": {
-    "score": 66,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 55.13
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 48.57
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 47.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-09T15:54:00+00:00",
+      "title": "DELL Rallies 130% in a Year: Can AI Momentum Fuel More Gains?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T14:04:29+00:00",
+      "title": "Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Track?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-09T13:06:32+00:00",
       "title": "D-Wave and Rigetti Are Down Big This Year. Their Q3 Reports Must Answer the Cash Burn Question",
@@ -516,14 +532,6 @@
     {
       "timestamp": "2026-11-09T12:11:52+00:00",
       "title": "Nvidia Stock Shock Has Investors Rethinking AI Infrastructure ETFs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-07T12:49:51+00:00",
-      "title": "What Is Behind The Move In Arista Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

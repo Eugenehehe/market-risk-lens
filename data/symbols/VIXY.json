@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 18.81,
-    "change_pct": -10.556348074179756
+    "price": 18.21,
+    "change_pct": -13.409415121255353
   },
   "risk": {
-    "score": 64,
+    "score": 68,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 17.73
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 17.73
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 18.81
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 18.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-09T18:35:00+00:00",
+      "title": "Stocks Stage A Broad-Based Relief Rally",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T14:17:00+00:00",
+      "title": "No Contagion (Yet): Equity Vol Spikes, Macro Vol Fades",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-08T22:50:00+00:00",
       "title": "Volatility Wakes Up",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 269.27,
-    "change_pct": 3.8449672194369233
+    "price": 266.93,
+    "change_pct": 2.9425376012340854
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 74,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 250
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 250
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 269.27
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 266.93
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-09T13:53:00+00:00",
-      "title": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
+      "timestamp": "2026-11-09T18:43:42+00:00",
+      "title": "Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T13:46:28+00:00",
-      "title": "The Trade Desk Jumps 8% Ahead of Earnings; Magnite Gains 2%, AppLovin Dips",
+      "timestamp": "2026-11-09T18:43:29+00:00",
+      "title": "AI Agents Are “an Existential Risk to DoorDash”? Seriously? I’ll Take the Under",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:51:00+00:00",
-      "title": "Renewable Energy & Battery Stocks to Buy as Blue Wave Sweeps US Congress",
+      "timestamp": "2026-11-09T18:40:24+00:00",
+      "title": "Anthropic Makes $3.4 Billion Power Bet As Electricity Concerns Grow",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:45:38+00:00",
-      "title": "What Did Target Say Before Its Stock Took Off?",
+      "timestamp": "2026-11-09T18:32:12+00:00",
+      "title": "Airtable plugin making $270K per year",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:45:00+00:00",
-      "title": "Jim Cramer is ‘furious’ as Intel crashes nearly 30% — but Uncle Sam is the top shareholder. What it means for taxpayers",
+      "timestamp": "2026-11-09T18:18:50+00:00",
+      "title": "Constellation Energy Stocks Jump 6.94% After Q3 Beat and Raised Guidance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:23:00+00:00",
-      "title": "Kroger and Albertsons’ CEOs Just Signaled the Walmart Price Gap Is Here to Stay. It Costs a Couple About $1,000 a Year.",
+      "timestamp": "2026-11-09T18:03:49+00:00",
+      "title": "Amazon Stocks Rise 4.05% as JPMorgan Adds It to Focus List on AWS",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:15:58+00:00",
-      "title": "How Will Amazon and Alphabet Handle Custom Silicon Efficiency and Grid Access Now?",
-      "source": "Yahoo",
+      "timestamp": "2026-11-09T17:51:27+00:00",
+      "title": "Don't Be Biased: Sell Your Portfolio Every Day",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:40:45+00:00",
-      "title": "“Don’t Come Begging To Taxpayers,” Bernie Sanders Warns Big Tech “You Won’t Be Bailed Out” If AI Bet Fueled By $3 Trillion In Debt Blows Up",
+      "timestamp": "2026-11-09T17:32:27+00:00",
+      "title": "Amazon Is “the Cheapest It’s Been” in Years. Its P/E Fell From 34 to 21",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

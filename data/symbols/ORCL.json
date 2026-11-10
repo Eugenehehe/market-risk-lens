@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 119.52,
-    "change_pct": 2.945736434108537
+    "price": 119.79,
+    "change_pct": 3.1782945736434254
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 128.23
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 128.23
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 119.52
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 119.79
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-09T13:33:40+00:00",
-      "title": "Microsoft reportedly winds down Oracle AI infrastructure contract",
+      "timestamp": "2026-11-09T20:28:58+00:00",
+      "title": "AI Capacity Risks Following Democrats' Win Overblown, UBS Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:46:01+00:00",
-      "title": "Can DTE Energy Stock Jump 40%?",
+      "timestamp": "2026-11-09T19:48:58+00:00",
+      "title": "The Stock Market Is “Petrified of Oracle’s Balance Sheet” as Microsoft Walks Away",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:15:09+00:00",
-      "title": "The On-Site Power Duel: Bloom Energy vs. GE Vernova",
+      "timestamp": "2026-11-09T19:13:42+00:00",
+      "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T12:00:00+00:00",
-      "title": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet",
+      "timestamp": "2026-11-09T18:49:25+00:00",
+      "title": "ING Is Getting Cold Feet on the AI Boom",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:40:45+00:00",
-      "title": "“Don’t Come Begging To Taxpayers,” Bernie Sanders Warns Big Tech “You Won’t Be Bailed Out” If AI Bet Fueled By $3 Trillion In Debt Blows Up",
+      "timestamp": "2026-11-09T17:55:11+00:00",
+      "title": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA’s Slide; CoreWeave Rallies 6% on Wayve Deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:06:04+00:00",
-      "title": "What Direxion Daily S&P 500 Bull 3X (SPXL) Sold: Apple Leads on Nov. 5",
+      "timestamp": "2026-11-09T17:45:02+00:00",
+      "title": "Nvidia Isn’t Staying in The $180s for Long",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:05:38+00:00",
-      "title": "iShares Russell 1000 Growth (IWF) Buys $42.9 Million More NVIDIA on Thursday",
+      "timestamp": "2026-11-09T17:22:00+00:00",
+      "title": "Skydance Earnings Will Put Its Streaming Strategy to the Test",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T11:00:52+00:00",
-      "title": "ETFs Are Buying Oracle (ORCL) on Thursday",
+      "timestamp": "2026-11-09T15:27:21+00:00",
+      "title": "Microsoft Borrows at “10 Percentage Points Below CoreWeave.” Now It’s Backing Away From Neoclouds",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 19.42,
-    "change_pct": -15.857885615251288
+    "price": 18.41,
+    "change_pct": -20.233968804159442
   },
   "risk": {
-    "score": 62,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 18.5
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 18.5
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 19.42
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 18.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-09T18:35:00+00:00",
+      "title": "Stocks Stage A Broad-Based Relief Rally",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T14:17:00+00:00",
+      "title": "No Contagion (Yet): Equity Vol Spikes, Macro Vol Fades",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-08T22:50:00+00:00",
       "title": "Volatility Wakes Up",

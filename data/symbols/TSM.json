@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 393.26,
-    "change_pct": 4.74643085446409
+    "price": 388.62,
+    "change_pct": 3.510547624121041
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 412.61
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 412.61
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 393.26
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 388.62
     }
   ],
   "events": [
@@ -509,6 +509,14 @@
       "timestamp": "2026-11-09T12:13:00+00:00",
       "title": "Taiwan Just Rebounded. Nvidia Didn’t. The Market Is Pricing a Discount on Jensen Huang",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T11:35:01+00:00",
+      "title": "TSMC: Celebrating The Opportunity Presented",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-09T08:35:20+00:00",
       "title": "TSMC, SK Hynix, Samsung: Asian Chip Stocks Rise Even As Nvidia CEO Jensen Huang’s Controversy Tests Investor Confidence",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T07:45:47+00:00",
-      "title": "What's Going On With AMD Stock Monday?",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

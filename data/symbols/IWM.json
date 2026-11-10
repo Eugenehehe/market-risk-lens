@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T15:58:27.129536+00:00",
+  "generated_at": "2026-11-10T00:06:26.116625+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 280.69,
-    "change_pct": 2.5651331896079155
+    "price": 282.51,
+    "change_pct": 3.2301677202470014
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T16:30:03.026661+00:00",
-      "close": 270.44
-    },
     {
       "timestamp": "2026-10-17T18:45:44.999397+00:00",
       "close": 270.44
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-09T15:58:27.129536+00:00",
       "close": 280.69
+    },
+    {
+      "timestamp": "2026-11-10T00:06:26.116625+00:00",
+      "close": 282.51
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-09T11:05:20+00:00",
-      "title": "What iShares Russell 2000 Index Fund (IWM) Bought: Jackson Leads on Nov. 5",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T09:49:03+00:00",
-      "title": "The Technical Signals That Show The AI Bubble Just Popped",
+      "timestamp": "2026-11-09T18:35:00+00:00",
+      "title": "Stocks Stage A Broad-Based Relief Rally",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T09:20:00+00:00",
-      "title": "GDP Nowcasts Signal Strong Finish To 2026",
+      "timestamp": "2026-11-09T17:51:27+00:00",
+      "title": "Don't Be Biased: Sell Your Portfolio Every Day",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T09:12:54+00:00",
-      "title": "The AI Crash Is A Reality: But I'd Turn Bearish If I Spotted These Signs",
+      "timestamp": "2026-11-09T17:10:00+00:00",
+      "title": "A Reset Is Not The End Of The AI Story",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T08:36:33+00:00",
-      "title": "The Trump Trade Is Dead. Don't Buy The Dip Yet",
+      "timestamp": "2026-11-09T16:45:00+00:00",
+      "title": "What A Slower AI Buildout May Mean For Markets",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T07:07:20+00:00",
-      "title": "Buying The Index Dip And Adding Treasury Duration",
+      "timestamp": "2026-11-09T16:25:24+00:00",
+      "title": "Will Jensen Huang's Scandal Crash The AI Industry? Here Is My Take",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T07:04:00+00:00",
-      "title": "CIO Weekly: A November To Remember",
+      "timestamp": "2026-11-09T16:05:00+00:00",
+      "title": "Midterms And AI In Focus At 2027 Forum",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-09T06:03:31+00:00",
-      "title": "Housing Is Becoming A Dead Weight On The U.S. Economy",
+      "timestamp": "2026-11-09T15:30:00+00:00",
+      "title": "The AI Bull Market Isn't Over, The Game Has Changed",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T14:28:25+00:00",
+      "title": "What Happened To The November Time Target?",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
