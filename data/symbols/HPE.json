@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T00:06:26.116625+00:00",
+  "generated_at": "2026-11-10T07:10:03.203227+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 47.54,
     "change_pct": 6.187178914451641
   },
   "risk": {
-    "score": 68,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T18:45:44.999397+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-17T21:02:14.492997+00:00",
       "close": 55.13
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-10T00:06:26.116625+00:00",
       "close": 47.54
+    },
+    {
+      "timestamp": "2026-11-10T07:10:03.203227+00:00",
+      "close": 47.54
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-09T22:19:00+00:00",
+      "title": "Will Cisco Systems (CSCO) Deliver the Strong Results the Market Needs to See?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-09T22:00:00+00:00",
+      "title": "Royal Australasian College of Surgeons Targets AU$2.1 Million in Savings With HPE Private Cloud",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-09T15:54:00+00:00",
       "title": "DELL Rallies 130% in a Year: Can AI Momentum Fuel More Gains?",
