@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T15:35:33.040739+00:00",
+  "generated_at": "2026-11-10T21:24:50.116833+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 157.26,
-    "change_pct": 1.7205692108667403
+    "price": 154.39,
+    "change_pct": -0.13583441138422803
   },
   "risk": {
-    "score": 64,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T23:03:40.425681+00:00",
-      "close": 227.83
-    },
     {
       "timestamp": "2026-10-18T00:56:18.117730+00:00",
       "close": 227.83
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-10T15:35:33.040739+00:00",
       "close": 157.26
+    },
+    {
+      "timestamp": "2026-11-10T21:24:50.116833+00:00",
+      "close": 154.39
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T15:35:30+00:00",
+      "title": "Lumentum Sinks 11% in a Week as Marvell’s All-Stock Offer Shrinks: “Our Demand Couldn’t Be Stronger”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T15:08:09+00:00",
+      "title": "Can Lumentum Holdings (LITE) Stay Reasonable If Cash Flow Delivers?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T13:36:01+00:00",
       "title": "S&P 500 Premarket Losers: GEV, CAT, VRT Fall After Yesterday's Gains",
@@ -517,6 +533,14 @@
       "timestamp": "2026-11-10T13:31:04+00:00",
       "title": "“The Next Trillion Dollar Company”: Marvell Is Up 82% in 2026. Take Profits, or Buy More?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T13:15:49+00:00",
+      "title": "ARTY: Up 51% Since My Buy Call, And I'm Still Bullish After Midterms",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-11-10T11:03:25+00:00",
       "title": "ETFs Are Net Sellers of Marvell Technology (MRVL) on Nov. 6",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T11:00:00+00:00",
-      "title": "Marvel Announces Final Shank3 Data: MB-204 Highly Effective at Reversing Autism Behaviours",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T10:31:51+00:00",
-      "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T08:47:19+00:00",
-      "title": "Regal Rexnord is 'Worth So Much More,' Don't Overlook Churchill Downs: Jim Cramer",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

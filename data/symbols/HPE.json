@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T15:35:33.040739+00:00",
+  "generated_at": "2026-11-10T21:24:50.116833+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.51,
-    "change_pct": -0.06310475389146308
+    "price": 47.93,
+    "change_pct": 0.8203618005889757
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T23:03:40.425681+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-18T00:56:18.117730+00:00",
       "close": 55.13
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-10T15:35:33.040739+00:00",
       "close": 47.51
+    },
+    {
+      "timestamp": "2026-11-10T21:24:50.116833+00:00",
+      "close": 47.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T18:02:14+00:00",
+      "title": "Super Micro Falls 4% as NVIDIA’s Slide Drags AI Server Stocks; Dell Drops 6%, Hewlett Packard Enterprise Declines 2%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T17:45:59+00:00",
+      "title": "Here’s The AMD Data Center Number Investors Need to Know",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T17:38:00+00:00",
+      "title": "4 Undervalued Stocks That Could Benefit from a Wall Street Rally",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T14:36:25+00:00",
+      "title": "What Has Changed About Owning SanDisk Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T14:00:00+00:00",
+      "title": "Netskope Appoints Carrie Francey as Global Channel Chief",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T12:45:00+00:00",
       "title": "Should You Buy, Sell or Hold HPE Stock at a P/E Multiple of 10.08X?",
@@ -524,38 +564,6 @@
     {
       "timestamp": "2026-11-09T22:00:00+00:00",
       "title": "Royal Australasian College of Surgeons Targets AU$2.1 Million in Savings With HPE Private Cloud",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T15:54:00+00:00",
-      "title": "DELL Rallies 130% in a Year: Can AI Momentum Fuel More Gains?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T14:04:29+00:00",
-      "title": "Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Track?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T13:06:32+00:00",
-      "title": "D-Wave and Rigetti Are Down Big This Year. Their Q3 Reports Must Answer the Cash Burn Question",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T12:11:52+00:00",
-      "title": "Nvidia Stock Shock Has Investors Rethinking AI Infrastructure ETFs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

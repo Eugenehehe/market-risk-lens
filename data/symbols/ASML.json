@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T15:35:33.040739+00:00",
+  "generated_at": "2026-11-10T21:24:50.116833+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1529.3,
-    "change_pct": 1.060631092020481
+    "price": 1507.85,
+    "change_pct": -0.3568478440442835
   },
   "risk": {
-    "score": 59,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-17T23:03:40.425681+00:00",
-      "close": 1641.52
-    },
     {
       "timestamp": "2026-10-18T00:56:18.117730+00:00",
       "close": 1641.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-10T15:35:33.040739+00:00",
       "close": 1529.3
+    },
+    {
+      "timestamp": "2026-11-10T21:24:50.116833+00:00",
+      "close": 1507.85
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T14:39:00+00:00",
+      "title": "AI chip exports to China and oversight bills gain momentum in Congress",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T13:45:34+00:00",
       "title": "Intel Can Catch Taiwan Semiconductor on Physics, Not Economics",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-09T20:33:00+00:00",
       "title": "Top Research Reports for ASML, Alibaba & Intuitive Surgical",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T19:30:03+00:00",
-      "title": "Why ASML Bounced Back Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
