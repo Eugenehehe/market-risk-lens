@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T07:56:59.725227+00:00",
+  "generated_at": "2026-11-11T15:58:40.103537+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 396.48,
-    "change_pct": 2.0225412999845593
+    "price": 411.95,
+    "change_pct": 3.9018361581920846
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T09:51:18.987786+00:00",
-      "close": 412.61
-    },
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 412.61
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-11T07:56:59.725227+00:00",
       "close": 396.48
+    },
+    {
+      "timestamp": "2026-11-11T15:58:40.103537+00:00",
+      "close": 411.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T09:30:00+00:00",
+      "title": "The AI Trade Deconstructed: AI Builders, AI Suppliers And AI Product Firms",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T08:57:45+00:00",
+      "title": "Nvidia: Selloff Into Earnings Sets Up An Upside Guidance Surprise",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T05:14:34+00:00",
       "title": "3 AI Chip Stocks Facing Yield Pressure And Demand Strength",
@@ -522,6 +538,22 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-11T04:29:13+00:00",
+      "title": "Micron (MU) Stock Is Trending Pre-Market: Here’s What You Should Know",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T00:01:42+00:00",
+      "title": "TSMC Stock Is Trending After Hours As Chipmaker Plans Up To $1 Billion Bet On Anthropic, OpenAI",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-10T21:18:35+00:00",
       "title": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues",
       "source": "Yahoo",
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-11-10T21:00:00+00:00",
       "title": "Ayar Labs Wins Demo of the Year Award at 2026 TSMC North America Technology Symposium",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T20:15:00+00:00",
-      "title": "TSMC record sales strengthen Wedbush’s bullish outlook",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T19:53:12+00:00",
-      "title": "TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T18:45:00+00:00",
-      "title": "Baron Global Durable Advantage ETF Q3 2026 Top Contributors And Detractors",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T18:33:06+00:00",
-      "title": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

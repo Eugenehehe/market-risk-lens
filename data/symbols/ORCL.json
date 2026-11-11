@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T07:56:59.725227+00:00",
+  "generated_at": "2026-11-11T15:58:40.103537+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 117.98,
-    "change_pct": -1.5109775440353967
+    "price": 127.97,
+    "change_pct": 8.467536870656044
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T09:51:18.987786+00:00",
-      "close": 128.23
-    },
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 128.23
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-11-11T07:56:59.725227+00:00",
       "close": 117.98
+    },
+    {
+      "timestamp": "2026-11-11T15:58:40.103537+00:00",
+      "close": 127.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T12:55:00+00:00",
+      "title": "Utilities Achieve Record Peak Energy AI-Powered Demand Reduction with Oracle",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T11:04:06+00:00",
+      "title": "iShares Expanded Tech-Software (IGV) Buys $22.9 Million More Microsoft on Nov. 9",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T11:03:32+00:00",
+      "title": "Capital Group Dividend Value (CGDV) Adds Oracle and Corning on Monday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T09:30:00+00:00",
+      "title": "The AI Trade Deconstructed: AI Builders, AI Suppliers And AI Product Firms",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T01:09:44+00:00",
       "title": "What Would It Take For AMD Stock To Move Higher?",
@@ -533,38 +565,6 @@
       "timestamp": "2026-11-10T21:45:02+00:00",
       "title": "Here's Why Oracle (ORCL) Fell More Than Broader Market",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T21:28:09+00:00",
-      "title": "Oracle Corporation (ORCL) Is Joining the $1.2 Trillion AI Spending Boom: Is the Risk Being Overlooked?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T21:01:49+00:00",
-      "title": "Why Has Workday Stock Trailed Cadence?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T20:00:00+00:00",
-      "title": "Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T19:06:05+00:00",
-      "title": "S&P 500 Most Active Stocks in Today's Session: SMCI, AT&T, Ford Lead Volume",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T07:56:59.725227+00:00",
+  "generated_at": "2026-11-11T15:58:40.103537+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1507.85,
-    "change_pct": -0.3568478440442835
+    "price": 1554.94,
+    "change_pct": 3.1229896873031127
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T09:51:18.987786+00:00",
-      "close": 1641.52
-    },
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 1641.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-11T07:56:59.725227+00:00",
       "close": 1507.85
+    },
+    {
+      "timestamp": "2026-11-11T15:58:40.103537+00:00",
+      "close": 1554.94
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T09:30:00+00:00",
+      "title": "The AI Trade Deconstructed: AI Builders, AI Suppliers And AI Product Firms",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T02:25:00+00:00",
       "title": "Europe Is Selling More Into The U.S. AI Build-Out, But Losing Market Share",
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-10T10:57:56+00:00",
+      "title": "Chip Stocks Trade at 9 Times 2028 Earnings. Cantor Calls It a Gift, Bank of America Says Wait for Policy Clarity",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-10T09:00:03+00:00",
       "title": "10 Dividend Growth Stocks: November 2026",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T06:28:00+00:00",
-      "title": "The Zacks Analyst Blog Highlights ASML, Alibaba, Intuitive Surgical, Paul Mueller and Presurance",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T01:21:12+00:00",
-      "title": "ASML (ENXTAM:ASML) Stock May Be Priced For Perfection After 125% Run",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

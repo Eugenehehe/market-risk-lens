@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T07:56:59.725227+00:00",
+  "generated_at": "2026-11-11T15:58:40.103537+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 58.13,
-    "change_pct": -2.0885969344786814
+    "price": 63.12,
+    "change_pct": 8.584207810080846
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T09:51:18.987786+00:00",
-      "close": 89.85
-    },
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 89.85
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-11-11T07:56:59.725227+00:00",
       "close": 58.13
+    },
+    {
+      "timestamp": "2026-11-11T15:58:40.103537+00:00",
+      "close": 63.12
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T13:22:22+00:00",
+      "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T12:00:06+00:00",
+      "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T11:03:12+00:00",
+      "title": "iShares PHLX SOX Semiconductor (SOXX) Buys $394.7 Million More AMD on Nov. 9",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T11:01:29+00:00",
+      "title": "ETFs Bought $360.9 Million of Intel (INTC) on Nov. 9",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T08:57:45+00:00",
+      "title": "Nvidia: Selloff Into Earnings Sets Up An Upside Guidance Surprise",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T07:35:14+00:00",
+      "title": "“Demand Is Higher Than Supply”: AMD Has Ripped 141% in 2026. Is It Too Late to Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T03:20:02+00:00",
       "title": "Intel vs. SK Hynix: Which Technology Stock Is a Better Buy?",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T02:24:42+00:00",
-      "title": "Quantum Computing’s Next Winners May Not Be Quantum Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T01:09:44+00:00",
-      "title": "What Would It Take For AMD Stock To Move Higher?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T20:02:00+00:00",
-      "title": "SQC Expands Executive Team With Appointment of Chief Manufacturing Officer",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T19:34:09+00:00",
-      "title": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T19:19:27+00:00",
-      "title": "Buy the Dip: 5 Stocks Insiders Are Loading Up On After the Recent Market Sell-Off",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T19:00:30+00:00",
-      "title": "Most-Active US Stocks: Nov. 10 Trading Session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T18:49:00+00:00",
-      "title": "AMD and Coherent: What the Biggest Gainers Since the Midterms Selloff Say About the AI Trade",
-      "source": "Yahoo",
+      "timestamp": "2026-11-11T02:40:48+00:00",
+      "title": "Intel: Why I'm Turning Bullish After The Crash",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

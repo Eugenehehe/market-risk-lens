@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T07:56:59.725227+00:00",
+  "generated_at": "2026-11-11T15:58:40.103537+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 483.63,
-    "change_pct": -0.7755277897458002
+    "price": 510.42,
+    "change_pct": 5.5393586005831
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T09:51:18.987786+00:00",
-      "close": 539.79
-    },
     {
       "timestamp": "2026-10-18T13:39:48.875114+00:00",
       "close": 539.79
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-11-11T07:56:59.725227+00:00",
       "close": 483.63
+    },
+    {
+      "timestamp": "2026-11-11T15:58:40.103537+00:00",
+      "close": 510.42
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-11T09:13:17+00:00",
+      "title": "3 Stocks I'm Buying As The Huang Scandal Unfolds",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T08:46:58+00:00",
+      "title": "Retail Pours Billions Into ETFs As Hedge Funds Go Underweight AI",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-11T00:30:00+00:00",
       "title": "AI In 2027: 20 Questions For The Global Economy",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T18:31:29+00:00",
+      "title": "$100 Invested In VanEck Semiconductor ETF 5 Years Ago Would Be Worth This Much Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T17:21:38+00:00",
+      "title": "Chip ETFs Earnings Doubled In A Year. Their P/E Fell From 40x To 25x.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-10T16:00:07+00:00",
+      "title": "Hot CPI Pushes 10-Year Yield to 5%, Nvidia Sinks 6%: Stock Market Today",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-11-10T13:27:37+00:00",
       "title": "This Short Seller Flagged Jensen Huang’s Ties to Alice Huang 6 Months Before Nvidia’s Scandal",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T12:42:00+00:00",
-      "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T11:12:50+00:00",
-      "title": "CPI, Crude Views Support Wall Street Pre-Bell; Asia, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T09:07:00+00:00",
-      "title": "Stocks Rebound, But The Real Test Lies Ahead",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T06:11:30+00:00",
-      "title": "Sell The Bounce, AI Bubble Burst To Resume",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T17:10:00+00:00",
-      "title": "A Reset Is Not The End Of The AI Story",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
