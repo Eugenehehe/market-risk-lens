@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-10T21:24:50.116833+00:00",
+  "generated_at": "2026-11-11T01:22:28.450490+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 112.13,
     "change_pct": -3.294523501509272
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T00:56:18.117730+00:00",
-      "close": 132
-    },
     {
       "timestamp": "2026-10-18T05:32:38.347344+00:00",
       "close": 132
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-10T21:24:50.116833+00:00",
       "close": 112.13
+    },
+    {
+      "timestamp": "2026-11-11T01:22:28.450490+00:00",
+      "close": 112.13
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T21:31:29+00:00",
+      "title": "Is Amphenol Stock Really Expensive?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T12:07:00+00:00",
       "title": "SANM Q4 Earnings Beat Estimates on AI Growth, Strong Execution",

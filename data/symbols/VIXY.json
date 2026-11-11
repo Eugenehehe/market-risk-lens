@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T21:24:50.116833+00:00",
+  "generated_at": "2026-11-11T01:22:28.450490+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 18.16,
     "change_pct": -0.2745744096650182
   },
   "risk": {
-    "score": 47,
+    "score": 43,
     "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T00:56:18.117730+00:00",
-      "close": 17.73
-    },
     {
       "timestamp": "2026-10-18T05:32:38.347344+00:00",
       "close": 17.73
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-10T21:24:50.116833+00:00",
       "close": 18.16
+    },
+    {
+      "timestamp": "2026-11-11T01:22:28.450490+00:00",
+      "close": 18.16
     }
   ],
   "events": [
@@ -524,22 +524,6 @@
     {
       "timestamp": "2026-11-09T14:17:00+00:00",
       "title": "No Contagion (Yet): Equity Vol Spikes, Macro Vol Fades",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-08T22:50:00+00:00",
-      "title": "Volatility Wakes Up",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-08T10:00:00+00:00",
-      "title": "The Nasdaq Is Toast: QQQ Could Go 40% Lower Here's How, And What Could Stop It",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
