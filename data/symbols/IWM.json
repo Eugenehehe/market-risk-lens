@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T15:58:40.103537+00:00",
+  "generated_at": "2026-11-11T22:35:54.315755+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 282.5,
-    "change_pct": 0.6842968137429573
+    "price": 283.09,
+    "change_pct": 0.8945755221327234
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T13:39:48.875114+00:00",
-      "close": 270.44
-    },
     {
       "timestamp": "2026-10-18T16:56:30.893669+00:00",
       "close": 270.44
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-11T15:58:40.103537+00:00",
       "close": 282.5
+    },
+    {
+      "timestamp": "2026-11-11T22:35:54.315755+00:00",
+      "close": 283.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T14:13:12+00:00",
+      "title": "Option Data Supports A Continuing Bull Market",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T12:40:00+00:00",
+      "title": "When And How To Buy The Dip",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T10:25:00+00:00",
       "title": "Fiera Capital Global Asset Allocation - November 2026 Market Update",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-11T07:16:21+00:00",
       "title": "CPI, A Lagging Indicator, Came In Hot: The Fed Is About To Overreact",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T07:05:00+00:00",
-      "title": "Waller Threatens A Half-Point Hike While Oil Falls And Productivity Surges Beneath His Inflation Case",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T04:30:00+00:00",
-      "title": "After The Midterms: What Washington's New Political Landscape Means For 2027",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
