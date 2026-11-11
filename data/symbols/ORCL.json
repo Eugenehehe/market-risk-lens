@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:22:28.450490+00:00",
+  "generated_at": "2026-11-11T07:56:59.725227+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 117.98,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T05:32:38.347344+00:00",
-      "close": 128.23
-    },
     {
       "timestamp": "2026-10-18T09:51:18.987786+00:00",
       "close": 128.23
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-11T01:22:28.450490+00:00",
       "close": 117.98
+    },
+    {
+      "timestamp": "2026-11-11T07:56:59.725227+00:00",
+      "close": 117.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T01:09:44+00:00",
+      "title": "What Would It Take For AMD Stock To Move Higher?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T00:30:00+00:00",
+      "title": "AI In 2027: 20 Questions For The Global Economy",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T22:05:02+00:00",
       "title": "Stock Market Today, Nov. 10: CoreWeave Stock Edges Lower as a Multibillion-Dollar Question Looms Over Earnings",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-10T19:06:05+00:00",
       "title": "S&P 500 Most Active Stocks in Today's Session: SMCI, AT&T, Ford Lead Volume",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T17:25:33+00:00",
-      "title": "Dan Ives Says Wall Street Is Underestimating 2 Major Tech Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T16:52:58+00:00",
-      "title": "Steve Eisman: Oracle Could Suffer if OpenAI 'Demise' Causes US Recession",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

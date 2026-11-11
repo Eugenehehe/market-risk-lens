@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:22:28.450490+00:00",
+  "generated_at": "2026-11-11T07:56:59.725227+00:00",
   "snapshot": {
     "symbol": "HPE",
     "price": 47.93,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T05:32:38.347344+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-18T09:51:18.987786+00:00",
       "close": 55.13
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-11T01:22:28.450490+00:00",
       "close": 47.93
+    },
+    {
+      "timestamp": "2026-11-11T07:56:59.725227+00:00",
+      "close": 47.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-10T23:26:50+00:00",
+      "title": "Super Micro Computer: The Story Is Getting Better And Better (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-10T19:22:00+00:00",
       "title": "Should You Buy, Sell, or Hold Cisco Systems Stock Before Q1 Earnings?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-10T12:45:00+00:00",
       "title": "Should You Buy, Sell or Hold HPE Stock at a P/E Multiple of 10.08X?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-09T22:19:00+00:00",
-      "title": "Will Cisco Systems (CSCO) Deliver the Strong Results the Market Needs to See?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
