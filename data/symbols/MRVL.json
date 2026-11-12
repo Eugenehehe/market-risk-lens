@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T11:31:30.851237+00:00",
+  "generated_at": "2026-11-12T19:05:00.599201+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 168.8,
-    "change_pct": 9.333506056091734
+    "price": 165.13,
+    "change_pct": -2.1741706161137575
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T21:36:03.059826+00:00",
-      "close": 227.83
-    },
     {
       "timestamp": "2026-10-18T23:38:10.821527+00:00",
       "close": 227.83
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-12T11:31:30.851237+00:00",
       "close": 168.8
+    },
+    {
+      "timestamp": "2026-11-12T19:05:00.599201+00:00",
+      "close": 165.13
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-12T07:51:46+00:00",
-      "title": "Stock Market Today: CoreWeave (CRWV) Reignites the AI Trade, Then Nvidia’s (NVDA) Boardroom Takes Over the Story",
+      "timestamp": "2026-11-12T15:12:00+00:00",
+      "title": "Nvidia, AMD, CoreWeave, Nebius, Tesla, Strategy, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T15:01:00+00:00",
+      "title": "AI’s Central Bank Is in Crisis. Intel and These Stocks Are Feeling the Pain.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T14:00:01+00:00",
+      "title": "Ondas Holdings Inc. (ONDS) Reports Q3 Loss, Beats Revenue Estimates",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T14:00:00+00:00",
+      "title": "Marvell Appoints Three New Independent Directors to its Board",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T13:58:12+00:00",
+      "title": "Lumentum Trades Below Marvell’s Buyout Offer. Is the Gap a Bargain?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T13:36:15+00:00",
+      "title": "S&P 500 Premarket Losers Led by NVIDIA, Sandisk, and Super Micro on Nov. 12",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-12T03:52:24+00:00",
-      "title": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+      "timestamp": "2026-11-12T13:31:00+00:00",
+      "title": "Why Intel and Marvell Stocks Are Caught in Nvidia’s Web",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-12T01:12:25+00:00",
-      "title": "How Much Could You Lose In Credo Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T22:46:00+00:00",
-      "title": "Jensen Huang’s Shattered Credibility",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T20:19:34+00:00",
-      "title": "Marvell Acquires Lumentum in Blockbuster $80 Billion Deal",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T20:06:06+00:00",
-      "title": "S&P 500 Top Movers: Nov. 11, 2026 Session Gainers and Losers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T19:06:28+00:00",
-      "title": "S&P 500 Most Active Stocks on Nov. 11, 2026: Semiconductor and Tech Names Dominate",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T19:03:00+00:00",
-      "title": "Lumentum Stocks Jump 14.85% as AI Optics Rebound Narrows Marvell Deal Gap",
+      "timestamp": "2026-11-12T13:00:04+00:00",
+      "title": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

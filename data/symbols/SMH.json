@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T11:31:30.851237+00:00",
+  "generated_at": "2026-11-12T19:05:00.599201+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 506.96,
-    "change_pct": 4.823935653288669
+    "price": 500.43,
+    "change_pct": -1.288070064699376
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 61,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T21:36:03.059826+00:00",
-      "close": 539.79
-    },
     {
       "timestamp": "2026-10-18T23:38:10.821527+00:00",
       "close": 539.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-12T11:31:30.851237+00:00",
       "close": 506.96
+    },
+    {
+      "timestamp": "2026-11-12T19:05:00.599201+00:00",
+      "close": 500.43
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-12T09:23:46+00:00",
+      "title": "Nvidia Stock’s 'Very Sad Day,' Analyst Cuts Price Target by $100",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T06:00:29+00:00",
       "title": "IVES: Both The AI Bulls And Bears Can Take A Hard Pass",
@@ -522,49 +530,41 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-11T19:45:23+00:00",
+      "title": "Michael Burry’s Portfolio: What the ‘Big Short’ Investor Owns Now",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T13:53:02+00:00",
+      "title": "Nasdaq 100 Jumps 2.8% as CoreWeave, Nvidia Climb: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T13:45:45+00:00",
+      "title": "Michael Burry Says Jensen’s Affair Won’t Sink Nvidia, But Regulators Might",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T12:00:14+00:00",
+      "title": "Tech Stocks Add Over $500 Billion as CoreWeave's Blockbuster Results Rescue AI Rally",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-11T11:05:27+00:00",
       "title": "CoreWeave Earnings Trigger AI Revival on Wall Street; Asia, Europe Up",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T09:13:17+00:00",
-      "title": "3 Stocks I'm Buying As The Huang Scandal Unfolds",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T08:46:58+00:00",
-      "title": "Retail Pours Billions Into ETFs As Hedge Funds Go Underweight AI",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T05:02:00+00:00",
-      "title": "What the Nvidia Debacle Means for ETFs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T00:30:00+00:00",
-      "title": "AI In 2027: 20 Questions For The Global Economy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T18:31:29+00:00",
-      "title": "$100 Invested In VanEck Semiconductor ETF 5 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

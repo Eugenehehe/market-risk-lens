@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T11:31:30.851237+00:00",
+  "generated_at": "2026-11-12T19:05:00.599201+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 50.25,
-    "change_pct": 4.840392238681401
+    "price": 50.22,
+    "change_pct": -0.05970149253731183
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T21:36:03.059826+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-18T23:38:10.821527+00:00",
       "close": 55.13
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-12T11:31:30.851237+00:00",
       "close": 50.25
+    },
+    {
+      "timestamp": "2026-11-12T19:05:00.599201+00:00",
+      "close": 50.22
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-12T02:14:55+00:00",
-      "title": "What Comes Next For Hewlett Packard Enterprise After A 118% Gain",
+      "timestamp": "2026-11-12T17:10:12+00:00",
+      "title": "How Risky Is Hewlett Packard Enterprise Stock?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T23:41:41+00:00",
-      "title": "Undercovered Dozen: Coherent, Bank Of America, MaxLinear And More",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T20:49:00+00:00",
-      "title": "Is Dell Stock Priced Right Against Its Peers?",
+      "timestamp": "2026-11-12T17:00:46+00:00",
+      "title": "Cisco (CSCO) vs. ANET and HPE: Can AI Networking Turn Strong Orders Into Lasting Earnings Growth?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T19:12:08+00:00",
-      "title": "Why Is Hewlett Packard Enterprise (HPE) Winning Clients With $2.1 Million Savings?",
+      "timestamp": "2026-11-12T16:02:50+00:00",
+      "title": "Super Micro Slides 7% Despite Gartner’s $957 Billion AI Server Forecast; Dell Falls 4%, Hewlett Packard Enterprise Dips",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T17:08:53+00:00",
-      "title": "Nutanix Stock Down 15%: Is Slower Growth Really The Supply Chain?",
+      "timestamp": "2026-11-12T15:26:17+00:00",
+      "title": "The Open Question Under Arista Networks Stock's Price",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T17:04:00+00:00",
-      "title": "NetApp's Q2 Gross Margin Guide: Is Another Sequential Dip Ahead?",
+      "timestamp": "2026-11-12T14:33:09+00:00",
+      "title": "Prediction: One AI Trend Could Send Dell Stock Higher",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T16:02:31+00:00",
-      "title": "Dell Jumps 11% as AI Server Stocks Rebound From a Rough Month; Super Micro Surges 8%, Hewlett Packard Enterprise Advances 6%",
+      "timestamp": "2026-11-12T14:19:34+00:00",
+      "title": "Was The Run In Dell Stock Hiding In Plain Sight?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-11T15:40:03+00:00",
-      "title": "HPE or AGYS: Which Is the Better Value Stock Right Now?",
+      "timestamp": "2026-11-12T14:00:00+00:00",
+      "title": "HPE Addresses Industry Demand for Scalable HPC Solutions With World’s Fastest Hybrid Supercomputing Storage and Intelligent Rack Management",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T13:56:00+00:00",
+      "title": "Can HPE Sustain Growth Amid Evolving AI Market Dynamics?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
