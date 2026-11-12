@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:35:54.315755+00:00",
+  "generated_at": "2026-11-12T03:19:47.371719+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 759.81,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T16:56:30.893669+00:00",
-      "close": 763.25
-    },
     {
       "timestamp": "2026-10-18T19:19:09.239922+00:00",
       "close": 763.25
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-11T22:35:54.315755+00:00",
       "close": 759.81
+    },
+    {
+      "timestamp": "2026-11-12T03:19:47.371719+00:00",
+      "close": 759.81
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-11-11T19:17:44+00:00",
       "title": "Tractor Supply Turned $1,000 Into Over $3,200 in 10 Years. Then Came 2026",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T18:55:00+00:00",
+      "title": "CoreWeave Earnings Alleviate Some AI Spending Fears",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-11T11:57:10+00:00",
       "title": "AMD sees $709 million reversal as major ETFs pile in",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T11:51:22+00:00",
-      "title": "Winners Of REIT Earnings Season",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

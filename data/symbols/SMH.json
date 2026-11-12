@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:35:54.315755+00:00",
+  "generated_at": "2026-11-12T03:19:47.371719+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 506.96,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T16:56:30.893669+00:00",
-      "close": 539.79
-    },
     {
       "timestamp": "2026-10-18T19:19:09.239922+00:00",
       "close": 539.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-11T22:35:54.315755+00:00",
       "close": 506.96
+    },
+    {
+      "timestamp": "2026-11-12T03:19:47.371719+00:00",
+      "close": 506.96
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-11T11:05:27+00:00",
+      "title": "CoreWeave Earnings Trigger AI Revival on Wall Street; Asia, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T09:13:17+00:00",
       "title": "3 Stocks I'm Buying As The Huang Scandal Unfolds",
@@ -517,6 +525,14 @@
       "timestamp": "2026-11-11T08:46:58+00:00",
       "title": "Retail Pours Billions Into ETFs As Hedge Funds Go Underweight AI",
       "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-11T05:02:00+00:00",
+      "title": "What the Nvidia Debacle Means for ETFs",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-10T16:00:07+00:00",
       "title": "Hot CPI Pushes 10-Year Yield to 5%, Nvidia Sinks 6%: Stock Market Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T14:54:44+00:00",
-      "title": "Hedge Funds Dumped Tech at a Near-Record Pace Right Before Chip Stocks Jumped 7%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T13:27:37+00:00",
-      "title": "This Short Seller Flagged Jensen Huang’s Ties to Alice Huang 6 Months Before Nvidia’s Scandal",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
