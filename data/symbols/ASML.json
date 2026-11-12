@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:19:47.371719+00:00",
+  "generated_at": "2026-11-12T11:31:30.851237+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1534.42,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T19:19:09.239922+00:00",
-      "close": 1641.52
-    },
     {
       "timestamp": "2026-10-18T21:36:03.059826+00:00",
       "close": 1641.52
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-12T03:19:47.371719+00:00",
       "close": 1534.42
+    },
+    {
+      "timestamp": "2026-11-12T11:31:30.851237+00:00",
+      "close": 1534.42
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-12T09:10:13+00:00",
+      "title": "European tech shares fall as Nvidia board weighs ousting Jensen Huang",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T21:00:35+00:00",
       "title": "Semiconductor equipment stocks: fundamentals, fair value, and the top pick",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-10T11:03:44+00:00",
       "title": "ETFs Are Net Sellers of ASML (ASML) on Nov. 6",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-10T10:57:56+00:00",
-      "title": "Chip Stocks Trade at 9 Times 2028 Earnings. Cantor Calls It a Gift, Bank of America Says Wait for Policy Clarity",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

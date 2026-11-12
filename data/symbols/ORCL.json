@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:19:47.371719+00:00",
+  "generated_at": "2026-11-12T11:31:30.851237+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 128.38,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T19:19:09.239922+00:00",
-      "close": 128.23
-    },
     {
       "timestamp": "2026-10-18T21:36:03.059826+00:00",
       "close": 128.23
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-12T03:19:47.371719+00:00",
       "close": 128.38
+    },
+    {
+      "timestamp": "2026-11-12T11:31:30.851237+00:00",
+      "close": 128.38
     }
   ],
   "events": [
@@ -546,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-11T20:19:47+00:00",
+      "title": "Oracle Stock Just Scored a New $325 Price Target",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-11T19:45:01+00:00",
       "title": "Why Oracle Stock Is Up Today",
       "source": "Yahoo",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-11T19:24:09+00:00",
       "title": "3 Possible Paths Forward for AI Stocks (Bull Case, Bear Case, Base Case) -- and How to Invest for Each",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T19:06:28+00:00",
-      "title": "S&P 500 Most Active Stocks on Nov. 11, 2026: Semiconductor and Tech Names Dominate",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
