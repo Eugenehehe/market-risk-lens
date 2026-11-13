@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T15:08:05.973412+00:00",
+  "generated_at": "2026-11-13T21:24:51.949799+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1484.07,
-    "change_pct": -0.8716736133376091
+    "price": 1495.16,
+    "change_pct": -0.1309180292828782
   },
   "risk": {
-    "score": 57,
+    "score": 52,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T14:19:34.936349+00:00",
-      "close": 1670.6
-    },
     {
       "timestamp": "2026-10-19T20:00:38.904702+00:00",
       "close": 1647.71
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-13T15:08:05.973412+00:00",
       "close": 1484.07
+    },
+    {
+      "timestamp": "2026-11-13T21:24:51.949799+00:00",
+      "close": 1495.16
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T15:48:55+00:00",
+      "title": "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T14:48:18+00:00",
+      "title": "Nvidia stock slips as investors digest CEO exit, broader chip sector falls",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T14:39:58+00:00",
+      "title": "5 High P/E Stocks Under the 200-Day SMA",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-13T13:45:57+00:00",
       "title": "Taiwan Semiconductor Just Became Even More of an AI Anchor On Nvidia’s -25% Plummet",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-11-12T22:33:21+00:00",
       "title": "5 Unrivaled Stocks to Buy for the Next Decade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T16:01:53+00:00",
-      "title": "Applied Materials Sits 47% Below Its High. Here’s What the November 12 Report Has to Prove",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T14:07:00+00:00",
-      "title": "Silicon Motion Vs. Qualcomm: Which Chipmaker Has More Potential?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T13:51:00+00:00",
-      "title": "Wall Street's Next Blockbuster Stock Split Could Come From This Chip Equipment Giant",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

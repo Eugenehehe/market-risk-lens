@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T15:08:05.973412+00:00",
+  "generated_at": "2026-11-13T21:24:51.949799+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 752.23,
-    "change_pct": -0.6458685545223997
+    "price": 754.37,
+    "change_pct": -0.36321851225696866
   },
   "risk": {
-    "score": 56,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T14:19:34.936349+00:00",
-      "close": 768.87
-    },
     {
       "timestamp": "2026-10-19T20:00:38.904702+00:00",
       "close": 766.73
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-13T15:08:05.973412+00:00",
       "close": 752.23
+    },
+    {
+      "timestamp": "2026-11-13T21:24:51.949799+00:00",
+      "close": 754.37
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T17:18:01+00:00",
+      "title": "Intel attracts $79 million in ETF buying despite warning",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T17:13:58+00:00",
+      "title": "Kevin Warsh’s Fed Will Vote on Rates Only 7 Times in 2027",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T17:03:02+00:00",
+      "title": "The S&P 500 Has a “Pure Value” Version. RPV Gives Its Cheapest Stocks the Biggest Weights",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T14:22:00+00:00",
+      "title": "PPI +6.5% YoY: Highest in Nearly 4 Years",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T14:15:44+00:00",
+      "title": "Stock Market Today: Nvidia Rebounds After Huang’s Exit as Treasury Yields Top 5%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-13T14:13:16+00:00",
       "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Producer Inflation Trails Forecasts",
@@ -514,56 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-13T13:57:00+00:00",
+      "title": "Wall Street Divided on S&P 500: Which ETFs Could Benefit in 2027?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-13T12:12:51+00:00",
       "title": "$1 Million In SCHD Five Years Ago: What Is It Worth Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T12:12:50+00:00",
-      "title": "Nvidia Is 6.1% Of Your S&P 500 Fund. What Is Your Number?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T11:03:04+00:00",
-      "title": "SPDR S&P 500 ETF (SPY) Buys $335.9 Million More Apple on Nov. 11",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T11:02:09+00:00",
-      "title": "Tesla (TSLA) Sees $76.2 Million in Net ETF Buying on Wednesday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T11:02:03+00:00",
-      "title": "42 ETFs Add to Alphabet (GOOG) on Wednesday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T11:01:57+00:00",
-      "title": "Intel (INTC) Sees $79.2 Million in Net ETF Buying on Nov. 11",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T11:01:47+00:00",
-      "title": "55 ETFs Add to Meta Platforms (META) on Nov. 11",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
