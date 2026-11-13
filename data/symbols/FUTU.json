@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T00:14:55.115110+00:00",
+  "generated_at": "2026-11-13T06:55:10.173916+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 95.62,
     "change_pct": -2.4285714285714244
   },
   "risk": {
-    "score": 56,
+    "score": 58,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T01:42:23.818089+00:00",
-      "close": 105.48
-    },
     {
       "timestamp": "2026-10-19T06:54:11.789714+00:00",
       "close": 105.48
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-13T00:14:55.115110+00:00",
       "close": 95.62
+    },
+    {
+      "timestamp": "2026-11-13T06:55:10.173916+00:00",
+      "close": 95.62
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-12T15:40:02+00:00",
+      "title": "BFH or FUTU: Which Is the Better Value Stock Right Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-11T12:00:00+00:00",
       "title": "Moomoo Joins NYSE to Debut Binary Return Options, Broadening Access to Options Trading for Retail Investors",
