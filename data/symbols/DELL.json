@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 371.17,
-    "change_pct": -0.6716977092699583
+    "price": 344.86,
+    "change_pct": -7.088396152706311
   },
   "risk": {
-    "score": 56,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 451.71
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 464.97
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 371.17
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 344.86
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-13T12:15:15+00:00",
+      "title": "Super Micro Computer Cratered Again, Down 35% in One Month: This Lead Analyst Who Just Defended Nvidia Says Super Micro Computer Shares to Gain 140%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:12:51+00:00",
+      "title": "What Did Arista Networks Stock Investors Miss Before The Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:12:51+00:00",
+      "title": "SanDisk Stock At $937: Why So Cheap?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:12:50+00:00",
+      "title": "How Much Of Dell Stock Is A Bet On Nvidia?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:35:47+00:00",
+      "title": "Nvidia Stock Fans Just Got Another Big News From China",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:26:54+00:00",
+      "title": "Nvidia scandal deepens as banned chips traced to China",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T09:19:05+00:00",
+      "title": "Market Chatter: Nvidia Chips Found Inside China Data Center Linked to Alleged Spy",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-12T20:19:00+00:00",
       "title": "Super Micro Stock Falls as DOJ Probes Smuggling Allegations",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T18:25:00+00:00",
-      "title": "CoreWeave and Other Stocks in the Nvidia Danger Zone",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T17:10:12+00:00",
-      "title": "How Risky Is Hewlett Packard Enterprise Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T16:10:39+00:00",
-      "title": "How Investors Are Reacting To CrowdStrike Stock After New AI Security Launches",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T16:02:50+00:00",
-      "title": "Super Micro Slides 7% Despite Gartner’s $957 Billion AI Server Forecast; Dell Falls 4%, Hewlett Packard Enterprise Dips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T15:36:11+00:00",
-      "title": "S&P 500 Gap-Down Stocks in the Nov. 12, 2026 Session",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T15:26:17+00:00",
-      "title": "The Open Question Under Arista Networks Stock's Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T15:12:00+00:00",
-      "title": "Nvidia, AMD, CoreWeave, Nebius, Tesla, Strategy, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

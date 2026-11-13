@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 119.5,
-    "change_pct": -0.7969450439979986
+    "price": 114.15,
+    "change_pct": -4.476987447698743
   },
   "risk": {
-    "score": 57,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 132
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 135.26
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 119.5
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 114.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T10:15:00+00:00",
+      "title": "Here's How Much You Can Expect $10,000 in Corning (GLW) Stock to Pay You in Dividends Next Year",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T06:58:16+00:00",
+      "title": "NVIDIA’s Shakeup Clouds Copper’s AI Boom",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T17:59:40+00:00",
       "title": "What Are Corning Investors Betting On?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-11T15:16:09+00:00",
       "title": "How Investors May Respond To Corning (GLW) ETF Buying And AI Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T14:29:50+00:00",
-      "title": "Calls of the day: ConocoPhillips, Devon Energy, Corning, Amgen",
-      "source": "CNBC",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T14:12:21+00:00",
-      "title": "Is Corning (GLW) Undervalued After Its 28% One Month Slide?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

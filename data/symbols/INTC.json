@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 61.2,
-    "change_pct": -2.079999999999993
+    "price": 58.91,
+    "change_pct": -3.741830065359486
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 89.85
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 94.62
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 61.2
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 58.91
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-13T12:52:19+00:00",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:18:00+00:00",
+      "title": "Applied Materials’ Earnings Beat Gets Lukewarm Reception as Nvidia Fallout Lingers",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:04:19+00:00",
+      "title": "What Capital Group Growth ETF (CGGR) Bought: SpaceX Leads on Wednesday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:03:08+00:00",
+      "title": "What iShares PHLX SOX Semiconductor (SOXX) Bought: AMD Leads on Nov. 11",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:01:57+00:00",
+      "title": "Intel (INTC) Sees $79.2 Million in Net ETF Buying on Nov. 11",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T10:46:28+00:00",
+      "title": "Stock Market Today: Nvidia (NVDA) Loses Jensen Huang, and the Chip Sector Starts Picking Winners",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T08:46:50+00:00",
+      "title": "What's Going On With AMD Stock Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-13T05:01:49+00:00",
       "title": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T02:12:50+00:00",
-      "title": "Adobe And 2 More Undervalued Tech Stocks To Watch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T23:27:25+00:00",
-      "title": "Why Are Advanced Micro Devices (AMD) Shares Drawing Fresh AI Attention?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T22:21:00+00:00",
-      "title": "Applied Materials’ Beat Gets a Lukewarm Reception as Nvidia Fallout Lingers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T22:20:03+00:00",
-      "title": "Stock Market Today, Nov. 12: AMD Jumps 5.9% on Bank of America Price Target Hike to $700",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T21:11:59+00:00",
-      "title": "Intel (INTC) Could Be 88% Undervalued Following AI Partnerships And Sector Volatility",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T20:48:56+00:00",
-      "title": "Analog Devices Vs NVIDIA: Which Stock Is The Better Buy?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T20:30:00+00:00",
-      "title": "Intel, RadixArk Collaborate to Advance Open AI Inference on Intel Platforms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

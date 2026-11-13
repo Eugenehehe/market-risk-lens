@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 164.45,
-    "change_pct": -2.577014218009488
+    "price": 155.06,
+    "change_pct": -5.709942231681353
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 227.83
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 240.15
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 164.45
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 155.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T11:54:49+00:00",
+      "title": "Marvell Soars 23%, Lumentum Up 23% in a Week. Jim Cramer Says It’s Not “a Broken Stock”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:51:30+00:00",
+      "title": "Lumentum Stocks Edge Higher as Marvell Deal Spread Widens to 19.7%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T11:43:50+00:00",
+      "title": "Marvell Stocks Edge Higher as NVIDIA Exit Weighs on Lumentum Deal Currency",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T23:14:28+00:00",
       "title": "5 Best AI Stocks to Buy After Wells Fargo’s Outlook Upgrade",
@@ -538,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-12T15:12:00+00:00",
-      "title": "Nvidia, AMD, CoreWeave, Nebius, Tesla, Strategy, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T15:01:00+00:00",
-      "title": "AI’s Central Bank Is in Crisis. Intel and These Stocks Are Feeling the Pain.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T14:00:01+00:00",
-      "title": "Ondas Holdings Inc. (ONDS) Reports Q3 Loss, Beats Revenue Estimates",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T14:00:00+00:00",
-      "title": "Marvell Appoints Three New Independent Directors to its Board",
-      "source": "Yahoo",
+      "timestamp": "2026-11-12T16:22:09+00:00",
+      "title": "Jensen Huang Scandal Widens: Former Nvidia CEO Linked to Second Employee",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

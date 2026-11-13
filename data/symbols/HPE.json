@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 50.16,
-    "change_pct": -0.1791044776119466
+    "price": 48,
+    "change_pct": -4.306220095693769
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 55.13
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 57.14
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 50.16
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 48
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T13:50:55+00:00",
+      "title": "Hewlett Packard Enterprise (NYSE:HPE) Screens for High Growth as Fundamentals Strengthen",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T13:30:00+00:00",
+      "title": "IonQ Announces Executive Leadership Evolution",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:15:15+00:00",
+      "title": "Super Micro Computer Cratered Again, Down 35% in One Month: This Lead Analyst Who Just Defended Nvidia Says Super Micro Computer Shares to Gain 140%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:12:51+00:00",
+      "title": "What Did Arista Networks Stock Investors Miss Before The Run?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T12:12:50+00:00",
+      "title": "How Much Of Dell Stock Is A Bet On Nvidia?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T17:10:12+00:00",
       "title": "How Risky Is Hewlett Packard Enterprise Stock?",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-11-12T16:02:50+00:00",
       "title": "Super Micro Slides 7% Despite Gartner’s $957 Billion AI Server Forecast; Dell Falls 4%, Hewlett Packard Enterprise Dips",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T15:26:17+00:00",
-      "title": "The Open Question Under Arista Networks Stock's Price",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T14:33:09+00:00",
-      "title": "Prediction: One AI Trend Could Send Dell Stock Higher",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T14:19:34+00:00",
-      "title": "Was The Run In Dell Stock Hiding In Plain Sight?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T14:00:00+00:00",
-      "title": "HPE Addresses Industry Demand for Scalable HPC Solutions With World’s Fastest Hybrid Supercomputing Storage and Intelligent Rack Management",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T13:56:00+00:00",
-      "title": "Can HPE Sustain Growth Amid Evolving AI Market Dynamics?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

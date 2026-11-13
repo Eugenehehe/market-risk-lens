@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 688.17,
-    "change_pct": -0.3201135606477612
+    "price": 679.76,
+    "change_pct": -1.2220817530552042
   },
   "risk": {
-    "score": 53,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 709.8
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 721.39
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 688.17
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 679.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T10:46:28+00:00",
+      "title": "Stock Market Today: Nvidia (NVDA) Loses Jensen Huang, and the Chip Sector Starts Picking Winners",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T09:40:44+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100  Futures Rise as Nvidia CEO Exit Remains in Focus— CSCO, AMAT, NU in Focus(UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T09:14:57+00:00",
+      "title": "AI Roundup: Nvidia CEO’s Exit Dominates Headlines — CoreWeave, Cisco Results Boost AI Sentiment",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T04:38:16+00:00",
+      "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days – Here’s Where The Money Went",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-13T02:26:11+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T22:57:40+00:00",
       "title": "MGK: The Hyperscalers Are On Sale",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-11-12T21:31:00+00:00",
       "title": "5 Bullish Signs the AI Rally is Back on Track",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T18:20:08+00:00",
-      "title": "Exchange-Traded Funds, US Equities Mixed After Midday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T17:05:02+00:00",
-      "title": "The AI Bubble Burst Has Three Phases: We Are At Phase One",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T17:00:48+00:00",
-      "title": "Discerning The AI Industrial Buildout Through An Energy Lens",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T16:29:07+00:00",
-      "title": "Jensen Huang Is Out. Here’s How Much Nvidia’s Selloff Cost a $10,000 QQQ Position",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T15:43:37+00:00",
-      "title": "History Shows the QQQ ETF Could Plunge 50%-70%, But Modern Investors Have New Tools to Protect Themselves and Still Profit",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

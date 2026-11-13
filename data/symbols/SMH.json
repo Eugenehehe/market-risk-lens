@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T06:55:10.173916+00:00",
+  "generated_at": "2026-11-13T15:08:05.973412+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 501.73,
-    "change_pct": -1.0316395770869402
+    "price": 484.15,
+    "change_pct": -3.5038765870089583
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T06:54:11.789714+00:00",
-      "close": 539.79
-    },
     {
       "timestamp": "2026-10-19T14:19:34.936349+00:00",
       "close": 554
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-13T06:55:10.173916+00:00",
       "close": 501.73
+    },
+    {
+      "timestamp": "2026-11-13T15:08:05.973412+00:00",
+      "close": 484.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-13T06:58:16+00:00",
+      "title": "NVIDIA’s Shakeup Clouds Copper’s AI Boom",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T23:53:18+00:00",
       "title": "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny",
@@ -538,33 +546,25 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-12T11:07:55+00:00",
-      "title": "Nvidia Turmoil Pressures Wall Street Pre-Bell; Asia Off, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T10:53:00+00:00",
-      "title": "Semiconductor ETFs to Buy as Qualcomm Plunges Despite Q4 Earnings Beat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-12T09:23:46+00:00",
-      "title": "Nvidia Stock’s 'Very Sad Day,' Analyst Cuts Price Target by $100",
+      "timestamp": "2026-11-12T15:58:54+00:00",
+      "title": "Wall Street Takes the Chainsaw to Nvidia Targets: One Bank Slashes $465 to $186",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-12T08:00:00+00:00",
-      "title": "The Chip Stock Rebound Is Just Getting Started",
-      "source": "Yahoo",
+      "timestamp": "2026-11-12T14:16:23+00:00",
+      "title": "Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit: Stock Market Today",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-12T14:06:45+00:00",
+      "title": "Nvidia ETFs Have a New Problem: Life After Jensen Huang",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
