@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T19:05:00.599201+00:00",
+  "generated_at": "2026-11-13T00:14:55.115110+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 500.43,
-    "change_pct": -1.288070064699376
+    "price": 501.73,
+    "change_pct": -1.0316395770869402
   },
   "risk": {
-    "score": 61,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T23:38:10.821527+00:00",
-      "close": 539.79
-    },
     {
       "timestamp": "2026-10-19T01:42:23.818089+00:00",
       "close": 539.79
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-12T19:05:00.599201+00:00",
       "close": 500.43
+    },
+    {
+      "timestamp": "2026-11-13T00:14:55.115110+00:00",
+      "close": 501.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-12T17:00:48+00:00",
+      "title": "Discerning The AI Industrial Buildout Through An Energy Lens",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T09:23:46+00:00",
       "title": "Nvidia Stock’s 'Very Sad Day,' Analyst Cuts Price Target by $100",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-11T12:00:14+00:00",
       "title": "Tech Stocks Add Over $500 Billion as CoreWeave's Blockbuster Results Rescue AI Rally",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T11:05:27+00:00",
-      "title": "CoreWeave Earnings Trigger AI Revival on Wall Street; Asia, Europe Up",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T19:05:00.599201+00:00",
+  "generated_at": "2026-11-13T00:14:55.115110+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 118.89,
-    "change_pct": -1.3033372073717353
+    "price": 119.5,
+    "change_pct": -0.7969450439979986
   },
   "risk": {
-    "score": 61,
+    "score": 57,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-18T23:38:10.821527+00:00",
-      "close": 132
-    },
     {
       "timestamp": "2026-10-19T01:42:23.818089+00:00",
       "close": 132
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-12T19:05:00.599201+00:00",
       "close": 118.89
+    },
+    {
+      "timestamp": "2026-11-13T00:14:55.115110+00:00",
+      "close": 119.5
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-12T17:59:40+00:00",
+      "title": "What Are Corning Investors Betting On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-12T15:01:00+00:00",
       "title": "Cell Culture Protein Surface Coating - Global Strategic Business Report 2026: Capitalize on the $2.1B Market by 2032 as Corning, Merck, Sartorius and Thermo Fisher Accelerate Competition",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-11T14:12:21+00:00",
       "title": "Is Corning (GLW) Undervalued After Its 28% One Month Slide?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T13:36:12+00:00",
-      "title": "S&P 500 Premarket Movers: Gainers and Losers Ahead of the Open",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
