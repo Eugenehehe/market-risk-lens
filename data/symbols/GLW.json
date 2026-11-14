@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T21:24:51.949799+00:00",
+  "generated_at": "2026-11-14T01:35:08.963289+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 114.08,
     "change_pct": -4.535564853556484
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 68,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-19T20:00:38.904702+00:00",
-      "close": 132.85
-    },
     {
       "timestamp": "2026-10-19T23:32:36.628167+00:00",
       "close": 132.74
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-13T21:24:51.949799+00:00",
       "close": 114.08
+    },
+    {
+      "timestamp": "2026-11-14T01:35:08.963289+00:00",
+      "close": 114.08
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-11-12T15:01:00+00:00",
       "title": "Cell Culture Protein Surface Coating - Global Strategic Business Report 2026: Capitalize on the $2.1B Market by 2032 as Corning, Merck, Sartorius and Thermo Fisher Accelerate Competition",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T20:21:44+00:00",
-      "title": "Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T16:05:30+00:00",
-      "title": "Applied Optoelectronics Stock Jumps After CoreWeave's Strong Q3 Results",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T15:20:00+00:00",
-      "title": "Global Ribbon Fiber Cables Market Report 2026 | Capitalize on 5G and AI Data Centers Driving $3.61B Market by 2030",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-11T15:16:09+00:00",
-      "title": "How Investors May Respond To Corning (GLW) ETF Buying And AI Demand",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
