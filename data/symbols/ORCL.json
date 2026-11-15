@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:39:21.170559+00:00",
+  "generated_at": "2026-11-15T17:24:16.237051+00:00",
   "snapshot": {
     "symbol": "ORCL",
     "price": 125.35,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-20T23:35:29.814846+00:00",
-      "close": 131.14
-    },
     {
       "timestamp": "2026-10-21T01:59:31.135687+00:00",
       "close": 131.14
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-15T10:39:21.170559+00:00",
       "close": 125.35
+    },
+    {
+      "timestamp": "2026-11-15T17:24:16.237051+00:00",
+      "close": 125.35
     }
   ],
   "events": [
@@ -516,6 +516,14 @@
     {
       "timestamp": "2026-11-14T17:50:02+00:00",
       "title": "Credo Technology Group vs. Marvell Technology: Which Technology Stock Is a Better Buy for 2027?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-14T13:15:00+00:00",
+      "title": "Cerebras Q3 Results: How Much More Proof Does Wall Street Need?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-13T21:32:06+00:00",
       "title": "5 Multibagger Stocks to Buy According to Wall Street",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T21:31:23+00:00",
-      "title": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
