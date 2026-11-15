@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:57:57.578747+00:00",
+  "generated_at": "2026-11-15T10:39:21.170559+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 59.66,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-20T20:53:33.584399+00:00",
-      "close": 91.69
-    },
     {
       "timestamp": "2026-10-20T23:35:29.814846+00:00",
       "close": 91.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-15T02:57:57.578747+00:00",
       "close": 59.66
+    },
+    {
+      "timestamp": "2026-11-15T10:39:21.170559+00:00",
+      "close": 59.66
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-15T03:13:34+00:00",
+      "title": "Intel (INTC) Stock Sees Fair Value Falls After Guidance And Operational Issues",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-14T21:03:01+00:00",
       "title": "Why Intel CEO Lip-Bu Tan has 22 meetings a day — and what you can learn from it",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-13T21:06:46+00:00",
       "title": "Intel CEO’s warning offers a 2027 signal for Micron investors",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T19:00:29+00:00",
-      "title": "Most Active Stocks on Nov. 13, 2026: Small-Cap Movers and Tech Decliners",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
