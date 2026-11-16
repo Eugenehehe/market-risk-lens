@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T21:57:53.413932+00:00",
+  "generated_at": "2026-11-16T01:47:25.994870+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1495.16,
     "change_pct": -0.1309180292828782
   },
   "risk": {
-    "score": 52,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 44,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T07:27:18.947669+00:00",
-      "close": 1630.84
-    },
     {
       "timestamp": "2026-10-21T13:07:31.920226+00:00",
       "close": 1630.84
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-15T21:57:53.413932+00:00",
       "close": 1495.16
+    },
+    {
+      "timestamp": "2026-11-16T01:47:25.994870+00:00",
+      "close": 1495.16
     }
   ],
   "events": [
@@ -532,38 +532,6 @@
     {
       "timestamp": "2026-11-14T09:26:35+00:00",
       "title": "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk’s Terafab Eyes a Million Wafers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T22:21:40+00:00",
-      "title": "ASML Holding (ENXTAM:ASML) Faces Sector Selling, Is The 25% Undervaluation Case Still Intact?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T22:13:37+00:00",
-      "title": "Xanadu Breakthroughs & Partnerships Advance Roadmap – Quarterly Update Report",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T15:48:55+00:00",
-      "title": "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T14:48:18+00:00",
-      "title": "Nvidia stock slips as investors digest CEO exit, broader chip sector falls",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T21:57:53.413932+00:00",
+  "generated_at": "2026-11-16T01:47:25.994870+00:00",
   "snapshot": {
     "symbol": "DELL",
     "price": 344.53,
     "change_pct": -7.177304200231715
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T07:27:18.947669+00:00",
-      "close": 461.56
-    },
     {
       "timestamp": "2026-10-21T13:07:31.920226+00:00",
       "close": 461.56
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-15T21:57:53.413932+00:00",
       "close": 344.53
+    },
+    {
+      "timestamp": "2026-11-16T01:47:25.994870+00:00",
+      "close": 344.53
     }
   ],
   "events": [
@@ -517,54 +517,6 @@
       "timestamp": "2026-11-14T18:06:48+00:00",
       "title": "Dell Technologies (DELL) Will Build An Alabama Research Computing Center",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T20:05:54+00:00",
-      "title": "S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Losers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T19:03:32+00:00",
-      "title": "DLLL 2X Dell ETF Plunges 16% as Dell Tumbles 8% in AI Hardware Selloff; Hewlett Packard Enterprise Falls 4%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T17:47:56+00:00",
-      "title": "Can Dell Stock Fall 40%?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T17:41:38+00:00",
-      "title": "Dell Stocks Fall 8.16% as AI Server Selloff Deepens Before November 24 Earnings",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T17:35:57+00:00",
-      "title": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T17:17:32+00:00",
-      "title": "Nvidia Loses Its Founder, AMD and Broadcom Take the Crown: This Week on Wall Street",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

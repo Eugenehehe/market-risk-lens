@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-15T21:57:53.413932+00:00",
+  "generated_at": "2026-11-16T01:47:25.994870+00:00",
   "snapshot": {
     "symbol": "INTC",
     "price": 59.66,
     "change_pct": -2.516339869281059
   },
   "risk": {
-    "score": 71,
+    "score": 61,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T07:27:18.947669+00:00",
-      "close": 91.69
-    },
     {
       "timestamp": "2026-10-21T13:07:31.920226+00:00",
       "close": 91.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-15T21:57:53.413932+00:00",
       "close": 59.66
+    },
+    {
+      "timestamp": "2026-11-16T01:47:25.994870+00:00",
+      "close": 59.66
     }
   ],
   "events": [
@@ -524,46 +524,6 @@
     {
       "timestamp": "2026-11-14T17:34:54+00:00",
       "title": "Soros’ Fund Made Intel Its Biggest Stock Bet Right Before It Halved",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T23:09:51+00:00",
-      "title": "Why Intel Stock Slumped Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T22:13:55+00:00",
-      "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T22:05:40+00:00",
-      "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T21:10:46+00:00",
-      "title": "Nasdaq Drops Friday But Ends the Week Up: Stock Market Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-13T21:06:46+00:00",
-      "title": "Intel CEO’s warning offers a 2027 signal for Micron investors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
