@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T01:47:25.994870+00:00",
+  "generated_at": "2026-11-16T08:38:12.635594+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 398.73,
     "change_pct": -1.667118794544864
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T13:07:31.920226+00:00",
-      "close": 425.08
-    },
     {
       "timestamp": "2026-10-21T18:00:47.498131+00:00",
       "close": 429.7
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-16T01:47:25.994870+00:00",
       "close": 398.73
+    },
+    {
+      "timestamp": "2026-11-16T08:38:12.635594+00:00",
+      "close": 398.73
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-15T20:05:27+00:00",
+      "title": "What TSMC Doubters Got Wrong",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-15T17:59:56+00:00",
+      "title": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-15T09:58:56+00:00",
       "title": "Consumer Tech (Nov 9-13): Jensen Resigns From Nvidia Amid Affair Controvery, Microsoft Faces Massive Outage & More",
@@ -549,14 +565,6 @@
       "timestamp": "2026-11-14T10:00:40+00:00",
       "title": "Taiwan Semiconductor (NYSE:TSM): High Growth and Improving Fundamentals Pass the Screen",
       "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-14T09:26:35+00:00",
-      "title": "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk’s Terafab Eyes a Million Wafers",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
