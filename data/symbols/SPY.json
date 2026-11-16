@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 754.37,
-    "change_pct": -0.36321851225696866
+    "price": 741.63,
+    "change_pct": -1.688826437954849
   },
   "risk": {
-    "score": 53,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 773.86
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 773.09
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 754.37
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 741.63
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-16T06:27:59+00:00",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "timestamp": "2026-11-16T14:58:10+00:00",
+      "title": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T02:25:30+00:00",
-      "title": "Three FDA Decisions Loom After Summit’s Rejection — Capricor, Savara, Alzheimer’s Data Top Biotech’s Watchlist",
+      "timestamp": "2026-11-16T14:13:46+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Weakness in AI-Linked Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-15T17:28:50+00:00",
-      "title": "Michael Saylor’s Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
+      "timestamp": "2026-11-16T14:12:10+00:00",
+      "title": "Hedge Funds Are Dumping Leverage at a Pace Last Seen in March 2020. A 63-Year-Old Who Moved His 401(k) to Cash Then Would Have Missed a 51.5% Rally. Here’s the Math",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-15T17:12:51+00:00",
-      "title": "‘Bond King’ Jeffrey Gundlach Is “Not Interested in Buying Stocks.” His Warning Points to 10 Years of Losses",
+      "timestamp": "2026-11-16T14:03:00+00:00",
+      "title": "Pre-Markets Lower as Puzzle Pieces Sorted",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-15T17:05:36+00:00",
-      "title": "Bitcoin vs. Stocks: Is Crypto Really the Best Investment. The Results May Surprise You",
+      "timestamp": "2026-11-16T13:26:21+00:00",
+      "title": "Berkshire Hathaway Hits an All-Time High: Here’s What $10,000 Invested a Year Ago Is Worth Now",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-14T23:03:46+00:00",
-      "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
+      "timestamp": "2026-11-16T13:22:02+00:00",
+      "title": "Stock Market Today: Jensen Huang Eyes a Comeback as Nvidia Closes Its Worst Week Since April 2025",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:03:58+00:00",
+      "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Nvidia on Thursday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-14T16:30:06+00:00",
-      "title": "VOO & Chill: Inflows Stay Strong as Risk-Off Sentiment Pressures the S&P 500",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-14T13:38:44+00:00",
-      "title": "Bessent Tells the Fed Not to Hike “Too Much”",
+      "timestamp": "2026-11-16T11:03:39+00:00",
+      "title": "ETFs Are Net Sellers of Deere (DE) on Nov. 12",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

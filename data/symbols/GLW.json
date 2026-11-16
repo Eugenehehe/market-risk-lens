@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 114.08,
-    "change_pct": -4.535564853556484
+    "price": 106.52,
+    "change_pct": -6.626928471248251
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 135.1
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 134.92
@@ -502,9 +498,69 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 114.08
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 106.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-16T16:19:00+00:00",
+      "title": "Amphenol Rises 16% YTD: Will the Rally Continue on Strong AI Demand?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:37:51+00:00",
+      "title": "Caterpillar Gets Swept Up in a $4.2 Trillion Market Rout",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:07:00+00:00",
+      "title": "5 Dividend Growth Stocks to Buy as NVDA CEO Resignation Rattles Market",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:02:00+00:00",
+      "title": "Can GLW Benefit From Rising Demand for Advanced Automotive Materials?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T14:10:00+00:00",
+      "title": "GLW vs. ANET: Which AI Stock is the Smarter Investment Option Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T13:46:00+00:00",
+      "title": "Buy 3 AI-Led Giants on Robust Fundamentals and Short-Term Price Upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T08:08:05+00:00",
+      "title": "Is Ciena Stock Increasing Your Market Risk?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-15T03:35:04+00:00",
       "title": "Trump's Manufacturing Boom Claims Are 'Not True,' Peter Schiff Says as Factory Spending Falls Over 21%",

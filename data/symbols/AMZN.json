@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 266.66,
-    "change_pct": -0.29165420281183074
+    "price": 258.3,
+    "change_pct": -3.1350783769594326
   },
   "risk": {
-    "score": 53,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 264.11
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 262.37
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 266.66
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 258.3
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-16T05:58:34+00:00",
-      "title": "ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites — Why One Analyst Wants Musk To Free Up Falcon 9 Flights",
+      "timestamp": "2026-11-16T17:45:11+00:00",
+      "title": "Musk Plans Next Starship After Flight 15 Catch. ULA Loses Amazon Payload.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T05:30:52+00:00",
-      "title": "U.S. plans to name Nvidia among AI ‘national champions’, WSJ reports",
+      "timestamp": "2026-11-16T16:31:16+00:00",
+      "title": "Crypto Stocks Sink on Bitcoin's Slide; Aramark Falls on Earnings | Stock Movers",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T03:20:02+00:00",
-      "title": "Amazon vs. Target: Which Stock Is the Better Portfolio Addition?",
+      "timestamp": "2026-11-16T16:15:45+00:00",
+      "title": "AST SpaceMobile Sinks 8% as ULA’s Vulcan Rocket Failure Rattles Space Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T02:30:07+00:00",
-      "title": "Kevin O’Leary Backs Elon Musk’s Starlink as United CEO Calls It ‘Biggest Near-Term Competitive Advantage’ in 100 Years, Says Amazon Leo Is ‘A Mistake’",
+      "timestamp": "2026-11-16T16:15:23+00:00",
+      "title": "What Blackstone Digital Infrastructure Trust (BXDC) Said on Its Q3 Earnings Call",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T02:22:41+00:00",
-      "title": "SpaceX’s Starlink Is United’s “Biggest Near-Term Competitive Advantage” in 100 Years, CEO Says",
+      "timestamp": "2026-11-16T16:03:42+00:00",
+      "title": "Something Is Changing at Amazon, and Investors Should Pay Attention",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T02:14:24+00:00",
-      "title": "Nvidia Has “Arguably the Widest Moat of Any Company in AI” per Scott Galloway",
+      "timestamp": "2026-11-16T15:48:00+00:00",
+      "title": "Nvidia, AI, and the Tech Sector's Earnings Outlook",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T00:20:02+00:00",
-      "title": "Etsy vs. Five Below: Which Growth Stock Is the Better Buy?",
+      "timestamp": "2026-11-16T15:31:02+00:00",
+      "title": "Is an Equal-Weight S&P 500 Fund Safer Right Now Than the One You Own?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-15T19:25:05+00:00",
-      "title": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+      "timestamp": "2026-11-16T15:30:32+00:00",
+      "title": "Blackstone Digital Infrastructure stock surges on $5B AWS deal",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

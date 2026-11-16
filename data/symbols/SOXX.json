@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 149.3,
-    "change_pct": -3.671204593844768
+    "price": 142.5,
+    "change_pct": -4.55458807769592
   },
   "risk": {
-    "score": 60,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 511.08
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 510.36
@@ -502,9 +498,30 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 149.3
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 142.5
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-11-16T09:00:02+00:00",
+      "title": "AMD Stock Is Falling Monday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T03:57:41+00:00",
+      "title": "Chip Stocks Have 'Flushed Out Everybody:' Ryan Detrick Calls the 17% SOXX Rebound a Historic 'Buying Thrust'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

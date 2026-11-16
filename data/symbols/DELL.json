@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 344.53,
-    "change_pct": -7.177304200231715
+    "price": 321.31,
+    "change_pct": -6.739616288857276
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 484.53
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 485.88
@@ -502,20 +498,72 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 344.53
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 321.31
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-15T09:30:06+00:00",
-      "title": "Earnings Volatility Watch: Nvidia Stock Could Swing 9% Without Jensen Huang, Yet This Newly Listed Tech Name Is Priced For 21.7%",
+      "timestamp": "2026-11-16T16:00:00+00:00",
+      "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:56:00+00:00",
+      "title": "Dell and HPE Stocks Are Getting Hammered. Why the Selloff May Be Overdone.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:55:50+00:00",
+      "title": "The Fed Is Watching “Circular Financing.” Dell Has $4.4 Billion in Lower-Grade Customer Receivables",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:02:27+00:00",
+      "title": "Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T14:00:00+00:00",
+      "title": "Dell Technologies Delivers the Trusted Data and AI Infrastructure Foundation Needed to Scale Agentic Enterprise AI",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T13:46:00+00:00",
+      "title": "Buy 3 AI-Led Giants on Robust Fundamentals and Short-Term Price Upside",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T10:46:33+00:00",
+      "title": "'US moves to tighten AI chip export rules' - Financial Times",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-14T18:06:48+00:00",
-      "title": "Dell Technologies (DELL) Will Build An Alabama Research Computing Center",
+      "timestamp": "2026-11-16T10:02:04+00:00",
+      "title": "Michael Dell Says H100 Rents Rose 58%: “So Much for GPU Depreciation”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 398.73,
-    "change_pct": -1.667118794544864
+    "price": 376.95,
+    "change_pct": -5.462342938830799
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 429.7
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 431.89
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 398.73
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 376.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-16T10:06:24+00:00",
+      "title": "EXCLUSIVE: Huang’s Exit Echoes Profumo, but Intelligence Expert Says Chip CEOs Are the New Spy Targets",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T07:41:40+00:00",
+      "title": "NVIDIA Must Now Prove It's Bigger Than Jensen Huang",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T04:51:14+00:00",
+      "title": "Nvidia's Jensen Huang Controversy Could Backfire on China, Chamath Palihapitiya Says — Washington May Get the Chip Controls It's Been Seeking",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-15T20:05:27+00:00",
       "title": "What TSMC Doubters Got Wrong",
@@ -541,30 +565,6 @@
       "timestamp": "2026-11-14T14:38:00+00:00",
       "title": "Harvard Cut Nvidia by a Third and Bought AMD",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-14T12:04:00+00:00",
-      "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-14T11:53:34+00:00",
-      "title": "A $164 Billion Fund Dumps These 3 Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-14T10:00:40+00:00",
-      "title": "Taiwan Semiconductor (NYSE:TSM): High Growth and Improving Fundamentals Pass the Screen",
-      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

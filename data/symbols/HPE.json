@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T08:38:12.635594+00:00",
+  "generated_at": "2026-11-16T18:55:01.457035+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 48.29,
-    "change_pct": -3.7280701754385914
+    "price": 46.21,
+    "change_pct": -4.307310002070819
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T18:00:47.498131+00:00",
-      "close": 58.4
-    },
     {
       "timestamp": "2026-10-21T21:34:00.763530+00:00",
       "close": 58.17
@@ -502,20 +498,72 @@
     {
       "timestamp": "2026-11-16T08:38:12.635594+00:00",
       "close": 48.29
+    },
+    {
+      "timestamp": "2026-11-16T18:55:01.457035+00:00",
+      "close": 46.21
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-14T20:08:14+00:00",
-      "title": "Hewlett Packard Enterprise (HPE) Launched Its Fastest Hybrid Supercomputing Storage",
+      "timestamp": "2026-11-16T16:00:00+00:00",
+      "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-14T17:05:59+00:00",
-      "title": "Cellebrite DI (CLBT) Appoints Rogerio Rizzi As EVP For Corporate Strategy And Development",
+      "timestamp": "2026-11-16T15:56:00+00:00",
+      "title": "Dell and HPE Stocks Are Getting Hammered. Why the Selloff May Be Overdone.",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T15:02:27+00:00",
+      "title": "Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T14:36:00+00:00",
+      "title": "Can Strong Revenue Growth Boost Keysight's Q4 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T14:00:02+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Earnings Expected to Grow: Should You Buy?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T13:56:00+00:00",
+      "title": "ESTC to Report Q2 Earnings: What's in the Cards for the Stock?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T10:46:33+00:00",
+      "title": "'US moves to tighten AI chip export rules' - Financial Times",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-14T20:08:14+00:00",
+      "title": "Hewlett Packard Enterprise (HPE) Launched Its Fastest Hybrid Supercomputing Storage",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
