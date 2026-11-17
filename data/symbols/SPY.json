@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T18:55:01.457035+00:00",
+  "generated_at": "2026-11-17T02:18:37.363211+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 741.63,
-    "change_pct": -1.688826437954849
+    "price": 739.95,
+    "change_pct": -1.911528825377462
   },
   "risk": {
-    "score": 64,
+    "score": 66,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T21:34:00.763530+00:00",
-      "close": 773.09
-    },
     {
       "timestamp": "2026-10-22T00:10:14.645764+00:00",
       "close": 773.09
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-16T18:55:01.457035+00:00",
       "close": 741.63
+    },
+    {
+      "timestamp": "2026-11-17T02:18:37.363211+00:00",
+      "close": 739.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-16T21:39:00+00:00",
+      "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-16T14:58:10+00:00",
       "title": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-16T11:03:58+00:00",
       "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Nvidia on Thursday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:03:39+00:00",
-      "title": "ETFs Are Net Sellers of Deere (DE) on Nov. 12",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

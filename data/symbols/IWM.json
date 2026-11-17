@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T18:55:01.457035+00:00",
+  "generated_at": "2026-11-17T02:18:37.363211+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 273.27,
-    "change_pct": -1.538516970526782
+    "price": 272.94,
+    "change_pct": -1.65741875045039
   },
   "risk": {
-    "score": 47,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T21:34:00.763530+00:00",
-      "close": 276.48
-    },
     {
       "timestamp": "2026-10-22T00:10:14.645764+00:00",
       "close": 276.48
@@ -502,9 +498,30 @@
     {
       "timestamp": "2026-11-16T18:55:01.457035+00:00",
       "close": 273.27
+    },
+    {
+      "timestamp": "2026-11-17T02:18:37.363211+00:00",
+      "close": 272.94
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-11-16T14:58:10+00:00",
+      "title": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:04:21+00:00",
+      "title": "iShares Russell 2000 (IWM) Buys $56.7 Million More Teekay Tankers on Thursday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,

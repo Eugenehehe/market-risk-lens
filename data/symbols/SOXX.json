@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T18:55:01.457035+00:00",
+  "generated_at": "2026-11-17T02:18:37.363211+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 142.5,
-    "change_pct": -4.55458807769592
+    "price": 141.22,
+    "change_pct": -5.411922304085737
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T21:34:00.763530+00:00",
-      "close": 510.36
-    },
     {
       "timestamp": "2026-10-22T00:10:14.645764+00:00",
       "close": 510.36
@@ -502,21 +498,73 @@
     {
       "timestamp": "2026-11-16T18:55:01.457035+00:00",
       "close": 142.5
+    },
+    {
+      "timestamp": "2026-11-17T02:18:37.363211+00:00",
+      "close": 141.22
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-16T09:00:02+00:00",
-      "title": "AMD Stock Is Falling Monday: What's Going On?",
-      "source": "Benzinga",
+      "timestamp": "2026-11-16T21:39:00+00:00",
+      "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T03:57:41+00:00",
-      "title": "Chip Stocks Have 'Flushed Out Everybody:' Ryan Detrick Calls the 17% SOXX Rebound a Historic 'Buying Thrust'",
-      "source": "Benzinga",
+      "timestamp": "2026-11-16T21:06:10+00:00",
+      "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:04:06+00:00",
+      "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and Broadcom on Nov. 12",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:03:35+00:00",
+      "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:03:29+00:00",
+      "title": "Monolithic Power (MPWR) Sees $56.7 Million in Net ETF Selling on Nov. 12",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:03:19+00:00",
+      "title": "ETFs Are Net Sellers of Analog Devices (ADI) on Thursday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:03:03+00:00",
+      "title": "ETFs Are Net Sellers of Intel (INTC) on Nov. 12",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:02:21+00:00",
+      "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Nov. 12",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

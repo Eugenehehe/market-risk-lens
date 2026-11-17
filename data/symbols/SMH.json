@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T18:55:01.457035+00:00",
+  "generated_at": "2026-11-17T02:18:37.363211+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 465.19,
-    "change_pct": -4.429378531073446
+    "price": 461.9,
+    "change_pct": -5.10529019003596
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-21T21:34:00.763530+00:00",
-      "close": 556.7
-    },
     {
       "timestamp": "2026-10-22T00:10:14.645764+00:00",
       "close": 556.7
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-11-16T18:55:01.457035+00:00",
       "close": 465.19
+    },
+    {
+      "timestamp": "2026-11-17T02:18:37.363211+00:00",
+      "close": 461.9
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-16T21:39:00+00:00",
+      "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T21:06:10+00:00",
+      "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T16:51:48+00:00",
+      "title": "Why AMD Stock Was Sliding Today",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T12:00:00+00:00",
+      "title": "Time to Buy the Dip in NVIDIA Despite Leadership Turmoil? ETFs in Focus",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T11:14:41+00:00",
+      "title": "Nvidia Jitters Caution Wall Street Pre-Bell; Asia Off, Europe Up",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T09:44:05+00:00",
+      "title": "“Behold the Bull-Trap”: Michael Burry Doubles His Nasdaq 100 Puts, Compares October High to March 2000",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-16T09:07:00+00:00",
       "title": "Nvidia Gets 10 Bank Downgrades After Huang Exit: What to Expect Ahead of Q3 Results",
@@ -516,22 +564,6 @@
     {
       "timestamp": "2026-11-16T04:47:02+00:00",
       "title": "Michael Burry's Puts on the Nasdaq-100 Run to April 2027. I'm Not Following Him.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-15T03:33:00+00:00",
-      "title": "Michael Burry sees 2 chip winners in Nvidia’s shake-up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-15T01:34:02+00:00",
-      "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
