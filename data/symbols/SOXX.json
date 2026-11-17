@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:18:37.363211+00:00",
+  "generated_at": "2026-11-17T10:51:30.791623+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 141.22,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T00:10:14.645764+00:00",
-      "close": 510.36
-    },
     {
       "timestamp": "2026-10-22T04:46:05.530906+00:00",
       "close": 510.36
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-17T02:18:37.363211+00:00",
       "close": 141.22
+    },
+    {
+      "timestamp": "2026-11-17T10:51:30.791623+00:00",
+      "close": 141.22
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-17T05:15:16+00:00",
+      "title": "The Bank Of Nvidia Is Closed: Now What?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-16T23:55:00+00:00",
+      "title": "Nvidia Tugs Market Lower Again",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-16T21:39:00+00:00",
       "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-16T11:03:19+00:00",
       "title": "ETFs Are Net Sellers of Analog Devices (ADI) on Thursday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:03:03+00:00",
-      "title": "ETFs Are Net Sellers of Intel (INTC) on Nov. 12",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:02:21+00:00",
-      "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Nov. 12",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
