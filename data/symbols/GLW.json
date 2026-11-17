@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T10:51:30.791623+00:00",
+  "generated_at": "2026-11-17T19:28:49.818465+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 106.17,
-    "change_pct": -6.933730715287512
+    "price": 107.08,
+    "change_pct": 0.8571159461241429
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 57,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T04:46:05.530906+00:00",
-      "close": 134.92
-    },
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 134.92
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-17T10:51:30.791623+00:00",
       "close": 106.17
+    },
+    {
+      "timestamp": "2026-11-17T19:28:49.818465+00:00",
+      "close": 107.08
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-17T07:08:00+00:00",
-      "title": "Zacks.com featured highlights include NVIDIA, J.M. Smucker, Taiwan Semiconductor, Corning, Lockheed and Cardinal Health",
+      "timestamp": "2026-11-17T15:26:07+00:00",
+      "title": "A $22 Billion Hedge Fund Dumps These 3 Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T20:05:54+00:00",
-      "title": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
+      "timestamp": "2026-11-17T15:04:44+00:00",
+      "title": "Lumentum, Corning, and other optical-related stocks jump on Chinese import restrictions",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T13:39:58+00:00",
+      "title": "Coherent and Lumentum Shares Rise as US Advances Restrictions on Chinese Data Centre Equipment",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T13:35:59+00:00",
+      "title": "S&P 500 Premarket Movers on Nov. 17: Gainers and Losers",
       "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T17:36:11+00:00",
-      "title": "Today's S&P 500 Top Movers: Tyson Foods Leads Gainers, Lumentum Leads Decliners",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T16:19:00+00:00",
-      "title": "Amphenol Rises 16% YTD: Will the Rally Continue on Strong AI Demand?",
+      "timestamp": "2026-11-17T13:01:32+00:00",
+      "title": "Coherent, Lumentum jump as US presses ahead with China equipment curbs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T15:37:51+00:00",
-      "title": "Caterpillar Gets Swept Up in a $4.2 Trillion Market Rout",
+      "timestamp": "2026-11-17T12:07:00+00:00",
+      "title": "Nvidia, Home Depot, SpaceX, Sandisk, Disney, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T15:07:00+00:00",
-      "title": "5 Dividend Growth Stocks to Buy as NVDA CEO Resignation Rattles Market",
+      "timestamp": "2026-11-17T11:29:48+00:00",
+      "title": "Can Amphenol Afford Its $4 Billion Buyback?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T15:02:00+00:00",
-      "title": "Can GLW Benefit From Rising Demand for Advanced Automotive Materials?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T14:10:00+00:00",
-      "title": "GLW vs. ANET: Which AI Stock is the Smarter Investment Option Now?",
+      "timestamp": "2026-11-17T10:38:56+00:00",
+      "title": "Amphenol Fell Nearly 6%, But Orders Hit $12 Billion",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

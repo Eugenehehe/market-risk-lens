@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T10:51:30.791623+00:00",
+  "generated_at": "2026-11-17T19:28:49.818465+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 461.9,
-    "change_pct": -5.10529019003596
+    "price": 454.78,
+    "change_pct": -1.5414591903009311
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 63,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T04:46:05.530906+00:00",
-      "close": 556.7
-    },
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 556.7
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-17T10:51:30.791623+00:00",
       "close": 461.9
+    },
+    {
+      "timestamp": "2026-11-17T19:28:49.818465+00:00",
+      "close": 454.78
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-17T09:27:59+00:00",
+      "title": "Stocks To Buy While AI Is Plunging",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T09:21:38+00:00",
+      "title": "The Rotation Trade: Chasing Another Bubble",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T09:11:14+00:00",
+      "title": "Has The AI Bubble Popped?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T08:20:00+00:00",
+      "title": "Anthropic's $1 Trillion-Plus IPO: What It Tells Us About The AI Trade",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T05:31:35+00:00",
+      "title": "What A Landmark AI IPO Means For Chips In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-16T23:55:00+00:00",
       "title": "Nvidia Tugs Market Lower Again",
@@ -525,46 +565,6 @@
       "timestamp": "2026-11-16T21:06:10+00:00",
       "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T16:51:48+00:00",
-      "title": "Why AMD Stock Was Sliding Today",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T12:00:00+00:00",
-      "title": "Time to Buy the Dip in NVIDIA Despite Leadership Turmoil? ETFs in Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:14:41+00:00",
-      "title": "Nvidia Jitters Caution Wall Street Pre-Bell; Asia Off, Europe Up",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T09:44:05+00:00",
-      "title": "“Behold the Bull-Trap”: Michael Burry Doubles His Nasdaq 100 Puts, Compares October High to March 2000",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T09:07:00+00:00",
-      "title": "Nvidia Gets 10 Bank Downgrades After Huang Exit: What to Expect Ahead of Q3 Results",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

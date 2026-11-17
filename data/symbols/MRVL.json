@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T10:51:30.791623+00:00",
+  "generated_at": "2026-11-17T19:28:49.818465+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 145.36,
-    "change_pct": -7.272263332482765
+    "price": 145.61,
+    "change_pct": 0.17198679141441353
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 52,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T04:46:05.530906+00:00",
-      "close": 244.76
-    },
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 244.76
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-17T10:51:30.791623+00:00",
       "close": 145.36
+    },
+    {
+      "timestamp": "2026-11-17T19:28:49.818465+00:00",
+      "close": 145.61
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-16T22:02:13+00:00",
-      "title": "5 Unstoppable Stocks to Buy According to Analysts",
+      "timestamp": "2026-11-17T17:05:01+00:00",
+      "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I’d Buy.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T19:29:54+00:00",
-      "title": "What Mattered Most In Cerebras's Latest Quarter?",
+      "timestamp": "2026-11-17T16:33:34+00:00",
+      "title": "Wall Street Is Watching Nvidia. This AI Stock Deserves Attention Too",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T19:26:52+00:00",
-      "title": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
+      "timestamp": "2026-11-17T16:29:00+00:00",
+      "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T19:12:07+00:00",
-      "title": "Marvell Technology (MRVL) Adds Three Directors After AI Memory Reveal At SC26",
+      "timestamp": "2026-11-17T15:33:57+00:00",
+      "title": "Nvidia Isn’t the Whole AI Story. This Stock Could Prove It",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T19:06:03+00:00",
-      "title": "Today's Most-Active S&P 500 Stocks: Ford Leads Volume as SMCI and Micron Fall",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T18:40:02+00:00",
-      "title": "Why Marvell Stock Is Down Today",
+      "timestamp": "2026-11-17T14:40:49+00:00",
+      "title": "What Sent Marvell Stock Down Over 7%?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T18:06:59+00:00",
-      "title": "Top 5 Stocks that Have Survived Major Founder Transitions",
+      "timestamp": "2026-11-17T14:40:49+00:00",
+      "title": "Why Is Astera Labs Stock Falling Again?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T18:02:30+00:00",
-      "title": "5 Stocks to Buy as Investors Look Beyond NVIDIA",
+      "timestamp": "2026-11-17T14:40:49+00:00",
+      "title": "What Is Behind AMD Stock's Nearly 6% Slide?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T14:17:51+00:00",
+      "title": "Coherent Jumps 8%, Applied Optoelectronics Climbs 7% as U.S. Pushes Ahead With Curbs on Chinese Optical Gear; Lumentum Gains 4%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

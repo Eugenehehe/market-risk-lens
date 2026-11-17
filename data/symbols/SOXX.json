@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T10:51:30.791623+00:00",
+  "generated_at": "2026-11-17T19:28:49.818465+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 141.22,
-    "change_pct": -5.411922304085737
+    "price": 139.5,
+    "change_pct": -1.2179577963461252
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 60,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T04:46:05.530906+00:00",
-      "close": 510.36
-    },
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 510.36
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-11-17T10:51:30.791623+00:00",
       "close": 141.22
+    },
+    {
+      "timestamp": "2026-11-17T19:28:49.818465+00:00",
+      "close": 139.5
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-17T10:20:39+00:00",
+      "title": "Big Short Investor Steve Eisman Discusses Why Non-AI Tech Stocks Could Benefit As AI Spending Stops 'Taking the Oxygen Out of the Room'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T08:20:00+00:00",
+      "title": "Anthropic's $1 Trillion-Plus IPO: What It Tells Us About The AI Trade",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T05:31:35+00:00",
+      "title": "What A Landmark AI IPO Means For Chips In 2027",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-17T05:15:16+00:00",
       "title": "The Bank Of Nvidia Is Closed: Now What?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T04:40:59+00:00",
+      "title": "AI ‘Like Wheat’ Could Become the ‘Lifeblood of Our Economy’ — Essential but Not Very Profitable, Says Economist Justin Wolfers",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T03:50:19+00:00",
+      "title": "NVDA's ‘Black Eye Moment’: Dan Ives Says Losing Jensen Huang Is a ‘Dream Scenario for China,’ But Won’t Stop $4 Trillion AI Spending Theme",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-11-16T21:39:00+00:00",
       "title": "NVIDIA After Jensen: What's Next for the AI Trade?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T21:06:10+00:00",
-      "title": "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:04:06+00:00",
-      "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and Broadcom on Nov. 12",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:03:35+00:00",
-      "title": "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:03:29+00:00",
-      "title": "Monolithic Power (MPWR) Sees $56.7 Million in Net ETF Selling on Nov. 12",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T11:03:19+00:00",
-      "title": "ETFs Are Net Sellers of Analog Devices (ADI) on Thursday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

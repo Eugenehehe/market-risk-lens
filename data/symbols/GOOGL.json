@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T10:51:30.791623+00:00",
+  "generated_at": "2026-11-17T19:28:49.818465+00:00",
   "snapshot": {
     "symbol": "GOOGL",
-    "price": 283.72,
-    "change_pct": -4.074111640801958
+    "price": 280.76,
+    "change_pct": -1.0432821091216793
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 59,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GOOGL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T00:10:14.645764+00:00",
-      "close": 334.76
-    },
     {
       "timestamp": "2026-10-22T04:46:05.530906+00:00",
       "close": 334.76
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-17T02:18:37.363211+00:00",
       "close": 283.72
+    },
+    {
+      "timestamp": "2026-11-17T19:28:49.818465+00:00",
+      "close": 280.76
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-17T00:53:01+00:00",
-      "title": "Warren Buffett's Successor, Greg Abel, Overhauled Berkshire's Portfolio for a 3rd Straight Quarter, Reducing 6 Stocks and Piling Into a Hot Tech IPO",
+      "timestamp": "2026-11-17T17:47:32+00:00",
+      "title": "Stanley Druckenmiller Owned $120 Million of Google in June and Zero by Sept. 30",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T00:07:04+00:00",
-      "title": "Brad Gerstner Says AI Is at Its ‘Google 2005’ Moment. Here’s Who He Thinks Wins",
+      "timestamp": "2026-11-17T17:45:08+00:00",
+      "title": "Who Reaches $100 Billion in TPU Revenue First, Alphabet or Broadcom?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T23:41:19+00:00",
-      "title": "Christian Muche of POSSIBLE Makes Room for Marketing’s Ever-Growing Guest List",
+      "timestamp": "2026-11-17T17:31:33+00:00",
+      "title": "Rival Chipmakers Reportedly Chip Away At Nvidia Customers Since Jensen Huang’s Exit",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T23:12:59+00:00",
-      "title": "Broadcom Is “the Best Play” on Nvidia’s CEO Exit, One Investor Argues. The Reason Is China",
+      "timestamp": "2026-11-17T17:21:45+00:00",
+      "title": "Does Nvidia Have Another 10x Run In It?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T23:09:00+00:00",
-      "title": "David Tepper’s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake",
+      "timestamp": "2026-11-17T17:21:45+00:00",
+      "title": "Will Nvidia Guide Q4 Tonight? 3 Scenarios",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T22:44:00+00:00",
-      "title": "Michael Burry Buys More Of Adobe And MercadoLibre, Exits ORCL, CAT Puts",
+      "timestamp": "2026-11-17T17:21:25+00:00",
+      "title": "Bernstein Cut Its Constellation Energy Target to $293. It Still Sees 5% Upside",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T22:39:00+00:00",
-      "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
+      "timestamp": "2026-11-17T17:21:06+00:00",
+      "title": "Update: Market Chatter: Amazon, Google, Meta Lobbying Fails to Stop Trump From Pursuing China Data Center Curbs",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T22:14:05+00:00",
-      "title": "Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought",
+      "timestamp": "2026-11-17T17:15:00+00:00",
+      "title": "Isomorphic Labs raises $5 billion as AI drug developer targets clinical trials",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "GOOGL live fetch failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Keeping previous snapshot."
+  "narrative": "GOOGL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }

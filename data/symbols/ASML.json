@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T10:51:30.791623+00:00",
+  "generated_at": "2026-11-17T19:28:49.818465+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1406.785,
-    "change_pct": -5.910738650044145
+    "price": 1360.41,
+    "change_pct": -3.2965236336753634
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T04:46:05.530906+00:00",
-      "close": 1676.69
-    },
     {
       "timestamp": "2026-10-22T09:41:02.949567+00:00",
       "close": 1676.69
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-11-17T10:51:30.791623+00:00",
       "close": 1406.785
+    },
+    {
+      "timestamp": "2026-11-17T19:28:49.818465+00:00",
+      "close": 1360.41
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-17T14:48:31+00:00",
+      "title": "5 Best Blue Chip Stocks to Buy and Hold for 3 Years",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T13:25:00+00:00",
+      "title": "ASML vs. Lam Research: Which Chipmaking Stock is the Better Buy Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T11:53:09+00:00",
+      "title": "European chip stocks fall after new U.S. curbs on AI chip access",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T09:02:32+00:00",
+      "title": "Billionaire David Tepper Slashes Alphabet Stake by 46% and Initiates $172M Bet on Oracle",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-17T08:38:21+00:00",
       "title": "European shares slip on fresh U.S. chip curbs",
@@ -530,33 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-16T13:30:04+00:00",
-      "title": "Is It Worth Investing in ASML (ASML) Based on Wall Street's Bullish Views?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T13:00:00+00:00",
-      "title": "ASML reports transactions under its current share buyback program",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T10:06:24+00:00",
-      "title": "EXCLUSIVE: Huang’s Exit Echoes Profumo, but Intelligence Expert Says Chip CEOs Are the New Spy Targets",
+      "timestamp": "2026-11-16T16:52:48+00:00",
+      "title": "Tech Stocks Wipe Out $960 Billion as Washington Shuts China's AI Chip Back Door in 5 Countries",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T09:32:02+00:00",
-      "title": "Prediction: Berkshire Hathaway Could Use Its $377.4 Billion of Cash to Buy This Monopoly Artificial Intelligence (AI) Stock Next",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
