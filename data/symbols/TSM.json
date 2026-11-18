@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:49:32.251854+00:00",
+  "generated_at": "2026-11-18T09:16:43.180562+00:00",
   "snapshot": {
     "symbol": "TSM",
     "price": 359.69,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T14:41:20.376802+00:00",
-      "close": 416.36
-    },
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 411.18
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-18T01:49:32.251854+00:00",
       "close": 359.69
+    },
+    {
+      "timestamp": "2026-11-18T09:16:43.180562+00:00",
+      "close": 359.69
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-18T02:38:42+00:00",
+      "title": "TSMC: The Biggest Loser From The Nvidia Debacle (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-17T22:52:53+00:00",
       "title": "Nvidia Is Only 17% of SMH. After Its Beat, the Chip ETF Jumped Almost as Much as Nvidia Did",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-17T18:52:28+00:00",
       "title": "Beyond NVIDIA & Anthropic: 3 Important Stock Catalysts to Watch Into December",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T18:30:22+00:00",
-      "title": "Nvidia: Blowout Earnings, Huge Guidance, Insane 0.2x PEG",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

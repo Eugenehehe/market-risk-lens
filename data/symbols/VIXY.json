@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T01:49:32.251854+00:00",
+  "generated_at": "2026-11-18T09:16:43.180562+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 21.01,
     "change_pct": 7.413087934560347
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T14:41:20.376802+00:00",
-      "close": 17.75
-    },
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 17.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-18T01:49:32.251854+00:00",
       "close": 21.01
+    },
+    {
+      "timestamp": "2026-11-18T09:16:43.180562+00:00",
+      "close": 21.01
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-17T22:55:00+00:00",
+      "title": "Nvidia's Earnings And Guidance Soothe Investor Worries",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-16T23:55:00+00:00",
       "title": "Nvidia Tugs Market Lower Again",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:49:32.251854+00:00",
+  "generated_at": "2026-11-18T09:16:43.180562+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 141.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T14:41:20.376802+00:00",
-      "close": 484.28
-    },
     {
       "timestamp": "2026-10-22T18:51:16.127318+00:00",
       "close": 476.94
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-18T01:49:32.251854+00:00",
       "close": 141.46
+    },
+    {
+      "timestamp": "2026-11-18T09:16:43.180562+00:00",
+      "close": 141.46
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-17T22:55:00+00:00",
+      "title": "Nvidia's Earnings And Guidance Soothe Investor Worries",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-17T20:42:47+00:00",
       "title": "Nvidia Drags S&P 500, Tech Stocks Lower as Earnings Approach",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-17T11:02:29+00:00",
       "title": "ETFs Are Net Sellers of Astera Labs (ALAB) on Friday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T11:02:23+00:00",
-      "title": "ETFs Are Net Sellers of Credo Technology (CRDO) on Nov. 13",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
