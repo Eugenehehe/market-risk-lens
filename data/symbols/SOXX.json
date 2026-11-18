@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T09:16:43.180562+00:00",
+  "generated_at": "2026-11-18T18:12:01.116044+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 141.46,
-    "change_pct": 0.16994759949016114
+    "price": 140.5,
+    "change_pct": -0.6786370705499811
   },
   "risk": {
-    "score": 52,
+    "score": 56,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T18:51:16.127318+00:00",
-      "close": 476.94
-    },
     {
       "timestamp": "2026-10-22T21:58:57.471596+00:00",
       "close": 475.69
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-18T09:16:43.180562+00:00",
       "close": 141.46
+    },
+    {
+      "timestamp": "2026-11-18T18:12:01.116044+00:00",
+      "close": 140.5
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-17T22:55:00+00:00",
-      "title": "Nvidia's Earnings And Guidance Soothe Investor Worries",
+      "timestamp": "2026-11-18T11:12:42+00:00",
+      "title": "Peter Thiel Sold Every Utility Stock He Owned and Bet $161 Million on One Chip ETF. It’s Down $37 Million Since",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T11:04:32+00:00",
+      "title": "What iShares PHLX SOX Semi Index Fund (SOXX) Sold: AMD Leads on Nov. 16",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T11:03:10+00:00",
+      "title": "ETFs Are Net Sellers of Analog Devices (ADI) on Nov. 16",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T11:02:58+00:00",
+      "title": "ETFs Are Net Sellers of ASML (ASML) on Monday",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T11:02:45+00:00",
+      "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 16",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T08:53:43+00:00",
+      "title": "Why Is Broadcom Stock Gaining Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T08:15:20+00:00",
+      "title": "Why Is AMD Stock Gaining Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T06:29:28+00:00",
+      "title": "SMH: Another Buy The Dip Moment",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T20:42:47+00:00",
-      "title": "Nvidia Drags S&P 500, Tech Stocks Lower as Earnings Approach",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T20:19:00+00:00",
-      "title": "Nvidia Lost Jensen Huang. Trump Is Adding to AI Stocks’ Risks.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T18:47:00+00:00",
-      "title": "Nvidia Has Fallen 18% Since the Jensen Huang Scandal Broke and the Biggest Chip ETF Barely Moved. Here’s What Tonight’s Report Does to SMH, SOXX, SOXL and NVDL",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T14:04:56+00:00",
-      "title": "Chip Stocks Are Having Their Worst Two Months Since 2008",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T13:37:38+00:00",
-      "title": "Stock Market Today: Nvidia’s Board Shuts the Door on Huang as Chip Stocks Sink Before a Make-or-Break AI Week",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T11:02:49+00:00",
-      "title": "ETFs Are Net Sellers of Intel (INTC) on Friday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T11:02:29+00:00",
-      "title": "ETFs Are Net Sellers of Astera Labs (ALAB) on Friday",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

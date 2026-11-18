@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T09:16:43.180562+00:00",
+  "generated_at": "2026-11-18T18:12:01.116044+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 359.69,
-    "change_pct": -3.684562859820595
+    "price": 359.62,
+    "change_pct": -0.01946120270231999
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 51,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T18:51:16.127318+00:00",
-      "close": 411.18
-    },
     {
       "timestamp": "2026-10-22T21:58:57.471596+00:00",
       "close": 412.35
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-18T09:16:43.180562+00:00",
       "close": 359.69
+    },
+    {
+      "timestamp": "2026-11-18T18:12:01.116044+00:00",
+      "close": 359.62
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-18T02:38:42+00:00",
-      "title": "TSMC: The Biggest Loser From The Nvidia Debacle (Rating Downgrade)",
+      "timestamp": "2026-11-18T11:50:00+00:00",
+      "title": "If You Have $1,000 to Invest in December, These 3 Stocks Are Built to Last a Decade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T11:02:45+00:00",
+      "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 16",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T10:00:00+00:00",
+      "title": "Investor Stanley Druckenmiller Is in “Capital Preservation” Mode. What Did He Sell?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T09:57:07+00:00",
+      "title": "U.S. Department Of Commerce Issues Interim Final Rule To Prevent Certain Foreign Actors From Leveraging Advanced Computing Power Based On U.S. Technology To Threaten U.S. National Security And Foreign Policy Interests",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T08:50:37+00:00",
+      "title": "Nvidia: The Future Won't Be As Bright As Its Past (Rating Downgrade)",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T22:52:53+00:00",
-      "title": "Nvidia Is Only 17% of SMH. After Its Beat, the Chip ETF Jumped Almost as Much as Nvidia Did",
-      "source": "Yahoo",
+      "timestamp": "2026-11-18T08:31:45+00:00",
+      "title": "Nvidia Is A Strong Buy - The Huang Affair Overreaction Is Fully Priced In",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T22:18:00+00:00",
-      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-      "source": "Yahoo",
+      "timestamp": "2026-11-18T07:05:00+00:00",
+      "title": "Beyond Nvidia And Anthropic: 3 Important Stock Catalysts To Watch Into December",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T22:01:59+00:00",
-      "title": "AMD, Broadcom, CoreWeave stocks rise on Nvidia earnings beat",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T20:21:55+00:00",
-      "title": "Surging AI Demand and Advanced Chipmaking Strengthens Taiwan Semiconductor Manufacturing Company Limited (TSM) Growth Outlook",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T19:10:12+00:00",
-      "title": "The 5 Best Stocks in George Soros’s Portfolio",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T19:01:03+00:00",
-      "title": "TSMC Stocks Fall 4.26% as New US Rule Tightens Checks on Chip Foundries",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T18:52:28+00:00",
-      "title": "Beyond NVIDIA & Anthropic: 3 Important Stock Catalysts to Watch Into December",
-      "source": "Yahoo",
+      "timestamp": "2026-11-18T06:23:03+00:00",
+      "title": "The AI Trade Will Move On Without Jensen Huang",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

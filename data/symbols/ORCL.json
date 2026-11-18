@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T09:16:43.180562+00:00",
+  "generated_at": "2026-11-18T18:12:01.116044+00:00",
   "snapshot": {
     "symbol": "ORCL",
-    "price": 115,
-    "change_pct": -3.4343773616592466
+    "price": 114.37,
+    "change_pct": -0.5478260869565155
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 55,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ORCL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T18:51:16.127318+00:00",
-      "close": 124.02
-    },
     {
       "timestamp": "2026-10-22T21:58:57.471596+00:00",
       "close": 125.54
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-18T09:16:43.180562+00:00",
       "close": 115
+    },
+    {
+      "timestamp": "2026-11-18T18:12:01.116044+00:00",
+      "close": 114.37
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-18T01:09:50+00:00",
-      "title": "Shots Fired: Musk Says SpaceX Assumes “Zero Sales to OpenAI.” AMD Can’t Say the Same",
+      "timestamp": "2026-11-18T15:30:00+00:00",
+      "title": "Cloud Computing Market to Reach USD 5,946.84 Billion by 2035 as AI Workloads Drive Record Growth and Backlogs at AWS, Microsoft, Google and Oracle",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-18T01:05:26+00:00",
-      "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
+      "timestamp": "2026-11-18T15:08:00+00:00",
+      "title": "Global Financial Management Market Report 2026: Size, Trends, and Forecast to 2030 | Capitalize on AI and cloud growth with Microsoft, Oracle, SAP, Workday, and Intuit",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T20:08:54+00:00",
-      "title": "IBM Is Down 21% This Year. What Will It Take to Get IBM Stock Back to $250?",
+      "timestamp": "2026-11-18T15:06:00+00:00",
+      "title": "Artificial Intelligence (AI) in Logistics Automation Global Market Report 2026 | Capture 34.1% CAGR to $53.14B by 2030 with Amazon Robotics, Oracle, Siemens and ABB",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T19:06:08+00:00",
-      "title": "S&P 500 Most Active Stocks for Nov. 17, 2026",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T18:15:37+00:00",
-      "title": "Nvidia: Why Jensen Huang's Departure Can Be Good For AI",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T18:07:04+00:00",
-      "title": "SPCX Stock In Focus: SpaceX To Reportedly Launch $4B Bond Sale This Week",
+      "timestamp": "2026-11-18T15:05:00+00:00",
+      "title": "Artificial Intelligence (AI) in Reverse Logistics Market Report 2026 | Capitalize on AI Returns and Circular Commerce Through 2030 with Microsoft, IBM, Oracle, SAP and Honeywell",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T18:00:00+00:00",
-      "title": "The Fed’s first close look at the AI buildout finds $3 trillion of AI commitments that aren’t on big tech’s balance sheet as debt",
+      "timestamp": "2026-11-18T15:04:00+00:00",
+      "title": "Global Asset Tracking Artificial Intelligence (AI) Market Report 2026 | Capture 18.9% CAGR as Verizon, Cisco, Oracle, and Zebra Scale IoT, Edge AI, and Digital Twins to 2030",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-17T17:47:37+00:00",
-      "title": "Michael Burry Makes Bold Bet on Beaten-Down AI Software Stock",
+      "timestamp": "2026-11-18T15:02:19+00:00",
+      "title": "CoreWeave Falls 5% Despite NVIDIA Sticking to Its Financing Commitments; Nebius Dips, Oracle Holds Steady",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T14:50:17+00:00",
+      "title": "Should Okta Stock Holders Look At Salesforce Instead?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T14:49:00+00:00",
+      "title": "Global Core Network Equipment Market Report 2026-2030 | Capitalize on 7.2% CAGR as 5G Standalone and Cloud-Native Cores Accelerate; Ericsson, Huawei, Nokia, Cisco, and Samsung Lead",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
