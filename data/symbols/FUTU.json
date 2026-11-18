@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T19:28:49.818465+00:00",
+  "generated_at": "2026-11-18T01:49:32.251854+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 87.46,
-    "change_pct": -4.5196506550218345
+    "price": 86.89,
+    "change_pct": -5.141921397379912
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T09:41:02.949567+00:00",
-      "close": 105.03
-    },
     {
       "timestamp": "2026-10-22T14:41:20.376802+00:00",
       "close": 100.64
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-17T19:28:49.818465+00:00",
       "close": 87.46
+    },
+    {
+      "timestamp": "2026-11-18T01:49:32.251854+00:00",
+      "close": 86.89
     }
   ],
   "events": [
@@ -509,14 +509,6 @@
       "timestamp": "2026-11-16T12:04:57+00:00",
       "title": "Bullish shares are trading lower after Rosenblatt downgraded its rating on the stock from Buy to Neutral.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-15T10:09:00+00:00",
-      "title": "3 UK Brokerage Stocks In Focus As Anthropic IPO Nears",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

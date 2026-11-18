@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T19:28:49.818465+00:00",
+  "generated_at": "2026-11-18T01:49:32.251854+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 731.33,
-    "change_pct": -1.16494357726874
+    "price": 732.44,
+    "change_pct": -1.0149334414487399
   },
   "risk": {
-    "score": 60,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T09:41:02.949567+00:00",
-      "close": 773.09
-    },
     {
       "timestamp": "2026-10-22T14:41:20.376802+00:00",
       "close": 762.58
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-17T19:28:49.818465+00:00",
       "close": 731.33
+    },
+    {
+      "timestamp": "2026-11-18T01:49:32.251854+00:00",
+      "close": 732.44
     }
   ],
   "events": [
@@ -509,6 +509,30 @@
       "timestamp": "2026-11-17T18:02:20+00:00",
       "title": "Bill Ackman Cut His Microsoft Stake. Your S&P 500 Fund Can’t.",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T16:52:26+00:00",
+      "title": "AXA: Attractive Income, Limited Capital Appreciation Potential",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T16:22:50+00:00",
+      "title": "The Resignation Of Nvidia's CEO Is Not As Significant As The Market Thinks",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-17T15:54:23+00:00",
+      "title": "DBMF: Insurance For When The 60/40 Falters",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -530,41 +554,17 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-17T13:37:38+00:00",
+      "title": "Stock Market Today: Nvidia’s Board Shuts the Door on Huang as Chip Stocks Sink Before a Make-or-Break AI Week",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-17T13:28:19+00:00",
       "title": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T13:24:03+00:00",
-      "title": "Cathie Wood and Jim Cramer Agree on These 5 Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T13:02:59+00:00",
-      "title": "How Much Does a 70-Year-Old Couple Give Up Leaving a $300,000 Annuity Before the Surrender Period Ends?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T12:37:51+00:00",
-      "title": "The Overlooked JPMorgan ETF That Owns Nearly 300 of the Market’s Strongest Stocks for 0.12%",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T12:36:51+00:00",
-      "title": "Financing The AI Buildout: An Increasingly Heavy Lift",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
