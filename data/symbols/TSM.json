@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T16:50:35.840656+00:00",
+  "generated_at": "2026-11-19T23:18:11.618060+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 362.85,
-    "change_pct": 0.06342727924548708
+    "price": 352.09,
+    "change_pct": -2.903866306326186
   },
   "risk": {
-    "score": 51,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T10:12:48.598377+00:00",
-      "close": 412.35
-    },
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 419.22
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-19T16:50:35.840656+00:00",
       "close": 362.85
+    },
+    {
+      "timestamp": "2026-11-19T23:18:11.618060+00:00",
+      "close": 352.09
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-19T17:51:44+00:00",
+      "title": "Beyond The Anthropic IPO: Top AI Stocks For The Next Phase Of The Secular Bull",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-19T13:35:17+00:00",
       "title": "Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
@@ -514,9 +522,25 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-19T13:31:51+00:00",
+      "title": "Has Nvidia Peaked? TheTechTalk Podcast Episode 3",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-19T13:20:51+00:00",
       "title": "$1 Million In SMH Five Years Ago: What Is It Worth Now?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T12:53:00+00:00",
+      "title": "AI Cash Kings: Why This Chip Giant's Fundamentals Defy The Selloff",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -541,30 +565,6 @@
       "timestamp": "2026-11-19T11:27:21+00:00",
       "title": "TSMC Stock Falls 5% on China Chip Pause: What Is at Risk?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:04:50+00:00",
-      "title": "iShares A.I. Innovation and Tech Active ETF (BAI) Adds AMD and Broadcom on Nov. 17",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:02:27+00:00",
-      "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 17",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T10:39:24+00:00",
-      "title": "Don't Buy The Anthropic IPO: Buy These 3 Stocks Instead",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

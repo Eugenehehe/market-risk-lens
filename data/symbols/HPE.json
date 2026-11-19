@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T16:50:35.840656+00:00",
+  "generated_at": "2026-11-19T23:18:11.618060+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 47.4,
-    "change_pct": 3.5386631716906924
+    "price": 45.49,
+    "change_pct": -0.6334643949322816
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 56,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T10:12:48.598377+00:00",
-      "close": 55.47
-    },
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 57.12
@@ -502,12 +498,32 @@
     {
       "timestamp": "2026-11-19T16:50:35.840656+00:00",
       "close": 47.4
+    },
+    {
+      "timestamp": "2026-11-19T23:18:11.618060+00:00",
+      "close": 45.49
     }
   ],
   "events": [
     {
       "timestamp": "2026-11-19T15:20:26+00:00",
       "title": "Everpure Soars 12% on 51% Growth and Third Guidance Raise as CEO Sees “A Market Share Game”",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T15:04:00+00:00",
+      "title": "Should Investors Buy, Sell or Hold HPE Stock Before Q4 Earnings?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T14:59:00+00:00",
+      "title": "Can Healthy Top-Line Growth Benefit Workday's Q3 Earnings?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-18T22:58:01+00:00",
       "title": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T21:36:12+00:00",
-      "title": "AI agent swarms could turn major outages into identity risks: Anthropic investor",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T21:05:00+00:00",
-      "title": "HPE Names Jennifer Nason to Board of Directors",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

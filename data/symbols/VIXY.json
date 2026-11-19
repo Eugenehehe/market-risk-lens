@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T16:50:35.840656+00:00",
+  "generated_at": "2026-11-19T23:18:11.618060+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 20.71,
-    "change_pct": 1.5196078431372717
+    "price": 22.88,
+    "change_pct": 12.15686274509804
   },
   "risk": {
-    "score": 49,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T10:12:48.598377+00:00",
-      "close": 17.7
-    },
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 17.98
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-19T16:50:35.840656+00:00",
       "close": 20.71
+    },
+    {
+      "timestamp": "2026-11-19T23:18:11.618060+00:00",
+      "close": 22.88
     }
   ],
   "events": [

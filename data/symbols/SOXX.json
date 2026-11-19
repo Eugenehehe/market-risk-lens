@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T16:50:35.840656+00:00",
+  "generated_at": "2026-11-19T23:18:11.618060+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 143.67,
-    "change_pct": 1.283045470567501
+    "price": 137.95,
+    "change_pct": -2.7493831512160782
   },
   "risk": {
-    "score": 61,
+    "score": 72,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T10:12:48.598377+00:00",
-      "close": 475.69
-    },
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 482.19
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-19T16:50:35.840656+00:00",
       "close": 143.67
+    },
+    {
+      "timestamp": "2026-11-19T23:18:11.618060+00:00",
+      "close": 137.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-19T17:51:44+00:00",
+      "title": "Beyond The Anthropic IPO: Top AI Stocks For The Next Phase Of The Secular Bull",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T16:25:00+00:00",
+      "title": "Signs Of Forced Liquidation. 'Sell What You Can' To Cover Margin Calls",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T13:31:51+00:00",
+      "title": "Has Nvidia Peaked? TheTechTalk Podcast Episode 3",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-19T13:20:51+00:00",
       "title": "$1 Million In SMH Five Years Ago: What Is It Worth Now?",
@@ -540,30 +564,6 @@
     {
       "timestamp": "2026-11-19T11:03:44+00:00",
       "title": "ETFs Are Net Sellers of Micron Technology (MU) on Nov. 17",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:03:34+00:00",
-      "title": "ETFs Are Net Sellers of Applied Materials (AMAT) on Nov. 17",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:03:28+00:00",
-      "title": "ETFs Are Net Sellers of Advanced Micro Devices (AMD) on Nov. 17",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:02:59+00:00",
-      "title": "ETFs Are Net Sellers of Intel (INTC) on Tuesday",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

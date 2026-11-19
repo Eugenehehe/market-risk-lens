@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T16:50:35.840656+00:00",
+  "generated_at": "2026-11-19T23:18:11.618060+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 110.53,
-    "change_pct": 2.2006472491909346
+    "price": 105.97,
+    "change_pct": -2.0157189089228034
   },
   "risk": {
-    "score": 68,
+    "score": 67,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T10:12:48.598377+00:00",
-      "close": 123.99
-    },
     {
       "timestamp": "2026-10-23T15:08:28.042420+00:00",
       "close": 125.1
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-19T16:50:35.840656+00:00",
       "close": 110.53
+    },
+    {
+      "timestamp": "2026-11-19T23:18:11.618060+00:00",
+      "close": 105.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-19T16:10:55+00:00",
+      "title": "A $7.4 Billion Fund Dumps These 3 Stocks",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T16:09:12+00:00",
+      "title": "Corning (GLW) Stock Looks Like A Bargain On Cash Flow",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-19T15:17:47+00:00",
       "title": "How Data Center Permitting and Supply Limits Impacted Corning (GLW)",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-19T07:46:04+00:00",
       "title": "Coherent shares are trading higher after the company announced it will join the S&P 500 index, effective March 23.",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T05:06:08+00:00",
-      "title": "Corning: Stronger Earnings And A Much More Attractive Valuation (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T01:00:13+00:00",
-      "title": "Corning CEO on working with Steve Jobs to make screens for the first iPhone",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
