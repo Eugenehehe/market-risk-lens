@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:25:29.384594+00:00",
+  "generated_at": "2026-11-19T07:45:44.816069+00:00",
   "snapshot": {
     "symbol": "SPY",
     "price": 730.2,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T00:32:06.128452+00:00",
-      "close": 763.96
-    },
     {
       "timestamp": "2026-10-23T05:16:47.557896+00:00",
       "close": 763.96
@@ -502,12 +498,48 @@
     {
       "timestamp": "2026-11-19T00:25:29.384594+00:00",
       "close": 730.2
+    },
+    {
+      "timestamp": "2026-11-19T07:45:44.816069+00:00",
+      "close": 730.2
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-19T06:10:52+00:00",
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T23:53:42+00:00",
+      "title": "SCHD: Up 31% In A Year, But The Dividend Grew Only 2%",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-18T23:02:24+00:00",
       "title": "Two Retirees Each Hold $500,000 in a 401(k) Index Fund as Nvidia’s CFO Takes the Wheel. One Has About $28,950 Riding on a Single Stock. The Other Has About $1,000",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T22:16:27+00:00",
+      "title": "SCD: Dividend-Growth Stocks Help This Fund Provide Investors With Real Income Growth (Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T21:56:43+00:00",
+      "title": "S&P 500 Breaks Critical Support: Is a Bigger Stock Market Crash Coming?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -532,38 +564,6 @@
     {
       "timestamp": "2026-11-18T17:31:03+00:00",
       "title": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T17:16:22+00:00",
-      "title": "Cathie Wood Was Right About These 5 Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T16:52:44+00:00",
-      "title": "This AI Wave Is Spent - Time To Wait For The Next",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T16:25:28+00:00",
-      "title": "SCHD Is Having Its Best Year Since 2013. What Happens Next Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T15:21:08+00:00",
-      "title": "Buying SPY At The 2007 Top Still Paid Off",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
