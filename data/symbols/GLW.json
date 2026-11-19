@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T18:12:01.116044+00:00",
+  "generated_at": "2026-11-19T00:25:29.384594+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 107.71,
-    "change_pct": -0.718960272836211
+    "price": 108.15,
+    "change_pct": -0.3133929394414148
   },
   "risk": {
-    "score": 56,
+    "score": 53,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T21:58:57.471596+00:00",
-      "close": 123.99
-    },
     {
       "timestamp": "2026-10-23T00:32:06.128452+00:00",
       "close": 123.99
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-18T18:12:01.116044+00:00",
       "close": 107.71
+    },
+    {
+      "timestamp": "2026-11-19T00:25:29.384594+00:00",
+      "close": 108.15
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-18T17:09:57+00:00",
+      "title": "What Are 3M Investors Betting On?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-18T16:31:00+00:00",
+      "title": "JBL's Diverse Portfolio Propels Revenue Growth: Will It Persist?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-18T13:40:01+00:00",
       "title": "Corning vs. Vertiv: Which Technology Stock Is a Better Buy for 2027?",
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-18T04:21:02+00:00",
       "title": "Eaton vs. Corning: Which Industrials Stock Is a Better Buy for 2027?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T20:09:23+00:00",
-      "title": "Corning (GLW) In Focus As Reported US Curbs Hit Chinese Data Center Gear",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-17T16:28:48+00:00",
-      "title": "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade)",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

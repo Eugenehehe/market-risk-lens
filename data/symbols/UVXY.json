@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T18:12:01.116044+00:00",
+  "generated_at": "2026-11-19T00:25:29.384594+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 21.4,
-    "change_pct": -5.64373897707231
+    "price": 21.77,
+    "change_pct": -4.012345679012341
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-22T21:58:57.471596+00:00",
-      "close": 18.41
-    },
     {
       "timestamp": "2026-10-23T00:32:06.128452+00:00",
       "close": 18.41
@@ -502,20 +498,16 @@
     {
       "timestamp": "2026-11-18T18:12:01.116044+00:00",
       "close": 21.4
+    },
+    {
+      "timestamp": "2026-11-19T00:25:29.384594+00:00",
+      "close": 21.77
     }
   ],
   "events": [
     {
       "timestamp": "2026-11-17T22:55:00+00:00",
       "title": "Nvidia's Earnings And Guidance Soothe Investor Worries",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-16T23:55:00+00:00",
-      "title": "Nvidia Tugs Market Lower Again",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
