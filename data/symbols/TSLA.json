@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "TSLA",
-    "price": 374.41,
-    "change_pct": -2.4262483060565
+    "price": 347.91,
+    "change_pct": -7.07780240912369
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSLA"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 372.22
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 372.22
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 374.41
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 347.91
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-20T11:23:23+00:00",
-      "title": "Robinhood Faces Shareholder Proposal Over Proxy Voting Options as SEC Eases Oversight",
+      "timestamp": "2026-11-20T19:42:00+00:00",
+      "title": "$17B Tesla manufacturing plant led October’s construction starts rebound",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:04:57+00:00",
-      "title": "What State Street Consumer Discretionary SPDR (XLY) Bought: Amazon Leads on Nov. 18",
+      "timestamp": "2026-11-20T17:45:20+00:00",
+      "title": "SpaceX Vs. Anthropic: Who Hits a $3 Trillion Valuation First and Why",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:04:47+00:00",
-      "title": "What Capital Group Growth ETF (CGGR) Bought: Meta Leads on Wednesday",
+      "timestamp": "2026-11-20T17:01:19+00:00",
+      "title": "Einride AB’s Autonomous Commercialization & NVIDIA Collaboration – Quarterly Update Report",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:04:22+00:00",
-      "title": "ARK Autonomous Tech & Robotics (ARKQ) Buys $34.6 Million More Tesla on Nov. 18",
+      "timestamp": "2026-11-20T17:00:00+00:00",
+      "title": "Bitcoin sell-off versus the tech sell-off, and the SEC finds eight fake crypto trading platforms",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:03:10+00:00",
-      "title": "Tesla (TSLA) Sees $136.7 Million in Net ETF Selling on Wednesday",
+      "timestamp": "2026-11-20T16:57:39+00:00",
+      "title": "Tesla Falls 4% Despite HSBC Upgrade and $359 Target Tied to SpaceX Merger Talk; Rivian Drops 5%, Lucid Slides 4%",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:02:42+00:00",
-      "title": "Tesla Stock Gets An HSBC Upgrade — But Analyst Says Strategic Logic Of TSLA-SPCX Merger Is ‘Limited’",
+      "timestamp": "2026-11-20T16:50:30+00:00",
+      "title": "Why Avoiding Tesla (TSLA) Boosted Fund Performance",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T10:39:42+00:00",
-      "title": "Electric Vehicles Today - Charging Network Growth Fuels Electric Vehicle Market Expansion",
+      "timestamp": "2026-11-20T16:05:18+00:00",
+      "title": "Tesla proposes $3.1 billion Texas polysilicon refinery",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T10:04:00+00:00",
-      "title": "A SpaceX-Tesla Merger Needs \"Yes\" From 50% of All Tesla Shares, Not Just Votes Cast. Here's Why That Math Is Harder Than Wall Street Thinks.",
+      "timestamp": "2026-11-20T15:30:11+00:00",
+      "title": "Tesla (TSLA) Down 0.1% Since Last Earnings Report: Can It Rebound?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

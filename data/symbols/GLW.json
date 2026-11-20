@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 105.97,
-    "change_pct": -2.0157189089228034
+    "price": 94.63,
+    "change_pct": -10.70114183259413
   },
   "risk": {
-    "score": 67,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 123.69
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 123.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 105.97
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 94.63
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-20T14:16:00+00:00",
+      "title": "KEYS Q4 Earnings Surpass Expectations on Strong AI Demand",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-20T11:04:26+00:00",
       "title": "Capital Group Core Equity (CGUS) Buys $25.4 Million More Intel on Nov. 18",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-19T15:17:47+00:00",
       "title": "How Data Center Permitting and Supply Limits Impacted Corning (GLW)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T12:16:33+00:00",
-      "title": "How Much Of Corning Stock's Rise Came From Sales?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

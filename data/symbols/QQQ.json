@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 645.04,
-    "change_pct": -2.1940531606798985
+    "price": 613.36,
+    "change_pct": -4.9113233287858
   },
   "risk": {
-    "score": 68,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 704.4
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 704.4
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 645.04
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 613.36
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-20T06:05:00+00:00",
-      "title": "Chart Of The Day: A Tale Of Two 'Safe Havens'",
+      "timestamp": "2026-11-20T14:27:49+00:00",
+      "title": "Wall Street's Last Line Of Defense Is Breaking",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T04:20:00+00:00",
-      "title": "Invesco QQQ Monthly Review",
+      "timestamp": "2026-11-20T14:14:50+00:00",
+      "title": "What To Do After Onto Innovation Fell Over 40% From Its June 2026 Peak",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T01:40:00+00:00",
-      "title": "5 Things To Watch In The November Flash PMIs",
+      "timestamp": "2026-11-20T13:52:09+00:00",
+      "title": "Stock Market Today: Anthropic Soars on Debut While the Rest of Wall Street Sinks",
+      "source": "ChartMill",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:49:48+00:00",
+      "title": "Why I'm Buying This Market Crash",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T00:05:00+00:00",
-      "title": "The Pace Of Change: What NDX Volatility Is Telling Us This Thanksgiving",
+      "timestamp": "2026-11-20T13:43:00+00:00",
+      "title": "Performance Insights - November 2026",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-19T23:01:05+00:00",
-      "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T19:36:19+00:00",
-      "title": "AAII Sentiment Survey: Pessimism Backtracks",
+      "timestamp": "2026-11-20T13:25:28+00:00",
+      "title": "Year-End Tax Loss Harvesting Ideas For 2026: Wash Rules, Sector Swaps & More",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-19T19:00:00+00:00",
-      "title": "Anthropic Hits The Market, But Wall Street Hits The Brakes",
+      "timestamp": "2026-11-20T13:22:12+00:00",
+      "title": "Anthropic And Nvidia Are Saying The AI Bubble Is Finally Popping",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-19T18:23:21+00:00",
-      "title": "Amazon Beat QQQ, But The Ride Was Much Harder",
-      "source": "Yahoo",
+      "timestamp": "2026-11-20T13:06:55+00:00",
+      "title": "What AI Bubble? Chips Exports Have Overtaken Oil For The First Time In History",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

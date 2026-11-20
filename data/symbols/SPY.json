@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "SPY",
-    "price": 715.87,
-    "change_pct": -1.9624760339633007
+    "price": 693.46,
+    "change_pct": -3.1304566471565987
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SPY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 759.97
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 759.97
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 715.87
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 693.46
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-20T11:03:39+00:00",
-      "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Microsoft on Nov. 18",
+      "timestamp": "2026-11-20T19:27:01+00:00",
+      "title": "Why Did The Trade Deficit Nearly Triple To $105 Billion?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:03:03+00:00",
-      "title": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Wednesday",
+      "timestamp": "2026-11-20T18:29:30+00:00",
+      "title": "Warren Buffett’s 3 Biggest Investing Lessons for Anyone Retiring in 2027",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:03:00+00:00",
-      "title": "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 18",
+      "timestamp": "2026-11-20T17:31:58+00:00",
+      "title": "The Inflation Math In Five Lines",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:02:50+00:00",
-      "title": "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 18",
+      "timestamp": "2026-11-20T16:36:11+00:00",
+      "title": "Managed Futures Are a Hedge Fund Staple. RSST Stacks $1 of Them on Top of $1 of U.S. Stocks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:02:44+00:00",
-      "title": "ETFs Are Net Sellers of Chevron (CVX) on Nov. 18",
+      "timestamp": "2026-11-20T15:00:31+00:00",
+      "title": "Gold Is Now Cheaper Than What The Central Banks Paid",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T14:00:12+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:02:28+00:00",
-      "title": "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 18",
-      "source": "Yahoo",
+      "timestamp": "2026-11-20T13:52:09+00:00",
+      "title": "Stock Market Today: Anthropic Soars on Debut While the Rest of Wall Street Sinks",
+      "source": "ChartMill",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T11:02:21+00:00",
-      "title": "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 18",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T11:02:14+00:00",
-      "title": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18",
-      "source": "Yahoo",
+      "timestamp": "2026-11-20T13:49:48+00:00",
+      "title": "Why I'm Buying This Market Crash",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

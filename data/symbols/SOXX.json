@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 137.95,
-    "change_pct": -2.7493831512160782
+    "price": 124.44,
+    "change_pct": -9.793403407031532
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 478.2
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 478.2
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 137.95
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 124.44
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-20T14:27:49+00:00",
+      "title": "Wall Street's Last Line Of Defense Is Breaking",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T14:14:50+00:00",
+      "title": "What To Do After Onto Innovation Fell Over 40% From Its June 2026 Peak",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:25:28+00:00",
+      "title": "Year-End Tax Loss Harvesting Ideas For 2026: Wash Rules, Sector Swaps & More",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:06:55+00:00",
+      "title": "What AI Bubble? Chips Exports Have Overtaken Oil For The First Time In History",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T12:35:00+00:00",
+      "title": "Volatility Surging - What Smart Options, Futures, And Stock Traders Are Doing Now",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T11:30:00+00:00",
+      "title": "Broadcom: Time To Pounce Before The Market Returns",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T10:09:42+00:00",
+      "title": "Why Micron Stock Is Falling Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-20T01:17:06+00:00",
       "title": "Peter Thiel Now Has as Much Money in an Argentine Oil Stock as in Amazon. It’s Down 23% Since September 30",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T23:01:05+00:00",
-      "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T18:19:00+00:00",
-      "title": "Nvidia Stock Can’t Shake Post-Huang Hangover. Anthropic Debut Also Not Providing a Boost.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T17:51:44+00:00",
-      "title": "Beyond The Anthropic IPO: Top AI Stocks For The Next Phase Of The Secular Bull",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T16:37:47+00:00",
-      "title": "Inside Peter Thiel’s Portfolio: Every Move He Made in the Third Quarter",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T16:25:00+00:00",
-      "title": "Signs Of Forced Liquidation. 'Sell What You Can' To Cover Margin Calls",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T15:54:00+00:00",
-      "title": "Cybersecurity Stocks Fly on Palo Alto Earnings. Look Out for Whiplash.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T15:06:23+00:00",
-      "title": "Nvidia’s earnings beat fails to lift chip sector as macro and policy risks weigh",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

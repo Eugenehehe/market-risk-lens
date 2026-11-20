@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 87.21,
-    "change_pct": 4.84491464294301
+    "price": 83.76,
+    "change_pct": -3.9559683522531697
   },
   "risk": {
     "score": 76,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 99.19
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 99.19
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 87.21
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 83.76
     }
   ],
   "events": [
@@ -538,6 +538,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-19T12:16:53+00:00",
+      "title": "Robinhood Stock Climbs Thursday: What's Going On?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-19T11:02:49+00:00",
       "title": "Futu Holdings Limited (FUTU) Q3 2026 Earnings Call Transcript",
       "source": "SeekingAlpha",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-19T08:00:00+00:00",
       "title": "Futu Announces Third Quarter 2026 Unaudited Financial Results",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T04:55:30+00:00",
-      "title": "Futu Holdings Q3 Adj. EPS $3.03 Up From $3.01 YoY, Sales $852.660M Beat $814.820M Estimate",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

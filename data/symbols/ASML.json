@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1356.2,
-    "change_pct": -2.80017487654719
+    "price": 1268.89,
+    "change_pct": -6.437841026397284
   },
   "risk": {
-    "score": 73,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 1571.8
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 1571.8
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 1356.2
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 1268.89
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-20T16:47:11+00:00",
+      "title": "European Stocks Close Sharply Lower in Friday Trading Amid Tech Selloff",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T15:02:00+00:00",
+      "title": "AMAT's AGS Gains From Growing Installed Base: What's Ahead?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T14:04:04+00:00",
+      "title": "A $3 Billion Fund Is Betting Big on Applied Materials",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:36:58+00:00",
+      "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T12:06:27+00:00",
+      "title": "Holding TSMC Near $352? Past Drops Went Deeper",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T11:35:20+00:00",
+      "title": "Nasdaq Futures Plunge as AI Selloff Rolls On",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-20T11:01:44+00:00",
       "title": "14 ETFs Add to ASML Holding (ASML) on Nov. 18",
@@ -516,54 +564,6 @@
     {
       "timestamp": "2026-11-19T22:59:34+00:00",
       "title": "Susquehanna’s $600 Target Says TSMC’s Selloff Went Too Far",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T18:10:01+00:00",
-      "title": "Why Ken Fisher Keeps Adding to ASML Holding (ASML) While Its Order Book Is Sold Out",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T17:08:00+00:00",
-      "title": "ASML Rides on Improving Profitability: Will It Sustain?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T15:01:54+00:00",
-      "title": "Intel Soars 8% on First Outside 18A Customer as CEO Says “I Just Cannot Supply Enough”",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T14:11:29+00:00",
-      "title": "Chip Stocks Rally as Anthropic's Historic IPO Revives the AI Trade",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T12:06:16+00:00",
-      "title": "Applied Materials’ 2027 EPS Estimate Rose to $19.29 After Its Record Quarter. Its Average Price Target Fell to $562",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:27:07+00:00",
-      "title": "Global chip stocks rally as Anthropic’s record IPO boosts confidence in AI trade",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

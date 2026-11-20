@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 352.09,
-    "change_pct": -2.903866306326186
+    "price": 321.83,
+    "change_pct": -8.594393478940043
   },
   "risk": {
-    "score": 74,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 418.51
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 418.51
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 352.09
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 321.83
     }
   ],
   "events": [
@@ -530,6 +530,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-20T10:23:09+00:00",
+      "title": "Taiwan Stocks Just Had Their Worst Week Since 1990 — And The AI Trade Is Unwinding From The East",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-20T09:50:51+00:00",
       "title": "TSMC Is 28% Below Its High. Another Director Just Bought $500,000 of Stock as Demand Stays “Extremely Robust”",
       "source": "Yahoo",
@@ -546,25 +554,17 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T03:51:04+00:00",
-      "title": "South Korea’s Stock Market and the Nikkei 225 Sink More Than 4% as the AI Selloff Spreads From Wall Street. Here’s How Much of a Target-Date Fund Is in Samsung, SK Hynix and TSMC",
-      "source": "Yahoo",
+      "timestamp": "2026-11-20T07:18:10+00:00",
+      "title": "Nvidia Stock Hits New 52-Week Low: Buy the Dip or Stay Away?",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T03:41:08+00:00",
-      "title": "Nikkei 225 Falls 4.5% and SoftBank Plunges 15% as Wall Street’s AI Selloff Puts Asian Stocks on Track for Their Worst Week Since 2020",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T00:06:31+00:00",
-      "title": "TSMC halts advanced chip orders from Chinese designers in Taiwan",
-      "source": "Yahoo",
+      "timestamp": "2026-11-20T06:00:30+00:00",
+      "title": "Anthropic (ANT) Stock Is Trending Pre-Market: Here’s What You Should Know",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

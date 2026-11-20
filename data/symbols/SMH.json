@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T12:45:44.248513+00:00",
+  "generated_at": "2026-11-20T20:46:47.858598+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 447.48,
-    "change_pct": -2.6243634939287164
+    "price": 403.87,
+    "change_pct": -9.745686958076337
   },
   "risk": {
-    "score": 71,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T22:12:22.566221+00:00",
-      "close": 527.2
-    },
     {
       "timestamp": "2026-10-24T00:44:55.422678+00:00",
       "close": 527.2
@@ -502,69 +498,73 @@
     {
       "timestamp": "2026-11-20T12:45:44.248513+00:00",
       "close": 447.48
+    },
+    {
+      "timestamp": "2026-11-20T20:46:47.858598+00:00",
+      "close": 403.87
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-20T13:49:48+00:00",
+      "title": "Why I'm Buying This Market Crash",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:25:28+00:00",
+      "title": "Year-End Tax Loss Harvesting Ideas For 2026: Wash Rules, Sector Swaps & More",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:22:12+00:00",
+      "title": "Anthropic And Nvidia Are Saying The AI Bubble Is Finally Popping",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:18:11+00:00",
+      "title": "SMH: Cover The Shorts For Now (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T13:06:55+00:00",
+      "title": "What AI Bubble? Chips Exports Have Overtaken Oil For The First Time In History",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T12:35:00+00:00",
+      "title": "Volatility Surging - What Smart Options, Futures, And Stock Traders Are Doing Now",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T11:30:00+00:00",
+      "title": "Broadcom: Time To Pounce Before The Market Returns",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-20T05:18:00+00:00",
       "title": "2026 Semiconductor Stock Selloff: The Long-Term Outlook",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T23:43:02+00:00",
-      "title": "The Semiconductor ETF Is on Track to Beat the S&P 500 for a 4th Straight Year. It Has Never Done That Before.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T23:01:05+00:00",
-      "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T15:06:23+00:00",
-      "title": "Nvidia’s earnings beat fails to lift chip sector as macro and policy risks weigh",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T15:05:25+00:00",
-      "title": "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T13:32:00+00:00",
-      "title": "ETFs to Buy as NVIDIA Tops Q3 Earnings, Hikes Outlook Amid CEO Fallout",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T13:31:51+00:00",
-      "title": "Has Nvidia Peaked? TheTechTalk Podcast Episode 3",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T13:20:51+00:00",
-      "title": "$1 Million In SMH Five Years Ago: What Is It Worth Now?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
