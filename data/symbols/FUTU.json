@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T23:18:11.618060+00:00",
+  "generated_at": "2026-11-20T04:03:32.359932+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 87.21,
     "change_pct": 4.84491464294301
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T15:08:28.042420+00:00",
-      "close": 99.49
-    },
     {
       "timestamp": "2026-10-23T19:11:14.989394+00:00",
       "close": 99.96
@@ -502,9 +498,37 @@
     {
       "timestamp": "2026-11-19T23:18:11.618060+00:00",
       "close": 87.21
+    },
+    {
+      "timestamp": "2026-11-20T04:03:32.359932+00:00",
+      "close": 87.21
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-19T21:00:46+00:00",
+      "title": "Futu Holdings Ltd (FUTU) Q3 2026 Earnings Call Highlights: 4 Million Funded Accounts and HKD34. ...",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T17:49:48+00:00",
+      "title": "Futu Holdings Limited Q3 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-19T16:16:19+00:00",
+      "title": "What Futu (FUTU) Said on Its Q3 Earnings Call",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-19T11:02:49+00:00",
       "title": "Futu Holdings Limited (FUTU) Q3 2026 Earnings Call Transcript",
@@ -540,14 +564,6 @@
     {
       "timestamp": "2026-11-19T04:11:35+00:00",
       "title": "Futu Holdings Q3 Sales $852.660M Beat $814.820M Estimate",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-18T12:15:04+00:00",
-      "title": "JP Morgan Maintains Neutral on Futu Holdings, Lowers Price Target to $103",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,

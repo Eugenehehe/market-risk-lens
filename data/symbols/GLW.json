@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:18:11.618060+00:00",
+  "generated_at": "2026-11-20T04:03:32.359932+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 105.97,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-23T15:08:28.042420+00:00",
-      "close": 125.1
-    },
     {
       "timestamp": "2026-10-23T19:11:14.989394+00:00",
       "close": 124.35
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-19T23:18:11.618060+00:00",
       "close": 105.97
+    },
+    {
+      "timestamp": "2026-11-20T04:03:32.359932+00:00",
+      "close": 105.97
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-19T21:33:00+00:00",
+      "title": "Is This Still an \"AI\" Driven Market?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-19T16:10:55+00:00",
       "title": "A $7.4 Billion Fund Dumps These 3 Stocks",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-19T08:31:10+00:00",
       "title": "Jim Cramer: Rocket Lab Is 'Too Cheap,' Recommends Buying This Tech Stock",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T07:46:04+00:00",
-      "title": "Coherent shares are trading higher after the company announced it will join the S&P 500 index, effective March 23.",
       "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
