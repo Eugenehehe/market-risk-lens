@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T20:46:47.858598+00:00",
+  "generated_at": "2026-11-21T01:48:48.069249+00:00",
   "snapshot": {
     "symbol": "IWM",
-    "price": 258.29,
-    "change_pct": -2.2443418363484957
+    "price": 256.61,
+    "change_pct": -2.880175611233071
   },
   "risk": {
-    "score": 68,
+    "score": 74,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/IWM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T00:44:55.422678+00:00",
-      "close": 275.75
-    },
     {
       "timestamp": "2026-10-24T05:05:37.790248+00:00",
       "close": 275.75
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-20T20:46:47.858598+00:00",
       "close": 258.29
+    },
+    {
+      "timestamp": "2026-11-21T01:48:48.069249+00:00",
+      "close": 256.61
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-20T16:00:22+00:00",
+      "title": "The Rich Are Keeping The U.S. Economy Afloat - Until Tech Valuations Deflate",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-20T15:30:00+00:00",
+      "title": "Ignore The European Central Bank's AI Warning At Your Peril",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-20T14:27:49+00:00",
       "title": "Wall Street's Last Line Of Defense Is Breaking",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-20T12:35:00+00:00",
       "title": "Volatility Surging - What Smart Options, Futures, And Stock Traders Are Doing Now",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T11:47:08+00:00",
-      "title": "Trump's Accounts Turned Defensive",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T09:55:28+00:00",
-      "title": "A $178 Billion Holiday Showdown May Rock Markets Next Week",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
