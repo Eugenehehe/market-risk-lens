@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T08:52:17.817500+00:00",
+  "generated_at": "2026-11-21T16:30:43.716322+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 123.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T09:28:28.316143+00:00",
-      "close": 478.2
-    },
     {
       "timestamp": "2026-10-24T13:32:29.255779+00:00",
       "close": 478.2
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-21T08:52:17.817500+00:00",
       "close": 123.4
+    },
+    {
+      "timestamp": "2026-11-21T16:30:43.716322+00:00",
+      "close": 123.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-21T09:30:11+00:00",
+      "title": "This Market Has Forgotten How To Count",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-20T23:50:00+00:00",
       "title": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
@@ -554,17 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T16:43:58+00:00",
-      "title": "Chip Stocks Just Had a Reversal Last Seen in March 2020",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T15:25:01+00:00",
-      "title": "The Rest of the Stock Market Is Doing Fine",
-      "source": "Yahoo",
+      "timestamp": "2026-11-20T16:50:27+00:00",
+      "title": "Semiconductor Stocks Heading for Worst 2-Month Slump Since 2001 as Nvidia, Anthropic and the AI Trade Crack: This Week on Wall Street",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
