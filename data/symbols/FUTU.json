@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T21:50:22.458033+00:00",
+  "generated_at": "2026-11-22T01:43:03.679531+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 83.02,
     "change_pct": -4.804494897374156
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T16:54:34.217774+00:00",
-      "close": 99.19
-    },
     {
       "timestamp": "2026-10-24T19:14:58.057012+00:00",
       "close": 99.19
@@ -502,68 +498,16 @@
     {
       "timestamp": "2026-11-21T21:50:22.458033+00:00",
       "close": 83.02
+    },
+    {
+      "timestamp": "2026-11-22T01:43:03.679531+00:00",
+      "close": 83.02
     }
   ],
   "events": [
     {
       "timestamp": "2026-11-20T04:38:00+00:00",
       "title": "Moomoo steps up Australian expansion with Sydney Roosters deal, second retail store",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T21:00:46+00:00",
-      "title": "Futu Holdings Ltd (FUTU) Q3 2026 Earnings Call Highlights: 4 Million Funded Accounts and HKD34. ...",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T17:49:48+00:00",
-      "title": "Futu Holdings Limited Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T16:16:19+00:00",
-      "title": "What Futu (FUTU) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T12:16:53+00:00",
-      "title": "Robinhood Stock Climbs Thursday: What's Going On?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T11:02:49+00:00",
-      "title": "Futu Holdings Limited (FUTU) Q3 2026 Earnings Call Transcript",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T09:47:22+00:00",
-      "title": "Why Futu Holdings Is A Strong Buy After Impressive Q3 Results (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T08:00:00+00:00",
-      "title": "Futu Announces Third Quarter 2026 Unaudited Financial Results",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

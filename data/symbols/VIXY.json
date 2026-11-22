@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T21:50:22.458033+00:00",
+  "generated_at": "2026-11-22T01:43:03.679531+00:00",
   "snapshot": {
     "symbol": "VIXY",
     "price": 25.95,
     "change_pct": 13.417832167832167
   },
   "risk": {
-    "score": 66,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T16:54:34.217774+00:00",
-      "close": 17.92
-    },
     {
       "timestamp": "2026-10-24T19:14:58.057012+00:00",
       "close": 17.92
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-21T21:50:22.458033+00:00",
       "close": 25.95
+    },
+    {
+      "timestamp": "2026-11-22T01:43:03.679531+00:00",
+      "close": 25.95
     }
   ],
   "events": [
@@ -517,14 +517,6 @@
       "timestamp": "2026-11-20T00:05:00+00:00",
       "title": "The Pace Of Change: What NDX Volatility Is Telling Us This Thanksgiving",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T17:06:02+00:00",
-      "title": "Wall Street’s Fear Gauge Went From 16.61 to 28.18 in a Single Day in November. Why It Keeps Snapping Back",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

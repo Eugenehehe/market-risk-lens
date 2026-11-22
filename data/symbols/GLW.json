@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T21:50:22.458033+00:00",
+  "generated_at": "2026-11-22T01:43:03.679531+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 94.38,
     "change_pct": -10.937057657827687
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T16:54:34.217774+00:00",
-      "close": 123.69
-    },
     {
       "timestamp": "2026-10-24T19:14:58.057012+00:00",
       "close": 123.69
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-21T21:50:22.458033+00:00",
       "close": 94.38
+    },
+    {
+      "timestamp": "2026-11-22T01:43:03.679531+00:00",
+      "close": 94.38
     }
   ],
   "events": [
@@ -541,30 +541,6 @@
       "timestamp": "2026-11-20T02:03:29+00:00",
       "title": "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade)",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T21:33:00+00:00",
-      "title": "Is This Still an \"AI\" Driven Market?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T16:10:55+00:00",
-      "title": "A $7.4 Billion Fund Dumps These 3 Stocks",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-19T16:09:12+00:00",
-      "title": "Corning (GLW) Stock Looks Like A Bargain On Cash Flow",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

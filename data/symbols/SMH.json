@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:50:22.458033+00:00",
+  "generated_at": "2026-11-22T01:43:03.679531+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 400.06,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T16:54:34.217774+00:00",
-      "close": 527.2
-    },
     {
       "timestamp": "2026-10-24T19:14:58.057012+00:00",
       "close": 527.2
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-21T21:50:22.458033+00:00",
       "close": 400.06
+    },
+    {
+      "timestamp": "2026-11-22T01:43:03.679531+00:00",
+      "close": 400.06
     }
   ],
   "events": [
@@ -509,6 +509,22 @@
       "timestamp": "2026-11-21T15:20:00+00:00",
       "title": "Weekly Commentary: Crisis Dynamics Unleashed",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-21T14:52:52+00:00",
+      "title": "Chip Stocks are Now Repeating What Happened in 2001",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-21T14:44:59+00:00",
+      "title": "Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -549,22 +565,6 @@
       "timestamp": "2026-11-20T16:43:58+00:00",
       "title": "Chip Stocks Just Had a Reversal Last Seen in March 2020",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T16:15:57+00:00",
-      "title": "Michael Burry Halves SMH, Nvidia Puts but Keeps Nasdaq 100 Bet",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T15:02:41+00:00",
-      "title": "Trump Says Jensen Huang Made 'Bad Decisions,' Vows China to Get Old Chips Only",
-      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
