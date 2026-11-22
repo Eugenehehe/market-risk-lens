@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:43:03.679531+00:00",
+  "generated_at": "2026-11-22T08:53:20.913410+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 123.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T19:14:58.057012+00:00",
-      "close": 478.2
-    },
     {
       "timestamp": "2026-10-24T21:39:54.249830+00:00",
       "close": 478.2
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-22T01:43:03.679531+00:00",
       "close": 123.4
+    },
+    {
+      "timestamp": "2026-11-22T08:53:20.913410+00:00",
+      "close": 123.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-22T02:23:49+00:00",
+      "title": "AI Bubble Or Market Reset? 5 Reasons I'm Not Buying Yet",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-21T22:50:00+00:00",
       "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-20T20:33:06+00:00",
       "title": "Did the AI Bubble Pop? Polymarket Says It Could Soon, but There's a Catch",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T20:24:47+00:00",
-      "title": "Nasdaq Slide Deepens After Report of Nvidia SEC Accounting Probe",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
