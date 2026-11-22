@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T08:53:20.913410+00:00",
+  "generated_at": "2026-11-22T16:50:57.149375+00:00",
   "snapshot": {
     "symbol": "FUTU",
     "price": 83.02,
     "change_pct": -4.804494897374156
   },
   "risk": {
-    "score": 62,
+    "score": 64,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T21:39:54.249830+00:00",
-      "close": 99.19
-    },
     {
       "timestamp": "2026-10-24T23:44:05.403457+00:00",
       "close": 99.19
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-22T08:53:20.913410+00:00",
       "close": 83.02
+    },
+    {
+      "timestamp": "2026-11-22T16:50:57.149375+00:00",
+      "close": 83.02
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-22T11:06:28+00:00",
+      "title": "Did Third Quarter Earnings Just Shift Futu Holdings' (FUTU) Investment Narrative?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-20T04:38:00+00:00",
       "title": "Moomoo steps up Australian expansion with Sydney Roosters deal, second retail store",
