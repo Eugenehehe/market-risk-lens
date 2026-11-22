@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:50:57.149375+00:00",
+  "generated_at": "2026-11-22T22:12:20.022819+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 123.4,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-24T23:44:05.403457+00:00",
-      "close": 478.2
-    },
     {
       "timestamp": "2026-10-25T01:43:50.774808+00:00",
       "close": 478.2
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-22T16:50:57.149375+00:00",
       "close": 123.4
+    },
+    {
+      "timestamp": "2026-11-22T22:12:20.022819+00:00",
+      "close": 123.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-22T13:34:00+00:00",
+      "title": "Wall Street Brunch: Can AI Bulls Get Up Off The Canvas?",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-22T07:00:10+00:00",
       "title": "Nvidia's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
@@ -557,14 +565,6 @@
       "timestamp": "2026-11-20T23:50:00+00:00",
       "title": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T22:03:09+00:00",
-      "title": "SOXL Crashes 32% in Its Third-Worst Day Ever and Is Down 90% From Its June Record. The Chip Index It Tracks Is Down 43%",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
