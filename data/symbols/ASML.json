@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T11:22:02.314788+00:00",
+  "generated_at": "2026-11-23T22:47:21.654030+00:00",
   "snapshot": {
     "symbol": "ASML",
-    "price": 1266.22,
-    "change_pct": -6.634714643857842
+    "price": 1383.78,
+    "change_pct": 9.284326578319725
   },
   "risk": {
-    "score": 70,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T12:25:10.139903+00:00",
-      "close": 1571.8
-    },
     {
       "timestamp": "2026-10-25T16:41:14.624125+00:00",
       "close": 1571.8
@@ -502,44 +498,72 @@
     {
       "timestamp": "2026-11-23T11:22:02.314788+00:00",
       "close": 1266.22
+    },
+    {
+      "timestamp": "2026-11-23T22:47:21.654030+00:00",
+      "close": 1383.78
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-22T18:05:15+00:00",
-      "title": "Stanley Druckenmiller, Leopold Aschenbrenner and 25 Other Big Funds Sold Taiwan Semiconductor Last Quarter, While 38 Bought. Who’s Right?",
+      "timestamp": "2026-11-23T21:25:00+00:00",
+      "title": "ASML Stock’s Sell-Off Looks Excessive Against Its Growth Outlook",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-22T14:21:26+00:00",
-      "title": "China Switched to Making Its Own Chips “At All Costs.” That Shrinks Nvidia’s China Upside",
+      "timestamp": "2026-11-23T19:43:24+00:00",
+      "title": "“Smoke and Mirrors”: Micron’s President Slammed Rival DRAM Designs. We’ll Know Soon if He’s Right",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-21T16:45:01+00:00",
-      "title": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
+      "timestamp": "2026-11-23T18:36:07+00:00",
+      "title": "Who's Buying And Who's Selling AI? The Full List, Next To 2000",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-21T14:41:02+00:00",
-      "title": "ASML vs. Broadcom: Which Tech Stock Is a Better Buy for 2027?",
+      "timestamp": "2026-11-23T18:18:40+00:00",
+      "title": "Billionaire Ray Dalio Is Going All-In on AI and Chip Stocks: Top 5 Holdings",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-21T14:09:28+00:00",
-      "title": "3 Chip Stocks Retail Investors Are Reading for AI Fab Buildout Exposure",
+      "timestamp": "2026-11-23T15:20:02+00:00",
+      "title": "3 Unstoppable AI Stocks to Buy Hand Over Fist Before the End of 2026",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T13:48:00+00:00",
+      "title": "ASML reports transactions under its current share buyback program",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T12:15:36+00:00",
+      "title": "ASML Vs. Taiwan Semiconductor: Here’s Why You Choose One as Your AI-Anchor Now",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T11:37:25+00:00",
+      "title": "AI Chips Update - Global Semiconductor ETF Expands International Investment Horizons",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

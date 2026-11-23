@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T11:22:02.314788+00:00",
+  "generated_at": "2026-11-23T22:47:21.654030+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 400.06,
-    "change_pct": -10.597121659068565
+    "price": 460.18,
+    "change_pct": 15.027745838124273
   },
   "risk": {
-    "score": 72,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T12:25:10.139903+00:00",
-      "close": 527.2
-    },
     {
       "timestamp": "2026-10-25T16:41:14.624125+00:00",
       "close": 527.2
@@ -502,52 +498,72 @@
     {
       "timestamp": "2026-11-23T11:22:02.314788+00:00",
       "close": 400.06
+    },
+    {
+      "timestamp": "2026-11-23T22:47:21.654030+00:00",
+      "close": 460.18
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-23T04:46:00+00:00",
-      "title": "CIO Weekly: Signal From Noise? - Why This AI Sell-Off Feels Worse",
+      "timestamp": "2026-11-23T17:16:20+00:00",
+      "title": "Indiscriminate Selling On Semiconductors Makes No Sense",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-21T15:20:00+00:00",
-      "title": "Weekly Commentary: Crisis Dynamics Unleashed",
+      "timestamp": "2026-11-23T16:23:04+00:00",
+      "title": "2026 Was A Year Of Sharp Rotations: Why 2027 Could See A Broader Rally",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-21T14:52:52+00:00",
-      "title": "Chip Stocks are Now Repeating What Happened in 2001",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-21T14:44:59+00:00",
-      "title": "Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-21T10:30:00+00:00",
-      "title": "Why Cybersecurity Dodged The AI Crash",
+      "timestamp": "2026-11-23T16:20:00+00:00",
+      "title": "Why The Market Will Bottom Before Good News Shows Up",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-21T09:30:11+00:00",
-      "title": "This Market Has Forgotten How To Count",
+      "timestamp": "2026-11-23T15:00:59+00:00",
+      "title": "Whispers From Texas: AI Infrastructure Hits New Stride",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T15:00:52+00:00",
+      "title": "Nvidia: This Is Not The Jensen Of Times Past, Time To Get Out",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T14:05:20+00:00",
+      "title": "Anthropic Went Public Into An AI Selloff, And Its Numbers Argue Against It",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T12:15:00+00:00",
+      "title": "Looking Beyond The AI Trade In A Shifting Market Landscape",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T10:16:00+00:00",
+      "title": "PCE Week: What To Watch In Stocks, Chips, Gold And Bitcoin",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T11:22:02.314788+00:00",
+  "generated_at": "2026-11-23T22:47:21.654030+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 94.38,
-    "change_pct": -10.937057657827687
+    "price": 108.31,
+    "change_pct": 14.759482941301139
   },
   "risk": {
-    "score": 64,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T12:25:10.139903+00:00",
-      "close": 123.69
-    },
     {
       "timestamp": "2026-10-25T16:41:14.624125+00:00",
       "close": 123.69
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-11-23T11:22:02.314788+00:00",
       "close": 94.38
+    },
+    {
+      "timestamp": "2026-11-23T22:47:21.654030+00:00",
+      "close": 108.31
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-23T18:36:07+00:00",
+      "title": "Who's Buying And Who's Selling AI? The Full List, Next To 2000",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T18:30:47+00:00",
+      "title": "Why TTM Technologies (TTMI) Stock Is Soaring Today: AI Hardware Rally on Nvidia News",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T18:01:06+00:00",
+      "title": "Why Rogers (ROG) Stock Is Up 10.1% Today: AI Hardware Rally on Nvidia News",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T17:31:05+00:00",
+      "title": "Flex (FLEX) Stock Is Up 14.2% Today: AI Hardware Rally After Nvidia CEO News",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T17:30:33+00:00",
+      "title": "Why Amphenol (APH) Stock Is Up Today: AI Hardware Rally on Nvidia News",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T17:02:42+00:00",
+      "title": "Corning Surges 15.1% as Nvidia Rally Lifts AI Hardware Stocks on Nov. 23",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-22T04:16:50+00:00",
       "title": "3 AI Infrastructure Stocks Retail Investors Are Watching After The Tech Pullback",
