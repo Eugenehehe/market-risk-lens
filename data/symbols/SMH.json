@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T22:12:20.022819+00:00",
+  "generated_at": "2026-11-23T02:49:26.418677+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 400.06,
     "change_pct": -10.597121659068565
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T01:43:50.774808+00:00",
-      "close": 527.2
-    },
     {
       "timestamp": "2026-10-25T06:56:35.139525+00:00",
       "close": 527.2
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-22T22:12:20.022819+00:00",
       "close": 400.06
+    },
+    {
+      "timestamp": "2026-11-23T02:49:26.418677+00:00",
+      "close": 400.06
     }
   ],
   "events": [
@@ -541,30 +541,6 @@
       "timestamp": "2026-11-21T09:30:11+00:00",
       "title": "This Market Has Forgotten How To Count",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T23:50:00+00:00",
-      "title": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T18:32:41+00:00",
-      "title": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T16:43:58+00:00",
-      "title": "Chip Stocks Just Had a Reversal Last Seen in March 2020",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

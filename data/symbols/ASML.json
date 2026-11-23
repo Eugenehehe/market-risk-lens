@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T22:12:20.022819+00:00",
+  "generated_at": "2026-11-23T02:49:26.418677+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1266.22,
     "change_pct": -6.634714643857842
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T01:43:50.774808+00:00",
-      "close": 1571.8
-    },
     {
       "timestamp": "2026-10-25T06:56:35.139525+00:00",
       "close": 1571.8
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-22T22:12:20.022819+00:00",
       "close": 1266.22
+    },
+    {
+      "timestamp": "2026-11-23T02:49:26.418677+00:00",
+      "close": 1266.22
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-11-21T14:09:28+00:00",
       "title": "3 Chip Stocks Retail Investors Are Reading for AI Fab Buildout Exposure",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T16:47:11+00:00",
-      "title": "European Stocks Close Sharply Lower in Friday Trading Amid Tech Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T15:02:00+00:00",
-      "title": "AMAT's AGS Gains From Growing Installed Base: What's Ahead?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-20T14:04:04+00:00",
-      "title": "A $3 Billion Fund Is Betting Big on Applied Materials",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T22:12:20.022819+00:00",
+  "generated_at": "2026-11-23T02:49:26.418677+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 31.13,
     "change_pct": 22.46262785208497
   },
   "risk": {
-    "score": 64,
+    "score": 60,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T01:43:50.774808+00:00",
-      "close": 18.76
-    },
     {
       "timestamp": "2026-10-25T06:56:35.139525+00:00",
       "close": 18.76
@@ -502,26 +498,13 @@
     {
       "timestamp": "2026-11-22T22:12:20.022819+00:00",
       "close": 31.13
-    }
-  ],
-  "events": [
-    {
-      "timestamp": "2026-11-20T20:30:00+00:00",
-      "title": "Market Selloff Deepens As Investors Seek Shelter",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
     },
     {
-      "timestamp": "2026-11-20T00:05:00+00:00",
-      "title": "The Pace Of Change: What NDX Volatility Is Telling Us This Thanksgiving",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
+      "timestamp": "2026-11-23T02:49:26.418677+00:00",
+      "close": 31.13
     }
   ],
+  "events": [],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
