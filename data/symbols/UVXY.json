@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-23T22:47:21.654030+00:00",
+  "generated_at": "2026-11-24T06:30:20.298202+00:00",
   "snapshot": {
     "symbol": "UVXY",
     "price": 24.67,
     "change_pct": -20.751686476068098
   },
   "risk": {
-    "score": 60,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T16:41:14.624125+00:00",
-      "close": 18.76
-    },
     {
       "timestamp": "2026-10-25T19:17:01.315205+00:00",
       "close": 18.76
@@ -502,9 +498,22 @@
     {
       "timestamp": "2026-11-23T22:47:21.654030+00:00",
       "close": 24.67
+    },
+    {
+      "timestamp": "2026-11-24T06:30:20.298202+00:00",
+      "close": 24.67
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "timestamp": "2026-11-23T19:20:00+00:00",
+      "title": "The Market Taketh And The Market Giveth Back",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    }
+  ],
   "cross_market": [],
   "probability_distribution": {
     "p10": null,
