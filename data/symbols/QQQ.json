@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T06:30:20.298202+00:00",
+  "generated_at": "2026-11-24T18:11:45.757758+00:00",
   "snapshot": {
     "symbol": "QQQ",
-    "price": 651.03,
-    "change_pct": 6.998109951516129
+    "price": 638.45,
+    "change_pct": -1.9323226272214722
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 66,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/QQQ"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T19:17:01.315205+00:00",
-      "close": 704.4
-    },
     {
       "timestamp": "2026-10-25T21:53:49.617093+00:00",
       "close": 704.4
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-24T06:30:20.298202+00:00",
       "close": 651.03
+    },
+    {
+      "timestamp": "2026-11-24T18:11:45.757758+00:00",
+      "close": 638.45
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-23T23:33:25+00:00",
-      "title": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-23T23:15:00+00:00",
-      "title": "Cumberland's Monday Memo",
+      "timestamp": "2026-11-24T12:40:00+00:00",
+      "title": "Huang's Return Lifts Stocks, But The Bond Market Echoes The Fed's 2018 Policy Mistake",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T22:14:27+00:00",
-      "title": "Retiring On $2 Million? Sell BND Before SCHD",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-23T22:02:04+00:00",
-      "title": "Should You Swap Tech For Johnson & Johnson Stock?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-23T19:20:00+00:00",
-      "title": "The Market Taketh And The Market Giveth Back",
+      "timestamp": "2026-11-24T12:20:24+00:00",
+      "title": "QQQ: Beware Of 2000 Dotcom Market Top Pattern Repetition",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T18:31:31+00:00",
-      "title": "Nvidia Just Jumped More Than 30%. A 66-Year-Old Who Moved $500,000 Out of VOO on Friday Missed a Five-Figure Day",
-      "source": "Yahoo",
+      "timestamp": "2026-11-24T10:51:44+00:00",
+      "title": "Why Is Intel Stock Pulling Back After Monday’s Semiconductor Rally",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T18:12:25+00:00",
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "source": "Yahoo",
+      "timestamp": "2026-11-24T10:20:49+00:00",
+      "title": "Beware, The AI Trade May Not Have Bottomed Yet",
+      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T17:16:20+00:00",
-      "title": "Indiscriminate Selling On Semiconductors Makes No Sense",
+      "timestamp": "2026-11-24T10:13:25+00:00",
+      "title": "Big Tech Just Became a Value Trade — Something Wall Street Hasn't Seen in 20 Years",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-24T09:43:24+00:00",
+      "title": "The First 6% Up Day Outside A Bear Market (Yet?)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-24T09:22:12+00:00",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall After Scott Bessent Unveils Fresh Iran Sanctions, Hormuz Warnings— HPE, SMTC, DELL in Focus (UPDATED)",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-24T09:10:12+00:00",
+      "title": "The Trump Put Ends The Correction, Again",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

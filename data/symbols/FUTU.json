@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T06:30:20.298202+00:00",
+  "generated_at": "2026-11-24T18:11:45.757758+00:00",
   "snapshot": {
     "symbol": "FUTU",
-    "price": 88.5,
-    "change_pct": 6.600819079739817
+    "price": 88.4,
+    "change_pct": -0.1129943502824804
   },
   "risk": {
-    "score": 62,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 41,
+    "label": "低到中風險：暫無明顯異常"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/FUTU"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T19:17:01.315205+00:00",
-      "close": 99.19
-    },
     {
       "timestamp": "2026-10-25T21:53:49.617093+00:00",
       "close": 99.19
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-24T06:30:20.298202+00:00",
       "close": 88.5
+    },
+    {
+      "timestamp": "2026-11-24T18:11:45.757758+00:00",
+      "close": 88.4
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-23T11:52:21+00:00",
+      "title": "Shares of AI cloud services companies are trading higher as the sector rebounds from recent weakness after Goldman Sachs upgraded CoreWeave, easing concerns about AI infrastructure.",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-23T10:47:28+00:00",
+      "title": "Barclays Maintains Overweight on Futu Holdings, Lowers Price Target to $144",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-22T11:06:28+00:00",
       "title": "Did Third Quarter Earnings Just Shift Futu Holdings' (FUTU) Investment Narrative?",
