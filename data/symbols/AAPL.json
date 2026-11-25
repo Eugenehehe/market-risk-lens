@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-24T18:11:45.757758+00:00",
+  "generated_at": "2026-11-25T02:31:33.151582+00:00",
   "snapshot": {
     "symbol": "AAPL",
-    "price": 349.08,
-    "change_pct": 1.9033162073797127
+    "price": 354.07,
+    "change_pct": 1.4294717543256619
   },
   "risk": {
-    "score": 66,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AAPL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T19:17:01.315205+00:00",
-      "close": 347.725
-    },
     {
       "timestamp": "2026-10-25T21:53:49.617093+00:00",
       "close": 347.725
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-24T06:30:20.298202+00:00",
       "close": 349.08
+    },
+    {
+      "timestamp": "2026-11-25T02:31:33.151582+00:00",
+      "close": 354.07
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-24T05:06:42+00:00",
-      "title": "1966 Or 1995: Which Way Does America's $2.1 Trillion Deficit Go?",
+      "timestamp": "2026-11-24T23:00:28+00:00",
+      "title": "Tech Keeps Eating Hollywood As Netflix Buys Historic Seinfeld Lot",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-24T05:06:42+00:00",
-      "title": "The 10-Year Topped 5% For The First Time Since 2007. What Happened Next?",
+      "timestamp": "2026-11-24T21:19:52+00:00",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-24T04:17:00+00:00",
-      "title": "Apple's five-device plan creates an iPhone buying dilemma",
+      "timestamp": "2026-11-24T21:13:24+00:00",
+      "title": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-24T02:03:39+00:00",
-      "title": "QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164",
+      "timestamp": "2026-11-24T20:53:00+00:00",
+      "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T23:58:29+00:00",
-      "title": "Own HP Stock? Memory Costs Are The Risk",
+      "timestamp": "2026-11-24T19:59:22+00:00",
+      "title": "Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T22:50:31+00:00",
-      "title": "Chamath Says Microsoft “Clearly Is Going to Need to Have a Frontier Model.” Nadella Is Betting It Won’t",
+      "timestamp": "2026-11-24T19:45:11+00:00",
+      "title": "Why the Jensen Huang rally faded so quickly",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T21:54:36+00:00",
-      "title": "How Risky Is Snap Stock Now?",
+      "timestamp": "2026-11-24T19:32:13+00:00",
+      "title": "At 63, a Robo-Adviser Bought You 11 Funds You Can’t Explain. These 3 ETFs Do the Same Job",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-23T20:16:30+00:00",
-      "title": "Apple vs. Broadcom: Comparing Revenue Trends Amid the Artificial Intelligence Boom",
+      "timestamp": "2026-11-24T19:20:02+00:00",
+      "title": "Intuit vs. Palo Alto Networks: Which Technology Stock Is a Better Buy for 2027?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
@@ -581,5 +581,5 @@
     "prob_down_gt_1pct": null,
     "prob_up_gt_1pct": null
   },
-  "narrative": "AAPL live fetch failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')). Keeping previous snapshot."
+  "narrative": "AAPL quote/news refreshed. 免費 options chain 抓取失敗或暫無資料；options flow、MLFT、主動買賣方向仍需付費資料源。"
 }
