@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T11:39:25.585991+00:00",
+  "generated_at": "2026-11-25T20:39:53.955592+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 349.2,
-    "change_pct": -3.960396039603975
+    "price": 338.52,
+    "change_pct": -3.0584192439862545
   },
   "risk": {
-    "score": 76,
+    "score": 75,
     "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T01:48:57.251864+00:00",
-      "close": 418.51
-    },
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 418.51
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-25T11:39:25.585991+00:00",
       "close": 349.2
+    },
+    {
+      "timestamp": "2026-11-25T20:39:53.955592+00:00",
+      "close": 338.52
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-25T12:18:50+00:00",
+      "title": "Taiwan Semiconductor Manufacturing Company Limited Reports Monthly Operational Activities for October 2026",
+      "source": "Fintel",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T11:39:07+00:00",
+      "title": "Taiwan Semiconductor Manufacturing Company Limited Announces Adjustment to Cash Dividend Per Share",
+      "source": "Fintel",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T10:28:39+00:00",
+      "title": "TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T09:39:23+00:00",
+      "title": "Jim Cramer Backs DuPont, Says Buy Nvidia",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T07:16:33+00:00",
+      "title": "What Is Going on With AMD Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-25T04:10:19+00:00",
       "title": "TSMC: AI Kingmaker Trading At A Bargain Price",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-11-24T22:59:22+00:00",
       "title": "Novanta Shares Just Jumped And We’re Buying This Robotics Play",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T21:38:36+00:00",
-      "title": "TSMC: What A Textbook Growth Stock Should Look Like",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T21:23:07+00:00",
-      "title": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T20:10:06+00:00",
-      "title": "Trump’s Southeast Asia Chip Rule Has Cost Nvidia $44 Billion+ of Revenue, per Jefferies. Huang Can’t Undo It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T20:09:04+00:00",
-      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock May Be Reasonable After New Export Curbs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T20:00:07+00:00",
-      "title": "TSMC's $22.6 Billion Texas Chip Plant Hinges on Two Tax Breaks",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

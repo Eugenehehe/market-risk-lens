@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T11:39:25.585991+00:00",
+  "generated_at": "2026-11-25T20:39:53.955592+00:00",
   "snapshot": {
     "symbol": "UVXY",
-    "price": 24.58,
-    "change_pct": -0.3648155654641383
+    "price": 26.6,
+    "change_pct": 8.218063466232728
   },
   "risk": {
-    "score": 41,
-    "label": "低到中風險：暫無明顯異常"
+    "score": 64,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/UVXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T01:48:57.251864+00:00",
-      "close": 18.76
-    },
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 18.76
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-25T11:39:25.585991+00:00",
       "close": 24.58
+    },
+    {
+      "timestamp": "2026-11-25T20:39:53.955592+00:00",
+      "close": 26.6
     }
   ],
   "events": [

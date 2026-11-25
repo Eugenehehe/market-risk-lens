@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T11:39:25.585991+00:00",
+  "generated_at": "2026-11-25T20:39:53.955592+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 295.28,
-    "change_pct": -11.83302976919174
+    "price": 291,
+    "change_pct": -1.4494716878894476
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 62,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T01:48:57.251864+00:00",
-      "close": 456.44
-    },
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 456.44
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-25T11:39:25.585991+00:00",
       "close": 295.28
+    },
+    {
+      "timestamp": "2026-11-25T20:39:53.955592+00:00",
+      "close": 291
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-25T09:33:56+00:00",
-      "title": "AI jitters spark \"wild\" stock moves; PCE data ahead - what’s moving markets",
+      "timestamp": "2026-11-25T18:37:00+00:00",
+      "title": "Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T08:04:21+00:00",
-      "title": "Stock Market Today: The AI Rally Lasts One Day as Nvidia Retreats and Anthropic Slips Below Its IPO Price",
-      "source": "ChartMill",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T07:30:20+00:00",
-      "title": "Dell Has 100,000 AI Agents at Work Daily: COO Jeff Clarke Says It Will 'Double That Number in the Next 90 Days'",
+      "timestamp": "2026-11-25T18:32:31+00:00",
+      "title": "Sector Update: Tech Stocks Fall Wednesday Afternoon",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T05:29:45+00:00",
-      "title": "Dell Technologies: 3 Key Takeaways for Long-Term Investors",
+      "timestamp": "2026-11-25T18:15:43+00:00",
+      "title": "What Does Dell Technologies (DELL) $25 Billion Buyback Mean After AI Demand Surged?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T04:22:39+00:00",
-      "title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
+      "timestamp": "2026-11-25T18:07:06+00:00",
+      "title": "Most of Dell’s New AI Server Orders Are Now for Nvidia’s Vera Rubin",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T04:13:04+00:00",
-      "title": "Dell (DELL) Q3 2027 Earnings Call Transcript",
+      "timestamp": "2026-11-25T18:04:06+00:00",
+      "title": "Dell Technologies Stocks Drop 8.69% Despite $132.3 Billion AI Backlog",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T04:05:25+00:00",
-      "title": "Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
+      "timestamp": "2026-11-25T17:32:32+00:00",
+      "title": "Why Dell Technologies Stock Plunged Today",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T03:46:29+00:00",
-      "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
+      "timestamp": "2026-11-25T17:12:22+00:00",
+      "title": "Dell Just Delivered a Blowout Quarter. Why Is the Stock Sinking",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T17:02:55+00:00",
+      "title": "HP Soars 11% on Q4 Beat as Interim CEO Sees “Multiple Waves of Device Refresh”",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

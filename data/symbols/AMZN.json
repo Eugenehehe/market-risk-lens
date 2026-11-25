@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T11:39:25.585991+00:00",
+  "generated_at": "2026-11-25T20:39:53.955592+00:00",
   "snapshot": {
     "symbol": "AMZN",
-    "price": 252.29,
-    "change_pct": -1.2138298288891458
+    "price": 244.64,
+    "change_pct": -3.0322248206429148
   },
   "risk": {
-    "score": 60,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 75,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/AMZN"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T01:48:57.251864+00:00",
-      "close": 248
-    },
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 248
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-25T11:39:25.585991+00:00",
       "close": 252.29
+    },
+    {
+      "timestamp": "2026-11-25T20:39:53.955592+00:00",
+      "close": 244.64
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-25T08:00:00+00:00",
-      "title": "Bull of the Day: Quanta Services (PWR)",
+      "timestamp": "2026-11-25T19:22:15+00:00",
+      "title": "Nvidia is cheap on paper, so why won't the market buy it?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T03:30:00+00:00",
-      "title": "Altimetrik Achieves the AWS Agentic AI Specialization",
+      "timestamp": "2026-11-25T18:35:02+00:00",
+      "title": "Amazon Is Backing More Than 5 Gigawatts of New Nuclear by 2039. This Reactor Developer Could Cash In.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T02:55:57+00:00",
-      "title": "Amazon ‘Trying to Trick’ You With Black Friday Offers That Aren’t Really Deals, Says Elizabeth Warren: E-Commerce Giant Pushes Back",
+      "timestamp": "2026-11-25T18:15:07+00:00",
+      "title": "Cathie Wood Just Bought $62 Million of Anthropic Across 6 ARK Funds",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T02:22:50+00:00",
-      "title": "e.l.f. Beauty vs. Hershey: Which Consumer Goods Stock Is a Better Buy for 2027?",
+      "timestamp": "2026-11-25T17:47:41+00:00",
+      "title": "Amazon to start selling cars in the UK",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-25T01:53:31+00:00",
-      "title": "Amazon: The AI Boom Is Just Getting Started",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T23:00:28+00:00",
-      "title": "Tech Keeps Eating Hollywood As Netflix Buys Historic Seinfeld Lot",
+      "timestamp": "2026-11-25T17:33:52+00:00",
+      "title": "DoubleLine’s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-24T22:32:44+00:00",
-      "title": "Amazon customers may qualify for $309.5M settlement. See how",
+      "timestamp": "2026-11-25T16:49:56+00:00",
+      "title": "Bernstein’s $250 Target Says DoorDash’s Selloff Went Too Far",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-24T21:45:58+00:00",
-      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+      "timestamp": "2026-11-25T16:34:49+00:00",
+      "title": "Amazon Wants a 'Fair Exchange' Before Letting Muse Back In",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T16:30:32+00:00",
+      "title": "Amazon Makes Major Move Into Car Sales Beyond U.S.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

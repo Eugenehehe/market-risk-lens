@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T11:39:25.585991+00:00",
+  "generated_at": "2026-11-25T20:39:53.955592+00:00",
   "snapshot": {
     "symbol": "GLW",
-    "price": 101.87,
-    "change_pct": -5.945896039146891
+    "price": 98.95,
+    "change_pct": -2.8663983508393054
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 73,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T01:48:57.251864+00:00",
-      "close": 123.69
-    },
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 123.69
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-25T11:39:25.585991+00:00",
       "close": 101.87
+    },
+    {
+      "timestamp": "2026-11-25T20:39:53.955592+00:00",
+      "close": 98.95
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-25T17:21:03+00:00",
+      "title": "Corning Stocks Tumble 7.58% as AI Fiber Trade Unwinds",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T15:58:00+00:00",
+      "title": "WDAY Q3 Earnings Beat Estimates on Subscription Growth & Margin Gains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T15:12:09+00:00",
+      "title": "Corning (GLW) Rides AI Optimism On A Narrative That Still Sees It Undervalued",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T13:00:04+00:00",
+      "title": "Is Most-Watched Stock Owens Corning Inc (OC) Worth Betting on Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T10:05:17+00:00",
+      "title": "Stephen Pagliuca Buys $15M of Coherent Stock Following Pullback",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-24T18:03:00+00:00",
       "title": "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind",
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-11-24T16:59:23+00:00",
       "title": "48 Big Funds Bought Amphenol Last Quarter, While 9 Sold. Who’s Right?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T16:31:03+00:00",
-      "title": "Littelfuse (LFUS) Stock Is Down 7.9% Today Amid Tech Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T16:31:01+00:00",
-      "title": "Why Is Knowles (KN) Stock Down Today? Tech Selloff Hits Component Makers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T16:30:50+00:00",
-      "title": "Benchmark Electronics (BHE) Stock Is Down 8.4% Today Along With Tech Selloff",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T16:00:42+00:00",
-      "title": "Plexus (PLXS) Stock Is Down 8.9% Today Without Company News",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T11:18:00+00:00",
-      "title": "Viavi Surges 70% in the Past Year: Worth Including in Your Portfolio?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

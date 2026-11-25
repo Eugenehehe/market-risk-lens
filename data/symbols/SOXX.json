@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T11:39:25.585991+00:00",
+  "generated_at": "2026-11-25T20:39:53.955592+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 128.62,
-    "change_pct": -8.272714306090423
+    "price": 125.42,
+    "change_pct": -2.4879489970455637
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T01:48:57.251864+00:00",
-      "close": 478.2
-    },
     {
       "timestamp": "2026-10-26T07:06:33.860411+00:00",
       "close": 478.2
@@ -502,9 +498,45 @@
     {
       "timestamp": "2026-11-25T11:39:25.585991+00:00",
       "close": 128.62
+    },
+    {
+      "timestamp": "2026-11-25T20:39:53.955592+00:00",
+      "close": 125.42
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-25T13:30:19+00:00",
+      "title": "The AI Rescue Is Already Here",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T09:50:13+00:00",
+      "title": "What Is Going on With Micron Tech Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T08:00:19+00:00",
+      "title": "S&P 500 ‘Quite Cheap’ After Selloff: Tom Lee Counters Citadel’s 2018 Warning, Says AI ‘Supply Shock’ Could Ease",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T07:16:33+00:00",
+      "title": "What Is Going on With AMD Stock on Wednesday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-25T03:07:38+00:00",
       "title": "Nvidia Upheaval, 21% Yielding Portfolio Changes, And My New Watchlist",
@@ -533,38 +565,6 @@
       "timestamp": "2026-11-24T16:37:29+00:00",
       "title": "Don't Be A Hero: The Wrong Way To Buy The Tech Dip",
       "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T15:35:46+00:00",
-      "title": "The Dow Is Back Up. Most of the Market Is, Too.",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T13:53:24+00:00",
-      "title": "Chip Stocks Just Had Their Fourth-Best Day Since 2000",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T11:03:02+00:00",
-      "title": "iShares PHLX SOX Semiconductor (SOXX) Adds AMD and AVGO on Nov. 20",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T11:02:03+00:00",
-      "title": "56 ETFs Add to Intel (INTC) Holdings on Friday",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
