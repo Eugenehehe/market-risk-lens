@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:31:33.151582+00:00",
+  "generated_at": "2026-11-25T11:39:25.585991+00:00",
   "snapshot": {
     "symbol": "MRVL",
     "price": 131.57,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-25T23:46:23.091286+00:00",
-      "close": 228.51
-    },
     {
       "timestamp": "2026-10-26T01:48:57.251864+00:00",
       "close": 228.51
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-25T02:31:33.151582+00:00",
       "close": 131.57
+    },
+    {
+      "timestamp": "2026-11-25T11:39:25.585991+00:00",
+      "close": 131.57
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-25T00:55:00+00:00",
+      "title": "Review & Preview: Tech’s Rough Day",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-24T22:07:53+00:00",
       "title": "Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-24T20:24:15+00:00",
       "title": "CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T19:33:00+00:00",
-      "title": "Megadeals Are Back. Why More Takeovers Could Be Coming.",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
