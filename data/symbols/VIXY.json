@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T20:39:53.955592+00:00",
+  "generated_at": "2026-11-26T03:08:21.097677+00:00",
   "snapshot": {
     "symbol": "VIXY",
-    "price": 23.75,
-    "change_pct": 6.550022431583669
+    "price": 23.28,
+    "change_pct": 4.4414535666218224
   },
   "risk": {
-    "score": 64,
+    "score": 62,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/VIXY"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T07:06:33.860411+00:00",
-      "close": 17.92
-    },
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 17.44
@@ -502,20 +498,16 @@
     {
       "timestamp": "2026-11-25T20:39:53.955592+00:00",
       "close": 23.75
+    },
+    {
+      "timestamp": "2026-11-26T03:08:21.097677+00:00",
+      "close": 23.28
     }
   ],
   "events": [
     {
       "timestamp": "2026-11-24T19:10:00+00:00",
       "title": "Monday's Euphoria Ends With Tuesday's Hangover",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-23T19:20:00+00:00",
-      "title": "The Market Taketh And The Market Giveth Back",
       "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,

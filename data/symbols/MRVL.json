@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T20:39:53.955592+00:00",
+  "generated_at": "2026-11-26T03:08:21.097677+00:00",
   "snapshot": {
     "symbol": "MRVL",
-    "price": 127.69,
-    "change_pct": -2.9490005320361723
+    "price": 130.93,
+    "change_pct": -0.48643307744925535
   },
   "risk": {
-    "score": 74,
+    "score": 54,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/MRVL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T07:06:33.860411+00:00",
-      "close": 228.51
-    },
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 225.62
@@ -502,9 +498,29 @@
     {
       "timestamp": "2026-11-25T20:39:53.955592+00:00",
       "close": 127.69
+    },
+    {
+      "timestamp": "2026-11-26T03:08:21.097677+00:00",
+      "close": 130.93
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-25T22:24:47+00:00",
+      "title": "Analysts Expect More From Marvell Than Marvell Does",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T21:13:32+00:00",
+      "title": "Why Is Credo Stock Going Up?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-25T19:07:03+00:00",
       "title": "Why Did Nvidia Stock Jump So Much?",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-25T15:05:38+00:00",
       "title": "Credo CEO: Its Portfolio Now Spans “Millimeters to Kilometers.” December 1 Tests the Optics Push",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T14:57:00+00:00",
-      "title": "Anthropic, Nvidia, Micron, Dell, HP, Deere, and More Stocks That Explain Today’s Market",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T14:33:27+00:00",
-      "title": "What Pulled Astera Labs Stock Down?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

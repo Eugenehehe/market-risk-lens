@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T20:39:53.955592+00:00",
+  "generated_at": "2026-11-26T03:08:21.097677+00:00",
   "snapshot": {
     "symbol": "INTC",
-    "price": 53.23,
-    "change_pct": -2.8649635036496313
+    "price": 54.47,
+    "change_pct": -0.6021897810219001
   },
   "risk": {
-    "score": 73,
+    "score": 55,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/INTC"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T07:06:33.860411+00:00",
-      "close": 86.96
-    },
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 87.11
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-25T20:39:53.955592+00:00",
       "close": 53.23
+    },
+    {
+      "timestamp": "2026-11-26T03:08:21.097677+00:00",
+      "close": 54.47
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-25T20:23:30+00:00",
+      "title": "What Sent Qualcomm Stock Higher?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-25T19:07:03+00:00",
       "title": "Why Did Nvidia Stock Jump So Much?",
@@ -538,6 +546,14 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-25T18:08:23+00:00",
+      "title": "Trump Says It’s “Probably Not Too Late” for a US Stake in Nvidia. That’s a Big Risk for Its Multiple",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-25T18:02:15+00:00",
       "title": "Berkshire Hathaway Is Up 15% in 2026 and Easily Beating the S&P 500. Is Berkshire Stock Better Than an Index Fund Now?",
       "source": "Yahoo",
@@ -548,22 +564,6 @@
     {
       "timestamp": "2026-11-25T17:45:02+00:00",
       "title": "AMD is Actually on Sale at a 52% Discount Now Based on This Number and I’m Buying It",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T17:42:06+00:00",
-      "title": "Intel Stocks Drop 7.47% as GuruFocus Flags 48.7% Premium to GF Value",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T17:02:36+00:00",
-      "title": "AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

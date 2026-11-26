@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T20:39:53.955592+00:00",
+  "generated_at": "2026-11-26T03:08:21.097677+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 415.33,
-    "change_pct": -2.676039835969546
+    "price": 422.46,
+    "change_pct": -1.0052724077328712
   },
   "risk": {
-    "score": 72,
+    "score": 59,
     "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T07:06:33.860411+00:00",
-      "close": 527.2
-    },
     {
       "timestamp": "2026-10-26T14:11:39.650458+00:00",
       "close": 532.73
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-11-25T20:39:53.955592+00:00",
       "close": 415.33
+    },
+    {
+      "timestamp": "2026-11-26T03:08:21.097677+00:00",
+      "close": 422.46
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-25T21:32:22+00:00",
+      "title": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T20:22:01+00:00",
+      "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T18:02:14+00:00",
+      "title": "Update: Nasdaq Heads for Bear Market as Sellers Descend on AI Trade",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T15:08:56+00:00",
+      "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-25T15:05:03+00:00",
       "title": "Where AI Money Flows In 2027 After Anthropic's IPO",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T11:28:10+00:00",
+      "title": "AI Anxiety Rules Wall Street Pre-Bell; Asia Off, Europe Up",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-11-25T10:00:13+00:00",
       "title": "If You Invested $1000 In VanEck Semiconductor ETF Stock 5 Years Ago, You Would Have This Much Today",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T09:50:13+00:00",
-      "title": "What Is Going on With Micron Tech Stock on Wednesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T09:24:32+00:00",
-      "title": "Huang's Return And Anthropic's Shaky Debut Prove AI Is Now A National Security Trade",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T08:25:00+00:00",
-      "title": "Can Technology Stocks Regain Their Leadership Role?",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T07:16:33+00:00",
-      "title": "What Is Going on With AMD Stock on Wednesday?",
-      "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T04:57:02+00:00",
-      "title": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
