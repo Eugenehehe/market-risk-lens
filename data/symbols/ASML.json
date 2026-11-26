@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:26:16.180046+00:00",
+  "generated_at": "2026-11-26T21:49:40.510978+00:00",
   "snapshot": {
     "symbol": "ASML",
     "price": 1303.08,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/ASML"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T19:57:30.456026+00:00",
-      "close": 1589.21
-    },
     {
       "timestamp": "2026-10-26T23:41:20.791733+00:00",
       "close": 1590.9
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-26T12:26:16.180046+00:00",
       "close": 1303.08
+    },
+    {
+      "timestamp": "2026-11-26T21:49:40.510978+00:00",
+      "close": 1303.08
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-26T09:54:20+00:00",
+      "title": "ASML Can’t Build Enough Machines for 2028. Is a 20% China Risk a Reason to Sell, or Buy More?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-26T08:28:50+00:00",
       "title": "ASML Sinks 7% in a Week: Dutch Lawmaker Warns the MATCH Act Is “Disastrous for ASML.” Time to Buy?",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-25T18:26:42+00:00",
       "title": "Forget ASML: Tokyo Electron Has More China Sales at Stake in the MATCH Act",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T17:17:45+00:00",
-      "title": "ASML Stocks Drop 6.1% as Dutch Lawmakers Fight US Chip Curb Bill",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

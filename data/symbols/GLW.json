@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:26:16.180046+00:00",
+  "generated_at": "2026-11-26T21:49:40.510978+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 100.24,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T19:57:30.456026+00:00",
-      "close": 127.07
-    },
     {
       "timestamp": "2026-10-26T23:41:20.791733+00:00",
       "close": 127.74
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-26T12:26:16.180046+00:00",
       "close": 100.24
+    },
+    {
+      "timestamp": "2026-11-26T21:49:40.510978+00:00",
+      "close": 100.24
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-26T15:30:11+00:00",
+      "title": "Corning (GLW) Down 23.6% Since Last Earnings Report: Can It Rebound?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-25T17:21:03+00:00",
       "title": "Corning Stocks Tumble 7.58% as AI Fiber Trade Unwinds",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-24T18:00:51+00:00",
       "title": "Methode Electronics (MEI) Stock Is Down 11.1% Today: AI Selloff Hits Peers",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-24T16:59:23+00:00",
-      "title": "48 Big Funds Bought Amphenol Last Quarter, While 9 Sold. Who’s Right?",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:26:16.180046+00:00",
+  "generated_at": "2026-11-26T21:49:40.510978+00:00",
   "snapshot": {
     "symbol": "SMH",
     "price": 422.46,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T19:57:30.456026+00:00",
-      "close": 542.1
-    },
     {
       "timestamp": "2026-10-26T23:41:20.791733+00:00",
       "close": 541.62
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-26T12:26:16.180046+00:00",
       "close": 422.46
+    },
+    {
+      "timestamp": "2026-11-26T21:49:40.510978+00:00",
+      "close": 422.46
     }
   ],
   "events": [
@@ -517,6 +517,14 @@
       "timestamp": "2026-11-26T01:19:53+00:00",
       "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
       "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-25T22:58:25+00:00",
+      "title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -546,24 +554,16 @@
       "sentiment": 0
     },
     {
+      "timestamp": "2026-11-25T16:15:08+00:00",
+      "title": "S&P 500 Pares Losses as Fed Beige Book Signals Optimism: 10 Tech Stocks Bouncing off Lows on Wednesday",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-25T15:08:56+00:00",
       "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T15:05:03+00:00",
-      "title": "Where AI Money Flows In 2027 After Anthropic's IPO",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T11:28:10+00:00",
-      "title": "AI Anxiety Rules Wall Street Pre-Bell; Asia Off, Europe Up",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
