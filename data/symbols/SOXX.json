@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:08:21.097677+00:00",
+  "generated_at": "2026-11-26T12:26:16.180046+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 127.98,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T14:11:39.650458+00:00",
-      "close": 482.26
-    },
     {
       "timestamp": "2026-10-26T19:57:30.456026+00:00",
       "close": 492.69
@@ -502,9 +498,21 @@
     {
       "timestamp": "2026-11-26T03:08:21.097677+00:00",
       "close": 127.98
+    },
+    {
+      "timestamp": "2026-11-26T12:26:16.180046+00:00",
+      "close": 127.98
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-26T00:55:00+00:00",
+      "title": "Review & Preview: A Thanksgiving Reprieve",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-25T17:31:29+00:00",
       "title": "The Rest of the Market Is Showing Signs of Life",
@@ -556,14 +564,6 @@
     {
       "timestamp": "2026-11-25T11:01:58+00:00",
       "title": "ETFs Bought $70.3 Million of Lam Research (LRCX) on Monday",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T11:01:49+00:00",
-      "title": "ETFs Bought $73.8 Million of Intel (INTC) on Nov. 23",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
