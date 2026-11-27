@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T13:13:01.741814+00:00",
+  "generated_at": "2026-11-27T22:00:54.351413+00:00",
   "snapshot": {
     "symbol": "SOXX",
-    "price": 127.98,
-    "change_pct": -0.49758979940911496
+    "price": 134.07,
+    "change_pct": 4.758556024378802
   },
   "risk": {
-    "score": 54,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-27T08:15:31.615586+00:00",
-      "close": 491.83
-    },
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 502.22
@@ -502,13 +498,57 @@
     {
       "timestamp": "2026-11-27T13:13:01.741814+00:00",
       "close": 127.98
+    },
+    {
+      "timestamp": "2026-11-27T22:00:54.351413+00:00",
+      "close": 134.07
     }
   ],
   "events": [
     {
+      "timestamp": "2026-11-27T11:08:22+00:00",
+      "title": "December Might Bring More Pain Than Gain",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T10:01:33+00:00",
+      "title": "Why Is Micron Stock Jumping Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T08:15:00+00:00",
+      "title": "As Paranoia Hits The Market, Here Are 5 Stocks I'm Buying This Holiday Season",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T07:59:46+00:00",
+      "title": "'Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang' - Bloomberg Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
       "timestamp": "2026-11-27T01:55:00+00:00",
       "title": "AI Stock Swings: Has The Investment Story Changed?",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-26T23:33:52+00:00",
+      "title": "AI Risk Is 'Moving Somewhere Harder to See': Citigroup, JPMorgan Reportedly Look to Offload AI Debt as Investors Grow Wary of Buildout",
+      "source": "Benzinga",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -524,46 +564,6 @@
     {
       "timestamp": "2026-11-26T11:04:11+00:00",
       "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:03:18+00:00",
-      "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 24",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:02:58+00:00",
-      "title": "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 24",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:02:20+00:00",
-      "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Nov. 24",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:00:14+00:00",
-      "title": "ETF Activity: SPY Outflow Tops $4.80 Billion on Nov. 24",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T00:55:00+00:00",
-      "title": "Review & Preview: A Thanksgiving Reprieve",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

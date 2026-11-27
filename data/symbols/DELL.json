@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T13:13:01.741814+00:00",
+  "generated_at": "2026-11-27T22:00:54.351413+00:00",
   "snapshot": {
     "symbol": "DELL",
-    "price": 297.06,
-    "change_pct": 0.6028176645895611
+    "price": 316.96,
+    "change_pct": 6.6989833703628765
   },
   "risk": {
-    "score": 55,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/DELL"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-27T08:15:31.615586+00:00",
-      "close": 467.09
-    },
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 494.28
@@ -502,68 +498,72 @@
     {
       "timestamp": "2026-11-27T13:13:01.741814+00:00",
       "close": 297.06
+    },
+    {
+      "timestamp": "2026-11-27T22:00:54.351413+00:00",
+      "close": 316.96
     }
   ],
   "events": [
     {
-      "timestamp": "2026-11-27T10:54:14+00:00",
-      "title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
+      "timestamp": "2026-11-27T19:18:03+00:00",
+      "title": "Don't have time to shop Black Friday? AI will do it for you",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-27T10:22:54+00:00",
-      "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
+      "timestamp": "2026-11-27T19:02:15+00:00",
+      "title": "Dell Stocks Jump 5.28% as $132.3 Billion AI Backlog Keeps Buyers Coming",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-27T10:22:00+00:00",
-      "title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
+      "timestamp": "2026-11-27T18:51:00+00:00",
+      "title": "Dell's Strong Results Fail to Ease Concerns About AI Spending Durability, UBS Says",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-27T07:47:11+00:00",
-      "title": "Dell: The Market Prices The AI Revenue Boom, But Not Peak Margins",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-27T04:14:19+00:00",
-      "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+      "timestamp": "2026-11-27T18:50:32+00:00",
+      "title": "Jim Cramer Named His Buy-the-Dip Price for Dell Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-27T00:28:02+00:00",
-      "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027",
+      "timestamp": "2026-11-27T18:29:10+00:00",
+      "title": "Investing.com’s stocks of the week",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-26T20:30:14+00:00",
-      "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang’s affair with alleged spy was exposed",
+      "timestamp": "2026-11-27T18:08:49+00:00",
+      "title": "High Implied Volatility Sets Up Iron Condor For Dell Stock",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-26T20:03:54+00:00",
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "timestamp": "2026-11-27T17:31:17+00:00",
+      "title": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T17:12:29+00:00",
+      "title": "Dell Faces AI Server Shipment Halt as Nvidia Tightens Asia Restrictions",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T13:13:01.741814+00:00",
+  "generated_at": "2026-11-27T22:00:54.351413+00:00",
   "snapshot": {
     "symbol": "SMH",
-    "price": 422.46,
-    "change_pct": -1.0052724077328712
+    "price": 440.06,
+    "change_pct": 4.166074894664584
   },
   "risk": {
-    "score": 59,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SMH"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-27T08:15:31.615586+00:00",
-      "close": 541.62
-    },
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 550.37
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-11-27T13:13:01.741814+00:00",
       "close": 422.46
+    },
+    {
+      "timestamp": "2026-11-27T22:00:54.351413+00:00",
+      "close": 440.06
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-27T11:08:22+00:00",
+      "title": "December Might Bring More Pain Than Gain",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T10:01:33+00:00",
+      "title": "Why Is Micron Stock Jumping Today?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T09:01:29+00:00",
+      "title": "What Is Going on With Taiwan Semiconductor Stock on Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T08:42:18+00:00",
+      "title": "3 Tech Stocks To Buy And 2 To Avoid Amid AI Uncertainty",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T08:15:00+00:00",
+      "title": "As Paranoia Hits The Market, Here Are 5 Stocks I'm Buying This Holiday Season",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T07:59:46+00:00",
+      "title": "'Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang' - Bloomberg Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-27T01:55:00+00:00",
       "title": "AI Stock Swings: Has The Investment Story Changed?",
@@ -514,57 +562,9 @@
       "sentiment": 0
     },
     {
-      "timestamp": "2026-11-26T11:30:36+00:00",
-      "title": "Michael Burry Turns Bullish, Exits Nasdaq Shorts but Eyes Nvidia at $200",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T07:00:00+00:00",
-      "title": "Nvidia: Upgrade To Hold, Too Early To Buy",
-      "source": "SeekingAlpha",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T01:19:53+00:00",
-      "title": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T22:58:25+00:00",
-      "title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
+      "timestamp": "2026-11-26T23:33:52+00:00",
+      "title": "AI Risk Is 'Moving Somewhere Harder to See': Citigroup, JPMorgan Reportedly Look to Offload AI Debt as Investors Grow Wary of Buildout",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T21:32:22+00:00",
-      "title": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T20:22:01+00:00",
-      "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T18:02:14+00:00",
-      "title": "Update: Nasdaq Heads for Bear Market as Sellers Descend on AI Trade",
-      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

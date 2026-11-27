@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T13:13:01.741814+00:00",
+  "generated_at": "2026-11-27T22:00:54.351413+00:00",
   "snapshot": {
     "symbol": "TSM",
-    "price": 342.34,
-    "change_pct": -1.9644902634593397
+    "price": 353.34,
+    "change_pct": 3.2131798796518174
   },
   "risk": {
-    "score": 66,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/TSM"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-27T08:15:31.615586+00:00",
-      "close": 424.37
-    },
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 431.72
@@ -502,9 +498,53 @@
     {
       "timestamp": "2026-11-27T13:13:01.741814+00:00",
       "close": 342.34
+    },
+    {
+      "timestamp": "2026-11-27T22:00:54.351413+00:00",
+      "close": 353.34
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-27T14:20:59+00:00",
+      "title": "TSMC: Starting To Look Like A Buy Again (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T09:01:29+00:00",
+      "title": "What Is Going on With Taiwan Semiconductor Stock on Friday?",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T08:42:18+00:00",
+      "title": "3 Tech Stocks To Buy And 2 To Avoid Amid AI Uncertainty",
+      "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T07:59:46+00:00",
+      "title": "'Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang' - Bloomberg Exclusive",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T02:44:55+00:00",
+      "title": "Elon Musk Offers Samsung Long-Term Chip Deals and Factory Funding, Gets Brushed Off: 'Everyone Else Was Offering That'",
+      "source": "Benzinga",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-26T19:03:19+00:00",
       "title": "Taiwan Semiconductor Stocks Slip 1.96% as Taiwan's Market Sinks 4.8% in Chip Rout",
@@ -525,46 +565,6 @@
       "timestamp": "2026-11-26T16:55:13+00:00",
       "title": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here’s the Lesson for Investors.",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T16:06:22+00:00",
-      "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T16:00:04+00:00",
-      "title": "TSMC (TSM) Upgraded to Strong Buy: Here's Why",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:10:54+00:00",
-      "title": "Taiwan Semiconductor Manufacturing (TSM) May Make Its $22.6 Billion Texas Plant Conditional",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:03:18+00:00",
-      "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 24",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T09:26:03+00:00",
-      "title": "3 Tech Stocks I'm Buying With Insiders",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0

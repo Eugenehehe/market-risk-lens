@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T13:13:01.741814+00:00",
+  "generated_at": "2026-11-27T22:00:54.351413+00:00",
   "snapshot": {
     "symbol": "HPE",
-    "price": 40.82,
-    "change_pct": 1.5675541179397845
+    "price": 42.76,
+    "change_pct": 4.752572268495836
   },
   "risk": {
-    "score": 63,
-    "label": "中等風險：需要跨市場與期權牆確認"
+    "score": 76,
+    "label": "高風險：價格波動、事件或期權結構偏緊"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/HPE"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-27T08:15:31.615586+00:00",
-      "close": 58.72
-    },
     {
       "timestamp": "2026-10-27T14:38:18.359850+00:00",
       "close": 60.26
@@ -502,9 +498,61 @@
     {
       "timestamp": "2026-11-27T13:13:01.741814+00:00",
       "close": 40.82
+    },
+    {
+      "timestamp": "2026-11-27T22:00:54.351413+00:00",
+      "close": 42.76
     }
   ],
   "events": [
+    {
+      "timestamp": "2026-11-27T15:40:03+00:00",
+      "title": "HPE vs. AMD: Which Stock Should Value Investors Buy Now?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T15:03:32+00:00",
+      "title": "Supermicro’s $80 Billion Sales Ambition Could Change Its Stock Outlook",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T15:01:00+00:00",
+      "title": "Network Hardware - Global Strategic Business Report 2026: Capitalize on the $33.1 Billion Revenue Surge to 2032 with Benchmarks on Cisco, Huawei, HPE, Nokia, and Ericsson",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T13:00:00+00:00",
+      "title": "Salesforce, Snowflake, Four Security Software Leaders Headline Barrage Of Tech Earnings",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T12:37:00+00:00",
+      "title": "UI's Enterprise Technology Sales Surge: Can UniFi Momentum Sustain?",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-27T06:59:43+00:00",
+      "title": "Dell’s Operating Costs Fell to “the Lowest in Our Company’s 42-Year History.” The Stock Fell Anyway",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
     {
       "timestamp": "2026-11-26T16:01:00+00:00",
       "title": "DELL's AI Server Sales Surge: Can the Growth Momentum Continue?",
@@ -517,54 +565,6 @@
       "timestamp": "2026-11-26T14:04:00+00:00",
       "title": "NetApp Stock Ahead of Q2 Earnings: Should You Buy, Hold or Sell?",
       "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T13:40:04+00:00",
-      "title": "Are Computer and Technology Stocks Lagging  ALLIENT INC (ALNT) This Year?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T13:37:02+00:00",
-      "title": "Is Micron Stock a Buy After HPE Said Memory Will Stay Scarce Into 2028?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T13:15:00+00:00",
-      "title": "3 Stocks to Watch That Announced Dividend Hikes Amid Market Turmoil",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:35:23+00:00",
-      "title": "Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T11:13:13+00:00",
-      "title": "Is HPE's 18-Quarter Inventory High A Warning?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-26T02:31:01+00:00",
-      "title": "Hewlett Packard Enterprise Company 2026 Q4 - Results - Earnings Call Presentation",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
