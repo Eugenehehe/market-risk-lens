@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:49:40.510978+00:00",
+  "generated_at": "2026-11-27T03:49:48.407843+00:00",
   "snapshot": {
     "symbol": "SOXX",
     "price": 127.98,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/SOXX"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-26T23:41:20.791733+00:00",
-      "close": 491.83
-    },
     {
       "timestamp": "2026-10-27T02:26:16.804570+00:00",
       "close": 491.83
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-26T21:49:40.510978+00:00",
       "close": 127.98
+    },
+    {
+      "timestamp": "2026-11-27T03:49:48.407843+00:00",
+      "close": 127.98
     }
   ],
   "events": [
@@ -509,6 +509,46 @@
       "timestamp": "2026-11-26T12:03:09+00:00",
       "title": "Trump Pulls The Strings, Fed Foots The Bill",
       "source": "SeekingAlpha",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-26T11:04:11+00:00",
+      "title": "What iShares PHLX SOX Semi (SOXX) Sold: AMD Leads on Nov. 24",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-26T11:03:18+00:00",
+      "title": "ETFs Are Net Sellers of Taiwan Semiconductor (TSM) on Nov. 24",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-26T11:02:58+00:00",
+      "title": "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 24",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-26T11:02:20+00:00",
+      "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Nov. 24",
+      "source": "Yahoo",
+      "event_type": "news",
+      "severity": 3,
+      "sentiment": 0
+    },
+    {
+      "timestamp": "2026-11-26T11:00:14+00:00",
+      "title": "ETF Activity: SPY Outflow Tops $4.80 Billion on Nov. 24",
+      "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
@@ -525,46 +565,6 @@
       "timestamp": "2026-11-25T22:58:25+00:00",
       "title": "Michael Burry Says His Portfolio Was Discussed 'About the Time the Market Reversed Off Its Lows': He Is 'Temporarily Almost Entirely Long'",
       "source": "Benzinga",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T17:31:29+00:00",
-      "title": "The Rest of the Market Is Showing Signs of Life",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T17:06:00+00:00",
-      "title": "Chip Stocks Are Dead Until Anthropic Springs Back to Life",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T16:13:02+00:00",
-      "title": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle)",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T15:08:56+00:00",
-      "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T13:30:19+00:00",
-      "title": "The AI Rescue Is Already Here",
-      "source": "SeekingAlpha",
       "event_type": "news",
       "severity": 3,
       "sentiment": 0
