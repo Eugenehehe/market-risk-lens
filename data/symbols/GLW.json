@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T22:00:54.351413+00:00",
+  "generated_at": "2026-11-28T03:49:57.584648+00:00",
   "snapshot": {
     "symbol": "GLW",
     "price": 105.08,
     "change_pct": 4.828411811652034
   },
   "risk": {
-    "score": 76,
-    "label": "高風險：價格波動、事件或期權結構偏緊"
+    "score": 70,
+    "label": "中等風險：需要跨市場與期權牆確認"
   },
   "prepricing": {
     "score": 0,
@@ -23,10 +23,6 @@
     "error": "401 Client Error: Unauthorized for url: https://query2.finance.yahoo.com/v7/finance/options/GLW"
   },
   "price_series": [
-    {
-      "timestamp": "2026-10-27T14:38:18.359850+00:00",
-      "close": 125.69
-    },
     {
       "timestamp": "2026-10-27T19:38:37.546231+00:00",
       "close": 127.16
@@ -502,6 +498,10 @@
     {
       "timestamp": "2026-11-27T22:00:54.351413+00:00",
       "close": 105.08
+    },
+    {
+      "timestamp": "2026-11-28T03:49:57.584648+00:00",
+      "close": 105.08
     }
   ],
   "events": [
@@ -540,30 +540,6 @@
     {
       "timestamp": "2026-11-26T15:30:11+00:00",
       "title": "Corning (GLW) Down 23.6% Since Last Earnings Report: Can It Rebound?",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T17:21:03+00:00",
-      "title": "Corning Stocks Tumble 7.58% as AI Fiber Trade Unwinds",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T15:58:00+00:00",
-      "title": "WDAY Q3 Earnings Beat Estimates on Subscription Growth & Margin Gains",
-      "source": "Yahoo",
-      "event_type": "news",
-      "severity": 3,
-      "sentiment": 0
-    },
-    {
-      "timestamp": "2026-11-25T15:12:09+00:00",
-      "title": "Corning (GLW) Rides AI Optimism On A Narrative That Still Sees It Undervalued",
       "source": "Yahoo",
       "event_type": "news",
       "severity": 3,
